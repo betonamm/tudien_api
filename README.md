@@ -1,2 +1,3 @@
-# vnedict_api
-VNEDICT
+# Từ điển API
+
+Tất tần tật trong thư mục API đó!
