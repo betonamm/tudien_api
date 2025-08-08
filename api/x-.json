@@ -1,14 +1,5 @@
 [
   {
-    "word": "x-window",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-X-Window"
-      }
-    ]
-  },
-  {
     "word": "x-open consortium",
     "definitions": [
       {
@@ -23,6 +14,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-X-Open"
+      }
+    ]
+  },
+  {
+    "word": "x-window",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-X-Window"
       }
     ]
   }

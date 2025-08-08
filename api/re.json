@@ -1,91 +1,10 @@
 [
   {
-    "word": "ren acme thu ngắn",
+    "word": "ren hệ mét cho vít nhỏ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stub Acme thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít gỗ lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-lag screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren mỹ bước lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-National coarse thread"
-      }
-    ]
-  },
-  {
-    "word": "ren trụ ống tiêu chuẩn anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-BSP parallel thread"
-      }
-    ]
-  },
-  {
-    "word": "ren tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard thread"
-      }
-    ]
-  },
-  {
-    "word": "ren mòn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-worn-out thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống (dẫn khí)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas (fixture) thread\n-gas pipe thread\n-pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vặn kiểu edison (bóng đèn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Edison screw (ES)"
-      }
-    ]
-  },
-  {
-    "word": "ren đứt đoạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stripped thread"
-      }
-    ]
-  },
-  {
-    "word": "ren mài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ground thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-metric thread"
       }
     ]
   },
@@ -99,119 +18,20 @@
     ]
   },
   {
-    "word": "ren truyền động",
+    "word": "ren vuông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-motion thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flat thread\n-square threaded\n@Lĩnh vực: cơ khí & công trình\n-square thread"
       }
     ]
   },
   {
-    "word": "ren xe đạp hệ anh",
+    "word": "refominh nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cycle Engineers\" Institute thread\n-cycle Engineers thread"
-      }
-    ]
-  },
-  {
-    "word": "resocxylic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-resorufine"
-      }
-    ]
-  },
-  {
-    "word": "renin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-rennin"
-      }
-    ]
-  },
-  {
-    "word": "ren ống nối mềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hose coupling thread"
-      }
-    ]
-  },
-  {
-    "word": "regoson (nhóm đất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-regosol"
-      }
-    ]
-  },
-  {
-    "word": "ren vít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-screw\n-screw thread\n-thread of screw\n-worm thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-female thread\n-inside thread\n-internal screw thread\n-internal thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-left-hand thread"
-      }
-    ]
-  },
-  {
-    "word": "ren theo tiêu chuẩn hoa kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
-      }
-    ]
-  },
-  {
-    "word": "ren cái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-female thread"
-      }
-    ]
-  },
-  {
-    "word": "retinatphan (nhựa hóa đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-retinasphalt"
-      }
-    ]
-  },
-  {
-    "word": "ren quốc tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-international standard thread\n-System International thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thermal reforming"
       }
     ]
   },
@@ -225,56 +45,38 @@
     ]
   },
   {
-    "word": "renin dạ múi khế",
+    "word": "ren nhiều đầu mối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-rennet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-multiple thread\n-multiplex thread\n-multistart thread"
       }
     ]
   },
   {
-    "word": "ren (vít)",
+    "word": "ren bu lông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bolt thread"
       }
     ]
   },
   {
-    "word": "reni",
+    "word": "ren phẳng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-re (rhenium)\n-rhenic\n-rhenium\n-rhenium (Re)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flat thread\n-square thread"
       }
     ]
   },
   {
-    "word": "ren briggs",
+    "word": "ren ống trụ trong theo tiêu chuẩn mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Briggs thread"
-      }
-    ]
-  },
-  {
-    "word": "ren trái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-left handed thread\n-left-handed"
-      }
-    ]
-  },
-  {
-    "word": "readme",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-README"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard internal straight pipe thread"
       }
     ]
   },
@@ -288,61 +90,25 @@
     ]
   },
   {
-    "word": "ren vít hệ anh",
+    "word": "ren đui đèn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-BA screw thread\n-British Association screw thread\n-inch screw thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-electric lamp thread"
       }
     ]
   },
   {
-    "word": "ren tiêu chuẩn mỹ",
+    "word": "ren cắt bằng dao lược",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard thread\n-Sellers thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chased thread"
       }
     ]
   },
   {
-    "word": "ren một đầu nối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-single thread"
-      }
-    ]
-  },
-  {
-    "word": "ren hệ mét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-metric thread"
-      }
-    ]
-  },
-  {
-    "word": "ren cán nguội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cold-rolled thread"
-      }
-    ]
-  },
-  {
-    "word": "ren hệ mét cho vít nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-metric thread"
-      }
-    ]
-  },
-  {
-    "word": "ren thống nhất hóa",
+    "word": "ren theo tiêu chuẩn hoa kỳ",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -351,389 +117,59 @@
     ]
   },
   {
-    "word": "ren mỹ",
+    "word": "ren kép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Franklin Institute thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-double thread\n-double-threaded\n-two-start thread"
       }
     ]
   },
   {
-    "word": "ren tròn đầu",
+    "word": "ren phẳng (mâm cặp máy tiện)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-radiused thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scroll"
       }
     ]
   },
   {
-    "word": "ren ống brigg",
+    "word": "ren tam giá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Brigg\"s pipe thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-vee-thread"
       }
     ]
   },
   {
-    "word": "ren bsf",
+    "word": "reo mừng",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@reo mừng\n- Reo lên, tỏ sự vui mừng."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard fine screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren trong",
-    "definitions": [
+        "dict_definition": "@reo mừng\n-Shout from joy"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-famale thread\n-female screw\n-female thread\n-femall thread\n-inside screw\n-inside thread\n-internal screw\n-internal screw thread\n-thread\n@Lĩnh vực: cơ khí & công trình\n-internal thread"
-      }
-    ]
-  },
-  {
-    "word": "ren cán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rolled thread"
-      }
-    ]
-  },
-  {
-    "word": "ren phải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rh\n-right-hand\n-right-hand (ed) thread\n-right-hand thread\n-right-handed\n-right-handed thread"
-      }
-    ]
-  },
-  {
-    "word": "ren 4",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-quadruple thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít ba",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-BA screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren edison",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Edison screw"
-      }
-    ]
-  },
-  {
-    "word": "rel (đơn vị từ trở bằng một ampe vòng mỗi đường sức từ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rel"
-      }
-    ]
-  },
-  {
-    "word": "ren (bước) lẻ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fractional thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-class a-thread\n-external screw\n-male screw\n-male thread\n-outside thread\n-thread\n@Lĩnh vực: cơ khí & công trình\n-external thread"
-      }
-    ]
-  },
-  {
-    "word": "ren tiêu chuẩn anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-British Standard Whitworth thread\n-BSW thread\n-Whitworth screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren mỹ tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-National round thread"
-      }
-    ]
-  },
-  {
-    "word": "reng reng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng âm thanh như tiếng chuông rung liên tục thành hồi dài và nhanh\nVí dụ:\n- chuông xe đạp kêu reng reng"
-      }
-    ]
-  },
-  {
-    "word": "register control",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-register control"
-      }
-    ]
-  },
-  {
-    "word": "retigen (một dạng bitum)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-retigen"
-      }
-    ]
-  },
-  {
-    "word": "ren song song",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parallel thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít chặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-buttress screwthread\n-buttress thread"
-      }
-    ]
-  },
-  {
-    "word": "ren hệ anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-British Association (standard) thread\n-British standard Whitworth thread\n-English (standard) thread\n-inch thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít acme tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Acme standard screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống côn theo tiêu chuẩn hoa kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard taper pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren bước nhỏ hệ anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-British (standard) fine thread\n-British standard fine screw thread (BSF)\n-British Standard fine thread"
-      }
-    ]
-  },
-  {
-    "word": "ren hình thang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-acme thread\n-leaning thread\n-trapezoidal thread"
-      }
-    ]
-  },
-  {
-    "word": "reo vui",
-    "definitions": [
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@reo mừng\n- Shout from joy"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to shout, yell with joy"
+        "dict_definition": "shout from joy"
       }
     ]
   },
   {
-    "word": "ren đai ốc lồng vào nhau",
+    "word": "ren đai ốc theo tiêu chuẩn mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-unified screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren sắc hình chữ v",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sharp V thread"
-      }
-    ]
-  },
-  {
-    "word": "renacđit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-renardite"
-      }
-    ]
-  },
-  {
-    "word": "ren trục vít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-worm thread"
-      }
-    ]
-  },
-  {
-    "word": "reo vang",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sound, ring"
-      }
-    ]
-  },
-  {
-    "word": "ren không toàn phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-imperfect thread"
-      }
-    ]
-  },
-  {
-    "word": "ren dương phía dưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pin down"
-      }
-    ]
-  },
-  {
-    "word": "ren dụng cụ chính xác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-instrument makers\" thread"
-      }
-    ]
-  },
-  {
-    "word": "ren một đầu mối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-single thread\n-single-start"
-      }
-    ]
-  },
-  {
-    "word": "ren trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-parallel thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống tiêu chuẩn anh (ren) bsp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống côn theo tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-American standard taper pipe thread\n-Briggs standard pipe thread\n-National taper pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ba đầu mối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-three-start thread\n-triple thread"
-      }
-    ]
-  },
-  {
-    "word": "ren tự cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-self-tapping thread"
-      }
-    ]
-  },
-  {
-    "word": "ren bulông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bolt thread"
-      }
-    ]
-  },
-  {
-    "word": "ren đinh vít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas thread\n@Lĩnh vực: cơ khí & công trình\n-gas threads"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-United States standard dry seal thread"
       }
     ]
   },
@@ -747,38 +183,586 @@
     ]
   },
   {
-    "word": "ren gián đoạn",
+    "word": "ren theo tiêu chuẩn mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-interrupted thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
       }
     ]
   },
   {
-    "word": "ren đầu tù",
+    "word": "ren không toàn phần",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flattened thread\n-truncated thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-imperfect thread"
       }
     ]
   },
   {
-    "word": "ren trụ trong ống tiêu chuẩn anh",
+    "word": "reni",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-BSP parallel female thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-re (rhenium)\n-rhenic\n-rhenium\n-rhenium (Re)"
       }
     ]
   },
   {
-    "word": "ren vít tự cắt",
+    "word": "ren ống côn theo tiêu chuẩn mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tapping screw thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-American standard taper pipe thread\n-Briggs standard pipe thread\n-National taper pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren đỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-buttress thread"
+      }
+    ]
+  },
+  {
+    "word": "reo vang",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sound, ring"
+      }
+    ]
+  },
+  {
+    "word": "ren vít hình thang hệ mét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-metric trapezoidal screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren đồng hồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-watch-marking thread\n-watch-screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít dài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-longscrew"
+      }
+    ]
+  },
+  {
+    "word": "ren tiêu chuẩn hệ mét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-french standard thread"
+      }
+    ]
+  },
+  {
+    "word": "ren bước nhỏ hệ anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-British (standard) fine thread\n-British standard fine screw thread (BSF)\n-British Standard fine thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tiêu chuẩn mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard thread\n-Sellers thread"
+      }
+    ]
+  },
+  {
+    "word": "ren cái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-female thread"
+      }
+    ]
+  },
+  {
+    "word": "reo hò",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như hò reo\nVí dụ:\n- bọn trẻ reo hò ầm ĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@reo hò\n- Reo ầm lên, tỏ ý vui mừng hay thúc đẩy: Reo hò khuyến khích vận động viên."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@reo hò\n-Shout for joy, shout for encouragement\n=Reo hò cổ vũ vận động viên\n+There were shouts of encouragement for the athletes"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@reo hò\n- Shout for joy, shout for encouragement\n=Reo hò cổ vũ vận động viên+There were shouts of encouragement for the athletes"
+      }
+    ]
+  },
+  {
+    "word": "ren dụng cụ chính xác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-instrument makers\" thread"
+      }
+    ]
+  },
+  {
+    "word": "refominh xúc tác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-catalytic reforming"
+      }
+    ]
+  },
+  {
+    "word": "ren bulông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bolt thread"
+      }
+    ]
+  },
+  {
+    "word": "reo vui",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to shout, yell with joy"
+      }
+    ]
+  },
+  {
+    "word": "ren mài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ground thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-straight pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren trụ ống tiêu chuẩn anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-BSP parallel thread"
+      }
+    ]
+  },
+  {
+    "word": "ren bước nhỏ theo tiêu chuẩn mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-United States standard fine thread"
+      }
+    ]
+  },
+  {
+    "word": "ren cực nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-extra fine thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tiêu chuẩn quốc tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-international standard thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống côn hệ anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British (standard) pipe taper thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vặn kiểu edison (bóng đèn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Edison screw (ES)"
+      }
+    ]
+  },
+  {
+    "word": "ren ống nối mềm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hose coupling thread"
+      }
+    ]
+  },
+  {
+    "word": "readme",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-README"
+      }
+    ]
+  },
+  {
+    "word": "ren đinh vít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren dương phía dưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pin down"
+      }
+    ]
+  },
+  {
+    "word": "ren (bước) lẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fractional thread"
+      }
+    ]
+  },
+  {
+    "word": "ren bước nhỏ của mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American Society of Mechanics Engineers thread"
+      }
+    ]
+  },
+  {
+    "word": "ren mỹ tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-National round thread"
+      }
+    ]
+  },
+  {
+    "word": "ren mỹ bước lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-National coarse thread"
+      }
+    ]
+  },
+  {
+    "word": "ren kẹp chặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-binding thread\n-fastening thread\n-holding thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống trụ theo tiêu chuẩn mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-American Briggs standard straight thread\n-American standard straight pipe American standard taper pipe thread\n-National standard straight pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren hình thang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-acme thread\n-leaning thread\n-trapezoidal thread"
+      }
+    ]
+  },
+  {
+    "word": "reo rắc nhiễm khuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-septiferous"
+      }
+    ]
+  },
+  {
+    "word": "reo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kêu lên tỏ sự vui mừng, phấn khởi\nVí dụ:\n- đám trẻ reo lên ầm ĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phát ra chuỗi âm thanh liên tục, đều đều\nVí dụ:\n- chuông điện thoại reo \n - ấm nước đang reo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@reo\n- đg. 1 (thường nói reo lên). Kêu lên tỏ sự vui mừng, phấn khởi. Mừng quá reo lên. Reo lên sung sướng. 2 Phát ra chuỗi âm thanh liên tục, nghe vui tai. Thông reo. Chuông điện thoại reo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@reo\n*verb\n-to shout; to cheer"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@reo\n* verb\n- to shout; to cheer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to shout, cheer, ring (phone)"
+      }
+    ]
+  },
+  {
+    "word": "ren hai chiều",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-french coupling"
+      }
+    ]
+  },
+  {
+    "word": "ren tròn đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-radiused thread"
+      }
+    ]
+  },
+  {
+    "word": "ren thô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống theo tiêu chuẩn mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren rén",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như rén [nhưng ý mức độ nhiều hơn]\nVí dụ:\n- \"Mai sinh ren rén bước vào, Nửa mừng nửa sợ biết bao là tình.\" (NĐM)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ren rén\n- ph. Nh. Rén: Ren rén bước vào phòng người ốm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ren rén\n-xem rén (láy)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ren rén\n- xem rén (láy)"
+      }
+    ]
+  },
+  {
+    "word": "ren có ích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-effective thread\n-useful thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-wood screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren thống nhất hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống thẳng theo tiêu chuẩn hoa kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard straight pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren trái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-left handed thread\n-left-handed"
+      }
+    ]
+  },
+  {
+    "word": "ren cán nguội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cold-rolled thread"
+      }
+    ]
+  },
+  {
+    "word": "retinen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retinene"
+      }
+    ]
+  },
+  {
+    "word": "reforming nhiệt (lọc dầu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-thermal reforming"
+      }
+    ]
+  },
+  {
+    "word": "ren tiêu chuẩn anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-British Standard Whitworth thread\n-BSW thread\n-Whitworth screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren côn của bougie",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-taper seat"
+      }
+    ]
+  },
+  {
+    "word": "ren dập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pressed thread\n-stamped thread"
+      }
+    ]
+  },
+  {
+    "word": "ren xe đạp hệ anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cycle Engineers\" Institute thread\n-cycle Engineers thread"
+      }
+    ]
+  },
+  {
+    "word": "ren mòn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-worn-out thread"
+      }
+    ]
+  },
+  {
+    "word": "retinatphan (nhựa hóa đá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-retinasphalt"
+      }
+    ]
+  },
+  {
+    "word": "ren thuận, ren phải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-right-hand thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít theo tiêu chuẩn anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British association screw thread\n-British standard fine thread"
       }
     ]
   },
@@ -792,38 +776,335 @@
     ]
   },
   {
-    "word": "ren một mối",
+    "word": "ren làm việc nâng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-single (-start) thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-heavy duty thread"
       }
     ]
   },
   {
-    "word": "ren cán nóng",
+    "word": "ren bước cực ngắn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hot rolling thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-extra fine thread"
       }
     ]
   },
   {
-    "word": "ren đai ốc",
+    "word": "ren mỹ bước nhỏ thống nhất hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-screw thread\n-thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-UNF (Unified National Fine screw thread)"
       }
     ]
   },
   {
-    "word": "ren tiêu chuẩn hệ mét",
+    "word": "ren vít chặn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-french standard thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-buttress screwthread\n-buttress thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-edison screw\n-knuckle thread\n-round thread\n-rounded thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống theo tiêu chuẩn hoa kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard pipe threat"
+      }
+    ]
+  },
+  {
+    "word": "ren trụ trong ống tiêu chuẩn anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-BSP parallel female thread"
+      }
+    ]
+  },
+  {
+    "word": "ren một đầu nối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-single thread"
+      }
+    ]
+  },
+  {
+    "word": "ren thiếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít ba",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-BA screw thread"
+      }
+    ]
+  },
+  {
+    "word": "resocxylic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-resorufine"
+      }
+    ]
+  },
+  {
+    "word": "ren cán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rolled thread"
+      }
+    ]
+  },
+  {
+    "word": "reotan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rheotan"
+      }
+    ]
+  },
+  {
+    "word": "ren bước nhỏ tiêu chuẩn mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-US standard thread"
+      }
+    ]
+  },
+  {
+    "word": "ren trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-parallel thread"
+      }
+    ]
+  },
+  {
+    "word": "ren đứt đoạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stripped thread"
+      }
+    ]
+  },
+  {
+    "word": "ren dương phía trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pin up"
+      }
+    ]
+  },
+  {
+    "word": "ren định vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fixing thread"
+      }
+    ]
+  },
+  {
+    "word": "renin tinh thể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-crystalline rennin"
+      }
+    ]
+  },
+  {
+    "word": "ren quốc tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-international standard thread\n-System International thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống côn theo tiêu chuẩn hoa kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard taper pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tam giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
+      }
+    ]
+  },
+  {
+    "word": "ren 4",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-quadruple thread"
+      }
+    ]
+  },
+  {
+    "word": "renin dạ múi khế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-rennet"
+      }
+    ]
+  },
+  {
+    "word": "ren bù loong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thread"
+      }
+    ]
+  },
+  {
+    "word": "ren đơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-single thread"
+      }
+    ]
+  },
+  {
+    "word": "resit (nhựa fenol fomađehit giai đoạn c)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-resite"
+      }
+    ]
+  },
+  {
+    "word": "ren một đầu mối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-single thread\n-single-start"
+      }
+    ]
+  },
+  {
+    "word": "ren briggs",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Briggs thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-external screw thread\n-male thread\n-outside screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren song song",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parallel thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tự cắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-self-tapping thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống lắp điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electric threat"
+      }
+    ]
+  },
+  {
+    "word": "ren ba đầu mối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-three-start thread\n-triple thread"
+      }
+    ]
+  },
+  {
+    "word": "ren whitworth",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Whitworth screw thread\n-Whitworth thread"
+      }
+    ]
+  },
+  {
+    "word": "ren (vít)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thread"
+      }
+    ]
+  },
+  {
+    "word": "ren bước lớn (thô)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-coarse thread"
       }
     ]
   },
@@ -861,56 +1142,11 @@
     ]
   },
   {
-    "word": "ren chế tạo ô tô của mỹ",
+    "word": "ren truyền lực lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Association of Licensed Automobil Manufacturers thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống thẳng theo tiêu chuẩn hoa kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard straight pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren tự tarô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-self-tapping thread"
-      }
-    ]
-  },
-  {
-    "word": "ren acme",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Acme thread\n-trapezoidal thread"
-      }
-    ]
-  },
-  {
-    "word": "ren tiêu chuẩn hệ anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Lloyd Lloyd thread"
-      }
-    ]
-  },
-  {
-    "word": "ren đai ốc theo tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-United States standard dry seal thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-heavy duty thread"
       }
     ]
   },
@@ -924,395 +1160,38 @@
     ]
   },
   {
-    "word": "ren theo tiêu chuẩn quốc tế",
+    "word": "regoson (nhóm đất)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-regosol"
       }
     ]
   },
   {
-    "word": "ren làm việc nâng",
+    "word": "ren đầu tù",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-heavy duty thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flattened thread\n-truncated thread"
       }
     ]
   },
   {
-    "word": "ren phẳng",
+    "word": "refocminh xúc tác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flat thread\n-square thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-catforming"
       }
     ]
   },
   {
-    "word": "ren ống theo tiêu chuẩn hoa kỳ",
+    "word": "ren trục vít",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard pipe threat"
-      }
-    ]
-  },
-  {
-    "word": "ren ống theo tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ngoài (ren đực)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-external thread"
-      }
-    ]
-  },
-  {
-    "word": "ren chặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-buttress screwthread\n-leaning thread\n@Lĩnh vực: cơ khí & công trình\n-buttress thread"
-      }
-    ]
-  },
-  {
-    "word": "reo hò",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như hò reo\nVí dụ:\n- bọn trẻ reo hò ầm ĩ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@reo hò\n- Reo ầm lên, tỏ ý vui mừng hay thúc đẩy: Reo hò khuyến khích vận động viên."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@reo hò\n-Shout for joy, shout for encouragement\n=Reo hò cổ vũ vận động viên\n+There were shouts of encouragement for the athletes"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@reo hò\n- Shout for joy, shout for encouragement\n=Reo hò cổ vũ vận động viên+There were shouts of encouragement for the athletes"
-      }
-    ]
-  },
-  {
-    "word": "ren mũ nan hoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thread of nipple"
-      }
-    ]
-  },
-  {
-    "word": "ren ống ga",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren nhiều đầu mối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-multiple thread\n-multiplex thread\n-multistart thread"
-      }
-    ]
-  },
-  {
-    "word": "ren điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electric thread"
-      }
-    ]
-  },
-  {
-    "word": "ren dương phía trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pin up"
-      }
-    ]
-  },
-  {
-    "word": "ren vít bước nhỏ theo tiêu chuẩn anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard fine screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-straight pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sellers thread\n-USS screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren truyền lực lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-heavy duty thread"
-      }
-    ]
-  },
-  {
-    "word": "ren mỹ bước lớn thống nhất hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-UNC (Unified National Coarse screw thread)"
-      }
-    ]
-  },
-  {
-    "word": "rennin dạ múi khế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rennet"
-      }
-    ]
-  },
-  {
-    "word": "ren vuông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flat thread\n-square threaded\n@Lĩnh vực: cơ khí & công trình\n-square thread"
-      }
-    ]
-  },
-  {
-    "word": "resit (nhựa fenol fomađehit giai đoạn c)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-resite"
-      }
-    ]
-  },
-  {
-    "word": "ren bước nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fine thread\n-miniature thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít vo theo tiêu chuẩn anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard whitworth thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít theo tiêu chuẩn anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British association screw thread\n-British standard fine thread"
-      }
-    ]
-  },
-  {
-    "word": "ren mỹ bước nhỏ thống nhất hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-UNF (Unified National Fine screw thread)"
-      }
-    ]
-  },
-  {
-    "word": "ren vít gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-wood screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren toàn phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-complete thread\n-full thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vuông hai đầu mối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-double square thread"
-      }
-    ]
-  },
-  {
-    "word": "ren tam giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-vee-thread"
-      }
-    ]
-  },
-  {
-    "word": "reforming nhiệt (lọc dầu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-thermal reforming"
-      }
-    ]
-  },
-  {
-    "word": "reo rắc nhiễm khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-septiferous"
-      }
-    ]
-  },
-  {
-    "word": "ren rén",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như rén [nhưng ý mức độ nhiều hơn]\nVí dụ:\n- \"Mai sinh ren rén bước vào, Nửa mừng nửa sợ biết bao là tình.\" (NĐM)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ren rén\n- ph. Nh. Rén: Ren rén bước vào phòng người ốm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ren rén\n-xem rén (láy)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ren rén\n- xem rén (láy)"
-      }
-    ]
-  },
-  {
-    "word": "ren đỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-buttress thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren bước rất nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-lilliput thread"
-      }
-    ]
-  },
-  {
-    "word": "ren bước nhỏ theo tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-United States standard fine thread"
-      }
-    ]
-  },
-  {
-    "word": "ren hệ mét tiêu chuẩn iso",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-metric thread"
-      }
-    ]
-  },
-  {
-    "word": "reotan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rheotan"
-      }
-    ]
-  },
-  {
-    "word": "ren đồng hồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-watch-marking thread\n-watch-screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-external screw thread\n-male thread\n-outside screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren hai đầu mối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-double (start) thread\n-double thread\n-two-start thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-worm thread"
       }
     ]
   },
@@ -1326,92 +1205,74 @@
     ]
   },
   {
-    "word": "ren tròn",
+    "word": "ren côn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-edison screw\n-knuckle thread\n-round thread\n-rounded thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-taper thread"
       }
     ]
   },
   {
-    "word": "ren vít thống nhất hóa (mỹ)",
+    "word": "ren ngoài (ren đực)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Unified Screw Thread (UST)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-external thread"
       }
     ]
   },
   {
-    "word": "ren bước lớn (thô)",
+    "word": "ren ngoài",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-coarse thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-class a-thread\n-external screw\n-male screw\n-male thread\n-outside thread\n-thread\n@Lĩnh vực: cơ khí & công trình\n-external thread"
       }
     ]
   },
   {
-    "word": "ren hai chiều",
+    "word": "ren vuông hai đầu mối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-french coupling"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-double square thread"
       }
     ]
   },
   {
-    "word": "ren bước nhỏ tiêu chuẩn mỹ",
+    "word": "ren toàn phần",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-US standard thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-complete thread\n-full thread"
       }
     ]
   },
   {
-    "word": "ren phẳng (mâm cặp máy tiện)",
+    "word": "ren trong đai ốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scroll"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inner screw"
       }
     ]
   },
   {
-    "word": "resol (nhựa fenol fomađehit giai đoạn a)",
+    "word": "retigen (một dạng bitum)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-resol"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-retigen"
       }
     ]
   },
   {
-    "word": "refominh xúc tác",
+    "word": "ren edison",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-catalytic reforming"
-      }
-    ]
-  },
-  {
-    "word": "ren theo tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vi sai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-differential thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Edison screw"
       }
     ]
   },
@@ -1425,34 +1286,43 @@
     ]
   },
   {
-    "word": "ren vít dài",
+    "word": "ren trong",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-longscrew"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-famale thread\n-female screw\n-female thread\n-femall thread\n-inside screw\n-inside thread\n-internal screw\n-internal screw thread\n-thread\n@Lĩnh vực: cơ khí & công trình\n-internal thread"
       }
     ]
   },
   {
-    "word": "ren đơn",
+    "word": "ren mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-single thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Franklin Institute thread"
       }
     ]
   },
   {
-    "word": "ren vít thống nhất hóa",
+    "word": "ren vít gỗ lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-UST (Unified Screw thread)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-lag screw thread"
       }
     ]
   },
   {
-    "word": "ren có ích",
+    "word": "ren bước nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fine thread\n-miniature thread"
+      }
+    ]
+  },
+  {
+    "word": "ren hữu hiệu",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -1461,16 +1331,196 @@
     ]
   },
   {
-    "word": "ren kép",
+    "word": "ren hai đầu mối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-double thread\n-double-threaded\n-two-start thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-double (start) thread\n-double thread\n-two-start thread"
       }
     ]
   },
   {
-    "word": "ren thiếu",
+    "word": "ren mỹ bước nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-National fine thread"
+      }
+    ]
+  },
+  {
+    "word": "ren cán nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hot rolling thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít acme tiêu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Acme standard screw thread"
+      }
+    ]
+  },
+  {
+    "word": "retinelit (một loại nhựa hóa đá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-retinellite"
+      }
+    ]
+  },
+  {
+    "word": "ren chế tạo ô tô của mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Association of Licensed Automobil Manufacturers thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tiêu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard thread"
+      }
+    ]
+  },
+  {
+    "word": "ren điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electric thread"
+      }
+    ]
+  },
+  {
+    "word": "ren acme",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Acme thread\n-trapezoidal thread"
+      }
+    ]
+  },
+  {
+    "word": "ren sắc hình chữ v",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sharp V thread"
+      }
+    ]
+  },
+  {
+    "word": "renacđit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-renardite"
+      }
+    ]
+  },
+  {
+    "word": "ren mỹ bước lớn thống nhất hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-UNC (Unified National Coarse screw thread)"
+      }
+    ]
+  },
+  {
+    "word": "ren đai ốc kiểu lowenhertz",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Lowenhertz thread"
+      }
+    ]
+  },
+  {
+    "word": "ren một mối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-single (-start) thread"
+      }
+    ]
+  },
+  {
+    "word": "ren phải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rh\n-right-hand\n-right-hand (ed) thread\n-right-hand thread\n-right-handed\n-right-handed thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít hệ anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-BA screw thread\n-British Association screw thread\n-inch screw thread"
+      }
+    ]
+  },
+  {
+    "word": "resol (nhựa fenol fomađehit giai đoạn a)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-resol"
+      }
+    ]
+  },
+  {
+    "word": "ren vi sai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-differential thread"
+      }
+    ]
+  },
+  {
+    "word": "ren hệ mét tiêu chuẩn iso",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-metric thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas thread\n@Lĩnh vực: cơ khí & công trình\n-gas threads"
+      }
+    ]
+  },
+  {
+    "word": "ren ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-left-hand thread"
+      }
+    ]
+  },
+  {
+    "word": "ren theo tiêu chuẩn quốc tế",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -1479,11 +1529,272 @@
     ]
   },
   {
-    "word": "ren cực nhỏ",
+    "word": "ren ống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-extra fine thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống ga",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít tự cắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tapping screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống côn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-taper pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren gián đoạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-interrupted thread"
+      }
+    ]
+  },
+  {
+    "word": "register control",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-register control"
+      }
+    ]
+  },
+  {
+    "word": "rennin dạ múi khế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rennet"
+      }
+    ]
+  },
+  {
+    "word": "renin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-rennin"
+      }
+    ]
+  },
+  {
+    "word": "reng reng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng âm thanh như tiếng chuông rung liên tục thành hồi dài và nhanh\nVí dụ:\n- chuông xe đạp kêu reng reng"
+      }
+    ]
+  },
+  {
+    "word": "ren hệ anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-British Association (standard) thread\n-British standard Whitworth thread\n-English (standard) thread\n-inch thread"
+      }
+    ]
+  },
+  {
+    "word": "ren lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rethread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-screw\n-screw thread\n-thread of screw\n-worm thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-female thread\n-inside thread\n-internal screw thread\n-internal thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ăn khớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-mating thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít me",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-motion thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít tiêu chuẩn mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sellers thread\n-USS screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren acme thu ngắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stub Acme thread"
+      }
+    ]
+  },
+  {
+    "word": "ren bước rất nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-lilliput thread"
+      }
+    ]
+  },
+  {
+    "word": "ren chặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-buttress screwthread\n-leaning thread\n@Lĩnh vực: cơ khí & công trình\n-buttress thread"
+      }
+    ]
+  },
+  {
+    "word": "ren trục vít của hãng brown và sharpe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British and Sharpe worm thread"
+      }
+    ]
+  },
+  {
+    "word": "ren vít bước nhỏ theo tiêu chuẩn anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard fine screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tự tarô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-self-tapping thread"
+      }
+    ]
+  },
+  {
+    "word": "ren bsf",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard fine screw thread"
+      }
+    ]
+  },
+  {
+    "word": "ren truyền động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-motion thread"
+      }
+    ]
+  },
+  {
+    "word": "ren phay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-milled thread"
+      }
+    ]
+  },
+  {
+    "word": "ren whitworth theo tiêu chuẩn anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard Whitworth thread"
+      }
+    ]
+  },
+  {
+    "word": "ren ống (dẫn khí)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas (fixture) thread\n-gas pipe thread\n-pipe thread"
+      }
+    ]
+  },
+  {
+    "word": "ren tiêu chuẩn hệ anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Lloyd Lloyd thread"
+      }
+    ]
+  },
+  {
+    "word": "ren hệ mét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-metric thread"
+      }
+    ]
+  },
+  {
+    "word": "rel (đơn vị từ trở bằng một ampe vòng mỗi đường sức từ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rel"
       }
     ]
   },
@@ -1513,101 +1824,47 @@
     ]
   },
   {
-    "word": "refominh nhiệt",
+    "word": "ren vít vo theo tiêu chuẩn anh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thermal reforming"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard whitworth thread"
       }
     ]
   },
   {
-    "word": "ren dập",
+    "word": "ren vít thống nhất hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pressed thread\n-stamped thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-UST (Unified Screw thread)"
       }
     ]
   },
   {
-    "word": "ren phay",
+    "word": "ren ống brigg",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-milled thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Brigg\"s pipe thread"
       }
     ]
   },
   {
-    "word": "ren đui đèn",
+    "word": "ren vít thống nhất hóa (mỹ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-electric lamp thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Unified Screw Thread (UST)"
       }
     ]
   },
   {
-    "word": "ren ống lắp điện",
+    "word": "ren mũ nan hoa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electric threat"
-      }
-    ]
-  },
-  {
-    "word": "ren côn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-taper thread"
-      }
-    ]
-  },
-  {
-    "word": "ren côn của bougie",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-taper seat"
-      }
-    ]
-  },
-  {
-    "word": "ren tiêu chuẩn quốc tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-international standard thread"
-      }
-    ]
-  },
-  {
-    "word": "refocminh xúc tác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-catforming"
-      }
-    ]
-  },
-  {
-    "word": "ren bước cực ngắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-extra fine thread"
-      }
-    ]
-  },
-  {
-    "word": "retinen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retinene"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thread of nipple"
       }
     ]
   },
@@ -1621,286 +1878,29 @@
     ]
   },
   {
-    "word": "ren định vị",
+    "word": "ren đai ốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fixing thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-screw thread\n-thread"
       }
     ]
   },
   {
-    "word": "ren thuận, ren phải",
+    "word": "ren đai ốc lồng vào nhau",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-right-hand thread"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-unified screw thread"
       }
     ]
   },
   {
-    "word": "ren thô",
+    "word": "ren ống tiêu chuẩn anh (ren) bsp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống trụ theo tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-American Briggs standard straight thread\n-American standard straight pipe American standard taper pipe thread\n-National standard straight pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren đai ốc kiểu lowenhertz",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Lowenhertz thread"
-      }
-    ]
-  },
-  {
-    "word": "renin tinh thể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-crystalline rennin"
-      }
-    ]
-  },
-  {
-    "word": "ren vít hình thang hệ mét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-metric trapezoidal screw thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống trụ trong theo tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American standard internal straight pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "ren kẹp chặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-binding thread\n-fastening thread\n-holding thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống côn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-taper pipe thread"
-      }
-    ]
-  },
-  {
-    "word": "retinelit (một loại nhựa hóa đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-retinellite"
-      }
-    ]
-  },
-  {
-    "word": "ren whitworth theo tiêu chuẩn anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard Whitworth thread"
-      }
-    ]
-  },
-  {
-    "word": "ren mỹ bước nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-National fine thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ống côn hệ anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British (standard) pipe taper thread"
-      }
-    ]
-  },
-  {
-    "word": "ren vít me",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-motion thread"
-      }
-    ]
-  },
-  {
-    "word": "ren trong đai ốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inner screw"
-      }
-    ]
-  },
-  {
-    "word": "ren hữu hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-effective thread\n-useful thread"
-      }
-    ]
-  },
-  {
-    "word": "ren bu lông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bolt thread"
-      }
-    ]
-  },
-  {
-    "word": "ren whitworth",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Whitworth screw thread\n-Whitworth thread"
-      }
-    ]
-  },
-  {
-    "word": "ren ăn khớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-mating thread"
-      }
-    ]
-  },
-  {
-    "word": "ren trục vít của hãng brown và sharpe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British and Sharpe worm thread"
-      }
-    ]
-  },
-  {
-    "word": "ren lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rethread"
-      }
-    ]
-  },
-  {
-    "word": "ren cắt bằng dao lược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chased thread"
-      }
-    ]
-  },
-  {
-    "word": "ren bước nhỏ của mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-American Society of Mechanics Engineers thread"
-      }
-    ]
-  },
-  {
-    "word": "ren tam giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-angular thread\n-sharp thread\n-triangular thread\n-V-thread"
-      }
-    ]
-  },
-  {
-    "word": "ren bù loong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-thread"
-      }
-    ]
-  },
-  {
-    "word": "reo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kêu lên tỏ sự vui mừng, phấn khởi\nVí dụ:\n- đám trẻ reo lên ầm ĩ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phát ra chuỗi âm thanh liên tục, đều đều\nVí dụ:\n- chuông điện thoại reo \n - ấm nước đang reo"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@reo\n- đg. 1 (thường nói reo lên). Kêu lên tỏ sự vui mừng, phấn khởi. Mừng quá reo lên. Reo lên sung sướng. 2 Phát ra chuỗi âm thanh liên tục, nghe vui tai. Thông reo. Chuông điện thoại reo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@reo\n*verb\n-to shout; to cheer"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@reo\n* verb\n- to shout; to cheer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to shout, cheer, ring (phone)"
-      }
-    ]
-  },
-  {
-    "word": "reo mừng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@reo mừng\n- Reo lên, tỏ sự vui mừng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@reo mừng\n-Shout from joy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@reo mừng\n- Shout from joy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shout from joy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-British standard pipe thread"
       }
     ]
   }

@@ -1,28 +1,10 @@
 [
   {
-    "word": "osmonđit",
+    "word": "osmon",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-osmondite"
-      }
-    ]
-  },
-  {
-    "word": "ostracođa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ostracods"
-      }
-    ]
-  },
-  {
-    "word": "osein (protein xương)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ossein"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-osmole"
       }
     ]
   },
@@ -36,24 +18,6 @@
     ]
   },
   {
-    "word": "osf/motif",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OSF/MOTIF"
-      }
-    ]
-  },
-  {
-    "word": "osi/phân hệ truyền thông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-OSI/Communications Subsystem (OSI/CS)"
-      }
-    ]
-  },
-  {
     "word": "osanit",
     "definitions": [
       {
@@ -63,20 +27,11 @@
     ]
   },
   {
-    "word": "osf (open software foundation)",
+    "word": "osmonđit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OSF (Open Software Foundation"
-      }
-    ]
-  },
-  {
-    "word": "osimi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-osmium\n@Lĩnh vực: hóa học & vật liệu\n-osmium (Os)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-osmondite"
       }
     ]
   },
@@ -90,11 +45,20 @@
     ]
   },
   {
-    "word": "osmon",
+    "word": "osf (open software foundation)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-osmole"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OSF (Open Software Foundation"
+      }
+    ]
+  },
+  {
+    "word": "osi/phân hệ truyền thông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-OSI/Communications Subsystem (OSI/CS)"
       }
     ]
   },
@@ -104,6 +68,42 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-osmium (Os)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OS"
+      }
+    ]
+  },
+  {
+    "word": "osein (protein xương)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ossein"
+      }
+    ]
+  },
+  {
+    "word": "ostracođa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ostracods"
+      }
+    ]
+  },
+  {
+    "word": "osimi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-osmium\n@Lĩnh vực: hóa học & vật liệu\n-osmium (Os)"
+      }
+    ]
+  },
+  {
+    "word": "osf/motif",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OSF/MOTIF"
       }
     ]
   }

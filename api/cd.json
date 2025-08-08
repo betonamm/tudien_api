@@ -1,14 +1,5 @@
 [
   {
-    "word": "cdma",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-CDMA\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-CDMA"
-      }
-    ]
-  },
-  {
     "word": "cd",
     "definitions": [
       {
@@ -51,24 +42,6 @@
     ]
   },
   {
-    "word": "cdma đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Synchronous Code Division Multiple Access (S-CDMA)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Synchronous Code Division Multiple Access (S-CDMA)"
-      }
-    ]
-  },
-  {
-    "word": "cds",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cadmium yellow\n@Chuyên ngành kỹ thuật\n-cadmium yellow"
-      }
-    ]
-  },
-  {
     "word": "cdma băng rộng",
     "definitions": [
       {
@@ -96,11 +69,38 @@
     ]
   },
   {
+    "word": "cdma",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-CDMA\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-CDMA"
+      }
+    ]
+  },
+  {
     "word": "cd có chia nhiều phần",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-tranch cd"
+      }
+    ]
+  },
+  {
+    "word": "cds",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cadmium yellow\n@Chuyên ngành kỹ thuật\n-cadmium yellow"
+      }
+    ]
+  },
+  {
+    "word": "cdma đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Synchronous Code Division Multiple Access (S-CDMA)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Synchronous Code Division Multiple Access (S-CDMA)"
       }
     ]
   }

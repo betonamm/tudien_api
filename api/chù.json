@@ -1,863 +1,64 @@
 [
   {
-    "word": "chùm mặt cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of spheres\n-sphere bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of spheres\n-sphere bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm iôn có cường độ cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-high-intensity ion beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-high-intensity ion beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm định hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-directional beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-directional beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm phù hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-coherent beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-coherent beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm ánh sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-beam\n-light beam\n-light ray\n@Chuyên ngành kỹ thuật\n-beam\n-light beam\n-light ray"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia nửa công suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia mạch dịch vụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-service circuit group\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-service circuit group"
-      }
-    ]
-  },
-  {
-    "word": "chùm thu hồi bằng dù",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-parachute cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-parachute cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia hẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-atop beam\n-pencil beam\n-pencil of rays\n@Chuyên ngành kỹ thuật\n-atop beam\n-pencil beam\n-pencil of rays"
-      }
-    ]
-  },
-  {
-    "word": "chùm rađa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-radar beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-radar beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm đường thẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of lines (rays)\n-pencil of lines\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of lines (rays)\n-pencil of lines"
-      }
-    ]
-  },
-  {
-    "word": "chùn chụt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chụt [nhưng ý liên tiếp và mức độ nhiều]\nVí dụ:\n- mút chùn chụt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chùn chụt\n- trgt. Chụm hai môi lại thành tiếng: Hôn chùn chụt; Bú chùn chụt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùn chụt\n-Xem chụt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chùn chụt\n- Xem chụt"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-e beam (electron beam)\n-electron beam\n-electronic beam\n@Chuyên ngành kỹ thuật\n-e beam (electron beam)\n-electron beam\n-electronic beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia sáng dẫn hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-guide beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-guide beam"
-      }
-    ]
-  },
-  {
-    "word": "chùng chình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cố ý nấn ná, làm chậm chạp để kéo dài thời gian\nVí dụ:\n- nó chùng chình chưa muốn đi \n - \"(...) chàng đã cố ý làm chùng chình cho cuộc bầu cử kéo dài đến mười hai giờ (...)\" (Khái Hưng; 2)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùng chình [chùng chình]\n-loiter, linger, delay; dally"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "loiter, linger, delay, dally"
-      }
-    ]
-  },
-  {
-    "word": "chùm quađric",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of quadric\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of quadric"
-      }
-    ]
-  },
-  {
-    "word": "chùm sóng cực ngắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm đồng trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil\n-coaxial pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil\n-coaxial pencil"
-      }
-    ]
-  },
-  {
-    "word": "chùm chuẩn trực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm đọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-read beam\n@Lĩnh vực: điện tử & viễn thông\n-reading beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-read beam\n@Lĩnh vực: điện tử & viễn thông\n-reading beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm phân kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divergent bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divergent bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm quay (ăng ten sóng ngắn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rotary beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rotary beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm đường ray liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-continuous rail strings\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-continuous rail strings"
-      }
-    ]
-  },
-  {
-    "word": "chùi nhà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to clean houses"
-      }
-    ]
-  },
-  {
-    "word": "chùm vật đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-spray\n-spray casting\n-spray of castings\n@Chuyên ngành kỹ thuật\n-spray\n-spray casting\n-spray of castings"
-      }
-    ]
-  },
-  {
-    "word": "chùm chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reference beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reference beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia năng lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-power beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-power beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tensơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rensor bundle\n-tensor bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rensor bundle\n-tensor bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia hình quạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia laze",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser beam\n@Lĩnh vực: toán & tin\n-laser beam communication\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser beam\n@Lĩnh vực: toán & tin\n-laser beam communication"
-      }
-    ]
-  },
-  {
-    "word": "chùm sáng phân kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-divergent beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-divergent beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia electron",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-e beam (electron beam)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-e beam (electron beam)"
-      }
-    ]
-  },
-  {
-    "word": "chùm đô thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-agglomeration\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-agglomeration"
-      }
-    ]
-  },
-  {
-    "word": "chùm (sáng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm đo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm sáng chụm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spotlight\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spotlight"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia vô tuyến điện chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main radio-relay system\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main radio-relay system"
-      }
-    ]
-  },
-  {
-    "word": "chùm tiếp tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tangent bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tangent bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia ánh sáng laze",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser output beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser output beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm quả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-grape"
-      }
-    ]
-  },
-  {
-    "word": "chùm phẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plane beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plane beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm (hoa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-raceme\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-raceme"
-      }
-    ]
-  },
-  {
-    "word": "chùa chiền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chùa [nói khái quát]\nVí dụ:\n- tu bổ chùa chiền"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùa chiền\n-Pagodas (nói khái quát)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chùa chiền\n- Pagodas (nói khái quát)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(Buddhist) temple, pagoda"
-      }
-    ]
-  },
-  {
-    "word": "chùm đường tầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam"
-      }
-    ]
-  },
-  {
-    "word": "chùn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rụt lại vì sợ, vì ngại, không dám tiếp tục hành động nữa\nVí dụ:\n- nó đã chùn bước trước những khó khăn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chùn\n- đgt. Rụt lại, không dám tiến tiếp, làm tiếp: chùn tay lại  quyết không chùn bước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùn\n*verb\n-To recoil, to shrink, to flinch from\n=không chùn bước trước khó khăn\n+not to shrink (flinch) from difficulties"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chùn\n* verb\n- To recoil, to shrink, to flinch from\n=không chùn bước trước khó khăn+not to shrink (flinch) from difficulties"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to slow down, stop"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia phân kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-divergent beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-divergent beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm hẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-narrow beam\n-narrow bean\n-narrow-beam\n@Chuyên ngành kỹ thuật\n-narrow beam\n-narrow bean\n-narrow-beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-wave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-wave beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nest tube\n-tube bunch\n-tube bunch (bundle)\n-tube bundle\n@Chuyên ngành kỹ thuật\n-nest tube\n-tube bunch\n-tube bunch (bundle)\n-tube bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pulse train\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pulse train"
-      }
-    ]
-  },
-  {
-    "word": "chùm thấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-percolation cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-percolation cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia sánh hẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-beampencil of light\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-beampencil of light"
-      }
-    ]
-  },
-  {
-    "word": "chùm cơ sở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-base cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-base cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm đơn sắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-monochromatic beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-monochromatic beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm đã điều tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm cuối cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm đã điều biến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-modulated beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-modulated beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm ống bố trí so le",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-staggered tube bank\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-staggered tube bank"
-      }
-    ]
-  },
-  {
-    "word": "chùm đa sắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-polychromatic beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-polychromatic beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm được định hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm laze quét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-scanning laser beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-scanning laser beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm nho chín mọng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "A bunch of ripe and succulent grapes"
-      }
-    ]
-  },
-  {
-    "word": "chùm ngân hà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia bội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multiple beams\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multiple beams"
-      }
-    ]
-  },
-  {
-    "word": "chùm electron",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron beam (E beam)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron beam (E beam)"
-      }
-    ]
-  },
-  {
-    "word": "chùm sơ cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-primary beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-primary beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm sóng liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia giao thoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interfering beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interfering beam"
-      }
-    ]
-  },
-  {
-    "word": "chùa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "công trình được xây cất lên, làm nơi thờ Phật, thường có nhà sư ở\nVí dụ:\n- tiếng chuông chùa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thuộc về nhà chùa, của chung, không do mình làm ra nên không biết tiếc, không có trách nhiệm\nVí dụ:\n- tiền chùa \n - điện thoại chùa \n - của chùa nên không xót"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chùa\n- I d. Công trình được xây cất lên, làm nơi thờ Phật. Cảnh chùa. Tiếng chuông chùa.\n- II t. (kng.). Thuộc về nhà , của chung, không phải của mình, cho mình (nên không biết tiếc, không có trách nhiệm). Tiền chùa. Của chùa. Ăn cơm nhà, làm việc chùa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùa\n*noun\n-Pagoda\n=chùa nát bụt vàng, chùa rách bụt vàng\n+a golden Buddha in a dilapidated pagoda\n=vắng như chùa bà Đanh\n+unpopulated like the desert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pagoda\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pagoda"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chùa\n* noun\n- Pagoda\n=chùa nát bụt vàng, chùa rách bụt vàng+a golden Buddha in a dilapidated pagoda\n=vắng như chùa bà Đanh+unpopulated like the desert"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pagoda, Buddhist temple"
-      }
-    ]
-  },
-  {
-    "word": "chùm quadric",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of quadrics\n-pencil of quadrics\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of quadrics\n-pencil of quadrics"
-      }
-    ]
-  },
-  {
-    "word": "chùy pittông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-piston cup\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-piston cup"
-      }
-    ]
-  },
-  {
-    "word": "chùm sáng mảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-beampencil of light\n-pencil of light\n-pencil of rays\n@Chuyên ngành kỹ thuật\n-beampencil of light\n-pencil of light\n-pencil of rays"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia chuẩn trực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm (hạt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam"
-      }
-    ]
-  },
-  {
-    "word": "chùy",
+    "word": "chù lá phù lá",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chùy\n- chuỳ dt. Thứ võ khí bằng kim loại đầu tròn, có cán: Một tay mang một chuỳ sắt (NgHTưởng)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùy\n*noun\n-Club\n-Whack, thwack, thump, heavy thrashing\n@Chuyên ngành kinh tế\n-tamper"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chùy\n* noun\n- Club\n-Whack, thwack, thump, heavy thrashing"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "club-whack, thwack, thump, heavy thrashing"
+        "dict_definition": "@Chù Lá Phù Lá\n- Tên gọi một nhóm nhỏ của dân tộc Phù Lá"
       }
     ]
   },
   {
-    "word": "chù",
+    "word": "chùm iôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ion cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ion cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùm đứt gãy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fault bunder\n@Lĩnh vực: toán & tin\n-fault bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fault bunder\n@Lĩnh vực: toán & tin\n-fault bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia ăng ten phát thanh (phát xạ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter antenna beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter antenna beam"
+      }
+    ]
+  },
+  {
+    "word": "chùi miệng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wipe one’s mouth"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia chính được mô hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped main beam"
+      }
+    ]
+  },
+  {
+    "word": "chùy bác lãng sa",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chù\n- (thị trấn) h. Lục Ngạn, t. Bắc Giang"
-      }
-    ]
-  },
-  {
-    "word": "chùi, xóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scrub\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scrub"
-      }
-    ]
-  },
-  {
-    "word": "chùm dù",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùi rửa nhà cửa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to clean houses"
-      }
-    ]
-  },
-  {
-    "word": "chùm đơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simple bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simple bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùn chùn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chun chủn\nVí dụ:\n- chân ngắn chùn chùn \n - gian nhà thấp chùn chùn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùn chùn [chùn chùn]\n-very short (ngắn chùn chùn)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very short"
-      }
-    ]
-  },
-  {
-    "word": "chùm sao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cluster\n-star clusters\n-stellar\n@Chuyên ngành kỹ thuật\n-cluster\n-star clusters\n-stellar"
-      }
-    ]
-  },
-  {
-    "word": "chùa hương tích",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chùa Hương Tích\n- Một quần thể kiến trúc chùa đền-am-động v.v.., kết hợp với cnh quan thiên nhiên: núi non, suối nước, thung mỏ v.v... là một thắng cảnh nổi tiếng ở Việt Nam, nằm trong dãy núi Hưng Sơn ở địa phận xã Hương Sơn, huyện Mỹ Đức, tỉnh Hà Tây. Những công trình kiến trúc chủ yếu bao gồm: đền Trình (Ngũ Nhạc) thờ Hùng Lang (thời Vua Hùng); chùa Trò (Thiên Trù); động-chùa Hương Tích (chùa trong). Trong quần thể còn có: chùa Giải Oan, Am Phật Tích, động Tuyết Kinh, đền Trấn Song, động-chùa Tuyết Sơn v.v.. Hội chùa Hương hàng năm vào mùa xuân mở vào ngày 15 tháng hai (âm lịch) một trong những lễ hội lớn nhất ở Việt Nam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia nắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sun beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sun beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm dây dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bunched conductor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bunched conductor"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia sáng lấp loé",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flared beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flared beam"
+        "dict_definition": "@Chùy Bác Lãng sa\n- Xem cắp dùi Bác Lãng"
       }
     ]
   },
@@ -871,38 +72,56 @@
     ]
   },
   {
-    "word": "chùm tia máy phát",
+    "word": "chùi rửa nhà cửa",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter beam"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to clean houses"
       }
     ]
   },
   {
-    "word": "chùm giữ",
+    "word": "chùm thấm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-holding beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-holding beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-percolation cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-percolation cluster"
       }
     ]
   },
   {
-    "word": "chùm tia mảnh",
+    "word": "chùm phù hợp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil beam\n-pencil of rays\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil beam\n-pencil of rays"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-coherent beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-coherent beam"
       }
     ]
   },
   {
-    "word": "chùm tia sáng hẹp",
+    "word": "chùm (sáng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pencil of rays\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pencil of rays"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm thiên hà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùm chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reference beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reference beam"
       }
     ]
   },
@@ -912,33 +131,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-beam of particles\n-bunch\n-particle beam\n@Chuyên ngành kỹ thuật\n-beam of particles\n-bunch\n-particle beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm (tín hiệu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia elip",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-elliptical beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-elliptical beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm iôn hội tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Focused Ion Beam (FIB)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Focused Ion Beam (FIB)"
       }
     ]
   },
@@ -956,6 +148,60 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "cluster of flowers"
+      }
+    ]
+  },
+  {
+    "word": "chùm gửi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tầm gửi"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia quét dò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanned beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanned beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia có đỉnh trệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tạo vết quét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scanning spot beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scanning spot beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm nho chín mọng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "A bunch of ripe and succulent grapes"
+      }
+    ]
+  },
+  {
+    "word": "chùm ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nest tube\n-tube bunch\n-tube bunch (bundle)\n-tube bundle\n@Chuyên ngành kỹ thuật\n-nest tube\n-tube bunch\n-tube bunch (bundle)\n-tube bundle"
       }
     ]
   },
@@ -985,65 +231,119 @@
     ]
   },
   {
-    "word": "chùm được tạo dạng",
+    "word": "chùm tia mảnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil beam\n-pencil of rays\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil beam\n-pencil of rays"
       }
     ]
   },
   {
-    "word": "chùm vòng tròn",
+    "word": "chùm bắn ra",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of circles\n-pencil of circumferences\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of circles\n-pencil of circumferences"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ejected beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ejected beam"
       }
     ]
   },
   {
-    "word": "chùm năng lượng cao",
+    "word": "chùm tia elip",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high-energy beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high-energy beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-elliptical beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-elliptical beam"
       }
     ]
   },
   {
-    "word": "chùm liên tục",
+    "word": "chùm mạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous beam\n-continuous casting\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous beam\n-continuous casting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bundle"
       }
     ]
   },
   {
-    "word": "chùm tia tới",
+    "word": "chùm đường ray liên tục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incoming beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incoming beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-continuous rail strings\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-continuous rail strings"
       }
     ]
   },
   {
-    "word": "chùm nho",
+    "word": "chùm dây dẫn điện (riêng cho một thiết bị)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bunch of grapes\n-grape"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wiring harness\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wiring harness"
       }
     ]
   },
   {
-    "word": "chùm thiên hà",
+    "word": "chùm tia",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of rays\n@Lĩnh vực: điện lạnh\n-sheaf of rays\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of rays\n@Lĩnh vực: điện lạnh\n-sheaf of rays"
+      }
+    ]
+  },
+  {
+    "word": "chùm quét mành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-raster-scanned beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-raster-scanned beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm ống vỏ (của bình ngưng ống vỏ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia mạch dịch vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-service circuit group\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-service circuit group"
+      }
+    ]
+  },
+  {
+    "word": "chùm đơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simple bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simple bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm truyền xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm (tia) nguyên tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atomic beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atomic beam"
       }
     ]
   },
@@ -1061,38 +361,47 @@
     ]
   },
   {
-    "word": "chùm (tia) bàng trục",
+    "word": "chùm iôn có cường độ cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paraxial pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paraxial pencil"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-high-intensity ion beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-high-intensity ion beam"
       }
     ]
   },
   {
-    "word": "chùm liên hợp",
+    "word": "chùm plasma",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-conjugate beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-conjugate beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plasma beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plasma beam"
       }
     ]
   },
   {
-    "word": "chùm tia bán công suất",
+    "word": "chùm ánh sáng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-beam\n-light beam\n-light ray\n@Chuyên ngành kỹ thuật\n-beam\n-light beam\n-light ray"
       }
     ]
   },
   {
-    "word": "chùi nước mắt",
+    "word": "chùm lệnh tiêu",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wipe one’s tears"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defocused beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defocused beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm lỗi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error burst\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error burst"
       }
     ]
   },
@@ -1106,20 +415,758 @@
     ]
   },
   {
-    "word": "chùm tạo vết quét",
+    "word": "chùm đường thẳng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scanning spot beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scanning spot beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of lines (rays)\n-pencil of lines\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of lines (rays)\n-pencil of lines"
       }
     ]
   },
   {
-    "word": "chùi miệng",
+    "word": "chùa hang",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chùa Hang\n- Thắng cảnh ở xã Phú Lão, huyện Lạc Thuỷ, tỉnh Hoà Bình, bên sườn phía tây dãy núi Thiên Trù. Núi Chùa Hang chạy dài hơn 2km gồm: Núi Khoang, Núi Đền, Núi Diêm, hang Văn Hoá, hang Chu, hang Kháng Chiến, hang mai và hang âm Phủ, nhiều nhũ đá hình thể kì dị (quả đu đủ, đầu tráng sĩ, bầu sữa mẹ, cô tiên, đàn ông ấp trứng v.v..). Đặc biệt trong một động có \"Vịnh Hạ Long\" với hai con rùa đá, một con đang bơi, một con đang leo lên bờ. Tìm thấy vết tích đời sống của con người thời văn hoá Hoà Bình cách đây khoảng 1 vạn năm\n- (thị trấn) h. Đồng Hỷ, t. Thái Nguyên"
+      }
+    ]
+  },
+  {
+    "word": "chùm ruột",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây ăn quả cùng họ với thầu dầu, lá mềm và mỏng, mọc thành hai dãy trên cành, quả nhỏ và có khía, mọc thành chùm, khi chín màu vàng nhạt, vị chua ngọt"
+      }
+    ]
+  },
+  {
+    "word": "chùm quay (ăng ten sóng ngắn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rotary beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rotary beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia có dạng mạch điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sector shaped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sector shaped beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia ánh sáng laze",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser output beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser output beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm hình cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-globular cluster\n@Lĩnh vực: toán & tin\n-pencil of spheres\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-globular cluster\n@Lĩnh vực: toán & tin\n-pencil of spheres"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia ăng ten",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-antenna beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-antenna beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia con của mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-circuit subgroup\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-circuit subgroup"
+      }
+    ]
+  },
+  {
+    "word": "chùm điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electron beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electron beam"
+      }
+    ]
+  },
+  {
+    "word": "chùi rửa",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to wipe one’s mouth"
+        "dict_definition": "to wipe clean, polish"
+      }
+    ]
+  },
+  {
+    "word": "chùi nhà",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to clean houses"
+      }
+    ]
+  },
+  {
+    "word": "chùm quađric",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of quadric\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of quadric"
+      }
+    ]
+  },
+  {
+    "word": "chùm xơ vòng lông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-tuft\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-tuft"
+      }
+    ]
+  },
+  {
+    "word": "chùm thu hồi bằng dù",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-parachute cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-parachute cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chùy\n- chuỳ dt. Thứ võ khí bằng kim loại đầu tròn, có cán: Một tay mang một chuỳ sắt (NgHTưởng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùy\n*noun\n-Club\n-Whack, thwack, thump, heavy thrashing\n@Chuyên ngành kinh tế\n-tamper"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chùy\n* noun\n- Club\n-Whack, thwack, thump, heavy thrashing"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "club-whack, thwack, thump, heavy thrashing"
+      }
+    ]
+  },
+  {
+    "word": "chùm (tín hiệu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đồng tâm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-concentric pencils\n@Lĩnh vực: điện tử & viễn thông\n-homocentric beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-concentric pencils\n@Lĩnh vực: điện tử & viễn thông\n-homocentric beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia catốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cathode-ray pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cathode-ray pencil"
+      }
+    ]
+  },
+  {
+    "word": "chùm tensơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rensor bundle\n-tensor bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rensor bundle\n-tensor bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm laze liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous load\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous load"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia năng lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-power beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-power beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm phân kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divergent bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divergent bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm quét vectơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-vector-scanned beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-vector-scanned beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm quadric",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of quadrics\n-pencil of quadrics\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of quadrics\n-pencil of quadrics"
+      }
+    ]
+  },
+  {
+    "word": "chùm ma trận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of matrices\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of matrices"
+      }
+    ]
+  },
+  {
+    "word": "chùm đã điều tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm phân kì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-divergent bunder\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-divergent bunder"
+      }
+    ]
+  },
+  {
+    "word": "chùm vòng tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of circles\n-pencil of circumferences\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of circles\n-pencil of circumferences"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia vô tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiobeam\n@Lĩnh vực: điện tử & viễn thông\n-radio-relay link\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiobeam\n@Lĩnh vực: điện tử & viễn thông\n-radio-relay link"
+      }
+    ]
+  },
+  {
+    "word": "chùa hương tích",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chùa Hương Tích\n- Một quần thể kiến trúc chùa đền-am-động v.v.., kết hợp với cnh quan thiên nhiên: núi non, suối nước, thung mỏ v.v... là một thắng cảnh nổi tiếng ở Việt Nam, nằm trong dãy núi Hưng Sơn ở địa phận xã Hương Sơn, huyện Mỹ Đức, tỉnh Hà Tây. Những công trình kiến trúc chủ yếu bao gồm: đền Trình (Ngũ Nhạc) thờ Hùng Lang (thời Vua Hùng); chùa Trò (Thiên Trù); động-chùa Hương Tích (chùa trong). Trong quần thể còn có: chùa Giải Oan, Am Phật Tích, động Tuyết Kinh, đền Trấn Song, động-chùa Tuyết Sơn v.v.. Hội chùa Hương hàng năm vào mùa xuân mở vào ngày 15 tháng hai (âm lịch) một trong những lễ hội lớn nhất ở Việt Nam"
+      }
+    ]
+  },
+  {
+    "word": "chùi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chà mạnh vào một vật mềm để làm cho sạch vết bẩn\nVí dụ:\n- chùi chân vào thảm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lau\nVí dụ:\n- chùi nước mắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chùi\n- đgt. Lau cho sạch vết bẩn hoặc bụi bậm: Chùi tay vào khăn mặt; Chùi bụi trên mặt bàn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùi\n*verb\n-To rub off, to scrape off\n=chùi chân vào bãi cỏ\n+to scrape one\"s feet clean on the grass\n=chùi vết bẩn\n+to rub off a smear\n-To wipe, to mop\n=chùi nước mắt\n+to mop one\"s tears\n@Chuyên ngành kỹ thuật\n-efface\n-rub out\n-scrub\n-wipe\n@Chuyên ngành kỹ thuật\n-efface\n-rub out\n-scrub\n-wipe"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chùi\n* verb\n- To rub off, to scrape off\n=chùi chân vào bãi cỏ+to scrape one's feet clean on the grass\n=chùi vết bẩn+to rub off a smear\n-To wipe, to mop\n=chùi nước mắt+to mop one's tears"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wipe"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia x",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-X-ray beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-X-ray beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tiếp tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tangent bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tangent bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm phản xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reflected beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reflected beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm vật đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-spray\n-spray casting\n-spray of castings\n@Chuyên ngành kỹ thuật\n-spray\n-spray casting\n-spray of castings"
+      }
+    ]
+  },
+  {
+    "word": "chùm cơ sở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-base cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-base cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùm conic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of conics\n-pencil of conic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of conics\n-pencil of conic"
+      }
+    ]
+  },
+  {
+    "word": "chùm liên hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-conjugate beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-conjugate beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đường tầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia sánh hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-beampencil of light\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-beampencil of light"
+      }
+    ]
+  },
+  {
+    "word": "chùm sáng chụm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spotlight\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spotlight"
+      }
+    ]
+  },
+  {
+    "word": "chùn tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùn tay [chùn tay]\n-pull back"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pull back"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia vào góc lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-re-entrant beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-re-entrant beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm hệ số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of coefficients\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of coefficients"
+      }
+    ]
+  },
+  {
+    "word": "chùm định hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-directional beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-directional beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm rađa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-radar beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-radar beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm quét (ăng ten)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fanning beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fanning beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm sao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cluster\n-star clusters\n-stellar\n@Chuyên ngành kỹ thuật\n-cluster\n-star clusters\n-stellar"
+      }
+    ]
+  },
+  {
+    "word": "chùm được tạo dạng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm bắn phá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bombarding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bombarding"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia bán công suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm nguyên tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atom cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atom cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia có dạng đối xứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-symmetric shaped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-symmetric shaped beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm sáng phân kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-divergent beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-divergent beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm sóng liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm ống (của bình ngưng ống vỏ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm phân tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-molecular beam\n@Lĩnh vực: điện tử & viễn thông\n-molecule beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-molecular beam\n@Lĩnh vực: điện tử & viễn thông\n-molecule beam"
+      }
+    ]
+  },
+  {
+    "word": "chùn bước",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to slow one’s pace"
+      }
+    ]
+  },
+  {
+    "word": "chùm nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùy pittông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-piston cup\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-piston cup"
+      }
+    ]
+  },
+  {
+    "word": "chùm (tia) bàng trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paraxial pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paraxial pencil"
+      }
+    ]
+  },
+  {
+    "word": "chùm cuối cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùm các dạng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of forms\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of forms"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia vô tuyến điện chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main radio-relay system\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main radio-relay system"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia tới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incoming beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incoming beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm laze cw",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm (hoa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-raceme\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-raceme"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia phát đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-outgoing group\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-outgoing group"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia chuẩn trực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous casting\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous casting"
+      }
+    ]
+  },
+  {
+    "word": "chùm đô thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-agglomeration\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-agglomeration"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia định hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đuôi hải ly (ở rađa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Beattie and Bridgman equation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Beattie and Bridgman equation"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia nắng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sun beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sun beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm (hẹp, nhỏ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil"
+      }
+    ]
+  },
+  {
+    "word": "chùm ống bố trí so le",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-staggered tube bank\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-staggered tube bank"
+      }
+    ]
+  },
+  {
+    "word": "chùi, xóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scrub\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scrub"
+      }
+    ]
+  },
+  {
+    "word": "chùn chũn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chun chủn\nVí dụ:\n- cái đuôi ngắn chùn chũn"
       }
     ]
   },
@@ -1129,6 +1176,479 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shape beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shape beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cluster of flame\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cluster of flame"
+      }
+    ]
+  },
+  {
+    "word": "chùm được định hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm điện tử quét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanning electron beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanning electron beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm quả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-grape"
+      }
+    ]
+  },
+  {
+    "word": "chùn chụt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chụt [nhưng ý liên tiếp và mức độ nhiều]\nVí dụ:\n- mút chùn chụt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chùn chụt\n- trgt. Chụm hai môi lại thành tiếng: Hôn chùn chụt; Bú chùn chụt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùn chụt\n-Xem chụt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chùn chụt\n- Xem chụt"
+      }
+    ]
+  },
+  {
+    "word": "chùm (tia) sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-beam of light\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-beam of light"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia hình quạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm chuẩn trực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-collimated beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm pha vô tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam\n-radio beacon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam\n-radio beacon"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-e beam (electron beam)\n-electron beam\n-electronic beam\n@Chuyên ngành kỹ thuật\n-e beam (electron beam)\n-electron beam\n-electronic beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia vi ba",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm vi ba (chuyển tiếp)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm iôn đã điều tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused ion beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused ion beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia đường cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-route group\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-route group"
+      }
+    ]
+  },
+  {
+    "word": "chùm dẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-flat pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-flat pencil"
+      }
+    ]
+  },
+  {
+    "word": "chùm (hạt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia laze",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser beam\n@Lĩnh vực: toán & tin\n-laser beam communication\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser beam\n@Lĩnh vực: toán & tin\n-laser beam communication"
+      }
+    ]
+  },
+  {
+    "word": "chùm nhum",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xúm xít lại thành nhóm\nVí dụ:\n- chủ khách ngồi chùm nhum trên sập \n - bọn trẻ đứng chùm nhum ở góc sân"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia electron có năng lượng cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high energy electron beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high energy electron beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia chính của ăng ten",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main beam (of an antenna)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main beam (of an antenna)"
+      }
+    ]
+  },
+  {
+    "word": "chùm liên lạc báo hiệu (no.6)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-signaling link set (No.6)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-signaling link set (No.6)"
+      }
+    ]
+  },
+  {
+    "word": "chùm trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia vô tuyến truyền hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-television radio link\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-television radio link"
+      }
+    ]
+  },
+  {
+    "word": "chùm nhiễu xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diffracted beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diffracted beam"
+      }
+    ]
+  },
+  {
+    "word": "chù",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chù\n- (thị trấn) h. Lục Ngạn, t. Bắc Giang"
+      }
+    ]
+  },
+  {
+    "word": "chùm lò xo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cluster of springs\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cluster of springs"
+      }
+    ]
+  },
+  {
+    "word": "chùm đường ray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bundle of rails\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bundle of rails"
+      }
+    ]
+  },
+  {
+    "word": "chùm tín hiệu màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-color burst\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-color burst"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia sáng hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pencil of rays\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pencil of rays"
+      }
+    ]
+  },
+  {
+    "word": "chùa chiền",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chùa [nói khái quát]\nVí dụ:\n- tu bổ chùa chiền"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùa chiền\n-Pagodas (nói khái quát)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chùa chiền\n- Pagodas (nói khái quát)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(Buddhist) temple, pagoda"
+      }
+    ]
+  },
+  {
+    "word": "chùm hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-narrow beam\n-narrow bean\n-narrow-beam\n@Chuyên ngành kỹ thuật\n-narrow beam\n-narrow bean\n-narrow-beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia chính (điện tử)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-main beam"
+      }
+    ]
+  },
+  {
+    "word": "chùng chình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cố ý nấn ná, làm chậm chạp để kéo dài thời gian\nVí dụ:\n- nó chùng chình chưa muốn đi \n - \"(...) chàng đã cố ý làm chùng chình cho cuộc bầu cử kéo dài đến mười hai giờ (...)\" (Khái Hưng; 2)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùng chình [chùng chình]\n-loiter, linger, delay; dally"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "loiter, linger, delay, dally"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia sáng lấp loé",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flared beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flared beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đồng trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil\n-coaxial pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil\n-coaxial pencil"
+      }
+    ]
+  },
+  {
+    "word": "chùm tới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incident beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incident beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm cônic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of conics\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of conics"
+      }
+    ]
+  },
+  {
+    "word": "chùm truyền đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm mặt cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of spheres\n-sphere bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of spheres\n-sphere bundle"
+      }
+    ]
+  },
+  {
+    "word": "chùm nho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bunch of grapes\n-grape"
+      }
+    ]
+  },
+  {
+    "word": "chùm sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm sáng chính (đèn pha)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-main beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia nửa công suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-power beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm sóng hình quạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-atop beam\n-pencil beam\n-pencil of rays\n@Chuyên ngành kỹ thuật\n-atop beam\n-pencil beam\n-pencil of rays"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia ăng ten phát thanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitting antenna beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitting antenna beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đường tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of circles\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of circles"
+      }
+    ]
+  },
+  {
+    "word": "chùm sợi dọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-warp streaks\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-warp streaks"
+      }
+    ]
+  },
+  {
+    "word": "chùm dây dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bunched conductor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bunched conductor"
       }
     ]
   },
@@ -1166,52 +1686,7 @@
     ]
   },
   {
-    "word": "chùm dây dẫn điện (riêng cho một thiết bị)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wiring harness\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wiring harness"
-      }
-    ]
-  },
-  {
-    "word": "chùm dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam-lead\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam-lead"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous casting\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous casting"
-      }
-    ]
-  },
-  {
-    "word": "chùm (tia) rađa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radar beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radar beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia ăng ten phát thanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitting antenna beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitting antenna beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia vi ba",
+    "word": "chùm sóng cực ngắn",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -1220,890 +1695,11 @@
     ]
   },
   {
-    "word": "chùm hở",
+    "word": "chùm dù",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open-cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open-cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùy xuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cone penetrometer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cone penetrometer"
-      }
-    ]
-  },
-  {
-    "word": "chùm hình cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-globular cluster\n@Lĩnh vực: toán & tin\n-pencil of spheres\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-globular cluster\n@Lĩnh vực: toán & tin\n-pencil of spheres"
-      }
-    ]
-  },
-  {
-    "word": "chùm đường ray",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bundle of rails\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bundle of rails"
-      }
-    ]
-  },
-  {
-    "word": "chùm phân kì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-divergent bunder\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-divergent bunder"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia ăng ten",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-antenna beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-antenna beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia x",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-X-ray beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-X-ray beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm bắn ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ejected beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ejected beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia ánh sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam of light\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam of light"
-      }
-    ]
-  },
-  {
-    "word": "chùm laze cw",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous-wave signal\n-CW laser beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm lò xo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cluster of springs\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cluster of springs"
-      }
-    ]
-  },
-  {
-    "word": "chùn bước",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to slow one’s pace"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia có dạng đối xứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-symmetric shaped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-symmetric shaped beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm plasma",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plasma beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plasma beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia ăng ten phát thanh (phát xạ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter antenna beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter antenna beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm (tia) sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-beam of light\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-beam of light"
-      }
-    ]
-  },
-  {
-    "word": "chùi rửa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wipe clean, polish"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia chính của ăng ten",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main beam (of an antenna)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-main beam (of an antenna)"
-      }
-    ]
-  },
-  {
-    "word": "chùm đi (đạo hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-outbound beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-outbound beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm cọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chà mạnh vào một vật mềm để làm cho sạch vết bẩn\nVí dụ:\n- chùi chân vào thảm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lau\nVí dụ:\n- chùi nước mắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chùi\n- đgt. Lau cho sạch vết bẩn hoặc bụi bậm: Chùi tay vào khăn mặt; Chùi bụi trên mặt bàn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùi\n*verb\n-To rub off, to scrape off\n=chùi chân vào bãi cỏ\n+to scrape one\"s feet clean on the grass\n=chùi vết bẩn\n+to rub off a smear\n-To wipe, to mop\n=chùi nước mắt\n+to mop one\"s tears\n@Chuyên ngành kỹ thuật\n-efface\n-rub out\n-scrub\n-wipe\n@Chuyên ngành kỹ thuật\n-efface\n-rub out\n-scrub\n-wipe"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chùi\n* verb\n- To rub off, to scrape off\n=chùi chân vào bãi cỏ+to scrape one's feet clean on the grass\n=chùi vết bẩn+to rub off a smear\n-To wipe, to mop\n=chùi nước mắt+to mop one's tears"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wipe"
-      }
-    ]
-  },
-  {
-    "word": "chùm đường tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of circles\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of circles"
-      }
-    ]
-  },
-  {
-    "word": "chùm quét mành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-raster-scanned beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-raster-scanned beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia vô tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiobeam\n@Lĩnh vực: điện tử & viễn thông\n-radio-relay link\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiobeam\n@Lĩnh vực: điện tử & viễn thông\n-radio-relay link"
-      }
-    ]
-  },
-  {
-    "word": "chùm liên lạc báo hiệu (no.6)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-signaling link set (No.6)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-signaling link set (No.6)"
-      }
-    ]
-  },
-  {
-    "word": "chùm phản xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reflected beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reflected beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm ống (của bình ngưng ống vỏ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm cônic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of conics\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of conics"
-      }
-    ]
-  },
-  {
-    "word": "chùm tán xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scattered beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scattered beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm đồng tâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-concentric pencils\n@Lĩnh vực: điện tử & viễn thông\n-homocentric beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-concentric pencils\n@Lĩnh vực: điện tử & viễn thông\n-homocentric beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm ruột",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây ăn quả cùng họ với thầu dầu, lá mềm và mỏng, mọc thành hai dãy trên cành, quả nhỏ và có khía, mọc thành chùm, khi chín màu vàng nhạt, vị chua ngọt"
-      }
-    ]
-  },
-  {
-    "word": "chùm ống vỏ (của bình ngưng ống vỏ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shell-and-tube bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm (mang điện) dương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-positive beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-positive beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia quét dò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanned beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanned beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm vi sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm sáng chính (đèn pha)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-main beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia con của mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-circuit subgroup\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-circuit subgroup"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia đường cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-route group\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-route group"
-      }
-    ]
-  },
-  {
-    "word": "chùm đầu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hood, head covering"
-      }
-    ]
-  },
-  {
-    "word": "chùa hang",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chùa Hang\n- Thắng cảnh ở xã Phú Lão, huyện Lạc Thuỷ, tỉnh Hoà Bình, bên sườn phía tây dãy núi Thiên Trù. Núi Chùa Hang chạy dài hơn 2km gồm: Núi Khoang, Núi Đền, Núi Diêm, hang Văn Hoá, hang Chu, hang Kháng Chiến, hang mai và hang âm Phủ, nhiều nhũ đá hình thể kì dị (quả đu đủ, đầu tráng sĩ, bầu sữa mẹ, cô tiên, đàn ông ấp trứng v.v..). Đặc biệt trong một động có \"Vịnh Hạ Long\" với hai con rùa đá, một con đang bơi, một con đang leo lên bờ. Tìm thấy vết tích đời sống của con người thời văn hoá Hoà Bình cách đây khoảng 1 vạn năm\n- (thị trấn) h. Đồng Hỷ, t. Thái Nguyên"
-      }
-    ]
-  },
-  {
-    "word": "chùm hình quạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fan beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fan beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm gửi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tầm gửi"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia ba trực chuẩn cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-highly collimated microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-highly collimated microwave beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm sóng hình quạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fan beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia phát đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-outgoing group\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-outgoing group"
-      }
-    ]
-  },
-  {
-    "word": "chùm (tia)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia có đỉnh trệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam"
-      }
-    ]
-  },
-  {
-    "word": "chùy bác lãng sa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chùy Bác Lãng sa\n- Xem cắp dùi Bác Lãng"
-      }
-    ]
-  },
-  {
-    "word": "chùm các dạng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of forms\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of forms"
-      }
-    ]
-  },
-  {
-    "word": "chùm đuôi hải ly (ở rađa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Beattie and Bridgman equation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Beattie and Bridgman equation"
-      }
-    ]
-  },
-  {
-    "word": "chùm truyền xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm sợi dọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-warp streaks\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-warp streaks"
-      }
-    ]
-  },
-  {
-    "word": "chùm trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial pencil"
-      }
-    ]
-  },
-  {
-    "word": "chùm điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electron beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electron beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm (hẹp, nhỏ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pencil"
-      }
-    ]
-  },
-  {
-    "word": "chùm bắn phá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bombarding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bombarding"
-      }
-    ]
-  },
-  {
-    "word": "chùm hội tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-convergence beam\n-convergent bunder\n-convergent bundle\n-conversotional frequencies\n@Chuyên ngành kỹ thuật\n-convergence beam\n-convergent bunder\n-convergent bundle\n-conversotional frequencies"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia chính (điện tử)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-main beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm lệnh tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defocused beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defocused beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cluster of flame\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cluster of flame"
-      }
-    ]
-  },
-  {
-    "word": "chùm đường cong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of curves\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of curves"
-      }
-    ]
-  },
-  {
-    "word": "chùm vết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spot beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spot beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia chính được mô hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-shaped main beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia định hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-steerable beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia có dạng mạch điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sector shaped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sector shaped beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm hệ số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of coefficients\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of coefficients"
-      }
-    ]
-  },
-  {
-    "word": "chùm cuối chùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia chính (điện từ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-main beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-beam current\n-light beam\n-light ray\n-pencil\n@Chuyên ngành kỹ thuật\n-beam current\n-light beam\n-light ray\n-pencil"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia có đỉnh phẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm nhum",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xúm xít lại thành nhóm\nVí dụ:\n- chủ khách ngồi chùm nhum trên sập \n - bọn trẻ đứng chùm nhum ở góc sân"
-      }
-    ]
-  },
-  {
-    "word": "chùm nguyên tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atom cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atom cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia electron có năng lượng cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high energy electron beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high energy electron beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm nhiễu xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diffracted beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diffracted beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm điện tử quét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanning electron beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scanning electron beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm dẹt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-flat pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-flat pencil"
-      }
-    ]
-  },
-  {
-    "word": "chùn tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chùn tay [chùn tay]\n-pull back"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pull back"
-      }
-    ]
-  },
-  {
-    "word": "chùm khúc xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reflected beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reflected beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia vô tuyến truyền hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-television radio link\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-television radio link"
-      }
-    ]
-  },
-  {
-    "word": "chùm đứt gãy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fault bunder\n@Lĩnh vực: toán & tin\n-fault bundle\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fault bunder\n@Lĩnh vực: toán & tin\n-fault bundle"
-      }
-    ]
-  },
-  {
-    "word": "chùm iôn đã điều tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused ion beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-focused ion beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm năng lượng thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-low-energy beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-low-energy beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm lỗi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error burst\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error burst"
-      }
-    ]
-  },
-  {
-    "word": "chùm iôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ion cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ion cluster"
-      }
-    ]
-  },
-  {
-    "word": "chùm pha vô tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam\n-radio beacon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-glide path beam\n-radio beacon"
-      }
-    ]
-  },
-  {
-    "word": "chù lá phù lá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chù Lá Phù Lá\n- Tên gọi một nhóm nhỏ của dân tộc Phù Lá"
-      }
-    ]
-  },
-  {
-    "word": "chùm laze liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous load\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous load"
-      }
-    ]
-  },
-  {
-    "word": "chùn chũn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chun chủn\nVí dụ:\n- cái đuôi ngắn chùn chũn"
-      }
-    ]
-  },
-  {
-    "word": "chùm vô tuyến phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-auxiliary radio-relay system\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-auxiliary radio-relay system"
-      }
-    ]
-  },
-  {
-    "word": "chùm (tia) nguyên tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atomic beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-atomic beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia bút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tia vào góc lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-re-entrant beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-re-entrant beam"
-      }
-    ]
-  },
-  {
-    "word": "chùm tới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incident beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-incident beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cluster"
       }
     ]
   },
@@ -2117,101 +1713,414 @@
     ]
   },
   {
-    "word": "chùm tia catốt",
+    "word": "chùy xuyên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cathode-ray pencil\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cathode-ray pencil"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cone penetrometer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cone penetrometer"
       }
     ]
   },
   {
-    "word": "chùm phân tử",
+    "word": "chùm hình quạt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-molecular beam\n@Lĩnh vực: điện tử & viễn thông\n-molecule beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-molecular beam\n@Lĩnh vực: điện tử & viễn thông\n-molecule beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fan beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fan beam"
       }
     ]
   },
   {
-    "word": "chùm mặt phẳng",
+    "word": "chùm tia bội",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bundle of planes\n-pencil of planes\n-sheaf of planes\n@Chuyên ngành kỹ thuật\n-bundle of planes\n-pencil of planes\n-sheaf of planes"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multiple beams\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multiple beams"
       }
     ]
   },
   {
-    "word": "chùm ma trận",
+    "word": "chùm ngân hà",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of matrices\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of matrices"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-galactic cluster\n-galaxy cluster"
       }
     ]
   },
   {
-    "word": "chùm truyền đi",
+    "word": "chùm hội tụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-transmitted beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-convergence beam\n-convergent bunder\n-convergent bundle\n-conversotional frequencies\n@Chuyên ngành kỹ thuật\n-convergence beam\n-convergent bunder\n-convergent bundle\n-conversotional frequencies"
       }
     ]
   },
   {
-    "word": "chùm xơ vòng lông",
+    "word": "chùm cuối chùng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-tuft\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-tuft"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ultimate cluster"
       }
     ]
   },
   {
-    "word": "chùm tia",
+    "word": "chùm sóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of rays\n@Lĩnh vực: điện lạnh\n-sheaf of rays\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of rays\n@Lĩnh vực: điện lạnh\n-sheaf of rays"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-wave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-wave beam"
       }
     ]
   },
   {
-    "word": "chùm quét vectơ",
+    "word": "chùm xung",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-vector-scanned beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-vector-scanned beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pulse train\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pulse train"
       }
     ]
   },
   {
-    "word": "chùm quét (ăng ten)",
+    "word": "chùm dẫn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fanning beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fanning beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam-lead\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam-lead"
       }
     ]
   },
   {
-    "word": "chùm tín hiệu màu",
+    "word": "chùm laze quét",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-color burst\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-color burst"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-scanning laser beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-scanning laser beam"
       }
     ]
   },
   {
-    "word": "chùm conic",
+    "word": "chùm đọc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of conics\n-pencil of conic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bundle of conics\n-pencil of conic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-read beam\n@Lĩnh vực: điện tử & viễn thông\n-reading beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-read beam\n@Lĩnh vực: điện tử & viễn thông\n-reading beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đa sắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-polychromatic beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-polychromatic beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đầu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hood, head covering"
+      }
+    ]
+  },
+  {
+    "word": "chùm vết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spot beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spot beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia sáng dẫn hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-guide beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-guide beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm khúc xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reflected beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reflected beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tán xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scattered beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scattered beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia phân kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-divergent beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-divergent beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia ba trực chuẩn cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-highly collimated microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-highly collimated microwave beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm giữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-holding beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-holding beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous beam\n-continuous casting\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous beam\n-continuous casting"
+      }
+    ]
+  },
+  {
+    "word": "chùm năng lượng thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-low-energy beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-low-energy beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plane beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-plane beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đã điều biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-modulated beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-modulated beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm hở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open-cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open-cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùm (tia)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm vô tuyến phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-auxiliary radio-relay system\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-auxiliary radio-relay system"
+      }
+    ]
+  },
+  {
+    "word": "chùm iôn hội tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Focused Ion Beam (FIB)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Focused Ion Beam (FIB)"
+      }
+    ]
+  },
+  {
+    "word": "chùm sơ cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-primary beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-primary beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia bút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm vi sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia chính (điện từ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-main beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-main beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia cực mỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam"
+      }
+    ]
+  },
+  {
+    "word": "chùn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rụt lại vì sợ, vì ngại, không dám tiếp tục hành động nữa\nVí dụ:\n- nó đã chùn bước trước những khó khăn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chùn\n- đgt. Rụt lại, không dám tiến tiếp, làm tiếp: chùn tay lại  quyết không chùn bước."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùn\n*verb\n-To recoil, to shrink, to flinch from\n=không chùn bước trước khó khăn\n+not to shrink (flinch) from difficulties"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chùn\n* verb\n- To recoil, to shrink, to flinch from\n=không chùn bước trước khó khăn+not to shrink (flinch) from difficulties"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to slow down, stop"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia có đỉnh phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-flat-stopped beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia giao thoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interfering beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interfering beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm sáng mảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-beampencil of light\n-pencil of light\n-pencil of rays\n@Chuyên ngành kỹ thuật\n-beampencil of light\n-pencil of light\n-pencil of rays"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia electron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-e beam (electron beam)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-e beam (electron beam)"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia ánh sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam of light\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam of light"
+      }
+    ]
+  },
+  {
+    "word": "chùm đơn sắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-monochromatic beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-monochromatic beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đi (đạo hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-outbound beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-outbound beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm đường cong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of curves\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pencil of curves"
+      }
+    ]
+  },
+  {
+    "word": "chùm cọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile cluster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile cluster"
+      }
+    ]
+  },
+  {
+    "word": "chùm (mang điện) dương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-positive beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-positive beam"
       }
     ]
   },
@@ -2225,20 +2134,111 @@
     ]
   },
   {
-    "word": "chùm vi ba (chuyển tiếp)",
+    "word": "chùa",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "công trình được xây cất lên, làm nơi thờ Phật, thường có nhà sư ở\nVí dụ:\n- tiếng chuông chùa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thuộc về nhà chùa, của chung, không do mình làm ra nên không biết tiếc, không có trách nhiệm\nVí dụ:\n- tiền chùa \n - điện thoại chùa \n - của chùa nên không xót"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chùa\n- I d. Công trình được xây cất lên, làm nơi thờ Phật. Cảnh chùa. Tiếng chuông chùa.\n- II t. (kng.). Thuộc về nhà , của chung, không phải của mình, cho mình (nên không biết tiếc, không có trách nhiệm). Tiền chùa. Của chùa. Ăn cơm nhà, làm việc chùa."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave beam"
+        "dict_definition": "@chùa\n*noun\n-Pagoda\n=chùa nát bụt vàng, chùa rách bụt vàng\n+a golden Buddha in a dilapidated pagoda\n=vắng như chùa bà Đanh\n+unpopulated like the desert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pagoda\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pagoda"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chùa\n* noun\n- Pagoda\n=chùa nát bụt vàng, chùa rách bụt vàng+a golden Buddha in a dilapidated pagoda\n=vắng như chùa bà Đanh+unpopulated like the desert"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pagoda, Buddhist temple"
       }
     ]
   },
   {
-    "word": "chùm tia cực mỏng",
+    "word": "chùn chùn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chun chủn\nVí dụ:\n- chân ngắn chùn chùn \n - gian nhà thấp chùn chùn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chùn chùn [chùn chùn]\n-very short (ngắn chùn chùn)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very short"
+      }
+    ]
+  },
+  {
+    "word": "chùm năng lượng cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pencil beam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high-energy beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-high-energy beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm mặt phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bundle of planes\n-pencil of planes\n-sheaf of planes\n@Chuyên ngành kỹ thuật\n-bundle of planes\n-pencil of planes\n-sheaf of planes"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia máy phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter beam"
+      }
+    ]
+  },
+  {
+    "word": "chùi nước mắt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wipe one’s tears"
+      }
+    ]
+  },
+  {
+    "word": "chùm (tia) rađa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radar beam\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radar beam"
+      }
+    ]
+  },
+  {
+    "word": "chùm electron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron beam (E beam)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron beam (E beam)"
+      }
+    ]
+  },
+  {
+    "word": "chùm tia sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-beam current\n-light beam\n-light ray\n-pencil\n@Chuyên ngành kỹ thuật\n-beam current\n-light beam\n-light ray\n-pencil"
       }
     ]
   }

@@ -1,55 +1,10 @@
 [
   {
-    "word": "orientit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-orlentite"
-      }
-    ]
-  },
-  {
-    "word": "orizenin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-oryzenin"
-      }
-    ]
-  },
-  {
-    "word": "organ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đàn phím điện tử\nVí dụ:\n- chơi organ"
-      }
-    ]
-  },
-  {
-    "word": "orb",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ORB (object request broker)"
-      }
-    ]
-  },
-  {
     "word": "orenđit",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-orendite"
-      }
-    ]
-  },
-  {
-    "word": "oracle",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ORACLE"
       }
     ]
   },
@@ -63,11 +18,38 @@
     ]
   },
   {
+    "word": "orăng glai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Orăng Glai\n- Một tên gọi khác của dân tộc Ra-glai"
+      }
+    ]
+  },
+  {
+    "word": "oracle",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ORACLE"
+      }
+    ]
+  },
+  {
     "word": "or",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-degree Rankine"
+      }
+    ]
+  },
+  {
+    "word": "orb",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ORB (object request broker)"
       }
     ]
   },
@@ -81,11 +63,29 @@
     ]
   },
   {
-    "word": "orăng glai",
+    "word": "organ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Orăng Glai\n- Một tên gọi khác của dân tộc Ra-glai"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đàn phím điện tử\nVí dụ:\n- chơi organ"
+      }
+    ]
+  },
+  {
+    "word": "orizenin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-oryzenin"
+      }
+    ]
+  },
+  {
+    "word": "orientit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-orlentite"
       }
     ]
   }

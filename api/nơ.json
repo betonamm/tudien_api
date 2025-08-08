@@ -1,73 +1,10 @@
 [
   {
-    "word": "nơi nghỉ mát (vào mùa hè)",
+    "word": "nơi phát chẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place for resting in summer"
-      }
-    ]
-  },
-  {
-    "word": "nơi nước đổ ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outlet"
-      }
-    ]
-  },
-  {
-    "word": "nơi đây an nghĩ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Here lies ~ (on a gravestone)"
-      }
-    ]
-  },
-  {
-    "word": "nơron dẫn ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-efferent neuron"
-      }
-    ]
-  },
-  {
-    "word": "nơvi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nevus"
-      }
-    ]
-  },
-  {
-    "word": "nơvi nang tóc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nevus follicularis"
-      }
-    ]
-  },
-  {
-    "word": "nơi tàu dừng lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-roadstead"
-      }
-    ]
-  },
-  {
-    "word": "nơi tiêu thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-market\n-outlet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-almonry"
       }
     ]
   },
@@ -81,11 +18,83 @@
     ]
   },
   {
-    "word": "nơi chắn tàu",
+    "word": "nơi lưu trữ thông tin (trong máy tính)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-level crossing"
+        "dict_definition": "@Chuyên ngành kinh tế\n-storage location"
+      }
+    ]
+  },
+  {
+    "word": "nơi gửi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-destination"
+      }
+    ]
+  },
+  {
+    "word": "nơi hợp lưu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-junction\n@Lĩnh vực: xây dựng\n-stream confluence"
+      }
+    ]
+  },
+  {
+    "word": "nơi quan sát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-observation location"
+      }
+    ]
+  },
+  {
+    "word": "nơi nước đổ ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outlet"
+      }
+    ]
+  },
+  {
+    "word": "nơi thi đấu thể thao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sports arena"
+      }
+    ]
+  },
+  {
+    "word": "nơi thờ cúng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tabernacle"
+      }
+    ]
+  },
+  {
+    "word": "nơ tron",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi thường trú",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-customary residence\n-permanent residence"
       }
     ]
   },
@@ -99,11 +108,706 @@
     ]
   },
   {
-    "word": "nơi thả neo",
+    "word": "nơi đậu tại bến tàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wharf"
+        "dict_definition": "@Chuyên ngành kinh tế\n-berth"
+      }
+    ]
+  },
+  {
+    "word": "nơi an nghĩ cuối cùng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "final resting place, grave"
+      }
+    ]
+  },
+  {
+    "word": "nơi giặt vải lọc (nhà máy lọc ép)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cloth-washing station"
+      }
+    ]
+  },
+  {
+    "word": "nơi gửi , thiết bị gửi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sender (SNDR)"
+      }
+    ]
+  },
+  {
+    "word": "nơi bỏ neo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moorage"
+      }
+    ]
+  },
+  {
+    "word": "nơron hình thể phân định rõ ràng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-somatochrome"
+      }
+    ]
+  },
+  {
+    "word": "nơtron siêu lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Ultra Cold Neutron (UCN)\n-ultracold neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi cung cấp nội dung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-content provider"
+      }
+    ]
+  },
+  {
+    "word": "nơi làm việc trên cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-work level"
+      }
+    ]
+  },
+  {
+    "word": "nơi khai thác đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-quarry plant"
+      }
+    ]
+  },
+  {
+    "word": "nơi thu tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cash office"
+      }
+    ]
+  },
+  {
+    "word": "nơi đỗ xe công cộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-public parking place"
+      }
+    ]
+  },
+  {
+    "word": "nơi xếp hàng hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage"
+      }
+    ]
+  },
+  {
+    "word": "nơm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đồ đan thưa bằng tre, hình cái chuông, dùng để chụp bắt cá\nVí dụ:\n- \"Trách ai đặng cá quên nơm, Đặng chim bẻ ná, quên ơn sinh thành.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bắt cá bằng nơm\nVí dụ:\n- xách nơm đi nơm cá"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nơm\n- I. dt. Đồ đan bằng tre, dùng để úp, chụp cá: đan nơm. II. đgt. Dùng nơm để úp cá: đi nơm cá  nơm được nhiều ra phết."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nơm\n*noun\n-fishing-tackle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nơm\n* noun\n- fishing-tackle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fishing-tackle"
+      }
+    ]
+  },
+  {
+    "word": "nơtron hạt nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nuclear neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi vùi nước thải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sewage burying"
+      }
+    ]
+  },
+  {
+    "word": "nơtron chưa va chạm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-uncollided neutron\n-virgin neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa, bộ chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sink"
+      }
+    ]
+  },
+  {
+    "word": "nơi góc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "corner (area, place)"
+      }
+    ]
+  },
+  {
+    "word": "nơ-ron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nơ-ron [nơ-ron]\n-(y học) (tiếng Pháp gọi là Neurone) nerve cell;  neuron (any of the impulse-conducting cells that constitute the brain, spinal column, and nerves, consisting of a nucleated cell body with one or more dendrites and a single axon)"
+      }
+    ]
+  },
+  {
+    "word": "nơtron tức thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fast neutron\n-prompt neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi cự ngụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-home address"
+      }
+    ]
+  },
+  {
+    "word": "nơi cần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-weigh house"
+      }
+    ]
+  },
+  {
+    "word": "nơi bảo quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-place\n@Chuyên ngành kỹ thuật\n-repository\n@Lĩnh vực: toán & tin\n-spool"
+      }
+    ]
+  },
+  {
+    "word": "nơi náu thuế gian dối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-abusive tax shelter"
+      }
+    ]
+  },
+  {
+    "word": "nơi trốn thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax haven"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa trâu bò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pennage"
+      }
+    ]
+  },
+  {
+    "word": "nơvi mao mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-capiliary nevus"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa file ảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-virtual filestore"
+      }
+    ]
+  },
+  {
+    "word": "nơ-tron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nơ-tron [nơtron]\n-(hoá học) (tiếng Pháp gọi là Neutron) neutron (an electrically neutral subatomic particle in the baryon family, having a mass 1,839 times that of the electron)"
+      }
+    ]
+  },
+  {
+    "word": "nơi, chỗ, vị trí// công trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-site"
+      }
+    ]
+  },
+  {
+    "word": "nơi nghỉ ngơi trên bờ biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sea side resort"
+      }
+    ]
+  },
+  {
+    "word": "nơi trầm tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-place of deposition"
+      }
+    ]
+  },
+  {
+    "word": "nơi ẩn núp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cover, protected place"
+      }
+    ]
+  },
+  {
+    "word": "nơtrođyn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-neutrodyne"
+      }
+    ]
+  },
+  {
+    "word": "nơtron không ghép cặp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-unpaired neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tape pool"
+      }
+    ]
+  },
+  {
+    "word": "nơi vui chơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of entertainment"
+      }
+    ]
+  },
+  {
+    "word": "nơi bán vé trong một rạp hát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-box-office"
+      }
+    ]
+  },
+  {
+    "word": "nơi nuôi côn trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-insectarium"
+      }
+    ]
+  },
+  {
+    "word": "nơi an toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-havana charter"
+      }
+    ]
+  },
+  {
+    "word": "nơtron không va chạm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-uncollided neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi bán vé",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-booking office"
+      }
+    ]
+  },
+  {
+    "word": "nơtrino tauon (hạt cơ bản)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tauon neutrino"
+      }
+    ]
+  },
+  {
+    "word": "nơi cung ứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-delivered site"
+      }
+    ]
+  },
+  {
+    "word": "nơvi thiếu máu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anemicus nevus"
+      }
+    ]
+  },
+  {
+    "word": "nơi trưng bày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gallery"
+      }
+    ]
+  },
+  {
+    "word": "nơi nơi lũ đổ ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-high water span"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa gia súc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stockverd"
+      }
+    ]
+  },
+  {
+    "word": "nơi chuẩn bị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-workshop"
+      }
+    ]
+  },
+  {
+    "word": "nơi xuất phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-origin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-departure"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa khóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-key receptacle"
+      }
+    ]
+  },
+  {
+    "word": "nơi trả tiền (một hối phiếu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-domicile"
+      }
+    ]
+  },
+  {
+    "word": "nơtron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi họp chợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-market place (market place)\n-market plaza\n-marketplace (market place)"
+      }
+    ]
+  },
+  {
+    "word": "nơvi hình quả dâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mulberry mark"
+      }
+    ]
+  },
+  {
+    "word": "nơtron tán xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-scattered neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi lõm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-incavation"
+      }
+    ]
+  },
+  {
+    "word": "nơi gom dữ liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data sink"
+      }
+    ]
+  },
+  {
+    "word": "nơi thờ phụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-meeting house"
+      }
+    ]
+  },
+  {
+    "word": "nơi gửi áo mũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-checkroom"
+      }
+    ]
+  },
+  {
+    "word": "nơi đỗ lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stop-over\n-stopover (stop-over)"
+      }
+    ]
+  },
+  {
+    "word": "nơi thi đấu điền kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic arena"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa rác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rubbish-chute shaft"
+      }
+    ]
+  },
+  {
+    "word": "nơi thoáng đãng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-open space"
+      }
+    ]
+  },
+  {
+    "word": "nơi lưu giữ vốn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-garage"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa nước (biển, sông, hồ, ao)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water basin"
+      }
+    ]
+  },
+  {
+    "word": "nơi đến chỉ định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-named place of destination"
+      }
+    ]
+  },
+  {
+    "word": "nơi đỗ ôtô lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated rolling stock"
+      }
+    ]
+  },
+  {
+    "word": "nơi chở hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipping place"
+      }
+    ]
+  },
+  {
+    "word": "nơi rời bờ nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-CQR anchor (coastal quick release anchor)"
+      }
+    ]
+  },
+  {
+    "word": "nơi đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-point of origin"
+      }
+    ]
+  },
+  {
+    "word": "nơi tiểu tiện kiểu máng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trough urinal"
+      }
+    ]
+  },
+  {
+    "word": "nơi trả tiền (hối phiếu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-domicile"
+      }
+    ]
+  },
+  {
+    "word": "nơi sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-habitat\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-habitat"
       }
     ]
   },
@@ -141,317 +845,65 @@
     ]
   },
   {
-    "word": "nơi đỗ xe công cộng",
+    "word": "nơi đăng ký",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-public parking place"
+        "dict_definition": "@Chuyên ngành kinh tế\n-registry"
       }
     ]
   },
   {
-    "word": "nơtron chưa va chạm",
+    "word": "nơi chứa nước (biển, sông, hồ, ao...)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-uncollided neutron\n-virgin neutron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pond"
       }
     ]
   },
   {
-    "word": "nơ tron",
+    "word": "nơvi mọc lông",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "neutron"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hairy nevus"
       }
     ]
   },
   {
-    "word": "nơvi mao mạch",
+    "word": "nơtron phi nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-capiliary nevus"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nonthermal neutron"
       }
     ]
   },
   {
-    "word": "nơi thuê làm công",
+    "word": "nơi giới thiệu việc làm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-employment area"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-employment exchanger"
       }
     ]
   },
   {
-    "word": "nơi bị ô nhiễm",
+    "word": "nơi lưu trữ lõi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-contaminated site\n-problem site"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-core store"
       }
     ]
   },
   {
-    "word": "nơi lưu trú",
+    "word": "nơi cập bến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hostelry"
-      }
-    ]
-  },
-  {
-    "word": "nơi bỏ neo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moorage"
-      }
-    ]
-  },
-  {
-    "word": "nơi bảo quản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa gia súc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stockverd"
-      }
-    ]
-  },
-  {
-    "word": "nơi đỗ xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parking place\n@Lĩnh vực: ô tô\n-pitch"
-      }
-    ]
-  },
-  {
-    "word": "nơtrino mặt trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-solar neutrino"
-      }
-    ]
-  },
-  {
-    "word": "nơi để đồ thờ thánh (trong nhà thờ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sacristy"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tape pool"
-      }
-    ]
-  },
-  {
-    "word": "nơi khai thác mỏ cát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sand pit plant"
-      }
-    ]
-  },
-  {
-    "word": "nơi giặt vải lọc (nhà máy lọc ép)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cloth-washing station"
-      }
-    ]
-  },
-  {
-    "word": "nơi tiểu tiện kiểu máng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trough urinal"
-      }
-    ]
-  },
-  {
-    "word": "nơi xây dựng đập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-damp sites"
-      }
-    ]
-  },
-  {
-    "word": "nơi xảy ra vụ nổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-seat of explosion"
-      }
-    ]
-  },
-  {
-    "word": "nơron",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nerve unit"
-      }
-    ]
-  },
-  {
-    "word": "nơi thi đấu điền kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic arena"
-      }
-    ]
-  },
-  {
-    "word": "nơi trầm tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-place of deposition"
-      }
-    ]
-  },
-  {
-    "word": "nơi họp chợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-market place (market place)\n-market plaza\n-marketplace (market place)"
-      }
-    ]
-  },
-  {
-    "word": "nơvi mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ascular nevus"
-      }
-    ]
-  },
-  {
-    "word": "nơvi biểu mô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epithelial nevi"
-      }
-    ]
-  },
-  {
-    "word": "nơi an dưỡng ở vùng núi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hill station"
-      }
-    ]
-  },
-  {
-    "word": "nơi nhận thông báo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-message sink"
-      }
-    ]
-  },
-  {
-    "word": "nơi đến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-destination\n-place of destination\n-point of destination\n@Chuyên ngành kỹ thuật\n-destination"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa que",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stick holder"
-      }
-    ]
-  },
-  {
-    "word": "nơi kiểm tra alpha",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-alpha test site"
-      }
-    ]
-  },
-  {
-    "word": "nơi thờ phụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-meeting house"
-      }
-    ]
-  },
-  {
-    "word": "nơi bán vé",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-booking office"
-      }
-    ]
-  },
-  {
-    "word": "nơtron gần nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-near-thermal neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơron tận cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-teleneuron"
-      }
-    ]
-  },
-  {
-    "word": "nơi giữ thông tin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-information sink"
+        "dict_definition": "@Chuyên ngành kinh tế\n-landfall"
       }
     ]
   },
@@ -465,11 +917,119 @@
     ]
   },
   {
-    "word": "nơi chứa khóa",
+    "word": "nơtron phân hạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-key receptacle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fission neutrons"
+      }
+    ]
+  },
+  {
+    "word": "nơvi nang tóc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nevus follicularis"
+      }
+    ]
+  },
+  {
+    "word": "nơtrino sao siêu mới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-supernova neutrino"
+      }
+    ]
+  },
+  {
+    "word": "nơi tránh thuế- chỗ dựa để tránh thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax shelter"
+      }
+    ]
+  },
+  {
+    "word": "nơi khác",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "other place, other location"
+      }
+    ]
+  },
+  {
+    "word": "nơi kênh đổ ra sông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-canal mouth"
+      }
+    ]
+  },
+  {
+    "word": "nơi đổ rác (không hợp pháp)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-illegal dump site"
+      }
+    ]
+  },
+  {
+    "word": "nơi đây an nghĩ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Here lies ~ (on a gravestone)"
+      }
+    ]
+  },
+  {
+    "word": "nơi bị nhiễm bẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-contaminated site\n-problem site"
+      }
+    ]
+  },
+  {
+    "word": "nơi cư chú",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-place of domicile"
+      }
+    ]
+  },
+  {
+    "word": "nơtrino điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron neutrino"
+      }
+    ]
+  },
+  {
+    "word": "nơi tàu cập bến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-berth"
+      }
+    ]
+  },
+  {
+    "word": "nơi an dưỡng ở vùng núi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hill station"
       }
     ]
   },
@@ -483,29 +1043,47 @@
     ]
   },
   {
-    "word": "nơi gom nước thải chính",
+    "word": "nơi thả neo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-main collector\n-main sewer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wharf"
       }
     ]
   },
   {
-    "word": "nơi ẩn núp",
+    "word": "nơi đổ rác thải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-storage site\n-waste\n-waste dump\n-waste tip"
+      }
+    ]
+  },
+  {
+    "word": "nơtron nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-thermal neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi đỗ xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parking place\n@Lĩnh vực: ô tô\n-pitch"
+      }
+    ]
+  },
+  {
+    "word": "nơi đất lạ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cover, protected place"
-      }
-    ]
-  },
-  {
-    "word": "nơi sử dụng lao động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-employment area"
+        "dict_definition": "strange place, foreign land"
       }
     ]
   },
@@ -519,29 +1097,397 @@
     ]
   },
   {
-    "word": "nơi vui chơi",
+    "word": "nơi tôn nghiêm (nhà thờ, chùa...)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of entertainment"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sanctuary"
       }
     ]
   },
   {
-    "word": "nơi phát chẩn",
+    "word": "nơi đặt thiết bị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-almonry"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device location"
       }
     ]
   },
   {
-    "word": "nơi an toàn",
+    "word": "nơi an dưỡng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-havana charter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of convalescence"
+      }
+    ]
+  },
+  {
+    "word": "nơi chôn rác cuối cùng (rác nguyên tử)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ultimate waste disposal"
+      }
+    ]
+  },
+  {
+    "word": "nơi hạ cánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-landing site"
+      }
+    ]
+  },
+  {
+    "word": "nơi chốn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-spot\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-site"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "place, location, spot"
+      }
+    ]
+  },
+  {
+    "word": "nơron dẫn vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-afferent neuron"
+      }
+    ]
+  },
+  {
+    "word": "nơi tiểu tiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urinal"
+      }
+    ]
+  },
+  {
+    "word": "nơtron nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-uncollided neutron\n-virgin neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nerve unit"
+      }
+    ]
+  },
+  {
+    "word": "nơi đi giải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urinal"
+      }
+    ]
+  },
+  {
+    "word": "nơi vệ sinh (gia súc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trim station"
+      }
+    ]
+  },
+  {
+    "word": "nơi chắn tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-level crossing"
+      }
+    ]
+  },
+  {
+    "word": "nơtrino muyon (hạt cơ bản)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-muon neutrino"
+      }
+    ]
+  },
+  {
+    "word": "nơi nhận thông báo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-message sink"
+      }
+    ]
+  },
+  {
+    "word": "nơi sử dụng lao động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-employment area"
+      }
+    ]
+  },
+  {
+    "word": "nơron dẫn ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-efferent neuron"
+      }
+    ]
+  },
+  {
+    "word": "nơi chung",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "common area"
+      }
+    ]
+  },
+  {
+    "word": "nơi tàu thả neo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-roadstead"
+      }
+    ]
+  },
+  {
+    "word": "nơi để mũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloak area (school)"
+      }
+    ]
+  },
+  {
+    "word": "nơi cư trú",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-habitation\n-place of domicile\n-residence\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-residence"
+      }
+    ]
+  },
+  {
+    "word": "nơi bị ô nhiễm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-contaminated site\n-problem site"
+      }
+    ]
+  },
+  {
+    "word": "nơi đặt trụ sở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-office accommodation"
+      }
+    ]
+  },
+  {
+    "word": "nơi thải đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-spoil area"
+      }
+    ]
+  },
+  {
+    "word": "nơi trả tiền theo các phiếu chuyển tiền qua bưu điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-the office of issue"
+      }
+    ]
+  },
+  {
+    "word": "nơi tàu đậu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-moorings"
+      }
+    ]
+  },
+  {
+    "word": "nơi gửi hành lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-baggage room"
+      }
+    ]
+  },
+  {
+    "word": "nơi dự trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-store"
+      }
+    ]
+  },
+  {
+    "word": "nơtrino electron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron neutrino"
+      }
+    ]
+  },
+  {
+    "word": "nơi lưu trú",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hostelry"
+      }
+    ]
+  },
+  {
+    "word": "nơi làm việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-job\n-office\n-working place\n-workplace"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "workplace, office"
+      }
+    ]
+  },
+  {
+    "word": "nơtreto",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-neutretto"
+      }
+    ]
+  },
+  {
+    "word": "nơi gặp gỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rendez-vous"
+      }
+    ]
+  },
+  {
+    "word": "nơi kiểm tra nội tạng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-viscera inspection stand"
+      }
+    ]
+  },
+  {
+    "word": "nơi họp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-location of meetings"
+      }
+    ]
+  },
+  {
+    "word": "nơi khép kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-enclosure"
+      }
+    ]
+  },
+  {
+    "word": "nơi nghỉ mát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-holiday resort\n-resort\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-health resort"
+      }
+    ]
+  },
+  {
+    "word": "nơi giữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa thông báo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-message sink"
+      }
+    ]
+  },
+  {
+    "word": "nơi đón/tiễn khách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-railtrack receiving/departing"
+      }
+    ]
+  },
+  {
+    "word": "nơron tận cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-teleneuron"
+      }
+    ]
+  },
+  {
+    "word": "nơtron sơ sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nascent neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi xây dựng đập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-damp sites"
       }
     ]
   },
@@ -571,20 +1517,164 @@
     ]
   },
   {
-    "word": "nơtron phân hạch",
+    "word": "nơi trú",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fission neutrons"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to live, dwell, reside"
       }
     ]
   },
   {
-    "word": "nơi nghỉ mát",
+    "word": "nơron tế bào thần kinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-holiday resort\n-resort\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-health resort"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuron"
+      }
+    ]
+  },
+  {
+    "word": "nơi đường bộ giao nhau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-highway crossing\n-highway intersection"
+      }
+    ]
+  },
+  {
+    "word": "nơi gom nước thải chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-main collector\n-main sewer"
+      }
+    ]
+  },
+  {
+    "word": "nơtron gần nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-near-thermal neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi di dạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-promenade"
+      }
+    ]
+  },
+  {
+    "word": "nơi nghỉ mát (vào mùa hè)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place for resting in summer"
+      }
+    ]
+  },
+  {
+    "word": "nơtron nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fast neutron\n-prompt neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi kiểm tra alpha",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-alpha test site"
+      }
+    ]
+  },
+  {
+    "word": "nơi làm nho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-grapery"
+      }
+    ]
+  },
+  {
+    "word": "nơi ẩn náu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-haven"
+      }
+    ]
+  },
+  {
+    "word": "nơi gởi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sending office"
+      }
+    ]
+  },
+  {
+    "word": "nơi đến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-destination\n-place of destination\n-point of destination\n@Chuyên ngành kỹ thuật\n-destination"
+      }
+    ]
+  },
+  {
+    "word": "nơvi biểu mô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epithelial nevi"
+      }
+    ]
+  },
+  {
+    "word": "nơtrino tô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tau neutrino"
+      }
+    ]
+  },
+  {
+    "word": "nơvi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nevus"
+      }
+    ]
+  },
+  {
+    "word": "nơi giữ thông tin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-information sink"
+      }
+    ]
+  },
+  {
+    "word": "nơi khai thác mỏ cát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sand pit plant"
       }
     ]
   },
@@ -594,6 +1684,96 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stall"
+      }
+    ]
+  },
+  {
+    "word": "nơi ở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accommodation unit\n-habitat\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-above\n-residence"
+      }
+    ]
+  },
+  {
+    "word": "nơi hội họp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of assembly"
+      }
+    ]
+  },
+  {
+    "word": "nơi diễn ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-locale"
+      }
+    ]
+  },
+  {
+    "word": "nơi kênh đổ vào sông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outlet of a canal into a river"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa cuối cùng (rác)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-final storage\n-ultimate storage"
+      }
+    ]
+  },
+  {
+    "word": "nơi miền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "place"
+      }
+    ]
+  },
+  {
+    "word": "nơi ở cố định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-domicile"
+      }
+    ]
+  },
+  {
+    "word": "nơi buộc thuyền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moorage"
+      }
+    ]
+  },
+  {
+    "word": "nơi sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-place of birth"
+      }
+    ]
+  },
+  {
+    "word": "nơi vui chơi công cộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of public amusement"
       }
     ]
   },
@@ -619,733 +1799,29 @@
     ]
   },
   {
-    "word": "nơi ẩn",
+    "word": "nơi đỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-shelter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-parking space"
       }
     ]
   },
   {
-    "word": "nơi lưu trữ lõi",
+    "word": "nơi hỏa táng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-core store"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crematorium"
       }
     ]
   },
   {
-    "word": "nơi di dạo",
+    "word": "nơi thu thuế nhập thị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-promenade"
-      }
-    ]
-  },
-  {
-    "word": "nơi gửi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-destination"
-      }
-    ]
-  },
-  {
-    "word": "nơi hạ cánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-landing site"
-      }
-    ]
-  },
-  {
-    "word": "nơi buộc thuyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moorage"
-      }
-    ]
-  },
-  {
-    "word": "nơi nuôi cá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fishery"
-      }
-    ]
-  },
-  {
-    "word": "nơi trộn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mixing point"
-      }
-    ]
-  },
-  {
-    "word": "nơtron chậm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-slow neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi khép kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-enclosure"
-      }
-    ]
-  },
-  {
-    "word": "nơtrino tauon (hạt cơ bản)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tauon neutrino"
-      }
-    ]
-  },
-  {
-    "word": "nơi sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-habitat\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-habitat"
-      }
-    ]
-  },
-  {
-    "word": "nơi trả tiền (hối phiếu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-domicile"
-      }
-    ]
-  },
-  {
-    "word": "nơi ẩn náu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-haven"
-      }
-    ]
-  },
-  {
-    "word": "nơi tránh thuế- chỗ dựa để tránh thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax shelter"
-      }
-    ]
-  },
-  {
-    "word": "nơi đóng trại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-camp"
-      }
-    ]
-  },
-  {
-    "word": "nơi trả tiền theo các phiếu chuyển tiền qua bưu điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-the office of issue"
-      }
-    ]
-  },
-  {
-    "word": "nơ-ron",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nơ-ron [nơ-ron]\n-(y học) (tiếng Pháp gọi là Neurone) nerve cell;  neuron (any of the impulse-conducting cells that constitute the brain, spinal column, and nerves, consisting of a nucleated cell body with one or more dendrites and a single axon)"
-      }
-    ]
-  },
-  {
-    "word": "nơi tôn nghiêm (nhà thờ, chùa...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sanctuary"
-      }
-    ]
-  },
-  {
-    "word": "nơi gặp gỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rendez-vous"
-      }
-    ]
-  },
-  {
-    "word": "nơvi hình tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-linear nevus"
-      }
-    ]
-  },
-  {
-    "word": "nơi chốn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-spot\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-site"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "place, location, spot"
-      }
-    ]
-  },
-  {
-    "word": "nơi giới thiệu việc làm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-employment exchanger"
-      }
-    ]
-  },
-  {
-    "word": "nơi lưu giữ vốn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-garage"
-      }
-    ]
-  },
-  {
-    "word": "nơi gởi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sending office"
-      }
-    ]
-  },
-  {
-    "word": "nơi náu thuế gian dối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-abusive tax shelter"
-      }
-    ]
-  },
-  {
-    "word": "nơi trả tiền (một hối phiếu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-domicile"
-      }
-    ]
-  },
-  {
-    "word": "nơtron siêu lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Ultra Cold Neutron (UCN)\n-ultracold neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơvi nội bì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intradermal nevus"
-      }
-    ]
-  },
-  {
-    "word": "nơi sản xuất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-origin of production"
-      }
-    ]
-  },
-  {
-    "word": "nơi đến chỉ định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-named place of destination"
-      }
-    ]
-  },
-  {
-    "word": "nơi, chỗ, vị trí// công trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-site"
-      }
-    ]
-  },
-  {
-    "word": "nơi ẩn trú thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax haven"
-      }
-    ]
-  },
-  {
-    "word": "nơi đất",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "place, land"
-      }
-    ]
-  },
-  {
-    "word": "nơi cư chú",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-place of domicile"
-      }
-    ]
-  },
-  {
-    "word": "nơi an dưỡng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of convalescence"
-      }
-    ]
-  },
-  {
-    "word": "nơi diễn ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-locale"
-      }
-    ]
-  },
-  {
-    "word": "nơi họp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-location of meetings"
-      }
-    ]
-  },
-  {
-    "word": "nơi nơi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khắp mọi nơi [nói khái quát]\nVí dụ:\n- nơi nơi đều nhất tề nổi dậy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nơi nơi\n- ph. Khắp mọi chỗ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nơi nơi\n-Everywhere, in every place\n=\n+em nơi (láy)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nơi nơi\n- Everywhere, in every place\n=xem nơi (láy)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "everywhere, in every place"
-      }
-    ]
-  },
-  {
-    "word": "nơtron hạt nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nuclear neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi gửi , thiết bị gửi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sender (SNDR)"
-      }
-    ]
-  },
-  {
-    "word": "nơtron",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi nuôi côn trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-insectarium"
-      }
-    ]
-  },
-  {
-    "word": "nơi thường trú",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-customary residence\n-permanent residence"
-      }
-    ]
-  },
-  {
-    "word": "nơi miền",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "place"
-      }
-    ]
-  },
-  {
-    "word": "nơi phát/nơi thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Originator/Recipient (O/R)"
-      }
-    ]
-  },
-  {
-    "word": "nơtron không va chạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-uncollided neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi lõm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-incavation"
-      }
-    ]
-  },
-  {
-    "word": "nơi đăng ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-registry"
-      }
-    ]
-  },
-  {
-    "word": "nơi nhận đồ mất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lost and found"
-      }
-    ]
-  },
-  {
-    "word": "nơi tàu cập bến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-berth"
-      }
-    ]
-  },
-  {
-    "word": "nơi cân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-weigh-house"
-      }
-    ]
-  },
-  {
-    "word": "nơi hội họp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of assembly"
-      }
-    ]
-  },
-  {
-    "word": "nơi đỗ lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stop-over\n-stopover (stop-over)"
-      }
-    ]
-  },
-  {
-    "word": "nơvi mọc lông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hairy nevus"
-      }
-    ]
-  },
-  {
-    "word": "nơi đổ rác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tipping site\n-waste dump\n-waste tip"
-      }
-    ]
-  },
-  {
-    "word": "nơi thi đấu thể thao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sports arena"
-      }
-    ]
-  },
-  {
-    "word": "nơi đặt trụ sở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-office accommodation"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa, bộ chứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sink"
-      }
-    ]
-  },
-  {
-    "word": "nơi trú",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to live, dwell, reside"
-      }
-    ]
-  },
-  {
-    "word": "nơi quan sát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-observation location"
-      }
-    ]
-  },
-  {
-    "word": "nơtrođyn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-neutrodyne"
-      }
-    ]
-  },
-  {
-    "word": "nơi sinh sống",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "breeding ground, habitat"
-      }
-    ]
-  },
-  {
-    "word": "nơtron nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fast neutron\n-prompt neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi trữ và sản xuất bơ sữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dairy"
-      }
-    ]
-  },
-  {
-    "word": "nơron dẫn vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-afferent neuron"
-      }
-    ]
-  },
-  {
-    "word": "nơi ở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accommodation unit\n-habitat\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-above\n-residence"
-      }
-    ]
-  },
-  {
-    "word": "nơron tế bào thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuron"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa chất thải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-repository\n-waste storage"
-      }
-    ]
-  },
-  {
-    "word": "nơi góc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "corner (area, place)"
-      }
-    ]
-  },
-  {
-    "word": "nơi vùi nước thải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sewage burying"
-      }
-    ]
-  },
-  {
-    "word": "nơron có một sợi trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monaxon"
-      }
-    ]
-  },
-  {
-    "word": "nơi nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-recipient"
-      }
-    ]
-  },
-  {
-    "word": "nơron trung gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-interneuron"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-place\n@Chuyên ngành kỹ thuật\n-repository\n@Lĩnh vực: toán & tin\n-spool"
-      }
-    ]
-  },
-  {
-    "word": "nơi bị nhiễm bẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-contaminated site\n-problem site"
-      }
-    ]
-  },
-  {
-    "word": "nơi cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-altitude"
-      }
-    ]
-  },
-  {
-    "word": "nơron hình thể phân định rõ ràng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-somatochrome"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa nước (biển, sông, hồ, ao)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water basin"
+        "dict_definition": "@Chuyên ngành kinh tế\n-octroi"
       }
     ]
   },
@@ -1359,339 +1835,20 @@
     ]
   },
   {
-    "word": "nơi giết thịt",
+    "word": "nơvi nội bì",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-killing bed\n-slaughtering stand"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intradermal nevus"
       }
     ]
   },
   {
-    "word": "nơi vui chơi công cộng",
+    "word": "nơi phát/nơi thu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-place of public amusement"
-      }
-    ]
-  },
-  {
-    "word": "nơtrino sao siêu mới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-supernova neutrino"
-      }
-    ]
-  },
-  {
-    "word": "nơi đăng ký, phòng đăng ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-registry"
-      }
-    ]
-  },
-  {
-    "word": "nơtron sơ sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nascent neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi trốn thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax haven"
-      }
-    ]
-  },
-  {
-    "word": "nơi kiểm tra nội tạng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-viscera inspection stand"
-      }
-    ]
-  },
-  {
-    "word": "nơi rời bờ nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-CQR anchor (coastal quick release anchor)"
-      }
-    ]
-  },
-  {
-    "word": "nơi khai thác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-field"
-      }
-    ]
-  },
-  {
-    "word": "nơi gom dữ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data sink"
-      }
-    ]
-  },
-  {
-    "word": "nơi đỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-parking space"
-      }
-    ]
-  },
-  {
-    "word": "nơi giữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage"
-      }
-    ]
-  },
-  {
-    "word": "nơi ăn chốn ở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nơi ăn chốn ở [nơi ăn chốn ở]\n-bed and board;  accommodation;  housing\n@Chuyên ngành kinh tế\n-accommodations"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bed and board, accommodation, housing"
-      }
-    ]
-  },
-  {
-    "word": "nơi kênh đổ vào sông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outlet of a canal into a river"
-      }
-    ]
-  },
-  {
-    "word": "nơi đất lạ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "strange place, foreign land"
-      }
-    ]
-  },
-  {
-    "word": "nơtrino muyon (hạt cơ bản)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-muon neutrino"
-      }
-    ]
-  },
-  {
-    "word": "nơi đổ rác thải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-storage site\n-waste\n-waste dump\n-waste tip"
-      }
-    ]
-  },
-  {
-    "word": "nơi xuất phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-origin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-departure"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa trâu bò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pennage"
-      }
-    ]
-  },
-  {
-    "word": "nơtron tán xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-scattered neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi đỗ ôtô lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated rolling stock"
-      }
-    ]
-  },
-  {
-    "word": "nơi buôn bán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-emporium\n-trading place"
-      }
-    ]
-  },
-  {
-    "word": "nơi chuẩn bị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-workshop"
-      }
-    ]
-  },
-  {
-    "word": "nơtrino điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron neutrino"
-      }
-    ]
-  },
-  {
-    "word": "nơi làm nho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-grapery"
-      }
-    ]
-  },
-  {
-    "word": "nơtron nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-thermal neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi bán vé trong một rạp hát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-box-office"
-      }
-    ]
-  },
-  {
-    "word": "nơi trú ẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-refuge\n-refuge shelter\n-shelter"
-      }
-    ]
-  },
-  {
-    "word": "nơi bán đấu giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bidding block"
-      }
-    ]
-  },
-  {
-    "word": "nơtrino tô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tau neutrino"
-      }
-    ]
-  },
-  {
-    "word": "nơi gốc sản xuất (của sản phẩm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-place of origin"
-      }
-    ]
-  },
-  {
-    "word": "nơi cần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-weigh house"
-      }
-    ]
-  },
-  {
-    "word": "nơvi hình quả dâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mulberry mark"
-      }
-    ]
-  },
-  {
-    "word": "nơtron bay ra đầu tiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-first-flight neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi chôn rác cuối cùng (rác nguyên tử)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ultimate waste disposal"
-      }
-    ]
-  },
-  {
-    "word": "nơi đường bộ giao nhau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-highway crossing\n-highway intersection"
-      }
-    ]
-  },
-  {
-    "word": "nơi hợp lưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-junction\n@Lĩnh vực: xây dựng\n-stream confluence"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Originator/Recipient (O/R)"
       }
     ]
   },
@@ -1709,193 +1866,96 @@
     ]
   },
   {
-    "word": "nơ ron",
+    "word": "nơi giao hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-delivery platform"
+      }
+    ]
+  },
+  {
+    "word": "nơi nuôi cá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fishery"
+      }
+    ]
+  },
+  {
+    "word": "nơi để đồ thờ thánh (trong nhà thờ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sacristy"
+      }
+    ]
+  },
+  {
+    "word": "nơvi mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ascular nevus"
+      }
+    ]
+  },
+  {
+    "word": "nơtron bay ra đầu tiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-first-flight neutron"
+      }
+    ]
+  },
+  {
+    "word": "nơi nhận đồ mất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lost and found"
+      }
+    ]
+  },
+  {
+    "word": "nơtrino mặt trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-solar neutrino"
+      }
+    ]
+  },
+  {
+    "word": "nơi đất",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "nerve cell, neuron"
+        "dict_definition": "place, land"
       }
     ]
   },
   {
-    "word": "nơi sinh",
+    "word": "nơi ăn chốn ở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-place of birth"
-      }
-    ]
-  },
-  {
-    "word": "nơi kênh đổ ra sông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-canal mouth"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa thông báo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-message sink"
-      }
-    ]
-  },
-  {
-    "word": "nơi trốn đánh thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax resorts"
-      }
-    ]
-  },
-  {
-    "word": "nơi an nghĩ cuối cùng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "final resting place, grave"
-      }
-    ]
-  },
-  {
-    "word": "nơi ở cố định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-domicile"
-      }
-    ]
-  },
-  {
-    "word": "nơm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ đan thưa bằng tre, hình cái chuông, dùng để chụp bắt cá\nVí dụ:\n- \"Trách ai đặng cá quên nơm, Đặng chim bẻ ná, quên ơn sinh thành.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bắt cá bằng nơm\nVí dụ:\n- xách nơm đi nơm cá"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nơm\n- I. dt. Đồ đan bằng tre, dùng để úp, chụp cá: đan nơm. II. đgt. Dùng nơm để úp cá: đi nơm cá  nơm được nhiều ra phết."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nơm\n*noun\n-fishing-tackle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nơm\n* noun\n- fishing-tackle"
+        "dict_definition": "@nơi ăn chốn ở [nơi ăn chốn ở]\n-bed and board;  accommodation;  housing\n@Chuyên ngành kinh tế\n-accommodations"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "fishing-tackle"
+        "dict_definition": "bed and board, accommodation, housing"
       }
     ]
   },
   {
-    "word": "nơi vệ sinh (gia súc)",
+    "word": "nơi đổ rác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trim station"
-      }
-    ]
-  },
-  {
-    "word": "nơi đi giải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urinal"
-      }
-    ]
-  },
-  {
-    "word": "nơi thu thuế nhập thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-octroi"
-      }
-    ]
-  },
-  {
-    "word": "nơi thờ cúng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tabernacle"
-      }
-    ]
-  },
-  {
-    "word": "nơi tàu đậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-moorings"
-      }
-    ]
-  },
-  {
-    "word": "nơi bán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-salesroom (sales room, sales-room)"
-      }
-    ]
-  },
-  {
-    "word": "nơtron tức thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fast neutron\n-prompt neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơtreto",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-neutretto"
-      }
-    ]
-  },
-  {
-    "word": "nơi cư trú",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-habitation\n-place of domicile\n-residence\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-residence"
-      }
-    ]
-  },
-  {
-    "word": "nơi xếp hàng hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage"
-      }
-    ]
-  },
-  {
-    "word": "nơi thải đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-spoil area"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tipping site\n-waste dump\n-waste tip"
       }
     ]
   },
@@ -1909,83 +1969,137 @@
     ]
   },
   {
-    "word": "nơi thoáng đãng",
+    "word": "nơtron chậm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-open space"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-slow neutron"
       }
     ]
   },
   {
-    "word": "nơtron không ghép cặp",
+    "word": "nơron có một sợi trục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-unpaired neutron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monaxon"
       }
     ]
   },
   {
-    "word": "nơi đến lôgic",
+    "word": "nơi ẩn trú thuế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-logical destination"
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax haven"
       }
     ]
   },
   {
-    "word": "nơi nghỉ ngơi trên bờ biển",
+    "word": "nơi giết thịt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sea side resort"
+        "dict_definition": "@Chuyên ngành kinh tế\n-killing bed\n-slaughtering stand"
       }
     ]
   },
   {
-    "word": "nơi thu tiền",
+    "word": "nơi trữ và sản xuất bơ sữa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cash office"
+        "dict_definition": "@Chuyên ngành kinh tế\n-dairy"
       }
     ]
   },
   {
-    "word": "nơi trưng bày",
+    "word": "nơi gốc sản xuất (của sản phẩm)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gallery"
+        "dict_definition": "@Chuyên ngành kinh tế\n-place of origin"
       }
     ]
   },
   {
-    "word": "nơi chứa file ảo",
+    "word": "nơi khai thác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-virtual filestore"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-field"
       }
     ]
   },
   {
-    "word": "nơi giữ đồ gửi",
+    "word": "nơi bán đấu giá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-depository"
+        "dict_definition": "@Chuyên ngành kinh tế\n-bidding block"
       }
     ]
   },
   {
-    "word": "nơi chứa nước (biển, sông, hồ, ao...)",
+    "word": "nơvi hình tuyến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pond"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-linear nevus"
+      }
+    ]
+  },
+  {
+    "word": "nơi lưu trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-archive site\n-archiver\n-archives\n-archiving destination"
+      }
+    ]
+  },
+  {
+    "word": "nơi đóng trại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-camp"
+      }
+    ]
+  },
+  {
+    "word": "nơi lưu trữ thông tin (trong máy vi tính)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-storage location"
+      }
+    ]
+  },
+  {
+    "word": "nơi xa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "distant place, location"
+      }
+    ]
+  },
+  {
+    "word": "nơi trộn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mixing point"
+      }
+    ]
+  },
+  {
+    "word": "nơvi nhiễm sắc tố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pigmented nevus"
       }
     ]
   },
@@ -1999,56 +2113,200 @@
     ]
   },
   {
-    "word": "nơi chứa rác",
+    "word": "nơi giữ đồ gửi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rubbish-chute shaft"
+        "dict_definition": "@Chuyên ngành kinh tế\n-depository"
       }
     ]
   },
   {
-    "word": "nơi giao hàng",
+    "word": "nơi buôn bán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-delivery platform"
+        "dict_definition": "@Chuyên ngành kinh tế\n-emporium\n-trading place"
       }
     ]
   },
   {
-    "word": "nơi cung cấp nội dung",
+    "word": "nơi đến lôgic",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-content provider"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-logical destination"
       }
     ]
   },
   {
-    "word": "nơi nơi lũ đổ ra",
+    "word": "nơi cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-high water span"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-altitude"
       }
     ]
   },
   {
-    "word": "nơ-tron",
+    "word": "nơi cân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nơ-tron [nơtron]\n-(hoá học) (tiếng Pháp gọi là Neutron) neutron (an electrically neutral subatomic particle in the baryon family, having a mass 1,839 times that of the electron)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-weigh-house"
       }
     ]
   },
   {
-    "word": "nơi lưu trữ thông tin (trong máy tính)",
+    "word": "nơi tàu dừng lại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-storage location"
+        "dict_definition": "@Chuyên ngành kinh tế\n-roadstead"
+      }
+    ]
+  },
+  {
+    "word": "nơ ron",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nerve cell, neuron"
+      }
+    ]
+  },
+  {
+    "word": "nơi ẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-shelter"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa que",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stick holder"
+      }
+    ]
+  },
+  {
+    "word": "nơi thuê làm công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-employment area"
+      }
+    ]
+  },
+  {
+    "word": "nơi hẹn gặp gỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rendez-vous"
+      }
+    ]
+  },
+  {
+    "word": "nơi trốn đánh thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax resorts"
+      }
+    ]
+  },
+  {
+    "word": "nơi nguy hiểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dangerous place"
+      }
+    ]
+  },
+  {
+    "word": "nơi tiêu thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-market\n-outlet"
+      }
+    ]
+  },
+  {
+    "word": "nơi trú ẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-refuge\n-refuge shelter\n-shelter"
+      }
+    ]
+  },
+  {
+    "word": "nơron vận động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-motor nerone\n-motor neuron"
+      }
+    ]
+  },
+  {
+    "word": "nơi chứa chất thải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-repository\n-waste storage"
+      }
+    ]
+  },
+  {
+    "word": "nơi nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-recipient"
+      }
+    ]
+  },
+  {
+    "word": "nơi sản xuất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-origin of production"
+      }
+    ]
+  },
+  {
+    "word": "nơi đăng ký, phòng đăng ký",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-registry"
+      }
+    ]
+  },
+  {
+    "word": "nơi xảy ra vụ nổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-seat of explosion"
+      }
+    ]
+  },
+  {
+    "word": "nơi chôn tạm thời chất thải nguy hiểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-temporary deposit for hazardous waste"
       }
     ]
   },
@@ -2078,204 +2336,6 @@
     ]
   },
   {
-    "word": "nơi gửi hành lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-baggage room"
-      }
-    ]
-  },
-  {
-    "word": "nơi dự trữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-store"
-      }
-    ]
-  },
-  {
-    "word": "nơi đặt thiết bị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device location"
-      }
-    ]
-  },
-  {
-    "word": "nơi lưu trữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-archive site\n-archiver\n-archives\n-archiving destination"
-      }
-    ]
-  },
-  {
-    "word": "nơtrino electron",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron neutrino"
-      }
-    ]
-  },
-  {
-    "word": "nơi cự ngụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-home address"
-      }
-    ]
-  },
-  {
-    "word": "nơi gửi áo mũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-checkroom"
-      }
-    ]
-  },
-  {
-    "word": "nơi xa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "distant place, location"
-      }
-    ]
-  },
-  {
-    "word": "nơi chở hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipping place"
-      }
-    ]
-  },
-  {
-    "word": "nơi đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-point of origin"
-      }
-    ]
-  },
-  {
-    "word": "nơi đậu tại bến tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-berth"
-      }
-    ]
-  },
-  {
-    "word": "nơi đón/tiễn khách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-railtrack receiving/departing"
-      }
-    ]
-  },
-  {
-    "word": "nơron vận động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-motor nerone\n-motor neuron"
-      }
-    ]
-  },
-  {
-    "word": "nơi nguy hiểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dangerous place"
-      }
-    ]
-  },
-  {
-    "word": "nơtron nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-uncollided neutron\n-virgin neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi cung ứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-delivered site"
-      }
-    ]
-  },
-  {
-    "word": "nơvi thiếu máu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anemicus nevus"
-      }
-    ]
-  },
-  {
-    "word": "nơi tiểu tiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urinal"
-      }
-    ]
-  },
-  {
-    "word": "nơi tàu thả neo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-roadstead"
-      }
-    ]
-  },
-  {
-    "word": "nơtron phi nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-nonthermal neutron"
-      }
-    ]
-  },
-  {
-    "word": "nơi đổ rác (không hợp pháp)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-illegal dump site"
-      }
-    ]
-  },
-  {
-    "word": "nơi khai thác đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-quarry plant"
-      }
-    ]
-  },
-  {
     "word": "nơi đổ bê tông",
     "definitions": [
       {
@@ -2285,114 +2345,54 @@
     ]
   },
   {
-    "word": "nơi lưu trữ thông tin (trong máy vi tính)",
+    "word": "nơron trung gian",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-storage location"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-interneuron"
       }
     ]
   },
   {
-    "word": "nơi để mũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloak area (school)"
-      }
-    ]
-  },
-  {
-    "word": "nơi khác",
+    "word": "nơi sinh sống",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "other place, other location"
+        "dict_definition": "breeding ground, habitat"
       }
     ]
   },
   {
-    "word": "nơi hỏa táng",
+    "word": "nơi bán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crematorium"
+        "dict_definition": "@Chuyên ngành kinh tế\n-salesroom (sales room, sales-room)"
       }
     ]
   },
   {
-    "word": "nơi hẹn gặp gỡ",
+    "word": "nơi nơi",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khắp mọi nơi [nói khái quát]\nVí dụ:\n- nơi nơi đều nhất tề nổi dậy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nơi nơi\n- ph. Khắp mọi chỗ."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rendez-vous"
-      }
-    ]
-  },
-  {
-    "word": "nơvi nhiễm sắc tố",
-    "definitions": [
+        "dict_definition": "@nơi nơi\n-Everywhere, in every place\n=\n+em nơi (láy)"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pigmented nevus"
-      }
-    ]
-  },
-  {
-    "word": "nơi làm việc trên cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-work level"
-      }
-    ]
-  },
-  {
-    "word": "nơi chôn tạm thời chất thải nguy hiểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-temporary deposit for hazardous waste"
-      }
-    ]
-  },
-  {
-    "word": "nơi chung",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "common area"
-      }
-    ]
-  },
-  {
-    "word": "nơi làm việc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-job\n-office\n-working place\n-workplace"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nơi nơi\n- Everywhere, in every place\n=xem nơi (láy)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "workplace, office"
-      }
-    ]
-  },
-  {
-    "word": "nơi cập bến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-landfall"
-      }
-    ]
-  },
-  {
-    "word": "nơi chứa cuối cùng (rác)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-final storage\n-ultimate storage"
+        "dict_definition": "everywhere, in every place"
       }
     ]
   }

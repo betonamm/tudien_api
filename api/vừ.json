@@ -1,45 +1,156 @@
 [
   {
-    "word": "vừa quá",
+    "word": "vừa qua, gần đây",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "recent, just happened"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recent"
       }
     ]
   },
   {
-    "word": "vừa lúc",
+    "word": "vừa ý",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đúng với ý muốn, với yêu cầu của mình\nVí dụ:\n- chọn mãi mới được cái áo vừa ý \n - có mấy cũng không vừa ý"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa ý [vừa ý]\n-to please;  to satisfy;  to be to somebody\"s liking/taste\n-satisfactory"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pleasant, pleasing; content, happy, pleased"
+      }
+    ]
+  },
+  {
+    "word": "vừa vừa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vừa lúc\n-just at the moment"
+        "dict_definition": "@vừa vừa [vừa vừa]\n-moderate;  reasonable;  temperate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-media"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "moderate, reasonable, temperate"
+      }
+    ]
+  },
+  {
+    "word": "vừa hàn vừa tán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-double soldering and riveting"
+      }
+    ]
+  },
+  {
+    "word": "vừa phải",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở mức thoả đáng, hợp lí\nVí dụ:\n- quan tâm vừa phải \n - giữ khoảng cách vừa phải"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa phải [vừa phải]\n-moderate;  reasonable\n@Chuyên ngành kinh tế\n-moderate income\n-reasonable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moderate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "moderate, reasonable"
+      }
+    ]
+  },
+  {
+    "word": "vừa qua",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trước lúc nói một khoảng thời gian đại khái nào đó gần với thời điểm hiện tại\nVí dụ:\n- mấy ngày vừa qua \n - vừa qua phải nằm viện mất một tuần"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa qua [vừa qua]\n-last;  past\n-recently\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-previous"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "last, previous"
+      }
+    ]
+  },
+  {
+    "word": "vừa lòng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cảm thấy bằng lòng vì hợp với ý của mình\nVí dụ:\n- tôi vừa lòng về kết quả làm việc của anh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vừa lòng\n- tt. Cảm thấy bằng lòng vì hợp với ý mình: vui lòng khách đến vừa lòng khách đi  Cô làm thế tôi không vừa lòng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa lòng\n*adj\n-satisfied"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vừa lúc\n- just at the moment"
+        "dict_definition": "@vừa lòng\n* adj\n- satisfied"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "just at the moment"
+        "dict_definition": "happy, content, satisfied"
       }
     ]
   },
   {
-    "word": "vừa dán vừa đóng đinh",
+    "word": "vừa sức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glue nailed"
+        "dict_definition": "@vừa sức\n*phhó từ\n-in one\"s power, fedible"
       }
     ]
   },
   {
-    "word": "vừa tầm bắn",
+    "word": "vừa là buồng tiếp khách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-efficiency apartment"
+      }
+    ]
+  },
+  {
+    "word": "vừa ý về",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to be within firing range"
+        "dict_definition": "to be pleased with ~"
+      }
+    ]
+  },
+  {
+    "word": "vừa tầm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vừa tầm\n- tt, trgt Đúng với mức, không xa quá: Vừa tầm mắt nhìn; Con chim đậu trên cành vừa tầm súng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa tầm\n-within reach of"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vừa tầm\n- within reach of"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "within reach of"
       }
     ]
   },
@@ -57,20 +168,63 @@
     ]
   },
   {
-    "word": "vừa câm vừa điếc",
+    "word": "vừa lúc ấy",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "deaf and dumb"
+        "dict_definition": "just at that moment"
       }
     ]
   },
   {
-    "word": "vừa ăn cướp vừa la làng",
+    "word": "vừa kể",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "aforementioned, abovementioned"
+      }
+    ]
+  },
+  {
+    "word": "vừa lúa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vừa ăn cướp vừa la làng [vừa ăn cướp vừa la làng]\n-he carries fire in one hand and water in the other"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-granary"
+      }
+    ]
+  },
+  {
+    "word": "vừa mắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ưng ý khi nhìn thấy\nVí dụ:\n- chiếc áo trông rất vừa mắt"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa mắt - pleasant to the eyes"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pleasant to the eyes"
+      }
+    ]
+  },
+  {
+    "word": "vừa rồi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vừa mới gần đây thôi\nVí dụ:\n- tuần vừa rồi \n - lần gặp vừa rồi, trông nó vẫn khoẻ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa rồi [vừa rồi]\n-lately;  recently"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lately, recently; past, previous, recent"
       }
     ]
   },
@@ -100,29 +254,11 @@
     ]
   },
   {
-    "word": "vừa lúc ấy",
+    "word": "vừa dán vừa đóng đinh",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "just at that moment"
-      }
-    ]
-  },
-  {
-    "word": "vừa kể trên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "aforementioned"
-      }
-    ]
-  },
-  {
-    "word": "vừa xảy ra",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have just occurred, just happened"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glue nailed"
       }
     ]
   },
@@ -140,11 +276,91 @@
     ]
   },
   {
-    "word": "vừa hàn vừa tán",
+    "word": "vừa nói",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "aforementioned; just said"
+      }
+    ]
+  },
+  {
+    "word": "vừa tay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-double soldering and riveting"
+        "dict_definition": "@vừa tay - fit, suitable to the hand"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fit, suitable to the hand"
+      }
+    ]
+  },
+  {
+    "word": "vừa đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-adequate\n@Lĩnh vực: toán & tin\n-enough"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "just enough (to do something)"
+      }
+    ]
+  },
+  {
+    "word": "vừng nóng chảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-melting zone"
+      }
+    ]
+  },
+  {
+    "word": "vừa nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-optimum"
+      }
+    ]
+  },
+  {
+    "word": "vừa có chữ vừa có số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-alphanumeric"
+      }
+    ]
+  },
+  {
+    "word": "vừa hạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium granular"
+      }
+    ]
+  },
+  {
+    "word": "vừa kể trên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "aforementioned"
+      }
+    ]
+  },
+  {
+    "word": "vừa câm vừa điếc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "deaf and dumb"
       }
     ]
   },
@@ -158,114 +374,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "just as, as soon as"
-      }
-    ]
-  },
-  {
-    "word": "vừa miệng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[thức ăn] có vị đúng mức, không nhạt quá, cũng không mặn quá hoặc ngọt quá\nVí dụ:\n- nêm thêm chút gia vị cho vừa miệng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa miệng\n*tính từ\n-pleasant to taste, tasty\n-mouthful, a piece that fits the mounth"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to suit one’s taste"
-      }
-    ]
-  },
-  {
-    "word": "vừa kể",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "aforementioned, abovementioned"
-      }
-    ]
-  },
-  {
-    "word": "vừng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây hoa màu trắng, quả có khía, khi chín tự nứt ra, hạt nhỏ màu đen hoặc trắng, chứa nhiều dầu, dùng để ăn\nVí dụ:\n- dầu vừng \n - hoa vừng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem vầng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vừng\n- 1 d. Cây nhỏ, hoa màu trắng, quả dài có khía, khi chín tự nứt ra, hạt nhỏ có nhiều dầu, dùng để ăn. Kẹo vừng. Muối vừng.\n- 2 (ph.). x. vầng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừng\n*noun\n-sesame\n@Chuyên ngành kinh tế\n-sesame"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vừng\n* noun\n- sesame"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sesame"
-      }
-    ]
-  },
-  {
-    "word": "vừa ~ vừa ~",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "and ~ and"
-      }
-    ]
-  },
-  {
-    "word": "vừa ý về",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be pleased with ~"
-      }
-    ]
-  },
-  {
-    "word": "vừa qua",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trước lúc nói một khoảng thời gian đại khái nào đó gần với thời điểm hiện tại\nVí dụ:\n- mấy ngày vừa qua \n - vừa qua phải nằm viện mất một tuần"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa qua [vừa qua]\n-last;  past\n-recently\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-previous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "last, previous"
-      }
-    ]
-  },
-  {
-    "word": "vừa qua, gần đây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recent"
-      }
-    ]
-  },
-  {
-    "word": "vừa sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa sức\n*phhó từ\n-in one\"s power, fedible"
       }
     ]
   },
@@ -307,175 +415,90 @@
     ]
   },
   {
-    "word": "vừa vừa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa vừa [vừa vừa]\n-moderate;  reasonable;  temperate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-media"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "moderate, reasonable, temperate"
-      }
-    ]
-  },
-  {
-    "word": "vừng nóng chảy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-melting zone"
-      }
-    ]
-  },
-  {
-    "word": "vừa lòng",
+    "word": "vừa miệng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cảm thấy bằng lòng vì hợp với ý của mình\nVí dụ:\n- tôi vừa lòng về kết quả làm việc của anh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vừa lòng\n- tt. Cảm thấy bằng lòng vì hợp với ý mình: vui lòng khách đến vừa lòng khách đi  Cô làm thế tôi không vừa lòng."
+        "dict_definition": "[thức ăn] có vị đúng mức, không nhạt quá, cũng không mặn quá hoặc ngọt quá\nVí dụ:\n- nêm thêm chút gia vị cho vừa miệng"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vừa lòng\n*adj\n-satisfied"
+        "dict_definition": "@vừa miệng\n*tính từ\n-pleasant to taste, tasty\n-mouthful, a piece that fits the mounth"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to suit one’s taste"
+      }
+    ]
+  },
+  {
+    "word": "vừa lúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vừa lúc\n-just at the moment"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vừa lòng\n* adj\n- satisfied"
+        "dict_definition": "@vừa lúc\n- just at the moment"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "happy, content, satisfied"
+        "dict_definition": "just at the moment"
       }
     ]
   },
   {
-    "word": "vừa rồi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vừa mới gần đây thôi\nVí dụ:\n- tuần vừa rồi \n - lần gặp vừa rồi, trông nó vẫn khoẻ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa rồi [vừa rồi]\n-lately;  recently"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lately, recently; past, previous, recent"
-      }
-    ]
-  },
-  {
-    "word": "vừa (phải)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-medium"
-      }
-    ]
-  },
-  {
-    "word": "vừa nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-optimum"
-      }
-    ]
-  },
-  {
-    "word": "vừa vặn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vừa khớp, vừa đúng\nVí dụ:\n- áo mặc vừa vặn \n - số tiền còn vừa vặn để mua"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa vặn\n*phó từ\n-fit, suitable, act in time"
-      }
-    ]
-  },
-  {
-    "word": "vừa nói",
+    "word": "vừa quá",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "aforementioned; just said"
+        "dict_definition": "recent, just happened"
       }
     ]
   },
   {
-    "word": "vừa đủ",
+    "word": "vừa tầm bắn",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-adequate\n@Lĩnh vực: toán & tin\n-enough"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "just enough (to do something)"
+        "dict_definition": "to be within firing range"
       }
     ]
   },
   {
-    "word": "vừa lúa",
+    "word": "vừa đá bóng vừa thổi còi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-granary"
+        "dict_definition": "@vừa đá bóng vừa thổi còi [vừa đá bóng vừa thổi còi]\n-to be the judge in one\"s own case"
       }
     ]
   },
   {
-    "word": "vừa là buồng tiếp khách",
+    "word": "vừa ăn cướp vừa la làng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-efficiency apartment"
+        "dict_definition": "@vừa ăn cướp vừa la làng [vừa ăn cướp vừa la làng]\n-he carries fire in one hand and water in the other"
       }
     ]
   },
   {
-    "word": "vừa tầm",
+    "word": "vừa ~ vừa ~",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vừa tầm\n- tt, trgt Đúng với mức, không xa quá: Vừa tầm mắt nhìn; Con chim đậu trên cành vừa tầm súng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa tầm\n-within reach of"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vừa tầm\n- within reach of"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "within reach of"
+        "dict_definition": "and ~ and"
       }
     ]
   },
   {
-    "word": "vừa mắt",
+    "word": "vừa xảy ra",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ưng ý khi nhìn thấy\nVí dụ:\n- chiếc áo trông rất vừa mắt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa mắt - pleasant to the eyes"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "pleasant to the eyes"
+        "dict_definition": "to have just occurred, just happened"
       }
     ]
   },
@@ -493,54 +516,6 @@
     ]
   },
   {
-    "word": "vừa có chữ vừa có số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-alphanumeric"
-      }
-    ]
-  },
-  {
-    "word": "vừa tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa tay - fit, suitable to the hand"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fit, suitable to the hand"
-      }
-    ]
-  },
-  {
-    "word": "vừa đá bóng vừa thổi còi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa đá bóng vừa thổi còi [vừa đá bóng vừa thổi còi]\n-to be the judge in one\"s own case"
-      }
-    ]
-  },
-  {
-    "word": "vừa phải",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở mức thoả đáng, hợp lí\nVí dụ:\n- quan tâm vừa phải \n - giữ khoảng cách vừa phải"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vừa phải [vừa phải]\n-moderate;  reasonable\n@Chuyên ngành kinh tế\n-moderate income\n-reasonable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moderate"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "moderate, reasonable"
-      }
-    ]
-  },
-  {
     "word": "vừa lứa",
     "definitions": [
       {
@@ -550,28 +525,53 @@
     ]
   },
   {
-    "word": "vừa hạt",
+    "word": "vừa vặn",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vừa khớp, vừa đúng\nVí dụ:\n- áo mặc vừa vặn \n - số tiền còn vừa vặn để mua"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium granular"
+        "dict_definition": "@vừa vặn\n*phó từ\n-fit, suitable, act in time"
       }
     ]
   },
   {
-    "word": "vừa ý",
+    "word": "vừa (phải)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-medium"
+      }
+    ]
+  },
+  {
+    "word": "vừng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đúng với ý muốn, với yêu cầu của mình\nVí dụ:\n- chọn mãi mới được cái áo vừa ý \n - có mấy cũng không vừa ý"
+        "dict_definition": "cây hoa màu trắng, quả có khía, khi chín tự nứt ra, hạt nhỏ màu đen hoặc trắng, chứa nhiều dầu, dùng để ăn\nVí dụ:\n- dầu vừng \n - hoa vừng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem vầng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vừng\n- 1 d. Cây nhỏ, hoa màu trắng, quả dài có khía, khi chín tự nứt ra, hạt nhỏ có nhiều dầu, dùng để ăn. Kẹo vừng. Muối vừng.\n- 2 (ph.). x. vầng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vừa ý [vừa ý]\n-to please;  to satisfy;  to be to somebody\"s liking/taste\n-satisfactory"
+        "dict_definition": "@vừng\n*noun\n-sesame\n@Chuyên ngành kinh tế\n-sesame"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vừng\n* noun\n- sesame"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "pleasant, pleasing; content, happy, pleased"
+        "dict_definition": "sesame"
       }
     ]
   }

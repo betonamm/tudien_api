@@ -1,23 +1,36 @@
 [
   {
-    "word": "tởn",
+    "word": "tở",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@tởn [tởn]\n-be afraid of, dread, stand in awe of"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be afraid of, dread, stand in awe of"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rời ra hoặc làm cho rời nhau ra, không còn kết dính vào với nhau nữa\nVí dụ:\n- vôi tở \n - đất đang tở ra từng tảng"
       }
     ]
   },
   {
-    "word": "tở mở",
+    "word": "tởm lợm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hớn hở, phấn khởi\nVí dụ:\n- reo hò tở mở"
+        "dict_definition": "có cảm giác ghê tởm đến lợm giọng, buồn nôn\nVí dụ:\n- mùi máu tanh tởm lợm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tởm lợm [tởm lợm]\n-distgusting, feel or show loathing, keck"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "disgusting, feel or show loathing"
+      }
+    ]
+  },
+  {
+    "word": "tở ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-unspool"
       }
     ]
   },
@@ -43,37 +56,24 @@
     ]
   },
   {
-    "word": "tở ra",
+    "word": "tởn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-unspool"
-      }
-    ]
-  },
-  {
-    "word": "tở",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rời ra hoặc làm cho rời nhau ra, không còn kết dính vào với nhau nữa\nVí dụ:\n- vôi tở \n - đất đang tở ra từng tảng"
-      }
-    ]
-  },
-  {
-    "word": "tởm lợm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác ghê tởm đến lợm giọng, buồn nôn\nVí dụ:\n- mùi máu tanh tởm lợm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tởm lợm [tởm lợm]\n-distgusting, feel or show loathing, keck"
+        "dict_definition": "@tởn [tởn]\n-be afraid of, dread, stand in awe of"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "disgusting, feel or show loathing"
+        "dict_definition": "be afraid of, dread, stand in awe of"
+      }
+    ]
+  },
+  {
+    "word": "tở mở",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hớn hở, phấn khởi\nVí dụ:\n- reo hò tở mở"
       }
     ]
   }

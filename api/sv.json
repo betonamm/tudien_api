@@ -1,14 +1,5 @@
 [
   {
-    "word": "svd",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Supplementary Volume Descriptor"
-      }
-    ]
-  },
-  {
     "word": "sv",
     "definitions": [
       {
@@ -23,6 +14,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Analogue SVD (ASVD)"
+      }
+    ]
+  },
+  {
+    "word": "svd",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Supplementary Volume Descriptor"
       }
     ]
   },

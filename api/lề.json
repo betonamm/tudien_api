@@ -1,130 +1,19 @@
 [
   {
-    "word": "lều du lịch",
+    "word": "lềnh",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tourist cabin\n-tourist hut"
-      }
-    ]
-  },
-  {
-    "word": "lề trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-top margin\n@Lĩnh vực: toán & tin\n-top margins"
-      }
-    ]
-  },
-  {
-    "word": "lề pha giới hạn pha",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-phase margin"
-      }
-    ]
-  },
-  {
-    "word": "lều che",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-protective tent"
-      }
-    ]
-  },
-  {
-    "word": "lề trái không dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ragged left"
-      }
-    ]
-  },
-  {
-    "word": "lề phía trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-head margin"
-      }
-    ]
-  },
-  {
-    "word": "lề cửa sổ phía dưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lower window edge"
-      }
-    ]
-  },
-  {
-    "word": "lề trái hiện hành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-current left margin"
-      }
-    ]
-  },
-  {
-    "word": "lều nghều",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lêu nghêu\nVí dụ:\n- người cao lều nghều \n - sào dài lều nghều"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[tay, chân] quá dài và gầy gò, khiến cử động vụng về, chậm chạp\nVí dụ:\n- tay dài lều nghều như tay vượn"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lều nghều\n- Nói chân tay ngượng nghịu và không nhanh nhẹn gọn gàng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lều nghều [lều nghều]\n-như\n-long and thin"
+        "dict_definition": "@lềnh\n- d. Ngôi thứ trong làng dưới thời phong kiến, dành cho những người nhiều tuổi."
       }
     ]
   },
   {
-    "word": "lề phản chiếu",
+    "word": "lề liên kết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mirror margins"
-      }
-    ]
-  },
-  {
-    "word": "lều to",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-marquee"
-      }
-    ]
-  },
-  {
-    "word": "lề đường băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-runway shoulders"
-      }
-    ]
-  },
-  {
-    "word": "lề đường không gia cố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-unsurfaced shoulder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-binding margin"
       }
     ]
   },
@@ -138,20 +27,11 @@
     ]
   },
   {
-    "word": "lề lối công chức bàn giấy",
+    "word": "lề đường lát đá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-red tape"
-      }
-    ]
-  },
-  {
-    "word": "lều ở núi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mountain shelter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-paved shoulders"
       }
     ]
   },
@@ -193,40 +73,6 @@
     ]
   },
   {
-    "word": "lề mề",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chậm chạp, không khẩn trương, để kéo dài công việc\nVí dụ:\n- đi đứng lề mề \n - tác phong lề mề, chậm chạp \n - anh là chúa lề mề!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lề mề\n- t. Chậm chạp, không khẩn trương, để kéo dài công việc. Tác phong lề mề. Họp hành lề mề."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lề mề\n-dwadling ; idle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lề mề\n- dwadling ; idle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dwadling, idle"
-      }
-    ]
-  },
-  {
-    "word": "lều oxy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxygen tent"
-      }
-    ]
-  },
-  {
     "word": "lềnh kềnh",
     "definitions": [
       {
@@ -240,393 +86,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "bulky, cumbersome, unwieldy"
-      }
-    ]
-  },
-  {
-    "word": "lều tranh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bourock"
-      }
-    ]
-  },
-  {
-    "word": "lề đường (phố)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pavement\n-sidewalk"
-      }
-    ]
-  },
-  {
-    "word": "lề thói",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thói quen xã hội từ lâu đã thành nếp\nVí dụ:\n- sống theo lề thói cũ \n - loại bỏ lề thói cổ hủ, lạc hậu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lề thói\n- dt. Thói quen chung từ lâu đã thành nếp: lề thói lạc hậu  bỏ dần lề thói làm ăn cũ kĩ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lề thói\n*noun\n-practice\n@Chuyên ngành kỹ thuật\n-custom\n-habit"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lề thói\n* noun\n- practice"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "custom, habit, practice"
-      }
-    ]
-  },
-  {
-    "word": "lề phải lởm chởm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ragged right"
-      }
-    ]
-  },
-  {
-    "word": "lề tự do",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-free margin"
-      }
-    ]
-  },
-  {
-    "word": "lề bên trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gutter"
-      }
-    ]
-  },
-  {
-    "word": "lều một mái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lean-to"
-      }
-    ]
-  },
-  {
-    "word": "lều du mục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cabana"
-      }
-    ]
-  },
-  {
-    "word": "lềnh bềnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái nổi hẳn lên trên mặt nước và trôi nhẹ nhàng theo làn sóng\nVí dụ:\n- quả bóng nổi lềnh bềnh \n - rác rưởi trôi lềnh bềnh trên sông"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lềnh bềnh\n- Nói nổi ở mặt nước và bị sóng đưa lên đưa xuống : Cây gỗ lềnh bềnh ở mặt sông."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lềnh bềnh\n*adj\n-cumbrous, cumbersome"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lềnh bềnh\n* adj\n- cumbrous, cumbersome"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to float, drift"
-      }
-    ]
-  },
-  {
-    "word": "lề nội dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-inline margin"
-      }
-    ]
-  },
-  {
-    "word": "lều, nhà tạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-shelter"
-      }
-    ]
-  },
-  {
-    "word": "lềnh phềnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái nổi vật vờ trên mặt nước, gây cảm giác nhơ bẩn\nVí dụ:\n- cỏ rác lềnh phềnh trên mặt ao \n - cá chết nổi lềnh phềnh"
-      }
-    ]
-  },
-  {
-    "word": "lề trồng cỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-protective shoulder"
-      }
-    ]
-  },
-  {
-    "word": "lề nhận (trong ứng dụng điện báo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-receiving margin"
-      }
-    ]
-  },
-  {
-    "word": "lề in",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-printing margin"
-      }
-    ]
-  },
-  {
-    "word": "lề giấy có cửa sổ (để dán giấy rời...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-window tap"
-      }
-    ]
-  },
-  {
-    "word": "lề đường được gia cố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hard shoulder\n-hardened verge"
-      }
-    ]
-  },
-  {
-    "word": "lềnh đềnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bồ nông"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lềnh đềnh [lềnh đềnh]\n-pelican"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pelican"
-      }
-    ]
-  },
-  {
-    "word": "lều chứa hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-freight shed\n-goods shed"
-      }
-    ]
-  },
-  {
-    "word": "lều quán",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ lều quán\n- Nhà nhỏ ở bên đường, để nghỉ chân, trú mưa, tránh nắng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lều quán [lều quán]\n-small straw hut"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "small straw hut"
-      }
-    ]
-  },
-  {
-    "word": "lều chứa củi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-woodshed"
-      }
-    ]
-  },
-  {
-    "word": "lềnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lềnh\n- d. Ngôi thứ trong làng dưới thời phong kiến, dành cho những người nhiều tuổi."
-      }
-    ]
-  },
-  {
-    "word": "lều bảo hộ lao động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-workers\" protective tent"
-      }
-    ]
-  },
-  {
-    "word": "lề đường lát sỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravel sidewalk"
-      }
-    ]
-  },
-  {
-    "word": "lề thói làm việc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "work habits"
-      }
-    ]
-  },
-  {
-    "word": "lề giấy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "margin (on a sheet of paper)"
-      }
-    ]
-  },
-  {
-    "word": "lề thói đã quen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-routine"
-      }
-    ]
-  },
-  {
-    "word": "lề liên kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-binding margin"
-      }
-    ]
-  },
-  {
-    "word": "lề, mép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-margin"
-      }
-    ]
-  },
-  {
-    "word": "lề mà lề mề",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lề mề [nhưng ý mức độ nhiều hơn]"
-      }
-    ]
-  },
-  {
-    "word": "lề trái lởm chởm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ragged left"
-      }
-    ]
-  },
-  {
-    "word": "lề luật",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lề luật\n- Nh. Lệ luật."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lề luật [lề luật]\n-xem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "custom, regulation"
-      }
-    ]
-  },
-  {
-    "word": "lề đóng gáy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-binding offset"
-      }
-    ]
-  },
-  {
-    "word": "lều tạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-overlap\n-pavilion\n-shelter"
-      }
-    ]
-  },
-  {
-    "word": "lề đường",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần mép hai bên đường có tác dụng bảo vệ mặt đường, thường dành cho người đi bộ\nVí dụ:\n- đi bộ bên lề đường"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lề đường\n- dt. Hai mép đường, dành cho người đi bộ: đi vào lề đường."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lề đường\n*noun\n-pavement; sidewalk ; road-side\n@Chuyên ngành kỹ thuật\n-break\n-curb\n-field side\n-foot-path\n-footway\n-kerb\n-road edge\n-road shoulder\n-roadside\n-shoulder\n-side pavement\n-sidewalk\n-verge\n-wayside"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lề đường\n* noun\n- pavement; sidewalk ; road-side"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pavement, sidewalk, road-side"
       }
     ]
   },
@@ -656,29 +115,59 @@
     ]
   },
   {
-    "word": "lề gương",
+    "word": "lề phải lởm chởm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mirror margin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ragged right"
       }
     ]
   },
   {
-    "word": "lề cửa sổ phía trên",
+    "word": "lều bều",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái nổi lềnh bềnh trên mặt nước, trông bẩn mắt\nVí dụ:\n- rác rưởi lều bều trên mặt sông"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lều bều\n- Nói vật nhẹ nổi trên mặt nước: Tóp mỡ nổi lều bều trên bát riêu cua."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-upper window edge"
+        "dict_definition": "@lều bều [lều bều]\n-float, drift"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "float, drift"
       }
     ]
   },
   {
-    "word": "lề phải",
+    "word": "lều tạm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-right margin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-overlap\n-pavilion\n-shelter"
+      }
+    ]
+  },
+  {
+    "word": "lề đóng gáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-binding offset"
+      }
+    ]
+  },
+  {
+    "word": "lề nhận (trong ứng dụng điện báo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-receiving margin"
       }
     ]
   },
@@ -692,6 +181,301 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@lều chõng [lều chõng]\n-tent and bamboo camp-bed of a candidate, for mandarinal examination (in feudal Vietnam)"
+      }
+    ]
+  },
+  {
+    "word": "lề lối công chức bàn giấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-red tape"
+      }
+    ]
+  },
+  {
+    "word": "lềnh phềnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái nổi vật vờ trên mặt nước, gây cảm giác nhơ bẩn\nVí dụ:\n- cỏ rác lềnh phềnh trên mặt ao \n - cá chết nổi lềnh phềnh"
+      }
+    ]
+  },
+  {
+    "word": "lề in",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-printing margin"
+      }
+    ]
+  },
+  {
+    "word": "lề thói làm việc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "work habits"
+      }
+    ]
+  },
+  {
+    "word": "lề máng xối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gutter margin"
+      }
+    ]
+  },
+  {
+    "word": "lề đường được gia cố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hard shoulder\n-hardened verge"
+      }
+    ]
+  },
+  {
+    "word": "lề phân cách cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hard shoulder"
+      }
+    ]
+  },
+  {
+    "word": "lề nội dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-inline margin"
+      }
+    ]
+  },
+  {
+    "word": "lề đường băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-runway shoulders"
+      }
+    ]
+  },
+  {
+    "word": "lều tranh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bourock"
+      }
+    ]
+  },
+  {
+    "word": "lề trái hiện hành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-current left margin"
+      }
+    ]
+  },
+  {
+    "word": "lề trái không dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ragged left"
+      }
+    ]
+  },
+  {
+    "word": "lề gương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mirror margin"
+      }
+    ]
+  },
+  {
+    "word": "lề thói hằng ngày, quy định thời hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n@Lĩnh vực: ttck\n-tenor"
+      }
+    ]
+  },
+  {
+    "word": "lề trái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-left margin"
+      }
+    ]
+  },
+  {
+    "word": "lề trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-top margin\n@Lĩnh vực: toán & tin\n-top margins"
+      }
+    ]
+  },
+  {
+    "word": "lề biên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back margin"
+      }
+    ]
+  },
+  {
+    "word": "lều ở núi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mountain shelter"
+      }
+    ]
+  },
+  {
+    "word": "lề phản chiếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mirror margins"
+      }
+    ]
+  },
+  {
+    "word": "lề mề",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chậm chạp, không khẩn trương, để kéo dài công việc\nVí dụ:\n- đi đứng lề mề \n - tác phong lề mề, chậm chạp \n - anh là chúa lề mề!"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lề mề\n- t. Chậm chạp, không khẩn trương, để kéo dài công việc. Tác phong lề mề. Họp hành lề mề."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lề mề\n-dwadling ; idle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lề mề\n- dwadling ; idle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dwadling, idle"
+      }
+    ]
+  },
+  {
+    "word": "lều bảo hộ lao động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-workers\" protective tent"
+      }
+    ]
+  },
+  {
+    "word": "lều nghều",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như lêu nghêu\nVí dụ:\n- người cao lều nghều \n - sào dài lều nghều"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[tay, chân] quá dài và gầy gò, khiến cử động vụng về, chậm chạp\nVí dụ:\n- tay dài lều nghều như tay vượn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lều nghều\n- Nói chân tay ngượng nghịu và không nhanh nhẹn gọn gàng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lều nghều [lều nghều]\n-như\n-long and thin"
+      }
+    ]
+  },
+  {
+    "word": "lều chứa hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-freight shed\n-goods shed"
+      }
+    ]
+  },
+  {
+    "word": "lều oxy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxygen tent"
+      }
+    ]
+  },
+  {
+    "word": "lều chứa củi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-woodshed"
+      }
+    ]
+  },
+  {
+    "word": "lề đường",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần mép hai bên đường có tác dụng bảo vệ mặt đường, thường dành cho người đi bộ\nVí dụ:\n- đi bộ bên lề đường"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lề đường\n- dt. Hai mép đường, dành cho người đi bộ: đi vào lề đường."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lề đường\n*noun\n-pavement; sidewalk ; road-side\n@Chuyên ngành kỹ thuật\n-break\n-curb\n-field side\n-foot-path\n-footway\n-kerb\n-road edge\n-road shoulder\n-roadside\n-shoulder\n-side pavement\n-sidewalk\n-verge\n-wayside"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lề đường\n* noun\n- pavement; sidewalk ; road-side"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pavement, sidewalk, road-side"
+      }
+    ]
+  },
+  {
+    "word": "lều quán",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ lều quán\n- Nhà nhỏ ở bên đường, để nghỉ chân, trú mưa, tránh nắng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lều quán [lều quán]\n-small straw hut"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "small straw hut"
       }
     ]
   },
@@ -721,59 +505,37 @@
     ]
   },
   {
-    "word": "lề đường đi bộ",
+    "word": "lề luật",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-moving pedestrian path"
-      }
-    ]
-  },
-  {
-    "word": "lề biên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back margin"
-      }
-    ]
-  },
-  {
-    "word": "lều bều",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái nổi lềnh bềnh trên mặt nước, trông bẩn mắt\nVí dụ:\n- rác rưởi lều bều trên mặt sông"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lều bều\n- Nói vật nhẹ nổi trên mặt nước: Tóp mỡ nổi lều bều trên bát riêu cua."
+        "dict_definition": "@lề luật\n- Nh. Lệ luật."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lều bều [lều bều]\n-float, drift"
+        "dict_definition": "@lề luật [lề luật]\n-xem"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "float, drift"
+        "dict_definition": "custom, regulation"
       }
     ]
   },
   {
-    "word": "lề máng xối",
+    "word": "lề cuối trang",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gutter margin"
+        "dict_definition": "@Chuyên ngành kinh tế\n-bottom margin"
       }
     ]
   },
   {
-    "word": "lề đường lát đá",
+    "word": "lề giấy có cửa sổ (để dán giấy rời...)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-paved shoulders"
+        "dict_definition": "@Chuyên ngành kinh tế\n-window tap"
       }
     ]
   },
@@ -783,6 +545,57 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-booth"
+      }
+    ]
+  },
+  {
+    "word": "lềnh đềnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bồ nông"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lềnh đềnh [lềnh đềnh]\n-pelican"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pelican"
+      }
+    ]
+  },
+  {
+    "word": "lều lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold tent\n-refrigeration tent"
+      }
+    ]
+  },
+  {
+    "word": "lề thói",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thói quen xã hội từ lâu đã thành nếp\nVí dụ:\n- sống theo lề thói cũ \n - loại bỏ lề thói cổ hủ, lạc hậu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lề thói\n- dt. Thói quen chung từ lâu đã thành nếp: lề thói lạc hậu  bỏ dần lề thói làm ăn cũ kĩ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lề thói\n*noun\n-practice\n@Chuyên ngành kỹ thuật\n-custom\n-habit"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lề thói\n* noun\n- practice"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "custom, habit, practice"
       }
     ]
   },
@@ -804,11 +617,83 @@
     ]
   },
   {
-    "word": "lề phân cách cứng",
+    "word": "lề đường lát sỏi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hard shoulder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravel sidewalk"
+      }
+    ]
+  },
+  {
+    "word": "lề đường (phố)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pavement\n-sidewalk"
+      }
+    ]
+  },
+  {
+    "word": "lề cửa sổ phía trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-upper window edge"
+      }
+    ]
+  },
+  {
+    "word": "lề phía trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-head margin"
+      }
+    ]
+  },
+  {
+    "word": "lề tự do",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-free margin"
+      }
+    ]
+  },
+  {
+    "word": "lề trái lởm chởm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ragged left"
+      }
+    ]
+  },
+  {
+    "word": "lều du lịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tourist cabin\n-tourist hut"
+      }
+    ]
+  },
+  {
+    "word": "lề mà lề mề",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như lề mề [nhưng ý mức độ nhiều hơn]"
+      }
+    ]
+  },
+  {
+    "word": "lề phải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-right margin"
       }
     ]
   },
@@ -822,38 +707,38 @@
     ]
   },
   {
-    "word": "lề cuối trang",
+    "word": "lều du mục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bottom margin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cabana"
       }
     ]
   },
   {
-    "word": "lề phải không dấu",
+    "word": "lề, mép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ragged right"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-margin"
       }
     ]
   },
   {
-    "word": "lề dẫn",
+    "word": "lều vải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-guide margin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-awning\n@Lĩnh vực: xây dựng\n-pavilion"
       }
     ]
   },
   {
-    "word": "lề trái",
+    "word": "lề cửa sổ phía dưới",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-left margin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lower window edge"
       }
     ]
   },
@@ -867,20 +752,29 @@
     ]
   },
   {
-    "word": "lề dưới",
+    "word": "lề dẫn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bottom margin\n-tail"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-guide margin"
       }
     ]
   },
   {
-    "word": "lều lạnh",
+    "word": "lề pha giới hạn pha",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold tent\n-refrigeration tent"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-phase margin"
+      }
+    ]
+  },
+  {
+    "word": "lề thói đã quen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-routine"
       }
     ]
   },
@@ -894,20 +788,126 @@
     ]
   },
   {
-    "word": "lề thói hằng ngày, quy định thời hạn",
+    "word": "lề phải không dấu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n@Lĩnh vực: ttck\n-tenor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ragged right"
       }
     ]
   },
   {
-    "word": "lều vải",
+    "word": "lều to",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-awning\n@Lĩnh vực: xây dựng\n-pavilion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-marquee"
+      }
+    ]
+  },
+  {
+    "word": "lều một mái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lean-to"
+      }
+    ]
+  },
+  {
+    "word": "lề giấy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "margin (on a sheet of paper)"
+      }
+    ]
+  },
+  {
+    "word": "lề dưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bottom margin\n-tail"
+      }
+    ]
+  },
+  {
+    "word": "lề bên trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gutter"
+      }
+    ]
+  },
+  {
+    "word": "lề đường không gia cố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-unsurfaced shoulder"
+      }
+    ]
+  },
+  {
+    "word": "lều che",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-protective tent"
+      }
+    ]
+  },
+  {
+    "word": "lề đường đi bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-moving pedestrian path"
+      }
+    ]
+  },
+  {
+    "word": "lều, nhà tạm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-shelter"
+      }
+    ]
+  },
+  {
+    "word": "lềnh bềnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái nổi hẳn lên trên mặt nước và trôi nhẹ nhàng theo làn sóng\nVí dụ:\n- quả bóng nổi lềnh bềnh \n - rác rưởi trôi lềnh bềnh trên sông"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lềnh bềnh\n- Nói nổi ở mặt nước và bị sóng đưa lên đưa xuống : Cây gỗ lềnh bềnh ở mặt sông."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lềnh bềnh\n*adj\n-cumbrous, cumbersome"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lềnh bềnh\n* adj\n- cumbrous, cumbersome"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to float, drift"
+      }
+    ]
+  },
+  {
+    "word": "lề trồng cỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-protective shoulder"
       }
     ]
   }

@@ -1,41 +1,5 @@
 [
   {
-    "word": "chênh lệch nhiệt độ trung bình lôgarit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-log mean temperature difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-log mean temperature difference"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch cao trình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-difference (in level)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-difference (in level)"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch thuận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-favourable balance"
-      }
-    ]
-  },
-  {
-    "word": "chêm có đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gib\n-gib-head key\n-nose key\n@Chuyên ngành kỹ thuật\n-gib\n-gib-head key\n-nose key"
-      }
-    ]
-  },
-  {
     "word": "chênh lệch trễ tế bào cực đại",
     "definitions": [
       {
@@ -45,38 +9,60 @@
     ]
   },
   {
-    "word": "chênh lệch kiểm toán chuẩn mực",
+    "word": "chênh lệch tỉ suất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-audit standard gap"
+        "dict_definition": "@Chuyên ngành kinh tế\n-rate variance"
       }
     ]
   },
   {
-    "word": "chênh lệch kiểm toán kỳ vọng",
+    "word": "chênh lệch độ cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-audit expectation gap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-difference in level\n@Chuyên ngành kỹ thuật\n-difference in level"
       }
     ]
   },
   {
-    "word": "chênh áp không đổi",
+    "word": "chênh lệch giầu nghèo",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-constant differential pressure\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-constant differential pressure"
+        "dict_name": "VNEDICT",
+        "dict_definition": "gap between rich and poor"
       }
     ]
   },
   {
-    "word": "chênh áp lực",
+    "word": "chêm khóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pressure differential\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pressure differential"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key"
+      }
+    ]
+  },
+  {
+    "word": "chêm điều chỉnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster cotter\n-tightening key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster cotter\n-tightening key"
+      }
+    ]
+  },
+  {
+    "word": "chêm vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fill\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fill"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to break in, wedge in"
       }
     ]
   },
@@ -106,81 +92,11 @@
     ]
   },
   {
-    "word": "chênh lệch giá hỏi mua",
+    "word": "chêm, chèn bằng đệm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bid / offer spread"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giữa mức lương cũ và mới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-difference between old and new"
-      }
-    ]
-  },
-  {
-    "word": "chêm khóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key"
-      }
-    ]
-  },
-  {
-    "word": "chênh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có một bên cao, một bên thấp, nằm nghiêng sang một bên so với vị trí bình thường trên một mặt bằng\nVí dụ:\n- tủ kê bị chênh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cao thấp khác nhau, không bằng nhau, không ngang nhau\nVí dụ:\n- chênh nhau vài tuổi \n - lực lượng hai bên chênh nhau nhiều"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chênh\n- t. 1 Có một bên cao, một bên thấp, nằm nghiêng so với vị trí bình thường trên một mặt bằng. Bàn kê chênh. Bóng trăng chênh. 2 Cao thấp khác nhau, không bằng nhau, không ngang nhau. Chênh nhau vài tuổi. Giá hàng chênh nhau nhiều."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chênh\n*adj\n-Tilted\n=bàn kê chênh\n+the table is tilted\n-Uneven, of different levels\n=chênh nhau vài tuổi\n+there is a difference of a few years between them\n=giá hàng không chênh nhau bao nhiêu\n+the prices of goods are not very different in level\n=mực nước hai bên cống chênh nhau một mét\n+there is a difference of one meter between the levels of the water on both sides of the culvert\n=chênh sức\n+of uneven strength"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chênh\n* adj\n- Tilted\n=bàn kê chênh+the table is tilted\n-Uneven, of different levels\n=chênh nhau vài tuổi+there is a difference of a few years between them\n=giá hàng không chênh nhau bao nhiêu+the prices of goods are not very different in level\n=mực nước hai bên cống chênh nhau một mét+there is a difference of one meter between the levels of the water on both sides of the culvert\n=chênh sức+of uneven strength"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giữa các lãi suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-margin between the rates pf interest"
-      }
-    ]
-  },
-  {
-    "word": "chêm dày điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch độ lún",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential settlement\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential settlement"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-shim\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-shim"
       }
     ]
   },
@@ -194,20 +110,56 @@
     ]
   },
   {
-    "word": "chênh lệch lãi suất",
+    "word": "chêm cho cứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-interest rate differential"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-key"
       }
     ]
   },
   {
-    "word": "chênh lệch âm",
+    "word": "chêm nối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-negative carry"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-keying\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-keying"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá giữa các cửa hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-intercommodity spread"
+      }
+    ]
+  },
+  {
+    "word": "chênh áp không đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-constant differential pressure\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-constant differential pressure"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giữa các lãi suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-margin between the rates pf interest"
+      }
+    ]
+  },
+  {
+    "word": "chêm chặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shim\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shim"
       }
     ]
   },
@@ -221,27 +173,68 @@
     ]
   },
   {
-    "word": "chê bai",
+    "word": "chênh lệch độ lún",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential settlement\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential settlement"
+      }
+    ]
+  },
+  {
+    "word": "chê trách",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ lời chê [nói khái quát]\nVí dụ:\n- bà ấy luôn chê bai cô con dâu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chê bai\n- đgt. Cho là không tốt, không hay, không đẹp, không ngon...: Canh cải mà nấu với gừng, chẳng ăn thì chớ, xin đừng chê bai (cd)."
+        "dict_definition": "chê và tỏ ý trách vì không được hài lòng [nói khái quát]\nVí dụ:\n- cô giáo chê trách những học sinh học kém"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chê bai\n*verb\n-To speak scornfully of, to disparage\n=dư luận chê bai anh ta đối xử với vợ không tốt\n+public opinion speaks scornfully of him because of his bad treatment of his wife\n=Canh cải mà nấu với gừng Chẳng ăn thì chớ xin đừng chê bai\n+If you don\"t like cabbage soup seasoned with ginger, Don\"t eat it please and don\"t disparage it"
+        "dict_definition": "@chê trách\n-To speak scornfully of and criticize (reproach)\n=chê trách thái độ vô trách nhiệm\n+to speak scornfully of and criticize someone\"s lack of the sense of responsibility\n=làm việc tốt không ai chê trách vào đâu được\n+his work is satisfactory, no one can speak scornfully of him and reproach him for anything"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chê bai\n* verb\n- To speak scornfully of, to disparage\n=dư luận chê bai anh ta đối xử với vợ không tốt+public opinion speaks scornfully of him because of his bad treatment of his wife\n=Canh cải mà nấu với gừng Chẳng ăn thì chớ xin đừng chê bai+If you don't like cabbage soup seasoned with ginger, Don't eat it please and don't disparage it"
+        "dict_definition": "@chê trách\n- To speak scornfully of and criticize (reproach)\n=chê trách thái độ vô trách nhiệm+to speak scornfully of and criticize someone's lack of the sense of responsibility\n=làm việc tốt không ai chê trách vào đâu được+his work is satisfactory, no one can speak scornfully of him and reproach him for anything"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to scorn, criticize, disparage"
+        "dict_definition": "to criticize, reproach"
+      }
+    ]
+  },
+  {
+    "word": "chêm định vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting key"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch cao trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-difference (in level)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-difference (in level)"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch dương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-positive carry"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá giao dịch (chứng khoán, ngoại hối)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-turn"
       }
     ]
   },
@@ -255,20 +248,163 @@
     ]
   },
   {
-    "word": "chênh lệch độ cao",
+    "word": "chênh lệch kiểm toán kỳ vọng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-difference in level\n@Chuyên ngành kỹ thuật\n-difference in level"
+        "dict_definition": "@Chuyên ngành kinh tế\n-audit expectation gap"
       }
     ]
   },
   {
-    "word": "chênh lệch nhiệt độ trung bình",
+    "word": "chênh lệch phân phối (giữa giá bán và xuất xưởng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mean temperature difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mean temperature difference"
+        "dict_definition": "@Chuyên ngành kinh tế\n-distribution mark-up"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giữa giá thành và giá trị trên sổ sách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-difference between cost and book value"
+      }
+    ]
+  },
+  {
+    "word": "chê độ kết toán ngoại hối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-exchange clearing system"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch lạm phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inflation differential"
+      }
+    ]
+  },
+  {
+    "word": "chêm cốt thép bằng những mảnh đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chock (reinforcement by pieces of stone)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chock (reinforcement by pieces of stone)"
+      }
+    ]
+  },
+  {
+    "word": "chêm dày điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch phí tổn so sánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-difference of comparative costs"
+      }
+    ]
+  },
+  {
+    "word": "chêm, then",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dowel\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dowel"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch nhiệt độ trung bình lôgarit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-log mean temperature difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-log mean temperature difference"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch lợi suất (giữa cổ phần thường và cổ phần ưu tiên)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-yield gap"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá giữa các thị trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-intermarket spread"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch nhiệt độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-difference (in temperature)\n-temperature gradient\n-thermal gradient\n@Chuyên ngành kỹ thuật\n-difference (in temperature)\n-temperature gradient\n-thermal gradient"
+      }
+    ]
+  },
+  {
+    "word": "chênh chếch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hơi chếch về một phía\nVí dụ:\n- \"Gương nga chênh chếch dòm song, Vàng gieo ngấn nước, cây lồng bóng sân.\" (TKiều)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chênh chếch [chênh chếch]\n-oblique, tilted, slant (cũng"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "oblique, tilted, slanted"
+      }
+    ]
+  },
+  {
+    "word": "chênh áp lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pressure differential\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pressure differential"
+      }
+    ]
+  },
+  {
+    "word": "chêm gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-glut\n-plate girder web splice\n-splice girder\n-treenail\n-trenail\n@Chuyên ngành kỹ thuật\n-glut\n-plate girder web splice\n-splice girder\n-treenail\n-trenail"
+      }
+    ]
+  },
+  {
+    "word": "chêm cái lò xo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-coiled key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-coiled key"
       }
     ]
   },
@@ -298,70 +434,7 @@
     ]
   },
   {
-    "word": "chênh lệch sai sót thặng dư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-residual error"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giá giữa các cửa hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-intercommodity spread"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch độ ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-humidity difference\n-moisture content difference\n-moisture difference\n@Chuyên ngành kỹ thuật\n-humidity difference\n-moisture content difference\n-moisture difference"
-      }
-    ]
-  },
-  {
-    "word": "chêm, chèn bằng đệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-shim\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-shim"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giá cả của cá sấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-alligator spread"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch phí tổn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cost differentials"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch phí tổn tuyệt đối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-difference of absolute costs"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch tỉ suất",
+    "word": "chênh lệch tỷ suất",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -370,122 +443,15 @@
     ]
   },
   {
-    "word": "chênh lệch giá",
+    "word": "chê chán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-difference in price\n-differences (diff)\n-price differential\n-spread"
-      }
-    ]
-  },
-  {
-    "word": "chênh chếch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hơi chếch về một phía\nVí dụ:\n- \"Gương nga chênh chếch dòm song, Vàng gieo ngấn nước, cây lồng bóng sân.\" (TKiều)"
+        "dict_definition": "@chê chán\n-như chán chê"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@chênh chếch [chênh chếch]\n-oblique, tilted, slant (cũng"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "oblique, tilted, slanted"
-      }
-    ]
-  },
-  {
-    "word": "chêm định vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting key"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch âm do hợp nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-negative consolidation difference"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giá nguyên liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-material price variance"
-      }
-    ]
-  },
-  {
-    "word": "chê cơm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chê cơm [chê cơm]\n-dislike food"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dislike food"
-      }
-    ]
-  },
-  {
-    "word": "chêm mở mạch cưa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-riving knife\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-riving knife"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch nhiệt độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-difference (in temperature)\n-temperature gradient\n-thermal gradient\n@Chuyên ngành kỹ thuật\n-difference (in temperature)\n-temperature gradient\n-thermal gradient"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch lợi nhuận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-yield gap"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch nợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-debit spread"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giờ quốc tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-international time difference"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch lợi suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-yield variance"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chê chán\n- như chán chê"
       }
     ]
   },
@@ -499,110 +465,72 @@
     ]
   },
   {
-    "word": "chêm ngang",
+    "word": "chênh lệch phí tổn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cross key\n-forelock key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cross key\n-forelock key"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cost differentials"
       }
     ]
   },
   {
-    "word": "chênh lệch trở về",
+    "word": "chênh lệch lợi nhuận hỗn hợp doanh thu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-return difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-return difference"
+        "dict_definition": "@Chuyên ngành kinh tế\n-sales mix profit variance"
       }
     ]
   },
   {
-    "word": "chênh lệch giá giữa các thị trường",
+    "word": "chênh lệch lợi nhuận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-intermarket spread"
+        "dict_definition": "@Chuyên ngành kinh tế\n-yield gap"
       }
     ]
   },
   {
-    "word": "chênh lệch giữa giá thành và giá trị trên sổ sách",
+    "word": "chênh lệch giá thô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-difference between cost and book value"
+        "dict_definition": "@Chuyên ngành kinh tế\n-gross spread"
       }
     ]
   },
   {
-    "word": "chênh lệch phí tổn so sánh",
+    "word": "chênh",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có một bên cao, một bên thấp, nằm nghiêng sang một bên so với vị trí bình thường trên một mặt bằng\nVí dụ:\n- tủ kê bị chênh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cao thấp khác nhau, không bằng nhau, không ngang nhau\nVí dụ:\n- chênh nhau vài tuổi \n - lực lượng hai bên chênh nhau nhiều"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chênh\n- t. 1 Có một bên cao, một bên thấp, nằm nghiêng so với vị trí bình thường trên một mặt bằng. Bàn kê chênh. Bóng trăng chênh. 2 Cao thấp khác nhau, không bằng nhau, không ngang nhau. Chênh nhau vài tuổi. Giá hàng chênh nhau nhiều."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-difference of comparative costs"
+        "dict_definition": "@chênh\n*adj\n-Tilted\n=bàn kê chênh\n+the table is tilted\n-Uneven, of different levels\n=chênh nhau vài tuổi\n+there is a difference of a few years between them\n=giá hàng không chênh nhau bao nhiêu\n+the prices of goods are not very different in level\n=mực nước hai bên cống chênh nhau một mét\n+there is a difference of one meter between the levels of the water on both sides of the culvert\n=chênh sức\n+of uneven strength"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chênh\n* adj\n- Tilted\n=bàn kê chênh+the table is tilted\n-Uneven, of different levels\n=chênh nhau vài tuổi+there is a difference of a few years between them\n=giá hàng không chênh nhau bao nhiêu+the prices of goods are not very different in level\n=mực nước hai bên cống chênh nhau một mét+there is a difference of one meter between the levels of the water on both sides of the culvert\n=chênh sức+of uneven strength"
       }
     ]
   },
   {
-    "word": "chênh lệch mức",
+    "word": "chênh lệch sai sót thặng dư",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-level difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-level difference"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giá giao dịch (chứng khoán, ngoại hối)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-turn"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch áp lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential pressure\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential pressure"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch tỷ suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rate variance"
-      }
-    ]
-  },
-  {
-    "word": "chêm chèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key"
-      }
-    ]
-  },
-  {
-    "word": "chêm gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-glut\n-plate girder web splice\n-splice girder\n-treenail\n-trenail\n@Chuyên ngành kỹ thuật\n-glut\n-plate girder web splice\n-splice girder\n-treenail\n-trenail"
-      }
-    ]
-  },
-  {
-    "word": "chêm cốt thép bằng những mảnh đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chock (reinforcement by pieces of stone)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chock (reinforcement by pieces of stone)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-residual error"
       }
     ]
   },
@@ -616,205 +544,11 @@
     ]
   },
   {
-    "word": "chênh lệch giá giữa các kỳ hạn giao hàng",
+    "word": "chêm ngang",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-interdelivery spread"
-      }
-    ]
-  },
-  {
-    "word": "chêm tháo côn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-center key\n-centre key\n-drift bolt\n-pin punch\n@Chuyên ngành kỹ thuật\n-center key\n-centre key\n-drift bolt\n-pin punch"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch suất thu nhập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-yield spread"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch chi phí chung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overhead cost variance"
-      }
-    ]
-  },
-  {
-    "word": "chênh vênh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở vị trí cao mà không có chỗ dựa chắc chắn, gây cảm giác trơ trọi, thiếu vững chãi\nVí dụ:\n- đứng chênh vênh trên mỏm đá \n - nhịp cầu chênh vênh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chênh vênh\n- tt. 1. Trơ trọi ở trên cao: Khi bóng thỏ chênh vênh trước nóc (CgO) 2. Không vững vàng; bấp bênh: Địa vị chênh vênh 3. Không ngay ngắn: Quăn queo đuôi chuột, chênh vênh tai mèo (NĐM)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chênh vênh\n*adj\n-Tottery, tottering\n=chiếc cầu tre bắc chênh vênh qua suối\n+a tottery bamboo bridge spanned across the stream\n=nhà sàn chênh vênh bên sườn núi\n+a tottery hut on stilts on the mountain slope\n=thế chênh vênh như trứng để đầu đẳng\n+a tottery position like hanging by a thread"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chênh vênh\n* adj\n- Tottery, tottering\n=chiếc cầu tre bắc chênh vênh qua suối+a tottery bamboo bridge spanned across the stream\n=nhà sàn chênh vênh bên sườn núi+a tottery hut on stilts on the mountain slope\n=thế chênh vênh như trứng để đầu đẳng+a tottery position like hanging by a thread"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unstable, shaky"
-      }
-    ]
-  },
-  {
-    "word": "chêm cái lò xo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-coiled key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-coiled key"
-      }
-    ]
-  },
-  {
-    "word": "chê trách",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chê và tỏ ý trách vì không được hài lòng [nói khái quát]\nVí dụ:\n- cô giáo chê trách những học sinh học kém"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chê trách\n-To speak scornfully of and criticize (reproach)\n=chê trách thái độ vô trách nhiệm\n+to speak scornfully of and criticize someone\"s lack of the sense of responsibility\n=làm việc tốt không ai chê trách vào đâu được\n+his work is satisfactory, no one can speak scornfully of him and reproach him for anything"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chê trách\n- To speak scornfully of and criticize (reproach)\n=chê trách thái độ vô trách nhiệm+to speak scornfully of and criticize someone's lack of the sense of responsibility\n=làm việc tốt không ai chê trách vào đâu được+his work is satisfactory, no one can speak scornfully of him and reproach him for anything"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to criticize, reproach"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch giầu nghèo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gap between rich and poor"
-      }
-    ]
-  },
-  {
-    "word": "chêm vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fill\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fill"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to break in, wedge in"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch dương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-positive carry"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch số lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quantity difference\n-quantity variance"
-      }
-    ]
-  },
-  {
-    "word": "chêm nối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-keying\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-keying"
-      }
-    ]
-  },
-  {
-    "word": "chêm điều chỉnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster cotter\n-tightening key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster cotter\n-tightening key"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch lãi suất ròng có thể đạt được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-net accessible interest differential"
-      }
-    ]
-  },
-  {
-    "word": "chêm đe tách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down"
-      }
-    ]
-  },
-  {
-    "word": "chêm có dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nose key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nose key"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch trả ngay trong các vụ đầu tư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-unamortized premiums on investments"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch công suất tính bằng db giữa một điểm bất kỳ với một điểm chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Power difference in dB between any point and a reference point (DBR)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Power difference in dB between any point and a reference point (DBR)"
-      }
-    ]
-  },
-  {
-    "word": "chêm chặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shim\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shim"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cross key\n-forelock key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cross key\n-forelock key"
       }
     ]
   },
@@ -852,38 +586,27 @@
     ]
   },
   {
-    "word": "chênh lệch phân phối (giữa giá bán và xuất xưởng)",
+    "word": "chê bai",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-distribution mark-up"
-      }
-    ]
-  },
-  {
-    "word": "chê độ kết toán ngoại hối",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ lời chê [nói khái quát]\nVí dụ:\n- bà ấy luôn chê bai cô con dâu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chê bai\n- đgt. Cho là không tốt, không hay, không đẹp, không ngon...: Canh cải mà nấu với gừng, chẳng ăn thì chớ, xin đừng chê bai (cd)."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-exchange clearing system"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch lạm phát",
-    "definitions": [
+        "dict_definition": "@chê bai\n*verb\n-To speak scornfully of, to disparage\n=dư luận chê bai anh ta đối xử với vợ không tốt\n+public opinion speaks scornfully of him because of his bad treatment of his wife\n=Canh cải mà nấu với gừng Chẳng ăn thì chớ xin đừng chê bai\n+If you don\"t like cabbage soup seasoned with ginger, Don\"t eat it please and don\"t disparage it"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inflation differential"
-      }
-    ]
-  },
-  {
-    "word": "chênh lệch lợi nhuận hỗn hợp doanh thu",
-    "definitions": [
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chê bai\n* verb\n- To speak scornfully of, to disparage\n=dư luận chê bai anh ta đối xử với vợ không tốt+public opinion speaks scornfully of him because of his bad treatment of his wife\n=Canh cải mà nấu với gừng Chẳng ăn thì chớ xin đừng chê bai+If you don't like cabbage soup seasoned with ginger, Don't eat it please and don't disparage it"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sales mix profit variance"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to scorn, criticize, disparage"
       }
     ]
   },
@@ -897,38 +620,144 @@
     ]
   },
   {
-    "word": "chêm neo",
+    "word": "chênh lệch thuận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wedge (v)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wedge (v)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-favourable balance"
       }
     ]
   },
   {
-    "word": "chênh chênh",
+    "word": "chêm mở mạch cưa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chênh chênh [chênh chênh]\n-như"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-riving knife\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-riving knife"
       }
     ]
   },
   {
-    "word": "chêm, then",
+    "word": "chênh lệch âm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dowel\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dowel"
+        "dict_definition": "@Chuyên ngành kinh tế\n-negative carry"
       }
     ]
   },
   {
-    "word": "chêm kép",
+    "word": "chênh lệch công suất tính bằng db giữa một điểm bất kỳ với một điểm chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fox key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fox key"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Power difference in dB between any point and a reference point (DBR)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Power difference in dB between any point and a reference point (DBR)"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch chi phí chung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-overhead cost variance"
+      }
+    ]
+  },
+  {
+    "word": "chêm có dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nose key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nose key"
+      }
+    ]
+  },
+  {
+    "word": "chêm đe tách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch độ ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-humidity difference\n-moisture content difference\n-moisture difference\n@Chuyên ngành kỹ thuật\n-humidity difference\n-moisture content difference\n-moisture difference"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch kiểm toán chuẩn mực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-audit standard gap"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-difference in price\n-differences (diff)\n-price differential\n-spread"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá nguyên liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-material price variance"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch áp lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential pressure\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-differential pressure"
+      }
+    ]
+  },
+  {
+    "word": "chênh vênh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở vị trí cao mà không có chỗ dựa chắc chắn, gây cảm giác trơ trọi, thiếu vững chãi\nVí dụ:\n- đứng chênh vênh trên mỏm đá \n - nhịp cầu chênh vênh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chênh vênh\n- tt. 1. Trơ trọi ở trên cao: Khi bóng thỏ chênh vênh trước nóc (CgO) 2. Không vững vàng; bấp bênh: Địa vị chênh vênh 3. Không ngay ngắn: Quăn queo đuôi chuột, chênh vênh tai mèo (NĐM)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chênh vênh\n*adj\n-Tottery, tottering\n=chiếc cầu tre bắc chênh vênh qua suối\n+a tottery bamboo bridge spanned across the stream\n=nhà sàn chênh vênh bên sườn núi\n+a tottery hut on stilts on the mountain slope\n=thế chênh vênh như trứng để đầu đẳng\n+a tottery position like hanging by a thread"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chênh vênh\n* adj\n- Tottery, tottering\n=chiếc cầu tre bắc chênh vênh qua suối+a tottery bamboo bridge spanned across the stream\n=nhà sàn chênh vênh bên sườn núi+a tottery hut on stilts on the mountain slope\n=thế chênh vênh như trứng để đầu đẳng+a tottery position like hanging by a thread"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unstable, shaky"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá giữa các kỳ hạn giao hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-interdelivery spread"
       }
     ]
   },
@@ -958,6 +787,33 @@
     ]
   },
   {
+    "word": "chênh lệch nợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-debit spread"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch âm do hợp nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-negative consolidation difference"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch lợi suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-yield variance"
+      }
+    ]
+  },
+  {
     "word": "chênh lệnh giá tịnh",
     "definitions": [
       {
@@ -967,33 +823,56 @@
     ]
   },
   {
-    "word": "chê chán",
+    "word": "chêm có đầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chê chán\n-như chán chê"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chê chán\n- như chán chê"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gib\n-gib-head key\n-nose key\n@Chuyên ngành kỹ thuật\n-gib\n-gib-head key\n-nose key"
       }
     ]
   },
   {
-    "word": "chêm cho cứng",
+    "word": "chêm tháo côn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-key"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-center key\n-centre key\n-drift bolt\n-pin punch\n@Chuyên ngành kỹ thuật\n-center key\n-centre key\n-drift bolt\n-pin punch"
       }
     ]
   },
   {
-    "word": "chênh lệch lợi suất (giữa cổ phần thường và cổ phần ưu tiên)",
+    "word": "chênh lệch trở về",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-yield gap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-return difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-return difference"
+      }
+    ]
+  },
+  {
+    "word": "chêm neo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wedge (v)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wedge (v)"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá cả của cá sấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-alligator spread"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giá hỏi mua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bid / offer spread"
       }
     ]
   },
@@ -1007,11 +886,20 @@
     ]
   },
   {
-    "word": "chênh lệch giá thô",
+    "word": "chênh lệch lãi suất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-gross spread"
+        "dict_definition": "@Chuyên ngành kinh tế\n-interest rate differential"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch phí tổn tuyệt đối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-difference of absolute costs"
       }
     ]
   },
@@ -1021,6 +909,118 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interconnect\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interconnect"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch lãi suất ròng có thể đạt được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-net accessible interest differential"
+      }
+    ]
+  },
+  {
+    "word": "chênh chênh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chênh chênh [chênh chênh]\n-như"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch trả ngay trong các vụ đầu tư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-unamortized premiums on investments"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giữa mức lương cũ và mới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-difference between old and new"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch nhiệt độ trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mean temperature difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mean temperature difference"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch số lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quantity difference\n-quantity variance"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch suất thu nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-yield spread"
+      }
+    ]
+  },
+  {
+    "word": "chê cơm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chê cơm [chê cơm]\n-dislike food"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dislike food"
+      }
+    ]
+  },
+  {
+    "word": "chêm chèn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gib and cotter\n-gib and key"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch mức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-level difference\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-level difference"
+      }
+    ]
+  },
+  {
+    "word": "chênh lệch giờ quốc tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-international time difference"
+      }
+    ]
+  },
+  {
+    "word": "chêm kép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fox key\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fox key"
       }
     ]
   }

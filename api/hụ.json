@@ -1,22 +1,65 @@
 [
   {
-    "word": "hụp lặn",
+    "word": "hụt chân",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hụp lặn\n- Nh. Hụp."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@hụt chân [hụt chân]\n-như"
+      }
+    ]
+  },
+  {
+    "word": "hụt hơi",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hụp lặn\n-Dive"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hụp lặn\n- Dive"
+        "dict_definition": "@hụt hơi [hụt hơi]\n-shortness of breath"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "dive"
+        "dict_definition": "shortness of breath"
+      }
+    ]
+  },
+  {
+    "word": "hụt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thiếu một phần, không đạt đủ mức cụ thể về số lượng, kích thước, khoảng cách như đã dự tính hoặc đã tưởng\nVí dụ:\n- bước hụt chân \n - vải cắt bị hụt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không thực hiện được việc tưởng đã làm được, vì bị thất bại bất ngờ ở bước cuối cùng\nVí dụ:\n- bắt hụt kẻ trộm \n - hụt mất chuyến tàu \n - cô vợ hụt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hụt\n- ph. 1. Thiếu : Hụt vốn. 2. Hỏng, trượt, lỡ : Hụt ăn ; Bắt hụt một tên gian."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hụt\n*adj\n-short; deficent*verb\n-to suiss\n=đánh hụt\n+to miss one\"s blow"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hụt\n* adj\n- short; deficent\n* verb\n- to suiss\n=đánh hụt+to miss one's blow"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "deficit, miss"
+      }
+    ]
+  },
+  {
+    "word": "hụt ăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hụt ăn [hụt ăn]\n-miss (a meal, an opportunity to make a profit)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "miss (a meal, an opportunity to make a profit)"
       }
     ]
   },
@@ -42,75 +85,23 @@
     ]
   },
   {
-    "word": "hụt chân",
+    "word": "hụp lặn",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hụt chân [hụt chân]\n-như"
-      }
-    ]
-  },
-  {
-    "word": "hụp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự làm cho chìm hẳn đầu xuống dưới mặt nước một lúc\nVí dụ:\n- nó hụp xuống dưới đáy sâu"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hụp\n- đgt. Tự lặn tại chỗ một lúc: hụp sâu xuống."
+        "dict_definition": "@hụp lặn\n- Nh. Hụp."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hụp\n*verb\n-to dive under the water"
+        "dict_definition": "@hụp lặn\n-Dive"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hụp\n* verb\n- to dive under the water"
+        "dict_definition": "@hụp lặn\n- Dive"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to dive under the water"
-      }
-    ]
-  },
-  {
-    "word": "hụi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như họ\nVí dụ:\n- chơi hụi \n - đóng hụi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "*danh từ\n-tontine"
-      }
-    ]
-  },
-  {
-    "word": "hụt hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hụt hơi [hụt hơi]\n-shortness of breath"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shortness of breath"
-      }
-    ]
-  },
-  {
-    "word": "hụt ăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hụt ăn [hụt ăn]\n-miss (a meal, an opportunity to make a profit)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miss (a meal, an opportunity to make a profit)"
+        "dict_definition": "dive"
       }
     ]
   },
@@ -149,6 +140,44 @@
     ]
   },
   {
+    "word": "hụi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như họ\nVí dụ:\n- chơi hụi \n - đóng hụi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "*danh từ\n-tontine"
+      }
+    ]
+  },
+  {
+    "word": "hụp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự làm cho chìm hẳn đầu xuống dưới mặt nước một lúc\nVí dụ:\n- nó hụp xuống dưới đáy sâu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hụp\n- đgt. Tự lặn tại chỗ một lúc: hụp sâu xuống."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hụp\n*verb\n-to dive under the water"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hụp\n* verb\n- to dive under the water"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to dive under the water"
+      }
+    ]
+  },
+  {
     "word": "hục hặc",
     "definitions": [
       {
@@ -170,35 +199,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to quarrel, nag"
-      }
-    ]
-  },
-  {
-    "word": "hụt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thiếu một phần, không đạt đủ mức cụ thể về số lượng, kích thước, khoảng cách như đã dự tính hoặc đã tưởng\nVí dụ:\n- bước hụt chân \n - vải cắt bị hụt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không thực hiện được việc tưởng đã làm được, vì bị thất bại bất ngờ ở bước cuối cùng\nVí dụ:\n- bắt hụt kẻ trộm \n - hụt mất chuyến tàu \n - cô vợ hụt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hụt\n- ph. 1. Thiếu : Hụt vốn. 2. Hỏng, trượt, lỡ : Hụt ăn ; Bắt hụt một tên gian."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hụt\n*adj\n-short; deficent*verb\n-to suiss\n=đánh hụt\n+to miss one\"s blow"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hụt\n* adj\n- short; deficent\n* verb\n- to suiss\n=đánh hụt+to miss one's blow"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "deficit, miss"
       }
     ]
   },

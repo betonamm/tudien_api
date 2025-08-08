@@ -1,41 +1,5 @@
 [
   {
-    "word": "lịch xét sử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cause-list"
-      }
-    ]
-  },
-  {
-    "word": "lịch tàu khởi hành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sailing schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử quan hệ đầu tư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-investment history"
-      }
-    ]
-  },
-  {
-    "word": "lịch trắc nghiệm bằng điều tra đặc biệt (anh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Special investigation test schedule (UK) (SITS)"
-      }
-    ]
-  },
-  {
     "word": "lịch bà lịch bịch",
     "definitions": [
       {
@@ -66,34 +30,34 @@
     ]
   },
   {
-    "word": "lịch sử thương nghiệp",
+    "word": "lịch biểu thiết kế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-history of commerce"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-design schedule"
       }
     ]
   },
   {
-    "word": "lịch bàn",
+    "word": "lịch biểu xác định",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-desk diary"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-definite timetable"
       }
     ]
   },
   {
-    "word": "lịch blốc",
+    "word": "lịch sử thay thế",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lịch gồm các tờ lịch của một năm, mỗi tờ có ghi thông tin chi tiết về một ngày, được đóng thành quyển [gọi là lốc lịch]; phân biệt với lịch tờ"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-history substitution"
       }
     ]
   },
   {
-    "word": "lịch sử đầu tư",
+    "word": "lịch sử quan hệ đầu tư",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -102,29 +66,163 @@
     ]
   },
   {
-    "word": "lịch thủy triều",
+    "word": "lịch âm-dương",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tide table"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lunisolar"
       }
     ]
   },
   {
-    "word": "lịch tiến độ",
+    "word": "lịch sử cổ tức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-calendar progress chart"
+        "dict_definition": "@Chuyên ngành kinh tế\n-dividend history"
       }
     ]
   },
   {
-    "word": "lịch sử học kinh tế",
+    "word": "lịch biểu thử nghiệm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economic history"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-test schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu thời gian thực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-real-time calendar"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-transmission schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch nhiệm vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-task schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch bịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng những tiếng trầm liên tiếp, không đều, như tiếng của vật nặng rơi xuống đất\nVí dụ:\n- dừa rụng lịch bịch \n - tiếng chân bước lịch bịch"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịch bịch [lịch bịch]\n-sound of heavy walking or running steps"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sound of heavy walking or running steps"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử phân tích kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-history of economic analysis"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử sửa đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-revision history"
+      }
+    ]
+  },
+  {
+    "word": "lịch kiểm tra và thử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-inspection and test schedule\n-inspection and test sequence plan\n-inspection schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch đăng tải (quảng cáo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-date plan"
+      }
+    ]
+  },
+  {
+    "word": "lịch nhóm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-group calendar"
+      }
+    ]
+  },
+  {
+    "word": "lịch giao hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-delivery schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch nghiệp vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-business calendar"
+      }
+    ]
+  },
+  {
+    "word": "lịch trắc nghiệm bằng điều tra đặc biệt (anh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Special investigation test schedule (UK) (SITS)"
+      }
+    ]
+  },
+  {
+    "word": "lịch julius",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Julian calendar"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử cận đại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "modern history"
       }
     ]
   },
@@ -150,328 +248,20 @@
     ]
   },
   {
-    "word": "lịch giao hàng",
+    "word": "lịch sử hoạt động",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-delivery schedule"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-audit history\n-audit trail"
       }
     ]
   },
   {
-    "word": "lịch lãm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có hiểu biết rộng do đã từng trải, được đi nhiều, tiếp xúc nhiều\nVí dụ:\n- thông minh lịch lãm \n - một chàng trai hào hoa, lịch lãm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lịch lãm\n- t. Có hiểu biết rộng do được đi nhiều, xem nhiều. Tuy còn trẻ, nhưng đã lịch lãm. Lịch lãm việc đời."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịch lãm\n*verb\n-to look over"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lịch lãm\n* verb\n- to look over"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to look over"
-      }
-    ]
-  },
-  {
-    "word": "lịch cà lịch kịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lịch cà lịch kịch\n- Nh. Lịch kịch."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịch cà lịch kịch [lịch cà lịch kịch]\n-unwieldy;  cumbersome\n-clumsy;  awkward"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử tư tưởng kinh tế",
+    "word": "lịch bàn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-history of economic thought"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu tuần tự",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-serial schedule"
-      }
-    ]
-  },
-  {
-    "word": "lị",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kiết lị [nói tắt]\nVí dụ:\n- ăn uống thiếu vệ sinh dễ sinh ra đi lị"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lị\n- cv. lỵ. d. Kiết lị (nói tắt)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lị\n*noun\n-dysentary"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lị\n* noun\n- dysentary"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dysentery"
-      }
-    ]
-  },
-  {
-    "word": "lịch trình phát (điện)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-generation schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu phát thanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-broadcasting schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch bịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng những tiếng trầm liên tiếp, không đều, như tiếng của vật nặng rơi xuống đất\nVí dụ:\n- dừa rụng lịch bịch \n - tiếng chân bước lịch bịch"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịch bịch [lịch bịch]\n-sound of heavy walking or running steps"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sound of heavy walking or running steps"
-      }
-    ]
-  },
-  {
-    "word": "lịch tờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lịch của một năm, các ngày và tháng trong năm được bố trí trên một hoặc nhiều tờ giấy khổ lớn, với tranh ảnh trang trí đi kèm"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu thử nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-test schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử cổ tức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dividend history"
-      }
-    ]
-  },
-  {
-    "word": "lịch âm-dương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lunisolar"
-      }
-    ]
-  },
-  {
-    "word": "lịch thu tiền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-collection schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch duyệt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều hiểu biết và kinh nghiệm trong xử thế do đã từng trải\nVí dụ:\n- một con người lịch duyệt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lịch duyệt\n- Từng trải nhiều, trông thấy và biết nhiều: Con người lịch duyệt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịch duyệt [lịch duyệt]\n-sophisticated;  street-wise;  worldly-wise"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sophisticated, street-wise, worldly-wise"
-      }
-    ]
-  },
-  {
-    "word": "lịch hệ thống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-system calendar"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử kinh tế (học)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-history of economic"
-      }
-    ]
-  },
-  {
-    "word": "lịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cách chia thời gian thành năm, tháng, ngày\nVí dụ:\n- lịch dương \n - tính theo lịch âm \n - lịch quốc tế (công lịch)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bản hoặc cuốn sách, giấy ghi ngày, tháng trong một hoặc nhiều năm\nVí dụ:\n- quyển lịch \n - lịch để bàn \n - bóc từng tờ lịch"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bản ghi ngày giờ nào sẽ làm công việc gì theo dự kiến của kế hoạch\nVí dụ:\n- lịch thi đấu bóng đá \n - lịch làm việc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lịch\n- d. 1. Hệ thống những qui tắc phân chia thời gian, ấn định số ngày trong các năm liên tiếp nhau, sao cho ngày, tháng và mùa phù hợp với quá trình chuyển vận của Quả đất quanh Mặt trời (dương lịch), của Mặt trăng quanh Quả đất (âm lịch) hoặc cả hai chuyển vận (âm dương lịch). 2. Toàn thể những ngày dương lịch trong một năm, theo thứ tự các tháng, đối chiếu với các ngày trong tuần lễ và có khi với các ngày âm lịch, trình bày thành một bảng liên tục trong một tập sách bỏ túi được, có chỗ trắng để ghi, hoặc thành tập treo lên tường, mỗi ngày một tờ, hết mỗi ngày bóc đi tờ chỉ ngày ấy, hoặc thành nhiều bảng, mỗi bảng một hay nhiều tháng, cũng treo lên tường. 3. Bảng ghi thứ tự thời gian các việc phải làm : Lịch đấu bóng đá tranh giải vô địch."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịch\n*noun\n-calendar\n@Chuyên ngành kinh tế\n-schedule\n@Chuyên ngành kỹ thuật\n-almanac\n-calendar\n-schedule (vs)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lịch\n* noun\n- calendar"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "calendar, agenda; to pass, experiment"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử lệnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-command history"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu đường sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-railroad rimetable\n-railroad schedule\n-railway service"
-      }
-    ]
-  },
-  {
-    "word": "lịnh cấm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "prohibition"
-      }
-    ]
-  },
-  {
-    "word": "lịch sáng tác (quảng cáo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-production calendar"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu kiểm soát độ cư trú (quang) phổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-schedule for monitoring spectrum occupancy"
-      }
-    ]
-  },
-  {
-    "word": "lịch đại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "theo quan điểm tách riêng các hiện tượng ngôn ngữ, xét trong sự diễn biến, phát triển theo thời gian, làm đối tượng nghiên cứu; đối lập với đồng đại\nVí dụ:\n- ngôn ngữ học lịch đại"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lịch đại\n- (tính) Tính chất của các hiện tượng ngôn ngữ xét theo quá trình chuyển biến trong thời gian."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịch đại [lịch đại]\n-diachronic"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "diachronic"
-      }
-    ]
-  },
-  {
-    "word": "lịch pháp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phương pháp dùng năm, tháng, ngày để tính thời gian"
-      }
-    ]
-  },
-  {
-    "word": "lịch bay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-scheduled flight"
+        "dict_definition": "@Chuyên ngành kinh tế\n-desk diary"
       }
     ]
   },
@@ -509,11 +299,47 @@
     ]
   },
   {
-    "word": "lịch julius",
+    "word": "lịch giáo hoàng gregory",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Julian calendar"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Gregorian calendar"
+      }
+    ]
+  },
+  {
+    "word": "lịch xét sử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cause-list"
+      }
+    ]
+  },
+  {
+    "word": "lịch thành",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Lịch thành\n- một huyện thuộc tỉnh Sơn Đông, cách xa Giang Tô"
+      }
+    ]
+  },
+  {
+    "word": "lịch trình kinh doanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-track record"
+      }
+    ]
+  },
+  {
+    "word": "lịch trình mới nhất",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "latest development"
       }
     ]
   },
@@ -547,158 +373,29 @@
     ]
   },
   {
-    "word": "lịch sao",
+    "word": "lịch sáng tác (quảng cáo)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ephemerides\n-ephemeris"
+        "dict_definition": "@Chuyên ngành kinh tế\n-production calendar"
       }
     ]
   },
   {
-    "word": "lịch gregory",
+    "word": "lịch sử tư tưởng kinh tế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Gregorian calendar"
+        "dict_definition": "@Chuyên ngành kinh tế\n-history of economic thought"
       }
     ]
   },
   {
-    "word": "lịch triều",
+    "word": "lịch hệ thống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lịch triều [lịch triều]\n-past dynasties"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "past dynasties"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-transmission schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu sản xuất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-production schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử thay thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-history substitution"
-      }
-    ]
-  },
-  {
-    "word": "lịa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lịa\n- ph. Nhanh nhảu, liền liền: Làm lịa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịa [lịa]\n-rapidly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rapidly"
-      }
-    ]
-  },
-  {
-    "word": "lịch hẹn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-appointments diary"
-      }
-    ]
-  },
-  {
-    "word": "lịch triều hiến chương loại chí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Lịch triều hiến chương loại chí\n- Lịch triều tạp kỉ"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử hệ thống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-history of a system"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu từng vụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-seasonal schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch trình kinh doanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-track record"
-      }
-    ]
-  },
-  {
-    "word": "lịch nhóm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-group calendar"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu thiết kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-design schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch kiểm tra và thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-inspection and test schedule\n-inspection and test sequence plan\n-inspection schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch kiểm tra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-inspection and test schedule\n-inspection and test sequence plan\n-inspection schedule"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-system calendar"
       }
     ]
   },
@@ -708,24 +405,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-roster"
-      }
-    ]
-  },
-  {
-    "word": "lịch sự tín dụng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "credit history"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu xác định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-definite timetable"
       }
     ]
   },
@@ -763,47 +442,94 @@
     ]
   },
   {
-    "word": "lịch sữ đã chứng minh rằng",
+    "word": "lịch cà lịch kịch",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lịch cà lịch kịch\n- Nh. Lịch kịch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịch cà lịch kịch [lịch cà lịch kịch]\n-unwieldy;  cumbersome\n-clumsy;  awkward"
+      }
+    ]
+  },
+  {
+    "word": "lịch hẹn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-appointments diary"
+      }
+    ]
+  },
+  {
+    "word": "lịch lãm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có hiểu biết rộng do đã từng trải, được đi nhiều, tiếp xúc nhiều\nVí dụ:\n- thông minh lịch lãm \n - một chàng trai hào hoa, lịch lãm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lịch lãm\n- t. Có hiểu biết rộng do được đi nhiều, xem nhiều. Tuy còn trẻ, nhưng đã lịch lãm. Lịch lãm việc đời."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịch lãm\n*verb\n-to look over"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lịch lãm\n* verb\n- to look over"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "history has proved, demonstrated that"
+        "dict_definition": "to look over"
       }
     ]
   },
   {
-    "word": "lịch công tác",
+    "word": "lịch thủy triều",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-business calendar\n-work schedule"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tide table"
       }
     ]
   },
   {
-    "word": "lịch giáo hoàng gregory",
+    "word": "lịch bay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Gregorian calendar"
+        "dict_definition": "@Chuyên ngành kinh tế\n-scheduled flight"
       }
     ]
   },
   {
-    "word": "lịch thực hiện",
+    "word": "lịch sử thương nghiệp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-emplementation schedule"
+        "dict_definition": "@Chuyên ngành kinh tế\n-history of commerce"
       }
     ]
   },
   {
-    "word": "lịch nhiệm vụ",
+    "word": "lịch triều hiến chương loại chí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Lịch triều hiến chương loại chí\n- Lịch triều tạp kỉ"
+      }
+    ]
+  },
+  {
+    "word": "lịch trình phát (điện)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-task schedule"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-generation schedule"
       }
     ]
   },
@@ -829,78 +555,6 @@
     ]
   },
   {
-    "word": "lịch sử sửa đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-revision history"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử cận đại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "modern history"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử cổ kính",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ancient history"
-      }
-    ]
-  },
-  {
-    "word": "lịch phân phối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-delivery schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch dự chi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-budget calendar"
-      }
-    ]
-  },
-  {
-    "word": "lịch trình mới nhất",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "latest development"
-      }
-    ]
-  },
-  {
-    "word": "lịch đăng tải (quảng cáo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-date plan"
-      }
-    ]
-  },
-  {
-    "word": "lịch sử phân tích kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-history of economic analysis"
-      }
-    ]
-  },
-  {
     "word": "lịch thiên văn",
     "definitions": [
       {
@@ -918,11 +572,191 @@
     ]
   },
   {
+    "word": "lịch sự tín dụng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "credit history"
+      }
+    ]
+  },
+  {
     "word": "lịch thiên văn hàng hải",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-nautical almanac"
+      }
+    ]
+  },
+  {
+    "word": "lịch chuyển đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-calendar of conversion"
+      }
+    ]
+  },
+  {
+    "word": "lịch duyệt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều hiểu biết và kinh nghiệm trong xử thế do đã từng trải\nVí dụ:\n- một con người lịch duyệt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lịch duyệt\n- Từng trải nhiều, trông thấy và biết nhiều: Con người lịch duyệt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịch duyệt [lịch duyệt]\n-sophisticated;  street-wise;  worldly-wise"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sophisticated, street-wise, worldly-wise"
+      }
+    ]
+  },
+  {
+    "word": "lịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cách chia thời gian thành năm, tháng, ngày\nVí dụ:\n- lịch dương \n - tính theo lịch âm \n - lịch quốc tế (công lịch)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bản hoặc cuốn sách, giấy ghi ngày, tháng trong một hoặc nhiều năm\nVí dụ:\n- quyển lịch \n - lịch để bàn \n - bóc từng tờ lịch"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bản ghi ngày giờ nào sẽ làm công việc gì theo dự kiến của kế hoạch\nVí dụ:\n- lịch thi đấu bóng đá \n - lịch làm việc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lịch\n- d. 1. Hệ thống những qui tắc phân chia thời gian, ấn định số ngày trong các năm liên tiếp nhau, sao cho ngày, tháng và mùa phù hợp với quá trình chuyển vận của Quả đất quanh Mặt trời (dương lịch), của Mặt trăng quanh Quả đất (âm lịch) hoặc cả hai chuyển vận (âm dương lịch). 2. Toàn thể những ngày dương lịch trong một năm, theo thứ tự các tháng, đối chiếu với các ngày trong tuần lễ và có khi với các ngày âm lịch, trình bày thành một bảng liên tục trong một tập sách bỏ túi được, có chỗ trắng để ghi, hoặc thành tập treo lên tường, mỗi ngày một tờ, hết mỗi ngày bóc đi tờ chỉ ngày ấy, hoặc thành nhiều bảng, mỗi bảng một hay nhiều tháng, cũng treo lên tường. 3. Bảng ghi thứ tự thời gian các việc phải làm : Lịch đấu bóng đá tranh giải vô địch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịch\n*noun\n-calendar\n@Chuyên ngành kinh tế\n-schedule\n@Chuyên ngành kỹ thuật\n-almanac\n-calendar\n-schedule (vs)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lịch\n* noun\n- calendar"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "calendar, agenda; to pass, experiment"
+      }
+    ]
+  },
+  {
+    "word": "lịnh cấm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "prohibition"
+      }
+    ]
+  },
+  {
+    "word": "lịch blốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lịch gồm các tờ lịch của một năm, mỗi tờ có ghi thông tin chi tiết về một ngày, được đóng thành quyển [gọi là lốc lịch]; phân biệt với lịch tờ"
+      }
+    ]
+  },
+  {
+    "word": "lịch tờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lịch của một năm, các ngày và tháng trong năm được bố trí trên một hoặc nhiều tờ giấy khổ lớn, với tranh ảnh trang trí đi kèm"
+      }
+    ]
+  },
+  {
+    "word": "lịch sao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ephemerides\n-ephemeris"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu đường sắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-railroad rimetable\n-railroad schedule\n-railway service"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử học kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-economic history"
+      }
+    ]
+  },
+  {
+    "word": "lịch tiến độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-calendar progress chart"
+      }
+    ]
+  },
+  {
+    "word": "lịch kiểm tra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-inspection and test schedule\n-inspection and test sequence plan\n-inspection schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch thu tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-collection schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử đầu tư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-investment history"
+      }
+    ]
+  },
+  {
+    "word": "lịch pháp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phương pháp dùng năm, tháng, ngày để tính thời gian"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu từng vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-seasonal schedule"
       }
     ]
   },
@@ -936,11 +770,239 @@
     ]
   },
   {
-    "word": "lịch sử nhân loại",
+    "word": "lịch công tác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-business calendar\n-work schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch phịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả dáng đi nặng nề, khó khăn do quá to béo\nVí dụ:\n- chạy lịch phịch \n - người to béo, bước đi lịch phịch"
+      }
+    ]
+  },
+  {
+    "word": "lịch thực hiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-emplementation schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch đại",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "theo quan điểm tách riêng các hiện tượng ngôn ngữ, xét trong sự diễn biến, phát triển theo thời gian, làm đối tượng nghiên cứu; đối lập với đồng đại\nVí dụ:\n- ngôn ngữ học lịch đại"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lịch đại\n- (tính) Tính chất của các hiện tượng ngôn ngữ xét theo quá trình chuyển biến trong thời gian."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịch đại [lịch đại]\n-diachronic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "diachronic"
+      }
+    ]
+  },
+  {
+    "word": "lị",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kiết lị [nói tắt]\nVí dụ:\n- ăn uống thiếu vệ sinh dễ sinh ra đi lị"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lị\n- cv. lỵ. d. Kiết lị (nói tắt)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lị\n*noun\n-dysentary"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lị\n* noun\n- dysentary"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dysentery"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu công việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-employment schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử hệ thống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-history of a system"
+      }
+    ]
+  },
+  {
+    "word": "lịch ghi nhớ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-diary"
+      }
+    ]
+  },
+  {
+    "word": "lịch tàu khởi hành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sailing schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử kiến trúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-History of Architecture"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu từng thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-seasonal schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu tuần tự",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-serial schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử lệnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-command history"
+      }
+    ]
+  },
+  {
+    "word": "lịch phân phối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-delivery schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử kinh tế (học)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-history of economic"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu kiểm soát độ cư trú (quang) phổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-schedule for monitoring spectrum occupancy"
+      }
+    ]
+  },
+  {
+    "word": "lịa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lịa\n- ph. Nhanh nhảu, liền liền: Làm lịa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịa [lịa]\n-rapidly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rapidly"
+      }
+    ]
+  },
+  {
+    "word": "lịch sử cổ kính",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "human history"
+        "dict_definition": "ancient history"
+      }
+    ]
+  },
+  {
+    "word": "lịch biểu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-plan\n-schedule"
+      }
+    ]
+  },
+  {
+    "word": "lịch thiệp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ ra biết cách giao thiệp, làm vừa lòng người tiếp xúc với mình\nVí dụ:\n- cách cư xử lịch thiệp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lịch thiệp\n- Biết giao thiệp giỏi, đã từng trải nhiều trong việc giao tế xã hội."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lịch thiệp [lịch thiệp]\n-well-mannered;  courteous;  sociable"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "well-mannered, courteous, sociable"
+      }
+    ]
+  },
+  {
+    "word": "lịch gregory",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Gregorian calendar"
       }
     ]
   },
@@ -970,77 +1032,51 @@
     ]
   },
   {
-    "word": "lịch ghi nhớ",
+    "word": "lịch dự chi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-diary"
+        "dict_definition": "@Chuyên ngành kinh tế\n-budget calendar"
       }
     ]
   },
   {
-    "word": "lịch sử hoạt động",
+    "word": "lịch sử nhân loại",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-audit history\n-audit trail"
+        "dict_name": "VNEDICT",
+        "dict_definition": "human history"
       }
     ]
   },
   {
-    "word": "lịch nghiệp vụ",
+    "word": "lịch sữ đã chứng minh rằng",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-business calendar"
+        "dict_name": "VNEDICT",
+        "dict_definition": "history has proved, demonstrated that"
       }
     ]
   },
   {
-    "word": "lịch biểu từng thời",
+    "word": "lịch triều",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-seasonal schedule"
-      }
-    ]
-  },
-  {
-    "word": "lịch phịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng đi nặng nề, khó khăn do quá to béo\nVí dụ:\n- chạy lịch phịch \n - người to béo, bước đi lịch phịch"
-      }
-    ]
-  },
-  {
-    "word": "lịch thiệp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ ra biết cách giao thiệp, làm vừa lòng người tiếp xúc với mình\nVí dụ:\n- cách cư xử lịch thiệp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lịch thiệp\n- Biết giao thiệp giỏi, đã từng trải nhiều trong việc giao tế xã hội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lịch thiệp [lịch thiệp]\n-well-mannered;  courteous;  sociable"
+        "dict_definition": "@lịch triều [lịch triều]\n-past dynasties"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "well-mannered, courteous, sociable"
+        "dict_definition": "past dynasties"
       }
     ]
   },
   {
-    "word": "lịch biểu công việc",
+    "word": "lịch biểu sản xuất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-employment schedule"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-production schedule"
       }
     ]
   },
@@ -1054,47 +1090,11 @@
     ]
   },
   {
-    "word": "lịch sử kiến trúc",
+    "word": "lịch biểu phát thanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-History of Architecture"
-      }
-    ]
-  },
-  {
-    "word": "lịch thành",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Lịch thành\n- một huyện thuộc tỉnh Sơn Đông, cách xa Giang Tô"
-      }
-    ]
-  },
-  {
-    "word": "lịch chuyển đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-calendar of conversion"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu thời gian thực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-real-time calendar"
-      }
-    ]
-  },
-  {
-    "word": "lịch biểu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-plan\n-schedule"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-broadcasting schedule"
       }
     ]
   }

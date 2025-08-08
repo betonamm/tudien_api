@@ -1,10 +1,10 @@
 [
   {
-    "word": "thyrixto nhạy quang",
+    "word": "thymidine, hợp chất có thymin và đường ribose",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-photosensitive thyristor, photothyristor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thymidine"
       }
     ]
   },
@@ -18,29 +18,11 @@
     ]
   },
   {
-    "word": "thyrixto công suất",
+    "word": "thyrixto đóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-power thyristor"
-      }
-    ]
-  },
-  {
-    "word": "thymidine, hợp chất có thymin và đường ribose",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thymidine"
-      }
-    ]
-  },
-  {
-    "word": "thyrixto điôt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-diode thyristor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gate triggered thyristor"
       }
     ]
   },
@@ -72,11 +54,29 @@
     ]
   },
   {
-    "word": "thyrixto đóng",
+    "word": "thyrixto công suất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gate triggered thyristor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-power thyristor"
+      }
+    ]
+  },
+  {
+    "word": "thyrixto điôt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-diode thyristor"
+      }
+    ]
+  },
+  {
+    "word": "thyrixto nhạy quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-photosensitive thyristor, photothyristor"
       }
     ]
   }

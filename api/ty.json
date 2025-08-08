@@ -9,114 +9,11 @@
     ]
   },
   {
-    "word": "ty trưởng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ty trưởng\n- Người đứng đầu một ty."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ty trưởng [v]\n-head of department"
-      }
-    ]
-  },
-  {
-    "word": "tyristo ngắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-off thyristor"
-      }
-    ]
-  },
-  {
-    "word": "tyristo điot",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-diode thyristor"
-      }
-    ]
-  },
-  {
-    "word": "ty thuế vụ hải quan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commission of customs"
-      }
-    ]
-  },
-  {
-    "word": "ty lạp thể có chứa atp và các enzyme liên quan đến các hoạt động chuyển hóa tế bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Mitochondrion"
-      }
-    ]
-  },
-  {
-    "word": "ty chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-linin"
-      }
-    ]
-  },
-  {
-    "word": "ty (sứ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pin"
-      }
-    ]
-  },
-  {
-    "word": "tyristo quang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-photosensitive thyristor"
-      }
-    ]
-  },
-  {
     "word": "tyristo công suất",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-power thyistor"
-      }
-    ]
-  },
-  {
-    "word": "ty vi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ty vi\n- thấp bé"
-      }
-    ]
-  },
-  {
-    "word": "ty cảnh sát",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "police station"
-      }
-    ]
-  },
-  {
-    "word": "tyristo nhạy quang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-photosensitive thyristor"
       }
     ]
   },
@@ -142,6 +39,109 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "bureau, office, division, service"
+      }
+    ]
+  },
+  {
+    "word": "tyristo điot",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-diode thyristor"
+      }
+    ]
+  },
+  {
+    "word": "ty lạp thể có chứa atp và các enzyme liên quan đến các hoạt động chuyển hóa tế bào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Mitochondrion"
+      }
+    ]
+  },
+  {
+    "word": "tyristo ngắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-off thyristor"
+      }
+    ]
+  },
+  {
+    "word": "ty (sứ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pin"
+      }
+    ]
+  },
+  {
+    "word": "ty cảnh sát",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "police station"
+      }
+    ]
+  },
+  {
+    "word": "ty chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-linin"
+      }
+    ]
+  },
+  {
+    "word": "ty thuế vụ hải quan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commission of customs"
+      }
+    ]
+  },
+  {
+    "word": "tyristo quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-photosensitive thyristor"
+      }
+    ]
+  },
+  {
+    "word": "ty vi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ty vi\n- thấp bé"
+      }
+    ]
+  },
+  {
+    "word": "ty trưởng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ty trưởng\n- Người đứng đầu một ty."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ty trưởng [v]\n-head of department"
+      }
+    ]
+  },
+  {
+    "word": "tyristo nhạy quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-photosensitive thyristor"
       }
     ]
   }

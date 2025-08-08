@@ -1,10 +1,10 @@
 [
   {
-    "word": "pcs",
+    "word": "pcr",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-personal communication service (PCS)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-peak cell rate (PCR)"
       }
     ]
   },
@@ -18,20 +18,11 @@
     ]
   },
   {
-    "word": "pc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem máy tính cá nhân"
-      }
-    ]
-  },
-  {
-    "word": "pci lèn chặt",
+    "word": "pcc điểm chung của hai đường cong",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Compact PCI (CPCI)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Point of compound curve"
       }
     ]
   },
@@ -45,20 +36,29 @@
     ]
   },
   {
-    "word": "pcr",
+    "word": "pcs",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-peak cell rate (PCR)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-personal communication service (PCS)"
       }
     ]
   },
   {
-    "word": "pcc điểm chung của hai đường cong",
+    "word": "pci lèn chặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Point of compound curve"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Compact PCI (CPCI)"
+      }
+    ]
+  },
+  {
+    "word": "pc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem máy tính cá nhân"
       }
     ]
   }

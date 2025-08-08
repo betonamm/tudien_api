@@ -1,10 +1,93 @@
 [
   {
-    "word": "mỗi năm bốn lần",
+    "word": "mỗi người một phách",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "everyone has it his own way"
+      }
+    ]
+  },
+  {
+    "word": "mỗi cây mỗi hoa, mỗi nhà mỗi cảnh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "there is black sheep in every flock"
+      }
+    ]
+  },
+  {
+    "word": "mỗi bên một nửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
+        "dict_definition": "@Chuyên ngành kinh tế\n-fifty-fifty\n-half and half (half-and-half)"
+      }
+    ]
+  },
+  {
+    "word": "mỗi lần ngã là một lần bớt dại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "experience is the best teacher"
+      }
+    ]
+  },
+  {
+    "word": "mỗ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ dùng để tự xưng [thường với người ngang hàng hoặc hàng dưới]\nVí dụ:\n- \"Chẳng may vợ mỗ mới qua, Triều đình cử mỗ phải ra trận này.\" (PCCH)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỗ\n- đ. 1. Từ dùng để tự xưng nói trống: Như mỗ đây. 2. Từ chỉ một người, một vật, một nơi không cần nói rõ tên: Ông mỗ sinh ngày mỗ ở xã mỗ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỗ\n-I, mẹ\n=Mỗ đây là con nhà gia giáo\n+I here am of a good family breeding\n-What\"s-his (-her, -its) -name, what -d\" you call-him (-her, -it...)\n=Ông mỗ ở xã mỗ\n+What\"s-his-name live in what\"s-its-name"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỗ\n- I, mẹ\n=Mỗ đây là con nhà gia giáo+I here am of a good family breeding\n-What's-his (-her, -its) -name, what -d' you call-him (-her, -it...)\n=Ông mỗ ở xã mỗ+What's-his-name live in what's-its-name"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I, me"
+      }
+    ]
+  },
+  {
+    "word": "mỗi năm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per annual\n-per annum\n-year-to-year"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "each year, every year"
+      }
+    ]
+  },
+  {
+    "word": "mỗi gói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per package"
+      }
+    ]
+  },
+  {
+    "word": "mỗi tin báo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Per-Message (PM)"
       }
     ]
   },
@@ -18,27 +101,29 @@
     ]
   },
   {
-    "word": "mỗi một",
+    "word": "mỗi bận",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mỗi [ng1; nhưng nghĩa mạnh hơn]\nVí dụ:\n- chỉ cho mỗi một người vào \n - mỗi một năm một khác"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỗi một\n- t. 1. Nh. Mỗi: Mỗi một người một gánh đất. 2. Chỉ có một: Mỗi một mình ngồi trong nhà."
-      },
+        "dict_name": "VNEDICT",
+        "dict_definition": "each time"
+      }
+    ]
+  },
+  {
+    "word": "mỗi năm bốn lần",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@mỗi một\n-Each\n-Alone, by oneself\n=Cảm thấy buồn, vì chỉ có một mình ở nhà\n+To feel sad for getting alone at home\n-More ... and more ...;... -er and ... -er\n=Trời mỗi ngày một lạnh thêm\n+It is getting colder annd colder\n@Chuyên ngành kỹ thuật\n-each"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỗi một\n- Each\n-Alone, by oneself\n=Cảm thấy buồn, vì chỉ có một mình ở nhà+To feel sad for getting alone at home\n-More ... and more ...;... -er and ... -er\n=Trời mỗi ngày một lạnh thêm+It is getting colder annd colder"
-      },
+        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
+      }
+    ]
+  },
+  {
+    "word": "mỗi lần",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "each alone, each one, by oneself"
+        "dict_definition": "each time"
       }
     ]
   },
@@ -64,16 +149,34 @@
     ]
   },
   {
-    "word": "mỗi lúc",
+    "word": "mỗi người chúng tôi",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "each time, every time"
+        "dict_definition": "each of us"
       }
     ]
   },
   {
-    "word": "mỗi bận",
+    "word": "mỗi cánh có đối trọng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-counterweighted window"
+      }
+    ]
+  },
+  {
+    "word": "mỗi ba tháng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
+      }
+    ]
+  },
+  {
+    "word": "mỗi một lần",
     "definitions": [
       {
         "dict_name": "VNEDICT",
@@ -82,42 +185,20 @@
     ]
   },
   {
-    "word": "mỗi lần ngã là một lần bớt dại",
+    "word": "mỗi khi",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "experience is the best teacher"
+        "dict_definition": "every time"
       }
     ]
   },
   {
-    "word": "mỗi buổi sáng",
+    "word": "mỗi người trong chúng ta",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "every morning"
-      }
-    ]
-  },
-  {
-    "word": "mỗi thứ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-everything"
-      }
-    ]
-  },
-  {
-    "word": "mỗi tháng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per menses\n-per monthly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "each, every month"
+        "dict_definition": "everyone of us"
       }
     ]
   },
@@ -131,11 +212,83 @@
     ]
   },
   {
-    "word": "mỗi người chúng tôi",
+    "word": "mỗi lúc",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "each of us"
+        "dict_definition": "each time, every time"
+      }
+    ]
+  },
+  {
+    "word": "mỗi tấn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per ton"
+      }
+    ]
+  },
+  {
+    "word": "mỗi tam cá nguyệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
+      }
+    ]
+  },
+  {
+    "word": "mỗi sáu tháng một lần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "once every six months"
+      }
+    ]
+  },
+  {
+    "word": "mỗi giờ-người (mỗi giờ làm việc của một người)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per man hour"
+      }
+    ]
+  },
+  {
+    "word": "mỗi quý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
+      }
+    ]
+  },
+  {
+    "word": "mỗi mối nối có áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pressurized connection"
+      }
+    ]
+  },
+  {
+    "word": "mỗi đêm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "every evening, every night"
+      }
+    ]
+  },
+  {
+    "word": "mỗi đầu người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-per capital"
       }
     ]
   },
@@ -182,184 +335,11 @@
     ]
   },
   {
-    "word": "mỗi đứa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "every person, every one"
-      }
-    ]
-  },
-  {
-    "word": "mỗi giờ-người (mỗi giờ làm việc của một người)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per man hour"
-      }
-    ]
-  },
-  {
-    "word": "mỗi ngày một nhiều",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "more every day"
-      }
-    ]
-  },
-  {
-    "word": "mỗi lần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "each time"
-      }
-    ]
-  },
-  {
-    "word": "mỗi người chúng ta",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "all, each, every one of us"
-      }
-    ]
-  },
-  {
     "word": "mỗi chiều",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "every evening"
-      }
-    ]
-  },
-  {
-    "word": "mỗi chuyển động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mobile lure"
-      }
-    ]
-  },
-  {
-    "word": "mỗ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ dùng để tự xưng [thường với người ngang hàng hoặc hàng dưới]\nVí dụ:\n- \"Chẳng may vợ mỗ mới qua, Triều đình cử mỗ phải ra trận này.\" (PCCH)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỗ\n- đ. 1. Từ dùng để tự xưng nói trống: Như mỗ đây. 2. Từ chỉ một người, một vật, một nơi không cần nói rõ tên: Ông mỗ sinh ngày mỗ ở xã mỗ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỗ\n-I, mẹ\n=Mỗ đây là con nhà gia giáo\n+I here am of a good family breeding\n-What\"s-his (-her, -its) -name, what -d\" you call-him (-her, -it...)\n=Ông mỗ ở xã mỗ\n+What\"s-his-name live in what\"s-its-name"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỗ\n- I, mẹ\n=Mỗ đây là con nhà gia giáo+I here am of a good family breeding\n-What's-his (-her, -its) -name, what -d' you call-him (-her, -it...)\n=Ông mỗ ở xã mỗ+What's-his-name live in what's-its-name"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I, me"
-      }
-    ]
-  },
-  {
-    "word": "mỗi năm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per annual\n-per annum\n-year-to-year"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "each year, every year"
-      }
-    ]
-  },
-  {
-    "word": "mỗi tam cá nguyệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
-      }
-    ]
-  },
-  {
-    "word": "mỗi kiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per package"
-      }
-    ]
-  },
-  {
-    "word": "mỗi một lần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "each time"
-      }
-    ]
-  },
-  {
-    "word": "mỗi mối nối có áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pressurized connection"
-      }
-    ]
-  },
-  {
-    "word": "mỗi đơn vị khối lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-per unit mass"
-      }
-    ]
-  },
-  {
-    "word": "mỗi công-ten-nơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per container"
-      }
-    ]
-  },
-  {
-    "word": "mỗi bên một nửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fifty-fifty\n-half and half (half-and-half)"
-      }
-    ]
-  },
-  {
-    "word": "mỗi đơn vị diện tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-per unit area"
-      }
-    ]
-  },
-  {
-    "word": "mỗi kênh một sóng mang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Single - Channel - Per - Carrier (SCPC)"
       }
     ]
   },
@@ -373,6 +353,85 @@
     ]
   },
   {
+    "word": "mỗi kênh một sóng mang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Single - Channel - Per - Carrier (SCPC)"
+      }
+    ]
+  },
+  {
+    "word": "mỗi kiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per package"
+      }
+    ]
+  },
+  {
+    "word": "mỗi giây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "each second, per second"
+      }
+    ]
+  },
+  {
+    "word": "mỗi ngày một nhiều",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "more every day"
+      }
+    ]
+  },
+  {
+    "word": "mỗi một",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mỗi [ng1; nhưng nghĩa mạnh hơn]\nVí dụ:\n- chỉ cho mỗi một người vào \n - mỗi một năm một khác"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỗi một\n- t. 1. Nh. Mỗi: Mỗi một người một gánh đất. 2. Chỉ có một: Mỗi một mình ngồi trong nhà."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỗi một\n-Each\n-Alone, by oneself\n=Cảm thấy buồn, vì chỉ có một mình ở nhà\n+To feel sad for getting alone at home\n-More ... and more ...;... -er and ... -er\n=Trời mỗi ngày một lạnh thêm\n+It is getting colder annd colder\n@Chuyên ngành kỹ thuật\n-each"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỗi một\n- Each\n-Alone, by oneself\n=Cảm thấy buồn, vì chỉ có một mình ở nhà+To feel sad for getting alone at home\n-More ... and more ...;... -er and ... -er\n=Trời mỗi ngày một lạnh thêm+It is getting colder annd colder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "each alone, each one, by oneself"
+      }
+    ]
+  },
+  {
+    "word": "mỗi đơn vị diện tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-per unit area"
+      }
+    ]
+  },
+  {
+    "word": "mỗi người chúng ta",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "all, each, every one of us"
+      }
+    ]
+  },
+  {
     "word": "mỗi giờ",
     "definitions": [
       {
@@ -382,29 +441,69 @@
     ]
   },
   {
-    "word": "mỗi tin báo",
+    "word": "mỗi thứ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Per-Message (PM)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-everything"
       }
     ]
   },
   {
-    "word": "mỗi người trong chúng ta",
+    "word": "mỗi đơn vị khối lượng",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "everyone of us"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-per unit mass"
       }
     ]
   },
   {
-    "word": "mỗi sáu tháng một lần",
+    "word": "mỗi tháng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per menses\n-per monthly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "each, every month"
+      }
+    ]
+  },
+  {
+    "word": "mỗi công-ten-nơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per container"
+      }
+    ]
+  },
+  {
+    "word": "mỗi buổi sáng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "once every six months"
+        "dict_definition": "every morning"
+      }
+    ]
+  },
+  {
+    "word": "mỗi đứa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "every person, every one"
+      }
+    ]
+  },
+  {
+    "word": "mỗi chuyển động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mobile lure"
       }
     ]
   },
@@ -422,15 +521,6 @@
     ]
   },
   {
-    "word": "mỗi giây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "each second, per second"
-      }
-    ]
-  },
-  {
     "word": "mỗi tuần",
     "definitions": [
       {
@@ -440,96 +530,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "every, each week"
-      }
-    ]
-  },
-  {
-    "word": "mỗi người một phách",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "everyone has it his own way"
-      }
-    ]
-  },
-  {
-    "word": "mỗi khi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "every time"
-      }
-    ]
-  },
-  {
-    "word": "mỗi ba tháng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
-      }
-    ]
-  },
-  {
-    "word": "mỗi gói",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per package"
-      }
-    ]
-  },
-  {
-    "word": "mỗi cánh có đối trọng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-counterweighted window"
-      }
-    ]
-  },
-  {
-    "word": "mỗi quý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quarterly"
-      }
-    ]
-  },
-  {
-    "word": "mỗi đầu người",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-per capital"
-      }
-    ]
-  },
-  {
-    "word": "mỗi đêm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "every evening, every night"
-      }
-    ]
-  },
-  {
-    "word": "mỗi tấn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per ton"
-      }
-    ]
-  },
-  {
-    "word": "mỗi cây mỗi hoa, mỗi nhà mỗi cảnh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "there is black sheep in every flock"
       }
     ]
   }

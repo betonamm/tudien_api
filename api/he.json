@@ -1,19 +1,143 @@
 [
   {
-    "word": "heroin",
+    "word": "heo",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "một loại ma tuý [thường ở dạng bột] được chế từ morphine"
+        "dict_definition": "lợn\nVí dụ:\n- thịt heo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@heo\n- 1 dt., đphg Lợn: nói toạc móng heo (tng.).\n- 2 (Khí hậu) hanh khô, thường vào dịp chuyển tiếp giữa thu sang đông: trời heo  heo đường leo lên ngọn (tng.)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@heo\n*noun\n-hog; pig; swine\n=thịt heo\n+pork\n=bầy heo\n+heard of swine\n=heo cái\n+sow"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@heo\n* noun\n- hog; pig; swine\n=thịt heo+pork\n=bầy heo+heard of swine\n=heo cái+sow"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pig, hog, swine, pork"
       }
     ]
   },
   {
-    "word": "heuristic",
+    "word": "hertz",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổng thể nói chung các quy tắc, phương pháp khái quát từ kinh nghiệm quá khứ được dùng trong quá trình nghiên cứu phát hiện cái mới"
+        "dict_definition": "đơn vị đo tần số, bằng tần số của một quá trình tuần hoàn có chu kì một giây"
+      }
+    ]
+  },
+  {
+    "word": "hen suyễn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hen [nói khái quát]\nVí dụ:\n- lên cơn hen suyễn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hen suyễn\n-Asthma"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hen suyễn\n- Asthma"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "asthma"
+      }
+    ]
+  },
+  {
+    "word": "heo nái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@heo nái\n*noun\n-sow raised for breeding"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@heo nái\n* noun\n-sow raised for breeding"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sow"
+      }
+    ]
+  },
+  {
+    "word": "hematite",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoáng sản màu đỏ hoặc nâu, có chứa chất sắt"
+      }
+    ]
+  },
+  {
+    "word": "heo quay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@heo quay\n*noun\n-roast pork"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@heo quay\n* noun\n-roast pork"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "roast pork"
+      }
+    ]
+  },
+  {
+    "word": "helium",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khí trơ, không màu, rất nhẹ, dùng để bơm vào khí cầu, bóng đèn điện"
+      }
+    ]
+  },
+  {
+    "word": "heo heo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[gió thổi] nhè nhẹ từng đợt ngắn và hơi se lạnh\nVí dụ:\n- \"Bầm ơi có rét không bầm!, Heo heo gió núi, lâm thâm mưa phùn.\" (Tố Hữu; 7)"
+      }
+    ]
+  },
+  {
+    "word": "hemoglobin",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chất màu đỏ, thành phần chủ yếu của hồng cầu, có nhiệm vụ vận chuyển oxygen từ phổi tới các mô, do protide kết hợp với một chất màu đỏ có chứa sắt tạo nên"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-haemoglobin"
+      }
+    ]
+  },
+  {
+    "word": "heo hạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@heo hạch [heo hạch]\n-(dial.) boar; a male pig"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "boar, a male pig"
       }
     ]
   },
@@ -43,114 +167,11 @@
     ]
   },
   {
-    "word": "heo héo",
+    "word": "hecta",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hơi héo\nVí dụ:\n- bông hoa đã heo héo"
-      }
-    ]
-  },
-  {
-    "word": "heo may",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gió heo may [nói tắt]\nVí dụ:\n- trời trở heo may"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Heo may\n- Dịch thoát chữ \"Lý Phong\" , nghĩa là \"Gió cá chép\"\n- Theo truyền thuyết, vào mùa thu, cá chép theo nước sông về hội ở Vũ Môn để chuẩn bị hóa thành rồng. Gió vào mùa này gọi là \"Gió cá chép\" Ca dao: Tháng tư cá đi ăn thề\n- Tháng 8 cá về hội ở Vũ môn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@heo may\n-ay Coldish north-westerly wind (blowing in autumn)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@heo may\n- ay Coldish north-westerly wind (blowing in autumn)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ay coldish north-westerly wind (blowing in autumn)"
-      }
-    ]
-  },
-  {
-    "word": "hemoglobin",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chất màu đỏ, thành phần chủ yếu của hồng cầu, có nhiệm vụ vận chuyển oxygen từ phổi tới các mô, do protide kết hợp với một chất màu đỏ có chứa sắt tạo nên"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-haemoglobin"
-      }
-    ]
-  },
-  {
-    "word": "hematite",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoáng sản màu đỏ hoặc nâu, có chứa chất sắt"
-      }
-    ]
-  },
-  {
-    "word": "helium",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khí trơ, không màu, rất nhẹ, dùng để bơm vào khí cầu, bóng đèn điện"
-      }
-    ]
-  },
-  {
-    "word": "hen suyễn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hen [nói khái quát]\nVí dụ:\n- lên cơn hen suyễn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hen suyễn\n-Asthma"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hen suyễn\n- Asthma"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "asthma"
-      }
-    ]
-  },
-  {
-    "word": "heo vòi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thú lớn, chân guốc, hình dáng giống lợn nhưng to hơn, mõm và môi trên kéo dài thành vòi ngắn, sống đơn độc, ăn rễ cây, cành lá, quả rụng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@heo vòi\n-Raphis pallm. raphis stick, raphis cane"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@heo vòi\n- Raphis pallm. raphis stick, raphis cane"
-      }
-    ]
-  },
-  {
-    "word": "hectomet",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hectometre"
+        "dict_definition": "đơn vị đo diện tích ruộng đất, bằng 10.000 mét vuông"
       }
     ]
   },
@@ -184,6 +205,33 @@
     ]
   },
   {
+    "word": "heroin",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "một loại ma tuý [thường ở dạng bột] được chế từ morphine"
+      }
+    ]
+  },
+  {
+    "word": "heo héo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hơi héo\nVí dụ:\n- bông hoa đã heo héo"
+      }
+    ]
+  },
+  {
+    "word": "hectomet",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hectometre"
+      }
+    ]
+  },
+  {
     "word": "heo hắt",
     "definitions": [
       {
@@ -201,83 +249,44 @@
     ]
   },
   {
-    "word": "heo",
+    "word": "heo vòi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lợn\nVí dụ:\n- thịt heo"
+        "dict_definition": "thú lớn, chân guốc, hình dáng giống lợn nhưng to hơn, mõm và môi trên kéo dài thành vòi ngắn, sống đơn độc, ăn rễ cây, cành lá, quả rụng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@heo vòi\n-Raphis pallm. raphis stick, raphis cane"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@heo vòi\n- Raphis pallm. raphis stick, raphis cane"
+      }
+    ]
+  },
+  {
+    "word": "heo may",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gió heo may [nói tắt]\nVí dụ:\n- trời trở heo may"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@heo\n- 1 dt., đphg Lợn: nói toạc móng heo (tng.).\n- 2 (Khí hậu) hanh khô, thường vào dịp chuyển tiếp giữa thu sang đông: trời heo  heo đường leo lên ngọn (tng.)."
+        "dict_definition": "@Heo may\n- Dịch thoát chữ \"Lý Phong\" , nghĩa là \"Gió cá chép\"\n- Theo truyền thuyết, vào mùa thu, cá chép theo nước sông về hội ở Vũ Môn để chuẩn bị hóa thành rồng. Gió vào mùa này gọi là \"Gió cá chép\" Ca dao: Tháng tư cá đi ăn thề\n- Tháng 8 cá về hội ở Vũ môn"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@heo\n*noun\n-hog; pig; swine\n=thịt heo\n+pork\n=bầy heo\n+heard of swine\n=heo cái\n+sow"
+        "dict_definition": "@heo may\n-ay Coldish north-westerly wind (blowing in autumn)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@heo\n* noun\n- hog; pig; swine\n=thịt heo+pork\n=bầy heo+heard of swine\n=heo cái+sow"
+        "dict_definition": "@heo may\n- ay Coldish north-westerly wind (blowing in autumn)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "pig, hog, swine, pork"
-      }
-    ]
-  },
-  {
-    "word": "heo quay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@heo quay\n*noun\n-roast pork"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@heo quay\n* noun\n-roast pork"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "roast pork"
-      }
-    ]
-  },
-  {
-    "word": "heo hạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@heo hạch [heo hạch]\n-(dial.) boar; a male pig"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "boar, a male pig"
-      }
-    ]
-  },
-  {
-    "word": "heo nái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@heo nái\n*noun\n-sow raised for breeding"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@heo nái\n* noun\n-sow raised for breeding"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sow"
-      }
-    ]
-  },
-  {
-    "word": "hecta",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị đo diện tích ruộng đất, bằng 10.000 mét vuông"
+        "dict_definition": "ay coldish north-westerly wind (blowing in autumn)"
       }
     ]
   },
@@ -307,20 +316,11 @@
     ]
   },
   {
-    "word": "hertz",
+    "word": "heuristic",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị đo tần số, bằng tần số của một quá trình tuần hoàn có chu kì một giây"
-      }
-    ]
-  },
-  {
-    "word": "heo heo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[gió thổi] nhè nhẹ từng đợt ngắn và hơi se lạnh\nVí dụ:\n- \"Bầm ơi có rét không bầm!, Heo heo gió núi, lâm thâm mưa phùn.\" (Tố Hữu; 7)"
+        "dict_definition": "tổng thể nói chung các quy tắc, phương pháp khái quát từ kinh nghiệm quá khứ được dùng trong quá trình nghiên cứu phát hiện cái mới"
       }
     ]
   }

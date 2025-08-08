@@ -1,10 +1,10 @@
 [
   {
-    "word": "vèo nhanh",
+    "word": "vè chắn bùn",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fast, quick"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mudguard"
       }
     ]
   },
@@ -14,24 +14,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-wheel panel"
-      }
-    ]
-  },
-  {
-    "word": "vè bánh sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-rear wing"
-      }
-    ]
-  },
-  {
-    "word": "vè chắn bùn bánh lăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-track roller guard"
       }
     ]
   },
@@ -65,6 +47,60 @@
     ]
   },
   {
+    "word": "vè xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fender\n-mud apron\n-mud guard\n-wing"
+      }
+    ]
+  },
+  {
+    "word": "vè chắn bùn bánh lăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-track roller guard"
+      }
+    ]
+  },
+  {
+    "word": "vèo nhanh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fast, quick"
+      }
+    ]
+  },
+  {
+    "word": "vè vè",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng thanh, trầm, kéo dài và đều đều nghe như từ xa vọng lại\nVí dụ:\n- tiếng máy bay vè vè trên đầu \n - vè vè chiếc xe máy mới"
+      }
+    ]
+  },
+  {
+    "word": "vè bánh sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-rear wing"
+      }
+    ]
+  },
+  {
+    "word": "vè chắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-apron"
+      }
+    ]
+  },
+  {
     "word": "vèo vèo",
     "definitions": [
       {
@@ -78,24 +114,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "very fast, rapid"
-      }
-    ]
-  },
-  {
-    "word": "vè chắn bùn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mudguard"
-      }
-    ]
-  },
-  {
-    "word": "vè xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fender\n-mud apron\n-mud guard\n-wing"
       }
     ]
   },
@@ -125,24 +143,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "mudguard; satirical folk song"
-      }
-    ]
-  },
-  {
-    "word": "vè vè",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng thanh, trầm, kéo dài và đều đều nghe như từ xa vọng lại\nVí dụ:\n- tiếng máy bay vè vè trên đầu \n - vè vè chiếc xe máy mới"
-      }
-    ]
-  },
-  {
-    "word": "vè chắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-apron"
       }
     ]
   }

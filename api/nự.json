@@ -1,81 +1,5 @@
 [
   {
-    "word": "nựng mùi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nựng mùi\n- Có mùi nặng xông lên mạnh: Nước mắm để lâu nựng mùi."
-      }
-    ]
-  },
-  {
-    "word": "nực nội",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nóng bức đến khó chịu\nVí dụ:\n- ngày hè nực nội"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nực nội\n- Nóng bức: Trời nực nội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nực nội\n-Hot, sultry\n=Thời tiết nực nội\n+The weather is sultry"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nực nội\n- Hot, sultry\n=Thời tiết nực nội+The weather is sultry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hot, sultry"
-      }
-    ]
-  },
-  {
-    "word": "nực mùi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nực mùi\n- Có mùi xông mạnh lên: Nực mùi mắm tôm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nực mùi [nực mùi]\n-smell (of), reek (of)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "smell (of), reek (of)"
-      }
-    ]
-  },
-  {
-    "word": "nựng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ rõ sự âu yếm trẻ con bằng lời nói, cử chỉ\nVí dụ:\n- chị nựng đứa con"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nựng\n- đg. Dỗ con : Nựng thằng bé cho nó nín."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nựng\n*verb\n-to caress"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nựng\n* verb\n- to caress"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to caress"
-      }
-    ]
-  },
-  {
     "word": "nực cười",
     "definitions": [
       {
@@ -143,6 +67,82 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to soothe"
+      }
+    ]
+  },
+  {
+    "word": "nựng mùi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nựng mùi\n- Có mùi nặng xông lên mạnh: Nước mắm để lâu nựng mùi."
+      }
+    ]
+  },
+  {
+    "word": "nực mùi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nực mùi\n- Có mùi xông mạnh lên: Nực mùi mắm tôm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nực mùi [nực mùi]\n-smell (of), reek (of)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "smell (of), reek (of)"
+      }
+    ]
+  },
+  {
+    "word": "nựng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ rõ sự âu yếm trẻ con bằng lời nói, cử chỉ\nVí dụ:\n- chị nựng đứa con"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nựng\n- đg. Dỗ con : Nựng thằng bé cho nó nín."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nựng\n*verb\n-to caress"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nựng\n* verb\n- to caress"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to caress"
+      }
+    ]
+  },
+  {
+    "word": "nực nội",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nóng bức đến khó chịu\nVí dụ:\n- ngày hè nực nội"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nực nội\n- Nóng bức: Trời nực nội."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nực nội\n-Hot, sultry\n=Thời tiết nực nội\n+The weather is sultry"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nực nội\n- Hot, sultry\n=Thời tiết nực nội+The weather is sultry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hot, sultry"
       }
     ]
   }

@@ -1,5 +1,26 @@
 [
   {
+    "word": "đũa cả",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đũa to và dẹp, dùng để ghế và xới cơm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đũa cả\n-Big flat chopstick (for serving out rice from the pot)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đũa cả\n- Big flat chopstick (for serving out rice from the pot)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "large (cooking, serving) chopsticks"
+      }
+    ]
+  },
+  {
     "word": "đũa hàn đồng đỏ",
     "definitions": [
       {
@@ -9,32 +30,11 @@
     ]
   },
   {
-    "word": "đũi",
+    "word": "đũa ngà",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hàng dệt bằng tơ gốc\nVí dụ:\n- quần đũi \n - yếm đũi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giá có nhiều tầng, thường dùng để đặt nong lên trên\nVí dụ:\n- đũi tằm này có năm nong"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đũi\n-Tussore\n=Bộ quần áo đũi\n+A tussore suit"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đũi\n- Tussore\n=Bộ quần áo đũi+A tussore suit"
-      }
-    ]
-  },
-  {
-    "word": "đũa hàn đắp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-filler welding rod"
+        "dict_name": "VNEDICT",
+        "dict_definition": "ivory chopstick, elephant’s tusk"
       }
     ]
   },
@@ -52,98 +52,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "stirring rod"
-      }
-    ]
-  },
-  {
-    "word": "đũa cầm nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-micromanipulator"
-      }
-    ]
-  },
-  {
-    "word": "đũng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chỗ nối liền nhau giữa hai ống quần\nVí dụ:\n- mặc quần rách đũng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đũng\n-Seat"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đũng\n- Seat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crotch (of one’s pants), seat"
-      }
-    ]
-  },
-  {
-    "word": "đũa ngà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ivory chopstick, elephant’s tusk"
-      }
-    ]
-  },
-  {
-    "word": "đũa khuấy bằng thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glass-stirring rod"
-      }
-    ]
-  },
-  {
-    "word": "đũa tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-circular file"
-      }
-    ]
-  },
-  {
-    "word": "đũa bếp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đũa to và dài hơn đũa thường, chuyên dùng khi nấu nướng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đũa bếp\n-như đũa cả"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đũa bếp\n- như đũa cả"
-      }
-    ]
-  },
-  {
-    "word": "đũng quần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crotch (of one’s pants)"
-      }
-    ]
-  },
-  {
-    "word": "đũa phép",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(magic) wand"
       }
     ]
   },
@@ -177,11 +85,112 @@
     ]
   },
   {
+    "word": "đũa hàn bọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-covered electrode"
+      }
+    ]
+  },
+  {
+    "word": "đũa hàn đắp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-filler welding rod"
+      }
+    ]
+  },
+  {
+    "word": "đũa bếp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đũa to và dài hơn đũa thường, chuyên dùng khi nấu nướng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đũa bếp\n-như đũa cả"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đũa bếp\n- như đũa cả"
+      }
+    ]
+  },
+  {
+    "word": "đũa khuấy bằng thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glass-stirring rod"
+      }
+    ]
+  },
+  {
+    "word": "đũa phép",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(magic) wand"
+      }
+    ]
+  },
+  {
+    "word": "đũa cầm nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-micromanipulator"
+      }
+    ]
+  },
+  {
+    "word": "đũa tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-circular file"
+      }
+    ]
+  },
+  {
     "word": "đũa (đôi)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-chopsticks"
+      }
+    ]
+  },
+  {
+    "word": "đũi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hàng dệt bằng tơ gốc\nVí dụ:\n- quần đũi \n - yếm đũi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "giá có nhiều tầng, thường dùng để đặt nong lên trên\nVí dụ:\n- đũi tằm này có năm nong"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đũi\n-Tussore\n=Bộ quần áo đũi\n+A tussore suit"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đũi\n- Tussore\n=Bộ quần áo đũi+A tussore suit"
+      }
+    ]
+  },
+  {
+    "word": "đũng quần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "crotch (of one’s pants)"
       }
     ]
   },
@@ -213,32 +222,23 @@
     ]
   },
   {
-    "word": "đũa hàn bọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-covered electrode"
-      }
-    ]
-  },
-  {
-    "word": "đũa cả",
+    "word": "đũng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đũa to và dẹp, dùng để ghế và xới cơm"
+        "dict_definition": "chỗ nối liền nhau giữa hai ống quần\nVí dụ:\n- mặc quần rách đũng"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đũa cả\n-Big flat chopstick (for serving out rice from the pot)"
+        "dict_definition": "@đũng\n-Seat"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đũa cả\n- Big flat chopstick (for serving out rice from the pot)"
+        "dict_definition": "@đũng\n- Seat"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "large (cooking, serving) chopsticks"
+        "dict_definition": "crotch (of one’s pants), seat"
       }
     ]
   }

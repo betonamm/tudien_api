@@ -1,90 +1,114 @@
 [
   {
-    "word": "lời loan báo",
+    "word": "lời giải riêng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-recorded announcement"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-particular solution"
       }
     ]
   },
   {
-    "word": "lời chiêu hàng chuẩn bị trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-canned sales talk"
-      }
-    ]
-  },
-  {
-    "word": "lời ròng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-net profit"
-      }
-    ]
-  },
-  {
-    "word": "lời truyền đạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-message"
-      }
-    ]
-  },
-  {
-    "word": "lời kết báo cáo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-report footing"
-      }
-    ]
-  },
-  {
-    "word": "lời bạt",
+    "word": "lờn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bài viết ở cuối sách để trình bày thêm một số ý kiến có liên quan đến nội dung của tác phẩm"
+        "dict_definition": "xem nhờn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờn\n- (ph.). x. nhờn1."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lời bạt [lời bạt]\n-epilogue"
+        "dict_definition": "@lờn\n*adj\n-too familiar; disrespectful\n=lởn vởn\n+to be haunted"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lờn\n* adj\n- too familiar; disrespectful\n=lởn vởn+to be haunted"
+      }
+    ]
+  },
+  {
+    "word": "lời kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-epilogue"
+      }
+    ]
+  },
+  {
+    "word": "lời khen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời khen [lời khen]\n-praise;  compliment"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "epilogue"
+        "dict_definition": "praise, compliment"
       }
     ]
   },
   {
-    "word": "lời (thư) khiếu nại",
+    "word": "lời lỗ tiền tệ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-complaint"
+        "dict_definition": "@Chuyên ngành kinh tế\n-monetary gain and loss"
       }
     ]
   },
   {
-    "word": "lời lỗ ngẫu sinh",
+    "word": "lời tựa",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem đề tựa\nVí dụ:\n- lời tựa của cuốn sách"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lời tựa\n- d. x. tựa1."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-non-recurring profit and loss"
+        "dict_definition": "@lời tựa\n*noun\n-preface; foreword\n@Chuyên ngành kỹ thuật\n-introduction\n-preamble\n-preface"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lời tựa\n* noun\n-preface; foreword"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "preface, foreword"
       }
     ]
   },
   {
-    "word": "lời giải chấp nhận được",
+    "word": "lời thỉnh cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-feasible solution"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-appeal"
+      }
+    ]
+  },
+  {
+    "word": "lời tâm sự",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "secret, something said in confidence"
+      }
+    ]
+  },
+  {
+    "word": "lời tán tỉnh bán hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sales talk"
       }
     ]
   },
@@ -98,59 +122,111 @@
     ]
   },
   {
-    "word": "lời ròng kiếm được",
+    "word": "lời khuyên về pháp luật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-net profit earned"
+        "dict_definition": "@Chuyên ngành kinh tế\n-legal advice"
       }
     ]
   },
   {
-    "word": "lời báo động kết hợp",
+    "word": "lời ghi chú trên vận đơn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-combined alert"
+        "dict_definition": "@Chuyên ngành kinh tế\n-remark\n-wet"
       }
     ]
   },
   {
-    "word": "lời ghi chú",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-written indication\n@Chuyên ngành kỹ thuật\n-comment facility\n-lettering\n-note"
-      }
-    ]
-  },
-  {
-    "word": "lời an ủi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "consolation"
-      }
-    ]
-  },
-  {
-    "word": "lời văn",
+    "word": "lờ đờ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình thức diễn đạt bằng ngôn ngữ được viết thành văn\nVí dụ:\n- lời văn rườm rà"
+        "dict_definition": "rất chậm chạp, thiếu tinh nhanh, thiếu sống động\nVí dụ:\n- mắt lờ đờ vì buồn ngủ \n - dòng nước chảy lờ đờ"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lời văn\n- d. 1. Phong cách, cách thể hiện nội dung bằng ngôn ngữ: Lời văn súc tích. 2. Nghĩa suy ra từ cách hiểu chặt chẽ từng từ: Tinh thần và lời văn của hiệp định."
+        "dict_definition": "@lờ đờ\n- t. ph. 1. Chậm chạp và thiếu tinh khôn : Con mắt lờ đờ. 2. Nói nước chảy chầm chậm : Nước chảy lờ đờ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lời văn [lời văn]\n-style"
+        "dict_definition": "@lờ đờ\n*adj\n-glassy; dull; lack-lustre\n=mắt lờ đờ\n+Glassy eyes"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lờ đờ\n* adj\n- glassy; dull; lack-lustre\n=mắt lờ đờ+Glassy eyes"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "style"
+        "dict_definition": "glassy, dull"
+      }
+    ]
+  },
+  {
+    "word": "lời cáo giác",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "accusation"
+      }
+    ]
+  },
+  {
+    "word": "lời và lỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-profit and loss\n@Chuyên ngành kỹ thuật\n-profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời than phiền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "complaint"
+      }
+    ]
+  },
+  {
+    "word": "lờn mặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờn mặt\n- Không còn kính nể nữa."
+      }
+    ]
+  },
+  {
+    "word": "lời giải",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần trình bày cách tìm ra đáp số hoặc cách chứng minh phần kết luận của một bài toán\nVí dụ:\n- lời giải của bài toán đố"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lời giải thích hoặc cách thức giải quyết hợp lí đối với một vấn đề, một công việc\nVí dụ:\n- vấn đề chưa tìm ra lời giải"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời giải [lời giải]\n-key\n@Chuyên ngành kỹ thuật\n-solution\n@Lĩnh vực: toán & tin\n-solution (of an equation)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "key"
+      }
+    ]
+  },
+  {
+    "word": "lời ghi chú chung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-public note"
       }
     ]
   },
@@ -164,38 +240,47 @@
     ]
   },
   {
-    "word": "lời ròng bán hàng",
+    "word": "lời loan báo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-net profit on sales"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-recorded announcement"
       }
     ]
   },
   {
-    "word": "lời ít",
+    "word": "lời nói nhanh và ngắt âm tiết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-meager profit"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-staccato"
       }
     ]
   },
   {
-    "word": "lời cam đoan",
+    "word": "lời lỗ trên sổ sách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-undertaking"
+        "dict_definition": "@Chuyên ngành kinh tế\n-book profit or loss"
       }
     ]
   },
   {
-    "word": "lời dòng của năm nay, trong năm",
+    "word": "lời lỗ thanh lý",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-net profit for the current year"
+        "dict_definition": "@Chuyên ngành kinh tế\n-liquidation profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ linh tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-miscellaneous profit and loss"
       }
     ]
   },
@@ -217,84 +302,633 @@
     ]
   },
   {
-    "word": "lời mách nước",
+    "word": "lờ hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ignore"
+      }
+    ]
+  },
+  {
+    "word": "lờ cắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-inset"
+      }
+    ]
+  },
+  {
+    "word": "lời ngon ngọt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "honeyed words"
+      }
+    ]
+  },
+  {
+    "word": "lời thoái thác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stale hors\n-stalking horse"
+      }
+    ]
+  },
+  {
+    "word": "lời ròng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-net profit"
+      }
+    ]
+  },
+  {
+    "word": "lời chú giải chung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-public note"
+      }
+    ]
+  },
+  {
+    "word": "lời giải riêng liên hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-conjugate eigen solution"
+      }
+    ]
+  },
+  {
+    "word": "lời ròng kiếm được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-net profit earned"
+      }
+    ]
+  },
+  {
+    "word": "lời ghi chép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-note"
+      }
+    ]
+  },
+  {
+    "word": "lờm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờm\n- t. Thừa ra: Cái này lớn quá lờm ra ngoài miệng hòm."
+      }
+    ]
+  },
+  {
+    "word": "lời nhận xét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-remark"
+      }
+    ]
+  },
+  {
+    "word": "lời chào đấu thầu cuối tuần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-saturday night special"
+      }
+    ]
+  },
+  {
+    "word": "lời khuyên về mặt pháp lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-legal advice"
+      }
+    ]
+  },
+  {
+    "word": "lời giới thiệu sách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blurt"
+      }
+    ]
+  },
+  {
+    "word": "lờ đi khoảng trống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ignore blank"
+      }
+    ]
+  },
+  {
+    "word": "lời cung khai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-deposition\n-testimony"
+      }
+    ]
+  },
+  {
+    "word": "lời ghi chú riêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-private note"
+      }
+    ]
+  },
+  {
+    "word": "lời ám chỉ",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-tip-off"
-      }
-    ]
-  },
-  {
-    "word": "lời yêu cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-application"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "request"
+        "dict_definition": "insinuation, innuendo"
       }
     ]
   },
   {
-    "word": "lờ mờ",
+    "word": "lời giải của bài toán đối ngẫu của người tiêu dùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-solution to the consumer\"s dual problem"
+      }
+    ]
+  },
+  {
+    "word": "lời đáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-answer\n-reply"
+      }
+    ]
+  },
+  {
+    "word": "lời chiêu hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sales talk"
+      }
+    ]
+  },
+  {
+    "word": "lời rao",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "announcement"
+      }
+    ]
+  },
+  {
+    "word": "lời gọi tới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-incoming call"
+      }
+    ]
+  },
+  {
+    "word": "lời nói đầu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[ánh sáng] rất mờ, đến mức không nhìn thấy rõ nét\nVí dụ:\n- ánh trăng soi lờ mờ \n - bóng người lờ mờ trong sương"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[nhận thức] không rõ ràng, không rành mạch\nVí dụ:\n- lờ mờ đoán ra \n - lờ mờ nhận thấy có điều chẳng lành"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ mờ\n- t. 1. Không sáng rõ: Ngọn đèn lờ mờ. 2. Không biết rõ: Lờ mờ trong công tác."
+        "dict_definition": "những lời viết ở đầu sách để trình bày trước một số ý kiến, có liên quan đến nội dung, mục đích cuốn sách [nói tổng quát]"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lờ mờ [lờ mờ]\n-hazy;  muddy;  unclear;  dubious\n-undecided;  equivocal;  ambiguous;  vague\n@Chuyên ngành kỹ thuật\n-fuzziness\n-semi-darkness"
-      }
-    ]
-  },
-  {
-    "word": "lời ít hoặc lỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-little profit or outright loss"
-      }
-    ]
-  },
-  {
-    "word": "lời thăm hỏi nồng nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-regards"
-      }
-    ]
-  },
-  {
-    "word": "lờ phờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thiếu năng động, uể oải, rã rời\nVí dụ:\n- chân tay lờ phờ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ phờ\n- Lơ mơ, không quan tâm đến việc gì: Đi lờ phờ ngoài phố."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lờ phờ [lờ phờ]\n-indifferent, cold, listless"
+        "dict_definition": "@lời nói đầu [lời nói đầu]\n-preamble;  preface;  foreword\n@Chuyên ngành kỹ thuật\n-foreword\n-preface"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "indifferent, cold, listless"
+        "dict_definition": "foreword, introduction, introductory words, remarks, preamble, preface"
+      }
+    ]
+  },
+  {
+    "word": "lời công bố của nhà xuất bản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-publisher\"s statement"
+      }
+    ]
+  },
+  {
+    "word": "lời giới thiêu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "introductory words, comments"
+      }
+    ]
+  },
+  {
+    "word": "lời và lỗ bất thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-non-recurring profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lờm xờm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều sợi, nhiều lớp dài ngắn không đều và hơi xù lên, trông không gọn\nVí dụ:\n- tóc tai lờm xờm \n - mái rạ lờm xờm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờm xờm\n- Không nhẵn nhụi, không mượt, không trơn: Đầu tóc lờm xờm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lờm xờm [lờm xờm]\n-tousled\n@Chuyên ngành kỹ thuật\n-ragged"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tousled"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ vốn ngắn hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-short-term capital gain and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem lỗ lãi\nVí dụ:\n- hạch toán lời lỗ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời lỗ [lời lỗ]\n-profit and loss; gains and losses\n@Chuyên ngành kinh tế\n-loss and gain\n-profit and loss"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "profit and loss, gains and losses"
+      }
+    ]
+  },
+  {
+    "word": "lời bình luận của các chuyên gia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expert remark"
+      }
+    ]
+  },
+  {
+    "word": "lời bình phẩm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(words of) comment, criticism"
+      }
+    ]
+  },
+  {
+    "word": "lời ta thán",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "complaint"
+      }
+    ]
+  },
+  {
+    "word": "lời yêu cầu cuối cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-final application"
+      }
+    ]
+  },
+  {
+    "word": "lời xác nhận không khoa học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-unscientific affirmations"
+      }
+    ]
+  },
+  {
+    "word": "lời thề hyppocrates",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Hippocratic oath"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ thường xuyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ordinary profit and loss\n-recurrent profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời công khai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-deposition"
+      }
+    ]
+  },
+  {
+    "word": "lời mời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-invitation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "invitation"
+      }
+    ]
+  },
+  {
+    "word": "lời cảnh báo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-caveat\n-warning shot"
+      }
+    ]
+  },
+  {
+    "word": "lời chúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời chúc [lời chúc]\n-wishes"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wishes"
+      }
+    ]
+  },
+  {
+    "word": "lời dòng của năm nay, trong năm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-net profit for the current year"
+      }
+    ]
+  },
+  {
+    "word": "lời chỉ dẫn tham khảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cross reference (cross-reference)"
+      }
+    ]
+  },
+  {
+    "word": "lời giới thiệu ngắn gọn ngoài bao bì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-blurb"
+      }
+    ]
+  },
+  {
+    "word": "lời mào đầu (pháp quy, hợp đồng ...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-preamble"
+      }
+    ]
+  },
+  {
+    "word": "lời xin lỗi suông",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "empty apology"
+      }
+    ]
+  },
+  {
+    "word": "lời bàn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "moral (of a story)"
+      }
+    ]
+  },
+  {
+    "word": "lời kết thúc mẫu (bức thư)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-standard closure"
+      }
+    ]
+  },
+  {
+    "word": "lời cải chính",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(words of) denial"
+      }
+    ]
+  },
+  {
+    "word": "lời lẽ thô tục",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "crude language, vulgarity, profanity"
+      }
+    ]
+  },
+  {
+    "word": "lời khuyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời khuyên\n*noun\n-counsel; advise; admonition\n@Chuyên ngành kinh tế\n-recommendation\n@Chuyên ngành kỹ thuật\n-advice\n-advice (s)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lời khuyên\n* noun\n- counsel; advise; admonition"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(piece of) advice, council"
+      }
+    ]
+  },
+  {
+    "word": "lời mở đầu mẫu (bức thư)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-standard opening"
+      }
+    ]
+  },
+  {
+    "word": "lời thoại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-callouts"
+      }
+    ]
+  },
+  {
+    "word": "lời gọi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-offering\n-toll offering\n-trunk offering"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "call"
+      }
+    ]
+  },
+  {
+    "word": "lời báo trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-written censure"
+      }
+    ]
+  },
+  {
+    "word": "lờ vờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờ vờ\n- Vờ vĩnh, lấy lệ: Làm lờ vờ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lờ vờ [lờ vờ]\n-pretend (to be), feign, dissemble, simulate, sham\n-as a matter of form, for form\"s sake, for the sake of appearance"
+      }
+    ]
+  },
+  {
+    "word": "lời dẫn giải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-comment"
+      }
+    ]
+  },
+  {
+    "word": "lời ít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-meager profit"
+      }
+    ]
+  },
+  {
+    "word": "lời hứa trên giấy tờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-written promise"
+      }
+    ]
+  },
+  {
+    "word": "lời hứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời hứa\n*noun\n-promise; engagement; word\n=Tôi không tin vào những lời hứa của cô ta\n+I have no faith in her promises\n@Chuyên ngành kinh tế\n-commitment\n-engagement\n-promise\n-undertaking"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lời hứa\n* noun\n- promise; engagement; word\n=Tôi không tin vào những lời hứa của cô ta+I have no faith in her promises"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "promise"
+      }
+    ]
+  },
+  {
+    "word": "lời ăn lỗ chịu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự chịu trách nhiệm trong công việc làm ăn, lãi thì được hưởng, lỗ thì phải chịu"
+      }
+    ]
+  },
+  {
+    "word": "lời lãi quá đáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-excessive profit"
+      }
+    ]
+  },
+  {
+    "word": "lời giả lỗ thật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inflated profit"
       }
     ]
   },
@@ -332,58 +966,6 @@
     ]
   },
   {
-    "word": "lờ đờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất chậm chạp, thiếu tinh nhanh, thiếu sống động\nVí dụ:\n- mắt lờ đờ vì buồn ngủ \n - dòng nước chảy lờ đờ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ đờ\n- t. ph. 1. Chậm chạp và thiếu tinh khôn : Con mắt lờ đờ. 2. Nói nước chảy chầm chậm : Nước chảy lờ đờ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lờ đờ\n*adj\n-glassy; dull; lack-lustre\n=mắt lờ đờ\n+Glassy eyes"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lờ đờ\n* adj\n- glassy; dull; lack-lustre\n=mắt lờ đờ+Glassy eyes"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "glassy, dull"
-      }
-    ]
-  },
-  {
-    "word": "lời gọi đệ quy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recursive call"
-      }
-    ]
-  },
-  {
-    "word": "lời hướng dẫn bút toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-write instruction"
-      }
-    ]
-  },
-  {
-    "word": "lời gọi định tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-qualified call"
-      }
-    ]
-  },
-  {
     "word": "lời ăn tiếng nói",
     "definitions": [
       {
@@ -397,207 +979,74 @@
     ]
   },
   {
-    "word": "lời khuyên về pháp luật",
+    "word": "lời lỗ kinh doanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-legal advice"
+        "dict_definition": "@Chuyên ngành kinh tế\n-trading profit or loss"
       }
     ]
   },
   {
-    "word": "lời chú giải sửa đổi",
+    "word": "lời lỗ trong mua bán ngoại hối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-modification note"
+        "dict_definition": "@Chuyên ngành kinh tế\n-profit or loss on exchange"
       }
     ]
   },
   {
-    "word": "lời giải",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần trình bày cách tìm ra đáp số hoặc cách chứng minh phần kết luận của một bài toán\nVí dụ:\n- lời giải của bài toán đố"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lời giải thích hoặc cách thức giải quyết hợp lí đối với một vấn đề, một công việc\nVí dụ:\n- vấn đề chưa tìm ra lời giải"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời giải [lời giải]\n-key\n@Chuyên ngành kỹ thuật\n-solution\n@Lĩnh vực: toán & tin\n-solution (of an equation)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "key"
-      }
-    ]
-  },
-  {
-    "word": "lời non nước",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lời non nước\n- Lời chỉ non thề biển"
-      }
-    ]
-  },
-  {
-    "word": "lời giả lỗ thật",
+    "word": "lời và lỗ trong kỳ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inflated profit"
+        "dict_definition": "@Chuyên ngành kinh tế\n-current profit and loss"
       }
     ]
   },
   {
-    "word": "lời kết thúc quảng cáo",
+    "word": "lời chú giải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tag"
+        "dict_definition": "@Chuyên ngành kinh tế\n-annotation\n@Chuyên ngành kỹ thuật\n-comment\n-note"
       }
     ]
   },
   {
-    "word": "lời ngon ngọt",
+    "word": "lời mách nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tip-off"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ thường ngày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-current profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời hướng dẫn bút toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-write instruction"
+      }
+    ]
+  },
+  {
+    "word": "lời hăm dọa",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "honeyed words"
-      }
-    ]
-  },
-  {
-    "word": "lời giải giải tích hoàn toàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-closed form analytic solution"
-      }
-    ]
-  },
-  {
-    "word": "lời kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-epilogue"
-      }
-    ]
-  },
-  {
-    "word": "lời chú ý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-remark"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ không bình thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extraordinary gain or loss"
-      }
-    ]
-  },
-  {
-    "word": "lời ai oán",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lament"
-      }
-    ]
-  },
-  {
-    "word": "lời nguyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "*danh từ\n-vow; oath; plight"
-      }
-    ]
-  },
-  {
-    "word": "lời giải đầy đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complete solution"
-      }
-    ]
-  },
-  {
-    "word": "lời yêu cầu cuối cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-final application"
-      }
-    ]
-  },
-  {
-    "word": "lời gọi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-offering\n-toll offering\n-trunk offering"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "call"
-      }
-    ]
-  },
-  {
-    "word": "lời phi lộ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "foreword"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ kỳ trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-profit and loss for previous period"
-      }
-    ]
-  },
-  {
-    "word": "lời báo trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-written censure"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ thanh lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-liquidation profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời ăn lỗ chịu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự chịu trách nhiệm trong công việc làm ăn, lãi thì được hưởng, lỗ thì phải chịu"
+        "dict_definition": "threat, threating words"
       }
     ]
   },
@@ -623,160 +1072,37 @@
     ]
   },
   {
-    "word": "lời thỉnh cầu",
+    "word": "lời giải gốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-appeal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mother solution"
       }
     ]
   },
   {
-    "word": "lời xin lỗi suông",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "empty apology"
-      }
-    ]
-  },
-  {
-    "word": "lời bàn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "moral (of a story)"
-      }
-    ]
-  },
-  {
-    "word": "lời lãi",
+    "word": "lời lẽ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lãi do buôn bán, làm ăn [nói khái quát]\nVí dụ:\n- buôn chung, lời lãi chia đôi \n - hàng chững nên chẳng lời lãi mấy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lời lãi\n- Lãi nói chung."
+        "dict_definition": "lời nói, về mặt nội dung và cách diễn đạt [nói khái quát]\nVí dụ:\n- lời lẽ ngon ngọt \n - dùng lời lẽ để khuyên can"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-profit"
-      }
-    ]
-  },
-  {
-    "word": "lời khai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời khai [lời khai]\n-declaration;  statement;  testimony"
+        "dict_definition": "@lời lẽ [lời lẽ]\n-words;  reasoning;  argument"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "declaration, statement, testimony"
+        "dict_definition": "words, reason(ing), argument"
       }
     ]
   },
   {
-    "word": "lời giải riêng liên hợp",
+    "word": "lời đề tặng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-conjugate eigen solution"
-      }
-    ]
-  },
-  {
-    "word": "lời mào đầu (pháp quy, hợp đồng ...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-preamble"
-      }
-    ]
-  },
-  {
-    "word": "lời chú thích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-comment"
-      }
-    ]
-  },
-  {
-    "word": "lời bình luận của các chuyên gia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expert remark"
-      }
-    ]
-  },
-  {
-    "word": "lời giải đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-synchronous solution"
-      }
-    ]
-  },
-  {
-    "word": "lời lẽ quảng cáo để chiêu hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pitch"
-      }
-    ]
-  },
-  {
-    "word": "lờm xờm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều sợi, nhiều lớp dài ngắn không đều và hơi xù lên, trông không gọn\nVí dụ:\n- tóc tai lờm xờm \n - mái rạ lờm xờm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờm xờm\n- Không nhẵn nhụi, không mượt, không trơn: Đầu tóc lờm xờm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lờm xờm [lờm xờm]\n-tousled\n@Chuyên ngành kỹ thuật\n-ragged"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tousled"
-      }
-    ]
-  },
-  {
-    "word": "lời lãi liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-recurring gains"
-      }
-    ]
-  },
-  {
-    "word": "lời thề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời thề\n*noun\n-oath"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lời thề\n* noun\n- oath"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "oath"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-inscription"
       }
     ]
   },
@@ -802,304 +1128,167 @@
     ]
   },
   {
-    "word": "lời ta thán",
+    "word": "lời lỗ ngẫu sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-non-recurring profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ kỳ trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-profit and loss for previous period"
+      }
+    ]
+  },
+  {
+    "word": "lời bào chữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-plea"
+      }
+    ]
+  },
+  {
+    "word": "lời giải (bài toán)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-resolution"
+      }
+    ]
+  },
+  {
+    "word": "lời xỉ vả",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "complaint"
+        "dict_definition": "(words of) insult"
       }
     ]
   },
   {
-    "word": "lời cải chính",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(words of) denial"
-      }
-    ]
-  },
-  {
-    "word": "lời nhắc",
+    "word": "lời ít hoặc lỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-prompt"
+        "dict_definition": "@Chuyên ngành kinh tế\n-little profit or outright loss"
       }
     ]
   },
   {
-    "word": "lời mở đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-introduction\n-preamble"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "opening words, forward"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ tiền tệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-monetary gain and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời mở đầu mẫu (bức thư)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-standard opening"
-      }
-    ]
-  },
-  {
-    "word": "lời chia buồn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "words of sympathy"
-      }
-    ]
-  },
-  {
-    "word": "lời cam kết, cam đoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-undertaking"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ đặc biệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-special profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời chào giá đỡ đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-godfather offer"
-      }
-    ]
-  },
-  {
-    "word": "lời chào đấu thầu cuối tuần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-saturday night special"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ trong mua bán ngoại hối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-profit or loss on exchange"
-      }
-    ]
-  },
-  {
-    "word": "lời cung khai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-deposition\n-testimony"
-      }
-    ]
-  },
-  {
-    "word": "lời công khai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-deposition"
-      }
-    ]
-  },
-  {
-    "word": "lờn",
+    "word": "lờ lãi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhờn"
+        "dict_definition": "như lời lãi\nVí dụ:\n- buôn bán nhỏ nên lờ lãi chẳng là bao"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờn\n- (ph.). x. nhờn1."
-      },
+        "dict_definition": "@lờ lãi\n- Tiền lãi nói chung: Buôn bán thế mà chẳng có lờ lãi gì."
+      }
+    ]
+  },
+  {
+    "word": "lời giải tổng quát",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lờn\n*adj\n-too familiar; disrespectful\n=lởn vởn\n+to be haunted"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-general solution"
+      }
+    ]
+  },
+  {
+    "word": "lời giới thiệu ngắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-blurb"
+      }
+    ]
+  },
+  {
+    "word": "lời ròng (chẳng hạn được 10%...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-clear"
+      }
+    ]
+  },
+  {
+    "word": "lời tán dương",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(words of) praise"
+      }
+    ]
+  },
+  {
+    "word": "lời nói ngắt âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-staccato speech"
+      }
+    ]
+  },
+  {
+    "word": "lời nói không nhịp điệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-aprosody"
+      }
+    ]
+  },
+  {
+    "word": "lời dặm bán hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sales talk"
+      }
+    ]
+  },
+  {
+    "word": "lời biện hộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-apology"
+      }
+    ]
+  },
+  {
+    "word": "lời thăm hỏi nồng nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-regards"
+      }
+    ]
+  },
+  {
+    "word": "lời thề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời thề\n*noun\n-oath"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lờn\n* adj\n- too familiar; disrespectful\n=lởn vởn+to be haunted"
-      }
-    ]
-  },
-  {
-    "word": "lời chỉ dẫn tham khảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cross reference (cross-reference)"
-      }
-    ]
-  },
-  {
-    "word": "lời giải bằng đồ thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-graphical solution"
-      }
-    ]
-  },
-  {
-    "word": "lời rao",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "announcement"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ linh tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-miscellaneous profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời than phiền",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "complaint"
-      }
-    ]
-  },
-  {
-    "word": "lời quảng cáo sách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blurb"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ trên sổ sách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-book profit or loss"
-      }
-    ]
-  },
-  {
-    "word": "lời giải gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mother solution"
-      }
-    ]
-  },
-  {
-    "word": "lờ lững",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ lững\n- Lơ mơ, kém hoạt động, kém tích cực: Lờ lững suốt ngày chẳng chịu làm gì."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lờ lững [lờ lững]\n-indifferent, grow cold, lose interest (in)"
+        "dict_definition": "@lời thề\n* noun\n- oath"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "indifferent, grow cold, lose interest (in)"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ kinh doanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trading profit or loss"
-      }
-    ]
-  },
-  {
-    "word": "lời giải cộng tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-collinear solution"
-      }
-    ]
-  },
-  {
-    "word": "lời nói mềm mỏng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flexible language"
-      }
-    ]
-  },
-  {
-    "word": "lời thoái thác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stale hors\n-stalking horse"
-      }
-    ]
-  },
-  {
-    "word": "lời nói đầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "những lời viết ở đầu sách để trình bày trước một số ý kiến, có liên quan đến nội dung, mục đích cuốn sách [nói tổng quát]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời nói đầu [lời nói đầu]\n-preamble;  preface;  foreword\n@Chuyên ngành kỹ thuật\n-foreword\n-preface"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "foreword, introduction, introductory words, remarks, preamble, preface"
-      }
-    ]
-  },
-  {
-    "word": "lờm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờm\n- t. Thừa ra: Cái này lớn quá lờm ra ngoài miệng hòm."
+        "dict_definition": "oath"
       }
     ]
   },
@@ -1137,81 +1326,123 @@
     ]
   },
   {
-    "word": "lời chỉ trích",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(words of) criticism"
-      }
-    ]
-  },
-  {
-    "word": "lời nói phóng đại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overstatement"
-      }
-    ]
-  },
-  {
-    "word": "lời công bố của nhà xuất bản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-publisher\"s statement"
-      }
-    ]
-  },
-  {
-    "word": "lời nói",
+    "word": "lờ tịt",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "những lời con người nói ra trong một hoàn cảnh giao tiếp cụ thể [nói tổng quát]\nVí dụ:\n- nghe lời nói phải \n - lời nói dịu dàng \n - lời nói không đi đôi với việc làm"
-      },
+        "dict_definition": "lờ hẳn đi, thản nhiên như không biết gì\nVí dụ:\n- chị ấy lờ tịt số tiền đã nợ tôi"
+      }
+    ]
+  },
+  {
+    "word": "lời nói bậy bạ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "foolish nonsense"
+      }
+    ]
+  },
+  {
+    "word": "lời gọi hàm đệ quy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recursive (function) call"
+      }
+    ]
+  },
+  {
+    "word": "lờ lờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờ lờ\n- Nói chất lỏng hơi có vẩn: Nước đục lờ lờ."
+      }
+    ]
+  },
+  {
+    "word": "lời đề nghị",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "suggestion, proposal"
+      }
+    ]
+  },
+  {
+    "word": "lờn bơn",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sản phẩm cụ thể của hoạt động ngôn ngữ, trong quan hệ đối lập với ngôn ngữ\nVí dụ:\n- mối quan hệ giữa ngôn ngữ và lời nói"
+        "dict_definition": "xem thờn bơn"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lời nói [lời nói]\n-word;  speech\n@Chuyên ngành kỹ thuật\n-speech"
-      },
+        "dict_definition": "@lờn bơn [lờn bơn]\n-plaice, flounder, flat fish"
+      }
+    ]
+  },
+  {
+    "word": "lời gọi đệ quy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recursive call"
+      }
+    ]
+  },
+  {
+    "word": "lời giải chỉ dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-indicating solution"
+      }
+    ]
+  },
+  {
+    "word": "lời ai oán",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "spoken word(s), statements, speech"
+        "dict_definition": "lament"
       }
     ]
   },
   {
-    "word": "lời cam kết",
+    "word": "lời hạ quỹ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commitment\n-undertaking"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pledge, promise"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Lời hạ quỹ\n- Lời người gùi sọt cỏ (Hạ là gùi, quỹ là cái sọt)\n- Luận Ngữ: Khổng Tử đánh Khánh (Một nhạc cụ cổ) ở nước Vệ, có người gùi sọt cỏ đi qua cửa nói: \"Người đánh khánh có thâm ý làm sao ! không ai biết mình thì thôi đi thôi. Nước sâu thì mặc áo, không qua; nước cạn thì xắn áo lội qua\" (ý khuyên Khổng Tử tùy thời mà hành đạo, được thì làm, không được thì thôi)"
       }
     ]
   },
   {
-    "word": "lời nói ngắt âm",
+    "word": "lời nguyền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-staccato speech"
+        "dict_definition": "*danh từ\n-vow; oath; plight"
       }
     ]
   },
   {
-    "word": "lời giải số",
+    "word": "lời đường mật",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lời nói ngọt ngào nhằm mục đích dụ dỗ, lừa phỉnh\nVí dụ:\n- nghe lời đường mật \n - dùng lời đường mật để dụ dỗ"
+      }
+    ]
+  },
+  {
+    "word": "lời chú ý",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-numerical solution"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-remark"
       }
     ]
   },
@@ -1221,6 +1452,54 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-attestation\n-deposition\n-testimony\n-witness"
+      }
+    ]
+  },
+  {
+    "word": "lời ca ngợi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "words of praise"
+      }
+    ]
+  },
+  {
+    "word": "lời văn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình thức diễn đạt bằng ngôn ngữ được viết thành văn\nVí dụ:\n- lời văn rườm rà"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lời văn\n- d. 1. Phong cách, cách thể hiện nội dung bằng ngôn ngữ: Lời văn súc tích. 2. Nghĩa suy ra từ cách hiểu chặt chẽ từng từ: Tinh thần và lời văn của hiệp định."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời văn [lời văn]\n-style"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "style"
+      }
+    ]
+  },
+  {
+    "word": "lời ròng bán hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-net profit on sales"
+      }
+    ]
+  },
+  {
+    "word": "lời giải đầy đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complete solution"
       }
     ]
   },
@@ -1238,11 +1517,73 @@
     ]
   },
   {
-    "word": "lời lẽ thô tục",
+    "word": "lời mời mậu dịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-invitation to treat"
+      }
+    ]
+  },
+  {
+    "word": "lời quảng cáo khoác lác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-glib sales talk"
+      }
+    ]
+  },
+  {
+    "word": "lời (bình luận) quảng cáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-advertising commentary"
+      }
+    ]
+  },
+  {
+    "word": "lời kết báo cáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-report footing"
+      }
+    ]
+  },
+  {
+    "word": "lời hứa hẹn ái ân",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "crude language, vulgarity, profanity"
+        "dict_definition": "promise of love"
+      }
+    ]
+  },
+  {
+    "word": "lờ khờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờ khờ\n- Nh. Lờ ngờ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lờ khờ [lờ khờ]\n-slow, sluggish, dullwitted"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "slow, sluggish, dull-witted"
+      }
+    ]
+  },
+  {
+    "word": "lời chú thích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-comment"
       }
     ]
   },
@@ -1256,29 +1597,488 @@
     ]
   },
   {
-    "word": "lời ròng (chẳng hạn được 10%...)",
+    "word": "lời và lỗ ngoài kinh doanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-clear"
+        "dict_definition": "@Chuyên ngành kinh tế\n-non-operating profit and loss"
       }
     ]
   },
   {
-    "word": "lời đề nghị",
+    "word": "lời tuyên bố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-representation\n-statement"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "spoken words, statement, declaration"
+      }
+    ]
+  },
+  {
+    "word": "lời giới thiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-introduction"
+      }
+    ]
+  },
+  {
+    "word": "lời chú giả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-note"
+      }
+    ]
+  },
+  {
+    "word": "lời giải bằng đồ thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-graphical solution"
+      }
+    ]
+  },
+  {
+    "word": "lời báo động kết hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-combined alert"
+      }
+    ]
+  },
+  {
+    "word": "lời quảng cáo lừa đảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fraudulent mispresentation"
+      }
+    ]
+  },
+  {
+    "word": "lời chào thân hữu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-regards"
+      }
+    ]
+  },
+  {
+    "word": "lời chú giải sửa đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-modification note"
+      }
+    ]
+  },
+  {
+    "word": "lờ mờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[ánh sáng] rất mờ, đến mức không nhìn thấy rõ nét\nVí dụ:\n- ánh trăng soi lờ mờ \n - bóng người lờ mờ trong sương"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[nhận thức] không rõ ràng, không rành mạch\nVí dụ:\n- lờ mờ đoán ra \n - lờ mờ nhận thấy có điều chẳng lành"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờ mờ\n- t. 1. Không sáng rõ: Ngọn đèn lờ mờ. 2. Không biết rõ: Lờ mờ trong công tác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lờ mờ [lờ mờ]\n-hazy;  muddy;  unclear;  dubious\n-undecided;  equivocal;  ambiguous;  vague\n@Chuyên ngành kỹ thuật\n-fuzziness\n-semi-darkness"
+      }
+    ]
+  },
+  {
+    "word": "lời yêu cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-application"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "request"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ bán hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sales profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời nói mềm mỏng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "suggestion, proposal"
+        "dict_definition": "flexible language"
       }
     ]
   },
   {
-    "word": "lời sắt son",
+    "word": "lờ và lờ vờ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lời sắt son\n- Lời trung thành vững chắc như sắt như son"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như lờ vờ [nhưng ý nhấn mạnh hơn]"
+      }
+    ]
+  },
+  {
+    "word": "lời chỉ dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-order"
+      }
+    ]
+  },
+  {
+    "word": "lời hỏi thăm nồng nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-regards"
+      }
+    ]
+  },
+  {
+    "word": "lời giải cộng tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-collinear solution"
+      }
+    ]
+  },
+  {
+    "word": "lời nói líu nhíu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-clipped speech\n-jargonaphasia"
+      }
+    ]
+  },
+  {
+    "word": "lời lẽ quảng cáo để chiêu hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pitch"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ không bình thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-extraordinary gain or loss"
+      }
+    ]
+  },
+  {
+    "word": "lời cảnh cáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tip-off\n-warning shot"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(words of) warning"
+      }
+    ]
+  },
+  {
+    "word": "lời chú thích dài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-long comment"
+      }
+    ]
+  },
+  {
+    "word": "lời được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-earning\n-return"
+      }
+    ]
+  },
+  {
+    "word": "lời nhiều nhưng đầy rủi ro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-go-go"
+      }
+    ]
+  },
+  {
+    "word": "lời chào cao hơn mâm cỗ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "A polite greeting is better than a good meal"
+      }
+    ]
+  },
+  {
+    "word": "lời chào mở đầu (bức thư)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-salutation"
+      }
+    ]
+  },
+  {
+    "word": "lời giải chấp nhận được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-feasible solution"
+      }
+    ]
+  },
+  {
+    "word": "lời chiêu hàng chuẩn bị trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-canned sales talk"
+      }
+    ]
+  },
+  {
+    "word": "lời gọi hàm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-function call"
+      }
+    ]
+  },
+  {
+    "word": "lời chào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-salutation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "words of greeting"
+      }
+    ]
+  },
+  {
+    "word": "lời giải số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-numerical solution"
+      }
+    ]
+  },
+  {
+    "word": "lời nhẹ nhàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-eunuch"
+      }
+    ]
+  },
+  {
+    "word": "lời khuyến cáo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "recommendation"
+      }
+    ]
+  },
+  {
+    "word": "lời to",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-grab the biz"
+      }
+    ]
+  },
+  {
+    "word": "lời cam kết, cam đoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-undertaking"
+      }
+    ]
+  },
+  {
+    "word": "lời khai báo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-declaration"
+      }
+    ]
+  },
+  {
+    "word": "lời kiện",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "statement, lawsuit, charge"
+      }
+    ]
+  },
+  {
+    "word": "lời cam đoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-undertaking"
+      }
+    ]
+  },
+  {
+    "word": "lời khai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời khai [lời khai]\n-declaration;  statement;  testimony"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "declaration, statement, testimony"
+      }
+    ]
+  },
+  {
+    "word": "lời thuyết minh quảng cáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commentary"
+      }
+    ]
+  },
+  {
+    "word": "lời hứa có điều kiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-conditional promise"
+      }
+    ]
+  },
+  {
+    "word": "lời cam kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commitment\n-undertaking"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pledge, promise"
+      }
+    ]
+  },
+  {
+    "word": "lời gọi định tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-qualified call"
+      }
+    ]
+  },
+  {
+    "word": "lời cám ơn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(words of) thanks"
+      }
+    ]
+  },
+  {
+    "word": "lời chào giá đỡ đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-godfather offer"
+      }
+    ]
+  },
+  {
+    "word": "lời giới thiệu sẵn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-canned presentations"
+      }
+    ]
+  },
+  {
+    "word": "lời vào đề",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "introduction (to a book)"
+      }
+    ]
+  },
+  {
+    "word": "lời phi lộ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "foreword"
+      }
+    ]
+  },
+  {
+    "word": "lời truyền đạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-message"
+      }
+    ]
+  },
+  {
+    "word": "lời giải đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-synchronous solution"
       }
     ]
   },
@@ -1292,38 +2092,159 @@
     ]
   },
   {
-    "word": "lời tán tỉnh bán hàng",
+    "word": "lời tòa soạn",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sales talk"
+        "dict_name": "VNEDICT",
+        "dict_definition": "editor’s note"
       }
     ]
   },
   {
-    "word": "lời giới thiệu ngắn gọn ngoài bao bì",
+    "word": "lời quảng cáo sách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-blurb"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blurb"
       }
     ]
   },
   {
-    "word": "lời chiêu hàng",
+    "word": "lời bình luận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sales talk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-name block"
       }
     ]
   },
   {
-    "word": "lời nhẹ nhàng",
+    "word": "lời lãi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lãi do buôn bán, làm ăn [nói khái quát]\nVí dụ:\n- buôn chung, lời lãi chia đôi \n - hàng chững nên chẳng lời lãi mấy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lời lãi\n- Lãi nói chung."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-profit"
+      }
+    ]
+  },
+  {
+    "word": "lời kết thúc quảng cáo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-eunuch"
+        "dict_definition": "@Chuyên ngành kinh tế\n-tag"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-petty loss and profit"
+      }
+    ]
+  },
+  {
+    "word": "lời lỗ tồn kho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inventory gains and losses"
+      }
+    ]
+  },
+  {
+    "word": "lờ lững",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờ lững\n- Lơ mơ, kém hoạt động, kém tích cực: Lờ lững suốt ngày chẳng chịu làm gì."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lờ lững [lờ lững]\n-indifferent, grow cold, lose interest (in)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "indifferent, grow cold, lose interest (in)"
+      }
+    ]
+  },
+  {
+    "word": "lời văn bay bướm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a flowery style"
+      }
+    ]
+  },
+  {
+    "word": "lờ phờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thiếu năng động, uể oải, rã rời\nVí dụ:\n- chân tay lờ phờ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lờ phờ\n- Lơ mơ, không quan tâm đến việc gì: Đi lờ phờ ngoài phố."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lờ phờ [lờ phờ]\n-indifferent, cold, listless"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "indifferent, cold, listless"
+      }
+    ]
+  },
+  {
+    "word": "lời mở đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-introduction\n-preamble"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "opening words, forward"
+      }
+    ]
+  },
+  {
+    "word": "lời nhắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-prompt"
+      }
+    ]
+  },
+  {
+    "word": "lời bạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bài viết ở cuối sách để trình bày thêm một số ý kiến có liên quan đến nội dung của tác phẩm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lời bạt [lời bạt]\n-epilogue"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "epilogue"
       }
     ]
   },
@@ -1349,292 +2270,128 @@
     ]
   },
   {
-    "word": "lời gọi hệ thống",
+    "word": "lời nói phóng đại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-system call"
+        "dict_definition": "@Chuyên ngành kinh tế\n-overstatement"
       }
     ]
   },
   {
-    "word": "lời kiện",
+    "word": "lời an ủi",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "statement, lawsuit, charge"
+        "dict_definition": "consolation"
       }
     ]
   },
   {
-    "word": "lời chỉ dẫn",
+    "word": "lời cầu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "request, wish"
+      }
+    ]
+  },
+  {
+    "word": "lời lãi liên tục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-order"
+        "dict_definition": "@Chuyên ngành kinh tế\n-recurring gains"
       }
     ]
   },
   {
-    "word": "lời chào cao hơn mâm cỗ",
+    "word": "lời lỗ đặc biệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-special profit and loss"
+      }
+    ]
+  },
+  {
+    "word": "lời chia buồn",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "A polite greeting is better than a good meal"
+        "dict_definition": "words of sympathy"
       }
     ]
   },
   {
-    "word": "lờ lãi",
+    "word": "lời gọi ra",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lời lãi\nVí dụ:\n- buôn bán nhỏ nên lờ lãi chẳng là bao"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-outgoing call"
+      }
+    ]
+  },
+  {
+    "word": "lời (thư) khiếu nại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-complaint"
+      }
+    ]
+  },
+  {
+    "word": "lời ghi chú",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-written indication\n@Chuyên ngành kỹ thuật\n-comment facility\n-lettering\n-note"
+      }
+    ]
+  },
+  {
+    "word": "lời chỉ trích",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(words of) criticism"
+      }
+    ]
+  },
+  {
+    "word": "lời sắt son",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ lãi\n- Tiền lãi nói chung: Buôn bán thế mà chẳng có lờ lãi gì."
+        "dict_definition": "@lời sắt son\n- Lời trung thành vững chắc như sắt như son"
       }
     ]
   },
   {
-    "word": "lời tâm sự",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "secret, something said in confidence"
-      }
-    ]
-  },
-  {
-    "word": "lời cảnh cáo",
+    "word": "lời lỗ liên tục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tip-off\n-warning shot"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(words of) warning"
+        "dict_definition": "@Chuyên ngành kinh tế\n-recurring profit and loss"
       }
     ]
   },
   {
-    "word": "lờ đi khoảng trống",
+    "word": "lời giải giải tích hoàn toàn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ignore blank"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-closed form analytic solution"
       }
     ]
   },
   {
-    "word": "lời và lỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-profit and loss\n@Chuyên ngành kỹ thuật\n-profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lờ lờ",
+    "word": "lời non nước",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ lờ\n- Nói chất lỏng hơi có vẩn: Nước đục lờ lờ."
-      }
-    ]
-  },
-  {
-    "word": "lời và lỗ trong kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-current profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời gọi hàm đệ quy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recursive (function) call"
-      }
-    ]
-  },
-  {
-    "word": "lời tòa soạn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "editor’s note"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ tồn kho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inventory gains and losses"
-      }
-    ]
-  },
-  {
-    "word": "lờ và lờ vờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lờ vờ [nhưng ý nhấn mạnh hơn]"
-      }
-    ]
-  },
-  {
-    "word": "lời giải chỉ dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-indicating solution"
-      }
-    ]
-  },
-  {
-    "word": "lời thoại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-callouts"
-      }
-    ]
-  },
-  {
-    "word": "lời đáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-answer\n-reply"
-      }
-    ]
-  },
-  {
-    "word": "lời giải của bài toán đối ngẫu của người tiêu dùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-solution to the consumer\"s dual problem"
-      }
-    ]
-  },
-  {
-    "word": "lời khuyên về mặt pháp lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-legal advice"
-      }
-    ]
-  },
-  {
-    "word": "lời tán dương",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(words of) praise"
-      }
-    ]
-  },
-  {
-    "word": "lờ cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-inset"
-      }
-    ]
-  },
-  {
-    "word": "lời giới thiệu sẵn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-canned presentations"
-      }
-    ]
-  },
-  {
-    "word": "lời lẽ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lời nói, về mặt nội dung và cách diễn đạt [nói khái quát]\nVí dụ:\n- lời lẽ ngon ngọt \n - dùng lời lẽ để khuyên can"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời lẽ [lời lẽ]\n-words;  reasoning;  argument"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "words, reason(ing), argument"
-      }
-    ]
-  },
-  {
-    "word": "lời khen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời khen [lời khen]\n-praise;  compliment"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "praise, compliment"
-      }
-    ]
-  },
-  {
-    "word": "lời nói nhanh và ngắt âm tiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-staccato"
-      }
-    ]
-  },
-  {
-    "word": "lời hăm dọa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "threat, threating words"
-      }
-    ]
-  },
-  {
-    "word": "lời ghi chú chung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-public note"
-      }
-    ]
-  },
-  {
-    "word": "lời giới thiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-introduction"
-      }
-    ]
-  },
-  {
-    "word": "lời ghi chú trên vận đơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-remark\n-wet"
+        "dict_definition": "@lời non nước\n- Lời chỉ non thề biển"
       }
     ]
   },
@@ -1648,135 +2405,23 @@
     ]
   },
   {
-    "word": "lời ám chỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tip-off"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "insinuation, innuendo"
-      }
-    ]
-  },
-  {
-    "word": "lời hứa hẹn ái ân",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "promise of love"
-      }
-    ]
-  },
-  {
-    "word": "lời ghi chú riêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-private note"
-      }
-    ]
-  },
-  {
-    "word": "lời giải tổng quát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-general solution"
-      }
-    ]
-  },
-  {
-    "word": "lời chú thích dài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-long comment"
-      }
-    ]
-  },
-  {
-    "word": "lời đường mật",
+    "word": "lời nói",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lời nói ngọt ngào nhằm mục đích dụ dỗ, lừa phỉnh\nVí dụ:\n- nghe lời đường mật \n - dùng lời đường mật để dụ dỗ"
-      }
-    ]
-  },
-  {
-    "word": "lời mời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-invitation"
+        "dict_definition": "những lời con người nói ra trong một hoàn cảnh giao tiếp cụ thể [nói tổng quát]\nVí dụ:\n- nghe lời nói phải \n - lời nói dịu dàng \n - lời nói không đi đôi với việc làm"
       },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "invitation"
-      }
-    ]
-  },
-  {
-    "word": "lời biện hộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-apology"
-      }
-    ]
-  },
-  {
-    "word": "lời dẫn giải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-comment"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ vốn ngắn hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-short-term capital gain and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời đề tặng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-inscription"
-      }
-    ]
-  },
-  {
-    "word": "lời bình phẩm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(words of) comment, criticism"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem lỗ lãi\nVí dụ:\n- hạch toán lời lỗ"
+        "dict_definition": "sản phẩm cụ thể của hoạt động ngôn ngữ, trong quan hệ đối lập với ngôn ngữ\nVí dụ:\n- mối quan hệ giữa ngôn ngữ và lời nói"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lời lỗ [lời lỗ]\n-profit and loss; gains and losses\n@Chuyên ngành kinh tế\n-loss and gain\n-profit and loss"
+        "dict_definition": "@lời nói [lời nói]\n-word;  speech\n@Chuyên ngành kỹ thuật\n-speech"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "profit and loss, gains and losses"
+        "dict_definition": "spoken word(s), statements, speech"
       }
     ]
   },
@@ -1794,661 +2439,16 @@
     ]
   },
   {
-    "word": "lời thề hyppocrates",
+    "word": "lời gọi hệ thống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Hippocratic oath"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-system call"
       }
     ]
   },
   {
     "word": "lời-lỗ ngoài kinh doanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-non-operating profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời (bình luận) quảng cáo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-advertising commentary"
-      }
-    ]
-  },
-  {
-    "word": "lời chào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-salutation"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "words of greeting"
-      }
-    ]
-  },
-  {
-    "word": "lời xỉ vả",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(words of) insult"
-      }
-    ]
-  },
-  {
-    "word": "lời khuyến cáo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "recommendation"
-      }
-    ]
-  },
-  {
-    "word": "lời hứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời hứa\n*noun\n-promise; engagement; word\n=Tôi không tin vào những lời hứa của cô ta\n+I have no faith in her promises\n@Chuyên ngành kinh tế\n-commitment\n-engagement\n-promise\n-undertaking"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lời hứa\n* noun\n- promise; engagement; word\n=Tôi không tin vào những lời hứa của cô ta+I have no faith in her promises"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "promise"
-      }
-    ]
-  },
-  {
-    "word": "lời quảng cáo lừa đảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fraudulent mispresentation"
-      }
-    ]
-  },
-  {
-    "word": "lời ghi chép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-note"
-      }
-    ]
-  },
-  {
-    "word": "lời vào đề",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "introduction (to a book)"
-      }
-    ]
-  },
-  {
-    "word": "lời chào thân hữu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-regards"
-      }
-    ]
-  },
-  {
-    "word": "lời bình luận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-name block"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-petty loss and profit"
-      }
-    ]
-  },
-  {
-    "word": "lời gọi hàm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-function call"
-      }
-    ]
-  },
-  {
-    "word": "lời to",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-grab the biz"
-      }
-    ]
-  },
-  {
-    "word": "lời cáo giác",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "accusation"
-      }
-    ]
-  },
-  {
-    "word": "lờ khờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ khờ\n- Nh. Lờ ngờ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lờ khờ [lờ khờ]\n-slow, sluggish, dullwitted"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "slow, sluggish, dull-witted"
-      }
-    ]
-  },
-  {
-    "word": "lời cảnh báo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-caveat\n-warning shot"
-      }
-    ]
-  },
-  {
-    "word": "lời gọi ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-outgoing call"
-      }
-    ]
-  },
-  {
-    "word": "lờ hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ignore"
-      }
-    ]
-  },
-  {
-    "word": "lời hỏi thăm nồng nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-regards"
-      }
-    ]
-  },
-  {
-    "word": "lời giới thiệu ngắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-blurb"
-      }
-    ]
-  },
-  {
-    "word": "lời dặm bán hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sales talk"
-      }
-    ]
-  },
-  {
-    "word": "lờn bơn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem thờn bơn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lờn bơn [lờn bơn]\n-plaice, flounder, flat fish"
-      }
-    ]
-  },
-  {
-    "word": "lời giải riêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-particular solution"
-      }
-    ]
-  },
-  {
-    "word": "lời chú giải chung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-public note"
-      }
-    ]
-  },
-  {
-    "word": "lời ca ngợi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "words of praise"
-      }
-    ]
-  },
-  {
-    "word": "lời quảng cáo khoác lác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-glib sales talk"
-      }
-    ]
-  },
-  {
-    "word": "lời bào chữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plea"
-      }
-    ]
-  },
-  {
-    "word": "lời mời mậu dịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-invitation to treat"
-      }
-    ]
-  },
-  {
-    "word": "lời tựa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem đề tựa\nVí dụ:\n- lời tựa của cuốn sách"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lời tựa\n- d. x. tựa1."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời tựa\n*noun\n-preface; foreword\n@Chuyên ngành kỹ thuật\n-introduction\n-preamble\n-preface"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lời tựa\n* noun\n-preface; foreword"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "preface, foreword"
-      }
-    ]
-  },
-  {
-    "word": "lời nhận xét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-remark"
-      }
-    ]
-  },
-  {
-    "word": "lời nói bậy bạ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "foolish nonsense"
-      }
-    ]
-  },
-  {
-    "word": "lời lãi quá đáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-excessive profit"
-      }
-    ]
-  },
-  {
-    "word": "lời nói không nhịp điệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-aprosody"
-      }
-    ]
-  },
-  {
-    "word": "lời khuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời khuyên\n*noun\n-counsel; advise; admonition\n@Chuyên ngành kinh tế\n-recommendation\n@Chuyên ngành kỹ thuật\n-advice\n-advice (s)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lời khuyên\n* noun\n- counsel; advise; admonition"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(piece of) advice, council"
-      }
-    ]
-  },
-  {
-    "word": "lời nói líu nhíu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-clipped speech\n-jargonaphasia"
-      }
-    ]
-  },
-  {
-    "word": "lời tuyên bố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-representation\n-statement"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "spoken words, statement, declaration"
-      }
-    ]
-  },
-  {
-    "word": "lời thuyết minh quảng cáo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commentary"
-      }
-    ]
-  },
-  {
-    "word": "lờn mặt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờn mặt\n- Không còn kính nể nữa."
-      }
-    ]
-  },
-  {
-    "word": "lời được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-earning\n-return"
-      }
-    ]
-  },
-  {
-    "word": "lời cầu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "request, wish"
-      }
-    ]
-  },
-  {
-    "word": "lời cám ơn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(words of) thanks"
-      }
-    ]
-  },
-  {
-    "word": "lời hứa trên giấy tờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-written promise"
-      }
-    ]
-  },
-  {
-    "word": "lời chú giả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-note"
-      }
-    ]
-  },
-  {
-    "word": "lờ vờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lờ vờ\n- Vờ vĩnh, lấy lệ: Làm lờ vờ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lờ vờ [lờ vờ]\n-pretend (to be), feign, dissemble, simulate, sham\n-as a matter of form, for form\"s sake, for the sake of appearance"
-      }
-    ]
-  },
-  {
-    "word": "lời giới thiệu sách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blurt"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ bán hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sales profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời hạ quỹ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Lời hạ quỹ\n- Lời người gùi sọt cỏ (Hạ là gùi, quỹ là cái sọt)\n- Luận Ngữ: Khổng Tử đánh Khánh (Một nhạc cụ cổ) ở nước Vệ, có người gùi sọt cỏ đi qua cửa nói: \"Người đánh khánh có thâm ý làm sao ! không ai biết mình thì thôi đi thôi. Nước sâu thì mặc áo, không qua; nước cạn thì xắn áo lội qua\" (ý khuyên Khổng Tử tùy thời mà hành đạo, được thì làm, không được thì thôi)"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ thường ngày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-current profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời chào mở đầu (bức thư)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-salutation"
-      }
-    ]
-  },
-  {
-    "word": "lờ tịt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lờ hẳn đi, thản nhiên như không biết gì\nVí dụ:\n- chị ấy lờ tịt số tiền đã nợ tôi"
-      }
-    ]
-  },
-  {
-    "word": "lời giới thiêu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "introductory words, comments"
-      }
-    ]
-  },
-  {
-    "word": "lời khai báo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-declaration"
-      }
-    ]
-  },
-  {
-    "word": "lời và lỗ bất thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-non-recurring profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời giải (bài toán)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-resolution"
-      }
-    ]
-  },
-  {
-    "word": "lời hứa có điều kiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-conditional promise"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-recurring profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời chú giải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-annotation\n@Chuyên ngành kỹ thuật\n-comment\n-note"
-      }
-    ]
-  },
-  {
-    "word": "lời chúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lời chúc [lời chúc]\n-wishes"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wishes"
-      }
-    ]
-  },
-  {
-    "word": "lời lỗ thường xuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ordinary profit and loss\n-recurrent profit and loss"
-      }
-    ]
-  },
-  {
-    "word": "lời xác nhận không khoa học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-unscientific affirmations"
-      }
-    ]
-  },
-  {
-    "word": "lời gọi tới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-incoming call"
-      }
-    ]
-  },
-  {
-    "word": "lời kết thúc mẫu (bức thư)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-standard closure"
-      }
-    ]
-  },
-  {
-    "word": "lời văn bay bướm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a flowery style"
-      }
-    ]
-  },
-  {
-    "word": "lời nhiều nhưng đầy rủi ro",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-go-go"
-      }
-    ]
-  },
-  {
-    "word": "lời và lỗ ngoài kinh doanh",
     "definitions": [
       {
         "dict_name": "SPDict",

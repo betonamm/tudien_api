@@ -1,27 +1,5 @@
 [
   {
-    "word": "thẫm màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stained"
-      }
-    ]
-  },
-  {
-    "word": "thẫn thờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái như ngẩn ngơ, mất hết vẻ linh hoạt, nhanh nhẹn\nVí dụ:\n- vẻ mặt thẫn thờ \n - ánh mắt thẫn thờ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẫn thờ\n- Ngẩn ngơ, mất tinh thần: Lạc mất con, ngồi thẫn thờ."
-      }
-    ]
-  },
-  {
     "word": "thẫm",
     "definitions": [
       {
@@ -43,6 +21,28 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "dark"
+      }
+    ]
+  },
+  {
+    "word": "thẫn thờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái như ngẩn ngơ, mất hết vẻ linh hoạt, nhanh nhẹn\nVí dụ:\n- vẻ mặt thẫn thờ \n - ánh mắt thẫn thờ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẫn thờ\n- Ngẩn ngơ, mất tinh thần: Lạc mất con, ngồi thẫn thờ."
+      }
+    ]
+  },
+  {
+    "word": "thẫm màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stained"
       }
     ]
   }

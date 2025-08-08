@@ -1,179 +1,19 @@
 [
   {
-    "word": "nửa nguyên thủy",
+    "word": "nửa không gian đàn hồi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-prime"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-elastic half-space"
       }
     ]
   },
   {
-    "word": "nửa cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-bridge\n-hemisphere"
-      }
-    ]
-  },
-  {
-    "word": "nửa âm sắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-chromatic semitone"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm sai phân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-difference semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa khuya",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "middle of the night"
-      }
-    ]
-  },
-  {
-    "word": "nửa chừng xuân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng giữa chừng tuổi trẻ\nVí dụ:\n- \"Kiếp hồng nhan có mong manh, Nửa chừng xuân, thoắt gãy cành thiên hương!\" (TKiều)"
-      }
-    ]
-  },
-  {
-    "word": "nửa mođun",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-module"
-      }
-    ]
-  },
-  {
-    "word": "nửa trong suốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-translucent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semitransparent"
-      }
-    ]
-  },
-  {
-    "word": "nửa kết tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemicrystalline\n-hypocrystalline\n-isocrystalline"
-      }
-    ]
-  },
-  {
-    "word": "nửa giãn cách",
+    "word": "nửa khoảng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-space"
-      }
-    ]
-  },
-  {
-    "word": "nửa vách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hemiseptum"
-      }
-    ]
-  },
-  {
-    "word": "nửa chu kì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-period"
-      }
-    ]
-  },
-  {
-    "word": "nửa trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-axle shaft\n-half shaft\n-half-axle\n-rear axle shaft\n-semiaxis\n-semiaxle"
-      }
-    ]
-  },
-  {
-    "word": "nửa phần trăm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-half a percentage point"
-      }
-    ]
-  },
-  {
-    "word": "nửa ống lót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-bushing"
-      }
-    ]
-  },
-  {
-    "word": "nửa đời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng thời gian coi như đã sống được một nửa cuộc đời con người, ở độ khoảng từ ba đến bốn mươi tuổi\nVí dụ:\n- \"Nàng rằng: Chút phận hoa rơi, Nửa đời nếm trải mọi mùi đắng cay.\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nửa đời\n- Khoảng ba, bốn mươi tuổi đời: Nửa đời góa bụa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa đời\n-Middle age\n=Nửa đời góa bụa\n+To become a widow at middle age\n=Nửa đời nửa đoạn (thông tục)\n+To die at middle age, to fair at half-way through a job.."
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa đời\n- Middle age\n=Nửa đời góa bụa+To become a widow at middle age\n=Nửa đời nửa đoạn (thông tục)+To die at middle age, to fair at half-way through a job.."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half life, middle age"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm ngược đối xứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-symetric reversible semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa giá tiền (vé xe, tàu...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-half-fare"
       }
     ]
   },
@@ -187,635 +27,11 @@
     ]
   },
   {
-    "word": "nửa vách của não",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hemiseptum cerebri"
-      }
-    ]
-  },
-  {
-    "word": "nửa hưu trí",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "semi-retired"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm thương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quotient semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa đơn nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-bay"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa tiền\n-Half-price\n=Trẻ em trả nửa tiền\n+Children are [admitted] half-price"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa tiền\n- Half-price\n=Trẻ em trả nửa tiền+Children are [admitted] half-price"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half-price"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm thuần túy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pure semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa đôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-odd one (of pair)"
-      }
-    ]
-  },
-  {
-    "word": "nửa rẽ nhánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half tap"
-      }
-    ]
-  },
-  {
-    "word": "nửa thân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semipermeable"
-      }
-    ]
-  },
-  {
-    "word": "nửa tinh chế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semifinish"
-      }
-    ]
-  },
-  {
-    "word": "nửa thuật toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-algorithm"
-      }
-    ]
-  },
-  {
-    "word": "nửa người nửa ngợm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa người nửa ngợm [nửa người nửa ngợm]\n-half man, half beast"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half man, half beast"
-      }
-    ]
-  },
-  {
-    "word": "nửa úp nửa mở",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nửa úp nửa mở\n- Vừa kín vừa hở."
-      }
-    ]
-  },
-  {
-    "word": "nửa hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hemimorphic"
-      }
-    ]
-  },
-  {
-    "word": "nửa vấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half dog"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm cộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-additive semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa tốc độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-speed"
-      }
-    ]
-  },
-  {
-    "word": "nửa xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-pulse"
-      }
-    ]
-  },
-  {
-    "word": "nửa từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-word"
-      }
-    ]
-  },
-  {
-    "word": "nửa bước sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-wave\n@Lĩnh vực: điện tử & viễn thông\n-half-wavelength"
-      }
-    ]
-  },
-  {
-    "word": "nửa logia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semiloggia"
-      }
-    ]
-  },
-  {
-    "word": "nửa lỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-fluid\n-semifluid\n-semiliquid"
-      }
-    ]
-  },
-  {
-    "word": "nửa antrxit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semianthracite"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm nghịch đảo mạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-strongly reversible semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm không lũy đẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-potent semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm giao hoán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-commutative semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa che bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-shade\n-half-shadow"
-      }
-    ]
-  },
-  {
-    "word": "nửa gấp, nửa gấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semiflexion"
-      }
-    ]
-  },
-  {
-    "word": "nửa kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-metal\n@Lĩnh vực: xây dựng\n-semi-metallic"
-      }
-    ]
-  },
-  {
-    "word": "nửa làm lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiếng đồng hồ sau",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half an hour later"
-      }
-    ]
-  },
-  {
-    "word": "nửa đêm từ trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-geomagnetic midnight"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm chính quy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regular semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa pin calomen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-calomel half-cell"
-      }
-    ]
-  },
-  {
-    "word": "nửa byte",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nybble"
-      }
-    ]
-  },
-  {
-    "word": "nửa phân tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-half cell, half element"
-      }
-    ]
-  },
-  {
-    "word": "nửa mái hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-hip"
-      }
-    ]
-  },
-  {
-    "word": "nửa cơ khí hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semimechanized"
-      }
-    ]
-  },
-  {
-    "word": "nửa kè",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-groin"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm dừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stationary semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa không gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-space"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiền lương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-half pay"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm với phần tử không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with zero"
-      }
-    ]
-  },
-  {
-    "word": "nửa viên gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-two-quarters"
-      }
-    ]
-  },
-  {
-    "word": "nửa sau thông điệp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the second half of a speech"
-      }
-    ]
-  },
-  {
-    "word": "nửa rắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semisolid"
-      }
-    ]
-  },
-  {
-    "word": "nửa đường kính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-diameter"
-      }
-    ]
-  },
-  {
-    "word": "nửa cuối năm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-second half"
-      }
-    ]
-  },
-  {
-    "word": "nửa lăng kính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-hemiprism"
-      }
-    ]
-  },
-  {
-    "word": "nửa cực đại toàn thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-FDHM (full duration half maximum)"
-      }
-    ]
-  },
-  {
-    "word": "nửa thấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semipermeable"
-      }
-    ]
-  },
-  {
-    "word": "nửa vòm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-arch\n-semiarch\n-semidome"
-      }
-    ]
-  },
-  {
-    "word": "nửa sương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nửa sương\n- tức là nửa năm"
-      }
-    ]
-  },
-  {
-    "word": "nửa ngạc nhiên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half-surprised"
-      }
-    ]
-  },
-  {
-    "word": "nửa tối nửa sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semi-darkness"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm abel",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-abelian semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa đôla",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-half-dollar"
-      }
-    ]
-  },
-  {
-    "word": "nửa trục bé",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi little axis"
-      }
-    ]
-  },
-  {
-    "word": "nửa không gian đàn hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-elastic half-space"
-      }
-    ]
-  },
-  {
-    "word": "nửa vòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-ring"
-      }
-    ]
-  },
-  {
-    "word": "nửa độ rộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-width\n-semibreadth"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm tuần hoàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-periodic semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa con thịt không có xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-long clear side"
-      }
-    ]
-  },
-  {
-    "word": "nửa năm sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-first halt"
-      }
-    ]
-  },
-  {
     "word": "nửa sáng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semi-darkness"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-section"
-      }
-    ]
-  },
-  {
-    "word": "nửa compac",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemicompact"
-      }
-    ]
-  },
-  {
-    "word": "nửa thời gian làm lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling time"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiếng sau",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half an hour later"
       }
     ]
   },
@@ -829,132 +45,65 @@
     ]
   },
   {
-    "word": "nửa góc mở của chùm tia (máy) phát",
+    "word": "nửa nhóm lũy đẳng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter beam half-angle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-idemepotent semi-group\n-idem-potent semi-group"
       }
     ]
   },
   {
-    "word": "nửa nhóm đơn",
+    "word": "nửa tối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simple semigroup"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semi-darkness"
       }
     ]
   },
   {
-    "word": "nửa thép",
+    "word": "nửa nguyên tố",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-half-steel"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-prime"
       }
     ]
   },
   {
-    "word": "nửa khung",
+    "word": "nửa gỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-frame\n-semiframe"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-frame house"
       }
     ]
   },
   {
-    "word": "nửa tuyến tính",
+    "word": "nửa giãn cách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-linear"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-space"
       }
     ]
   },
   {
-    "word": "nửa sau của thê ký 20",
+    "word": "nửa sấp",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the latter half of the 20th century"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semiprone"
       }
     ]
   },
   {
-    "word": "nửa vòng tròn",
+    "word": "nửa đường kính",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half circle\n-half-round\n-semicircle\n-semicircular\n-senicircumference"
-      }
-    ]
-  },
-  {
-    "word": "nửa cung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa cung [nửa cung]\n-(nhạc) chromatic"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "chromatic"
-      }
-    ]
-  },
-  {
-    "word": "nửa mạng che",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-mask"
-      }
-    ]
-  },
-  {
-    "word": "nửa đường dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-path"
-      }
-    ]
-  },
-  {
-    "word": "nửa tông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-halftone\n@Chuyên ngành kỹ thuật\n-continuous transport\n-halftone\n-semitone"
-      }
-    ]
-  },
-  {
-    "word": "nửa hình sin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-sinusoid"
-      }
-    ]
-  },
-  {
-    "word": "nửa thời gian sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-half life"
-      }
-    ]
-  },
-  {
-    "word": "nửa thức nửa ngủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subwaking"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-diameter"
       }
     ]
   },
@@ -972,966 +121,11 @@
     ]
   },
   {
-    "word": "nửa năm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-half-annual report\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biannual"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "biannual; half-year, semi annual"
-      }
-    ]
-  },
-  {
-    "word": "nửa con thịt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bacon side\n-half carcass"
-      }
-    ]
-  },
-  {
-    "word": "nửa xác định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-definite\n-thin"
-      }
-    ]
-  },
-  {
-    "word": "nửa bóng tối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-shade\n-half-shadow"
-      }
-    ]
-  },
-  {
-    "word": "nửa bền (vững)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-metastable"
-      }
-    ]
-  },
-  {
-    "word": "nửa sau",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "second half, last half"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm xiclic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cyclic semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa buổi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng thời gian vào giữa buổi sáng, khoảng từ 9 đến 10 giờ, hoặc vào giữa buổi chiều, khoảng từ 3 đến 4 giờ\nVí dụ:\n- ngủ đến nửa buổi mới đi làm \n - từ đây đến đó mất non nửa buổi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa buổi\n-Mid-morning; mid-evening"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa buổi\n- Mid-morning; mid-evening"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mid-morning, mid-evening"
-      }
-    ]
-  },
-  {
-    "word": "nửa kết đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-frozen\n-semifrozen\n-semisolid frozen\n-semofrozen"
-      }
-    ]
-  },
-  {
-    "word": "nửa trục cán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-roll"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiếng đồng hồ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half an hour"
-      }
-    ]
-  },
-  {
-    "word": "nửa đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa đường\n-Half-way"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa đường\n- Half-way"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half-way"
-      }
-    ]
-  },
-  {
-    "word": "nửa lạm phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-semi inflation"
-      }
-    ]
-  },
-  {
-    "word": "nửa thắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lunate"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm các phần tử khả nghịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of inversible elements"
-      }
-    ]
-  },
-  {
-    "word": "nửa đầu hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aileron"
-      }
-    ]
-  },
-  {
-    "word": "nửa đường thẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-line\n-jet"
-      }
-    ]
-  },
-  {
-    "word": "nửa phỏng nhóm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-groupoid"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm các quan hệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of relations"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm giới hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-limitative semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa thời gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-half-time"
-      }
-    ]
-  },
-  {
-    "word": "nửa lố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-half-a-dozen"
-      }
-    ]
-  },
-  {
-    "word": "nửa khoảng tứ phân vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi interquartile range\n-semi-interquartile range"
-      }
-    ]
-  },
-  {
-    "word": "nửa nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semi-integral"
-      }
-    ]
-  },
-  {
-    "word": "nửa đời góa bụa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to become a widow at middle age"
-      }
-    ]
-  },
-  {
-    "word": "nửa khoảng chạy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-travel\n-midtravel"
-      }
-    ]
-  },
-  {
-    "word": "nửa quadric",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regulus"
-      }
-    ]
-  },
-  {
     "word": "nửa bất biến giai thừa",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-factorial cumulant"
-      }
-    ]
-  },
-  {
-    "word": "nửa tinh khiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semipure"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm rút gọn yếu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-weakly simplified semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa tông âm nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-diatomic semitone"
-      }
-    ]
-  },
-  {
-    "word": "nửa độ rộng tia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half beam-width"
-      }
-    ]
-  },
-  {
-    "word": "nửa mờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-semimatt"
-      }
-    ]
-  },
-  {
-    "word": "nửa chu vi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-senicircumference"
-      }
-    ]
-  },
-  {
-    "word": "nửa trong nửa ngoài",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half in, half out"
-      }
-    ]
-  },
-  {
-    "word": "nửa tá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa tá\n-dozen; half a dozen\n@Chuyên ngành kinh tế\n-half dozen\n-half-a-dozen"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa tá\n-dozen; half a dozen"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dozen, half a dozen"
-      }
-    ]
-  },
-  {
-    "word": "nửa chu kỳ gia lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling time"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt phẳng đàn hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-elastic half-plane"
-      }
-    ]
-  },
-  {
-    "word": "nửa khả quy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-reducible"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm tự bất biến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-self-invariant semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa từ nhớ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-word"
-      }
-    ]
-  },
-  {
-    "word": "nửa góc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semi-angle"
-      }
-    ]
-  },
-  {
-    "word": "nửa dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-line"
-      }
-    ]
-  },
-  {
-    "word": "nửa hội tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semiconvergent"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm thương rixơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rees\"s quotient semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa xách tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semiportable"
-      }
-    ]
-  },
-  {
-    "word": "nửa (hình) cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemisphere"
-      }
-    ]
-  },
-  {
-    "word": "nửa mêtric",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-metric"
-      }
-    ]
-  },
-  {
-    "word": "nửa khuôn dưới (đúc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lower box"
-      }
-    ]
-  },
-  {
-    "word": "nửa tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-finished"
-      }
-    ]
-  },
-  {
-    "word": "nửa chu kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-alternation\n-half cycle\n-half period\n-half-cycle\n-reversals"
-      }
-    ]
-  },
-  {
-    "word": "nửa chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pseudonormal"
-      }
-    ]
-  },
-  {
-    "word": "nửa bình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-half cell, half element"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt phẳng dưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lower half"
-      }
-    ]
-  },
-  {
-    "word": "nửa tháng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-demilune\n-lunette"
-      }
-    ]
-  },
-  {
-    "word": "nửa khô hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-semi-arid"
-      }
-    ]
-  },
-  {
-    "word": "nửa pin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-cell\n@Lĩnh vực: điện\n-half-element"
-      }
-    ]
-  },
-  {
-    "word": "nửa giọng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-tone"
-      }
-    ]
-  },
-  {
-    "word": "nửa thuần túy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-pure"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm các phép biến đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of transformation"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm đồng thặng dư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-equiresidual semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa giao tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half edges"
-      }
-    ]
-  },
-  {
-    "word": "nửa chừng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng giữa chừng, chưa xong, chưa trọn vẹn\nVí dụ:\n- làm nửa chừng rồi bỏ \n - \"Thà rằng chẳng biết cho đừng, Biết ra dan díu nửa chừng lại thôi.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nửa chừng\n- Cg. Nửa vời. Chưa hết hẳn, chưa trọn vẹn: Làm nửa chừng bỏ dở."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa chừng\n-Unfinished, incomplete\n=Làm nửa chừng bỏ dở\n+To leave a job unfinished"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa chừng\n- Unfinished, incomplete\n=Làm nửa chừng bỏ dở+To leave a job unfinished"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unfinished, incomplete"
-      }
-    ]
-  },
-  {
-    "word": "nửa kè ngầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bed groin"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt cắt ngang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half transverse section"
-      }
-    ]
-  },
-  {
-    "word": "nửa bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-semimatt"
-      }
-    ]
-  },
-  {
-    "word": "nửa bền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-metastable"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm tự do",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-free semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa quỹ đạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-orbit"
-      }
-    ]
-  },
-  {
-    "word": "nử tử",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nử tử\n- Con gái."
-      }
-    ]
-  },
-  {
-    "word": "nửa vòng đệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-washer"
-      }
-    ]
-  },
-  {
-    "word": "nửa triệu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half a million"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt phẳng hội tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-plane of convergence"
-      }
-    ]
-  },
-  {
-    "word": "nửa giàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-truss\n-semi-lattice\n-semitruss"
-      }
-    ]
-  },
-  {
-    "word": "nửa con thịt bò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-beef side"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiếng ầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-tone"
-      }
-    ]
-  },
-  {
-    "word": "nửa cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semipolar"
-      }
-    ]
-  },
-  {
-    "word": "nửa ngờ vực",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half-suspicious"
-      }
-    ]
-  },
-  {
-    "word": "nửa lôgarit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semilogarithmic"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm thuận nghịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reciprocal semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa bạc lót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-bushing"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm abel, nhóm abel",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ABELIAN GROUP, SEMI GROUP ABEL"
-      }
-    ]
-  },
-  {
-    "word": "nửa ngày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa ngày [nửa ngày]\n-part-time\n-half-day\n@Chuyên ngành kinh tế\n-half day"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "part-time, half-day"
-      }
-    ]
-  },
-  {
-    "word": "nửa rộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-width"
-      }
-    ]
-  },
-  {
-    "word": "nửa độ rộng thực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-true half-width"
-      }
-    ]
-  },
-  {
-    "word": "nửa đối xứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemihedral\n-semi-symmetric"
-      }
-    ]
-  },
-  {
-    "word": "nửa nguyên tố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-prime"
-      }
-    ]
-  },
-  {
-    "word": "nửa khoảng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-space"
-      }
-    ]
-  },
-  {
-    "word": "nửa chiếu nghỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half landing\n-half landing (half space landing)"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt phẳng trái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-left half-plane"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm lũy đẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-idemepotent semi-group\n-idem-potent semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa cốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-coke"
-      }
-    ]
-  },
-  {
-    "word": "nửa lương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa lương\n-Half-pay\n@Chuyên ngành kinh tế\n-half-pay\n@Chuyên ngành kỹ thuật\n-half-pay"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa lương\n- Half-pay"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half-pay"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt khớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-demifacet"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm mạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-strong semi-group"
-      }
-    ]
-  },
-  {
-    "word": "nửa ổn định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-stable"
-      }
-    ]
-  },
-  {
-    "word": "nửa thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-crystal\n-subvitreous"
-      }
-    ]
-  },
-  {
-    "word": "nửa đường tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemicycle\n-semicircle\n-semicircular"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt phẳng trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-upper half"
-      }
-    ]
-  },
-  {
-    "word": "nửa đùa nửa thật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa đùa nửa thật [nửa đùa nửa thật]\n-seriocomic;  between jest and earnest"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half serious, half joking"
       }
     ]
   },
@@ -1945,51 +139,65 @@
     ]
   },
   {
-    "word": "nửa nhóm với phép nhân không",
+    "word": "nửa nhóm các phần tử khả nghịch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with null multiplication"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of inversible elements"
       }
     ]
   },
   {
-    "word": "nửa liên tục dưới yếu",
+    "word": "nửa viên gạch kiểu anh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-weak semi-continuous from below"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-queen closer"
       }
     ]
   },
   {
-    "word": "nửa đêm gà gáy",
+    "word": "nửa âm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nửa đêm gà gáy [nửa đêm gà gáy]\n-midnight and dawn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "midnight and dawn"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semitone"
       }
     ]
   },
   {
-    "word": "nửa kép",
+    "word": "nửa khoảng chạy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semi-double"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-travel\n-midtravel"
       }
     ]
   },
   {
-    "word": "nửa tinh (chế)",
+    "word": "nửa từ nhớ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semimanufactured"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-word"
+      }
+    ]
+  },
+  {
+    "word": "nửa đơn giản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-simple"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-plane\n@Lĩnh vực: xây dựng\n-semiplane"
       }
     ]
   },
@@ -2019,11 +227,456 @@
     ]
   },
   {
-    "word": "nửa khuông trên",
+    "word": "nửa đùa nửa thật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cope"
+        "dict_definition": "@nửa đùa nửa thật [nửa đùa nửa thật]\n-seriocomic;  between jest and earnest"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half serious, half joking"
+      }
+    ]
+  },
+  {
+    "word": "nửa con thịt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bacon side\n-half carcass"
+      }
+    ]
+  },
+  {
+    "word": "nửa viên gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-two-quarters"
+      }
+    ]
+  },
+  {
+    "word": "nửa vòng đệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-washer"
+      }
+    ]
+  },
+  {
+    "word": "nửa kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-metal\n@Lĩnh vực: xây dựng\n-semi-metallic"
+      }
+    ]
+  },
+  {
+    "word": "nửa trong nửa ngoài",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half in, half out"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm ngược đối xứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-symetric reversible semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiền lương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-half pay"
+      }
+    ]
+  },
+  {
+    "word": "nửa chuẩn tắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-normal"
+      }
+    ]
+  },
+  {
+    "word": "nửa cách ly",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-insulated-insulated"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-multiplicative semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nử tử",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nử tử\n- Con gái."
+      }
+    ]
+  },
+  {
+    "word": "nửa mêtric",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-metric"
+      }
+    ]
+  },
+  {
+    "word": "nửa giọng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-tone"
+      }
+    ]
+  },
+  {
+    "word": "nửa chừng xuân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng giữa chừng tuổi trẻ\nVí dụ:\n- \"Kiếp hồng nhan có mong manh, Nửa chừng xuân, thoắt gãy cành thiên hương!\" (TKiều)"
+      }
+    ]
+  },
+  {
+    "word": "nửa khối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-block"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiếng đồng hồ sau",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half an hour later"
+      }
+    ]
+  },
+  {
+    "word": "nửa vòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-ring"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semicircle"
+      }
+    ]
+  },
+  {
+    "word": "nửa đường dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-path"
+      }
+    ]
+  },
+  {
+    "word": "nửa vách của não",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hemiseptum cerebri"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm các phép biến đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of transformation"
+      }
+    ]
+  },
+  {
+    "word": "nửa bất biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cumulant\n-halfinvariant\n-semi-invariant"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm các lũy dẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of idempotents"
+      }
+    ]
+  },
+  {
+    "word": "nửa ống lót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-bushing"
+      }
+    ]
+  },
+  {
+    "word": "nửa nổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semifloating"
+      }
+    ]
+  },
+  {
+    "word": "nửa đôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-odd one (of pair)"
+      }
+    ]
+  },
+  {
+    "word": "nửa dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-line"
+      }
+    ]
+  },
+  {
+    "word": "nửa nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semi-integral"
+      }
+    ]
+  },
+  {
+    "word": "nửa mờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-semimatt"
+      }
+    ]
+  },
+  {
+    "word": "nửa chùm ra (máy đan)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-half beam"
+      }
+    ]
+  },
+  {
+    "word": "nửa tông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-halftone\n@Chuyên ngành kỹ thuật\n-continuous transport\n-halftone\n-semitone"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm giới hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-limitative semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa kết tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemicrystalline\n-hypocrystalline\n-isocrystalline"
+      }
+    ]
+  },
+  {
+    "word": "nửa lố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-half-a-dozen"
+      }
+    ]
+  },
+  {
+    "word": "nửa phỏng nhóm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-groupoid"
+      }
+    ]
+  },
+  {
+    "word": "nửa biến đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-semi-variable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semivariable"
+      }
+    ]
+  },
+  {
+    "word": "nửa ngạc nhiên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half-surprised"
+      }
+    ]
+  },
+  {
+    "word": "nửa độ rộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-width\n-semibreadth"
+      }
+    ]
+  },
+  {
+    "word": "nửa lăng kính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-hemiprism"
+      }
+    ]
+  },
+  {
+    "word": "nửa xách tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semiportable"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm tự do",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-free semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm xiclic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cyclic semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa bước sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-wave\n@Lĩnh vực: điện tử & viễn thông\n-half-wavelength"
+      }
+    ]
+  },
+  {
+    "word": "nửa ký lô",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half a kilogram"
+      }
+    ]
+  },
+  {
+    "word": "nửa xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-pulse"
+      }
+    ]
+  },
+  {
+    "word": "nửa compac",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemicompact"
+      }
+    ]
+  },
+  {
+    "word": "nửa năm cuối (của tài khóa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-second half (year)"
+      }
+    ]
+  },
+  {
+    "word": "nửa máng nửa rãnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semisulcus"
+      }
+    ]
+  },
+  {
+    "word": "nửa cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi - stiff\n-semi-hard\n-semi-rigid"
       }
     ]
   },
@@ -2037,11 +690,1200 @@
     ]
   },
   {
-    "word": "nửa máng nửa rãnh",
+    "word": "nửa từ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semisulcus"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-word"
+      }
+    ]
+  },
+  {
+    "word": "nửa ngày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa ngày [nửa ngày]\n-part-time\n-half-day\n@Chuyên ngành kinh tế\n-half day"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "part-time, half-day"
+      }
+    ]
+  },
+  {
+    "word": "nửa ma trận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-matrix"
+      }
+    ]
+  },
+  {
+    "word": "nửa đối xứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemihedral\n-semi-symmetric"
+      }
+    ]
+  },
+  {
+    "word": "nửa gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half bat\n-half brick\n-half-timbered"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm đơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simple semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa kè",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-groin"
+      }
+    ]
+  },
+  {
+    "word": "nửa độ rộng thực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-true half-width"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm mạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-strong semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inverse semi-group\n-reversive semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa ngầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semiburied"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm các quan hệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of relations"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt phẳng hội tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-plane of convergence"
+      }
+    ]
+  },
+  {
+    "word": "nửa giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-at haft price"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm với đơn vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with unit"
+      }
+    ]
+  },
+  {
+    "word": "nửa pin calomen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-calomel half-cell"
+      }
+    ]
+  },
+  {
+    "word": "nửa người nửa ngợm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa người nửa ngợm [nửa người nửa ngợm]\n-half man, half beast"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half man, half beast"
+      }
+    ]
+  },
+  {
+    "word": "nửa tá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa tá\n-dozen; half a dozen\n@Chuyên ngành kinh tế\n-half dozen\n-half-a-dozen"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa tá\n-dozen; half a dozen"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dozen, half a dozen"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm thuần túy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pure semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa hưu trí",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "semi-retired"
+      }
+    ]
+  },
+  {
+    "word": "nửa tinh (chế)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semimanufactured"
+      }
+    ]
+  },
+  {
+    "word": "nửa đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa đường\n-Half-way"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa đường\n- Half-way"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half-way"
+      }
+    ]
+  },
+  {
+    "word": "nửa hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hemimorphic"
+      }
+    ]
+  },
+  {
+    "word": "nửa độ dày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-thickness\n-half-value thickness"
+      }
+    ]
+  },
+  {
+    "word": "nửa tuyến tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-linear"
+      }
+    ]
+  },
+  {
+    "word": "nửa cơ giới hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semimobile"
+      }
+    ]
+  },
+  {
+    "word": "nửa khuông trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cope"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm không lũy đẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-potent semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa mođun",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-module"
+      }
+    ]
+  },
+  {
+    "word": "nửa rộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-width"
+      }
+    ]
+  },
+  {
+    "word": "nửa khuya",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "middle of the night"
+      }
+    ]
+  },
+  {
+    "word": "nửa sau của thê ký 20",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the latter half of the 20th century"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt phẳng trái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-left half-plane"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm dừng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stationary semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt bích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-flange"
+      }
+    ]
+  },
+  {
+    "word": "nửa phần trăm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-half a percentage point"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa tiền\n-Half-price\n=Trẻ em trả nửa tiền\n+Children are [admitted] half-price"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa tiền\n- Half-price\n=Trẻ em trả nửa tiền+Children are [admitted] half-price"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half-price"
+      }
+    ]
+  },
+  {
+    "word": "nửa giàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-truss\n-semi-lattice\n-semitruss"
+      }
+    ]
+  },
+  {
+    "word": "nửa vấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half dog"
+      }
+    ]
+  },
+  {
+    "word": "nửa cung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa cung [nửa cung]\n-(nhạc) chromatic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "chromatic"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm con ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inverse semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa phút đồng hồ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half a minute, thirty seconds"
+      }
+    ]
+  },
+  {
+    "word": "nửa buổi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng thời gian vào giữa buổi sáng, khoảng từ 9 đến 10 giờ, hoặc vào giữa buổi chiều, khoảng từ 3 đến 4 giờ\nVí dụ:\n- ngủ đến nửa buổi mới đi làm \n - từ đây đến đó mất non nửa buổi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa buổi\n-Mid-morning; mid-evening"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa buổi\n- Mid-morning; mid-evening"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mid-morning, mid-evening"
+      }
+    ]
+  },
+  {
+    "word": "nửa trái địa cầu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hemisphere"
+      }
+    ]
+  },
+  {
+    "word": "nửa thấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semipermeable"
+      }
+    ]
+  },
+  {
+    "word": "nửa chu kì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-period"
+      }
+    ]
+  },
+  {
+    "word": "nửa phiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Half Session (HS)\n-reversals"
+      }
+    ]
+  },
+  {
+    "word": "nửa thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-half-steel"
+      }
+    ]
+  },
+  {
+    "word": "nửa bạc lót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-bushing"
+      }
+    ]
+  },
+  {
+    "word": "nửa dàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-lattice"
+      }
+    ]
+  },
+  {
+    "word": "nửa bít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nybbte"
+      }
+    ]
+  },
+  {
+    "word": "nửa pin clomen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-calomel electrode"
+      }
+    ]
+  },
+  {
+    "word": "nửa logia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semiloggia"
+      }
+    ]
+  },
+  {
+    "word": "nửa antrxit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semianthracite"
+      }
+    ]
+  },
+  {
+    "word": "nửa vành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-ring\n@Lĩnh vực: toán & tin\n-semi ring"
+      }
+    ]
+  },
+  {
+    "word": "nửa thời gian sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-half life"
+      }
+    ]
+  },
+  {
+    "word": "nửa ngờ vực",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half-suspicious"
+      }
+    ]
+  },
+  {
+    "word": "nửa mái hồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-hip"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm tự bất biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-self-invariant semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa nguyên thủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-prime"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm thương rixơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rees\"s quotient semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa thức nửa ngủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subwaking"
+      }
+    ]
+  },
+  {
+    "word": "nửa chu vi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-senicircumference"
+      }
+    ]
+  },
+  {
+    "word": "nửa chu kì gia lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling time"
+      }
+    ]
+  },
+  {
+    "word": "nửa lặng (thép)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-balanced"
+      }
+    ]
+  },
+  {
+    "word": "nửa cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-bridge\n-hemisphere"
+      }
+    ]
+  },
+  {
+    "word": "nửa rẽ nhánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half tap"
+      }
+    ]
+  },
+  {
+    "word": "nửa năm (một lần)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-semi-annual"
+      }
+    ]
+  },
+  {
+    "word": "nửa góc mở của chùm tia (máy) phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmitter beam half-angle"
+      }
+    ]
+  },
+  {
+    "word": "nửa cột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-engaged column"
+      }
+    ]
+  },
+  {
+    "word": "nửa hình sin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half-sinusoid"
+      }
+    ]
+  },
+  {
+    "word": "nửa đêm từ trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-geomagnetic midnight"
+      }
+    ]
+  },
+  {
+    "word": "nửa bền (vững)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-metastable"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm giao hoán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-commutative semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-half cell, half element"
+      }
+    ]
+  },
+  {
+    "word": "nửa thời gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-half-time"
+      }
+    ]
+  },
+  {
+    "word": "nửa con thịt không có xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-long clear side"
+      }
+    ]
+  },
+  {
+    "word": "nửa chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pseudonormal"
+      }
+    ]
+  },
+  {
+    "word": "nửa compact",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hemicompact"
+      }
+    ]
+  },
+  {
+    "word": "nửa bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-semimatt"
+      }
+    ]
+  },
+  {
+    "word": "nửa cốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-coke"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm sai phân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-difference semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa chừng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng giữa chừng, chưa xong, chưa trọn vẹn\nVí dụ:\n- làm nửa chừng rồi bỏ \n - \"Thà rằng chẳng biết cho đừng, Biết ra dan díu nửa chừng lại thôi.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nửa chừng\n- Cg. Nửa vời. Chưa hết hẳn, chưa trọn vẹn: Làm nửa chừng bỏ dở."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa chừng\n-Unfinished, incomplete\n=Làm nửa chừng bỏ dở\n+To leave a job unfinished"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa chừng\n- Unfinished, incomplete\n=Làm nửa chừng bỏ dở+To leave a job unfinished"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unfinished, incomplete"
+      }
+    ]
+  },
+  {
+    "word": "nửa con thịt bò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-beef side"
+      }
+    ]
+  },
+  {
+    "word": "nửa biên dịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semicompiled"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt cắt ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half transverse section"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm với vật giản ước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with cancellation"
+      }
+    ]
+  },
+  {
+    "word": "nửa quadric",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regulus"
+      }
+    ]
+  },
+  {
+    "word": "nửa kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semienclosed\n-semishrouded\n-semitight"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm với phép nhân không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with null multiplication"
+      }
+    ]
+  },
+  {
+    "word": "nửa metric",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-metric"
+      }
+    ]
+  },
+  {
+    "word": "nửa pin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-cell\n@Lĩnh vực: điện\n-half-element"
+      }
+    ]
+  },
+  {
+    "word": "nửa vòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-arch\n-semiarch\n-semidome"
+      }
+    ]
+  },
+  {
+    "word": "nửa khoảng tứ phân vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi interquartile range\n-semi-interquartile range"
+      }
+    ]
+  },
+  {
+    "word": "nửa quay ngửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semisupine"
+      }
+    ]
+  },
+  {
+    "word": "nửa góc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semi-angle"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-abelian group, semi group abel\n-band of semigroups\n-half-group\n-semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa vòng tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half circle\n-half-round\n-semicircle\n-semicircular\n-senicircumference"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm với phần tử không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with zero"
+      }
+    ]
+  },
+  {
+    "word": "nửa xác định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-definite\n-thin"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm abel, nhóm abel",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ABELIAN GROUP, SEMI GROUP ABEL"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm nghịch đảo mạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-strongly reversible semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiếng sau",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half an hour later"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm thương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quotient semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa lôgarit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semilogarithmic"
+      }
+    ]
+  },
+  {
+    "word": "nửa trục lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi grand axis"
+      }
+    ]
+  },
+  {
+    "word": "nửa trục bé",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi little axis"
+      }
+    ]
+  },
+  {
+    "word": "nửa đường tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemicycle\n-semicircle\n-semicircular"
+      }
+    ]
+  },
+  {
+    "word": "nửa đầu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "first half"
+      }
+    ]
+  },
+  {
+    "word": "nửa âm sắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-chromatic semitone"
+      }
+    ]
+  },
+  {
+    "word": "nửa khô hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-semi-arid"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm hauxđooc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mob"
+      }
+    ]
+  },
+  {
+    "word": "nửa che bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-shade\n-half-shadow"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiếng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half an hour"
+      }
+    ]
+  },
+  {
+    "word": "nửa tốc độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-speed"
+      }
+    ]
+  },
+  {
+    "word": "nửa kết đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-frozen\n-semifrozen\n-semisolid frozen\n-semofrozen"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiếng ầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-half-tone"
+      }
+    ]
+  },
+  {
+    "word": "nửa thuật toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-algorithm"
+      }
+    ]
+  },
+  {
+    "word": "nửa tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-finished"
+      }
+    ]
+  },
+  {
+    "word": "nửa sau",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "second half, last half"
+      }
+    ]
+  },
+  {
+    "word": "nửa giá tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-half price"
+      }
+    ]
+  },
+  {
+    "word": "nửa hội tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semiconvergent"
+      }
+    ]
+  },
+  {
+    "word": "nửa tông âm nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-diatomic semitone"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm thuận nghịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reciprocal semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm tuần hoàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-periodic semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa giao tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-half edges"
       }
     ]
   },
@@ -2067,312 +1909,11 @@
     ]
   },
   {
-    "word": "nửa nhóm với đơn vị",
+    "word": "nửa mặt phẳng trên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with unit"
-      }
-    ]
-  },
-  {
-    "word": "nửa sấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semiprone"
-      }
-    ]
-  },
-  {
-    "word": "nửa xà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half beam"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt bích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-flange"
-      }
-    ]
-  },
-  {
-    "word": "nửa vô hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-infinite"
-      }
-    ]
-  },
-  {
-    "word": "nửa nổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semifloating"
-      }
-    ]
-  },
-  {
-    "word": "nửa chu kì gia lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling time"
-      }
-    ]
-  },
-  {
-    "word": "nửa năm (một lần)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-semi-annual"
-      }
-    ]
-  },
-  {
-    "word": "nửa biến đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-semi-variable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semivariable"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemihedral\n-hemihedrism"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt cắt dọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half longitudinal section"
-      }
-    ]
-  },
-  {
-    "word": "nửa lời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nửa lời\n-Nói nửa lời là hiểu\n-To know how to take a hint"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nửa lời\n- Nói nửa lời là hiểu\n-To know how to take a hint"
-      }
-    ]
-  },
-  {
-    "word": "nửa ngầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semiburied"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-abelian group, semi group abel\n-band of semigroups\n-half-group\n-semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa chuẩn tắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-normal"
-      }
-    ]
-  },
-  {
-    "word": "nửa hòa tan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semisoluble"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inverse semi-group\n-reversive semigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semicontinuous"
-      }
-    ]
-  },
-  {
-    "word": "nửa giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-at haft price"
-      }
-    ]
-  },
-  {
-    "word": "nửa khối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-block"
-      }
-    ]
-  },
-  {
-    "word": "nửa metric",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-metric"
-      }
-    ]
-  },
-  {
-    "word": "nửa pin clomen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-calomel electrode"
-      }
-    ]
-  },
-  {
-    "word": "nửa dàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-lattice"
-      }
-    ]
-  },
-  {
-    "word": "nửa trái địa cầu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hemisphere"
-      }
-    ]
-  },
-  {
-    "word": "nửa sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-wave"
-      }
-    ]
-  },
-  {
-    "word": "nửa đầu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "first half"
-      }
-    ]
-  },
-  {
-    "word": "nửa ma trận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-matrix"
-      }
-    ]
-  },
-  {
-    "word": "nửa trục lớn (quỹ đạo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semimajor axis"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm hauxđooc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mob"
-      }
-    ]
-  },
-  {
-    "word": "nửa tối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semi-darkness"
-      }
-    ]
-  },
-  {
-    "word": "nửa mặt tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semicircle"
-      }
-    ]
-  },
-  {
-    "word": "nửa độ dày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-thickness\n-half-value thickness"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm được bổ sung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-augmented monoid"
-      }
-    ]
-  },
-  {
-    "word": "nửa nắp đạy hộp khuỷu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-crankcase bottom half"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-upper half"
       }
     ]
   },
@@ -2406,47 +1947,695 @@
     ]
   },
   {
-    "word": "nửa phiên",
+    "word": "nửa kép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Half Session (HS)\n-reversals"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semi-double"
       }
     ]
   },
   {
-    "word": "nửa gỗ",
+    "word": "nửa lạm phát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-frame house"
+        "dict_definition": "@Chuyên ngành kinh tế\n-semi inflation"
       }
     ]
   },
   {
-    "word": "nửa phút đồng hồ",
+    "word": "nửa nhóm cộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-additive semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa khuôn trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cope"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiếng đồng hồ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "half a minute, thirty seconds"
+        "dict_definition": "half an hour"
       }
     ]
   },
   {
-    "word": "nửa ký lô",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half a kilogram"
-      }
-    ]
-  },
-  {
-    "word": "nửa kín",
+    "word": "nửa đầu hồi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semienclosed\n-semishrouded\n-semitight"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aileron"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-subsemigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa tối nửa sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-semi-darkness"
+      }
+    ]
+  },
+  {
+    "word": "nửa triệu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half a million"
+      }
+    ]
+  },
+  {
+    "word": "nửa byte",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nybble"
+      }
+    ]
+  },
+  {
+    "word": "nửa lỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-fluid\n-semifluid\n-semiliquid"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm chính quy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regular semigroup"
+      }
+    ]
+  },
+  {
+    "word": "nửa liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semicontinuous"
+      }
+    ]
+  },
+  {
+    "word": "nửa thuần túy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-pure"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt cắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-section"
+      }
+    ]
+  },
+  {
+    "word": "nửa sắc độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-continuous transport\n-halftone"
+      }
+    ]
+  },
+  {
+    "word": "nửa tinh khiết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semipure"
+      }
+    ]
+  },
+  {
+    "word": "nửa tiền công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-pay"
+      }
+    ]
+  },
+  {
+    "word": "nửa chu kỳ gia lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling time"
+      }
+    ]
+  },
+  {
+    "word": "nửa trục lớn (quỹ đạo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semimajor axis"
+      }
+    ]
+  },
+  {
+    "word": "nửa cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-semipolar"
+      }
+    ]
+  },
+  {
+    "word": "nửa quỹ đạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-orbit"
+      }
+    ]
+  },
+  {
+    "word": "nửa vô hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-infinite"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm được bổ sung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-augmented monoid"
+      }
+    ]
+  },
+  {
+    "word": "nửa lời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa lời\n-Nói nửa lời là hiểu\n-To know how to take a hint"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa lời\n- Nói nửa lời là hiểu\n-To know how to take a hint"
+      }
+    ]
+  },
+  {
+    "word": "nửa khuôn dưới (đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lower box"
+      }
+    ]
+  },
+  {
+    "word": "nửa bóng tối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-shade\n-half-shadow"
+      }
+    ]
+  },
+  {
+    "word": "nửa chu kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-alternation\n-half cycle\n-half period\n-half-cycle\n-reversals"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt cắt dọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half longitudinal section"
+      }
+    ]
+  },
+  {
+    "word": "nửa cơ khí hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semimechanized"
+      }
+    ]
+  },
+  {
+    "word": "nửa úp nửa mở",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nửa úp nửa mở\n- Vừa kín vừa hở."
+      }
+    ]
+  },
+  {
+    "word": "nửa đôla",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-half-dollar"
+      }
+    ]
+  },
+  {
+    "word": "nửa sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-wave"
+      }
+    ]
+  },
+  {
+    "word": "nửa bền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-metastable"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemihedral\n-hemihedrism"
+      }
+    ]
+  },
+  {
+    "word": "nửa khung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half-frame\n-semiframe"
+      }
+    ]
+  },
+  {
+    "word": "nửa sau thông điệp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the second half of a speech"
+      }
+    ]
+  },
+  {
+    "word": "nửa thời gian làm lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling time"
+      }
+    ]
+  },
+  {
+    "word": "nửa lương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa lương\n-Half-pay\n@Chuyên ngành kinh tế\n-half-pay\n@Chuyên ngành kỹ thuật\n-half-pay"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa lương\n- Half-pay"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half-pay"
+      }
+    ]
+  },
+  {
+    "word": "nửa đời góa bụa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to become a widow at middle age"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt khớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-demifacet"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt phẳng dưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lower half"
+      }
+    ]
+  },
+  {
+    "word": "nửa độ rộng tia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half beam-width"
+      }
+    ]
+  },
+  {
+    "word": "nửa đầu năm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-first-half"
+      }
+    ]
+  },
+  {
+    "word": "nửa thân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semipermeable"
+      }
+    ]
+  },
+  {
+    "word": "nửa đời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng thời gian coi như đã sống được một nửa cuộc đời con người, ở độ khoảng từ ba đến bốn mươi tuổi\nVí dụ:\n- \"Nàng rằng: Chút phận hoa rơi, Nửa đời nếm trải mọi mùi đắng cay.\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nửa đời\n- Khoảng ba, bốn mươi tuổi đời: Nửa đời góa bụa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa đời\n-Middle age\n=Nửa đời góa bụa\n+To become a widow at middle age\n=Nửa đời nửa đoạn (thông tục)\n+To die at middle age, to fair at half-way through a job.."
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nửa đời\n- Middle age\n=Nửa đời góa bụa+To become a widow at middle age\n=Nửa đời nửa đoạn (thông tục)+To die at middle age, to fair at half-way through a job.."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half life, middle age"
+      }
+    ]
+  },
+  {
+    "word": "nửa đường thẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-line\n-jet"
+      }
+    ]
+  },
+  {
+    "word": "nửa xà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half beam"
+      }
+    ]
+  },
+  {
+    "word": "nửa đời nửa đoạn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to die at middle age"
+      }
+    ]
+  },
+  {
+    "word": "nửa tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-semiautomatic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semiautomatic"
+      }
+    ]
+  },
+  {
+    "word": "nửa khả quy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-reducible"
+      }
+    ]
+  },
+  {
+    "word": "nửa không gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-space"
+      }
+    ]
+  },
+  {
+    "word": "nửa kè ngầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bed groin"
+      }
+    ]
+  },
+  {
+    "word": "nửa phân tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-half cell, half element"
+      }
+    ]
+  },
+  {
+    "word": "nửa năm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-half-annual report\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biannual"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "biannual; half-year, semi annual"
+      }
+    ]
+  },
+  {
+    "word": "nửa cực đại toàn thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-FDHM (full duration half maximum)"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm đồng thặng dư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-equiresidual semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semi-crystal\n-subvitreous"
+      }
+    ]
+  },
+  {
+    "word": "nửa gấp, nửa gấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semiflexion"
+      }
+    ]
+  },
+  {
+    "word": "nửa mặt phẳng đàn hồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-elastic half-plane"
+      }
+    ]
+  },
+  {
+    "word": "nửa nhóm abel",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-abelian semi-group"
+      }
+    ]
+  },
+  {
+    "word": "nửa hòa tan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semisoluble"
+      }
+    ]
+  },
+  {
+    "word": "nửa liên tục dưới yếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-weak semi-continuous from below"
+      }
+    ]
+  },
+  {
+    "word": "nửa rắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semisolid"
+      }
+    ]
+  },
+  {
+    "word": "nửa tháng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-demilune\n-lunette"
+      }
+    ]
+  },
+  {
+    "word": "nửa sương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nửa sương\n- tức là nửa năm"
+      }
+    ]
+  },
+  {
+    "word": "nửa đêm gà gáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nửa đêm gà gáy [nửa đêm gà gáy]\n-midnight and dawn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "midnight and dawn"
+      }
+    ]
+  },
+  {
+    "word": "nửa vách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hemiseptum"
+      }
+    ]
+  },
+  {
+    "word": "nửa năm sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-first halt"
+      }
+    ]
+  },
+  {
+    "word": "nửa thắng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lunate"
+      }
+    ]
+  },
+  {
+    "word": "nửa cuối năm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-second half"
+      }
+    ]
+  },
+  {
+    "word": "nửa ổn định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-stable"
+      }
+    ]
+  },
+  {
+    "word": "nửa nắp đạy hộp khuỷu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-crankcase bottom half"
       }
     ]
   },
@@ -2476,290 +2665,101 @@
     ]
   },
   {
-    "word": "nửa sắc độ",
+    "word": "nửa đơn nguyên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-continuous transport\n-halftone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-bay"
       }
     ]
   },
   {
-    "word": "nửa mặt phẳng",
+    "word": "nửa (hình) cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-plane\n@Lĩnh vực: xây dựng\n-semiplane"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hemisphere"
       }
     ]
   },
   {
-    "word": "nửa cứng",
+    "word": "nửa mạng che",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi - stiff\n-semi-hard\n-semi-rigid"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-mask"
       }
     ]
   },
   {
-    "word": "nửa đời nửa đoạn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to die at middle age"
-      }
-    ]
-  },
-  {
-    "word": "nửa compact",
+    "word": "nửa trong suốt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hemicompact"
+        "dict_definition": "@Chuyên ngành kinh tế\n-translucent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semitransparent"
       }
     ]
   },
   {
-    "word": "nửa lặng (thép)",
+    "word": "nửa chiếu nghỉ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-balanced"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half landing\n-half landing (half space landing)"
       }
     ]
   },
   {
-    "word": "nửa âm",
+    "word": "nửa trục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semitone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-axle shaft\n-half shaft\n-half-axle\n-rear axle shaft\n-semiaxis\n-semiaxle"
       }
     ]
   },
   {
-    "word": "nửa bất biến",
+    "word": "nửa trục cán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cumulant\n-halfinvariant\n-semi-invariant"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-roll"
       }
     ]
   },
   {
-    "word": "nửa nhóm nhân",
+    "word": "nửa giá tiền (vé xe, tàu...)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-multiplicative semigroup"
+        "dict_definition": "@Chuyên ngành kinh tế\n-half-fare"
       }
     ]
   },
   {
-    "word": "nửa nhóm các lũy dẳng",
+    "word": "nửa nhóm rút gọn yếu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup of idempotents"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-weakly simplified semigroup"
       }
     ]
   },
   {
-    "word": "nửa nhóm con ngược",
+    "word": "nửa làm lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inverse semi-group"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-half-cooling"
       }
     ]
   },
   {
-    "word": "nửa giá tiền",
+    "word": "nửa tinh chế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-half price"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-subsemigroup"
-      }
-    ]
-  },
-  {
-    "word": "nửa năm cuối (của tài khóa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-second half (year)"
-      }
-    ]
-  },
-  {
-    "word": "nửa vành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-half-ring\n@Lĩnh vực: toán & tin\n-semi ring"
-      }
-    ]
-  },
-  {
-    "word": "nửa quay ngửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-semisupine"
-      }
-    ]
-  },
-  {
-    "word": "nửa cách ly",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-insulated-insulated"
-      }
-    ]
-  },
-  {
-    "word": "nửa nhóm với vật giản ước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semigroup with cancellation"
-      }
-    ]
-  },
-  {
-    "word": "nửa trục lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi grand axis"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiền công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-pay"
-      }
-    ]
-  },
-  {
-    "word": "nửa cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-engaged column"
-      }
-    ]
-  },
-  {
-    "word": "nửa biên dịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semicompiled"
-      }
-    ]
-  },
-  {
-    "word": "nửa cơ giới hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semimobile"
-      }
-    ]
-  },
-  {
-    "word": "nửa tiếng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half an hour"
-      }
-    ]
-  },
-  {
-    "word": "nửa đơn giản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-semi-simple"
-      }
-    ]
-  },
-  {
-    "word": "nửa khuôn trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cope"
-      }
-    ]
-  },
-  {
-    "word": "nửa đầu năm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-first-half"
-      }
-    ]
-  },
-  {
-    "word": "nửa tự động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-semiautomatic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semiautomatic"
-      }
-    ]
-  },
-  {
-    "word": "nửa chùm ra (máy đan)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-half beam"
-      }
-    ]
-  },
-  {
-    "word": "nửa gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half bat\n-half brick\n-half-timbered"
-      }
-    ]
-  },
-  {
-    "word": "nửa viên gạch kiểu anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-queen closer"
-      }
-    ]
-  },
-  {
-    "word": "nửa bít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nybbte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-semifinish"
       }
     ]
   }

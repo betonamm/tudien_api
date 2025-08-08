@@ -1,19 +1,19 @@
 [
   {
-    "word": "xòng xõng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xòng xõng\n*trạng từ\n-idle, loaf\n-stiff, rigid"
-      }
-    ]
-  },
-  {
     "word": "xòe nan quạt",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fan-shaped"
+      }
+    ]
+  },
+  {
+    "word": "xòng xõng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xòng xõng\n*trạng từ\n-idle, loaf\n-stiff, rigid"
       }
     ]
   },
@@ -27,30 +27,8 @@
     ]
   },
   {
-    "word": "xò ủng (bootjack)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bootjack"
-      }
-    ]
-  },
-  {
     "word": "xòa",
     "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to spread out"
-      }
-    ]
-  },
-  {
-    "word": "xòe ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fan-out"
-      },
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to spread out"
@@ -80,6 +58,28 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "sickly"
+      }
+    ]
+  },
+  {
+    "word": "xòe ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fan-out"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to spread out"
+      }
+    ]
+  },
+  {
+    "word": "xò ủng (bootjack)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bootjack"
       }
     ]
   }

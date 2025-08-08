@@ -1,40 +1,53 @@
 [
   {
-    "word": "bỉ mặt",
+    "word": "bỉ thử",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bỉ mặt\n- đgt. Khinh, coi không ra gì: làm bỉ mặt bạn bè."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@bỉ mặt\n-Scorn, despise"
+        "dict_definition": "@bỉ thử\n*verb\n-To compare with one another\n=cùng là người chứ khác gì nhau mà bỉ thử\n+they all are men and not different, so there is no comparing with one another"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bỉ mặt\n- Scorn, despise"
+        "dict_definition": "@bỉ thử\n* verb\n- To compare with one another\n=cùng là người chứ khác gì nhau mà bỉ thử+they all are men and not different, so there is no comparing with one another"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to scorn, despise"
+        "dict_definition": "this and that, here and there, then and now, you and I, both (something), mutually"
       }
     ]
   },
   {
-    "word": "bỉ lận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bỉ lận [bỉ lận]\n-stingy, miserly"
-      }
-    ]
-  },
-  {
-    "word": "bỉ lợi thì",
+    "word": "bỉ quốc",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "Belgium, Belgian"
+        "dict_definition": "Belgium"
+      }
+    ]
+  },
+  {
+    "word": "bỉnh quyền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hold power"
+      }
+    ]
+  },
+  {
+    "word": "bỉ nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bỉ nhân\n*pronoun\n-This humble student (writer...)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bỉ nhân\n* pronoun\n- This humble student (writer...)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I (humble term)"
       }
     ]
   },
@@ -64,28 +77,20 @@
     ]
   },
   {
+    "word": "bỉ lợi thì",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Belgium, Belgian"
+      }
+    ]
+  },
+  {
     "word": "bỉ thử nhất thì",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@bỉ thử nhất thì\n- Do câu Bỉ nhất thì, thử nhất thì ý nói xưa kia là một thì, bây giờ là một thì, hoàn cảnh khác nhau không thể câu nệ được"
-      }
-    ]
-  },
-  {
-    "word": "bỉ sắc tư phong",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Bỉ sắc tư phong\n- Cái kia kém, cái này hơn, được cái này thì hỏng cái kia\n- Kiều:\n- Lạ gì bỉ sắc tư phong\n- Trời cao quen thói má hồng đánh ghen"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bỉ sắc tư phong\n- Cái kia kém thì cái này hơn, nghĩa là: Được hơn điều này thì bị kém điều kia"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bỉ sắc tư phong [bỉ sắc tư phong]\n-rich/lucky in some ways but poor/unlucky in other ways, who\"ll rich in this is poor in that"
       }
     ]
   },
@@ -99,11 +104,63 @@
     ]
   },
   {
-    "word": "bỉ lậu",
+    "word": "bỉ mặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bỉ mặt\n- đgt. Khinh, coi không ra gì: làm bỉ mặt bạn bè."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bỉ mặt\n-Scorn, despise"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bỉ mặt\n- Scorn, despise"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to scorn, despise"
+      }
+    ]
+  },
+  {
+    "word": "bỉ vận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bỉ lậu [bỉ lậu]\n-mean, base, foul, low\n-rough, coarse; rude"
+        "dict_definition": "@bỉ vận\n*adjective\n-bad luck; misfortune"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bỉ vận\n* adjective\n-bad luck; misfortune"
+      }
+    ]
+  },
+  {
+    "word": "bỉ tiện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quê mùa và ngu dốt, ti tiện\nVí dụ:\n- giở trò bỉ tiện \n - đồ bỉ tiện! (tiếng chửi mắng)"
+      }
+    ]
+  },
+  {
+    "word": "bỉ lận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bỉ lận [bỉ lận]\n-stingy, miserly"
+      }
+    ]
+  },
+  {
+    "word": "bỉm sơn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Bỉm Sơn\n- (thị xã) t. Thanh Hoá"
       }
     ]
   },
@@ -121,19 +178,63 @@
     ]
   },
   {
-    "word": "bỉ nhân",
+    "word": "bỉnh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hold"
+      }
+    ]
+  },
+  {
+    "word": "bỉm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tã giấy\nVí dụ:\n- đóng bỉm cho bé"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bỉm [bỉm]\n-silent; be silent; be kept secret; remain unsaid"
+      }
+    ]
+  },
+  {
+    "word": "bỉ lậu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bỉ nhân\n*pronoun\n-This humble student (writer...)"
+        "dict_definition": "@bỉ lậu [bỉ lậu]\n-mean, base, foul, low\n-rough, coarse; rude"
+      }
+    ]
+  },
+  {
+    "word": "bỉ báng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bỉ báng\n-(ít dùng) như phỉ báng"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bỉ nhân\n* pronoun\n- This humble student (writer...)"
+        "dict_definition": "@bỉ báng\n- (ít dùng) như phỉ báng"
+      }
+    ]
+  },
+  {
+    "word": "bỉ sắc tư phong",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Bỉ sắc tư phong\n- Cái kia kém, cái này hơn, được cái này thì hỏng cái kia\n- Kiều:\n- Lạ gì bỉ sắc tư phong\n- Trời cao quen thói má hồng đánh ghen"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I (humble term)"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bỉ sắc tư phong\n- Cái kia kém thì cái này hơn, nghĩa là: Được hơn điều này thì bị kém điều kia"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bỉ sắc tư phong [bỉ sắc tư phong]\n-rich/lucky in some ways but poor/unlucky in other ways, who\"ll rich in this is poor in that"
       }
     ]
   },
@@ -159,107 +260,6 @@
     ]
   },
   {
-    "word": "bỉm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tã giấy\nVí dụ:\n- đóng bỉm cho bé"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bỉm [bỉm]\n-silent; be silent; be kept secret; remain unsaid"
-      }
-    ]
-  },
-  {
-    "word": "bỉ tiện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quê mùa và ngu dốt, ti tiện\nVí dụ:\n- giở trò bỉ tiện \n - đồ bỉ tiện! (tiếng chửi mắng)"
-      }
-    ]
-  },
-  {
-    "word": "bỉ thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bỉ thử\n*verb\n-To compare with one another\n=cùng là người chứ khác gì nhau mà bỉ thử\n+they all are men and not different, so there is no comparing with one another"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bỉ thử\n* verb\n- To compare with one another\n=cùng là người chứ khác gì nhau mà bỉ thử+they all are men and not different, so there is no comparing with one another"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "this and that, here and there, then and now, you and I, both (something), mutually"
-      }
-    ]
-  },
-  {
-    "word": "bỉ (tên nước, thủ đô: brussels)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Belgium"
-      }
-    ]
-  },
-  {
-    "word": "bỉ vận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bỉ vận\n*adjective\n-bad luck; misfortune"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bỉ vận\n* adjective\n-bad luck; misfortune"
-      }
-    ]
-  },
-  {
-    "word": "bỉ quốc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Belgium"
-      }
-    ]
-  },
-  {
-    "word": "bỉ báng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bỉ báng\n-(ít dùng) như phỉ báng"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bỉ báng\n- (ít dùng) như phỉ báng"
-      }
-    ]
-  },
-  {
-    "word": "bỉnh quyền",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hold power"
-      }
-    ]
-  },
-  {
-    "word": "bỉnh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hold"
-      }
-    ]
-  },
-  {
     "word": "bỉ ổi",
     "definitions": [
       {
@@ -281,11 +281,11 @@
     ]
   },
   {
-    "word": "bỉm sơn",
+    "word": "bỉ (tên nước, thủ đô: brussels)",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Bỉm Sơn\n- (thị xã) t. Thanh Hoá"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Belgium"
       }
     ]
   }

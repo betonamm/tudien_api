@@ -1,39 +1,5 @@
 [
   {
-    "word": "gù lưng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gù lưng\n*adjective\n-hunch-backed; hump-backed"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gù lưng\n* adjective\n-hunch-backed; hump-backed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hunch-backed, hump-backed"
-      }
-    ]
-  },
-  {
-    "word": "gùn gút",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gùn gút\n- Nh. Gùn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gùn gút\n-như gùn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gùn gút\n- như gùn"
-      }
-    ]
-  },
-  {
     "word": "gùn ghè",
     "definitions": [
       {
@@ -51,27 +17,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "try to make approaches to a girl"
-      }
-    ]
-  },
-  {
-    "word": "gùn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đầu mối của sợi hiện lên trên mặt hàng dệt\nVí dụ:\n- lụa nhiều gùn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gùn\n- d. Cg. Gút. Đầu mấu trên một hàng dệt: Lụa nhiều gùn quá."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gùn\n-(cũng nói gút) Small lump (on cloth)\n=Lụa nhiều gùn quá\n+Silk with too many small lumps on it"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gùn\n- (cũng nói gút) Small lump (on cloth)\n=Lụa nhiều gùn quá+Silk with too many small lumps on it"
       }
     ]
   },
@@ -105,6 +50,49 @@
     ]
   },
   {
+    "word": "gù, sự vẹo xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cyrtosis"
+      }
+    ]
+  },
+  {
+    "word": "gùn gút",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gùn gút\n- Nh. Gùn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gùn gút\n-như gùn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gùn gút\n- như gùn"
+      }
+    ]
+  },
+  {
+    "word": "gù lưng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gù lưng\n*adjective\n-hunch-backed; hump-backed"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gù lưng\n* adjective\n-hunch-backed; hump-backed"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hunch-backed, hump-backed"
+      }
+    ]
+  },
+  {
     "word": "gùi",
     "definitions": [
       {
@@ -130,11 +118,23 @@
     ]
   },
   {
-    "word": "gù, sự vẹo xương",
+    "word": "gùn",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đầu mối của sợi hiện lên trên mặt hàng dệt\nVí dụ:\n- lụa nhiều gùn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gùn\n- d. Cg. Gút. Đầu mấu trên một hàng dệt: Lụa nhiều gùn quá."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cyrtosis"
+        "dict_definition": "@gùn\n-(cũng nói gút) Small lump (on cloth)\n=Lụa nhiều gùn quá\n+Silk with too many small lumps on it"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gùn\n- (cũng nói gút) Small lump (on cloth)\n=Lụa nhiều gùn quá+Silk with too many small lumps on it"
       }
     ]
   }

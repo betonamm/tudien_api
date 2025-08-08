@@ -1,18 +1,5 @@
 [
   {
-    "word": "hỉ nọ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hỉ nọ\n*adjective\n-joy and anger"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hỉ nọ\n* adjective\n-joy and anger"
-      }
-    ]
-  },
-  {
     "word": "hỉ sắc",
     "definitions": [
       {
@@ -30,70 +17,15 @@
     ]
   },
   {
-    "word": "hỉ nự",
+    "word": "hỉ mũi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hỉ nự\n*noun\n-happy occasion"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hỉ nự\n* noun\n-happy occasion"
+        "dict_definition": "@hỉ mũi [hỉ mũi]\n-to blow one\"s nose"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "happy occasion"
-      }
-    ]
-  },
-  {
-    "word": "hỉ sự",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hỉ sự\n-Happy occasion; wedding"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hỉ sự\n- Happy occasion; wedding"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "happy occasion, wedding"
-      }
-    ]
-  },
-  {
-    "word": "hỉ xả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hỉ xả\n-(ít dùng) Gladly and readily sacrifice oneself"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hỉ xả\n- (ít dùng) Gladly and readily sacrifice oneself"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to forgive, pardon"
-      }
-    ]
-  },
-  {
-    "word": "hỉ tín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hỉ tín\n-(từ cũ; nghĩa cũ) happy news"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hỉ tín\n- (từ cũ; nghĩa cũ) happy news"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "happy news"
+        "dict_definition": "to blow one’s nose; cape, headland"
       }
     ]
   },
@@ -144,28 +76,19 @@
     ]
   },
   {
-    "word": "hỉ đồng",
+    "word": "hỉ tín",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hỉ đồng [hỉ đồng]\n-(từ cổ, nghĩa cổ) child servant"
+        "dict_definition": "@hỉ tín\n-(từ cũ; nghĩa cũ) happy news"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hỉ tín\n- (từ cũ; nghĩa cũ) happy news"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "child servant"
-      }
-    ]
-  },
-  {
-    "word": "hỉ mũi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hỉ mũi [hỉ mũi]\n-to blow one\"s nose"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to blow one’s nose; cape, headland"
+        "dict_definition": "happy news"
       }
     ]
   },
@@ -187,6 +110,83 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@hỉnh\n* verb\n- to turn up;\n=mũi cô ta hỉnh lên+Her nose turns up"
+      }
+    ]
+  },
+  {
+    "word": "hỉ xả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hỉ xả\n-(ít dùng) Gladly and readily sacrifice oneself"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hỉ xả\n- (ít dùng) Gladly and readily sacrifice oneself"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to forgive, pardon"
+      }
+    ]
+  },
+  {
+    "word": "hỉ nọ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hỉ nọ\n*adjective\n-joy and anger"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hỉ nọ\n* adjective\n-joy and anger"
+      }
+    ]
+  },
+  {
+    "word": "hỉ sự",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hỉ sự\n-Happy occasion; wedding"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hỉ sự\n- Happy occasion; wedding"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "happy occasion, wedding"
+      }
+    ]
+  },
+  {
+    "word": "hỉ đồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hỉ đồng [hỉ đồng]\n-(từ cổ, nghĩa cổ) child servant"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "child servant"
+      }
+    ]
+  },
+  {
+    "word": "hỉ nự",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hỉ nự\n*noun\n-happy occasion"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hỉ nự\n* noun\n-happy occasion"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "happy occasion"
       }
     ]
   }

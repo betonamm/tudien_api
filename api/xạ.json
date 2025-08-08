@@ -1,101 +1,19 @@
 [
   {
-    "word": "xạ năng",
+    "word": "xạ nhiệt kế bolomet",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiant energy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bolometer"
       }
     ]
   },
   {
-    "word": "xạ lượng kế",
+    "word": "xạ khí rađi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dosimeter\n-radiation dosimeter"
-      }
-    ]
-  },
-  {
-    "word": "xạ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xạ hương [nói tắt]\nVí dụ:\n- túi xạ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Xạ\n- Một tên gọi khác của dân tộc Giáy"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xạ\n*danh từ\n-(con xạ) chevrotain, muskdeer, musk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to shoot (arrows)"
-      }
-    ]
-  },
-  {
-    "word": "xạ trị",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "điều trị bệnh [thường là ung thư] bằng phương pháp chiếu tia bức xạ [tia X, tia gamma, v.v.] đâm xuyên vào vùng gây bệnh\nVí dụ:\n- xạ trị ung thư vòm họng \n - máy xạ trị"
-      }
-    ]
-  },
-  {
-    "word": "xạ hương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chất có mùi thơm của hươu xạ và một số loài cầy tiết ra, dùng làm hương liệu hoặc làm thuốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xạ hương\n- d. Chất có mùi thơm của hươu xạ và một số loài cầy tiết ra, dùng làm nước hoa, làm thuốc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xạ hương\n*noun\n-musk"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xạ hương\n* noun\n- musk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "musk"
-      }
-    ]
-  },
-  {
-    "word": "xạ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ballistic"
-      }
-    ]
-  },
-  {
-    "word": "xạ nhiệt kế siêu dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-superconductivity bolometer"
-      }
-    ]
-  },
-  {
-    "word": "xạ khí thori",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-thorium emanation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-radium emanation"
       }
     ]
   },
@@ -121,6 +39,155 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "fire, shoot"
+      }
+    ]
+  },
+  {
+    "word": "xạ trị",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "điều trị bệnh [thường là ung thư] bằng phương pháp chiếu tia bức xạ [tia X, tia gamma, v.v.] đâm xuyên vào vùng gây bệnh\nVí dụ:\n- xạ trị ung thư vòm họng \n - máy xạ trị"
+      }
+    ]
+  },
+  {
+    "word": "xạ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xạ hương [nói tắt]\nVí dụ:\n- túi xạ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Xạ\n- Một tên gọi khác của dân tộc Giáy"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xạ\n*danh từ\n-(con xạ) chevrotain, muskdeer, musk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to shoot (arrows)"
+      }
+    ]
+  },
+  {
+    "word": "xạo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bậy bạ, không đứng đắn\nVí dụ:\n- đừng tin, hắn nói xạo đó"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xạo\n- tt. Nói không đúng sự thật, nói bậy bạ, hay xen vào nhiều chuyện: xạo hoài làm người ta ghét.. 2. Không ngay thẳng đàng hoàng: chơi xạo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xạo\n*adj\n-unreliable"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xạo\n* adj\n- unreliable"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unreliable"
+      }
+    ]
+  },
+  {
+    "word": "xạc xào",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như xào xạc\nVí dụ:\n- tiếng gió xạc xào"
+      }
+    ]
+  },
+  {
+    "word": "xạ ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-projective"
+      }
+    ]
+  },
+  {
+    "word": "xạ phang",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Xạ Phang\n- Tên gọi một nhóm nhỏ của dân tộc Hoa"
+      }
+    ]
+  },
+  {
+    "word": "xạ ảnh bội k",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-k-fold projective"
+      }
+    ]
+  },
+  {
+    "word": "xạ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ballistic"
+      }
+    ]
+  },
+  {
+    "word": "xạ năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiant energy"
+      }
+    ]
+  },
+  {
+    "word": "xạ quang kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-actinograph\n-actinometer"
+      }
+    ]
+  },
+  {
+    "word": "xạ lượng kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dosimeter\n-radiation dosimeter"
+      }
+    ]
+  },
+  {
+    "word": "xạ nhiệt kế siêu dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-superconductivity bolometer"
+      }
+    ]
+  },
+  {
+    "word": "xạc xài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xạc xài [xạc xài]\n-to be in rags and tatters"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be in rags and tatters"
       }
     ]
   },
@@ -154,103 +221,20 @@
     ]
   },
   {
+    "word": "xạ khí thori",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-thorium emanation"
+      }
+    ]
+  },
+  {
     "word": "xạ khí",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-active emanation\n@Lĩnh vực: điện lạnh\n-emanation"
-      }
-    ]
-  },
-  {
-    "word": "xạ phang",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Xạ Phang\n- Tên gọi một nhóm nhỏ của dân tộc Hoa"
-      }
-    ]
-  },
-  {
-    "word": "xạ ảnh bội k",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-k-fold projective"
-      }
-    ]
-  },
-  {
-    "word": "xạc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mắng gay gắt\nVí dụ:\n- chị ấy xạc cho hắn một trận"
-      }
-    ]
-  },
-  {
-    "word": "xạ lượng kế tia x",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-x-ray dosimeter"
-      }
-    ]
-  },
-  {
-    "word": "xạc xài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xạc xài [xạc xài]\n-to be in rags and tatters"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be in rags and tatters"
-      }
-    ]
-  },
-  {
-    "word": "xạc xào",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như xào xạc\nVí dụ:\n- tiếng gió xạc xào"
-      }
-    ]
-  },
-  {
-    "word": "xạo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bậy bạ, không đứng đắn\nVí dụ:\n- đừng tin, hắn nói xạo đó"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xạo\n- tt. Nói không đúng sự thật, nói bậy bạ, hay xen vào nhiều chuyện: xạo hoài làm người ta ghét.. 2. Không ngay thẳng đàng hoàng: chơi xạo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xạo\n*adj\n-unreliable"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xạo\n* adj\n- unreliable"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unreliable"
-      }
-    ]
-  },
-  {
-    "word": "xạ nhiệt kế bolomet",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bolometer"
       }
     ]
   },
@@ -264,11 +248,36 @@
     ]
   },
   {
-    "word": "xạ khí rađi",
+    "word": "xạ lượng kế tia x",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-radium emanation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-x-ray dosimeter"
+      }
+    ]
+  },
+  {
+    "word": "xạ hương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chất có mùi thơm của hươu xạ và một số loài cầy tiết ra, dùng làm hương liệu hoặc làm thuốc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xạ hương\n- d. Chất có mùi thơm của hươu xạ và một số loài cầy tiết ra, dùng làm nước hoa, làm thuốc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xạ hương\n*noun\n-musk"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xạ hương\n* noun\n- musk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "musk"
       }
     ]
   },
@@ -282,29 +291,20 @@
     ]
   },
   {
-    "word": "xạ ảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-projective"
-      }
-    ]
-  },
-  {
-    "word": "xạ quang kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-actinograph\n-actinometer"
-      }
-    ]
-  },
-  {
     "word": "xạ hương tự nhiên",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-natural musk"
+      }
+    ]
+  },
+  {
+    "word": "xạc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mắng gay gắt\nVí dụ:\n- chị ấy xạc cho hắn một trận"
       }
     ]
   }

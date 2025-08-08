@@ -1,39 +1,5 @@
 [
   {
-    "word": "hử",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như hả\nVí dụ:\n- sao thế hử? \n - lại còn cãi hử?"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hử\n- th. X. Hở: Có đi không hử?"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hử\n-như hở\n=Làm gì mà ầm lên thế hử?\n+Why on earth are you making so much noise?"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hử\n- như hở\n=Làm gì mà ầm lên thế hử?+Why on earth are you making so much noise?"
-      }
-    ]
-  },
-  {
-    "word": "hửng sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hửng sáng [hửng sáng]\n-dawn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dawn"
-      }
-    ]
-  },
-  {
     "word": "hửng",
     "definitions": [
       {
@@ -68,6 +34,40 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "the sun begins to appear, sunny"
+      }
+    ]
+  },
+  {
+    "word": "hửng sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hửng sáng [hửng sáng]\n-dawn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dawn"
+      }
+    ]
+  },
+  {
+    "word": "hử",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như hả\nVí dụ:\n- sao thế hử? \n - lại còn cãi hử?"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hử\n- th. X. Hở: Có đi không hử?"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hử\n-như hở\n=Làm gì mà ầm lên thế hử?\n+Why on earth are you making so much noise?"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hử\n- như hở\n=Làm gì mà ầm lên thế hử?+Why on earth are you making so much noise?"
       }
     ]
   }

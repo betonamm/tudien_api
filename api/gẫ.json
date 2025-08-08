@@ -1,10 +1,14 @@
 [
   {
-    "word": "gẫy xương sườn",
+    "word": "gẫy",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-broken"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to break a rib"
+        "dict_definition": "to break, be broken (stick-like object)"
       }
     ]
   },
@@ -30,19 +34,6 @@
     ]
   },
   {
-    "word": "gẫy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-broken"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to break, be broken (stick-like object)"
-      }
-    ]
-  },
-  {
     "word": "gẫu",
     "definitions": [
       {
@@ -60,6 +51,15 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@gẫu\n- Idle, aimless\n=Đi chơi gẫu+To wander aimlessly\n=Ngồi không tán gẫu+To talk idly in one's leisure"
+      }
+    ]
+  },
+  {
+    "word": "gẫy xương sườn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to break a rib"
       }
     ]
   }

@@ -1,24 +1,16 @@
 [
   {
-    "word": "em be mập nhưng thịt nhẽo",
+    "word": "em bé múp míp",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "the baby is plump but flabby"
+        "dict_definition": "a very chubby baby"
       }
     ]
   },
   {
-    "word": "em trai",
+    "word": "em giai",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "em ruột, thuộc nam giới, phân biệt với em họ, em rể"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@em trai [em trai]\n-younger brother"
-      },
       {
         "dict_name": "VNEDICT",
         "dict_definition": "younger brother"
@@ -26,11 +18,105 @@
     ]
   },
   {
-    "word": "em bồi",
+    "word": "em rể",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@em rể\n- Chồng của em gái."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@em rể\n-Brother-in-law (one\"s younger sister\"s husband)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@em rể\n- Brother-in-law (one's younger sister's husband)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "brother in law (younger sister’s husband)"
+      }
+    ]
+  },
+  {
+    "word": "emetine",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "một loại alkaloid, dùng làm thuốc chữa lị amib"
+      }
+    ]
+  },
+  {
+    "word": "em gái",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "em ruột, thuộc nữ giới, phân biệt với em họ, em dâu\nVí dụ:\n- cô em gái \n - quý em dâu như em gái"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@em gái\n- dt. Người phụ nữ là em của mình hay của một người khác: Cô ấy là em gái bạn tôi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@em gái\n*noun\n-younger sister"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@em gái\n* noun\n- younger sister"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "younger sister"
+      }
+    ]
+  },
+  {
+    "word": "emmonxit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emmonsite"
+      }
+    ]
+  },
+  {
+    "word": "em bé chạy nhon nhỏn",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "waitress, female server"
+        "dict_definition": "the little child ran light-footedly"
+      }
+    ]
+  },
+  {
+    "word": "em em",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "suýt soát, không chênh lệch bao nhiêu\nVí dụ:\n- hai đứa tuổi cũng em em nhau \n - mới đó mà cũng em em hai năm rồi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@em em\n- Bé hơn một tí: Cái độc bình kia cũng em em cái độc bình này."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@em em\n-A little smaller\n=Cái lọ hoa kia cũng em em cái này\n+That flower-vase is a little smaller than this one"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@em em\n- A little smaller\n=Cái lọ hoa kia cũng em em cái này+That flower-vase is a little smaller than this one"
+      }
+    ]
+  },
+  {
+    "word": "embolit (bạc clorua-bromua)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-embolite"
       }
     ]
   },
@@ -52,20 +138,58 @@
     ]
   },
   {
-    "word": "emitơ",
+    "word": "em dâu",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@em dâu\n- Vợ của em trai."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-emitter"
+        "dict_definition": "@em dâu\n*noun\n-sister-in-law"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@em dâu\n* noun\n- sister-in-law"
       }
     ]
   },
   {
-    "word": "em giai",
+    "word": "em ruột",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@em ruột [em ruột]\n-full brother/sister"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "full brother or sister"
+      }
+    ]
+  },
+  {
+    "word": "em trai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "em ruột, thuộc nam giới, phân biệt với em họ, em rể"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@em trai [em trai]\n-younger brother"
+      },
       {
         "dict_name": "VNEDICT",
         "dict_definition": "younger brother"
+      }
+    ]
+  },
+  {
+    "word": "emođin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emodic\n-emodin"
       }
     ]
   },
@@ -91,33 +215,50 @@
     ]
   },
   {
-    "word": "em yêu anh",
+    "word": "emitơ của tranzito",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I love you"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transistor emitter"
       }
     ]
   },
   {
-    "word": "emođin",
+    "word": "em họ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emodic\n-emodin"
-      }
-    ]
-  },
-  {
-    "word": "em ruột",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@em họ\n- dt. Con cái của những người có quan hệ họ hàng, nhưng thuộc bậc dưới với bố mẹ mình: Cô ta là em họ nhưng chúng tôi xem như là em ruột."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@em ruột [em ruột]\n-full brother/sister"
+        "dict_definition": "@em họ\n*noun\n-cousin"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@em họ\n* noun\n- cousin"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "full brother or sister"
+        "dict_definition": "cousin (child of a parent’s younger sibling)"
+      }
+    ]
+  },
+  {
+    "word": "emprexit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-empressite"
+      }
+    ]
+  },
+  {
+    "word": "em bồi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "waitress, female server"
       }
     ]
   },
@@ -131,28 +272,11 @@
     ]
   },
   {
-    "word": "em dâu",
+    "word": "emmerot phương đông",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@em dâu\n- Vợ của em trai."
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@em dâu\n*noun\n-sister-in-law"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@em dâu\n* noun\n- sister-in-law"
-      }
-    ]
-  },
-  {
-    "word": "em bé múp míp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a very chubby baby"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oriental emerald"
       }
     ]
   },
@@ -194,49 +318,55 @@
     ]
   },
   {
-    "word": "emetine",
+    "word": "em vợ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "một loại alkaloid, dùng làm thuốc chữa lị amib"
+        "dict_name": "SPDict",
+        "dict_definition": "@em vợ\n-Brother-in-law, sister-in-law (one\"s wife\"s younger sibling)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@em vợ\n- Brother-in-law, sister-in-law (one's wife's younger sibling)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "brother-in-law, sister-in-law (one’s wife’s younger sibling)"
       }
     ]
   },
   {
-    "word": "em rể",
+    "word": "emerot",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@em rể\n- Chồng của em gái."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@em rể\n-Brother-in-law (one\"s younger sister\"s husband)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@em rể\n- Brother-in-law (one's younger sister's husband)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "brother in law (younger sister’s husband)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emerald"
       }
     ]
   },
   {
-    "word": "em bé",
+    "word": "em ngủ dậy lúc mấy giờ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@em bé\n-Baby"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@em bé\n- Baby"
-      },
+        "dict_name": "VNEDICT",
+        "dict_definition": "when did you get up, wake up?"
+      }
+    ]
+  },
+  {
+    "word": "em be mập nhưng thịt nhẽo",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "baby"
+        "dict_definition": "the baby is plump but flabby"
+      }
+    ]
+  },
+  {
+    "word": "em đâu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sister in law (younger brother’s wife)"
       }
     ]
   },
@@ -278,11 +408,37 @@
     ]
   },
   {
-    "word": "emerot",
+    "word": "emitơ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emerald"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-emitter"
+      }
+    ]
+  },
+  {
+    "word": "em yêu anh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I love you"
+      }
+    ]
+  },
+  {
+    "word": "em bé",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@em bé\n-Baby"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@em bé\n- Baby"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "baby"
       }
     ]
   },
@@ -292,162 +448,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emodin"
-      }
-    ]
-  },
-  {
-    "word": "em em",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "suýt soát, không chênh lệch bao nhiêu\nVí dụ:\n- hai đứa tuổi cũng em em nhau \n - mới đó mà cũng em em hai năm rồi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@em em\n- Bé hơn một tí: Cái độc bình kia cũng em em cái độc bình này."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@em em\n-A little smaller\n=Cái lọ hoa kia cũng em em cái này\n+That flower-vase is a little smaller than this one"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@em em\n- A little smaller\n=Cái lọ hoa kia cũng em em cái này+That flower-vase is a little smaller than this one"
-      }
-    ]
-  },
-  {
-    "word": "em họ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@em họ\n- dt. Con cái của những người có quan hệ họ hàng, nhưng thuộc bậc dưới với bố mẹ mình: Cô ta là em họ nhưng chúng tôi xem như là em ruột."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@em họ\n*noun\n-cousin"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@em họ\n* noun\n- cousin"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cousin (child of a parent’s younger sibling)"
-      }
-    ]
-  },
-  {
-    "word": "em ngủ dậy lúc mấy giờ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "when did you get up, wake up?"
-      }
-    ]
-  },
-  {
-    "word": "em vợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@em vợ\n-Brother-in-law, sister-in-law (one\"s wife\"s younger sibling)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@em vợ\n- Brother-in-law, sister-in-law (one's wife's younger sibling)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "brother-in-law, sister-in-law (one’s wife’s younger sibling)"
-      }
-    ]
-  },
-  {
-    "word": "em đâu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sister in law (younger brother’s wife)"
-      }
-    ]
-  },
-  {
-    "word": "embolit (bạc clorua-bromua)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-embolite"
-      }
-    ]
-  },
-  {
-    "word": "emmonxit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emmonsite"
-      }
-    ]
-  },
-  {
-    "word": "em bé chạy nhon nhỏn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the little child ran light-footedly"
-      }
-    ]
-  },
-  {
-    "word": "emitơ của tranzito",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transistor emitter"
-      }
-    ]
-  },
-  {
-    "word": "emmerot phương đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oriental emerald"
-      }
-    ]
-  },
-  {
-    "word": "em gái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "em ruột, thuộc nữ giới, phân biệt với em họ, em dâu\nVí dụ:\n- cô em gái \n - quý em dâu như em gái"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@em gái\n- dt. Người phụ nữ là em của mình hay của một người khác: Cô ấy là em gái bạn tôi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@em gái\n*noun\n-younger sister"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@em gái\n* noun\n- younger sister"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "younger sister"
-      }
-    ]
-  },
-  {
-    "word": "emprexit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-empressite"
       }
     ]
   }

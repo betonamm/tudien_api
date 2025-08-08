@@ -1,26 +1,31 @@
 [
   {
-    "word": "rặng",
+    "word": "rặm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp nhiều vật cùng loại [thường là cây hoặc núi] đứng tiếp liền nhau thành dãy dài\nVí dụ:\n- rặng tre \n - mặt trời dần dần khuất sau rặng núi"
+        "dict_definition": "xem nhặm"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rặng\n- dt Dãy dài gồm nhiều vật cùng loại nối tiếp nhau: Giữa trời đứng sững rặng thông reo (Bùi Kỉ); Cả bọn đã khuất sau một rặng núi (NgHTưởng)."
+        "dict_definition": "@rặm\n- t. Hơi chói và khó chịu như có cái gì đâm khẽ vào da: Quạt thóc xong thấy rặm người; Rặm mắt."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rặng\n*noun\n-chain; line; row\n=rặng cây\n+row of trees"
+        "dict_definition": "@rặm\n-như nhặm"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rặng\n* noun\n- chain; line; row\n=rặng cây+row of trees"
-      },
+        "dict_definition": "@rặm\n- như nhặm"
+      }
+    ]
+  },
+  {
+    "word": "rặn đẻ",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "row, range, chain, line"
+        "dict_definition": "labor in delivery"
       }
     ]
   },
@@ -46,41 +51,27 @@
     ]
   },
   {
-    "word": "rặn đẻ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "labor in delivery"
-      }
-    ]
-  },
-  {
-    "word": "rặm",
+    "word": "rặng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhặm"
+        "dict_definition": "tập hợp nhiều vật cùng loại [thường là cây hoặc núi] đứng tiếp liền nhau thành dãy dài\nVí dụ:\n- rặng tre \n - mặt trời dần dần khuất sau rặng núi"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rặm\n- t. Hơi chói và khó chịu như có cái gì đâm khẽ vào da: Quạt thóc xong thấy rặm người; Rặm mắt."
+        "dict_definition": "@rặng\n- dt Dãy dài gồm nhiều vật cùng loại nối tiếp nhau: Giữa trời đứng sững rặng thông reo (Bùi Kỉ); Cả bọn đã khuất sau một rặng núi (NgHTưởng)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rặm\n-như nhặm"
+        "dict_definition": "@rặng\n*noun\n-chain; line; row\n=rặng cây\n+row of trees"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rặm\n- như nhặm"
-      }
-    ]
-  },
-  {
-    "word": "rặng san hô",
-    "definitions": [
+        "dict_definition": "@rặng\n* noun\n- chain; line; row\n=rặng cây+row of trees"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-coral reef"
+        "dict_name": "VNEDICT",
+        "dict_definition": "row, range, chain, line"
       }
     ]
   },
@@ -114,19 +105,6 @@
     ]
   },
   {
-    "word": "rặng núi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mountain chain"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mountain range"
-      }
-    ]
-  },
-  {
     "word": "rặc",
     "definitions": [
       {
@@ -144,6 +122,28 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@rặc\n- Ebb\n=Nước rặc+The tide ebbed"
+      }
+    ]
+  },
+  {
+    "word": "rặng san hô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-coral reef"
+      }
+    ]
+  },
+  {
+    "word": "rặng núi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mountain chain"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mountain range"
       }
     ]
   }

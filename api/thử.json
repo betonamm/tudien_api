@@ -1,64 +1,217 @@
 [
   {
-    "word": "thử mạch",
+    "word": "thử chịu rung",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-circuit testing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-vibration test"
       }
     ]
   },
   {
-    "word": "thử nghiệm thông thường",
+    "word": "thử phát nóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-routine test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-temperature-rise test"
       }
     ]
   },
   {
-    "word": "thử độ miễn cảm",
+    "word": "thử công suất khởi động bằng không",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-immunity test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-start-up zero power test"
       }
     ]
   },
   {
-    "word": "thử nghiệm tính năng",
+    "word": "thử vị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-performance test"
+        "dict_definition": "@Chuyên ngành kinh tế\n-degust"
       }
     ]
   },
   {
-    "word": "thử nghiệm dick về tính nhạy cảm",
+    "word": "thử bộ chỉnh áp chịu tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dick test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-test on on-load tap-changer"
       }
     ]
   },
   {
-    "word": "thử nghiệm hàng loạt",
+    "word": "thử độ bền chọc thủng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-duplicate test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-puncture-withstand test"
       }
     ]
   },
   {
-    "word": "thử nghiệm tâm lý",
+    "word": "thử ghép nối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-psychological test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-joint test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ lắng của carbon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-carbon residue test"
+      }
+    ]
+  },
+  {
+    "word": "thử vận hành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-operational test"
+      }
+    ]
+  },
+  {
+    "word": "thử đương lượng cát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sand equivalent test"
+      }
+    ]
+  },
+  {
+    "word": "thử nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-burn-in\n-burn-in test\n-hot test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm dị ứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-allergy test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm cơ học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-mechanical test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm chấp nhận được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-acceptance test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm và đánh giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-test & evaluation"
+      }
+    ]
+  },
+  {
+    "word": "thử áp dụng một kế hoạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-test out a scheme\n-test out a scheme (to...)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mù đôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-double blind trial"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mạch vòng murray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Murray loop test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm nguyên tử",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nuclear test"
+      }
+    ]
+  },
+  {
+    "word": "thử nhiệm quá điện áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-overvoltage test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tính phù hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Conformance Test (ATM) (CT)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm làm chậm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-retardation test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thiết bị điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electrical equipment test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm hủy hoại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defacement test\n-degradation test"
       }
     ]
   },
@@ -72,38 +225,212 @@
     ]
   },
   {
-    "word": "thử nghiệm độ mỏi",
+    "word": "thử nghiệm bán phân hủy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fatigue impact"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semidestructive examination"
       }
     ]
   },
   {
-    "word": "thử phóng leo trong môi trường ướt",
+    "word": "thử xé rách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for wet arc tracking resistance"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tearing test"
       }
     ]
   },
   {
-    "word": "thử momen chịu uốn",
+    "word": "thử hiện trường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for cantilever strength"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-field test"
       }
     ]
   },
   {
-    "word": "thử mạch hở và mạch kín",
+    "word": "thử điểm định chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open and closed test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-benchmark"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tập dợt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-exercise test"
+      }
+    ]
+  },
+  {
+    "word": "thử ô nhiễm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pollution test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm lắng kết melanin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-melanoprecipitation"
+      }
+    ]
+  },
+  {
+    "word": "thử thuật cắt bỏ tử cung gần hoàn toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subtotal hysterectomy"
+      }
+    ]
+  },
+  {
+    "word": "thửa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ dùng để chỉ từng đơn vị mảnh ruộng, đất có diện tích đáng kể và được giới hạn rõ ràng\nVí dụ:\n- thửa ruộng \n - thửa vườn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đặt làm một vật gì theo những yêu cầu riêng\nVí dụ:\n- thửa một con dao thật tốt để đi rừng \n - giày thửa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thửa\n- d. Khu đất trồng trọt: Thửa ruộng; Thửa vườn.\n- đg. Đặt làm tại một cửa hàng một vật gì theo ý mình: Thửa một đôi giày."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thửa\n*danh từ\n-classifier for gardens, fields, pilot, order*động từ\n-to order, (of dress, shoes) to measure"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mồ hôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sweat test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm động học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dynamic test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm nén",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-compression test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm dùng máy tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-computer-assisted testing (CAT)"
+      }
+    ]
+  },
+  {
+    "word": "thử định kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-routine test"
+      }
+    ]
+  },
+  {
+    "word": "thử quá tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-overload test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm chịu đựng (bền)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-withstand test"
+      }
+    ]
+  },
+  {
+    "word": "thử uốn nguội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cold bend test\n-doubling-over test"
+      }
+    ]
+  },
+  {
+    "word": "thử chương trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-program test\n@Lĩnh vực: toán & tin\n-program testing"
+      }
+    ]
+  },
+  {
+    "word": "thử tải tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-static load test"
+      }
+    ]
+  },
+  {
+    "word": "thử bã dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cake test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm vi ngưng kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-microprecipitatlon test"
+      }
+    ]
+  },
+  {
+    "word": "thử tại nhà máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-factory tests"
       }
     ]
   },
@@ -117,29 +444,20 @@
     ]
   },
   {
-    "word": "thử chịu ướt",
+    "word": "thử thủy lực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wet test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hydraulic test"
       }
     ]
   },
   {
-    "word": "thử nghiệm quay (của bộ số công tơ)",
+    "word": "thử nghiệm tính năng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-spinning test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm với ôxy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-test with oxygen"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-performance test"
       }
     ]
   },
@@ -153,6 +471,609 @@
     ]
   },
   {
+    "word": "thử nghiệm phức hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-composite test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm (từng) đơn vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-unit testing"
+      }
+    ]
+  },
+  {
+    "word": "thử bổ sung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-complementation test"
+      }
+    ]
+  },
+  {
+    "word": "thử ngắn mạch hồ quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-arc short-circuit test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cooling test\n-refrigeration test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm theo qui định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-authoritative test"
+      }
+    ]
+  },
+  {
+    "word": "thử ngẫu nhiên có kiểm soát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-randomized controled trial"
+      }
+    ]
+  },
+  {
+    "word": "thử biến đổi nhiệt độ đột ngột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thermal shock test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tiếp thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-test marketing"
+      }
+    ]
+  },
+  {
+    "word": "thử mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-circuit testing"
+      }
+    ]
+  },
+  {
+    "word": "thử thống kê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-statistic test\n@Lĩnh vực: hóa học & vật liệu\n-statistical test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm đặc biệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-special test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mù",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blind trial"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thực địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-field test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm nội dung quảng cáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-copy testing"
+      }
+    ]
+  },
+  {
+    "word": "thử môi trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-environment testing"
+      }
+    ]
+  },
+  {
+    "word": "thử đẳng nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-isothermal test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm phối hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-combine test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm sản xuất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-production test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tại hiện trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-field test\n@Lĩnh vực: điện tử & viễn thông\n-Field Test (FT)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm gối đầu wenner",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Werren overlap test"
+      }
+    ]
+  },
+  {
+    "word": "thử tĩnh lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-static test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm che mắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-covertest"
+      }
+    ]
+  },
+  {
+    "word": "thử điện áp dư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-residual voltage test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tần biên amazon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Amazon Boundary Layer Experiment (ABLE)"
+      }
+    ]
+  },
+  {
+    "word": "thử chịu tia cực tím",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for ultraviolet withstand"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm áp suất thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low pressure test"
+      }
+    ]
+  },
+  {
+    "word": "thử chủ quan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-subjective test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thay đổi nhiệt độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-test of change of temperature"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm cađimi (cd)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cadmium test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm phản hồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-back-to-back test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm sàng lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-screening test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm để chấp nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-acceptance trials"
+      }
+    ]
+  },
+  {
+    "word": "thử (chịu) ngắn mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-short-circuit withstand test"
+      }
+    ]
+  },
+  {
+    "word": "thử ngắn mạch dự phòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-forward short-circuit test"
+      }
+    ]
+  },
+  {
+    "word": "thử mạch vòng khép kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Closed Loop Test (CLT)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm theo mạch vòng allen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-All\"s loop test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm áp suất bom",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bomb pressure test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm đột biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-surge test"
+      }
+    ]
+  },
+  {
+    "word": "thử quá điện áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-overvoltage test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ bền vững",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-withstand test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm khả năng hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-solderability test"
+      }
+    ]
+  },
+  {
+    "word": "thử hàm lượng cacbon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-carbon test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm dick về tính nhạy cảm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dick test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm dung nạp glucose (dùng trong chần đoán đái tháo đường)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-glucose tolerance test"
+      }
+    ]
+  },
+  {
+    "word": "thửa (đất)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lot\n-parcel"
+      }
+    ]
+  },
+  {
+    "word": "thử sai số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-error test"
+      }
+    ]
+  },
+  {
+    "word": "thửa đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-parcel of land"
+      }
+    ]
+  },
+  {
+    "word": "thử chứng minh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-proof test"
+      }
+    ]
+  },
+  {
+    "word": "thử uốn cong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bending test"
+      }
+    ]
+  },
+  {
+    "word": "thử ô nhiễm nhân tạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-artificial pollution test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm trên biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sea trials"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm sóng xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-impulse test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm kết cấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-structural testing"
+      }
+    ]
+  },
+  {
+    "word": "thử độ chính xác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-accuracy test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm điện áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-voltage test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ chói sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sunbeam test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm môt sản phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-test-market a product (to...)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm độ kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sealing test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm queckensted thủ pháp chọc đốt sống thắt lưng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Queckensted test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm (bọt) xà phòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-soap (-and-bubble) test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm giữa vòng dây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-turn-to-turn test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm so sánh độ chiếu sáng của sao và mặt trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Solar Stellar Irradiance Comparison Experiment (SOLSTICE)"
+      }
+    ]
+  },
+  {
+    "word": "thử logic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-logic test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm kết đông-xả đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-thaw test\n-freezing and thawing test"
+      }
+    ]
+  },
+  {
+    "word": "thử vật nặng rơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-drop test\n-falling-weight test"
+      }
+    ]
+  },
+  {
+    "word": "thử đập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hammer test"
+      }
+    ]
+  },
+  {
     "word": "thử proctor",
     "definitions": [
       {
@@ -162,20 +1083,591 @@
     ]
   },
   {
-    "word": "thử nghiệm âm thanh theo thực tế",
+    "word": "thử nghiệm giả ngẫu nhiên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Realistic Sound Experience (RSX)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pseudo-random test sequence"
       }
     ]
   },
   {
-    "word": "thử nghiệm tính bở hồng cầu",
+    "word": "thử kiềm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-erythrocyte fragility test"
+        "dict_definition": "@Chuyên ngành kinh tế\n-lixiviate"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm lên bông melanin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-melanoflocculation"
+      }
+    ]
+  },
+  {
+    "word": "thửa nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-watery"
+      }
+    ]
+  },
+  {
+    "word": "thử chịu động đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-seismic test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm điện môi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dielectric test\n-voltage test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm trên đường (cho xe cộ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-road test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm công nghệ lidar trong vũ trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Lidar In-space Technology Experiment (LITE)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm để xác định sự mẫn cảm với bệnh bạch hầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chick"
+      }
+    ]
+  },
+  {
+    "word": "thử phóng leo trong môi trường ướt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for wet arc tracking resistance"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thông thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-routine test"
+      }
+    ]
+  },
+  {
+    "word": "thử sự đồng tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-homogeneity test"
+      }
+    ]
+  },
+  {
+    "word": "thử lưu huỳnh trong xăng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gasoline sulfur test"
+      }
+    ]
+  },
+  {
+    "word": "thử hiệu suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-efficiency test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm gán hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-projective test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm quỹ phát xạ trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Radiation Budget Experiment (ERBE)"
+      }
+    ]
+  },
+  {
+    "word": "thử chịu ướt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wet test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thủy tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hydrostatic test"
+      }
+    ]
+  },
+  {
+    "word": "thử rung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-vibration test"
+      }
+    ]
+  },
+  {
+    "word": "thử lại được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-velocitiable\n-verifiable"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thông lệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-routine test"
+      }
+    ]
+  },
+  {
+    "word": "thử động lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-dynamic test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm cấp nhà nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-state tests"
+      }
+    ]
+  },
+  {
+    "word": "thử cađimi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cadmium test"
+      }
+    ]
+  },
+  {
+    "word": "thử tuổi thọ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-life test"
+      }
+    ]
+  },
+  {
+    "word": "thử lòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thử lòng\n*động từ\n-try and find out what the feeling is, feel, put out feelders"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "try and find out what the feeling is, feel, put out feelers"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm đơn chiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-routine test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm bảo quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shelf test\n-storage test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mạch vòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-loop test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm sương muối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-salt mist test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm cholesterol huyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood cholesterol test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mức sản xuất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-productivity test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thời tiết gia tăng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated weathering test"
+      }
+    ]
+  },
+  {
+    "word": "thử chọn mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sampling test"
+      }
+    ]
+  },
+  {
+    "word": "thử ép nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hot-compression test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm rung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vibration test"
+      }
+    ]
+  },
+  {
+    "word": "thử trọng lượng rơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-drop test\n-falling-weight test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm băng dán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-patch test"
+      }
+    ]
+  },
+  {
+    "word": "thử thủ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thử Thủ\n- Đầu chuột\n- Thành ngữ Hán có câu: \"Thử thủ phấn sự\" (Đầu chuột hỏng việc), là lời châm biếm người không có tính quyết đoán\n- Lời chú sách \"Cố sự thành ngữ khảo\" nói: Con người ta xử sự công việc mà cứ như đầu chuột vốn có tính hay nghi và không quyết, cứ thò ra thụt vào ở cửa hang thì tất phải hỏng công việc"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm cháy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire-resistance test"
+      }
+    ]
+  },
+  {
+    "word": "thử phóng điện ướt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for wet arc tracking resistance"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mạch vòng varley",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Varley\"s loovartmeterp test"
+      }
+    ]
+  },
+  {
+    "word": "thử súng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to practice shooting"
+      }
+    ]
+  },
+  {
+    "word": "thử rây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm latex",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-latex - test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm xuống cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defacement test\n-degradation test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm islscp đầu tiên tại hiện trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-First ISLSCP Field Experiment (FIFE)"
+      }
+    ]
+  },
+  {
+    "word": "thử độ sụt hình nón",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slump test"
+      }
+    ]
+  },
+  {
+    "word": "thử phóng điện nội bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-internal arc test"
+      }
+    ]
+  },
+  {
+    "word": "thử trên bàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bench test"
+      }
+    ]
+  },
+  {
+    "word": "thử dòng điện rò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-leakage current test"
+      }
+    ]
+  },
+  {
+    "word": "thử phóng điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flashover test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm liên tưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-association test"
+      }
+    ]
+  },
+  {
+    "word": "thử chịu nhiễu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-disturbance test"
+      }
+    ]
+  },
+  {
+    "word": "thử tải mũi dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-launching nose loading test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ cứng sward",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sward hardness test\n-sward rocker hardness test"
+      }
+    ]
+  },
+  {
+    "word": "thử va đập của ray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-rail drop test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm độ bền cơ học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-mechanical robustness test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm phóng điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-service test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tảo bọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-foaming test"
+      }
+    ]
+  },
+  {
+    "word": "thử giới hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-marginal check\n-marginal test"
+      }
+    ]
+  },
+  {
+    "word": "thử gọi vào giờ cao điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-busy hour call attempts"
+      }
+    ]
+  },
+  {
+    "word": "thử xác suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sampling test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm điện trở đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-earth testing"
+      }
+    ]
+  },
+  {
+    "word": "thử đánh xuyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-breakdown test\n-disruptive test"
       }
     ]
   },
@@ -189,41 +1681,910 @@
     ]
   },
   {
-    "word": "thử lửa",
+    "word": "thử nghiệm ngắn mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-short-circuit test\n-short-circuit testing"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm cách điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-insulation test"
+      }
+    ]
+  },
+  {
+    "word": "thử và đo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Test and Measurement (T&M)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm độ mỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fatigue impact"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm dao động âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-acoustic vibration test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm gây cảm giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-organoleptic test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm quan hệ cha con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-paternity test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm, xét nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-test"
+      }
+    ]
+  },
+  {
+    "word": "thử mạch vòng hilborn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Hilborn loop test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm phun nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-water projection test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm hở và kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-open and closed test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ bốc cháy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-flammability test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm gót chân - khớp gối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heel-knee test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm russell",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-russell\"s test"
+      }
+    ]
+  },
+  {
+    "word": "thử ăn mòn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-corrosion test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm đến lúc phá hoại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-testing to failure"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm trên mô hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mode testing"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm độ bền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fatigue impact\n@Lĩnh vực: điện lạnh\n-strength test"
+      }
+    ]
+  },
+  {
+    "word": "thử phản hồi xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pulse reflection test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ bền cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-mechanical test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ rò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-leak test\n@Lĩnh vực: điện\n-leakage test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tia mặt trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sunbeam test\n-sunbrightness test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm rorschach",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Rorschach test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm va đập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-impact test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm chức năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-functional test"
+      }
+    ]
+  },
+  {
+    "word": "thử địa chỉ đúp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Duplicate Address Test (DAT)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm năng khiếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-aptitude test"
+      }
+    ]
+  },
+  {
+    "word": "thử điều kiện khí hậu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-climatic test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm một sản phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-testmarket a product"
+      }
+    ]
+  },
+  {
+    "word": "thử phát nóng khi xuất xưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-temperature-rise type test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tâm lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-psychological test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thêm khi đã hoàn thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Tests on Completion, further tests"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm kết đông-tan giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-thaw test\n-freezing and thawing test"
+      }
+    ]
+  },
+  {
+    "word": "thử chín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nine test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-retesting"
+      }
+    ]
+  },
+  {
+    "word": "thử màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-colorrabilly"
+      }
+    ]
+  },
+  {
+    "word": "thử (nghiệm) nghiệm thu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-acceptance test"
+      }
+    ]
+  },
+  {
+    "word": "thử gấp đôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-doubling-over test"
+      }
+    ]
+  },
+  {
+    "word": "thử kiến trúc hệ thống và độ tin cậy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Reliability and System Architecture Testing (RSAT)"
+      }
+    ]
+  },
+  {
+    "word": "thử vàng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to test for gold"
+      }
+    ]
+  },
+  {
+    "word": "thử làm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-essay"
+      }
+    ]
+  },
+  {
+    "word": "thử nếm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-taste"
+      }
+    ]
+  },
+  {
+    "word": "thử vỏ chữ t",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-T-peel test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm chu trình nóng ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-damp heat cyclic test"
+      }
+    ]
+  },
+  {
+    "word": "thử chưng cất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-distillation test"
+      }
+    ]
+  },
+  {
+    "word": "thử phóng điện từng phần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-partial discharge test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ cứng brinell",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Brinell hardness test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm gia tăng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated test"
+      }
+    ]
+  },
+  {
+    "word": "thử mạch hở và mạch kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open and closed test"
+      }
+    ]
+  },
+  {
+    "word": "thử hãm tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-handbrake test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm khối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-unit testing"
+      }
+    ]
+  },
+  {
+    "word": "thử độ kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sealing test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm nóng ẩm liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-damp heat steady state"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm bao bì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-package test"
+      }
+    ]
+  },
+  {
+    "word": "thử bằng phóng điện xung kích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shock discharge test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm phóng điện xung kích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-shock discharge test"
+      }
+    ]
+  },
+  {
+    "word": "thử (đặc tính) nhiệt đới hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-tropicalization test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thu thập ảnh số siêu phổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Hyperspectral Digital Imagery Collection Experiment (HYDICE)"
+      }
+    ]
+  },
+  {
+    "word": "thử chất lượng thiết kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Design Quality Test (DQT)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tỷ số khả năng tiền mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-liquid ratio test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm ngón đối ngón",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-finger-to-finger test"
+      }
+    ]
+  },
+  {
+    "word": "thử chịu ầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-humidity test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm hàng loạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-duplicate test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm ướt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wet test"
+      }
+    ]
+  },
+  {
+    "word": "thử phóng điện xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-impulse test\n-surge test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thanh thải creatinin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-creatinine clearance test"
+      }
+    ]
+  },
+  {
+    "word": "thử xe (mới)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-test drive a vehicle (to...)\n-test-drive a vehicle"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm hopkinson",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Hopkinson test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm nối đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-earth testing"
+      }
+    ]
+  },
+  {
+    "word": "thử chức năng chẩn đoán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diagnostic function test (DFT)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mô phỏng tia mặt trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-simulated solar radiation test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ miễn cảm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-immunity test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm bằng (mạch) vòng fisher",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Fisher loop test"
+      }
+    ]
+  },
+  {
+    "word": "thử sốc nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thermal shock test"
+      }
+    ]
+  },
+  {
+    "word": "thử martens",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Martens test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm huyết thanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-serum test"
+      }
+    ]
+  },
+  {
+    "word": "thử lõi bêtông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-core test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm dài hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-long-term test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm hãm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brake test\n-braking test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm nghe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hearing test"
+      }
+    ]
+  },
+  {
+    "word": "thử va đập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drop test\n-falling-weight test\n-impact test"
+      }
+    ]
+  },
+  {
+    "word": "thử tĩnh điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-static switch"
+      }
+    ]
+  },
+  {
+    "word": "thử (nghiệm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial\n-try"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm figlu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-figlutest"
+      }
+    ]
+  },
+  {
+    "word": "thử hỏi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đưa vào lửa để xem xét phẩm chất của vàng; thường dùng để ví sự thử thách khắc nghiệt qua khó khăn, nguy hiểm\nVí dụ:\n- qua thử lửa, người chiến sĩ đã trở nên vững vàng"
+        "dict_definition": "tổ hợp biểu thị ý nêu ra như muốn hỏi, nhằm để cho người đối thoại tự trả lời bằng phủ định, qua đó tự rút ra kết luận [như ý của người nói muốn nói]\nVí dụ:\n- làm ăn như thế, thử hỏi ai không tức?"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thử lửa\n- Xem tốt hay xấu qua thử thách: Thử vàng chẳng phải thua đâu, Đừng đem thử lửa mà mà đau lòng vàng (cd)."
-      },
+        "dict_definition": "@thử hỏi\n- Xét xem: Làm như thế thử hỏi có đúng không."
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm mối hàn",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thử lửa\n*động từ\n-essay"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-soldering test\n-welding test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm trên quỹ đạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-in orbit test-IOT"
+      }
+    ]
+  },
+  {
+    "word": "thử sức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thử sức [thử sức]\n-to test/try the strength of ..."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "essay"
+        "dict_definition": "to test or try the strength of"
       }
     ]
   },
   {
-    "word": "thử phóng điện tĩnh điện",
+    "word": "thử nghiệm mạch vòng fisher",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electrostatic discharge test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Fisher loop test"
       }
     ]
   },
   {
-    "word": "thử độ rung",
+    "word": "thử tạo thành bùn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-vibration test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sludge formation test"
+      }
+    ]
+  },
+  {
+    "word": "thử điện áp xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-impulse test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm tương hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-compatibility test"
+      }
+    ]
+  },
+  {
+    "word": "thử phát nhiệt ban đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-preheating test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm phần cuối (urani) thiên nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tail assay"
+      }
+    ]
+  },
+  {
+    "word": "thử dùng cuộn dò tìm (tìm chỗ hỏng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-search-coil test"
+      }
+    ]
+  },
+  {
+    "word": "thử (bằng cách) nhuộmq",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dye test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ cứng dùng bi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ball test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm philipp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Philipp test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm và sai lầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial and error"
+      }
+    ]
+  },
+  {
+    "word": "thử kiểm tra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-control assay"
       }
     ]
   },
@@ -261,1743 +2622,20 @@
     ]
   },
   {
-    "word": "thử nghiệm mạch vòng",
+    "word": "thử phần mềm nhờ máy tính",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-loop test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Computer Aided Software Testing (CAST)"
       }
     ]
   },
   {
-    "word": "thử thường lệ",
+    "word": "thử nghiệm lọc phân tử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-routine test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mù",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blind trial"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mô phỏng tia mặt trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-simulated solar radiation test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm trên quỹ đạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-in orbit test-IOT"
-      }
-    ]
-  },
-  {
-    "word": "thử phóng điện từng phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-partial discharge test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm phóng điện xung kích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-shock discharge test"
-      }
-    ]
-  },
-  {
-    "word": "thử điểm định chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-benchmark"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm field",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Field\"s test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm chịu tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-load test"
-      }
-    ]
-  },
-  {
-    "word": "thử điều kiện khí hậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-climatic test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-impulse test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm lắng kết melanin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-melanoprecipitation"
-      }
-    ]
-  },
-  {
-    "word": "thử kéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-compression testing\n-tension"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm nội dung quảng cáo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-copy testing"
-      }
-    ]
-  },
-  {
-    "word": "thử hiện trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-field test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm môt sản phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-test-market a product (to...)"
-      }
-    ]
-  },
-  {
-    "word": "thử biến đổi nhiệt độ đột ngột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thermal shock test"
-      }
-    ]
-  },
-  {
-    "word": "thử dài hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-long-term test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm kết đông-xả đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-thaw test\n-freezing and thawing test"
-      }
-    ]
-  },
-  {
-    "word": "thử chủ quan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-subjective test"
-      }
-    ]
-  },
-  {
-    "word": "thử thủ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thử Thủ\n- Đầu chuột\n- Thành ngữ Hán có câu: \"Thử thủ phấn sự\" (Đầu chuột hỏng việc), là lời châm biếm người không có tính quyết đoán\n- Lời chú sách \"Cố sự thành ngữ khảo\" nói: Con người ta xử sự công việc mà cứ như đầu chuột vốn có tính hay nghi và không quyết, cứ thò ra thụt vào ở cửa hang thì tất phải hỏng công việc"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm hở và kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-open and closed test"
-      }
-    ]
-  },
-  {
-    "word": "thử chọn mẫu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sampling test"
-      }
-    ]
-  },
-  {
-    "word": "thử kiềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lixiviate"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm đột biến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-surge test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm chức năng gan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hepatic function test"
-      }
-    ]
-  },
-  {
-    "word": "thử máu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "blood test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm bảo quản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shelf test\n-storage test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm nhiệt đới hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tropic proofing test\n-tropicalization test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm ba cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-three-glass test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thời tiết gia tăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated weathering test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm cholesterol huyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood cholesterol test"
-      }
-    ]
-  },
-  {
-    "word": "thử quặng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ore assaying\n-ore testing"
-      }
-    ]
-  },
-  {
-    "word": "thử chất lượng thiết kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Design Quality Test (DQT)"
-      }
-    ]
-  },
-  {
-    "word": "thử tĩnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-static test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm gia tăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated test"
-      }
-    ]
-  },
-  {
-    "word": "thử đánh thủng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flash test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm độ kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sealing test"
-      }
-    ]
-  },
-  {
-    "word": "thử lưu huỳnh trong xăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gasoline sulfur test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm dị ứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-allergy test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm phản hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-back-to-back test"
-      }
-    ]
-  },
-  {
-    "word": "thử quá tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-overload test"
-      }
-    ]
-  },
-  {
-    "word": "thử phát nhiệt ban đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-preheating test"
-      }
-    ]
-  },
-  {
-    "word": "thử ô nhiễm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pollution test"
-      }
-    ]
-  },
-  {
-    "word": "thử đương lượng cát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sand equivalent test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm làm chậm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-retardation test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm kết đông-tan giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-thaw test\n-freezing and thawing test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm áp suất bom",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bomb pressure test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm với cọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mối hàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-soldering test\n-welding test"
-      }
-    ]
-  },
-  {
-    "word": "thử môi trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-environment testing"
-      }
-    ]
-  },
-  {
-    "word": "thử gập nguội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cold bend test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm, xét nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm bằng (mạch) vòng fisher",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Fisher loop test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm nóng khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry heat test"
-      }
-    ]
-  },
-  {
-    "word": "thử xé rách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tearing test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mù đôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-double blind trial"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm cơ học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-mechanical test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm lặp lại áp suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pressure built up test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm sương muối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-salt mist test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm phức hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-composite test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm vận hành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-service test"
-      }
-    ]
-  },
-  {
-    "word": "thử thống kê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-statistic test\n@Lĩnh vực: hóa học & vật liệu\n-statistical test"
-      }
-    ]
-  },
-  {
-    "word": "thử kiến trúc hệ thống và độ tin cậy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Reliability and System Architecture Testing (RSAT)"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm điện áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-voltage test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm theo qui định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-authoritative test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm rorschach",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Rorschach test"
-      }
-    ]
-  },
-  {
-    "word": "thử ngắn mạch dự phòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-forward short-circuit test"
-      }
-    ]
-  },
-  {
-    "word": "thử vật nặng rơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-drop test\n-falling-weight test"
-      }
-    ]
-  },
-  {
-    "word": "thử (nghiệm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial\n-try"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm chu trình nóng ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-damp heat cyclic test"
-      }
-    ]
-  },
-  {
-    "word": "thử áp suất nước bề mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water pressure test for blanket hole"
-      }
-    ]
-  },
-  {
-    "word": "thử tại nhà máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-factory tests"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-acceptance test\n@Lĩnh vực: giao thông & vận tải\n-acceptance trials"
-      }
-    ]
-  },
-  {
-    "word": "thử độ bền cách điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-insulation test"
-      }
-    ]
-  },
-  {
-    "word": "thử dòng điện rò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-leakage current test"
-      }
-    ]
-  },
-  {
-    "word": "thử thủy lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hydraulic test"
-      }
-    ]
-  },
-  {
-    "word": "thử đập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hammer test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm với ozon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-test with ozone"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm phóng điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-service test"
-      }
-    ]
-  },
-  {
-    "word": "thử gọi vào giờ cao điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-busy hour call attempts"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm giữa vòng dây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-turn-to-turn test"
-      }
-    ]
-  },
-  {
-    "word": "thử độ lắng của carbon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-carbon residue test"
-      }
-    ]
-  },
-  {
-    "word": "thử vận hành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-operational test"
-      }
-    ]
-  },
-  {
-    "word": "thử giới hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-marginal check\n-marginal test"
-      }
-    ]
-  },
-  {
-    "word": "thử va đập của ray",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-rail drop test"
-      }
-    ]
-  },
-  {
-    "word": "thửa (đất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lot\n-parcel"
-      }
-    ]
-  },
-  {
-    "word": "thử phóng điện nội bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-internal arc test"
-      }
-    ]
-  },
-  {
-    "word": "thử nếm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-taste"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm rung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vibration test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-dry test"
-      }
-    ]
-  },
-  {
-    "word": "thử áp dụng một kế hoạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-test out a scheme\n-test out a scheme (to...)"
-      }
-    ]
-  },
-  {
-    "word": "thử mạch vòng hilborn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Hilborn loop test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm nghe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hearing test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm phối hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-combine test"
-      }
-    ]
-  },
-  {
-    "word": "thử xe (mới)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-test drive a vehicle (to...)\n-test-drive a vehicle"
-      }
-    ]
-  },
-  {
-    "word": "thử chịu tia cực tím",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for ultraviolet withstand"
-      }
-    ]
-  },
-  {
-    "word": "thử tải tĩnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-static load test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm khả năng hàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-solderability test"
-      }
-    ]
-  },
-  {
-    "word": "thử chức năng chẩn đoán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diagnostic function test (DFT)"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm latex",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-latex - test"
-      }
-    ]
-  },
-  {
-    "word": "thử martens",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Martens test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm và sai lầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial and error"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm giao thoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cross-over trial"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-compression test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm trên mô hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mode testing"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm gây cảm giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-organoleptic test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm dao động âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-acoustic vibration test"
-      }
-    ]
-  },
-  {
-    "word": "thử phóng điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flashover test"
-      }
-    ]
-  },
-  {
-    "word": "thử sự đồng tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-homogeneity test"
-      }
-    ]
-  },
-  {
-    "word": "thử và đo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Test and Measurement (T&M)"
-      }
-    ]
-  },
-  {
-    "word": "thử địa chỉ đúp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Duplicate Address Test (DAT)"
-      }
-    ]
-  },
-  {
-    "word": "thử giọng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-audition"
-      }
-    ]
-  },
-  {
-    "word": "thử độ cứng dùng bi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ball test"
-      }
-    ]
-  },
-  {
-    "word": "thử súng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to practice shooting"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm năng khiếu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-aptitude test"
-      }
-    ]
-  },
-  {
-    "word": "thử điện áp dư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-residual voltage test"
-      }
-    ]
-  },
-  {
-    "word": "thử đánh xuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-breakdown test\n-disruptive test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm và đánh giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-test & evaluation"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mạch vòng murray",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Murray loop test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm đơn chiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-routine test"
-      }
-    ]
-  },
-  {
-    "word": "thử vỏ chữ t",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-T-peel test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm nén xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Pulse Compression Test (PCT)"
-      }
-    ]
-  },
-  {
-    "word": "thử uốn gập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-folding test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm sản xuất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-production test"
-      }
-    ]
-  },
-  {
-    "word": "thử bộ chỉnh áp chịu tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-test on on-load tap-changer"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm cađimi (cd)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cadmium test"
-      }
-    ]
-  },
-  {
-    "word": "thử tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-benchmark (test)"
-      }
-    ]
-  },
-  {
-    "word": "thử phối hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-composite test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm bao bì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-package test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm theo mạch vòng allen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-All\"s loop test"
-      }
-    ]
-  },
-  {
-    "word": "thử tĩnh lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-static test"
-      }
-    ]
-  },
-  {
-    "word": "thử quá điện áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-overvoltage test"
-      }
-    ]
-  },
-  {
-    "word": "thử bằng phóng điện xung kích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shock discharge test"
-      }
-    ]
-  },
-  {
-    "word": "thử ghép nối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-joint test"
-      }
-    ]
-  },
-  {
-    "word": "thử phát nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-temperature-rise test"
-      }
-    ]
-  },
-  {
-    "word": "thử mạch vòng khép kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Closed Loop Test (CLT)"
-      }
-    ]
-  },
-  {
-    "word": "thử gấp đôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-doubling-over test"
-      }
-    ]
-  },
-  {
-    "word": "thử phóng điện ướt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for wet arc tracking resistance"
-      }
-    ]
-  },
-  {
-    "word": "thử tham số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-parameter test\n@Lĩnh vực: toán & tin\n-parameter testing"
-      }
-    ]
-  },
-  {
-    "word": "thử khởi động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-starting test"
-      }
-    ]
-  },
-  {
-    "word": "thử xác suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sampling test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm va đập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-impact test"
-      }
-    ]
-  },
-  {
-    "word": "thử thuật cắt bỏ tử cung gần hoàn toàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subtotal hysterectomy"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm về chịu lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire-resistance test"
-      }
-    ]
-  },
-  {
-    "word": "thử ngắn mạch hồ quang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-arc short-circuit test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thông tin laze vệ tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Satellite laser communications experiment (SLEC)"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm quan hệ cha con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-paternity test"
-      }
-    ]
-  },
-  {
-    "word": "thử động lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-dynamic test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm philip",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Philips test"
-      }
-    ]
-  },
-  {
-    "word": "thử định kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-routine test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm vi ngưng kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-microprecipitatlon test"
-      }
-    ]
-  },
-  {
-    "word": "thử dát (bằng búa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hammer test"
-      }
-    ]
-  },
-  {
-    "word": "thử (nghiệm) nghiệm thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-acceptance test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm hãm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brake test\n-braking test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm ướt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wet test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm độ bền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fatigue impact\n@Lĩnh vực: điện lạnh\n-strength test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm đến lúc phá hoại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-testing to failure"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm công nghệ lidar trong vũ trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Lidar In-space Technology Experiment (LITE)"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm sóng xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-impulse test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm dùng máy tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-computer-assisted testing (CAT)"
-      }
-    ]
-  },
-  {
-    "word": "thử bổ sung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-complementation test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm figlu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-figlutest"
-      }
-    ]
-  },
-  {
-    "word": "thử tạo thành bùn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sludge formation test"
-      }
-    ]
-  },
-  {
-    "word": "thử độ cứng brinell",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Brinell hardness test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm va chạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-crash test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thực địa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-field test"
-      }
-    ]
-  },
-  {
-    "word": "thử logic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-logic test"
-      }
-    ]
-  },
-  {
-    "word": "thử điện áp ngắn mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-impedance test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm hủy hoại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defacement test\n-degradation test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mồ hôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sweat test"
-      }
-    ]
-  },
-  {
-    "word": "thử lại được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-velocitiable\n-verifiable"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm nguyên tử",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nuclear test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm trên biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sea trials"
-      }
-    ]
-  },
-  {
-    "word": "thử lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-prove\n-retest\n-retry\n-try back\n-verify"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm lên bông melanin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-melanoflocculation"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm islscp đầu tiên tại hiện trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-First ISLSCP Field Experiment (FIFE)"
-      }
-    ]
-  },
-  {
-    "word": "thử chịu rung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-vibration test"
-      }
-    ]
-  },
-  {
-    "word": "thử (chịu) ngắn mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-short-circuit withstand test"
-      }
-    ]
-  },
-  {
-    "word": "thử sai số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-error test"
-      }
-    ]
-  },
-  {
-    "word": "thử rung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-vibration test"
-      }
-    ]
-  },
-  {
-    "word": "thử nhiệm quá điện áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-overvoltage test"
-      }
-    ]
-  },
-  {
-    "word": "thử làm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-essay"
-      }
-    ]
-  },
-  {
-    "word": "thử độ cứng sward",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sward hardness test\n-sward rocker hardness test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm động học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dynamic test"
-      }
-    ]
-  },
-  {
-    "word": "thử độ bền vững",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-withstand test"
-      }
-    ]
-  },
-  {
-    "word": "thử bã dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cake test"
-      }
-    ]
-  },
-  {
-    "word": "thử hỏi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý nêu ra như muốn hỏi, nhằm để cho người đối thoại tự trả lời bằng phủ định, qua đó tự rút ra kết luận [như ý của người nói muốn nói]\nVí dụ:\n- làm ăn như thế, thử hỏi ai không tức?"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thử hỏi\n- Xét xem: Làm như thế thử hỏi có đúng không."
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cooling test\n-refrigeration test"
-      }
-    ]
-  },
-  {
-    "word": "thử chịu lão hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ageing test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm sàng lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-screening test"
-      }
-    ]
-  },
-  {
-    "word": "thử dùng tia x",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-X-ray testing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filtered-particle testing"
       }
     ]
   },
@@ -2011,191 +2649,37 @@
     ]
   },
   {
-    "word": "thử chưng cất",
+    "word": "thử nghiệm nóng khô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-distillation test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry heat test"
       }
     ]
   },
   {
-    "word": "thử tải ở hiện trường",
+    "word": "thử nghiệm",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm thử, coi như đó là một thí nghiệm để xem kết quả sẽ ra sao\nVí dụ:\n- trồng thử nghiệm giống lúa mới"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-load test at the site"
+        "dict_definition": "-test; experiment\n=Thị trường thử nghiệm \n+: Test market\n=Tất cả các loại thuốc mới đều đã qua thử nghiệm lâm sàng \n+: All new drugs underwent clinical tests\n@Chuyên ngành kinh tế\n-test\n@Chuyên ngành kỹ thuật\n-proof test\n-schick test\n-test\n-testing\n-trial"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to test, try, attempt; test, trial"
       }
     ]
   },
   {
-    "word": "thử nghiệm máu",
+    "word": "thử độ bền cách điện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood test"
-      }
-    ]
-  },
-  {
-    "word": "thử ngắn mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-short-circuit testing"
-      }
-    ]
-  },
-  {
-    "word": "thử tải mũi dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-launching nose loading test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tập dợt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-exercise test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm chức năng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-functional test"
-      }
-    ]
-  },
-  {
-    "word": "thử độ rò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-leak test\n@Lĩnh vực: điện\n-leakage test"
-      }
-    ]
-  },
-  {
-    "word": "thử uốn nguội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cold bend test\n-doubling-over test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm phần cuối (urani) thiên nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tail assay"
-      }
-    ]
-  },
-  {
-    "word": "thử độ kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sealing test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tính phù hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Conformance Test (ATM) (CT)"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm dài hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-long-term test"
-      }
-    ]
-  },
-  {
-    "word": "thử marshall",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Marshall test"
-      }
-    ]
-  },
-  {
-    "word": "thử chịu động đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-seismic test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm liên tưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-association test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm quỳ sữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-litmus milk test"
-      }
-    ]
-  },
-  {
-    "word": "thử chịu ầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-humidity test"
-      }
-    ]
-  },
-  {
-    "word": "thử chương trình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-program test\n@Lĩnh vực: toán & tin\n-program testing"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-retesting"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mức sản xuất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-productivity test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-insulation test"
       }
     ]
   },
@@ -2209,132 +2693,6 @@
     ]
   },
   {
-    "word": "thử va đập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drop test\n-falling-weight test\n-impact test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm russell",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-russell\"s test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thu thập ảnh số siêu phổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Hyperspectral Digital Imagery Collection Experiment (HYDICE)"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm gót chân - khớp gối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heel-knee test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm đặc biệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-special test"
-      }
-    ]
-  },
-  {
-    "word": "thử độ bền bám dính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adhesion strength test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tiếp thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-test marketing"
-      }
-    ]
-  },
-  {
-    "word": "thử hàm lượng cacbon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-carbon test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm kết cấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-structural testing"
-      }
-    ]
-  },
-  {
-    "word": "thửa công đức",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thửa công đức\n- Nghĩa là cứ xem như công đức ấy"
-      }
-    ]
-  },
-  {
-    "word": "thử vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-degust"
-      }
-    ]
-  },
-  {
-    "word": "thử chịu nhiễu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-disturbance test"
-      }
-    ]
-  },
-  {
-    "word": "thử uốn cong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bending test"
-      }
-    ]
-  },
-  {
-    "word": "thử phóng điện xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-impulse test\n-surge test"
-      }
-    ]
-  },
-  {
     "word": "thử độ tương thích vật liệu",
     "definitions": [
       {
@@ -2344,218 +2702,56 @@
     ]
   },
   {
-    "word": "thử độ bền chọc thủng",
+    "word": "thử độ bền nhiệt độ cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-puncture-withstand test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-high-temperature strength test"
       }
     ]
   },
   {
-    "word": "thử trong phòng thí nghiệm",
+    "word": "thử phóng điện tĩnh điện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-laboratory testing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electrostatic discharge test"
       }
     ]
   },
   {
-    "word": "thử nghiệm philipp",
+    "word": "thử nghiệm tính bở hồng cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Philipp test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-erythrocyte fragility test"
       }
     ]
   },
   {
-    "word": "thử nghiệm một sản phẩm mới",
+    "word": "thử mỏi siêu âm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-test a new product\n-test a new product (to...)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ultrasonic fatigue test"
       }
     ]
   },
   {
-    "word": "thử nghiệm đánh lửa",
+    "word": "thử nghiệm quỳ sữa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-flashover test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-litmus milk test"
       }
     ]
   },
   {
-    "word": "thử nghiệm độ bền cơ học",
+    "word": "thử áp suất nước bề mặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-mechanical robustness test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tia mặt trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sunbeam test\n-sunbrightness test"
-      }
-    ]
-  },
-  {
-    "word": "thử trọng lượng rơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-drop test\n-falling-weight test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thông lệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-routine test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thủy tĩnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hydrostatic test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm điện môi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dielectric test\n-voltage test"
-      }
-    ]
-  },
-  {
-    "word": "thử cađimi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cadmium test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm băng dán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-patch test"
-      }
-    ]
-  },
-  {
-    "word": "thử độ bền cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-mechanical test"
-      }
-    ]
-  },
-  {
-    "word": "thử hiệu suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-efficiency test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thay đổi nhiệt độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-test of change of temperature"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tần biên amazon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Amazon Boundary Layer Experiment (ABLE)"
-      }
-    ]
-  },
-  {
-    "word": "thử theo sơ đồ werrer",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Werren overlap test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm hopkinson",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Hopkinson test"
-      }
-    ]
-  },
-  {
-    "word": "thử lõi bêtông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-core test"
-      }
-    ]
-  },
-  {
-    "word": "thử tuổi thọ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-life test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm cháy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire-resistance test"
-      }
-    ]
-  },
-  {
-    "word": "thử (nghiệm) khai thác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-service test"
-      }
-    ]
-  },
-  {
-    "word": "thử vàng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to test for gold"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water pressure test for blanket hole"
       }
     ]
   },
@@ -2585,206 +2781,65 @@
     ]
   },
   {
-    "word": "thử hãm tay",
+    "word": "thử tải ở hiện trường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-handbrake test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-load test at the site"
       }
     ]
   },
   {
-    "word": "thửa",
+    "word": "thử nghiệm lặp lại áp suất",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ dùng để chỉ từng đơn vị mảnh ruộng, đất có diện tích đáng kể và được giới hạn rõ ràng\nVí dụ:\n- thửa ruộng \n - thửa vườn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đặt làm một vật gì theo những yêu cầu riêng\nVí dụ:\n- thửa một con dao thật tốt để đi rừng \n - giày thửa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thửa\n- d. Khu đất trồng trọt: Thửa ruộng; Thửa vườn.\n- đg. Đặt làm tại một cửa hàng một vật gì theo ý mình: Thửa một đôi giày."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@thửa\n*danh từ\n-classifier for gardens, fields, pilot, order*động từ\n-to order, (of dress, shoes) to measure"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pressure built up test"
       }
     ]
   },
   {
-    "word": "thử ăn mòn",
+    "word": "thử đánh thủng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-corrosion test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flash test"
       }
     ]
   },
   {
-    "word": "thử ép nóng",
+    "word": "thử áp lực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hot-compression test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pressure testing"
       }
     ]
   },
   {
-    "word": "thử độ bền nhiệt độ cao",
+    "word": "thử sinh học",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-high-temperature strength test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bio-assay"
       }
     ]
   },
   {
-    "word": "thử nghiệm nối đất",
+    "word": "thử nghiệm âm thanh theo thực tế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-earth testing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Realistic Sound Experience (RSX)"
       }
     ]
   },
   {
-    "word": "thử nghiệm cấp nhà nước",
+    "word": "thử mẫu hình trụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-state tests"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm bắt buộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-authoritative test"
-      }
-    ]
-  },
-  {
-    "word": "thử (đặc tính) nhiệt đới hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-tropicalization test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm giả ngẫu nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pseudo-random test sequence"
-      }
-    ]
-  },
-  {
-    "word": "thử lòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thử lòng\n*động từ\n-try and find out what the feeling is, feel, put out feelders"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "try and find out what the feeling is, feel, put out feelers"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm huyết thanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-serum test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm thử, coi như đó là một thí nghiệm để xem kết quả sẽ ra sao\nVí dụ:\n- trồng thử nghiệm giống lúa mới"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "-test; experiment\n=Thị trường thử nghiệm \n+: Test market\n=Tất cả các loại thuốc mới đều đã qua thử nghiệm lâm sàng \n+: All new drugs underwent clinical tests\n@Chuyên ngành kinh tế\n-test\n@Chuyên ngành kỹ thuật\n-proof test\n-schick test\n-test\n-testing\n-trial"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to test, try, attempt; test, trial"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm để xác định sự mẫn cảm với bệnh bạch hầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chick"
-      }
-    ]
-  },
-  {
-    "word": "thử rây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve test"
-      }
-    ]
-  },
-  {
-    "word": "thử phát nóng khi xuất xưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-temperature-rise type test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tại hiện trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-field test\n@Lĩnh vực: điện tử & viễn thông\n-Field Test (FT)"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm (từng) đơn vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-unit testing"
-      }
-    ]
-  },
-  {
-    "word": "thử tĩnh điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-static switch"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mạch vòng fisher",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Fisher loop test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cylinder test"
       }
     ]
   },
@@ -2798,38 +2853,173 @@
     ]
   },
   {
-    "word": "thử nghiệm phản xạ xung",
+    "word": "thử nghiệm về chịu lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pulse reflection test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire-resistance test"
       }
     ]
   },
   {
-    "word": "thử uốn",
+    "word": "thử quặng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bend test\n@Lĩnh vực: điện\n-bending test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-ore assaying\n-ore testing"
       }
     ]
   },
   {
-    "word": "thử nghiệm trên đường (cho xe cộ)",
+    "word": "thử marshall",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-road test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Marshall test"
       }
     ]
   },
   {
-    "word": "thử sốc nhiệt",
+    "word": "thử nghiệm chức năng gan",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thermal shock test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hepatic function test"
+      }
+    ]
+  },
+  {
+    "word": "thử tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-static test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm chống cháy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nonflammability test\n-unflammability test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm với ozon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-test with ozone"
+      }
+    ]
+  },
+  {
+    "word": "thử tải động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-dynamic load test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm giao thoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cross-over trial"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm va chạm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-crash test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ bền bám dính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adhesion strength test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm vận hành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-service test"
+      }
+    ]
+  },
+  {
+    "word": "thử tham số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-parameter test\n@Lĩnh vực: toán & tin\n-parameter testing"
+      }
+    ]
+  },
+  {
+    "word": "thử giọng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-audition"
+      }
+    ]
+  },
+  {
+    "word": "thử gập nguội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cold bend test"
+      }
+    ]
+  },
+  {
+    "word": "thử theo sơ đồ werrer",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Werren overlap test"
+      }
+    ]
+  },
+  {
+    "word": "thử dát (bằng búa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hammer test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm bằng thực nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-empirical testing"
+      }
+    ]
+  },
+  {
+    "word": "thử điện áp ngắn mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-impedance test"
       }
     ]
   },
@@ -2852,267 +3042,6 @@
     ]
   },
   {
-    "word": "thử đẳng nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-isothermal test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm một sản phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-testmarket a product"
-      }
-    ]
-  },
-  {
-    "word": "thửa nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-watery"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm dung nạp glucose (dùng trong chần đoán đái tháo đường)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-glucose tolerance test"
-      }
-    ]
-  },
-  {
-    "word": "thử sinh học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bio-assay"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm cách điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-insulation test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm chống cháy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nonflammability test\n-unflammability test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm ngắn mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-short-circuit test\n-short-circuit testing"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm lọc phân tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filtered-particle testing"
-      }
-    ]
-  },
-  {
-    "word": "thử độ chính xác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-accuracy test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm để chấp nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-acceptance trials"
-      }
-    ]
-  },
-  {
-    "word": "thử ô nhiễm nhân tạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-artificial pollution test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm bằng thực nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-empirical testing"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tương hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-compatibility test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm quỹ phát xạ trái đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Radiation Budget Experiment (ERBE)"
-      }
-    ]
-  },
-  {
-    "word": "thử hãm khi xe dừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-stationary brake test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm che mắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-covertest"
-      }
-    ]
-  },
-  {
-    "word": "thử độ sụt hình nón",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slump test"
-      }
-    ]
-  },
-  {
-    "word": "thử công suất khởi động bằng không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-start-up zero power test"
-      }
-    ]
-  },
-  {
-    "word": "thử tải động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-dynamic load test"
-      }
-    ]
-  },
-  {
-    "word": "thử mẫu hình trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cylinder test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm phun nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-water projection test"
-      }
-    ]
-  },
-  {
-    "word": "thửa đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-parcel of land"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tỷ số khả năng tiền mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-liquid ratio test"
-      }
-    ]
-  },
-  {
-    "word": "thử nhảy cóc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-leapfrog test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm gán hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-projective test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm tảo bọt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-foaming test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm khối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-unit testing"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm trên đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-road test"
-      }
-    ]
-  },
-  {
     "word": "thử turing",
     "definitions": [
       {
@@ -3122,168 +3051,20 @@
     ]
   },
   {
-    "word": "thử màu",
+    "word": "thử nghiệm nén xung",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-colorrabilly"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Pulse Compression Test (PCT)"
       }
     ]
   },
   {
-    "word": "thử nghiệm ngón đối ngón",
+    "word": "thử nghiệm xung",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-finger-to-finger test"
-      }
-    ]
-  },
-  {
-    "word": "thử nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-burn-in\n-burn-in test\n-hot test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm (bọt) xà phòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-soap (-and-bubble) test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm mạch vòng varley",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Varley\"s loovartmeterp test"
-      }
-    ]
-  },
-  {
-    "word": "thử chín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nine test"
-      }
-    ]
-  },
-  {
-    "word": "thử (bằng cách) nhuộmq",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dye test"
-      }
-    ]
-  },
-  {
-    "word": "thử trên bàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bench test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm gối đầu wenner",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Werren overlap test"
-      }
-    ]
-  },
-  {
-    "word": "thử kiểm tra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-control assay"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm thanh thải creatinin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-creatinine clearance test"
-      }
-    ]
-  },
-  {
-    "word": "thử áp lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pressure testing"
-      }
-    ]
-  },
-  {
-    "word": "thử độ chói sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sunbeam test"
-      }
-    ]
-  },
-  {
-    "word": "thử dùng cuộn dò tìm (tìm chỗ hỏng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-search-coil test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm áp suất thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low pressure test"
-      }
-    ]
-  },
-  {
-    "word": "thử nghiệm bán phân hủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-semidestructive examination"
-      }
-    ]
-  },
-  {
-    "word": "thử phản hồi xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pulse reflection test"
-      }
-    ]
-  },
-  {
-    "word": "thử sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thử sức [thử sức]\n-to test/try the strength of ..."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to test or try the strength of"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-impulse test"
       }
     ]
   },
@@ -3297,47 +3078,158 @@
     ]
   },
   {
-    "word": "thử nghiệm queckensted thủ pháp chọc đốt sống thắt lưng",
+    "word": "thử (nghiệm) khai thác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Queckensted test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-service test"
       }
     ]
   },
   {
-    "word": "thử nghiệm thêm khi đã hoàn thành",
+    "word": "thửa công đức",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Tests on Completion, further tests"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thửa công đức\n- Nghĩa là cứ xem như công đức ấy"
       }
     ]
   },
   {
-    "word": "thử nghiệm điện trở đất",
+    "word": "thử hãm khi xe dừng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-earth testing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-stationary brake test"
       }
     ]
   },
   {
-    "word": "thử độ bốc cháy",
+    "word": "thử nghiệm đánh lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-flammability test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-flashover test"
       }
     ]
   },
   {
-    "word": "thử nghiệm nóng ẩm liên tục",
+    "word": "thử nghiệm chịu tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-damp heat steady state"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-load test"
+      }
+    ]
+  },
+  {
+    "word": "thử uốn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bend test\n@Lĩnh vực: điện\n-bending test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm field",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Field\"s test"
+      }
+    ]
+  },
+  {
+    "word": "thử dùng tia x",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-X-ray testing"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm phản xạ xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pulse reflection test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm một sản phẩm mới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-test a new product\n-test a new product (to...)"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm ba cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-three-glass test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm máu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm với ôxy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-test with oxygen"
+      }
+    ]
+  },
+  {
+    "word": "thử lửa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đưa vào lửa để xem xét phẩm chất của vàng; thường dùng để ví sự thử thách khắc nghiệt qua khó khăn, nguy hiểm\nVí dụ:\n- qua thử lửa, người chiến sĩ đã trở nên vững vàng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thử lửa\n- Xem tốt hay xấu qua thử thách: Thử vàng chẳng phải thua đâu, Đừng đem thử lửa mà mà đau lòng vàng (cd)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thử lửa\n*động từ\n-essay"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "essay"
+      }
+    ]
+  },
+  {
+    "word": "thử phối hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-composite test"
+      }
+    ]
+  },
+  {
+    "word": "thử tiêu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-benchmark (test)"
       }
     ]
   },
@@ -3351,92 +3243,200 @@
     ]
   },
   {
-    "word": "thử nghiệm chấp nhận được",
+    "word": "thử lại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-acceptance test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-prove\n-retest\n-retry\n-try back\n-verify"
       }
     ]
   },
   {
-    "word": "thử nghiệm so sánh độ chiếu sáng của sao và mặt trời",
+    "word": "thử nghiệm trên đường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Solar Stellar Irradiance Comparison Experiment (SOLSTICE)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-road test"
       }
     ]
   },
   {
-    "word": "thử mỏi siêu âm",
+    "word": "thử nghiệm khô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ultrasonic fatigue test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-dry test"
       }
     ]
   },
   {
-    "word": "thử nghiệm xuống cấp",
+    "word": "thử uốn gập",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defacement test\n-degradation test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-folding test"
       }
     ]
   },
   {
-    "word": "thử ngẫu nhiên có kiểm soát",
+    "word": "thử dài hạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-randomized controled trial"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-long-term test"
       }
     ]
   },
   {
-    "word": "thử chứng minh",
+    "word": "thử nghiệm philip",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-proof test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Philips test"
       }
     ]
   },
   {
-    "word": "thử nghiệm thiết bị điện",
+    "word": "thử nghiệm thu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electrical equipment test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-acceptance test\n@Lĩnh vực: giao thông & vận tải\n-acceptance trials"
       }
     ]
   },
   {
-    "word": "thử phần mềm nhờ máy tính",
+    "word": "thử nghiệm quay (của bộ số công tơ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Computer Aided Software Testing (CAST)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-spinning test"
       }
     ]
   },
   {
-    "word": "thử điện áp xung",
+    "word": "thử momen chịu uốn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-impulse test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-testing for cantilever strength"
       }
     ]
   },
   {
-    "word": "thử nghiệm chịu đựng (bền)",
+    "word": "thử máu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "blood test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm nhiệt đới hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-withstand test"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tropic proofing test\n-tropicalization test"
+      }
+    ]
+  },
+  {
+    "word": "thử ngắn mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-short-circuit testing"
+      }
+    ]
+  },
+  {
+    "word": "thử thường lệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-routine test"
+      }
+    ]
+  },
+  {
+    "word": "thử độ rung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-vibration test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm với cọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile test"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm bắt buộc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-authoritative test"
+      }
+    ]
+  },
+  {
+    "word": "thử kéo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-compression testing\n-tension"
+      }
+    ]
+  },
+  {
+    "word": "thử nghiệm thông tin laze vệ tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Satellite laser communications experiment (SLEC)"
+      }
+    ]
+  },
+  {
+    "word": "thử nhảy cóc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-leapfrog test"
+      }
+    ]
+  },
+  {
+    "word": "thử chịu lão hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ageing test"
+      }
+    ]
+  },
+  {
+    "word": "thử khởi động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-starting test"
+      }
+    ]
+  },
+  {
+    "word": "thử trong phòng thí nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-laboratory testing"
       }
     ]
   }

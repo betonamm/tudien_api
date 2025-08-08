@@ -25,11 +25,47 @@
     ]
   },
   {
+    "word": "hẻm núi rộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-large gorge"
+      }
+    ]
+  },
+  {
+    "word": "hẻm núi hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gill"
+      }
+    ]
+  },
+  {
+    "word": "hẻm vực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-canon\n-canyon\n-chasm"
+      }
+    ]
+  },
+  {
     "word": "hẻm núi",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-defile\n-glen\n-gorge\n-kloof\n-narrow\n-notch\n-pass\n-pass party\n-ravine"
+      }
+    ]
+  },
+  {
+    "word": "hẻm, khe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chine"
       }
     ]
   },
@@ -67,47 +103,11 @@
     ]
   },
   {
-    "word": "hẻm núi hẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gill"
-      }
-    ]
-  },
-  {
     "word": "hẻm núi sâu",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-glen"
-      }
-    ]
-  },
-  {
-    "word": "hẻm vực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-canon\n-canyon\n-chasm"
-      }
-    ]
-  },
-  {
-    "word": "hẻm, khe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chine"
-      }
-    ]
-  },
-  {
-    "word": "hẻm núi rộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-large gorge"
       }
     ]
   }

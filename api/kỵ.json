@@ -1,10 +1,61 @@
 [
   {
+    "word": "kỵ nhật",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "death anniversary"
+      }
+    ]
+  },
+  {
     "word": "kỵ rơ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "xem kị rơ"
+      }
+    ]
+  },
+  {
+    "word": "kỵ binh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem kị binh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@kỵ binh\n- Lính chuyên cưỡi ngựa để chiến đấu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "*danh từ\n-cavalry\n-cavalryman"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cavalry, horse"
+      }
+    ]
+  },
+  {
+    "word": "kỵ khí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem kị khí"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@kỵ khí\n- t. Cg. Yếm khí. Chỉ phát triển hay chỉ xảy ra trong một môi trường không có không khí: Sinh vật kỵ khí."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kỵ khí [kỵ khí]\n-(sinh học) Anaerobic."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "anaerobic"
       }
     ]
   },
@@ -55,66 +106,11 @@
     ]
   },
   {
-    "word": "kỵ dịch",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lyophobic"
-      }
-    ]
-  },
-  {
-    "word": "kỵ khí",
+    "word": "kỵ binh thiết giáp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kị khí"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@kỵ khí\n- t. Cg. Yếm khí. Chỉ phát triển hay chỉ xảy ra trong một môi trường không có không khí: Sinh vật kỵ khí."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@kỵ khí [kỵ khí]\n-(sinh học) Anaerobic."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "anaerobic"
-      }
-    ]
-  },
-  {
-    "word": "kỵ nước",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kị nước"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hydrophobicity"
-      }
-    ]
-  },
-  {
-    "word": "kỵ binh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kị binh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@kỵ binh\n- Lính chuyên cưỡi ngựa để chiến đấu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "*danh từ\n-cavalry\n-cavalryman"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cavalry, horse"
+        "dict_definition": "xem kị binh thiết giáp"
       }
     ]
   },
@@ -128,47 +124,15 @@
     ]
   },
   {
-    "word": "kỵ đội",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cavalry"
-      }
-    ]
-  },
-  {
-    "word": "kỵ binh bay",
+    "word": "kỵ nước",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kị binh bay"
-      }
-    ]
-  },
-  {
-    "word": "kỵ xạ",
-    "definitions": [
+        "dict_definition": "xem kị nước"
+      },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "horsemanship and archery"
-      }
-    ]
-  },
-  {
-    "word": "kỵ mã thuật",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "horsemanship"
-      }
-    ]
-  },
-  {
-    "word": "kỵ binh thiết giáp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kị binh thiết giáp"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hydrophobicity"
       }
     ]
   },
@@ -194,11 +158,20 @@
     ]
   },
   {
-    "word": "kỵ nhật",
+    "word": "kỵ tủy",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "death anniversary"
+        "dict_definition": "hydrophobic"
+      }
+    ]
+  },
+  {
+    "word": "kỵ đội",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cavalry"
       }
     ]
   },
@@ -212,11 +185,38 @@
     ]
   },
   {
-    "word": "kỵ tủy",
+    "word": "kỵ mã thuật",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "hydrophobic"
+        "dict_definition": "horsemanship"
+      }
+    ]
+  },
+  {
+    "word": "kỵ binh bay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem kị binh bay"
+      }
+    ]
+  },
+  {
+    "word": "kỵ dịch",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lyophobic"
+      }
+    ]
+  },
+  {
+    "word": "kỵ xạ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "horsemanship and archery"
       }
     ]
   }

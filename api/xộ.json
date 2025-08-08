@@ -1,5 +1,14 @@
 [
   {
+    "word": "xộn xạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xộn xạo\n*trạng từ\n-disoder, confusion, tumultuous, riotous, noisy"
+      }
+    ]
+  },
+  {
     "word": "xộc xệch",
     "definitions": [
       {
@@ -25,28 +34,6 @@
     ]
   },
   {
-    "word": "xộn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xộn\n*tính từ\n-big, large, bulky"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "big, large, bulky"
-      }
-    ]
-  },
-  {
-    "word": "xộn xạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xộn xạo\n*trạng từ\n-disoder, confusion, tumultuous, riotous, noisy"
-      }
-    ]
-  },
-  {
     "word": "xộc",
     "definitions": [
       {
@@ -64,6 +51,19 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "dash, rush"
+      }
+    ]
+  },
+  {
+    "word": "xộn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xộn\n*tính từ\n-big, large, bulky"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "big, large, bulky"
       }
     ]
   },

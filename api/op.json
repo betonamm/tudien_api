@@ -9,56 +9,20 @@
     ]
   },
   {
-    "word": "opđalit",
+    "word": "opan trong suất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-opdalite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-water opal"
       }
     ]
   },
   {
-    "word": "opan lửa",
+    "word": "opamp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fire opal\n-girasol\n-sun opal"
-      }
-    ]
-  },
-  {
-    "word": "open gis consortium",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OGC"
-      }
-    ]
-  },
-  {
-    "word": "open look",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OPEN LOOK"
-      }
-    ]
-  },
-  {
-    "word": "opera",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "loại hình sân khấu tổng hợp gồm ca, múa, nhạc, trong đó âm nhạc giữ vai trò chủ chốt và quán xuyến từ đầu đến cuối"
-      }
-    ]
-  },
-  {
-    "word": "opan loé sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flash opal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-op amp (operational amplifier)"
       }
     ]
   },
@@ -72,29 +36,11 @@
     ]
   },
   {
-    "word": "opan dạng thớ gỗ",
+    "word": "opac (bảng liệt kê danh mục truy nhập công cộng trực tuyến) đầu ra",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wood opal"
-      }
-    ]
-  },
-  {
-    "word": "opan trong suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-water opal"
-      }
-    ]
-  },
-  {
-    "word": "opxidian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-obsidian"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Output OPAC"
       }
     ]
   },
@@ -117,20 +63,74 @@
     ]
   },
   {
-    "word": "opamp",
+    "word": "open gis consortium",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-op amp (operational amplifier)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OGC"
       }
     ]
   },
   {
-    "word": "opac (bảng liệt kê danh mục truy nhập công cộng trực tuyến) đầu ra",
+    "word": "opan dạng thớ gỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Output OPAC"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wood opal"
+      }
+    ]
+  },
+  {
+    "word": "opan lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fire opal\n-girasol\n-sun opal"
+      }
+    ]
+  },
+  {
+    "word": "opan loé sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flash opal"
+      }
+    ]
+  },
+  {
+    "word": "opxidian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-obsidian"
+      }
+    ]
+  },
+  {
+    "word": "opera",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "loại hình sân khấu tổng hợp gồm ca, múa, nhạc, trong đó âm nhạc giữ vai trò chủ chốt và quán xuyến từ đầu đến cuối"
+      }
+    ]
+  },
+  {
+    "word": "open look",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-OPEN LOOK"
+      }
+    ]
+  },
+  {
+    "word": "opđalit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-opdalite"
       }
     ]
   }

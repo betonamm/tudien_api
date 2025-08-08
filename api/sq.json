@@ -1,10 +1,10 @@
 [
   {
-    "word": "sql server",
+    "word": "sql/mm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SQL Server"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SQL/MM"
       }
     ]
   },
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "word": "sql/mm",
+    "word": "sql server",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SQL/MM"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SQL Server"
       }
     ]
   }

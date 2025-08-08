@@ -1,73 +1,5 @@
 [
   {
-    "word": "dơn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem lay ơn"
-      }
-    ]
-  },
-  {
-    "word": "dơ bẩn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhơ bẩn\nVí dụ:\n- bộ mặt dơ bẩn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dơ bẩn\n-Dirty (nói khái quát)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dơ bẩn\n- Dirty (nói khái quát)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dirty, unclean"
-      }
-    ]
-  },
-  {
-    "word": "dơi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thú nhỏ, thân hình hơi giống chuột, chi trước biến thành đôi cánh, thường bay đi kiếm ăn từ lúc chập tối"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dơi\n- dt. Thú vật nhỏ, hình dạng gần giống chuột, có cánh, bay kiếm ăn lúc chập tối: Dơi có ích, chuột làm hại  nửa dơi nửa chuột."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dơi\n*noun\n-Bat; flittermouse\n=\n+on dơi"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dơi\n* noun\n- Bat; flittermouse\n=con dơi"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bat (flying mammal)"
-      }
-    ]
-  },
-  {
-    "word": "dơ đời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dơ đời\n-Shameful\n=Thật dơ đời!\n+What a shame!"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dơ đời\n- Shameful\n=Thật dơ đời!+What a shame!"
-      }
-    ]
-  },
-  {
     "word": "dơi muỗi",
     "definitions": [
       {
@@ -106,6 +38,27 @@
     ]
   },
   {
+    "word": "dơ bẩn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nhơ bẩn\nVí dụ:\n- bộ mặt dơ bẩn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dơ bẩn\n-Dirty (nói khái quát)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dơ bẩn\n- Dirty (nói khái quát)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dirty, unclean"
+      }
+    ]
+  },
+  {
     "word": "dơ duốc",
     "definitions": [
       {
@@ -119,6 +72,44 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "filthy, shameful"
+      }
+    ]
+  },
+  {
+    "word": "dơ dáng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dơ dáng\n- tt. Trơ trẽn, không biết xấu hổ: Cô kia mặt trẽn, mày trơ, vàng đeo, bạc quấn cũng dơ dáng đời (cd)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dơ dáng\n*adj\n-shameless; disgraceful"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dơ dáng\n* adj\n- shameless; disgraceful"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shameless, disgraceful"
+      }
+    ]
+  },
+  {
+    "word": "dơi quỷ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dơi quỷ\n-Vampire[-bat]"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dơi quỷ\n- Vampire[-bat]"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "vampire(-bat)"
       }
     ]
   },
@@ -169,40 +160,40 @@
     ]
   },
   {
-    "word": "dơi quỷ",
+    "word": "dơi",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thú nhỏ, thân hình hơi giống chuột, chi trước biến thành đôi cánh, thường bay đi kiếm ăn từ lúc chập tối"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dơi\n- dt. Thú vật nhỏ, hình dạng gần giống chuột, có cánh, bay kiếm ăn lúc chập tối: Dơi có ích, chuột làm hại  nửa dơi nửa chuột."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@dơi quỷ\n-Vampire[-bat]"
+        "dict_definition": "@dơi\n*noun\n-Bat; flittermouse\n=\n+on dơi"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dơi quỷ\n- Vampire[-bat]"
+        "dict_definition": "@dơi\n* noun\n- Bat; flittermouse\n=con dơi"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "vampire(-bat)"
+        "dict_definition": "bat (flying mammal)"
       }
     ]
   },
   {
-    "word": "dơ dáng",
+    "word": "dơ đời",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dơ dáng\n- tt. Trơ trẽn, không biết xấu hổ: Cô kia mặt trẽn, mày trơ, vàng đeo, bạc quấn cũng dơ dáng đời (cd)."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@dơ dáng\n*adj\n-shameless; disgraceful"
+        "dict_definition": "@dơ đời\n-Shameful\n=Thật dơ đời!\n+What a shame!"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dơ dáng\n* adj\n- shameless; disgraceful"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shameless, disgraceful"
+        "dict_definition": "@dơ đời\n- Shameful\n=Thật dơ đời!+What a shame!"
       }
     ]
   },
@@ -212,6 +203,15 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to raise a hand"
+      }
+    ]
+  },
+  {
+    "word": "dơn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem lay ơn"
       }
     ]
   }

@@ -9,11 +9,15 @@
     ]
   },
   {
-    "word": "xớn xác",
+    "word": "xớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xớn xác\n*trạng từ\n-look haggard, wild, anxious"
+        "dict_definition": "@xớn\n*tính từ\n-wandering, loitering, cut"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wandering, loitering, cut"
       }
     ]
   },
@@ -27,6 +31,15 @@
     ]
   },
   {
+    "word": "xới bề mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-scarify"
+      }
+    ]
+  },
+  {
     "word": "xớp",
     "definitions": [
       {
@@ -36,6 +49,24 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to rough, rugged, uneven"
+      }
+    ]
+  },
+  {
+    "word": "xớ xẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xớ xẩn\n*trạng từ\n-almost the same"
+      }
+    ]
+  },
+  {
+    "word": "xới đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grub\n-stub"
       }
     ]
   },
@@ -103,42 +134,11 @@
     ]
   },
   {
-    "word": "xới đất",
+    "word": "xớn xác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grub\n-stub"
-      }
-    ]
-  },
-  {
-    "word": "xới bề mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-scarify"
-      }
-    ]
-  },
-  {
-    "word": "xớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xớn\n*tính từ\n-wandering, loitering, cut"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wandering, loitering, cut"
-      }
-    ]
-  },
-  {
-    "word": "xớ xẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xớ xẩn\n*trạng từ\n-almost the same"
+        "dict_definition": "@xớn xác\n*trạng từ\n-look haggard, wild, anxious"
       }
     ]
   }

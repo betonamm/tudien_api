@@ -1,43 +1,10 @@
 [
   {
-    "word": "tỳ",
+    "word": "tỳ vết",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tì"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tỳ\n- ,... x. tì1, tì bà, tì thiếp, tì tướng, tì vị."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@tỳ\n*noun\n-spleen"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tỳ\n* noun\n-spleen"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "spleen"
-      }
-    ]
-  },
-  {
-    "word": "tỳ thiếp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tì thiếp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tỳ thiếp\n- Nàng hầu và vợ lẽ của quan lại xưa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tỳ thiếp [v]\n-harem servant, concubine"
+        "dict_definition": "@Chuyên ngành kinh tế\n-vice"
       }
     ]
   },
@@ -80,11 +47,53 @@
     ]
   },
   {
-    "word": "tỳ vết",
+    "word": "tỳ tay gập lên được",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-vice"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hinged arm rest"
+      }
+    ]
+  },
+  {
+    "word": "tỳ thiếp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tì thiếp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tỳ thiếp\n- Nàng hầu và vợ lẽ của quan lại xưa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tỳ thiếp [v]\n-harem servant, concubine"
+      }
+    ]
+  },
+  {
+    "word": "tỳ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tì"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tỳ\n- ,... x. tì1, tì bà, tì thiếp, tì tướng, tì vị."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tỳ\n*noun\n-spleen"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tỳ\n* noun\n-spleen"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "spleen"
       }
     ]
   },
@@ -94,15 +103,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@tỳ tướng\n- Viên tướng phụ của một viên đại tướng (cũ)."
-      }
-    ]
-  },
-  {
-    "word": "tỳ tay gập lên được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hinged arm rest"
       }
     ]
   }

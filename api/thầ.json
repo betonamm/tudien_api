@@ -1,26 +1,642 @@
 [
   {
-    "word": "thần tốc",
+    "word": "thần kinh khứu giác",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhanh chóng một cách phi thường, thường nói trong phép dùng binh\nVí dụ:\n- cuộc hành quân thần tốc"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-olfactory nerve"
+      }
+    ]
+  },
+  {
+    "word": "thầy thợ",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần tốc\n- tt. Hết sức nhanh chóng, nhanh chóng đến mức phi thường (thường nói về việc binh): cuộc hành quân thần tốc  lối đánh thần tốc."
+        "dict_definition": "@thầy thợ\n- d. 1. Từ chỉ dân thầy (thông, ký, phán) và dân thợ (công nhân) trong thời Pháp thuộc. 2. Người lo việc giúp người khác trong xã hội cũ: Phải có thầy thợ thì việc mới xong."
+      }
+    ]
+  },
+  {
+    "word": "thầy đồ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy đồ\n- Người dạy học chữ nho ngày xưa."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần tốc\n*adj\n-at lightening speed"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần tốc\n* adj\n- at lightening speed"
+        "dict_definition": "@thầy đồ [thầy đồ]\n-Confucian scholar;  teacher"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "at lightning speed. lightning-fast"
+        "dict_definition": "Confucian scholar, teacher"
+      }
+    ]
+  },
+  {
+    "word": "thần kỳ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem thần kì"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần kỳ\n- x. thần kì."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần kỳ\n*adjective\n-marvellous, miraculuos\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-legendary\n@Lĩnh vực: điện lạnh\n-magic"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần kỳ\n* adjective\n-marvellous, miraculuos"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "marvelous, miraculous"
+      }
+    ]
+  },
+  {
+    "word": "thầy thuốc ưu tú",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "danh hiệu của Nhà nước phong tặng cho thầy thuốc giỏi, có đạo đức, có thành tích xuất sắc, được nhân dân tín nhiệm"
+      }
+    ]
+  },
+  {
+    "word": "thầy bói",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nghề bói toán\nVí dụ:\n- thầy bói nói dựa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy bói\n- dt. Người chuyên nghề bói toán, xem số phận cho từng người: thầy bói xem voi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy bói\n*noun\n-fortuneteller, soothsayer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fortune-teller"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầy bói\n* noun\n- fortuneteller, soothsayer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fortuneteller, soothsayer"
+      }
+    ]
+  },
+  {
+    "word": "thầy cúng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nghề cúng bái cầu thần thánh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy cúng\n- Người làm nghề cúng bái cho người ta (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy cúng [thầy cúng]\n-sorcerer;  wizard;  magician"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sorcerer, wizard, magician"
+      }
+    ]
+  },
+  {
+    "word": "thần thoại hy lạp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Greek mythology"
+      }
+    ]
+  },
+  {
+    "word": "thần hiệu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hiệu nghiệm một cách đặc biệt, giống như có phép thần\nVí dụ:\n- phương thuốc thần hiệu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần hiệu\n- Công hiệu lắm: Liều thuốc thần hiệu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần hiệu - marvelous efficacy, very effective, very efficacious"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "marvelous efficacy, very effective, very efficacious"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh đùi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-femoral nerve"
+      }
+    ]
+  },
+  {
+    "word": "thầm kín",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu kín ở trong lòng, không bộc lộ ra ngoài\nVí dụ:\n- nỗi buồn thầm kín \n - mơ ước thầm kín"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầm kín\n- Ngầm, không để lộ ra: Tình yêu thầm kín."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầm kín - in secret, secretly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in secret, secretly; secret"
+      }
+    ]
+  },
+  {
+    "word": "thầy lâm sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clinician"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh vận mao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-piloncotor nerves"
+      }
+    ]
+  },
+  {
+    "word": "thầy thuốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người làm nghề chữa bệnh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy thuốc\n- dt. Người làm nghề chữa bệnh: một thầy thuốc giỏi  thầy thuốc đông y."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy thuốc\n*noun\n-physician, doctor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-aesculaplan\n-physician"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầy thuốc\n* noun\n- physician, doctor"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "doctor, physician"
+      }
+    ]
+  },
+  {
+    "word": "thầy kí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ dùng để gọi tôn viên chức cấp thấp làm công việc giấy tờ, sổ sách ở các công sở, hãng buôn, nhà máy, v.v. thời Pháp thuộc"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh vận động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-motor never"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh hiền, nhánh lớn của thần kinh đùi tứ đùi trên, đi xuống phía dưới chân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saphenous never"
+      }
+    ]
+  },
+  {
+    "word": "thần sỉ âm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "labiodental"
+      }
+    ]
+  },
+  {
+    "word": "thầu xây cất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-housebuilder"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh cảm giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sensorynerve"
+      }
+    ]
+  },
+  {
+    "word": "thầu lại (một công việc...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subcontract"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh vận nhãn ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abducensnerve"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sacral nerves"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh - tâm thần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuropsychic"
+      }
+    ]
+  },
+  {
+    "word": "thầy bà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thầy giáo, hoặc nói chung những người vẫn thường được xã hội gọi tôn là thầy [nói khái quát; hàm ý coi thường]\nVí dụ:\n- thầy bà gì cái loại nó"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy bà\n- Thầy, (ngh.1 và 7) dùng với nghĩa xấu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy bà [thầy bà]\n-(đùa cợt)  soothsayers;  fortune-tellers;  magicians"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "soothsayers, fortune-tellers, magicians"
+      }
+    ]
+  },
+  {
+    "word": "thần xa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thần Xa\n- (xã) h. Võ Nhai, t. Thái Nguyên"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cinnabar"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh hệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần kinh hệ [thần kinh hệ"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nervous system"
+      }
+    ]
+  },
+  {
+    "word": "thần phục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần phục\n- đg. Chịu phục tùng và tự nhận làm bề tôi (của vua) hoặc chư hầu (của nước lớn)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần phục\n*verb\n-to owe allegiance to, to submit to"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần phục\n* verb\n- to owe allegiance to, to submit to"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to submit (to a conqueror)"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh thất dụng (mất chức năng thần kinh tạm thời gây ngứa ran, tê và yếu ớt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurapraxia"
+      }
+    ]
+  },
+  {
+    "word": "thầy phán",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy phán\n- Nhân viên hạng trung, làm việc bàn giấy trong các công sở thời pháp thuộc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy phán\n*noun\n-(cũ) senior clerk"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầy phán\n* noun\n- (cũ) senior clerk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "senior clerk"
+      }
+    ]
+  },
+  {
+    "word": "thần bí hoá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho trở nên thần bí\nVí dụ:\n- xu hướng thần bí hoá thơ ca"
+      }
+    ]
+  },
+  {
+    "word": "thầu khoán xây dựng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction contractor"
+      }
+    ]
+  },
+  {
+    "word": "thầu khoán",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nghề nhận thầu [thường là các công việc xây dựng]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầu khoán\n- d. Người chuyên làm nghề nhận thầu (thường là các công việc xây dựng) thời trước."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầu khoán\n*noun\n-contractor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-contractor"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầu khoán\n* noun\n- contractor"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "builder, contractor"
+      }
+    ]
+  },
+  {
+    "word": "thầy chùa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người ở chùa trông nom việc cúng Phật nhưng không xuất gia tu hành"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhà sư"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy chùa\n- d. 1. Người ở chùa giữ việc cúng Phật nhưng không tu hành. 2. (đph). Sư."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy chùa\n*noun\n-pagoda warden bonze"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầy chùa\n* noun\n- pagoda warden bonze"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pagoda warden bonze"
+      }
+    ]
+  },
+  {
+    "word": "thầy ký",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem thầy kí"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy ký\n- x. thầy kí."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy ký\n*noun\n-clerk"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầy ký\n* noun\n-clerk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "clerk"
+      }
+    ]
+  },
+  {
+    "word": "thần thánh hoá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho trở nên có tính chất thần thánh\nVí dụ:\n- nhân dân trong vùng thần thánh hoá vị tướng chỉ huy"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần thánh hoá - deify, deification"
+      }
+    ]
+  },
+  {
+    "word": "thần tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần tính - divine nature"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "divine nature"
+      }
+    ]
+  },
+  {
+    "word": "thần quyền",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quyền uy của thần thánh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần quyền\n- dt. Uy quyền của thần thánh, theo mê tín."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần quyền\n*noun\n-heavenly authority, deity"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần quyền\n* noun\n- heavenly authority, deity"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "heavenly authority, deity"
+      }
+    ]
+  },
+  {
+    "word": "thầu khoán ván khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-form contractor\n-formwork contractor"
+      }
+    ]
+  },
+  {
+    "word": "thầm lén",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "âm thầm và lén lút, không muốn cho người khác biết\nVí dụ:\n- thầm lén rủ nhau đi \n - yêu thầm lén"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầm lén - in secret, secretly, stealthily"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in secret, secretly, stealthily"
+      }
+    ]
+  },
+  {
+    "word": "thần thánh hóa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to deify, deification"
+      }
+    ]
+  },
+  {
+    "word": "thần sạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần sạ\n*noun\n-Cinnabar"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần sạ\n* noun\n- Cinnabar"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cinnabar"
+      }
+    ]
+  },
+  {
+    "word": "thần chết",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vị thần chuyên đi bắt người hết thời hạn sống trở về cõi âm, theo thần thoại [thường được tưởng tượng là bộ xương cầm lưỡi hái]\nVí dụ:\n- thoát khỏi bàn tay của thần chết"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thần Chết\n- dt. (viết hoa) Nhân vật (trong tín ngưỡng dân gian) đi đến từng nơi để bắt người đã hết hạn sống trở về cõi âm. Trong truyền thuyết phương Tây thường được biểu hiện bằng bộ xương cầm lưỡi hái"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần chết [thần chết"
+      }
+    ]
+  },
+  {
+    "word": "thầu phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subcontract"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh của cái phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nerve of covering"
       }
     ]
   },
@@ -38,25 +654,283 @@
     ]
   },
   {
-    "word": "thầu khoán ván khuôn",
+    "word": "thầy học",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-form contractor\n-formwork contractor"
+        "dict_definition": "@thầy học [thầy học]\n-xem"
       }
     ]
   },
   {
-    "word": "thần kinh nội tạng",
+    "word": "thầu dầu",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây nhỡ, lá hình chân vịt, hoa đơn tính, quả có gai, hạt ép lấy dầu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầu dầu\n- Loài cây cùng họ với sắn, trẩu, lá có cuống dài, quả có gai, chứa hạt có chất dầu dùng làm dầu xổ, dầu thắp..."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splanchnic nerves"
+        "dict_definition": "@thầu dầu\n*noun\n-ricinus,castor-oil plant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-castor"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầu dầu\n* noun\n- ricinus,castor-oil plant"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "castor oil plant"
       }
     ]
   },
   {
-    "word": "thầu khoán trưởng",
+    "word": "thầy kiện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy kiện\n- Cg. Thầy cãi. Nh. Luật sư (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy kiện [thầy kiện]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "thần công",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần công\n- Từ cũ chỉ trọng pháo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần công [thần công]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "thần vũ bất sát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thần vũ bất sát\n- Uy vũ như thần mà không thích chém giết\n- Kinh Dịch: \"Cổ chi thông minh duệ khí thần vũ nhi bất sát giả phù\" (Bậc thông minh sáng suốt thời xưa uy vũ như thần mà chẳng sát hại sinh linh)"
+      }
+    ]
+  },
+  {
+    "word": "thần tình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất tài tình, tới mức không thể giải thích nổi\nVí dụ:\n- nét vẽ thần tình \n - cú sút thật là thần tình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần tình\n- t. Tài tình tới mức không thể giải thích nổi. Nét vẽ thần tình. Thật là thần tình."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần tình\n*adj\n-extraodinary skilful"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần tình\n* adj\n- extraodinary skilful"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "extraodinary skillful"
+      }
+    ]
+  },
+  {
+    "word": "thần phả",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sách ghi chép gốc tích, sự tích của các vị thần trong đền thờ, miếu mạo"
+      }
+    ]
+  },
+  {
+    "word": "thần phong",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "kamikaze"
+      }
+    ]
+  },
+  {
+    "word": "thần học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "môn học về thần linh, làm cơ sở triết học cho tôn giáo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần học\n- d. Môn học về thần linh, làm cơ sở triết học cho tôn giáo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần học\n*noun\n-theology\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BOLZANO Bernard"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần học\n* noun\n- theology"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "theology"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuromuscular"
+      }
+    ]
+  },
+  {
+    "word": "thần tài",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thần phù hộ cho việc làm ăn buôn bán thuận lợi, phát tài, theo quan niệm dân gian\nVí dụ:\n- thờ thần tài"
+      }
+    ]
+  },
+  {
+    "word": "thần phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần phụ - Catholic priest, Catholic father"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(Catholic) priest, (Catholic) father"
+      }
+    ]
+  },
+  {
+    "word": "thần tử",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần tử\n- Bầy tôi đối với vua, con đối với cha: Đạo thần tử."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần tử - subject, servant"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "subject, servant"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần kinh học [thần kinh học"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "psychiatry, neurology"
+      }
+    ]
+  },
+  {
+    "word": "thầm lặng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "âm thầm và lặng lẽ, ít ai biết đến\nVí dụ:\n- sự hi sinh thầm lặng \n - giúp đỡ một cách thầm lặng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầm lặng\n- t. Âm thầm, lặng lẽ, ít ai biết đến. Cuộc chiến đấu thầm lặng. Sự hi sinh thầm lặng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầm lặng\n*adj\n-mute, silent"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầm lặng\n* adj\n- mute, silent"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mute, silent"
+      }
+    ]
+  },
+  {
+    "word": "thần trí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần trí - divine wisdom"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "spirit, mind, soul"
+      }
+    ]
+  },
+  {
+    "word": "thầu cung cấp cơm giá cố định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-contract to supply meal at a fixed price"
+      }
+    ]
+  },
+  {
+    "word": "thần chủ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần chủ\n- Bài vị đề tên người chết để thờ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần chủ - anestral tablet"
+      }
+    ]
+  },
+  {
+    "word": "thầy thuốc nhân dân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "danh hiệu của Nhà nước phong tặng cho thầy thuốc giỏi, có đạo đức, có nhiều cống hiến và có uy tín lớn trong nhân dân"
+      }
+    ]
+  },
+  {
+    "word": "thầy xí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy xí\n- Nhân viên thường làm việc hàng giấy trong thời Pháp thuộc."
+      }
+    ]
+  },
+  {
+    "word": "thầu khoán chính",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -65,24 +939,64 @@
     ]
   },
   {
-    "word": "thần kinh phế vị đồ",
+    "word": "thầu chia lại việc cho người khác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vagogram"
+        "dict_definition": "@Chuyên ngành kinh tế\n-job"
       }
     ]
   },
   {
-    "word": "thầm yêu trộm nhớ",
+    "word": "thầy địa",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thầy địa lí [nói tắt]"
+      }
+    ]
+  },
+  {
+    "word": "thần tượng hóa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to idolize"
+      }
+    ]
+  },
+  {
+    "word": "thần mộng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần mộng\n- Lời báo mộng của thần, ý nói lời Đạm Tiên dặn trong chiêm bao, lúc Kiều tự vẫn ở nhà Tú Bà: \"Sông Tiền Đường sẽ hẹn hò về sau\""
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@thầm yêu trộm nhớ [thầm yêu trộm nhớ"
+        "dict_definition": "@thần mộng - dream sent by God"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to love somebody secret"
+        "dict_definition": "dream sent by god"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh tiền đình - ốc tai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vestibulocochlear nerve"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh thính giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-auditorynerve"
       }
     ]
   },
@@ -112,88 +1026,66 @@
     ]
   },
   {
-    "word": "thần kinh vận nhãn ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abducensnerve"
-      }
-    ]
-  },
-  {
-    "word": "thần bí",
+    "word": "thần tiên",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thuộc về thần linh, có chứa đựng những điều không thể hiểu được, theo quan niệm duy tâm\nVí dụ:\n- thế giới thần bí \n - chuyện thần bí"
+        "dict_definition": "thuộc về thế giới của thần và tiên; thường dùng để ví sự tốt đẹp đạt đến mức không gì sánh nổi\nVí dụ:\n- xứ sở thần tiên \n - chốn thần tiên \n - thuốc thần tiên"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần bí\n- Mầu nhiệm bí mật : Đạo lý thần bí. Chủ nghĩa thần bí. Quan niệm duy tâm cho rằng vạn vật trong vũ trụ đều do thần sinh ra, nhằm che đậy những thối nát của xã hội đương thời đang có mâu thuẫn gay gắt."
+        "dict_definition": "@thần tiên\n- 1. d. Người tịch cốc tu hành đắc đạo, theo mê tín. 2. t. Có công hiệu lạ thường: Thuốc thần tiên."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần bí\n*adj\n-mystical\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mystic"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần bí\n* adj\n- mystical"
+        "dict_definition": "@thần tiên - the immortals, the gods\n\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fairy"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "mystical, divine"
+        "dict_definition": "magic, enchanting; the immortals, the gods"
       }
     ]
   },
   {
-    "word": "thầy số",
+    "word": "thần kinh trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ulnar nerve"
+      }
+    ]
+  },
+  {
+    "word": "thần sắc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nghề xem số [thường là xem số tử vi]"
-      }
-    ]
-  },
-  {
-    "word": "thần hôn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần hôn\n- d. 1. Buổi sáng và buổi tối. 2. Nói người con sớm tối săn sóc cha mẹ (cũ)."
-      }
-    ]
-  },
-  {
-    "word": "thầy dòng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thầy tu Công giáo [nhưng không phải là linh mục], thường lo việc dạy học trong các nhà trường của Công giáo"
+        "dict_definition": "sắc mặt, biểu hiện trạng thái sức khoẻ hoặc tinh thần của con người\nVí dụ:\n- thần sắc nhợt nhạt \n - sợ mất cả thần sắc"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy dòng\n- d. Thầy tu Công giáo mà không phải là linh mục."
+        "dict_definition": "@thần sắc\n- Vẻ mặt do tinh thần hiện ra."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thầy dòng\n*noun\n-friar, monk"
+        "dict_definition": "@thần sắc\n*noun\n-look, complextion, countenance"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy dòng\n* noun\n- friar, monk"
+        "dict_definition": "@thần sắc\n* noun\n- look, complextion, countenance"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "friar, monk"
+        "dict_definition": "look, complexion, countenance"
       }
     ]
   },
   {
-    "word": "thần kinh của cơ",
+    "word": "thần kinh phân tiết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuromyon"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurosecretion"
       }
     ]
   },
@@ -227,54 +1119,27 @@
     ]
   },
   {
-    "word": "thầy đờn",
+    "word": "thần tốc",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy đờn [thầy đờn]\n-music teacher"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhanh chóng một cách phi thường, thường nói trong phép dùng binh\nVí dụ:\n- cuộc hành quân thần tốc"
       },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "music teacher"
-      }
-    ]
-  },
-  {
-    "word": "thầy thông",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy thông\n- d. 1. Nhân viên hạng trung, dưới thầy phán, trong thời pháp thuộc. 2. Người làm nghề phiên dịch trong thời Pháp thuộc."
+        "dict_definition": "@thần tốc\n- tt. Hết sức nhanh chóng, nhanh chóng đến mức phi thường (thường nói về việc binh): cuộc hành quân thần tốc  lối đánh thần tốc."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thầy thông [thầy thông]\n-interpreter"
+        "dict_definition": "@thần tốc\n*adj\n-at lightening speed"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần tốc\n* adj\n- at lightening speed"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "interpreter"
-      }
-    ]
-  },
-  {
-    "word": "thần phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần phụ - Catholic priest, Catholic father"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(Catholic) priest, (Catholic) father"
-      }
-    ]
-  },
-  {
-    "word": "thầm cầu nguyện",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to whisper a prayer"
+        "dict_definition": "at lightning speed. lightning-fast"
       }
     ]
   },
@@ -288,269 +1153,201 @@
     ]
   },
   {
-    "word": "thần thoại hy lạp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Greek mythology"
-      }
-    ]
-  },
-  {
-    "word": "thần trí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần trí - divine wisdom"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "spirit, mind, soul"
-      }
-    ]
-  },
-  {
-    "word": "thần vũ bất sát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thần vũ bất sát\n- Uy vũ như thần mà không thích chém giết\n- Kinh Dịch: \"Cổ chi thông minh duệ khí thần vũ nhi bất sát giả phù\" (Bậc thông minh sáng suốt thời xưa uy vũ như thần mà chẳng sát hại sinh linh)"
-      }
-    ]
-  },
-  {
-    "word": "thầy giùi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy giùi\n- Người chuyên xúi giục người ta gây chuyện, kiện cáo nhau."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy giùi [thầy giùi]\n-instigator;  inciter;  agitator"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "instigator, inciter, agitator"
-      }
-    ]
-  },
-  {
-    "word": "thần thế",
+    "word": "thần kinh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chỗ dựa mạnh, có quyền uy và thế lực\nVí dụ:\n- cậy thần thế mà kiêu ngạo \n - một gia đình giàu có và thần thế"
+        "dict_definition": "bộ máy của cơ thể động vật, có khả năng dẫn truyền kích thích và điều khiển các phản ứng đối với những kích thích đó, giúp động vật sống và hoạt động bình thường trong môi trường xung quanh\nVí dụ:\n- suy nhược thần kinh \n - thần kinh căng thẳng"
       },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần thế - powerful, potent, mighty"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "powerful, potent, mighty"
-      }
-    ]
-  },
-  {
-    "word": "thầy thuốc nhân dân",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "danh hiệu của Nhà nước phong tặng cho thầy thuốc giỏi, có đạo đức, có nhiều cống hiến và có uy tín lớn trong nhân dân"
-      }
-    ]
-  },
-  {
-    "word": "thần khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần khí - vigour, stamina"
+        "dict_definition": "như tâm thần [ng2]\nVí dụ:\n- mắc chứng thần kinh"
       },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "vigor, stamina"
-      }
-    ]
-  },
-  {
-    "word": "thần đạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần đạo [thần đạo]\n-Shinto (a religion native to Japan, characterized by veneration of nature spirits and ancestors and by a lack of formal dogma)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Shinto"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh - tâm thần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuropsychic"
-      }
-    ]
-  },
-  {
-    "word": "thầu khoán phá hủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-demolition contractor"
-      }
-    ]
-  },
-  {
-    "word": "thầy thừa",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy thừa\n- X. Thừa phái."
-      }
-    ]
-  },
-  {
-    "word": "thần sạ",
-    "definitions": [
+        "dict_definition": "@thần kinh\n- Bộ phận trong cơ thể gồm có não, tủy và các dây tỏa khắp cơ thể, chuyên việc liên hệ giữa cơ thể và môi trường sinh sống, và giữa các cơ quan bộ phận trong cơ thể với nhau. Bệnh thần kinh. Bệnh do sự rối loạn của hệ thần kinh gây ra như bệnh điên, bệnh động kinh, bệnh mê sảng. Hệ thần kinh (giải). Bộ máy thích ứng của cơ thể đối với hoàn cảnh và điều khiển toàn bộ cơ thể, gồm có não, tuỷ và các dây thần kinh đi từ các phần cảm giác của ngũ quan đến tủy, não, và ngược lại, chuyên phân tích và tổng hợp những kích thích bên ngoài và bên trong cơ thể, tạo thành những phản xạ cần thiết cho đời sống.\n- Kinh đô của vua (cũ)."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần sạ\n*noun\n-Cinnabar"
+        "dict_definition": "@thần kinh\n*noun\n-nerves\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nerve\n@Lĩnh vực: xây dựng\n-neural"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần sạ\n* noun\n- Cinnabar"
+        "dict_definition": "@thần kinh\n* noun\n- nerves"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cinnabar"
+        "dict_definition": "nerve(s)"
       }
     ]
   },
   {
-    "word": "thần thoại",
+    "word": "thần chú",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "truyện kể dân gian về các vị thần hoặc các nhân vật anh hùng đã được thần thánh hoá, phản ánh những quan niệm ngây thơ của con người thời xa xưa về các hiện tượng tự nhiên và khát vọng trong đấu tranh chinh phục thiên nhiên\nVí dụ:\n- truyện thần thoại Hi Lạp"
+        "dict_definition": "lời bí ẩn đọc lên để sai khiến quỷ thần, theo mê tín\nVí dụ:\n- niệm thần chú \n - đọc câu thần chú"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần thoại\n- dt. Truyện tưởng tượng về các vị thần, biểu hiện ước mơ chinh phục tự nhiên của con người xưa kia: truyện thần thoại  nhân vật thần thoại."
+        "dict_definition": "@thần chú\n- d. Lời bí ẩn dùng để sai khiến quỷ thần, theo mê tín. Niệm thần chú."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần thoại\n*noun\n-mythology"
+        "dict_definition": "@thần chú\n*noun\n-incantation"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần thoại\n* noun\n- mythology"
+        "dict_definition": "@thần chú\n* noun\n- incantation"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "mythology"
+        "dict_definition": "incantation, spell"
       }
     ]
   },
   {
-    "word": "thần kinh ngoại biên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ phận của hệ thần kinh, chủ yếu gồm các dây thần kinh, nhận các kích thích từ bên ngoài rồi dẫn về thần kinh trung ương"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần kinh ngoại biên [thần kinh ngoại biên]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "thần lực",
+    "word": "thầm vụng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần lực\n- Sức mạnh ghê gớm."
+        "dict_definition": "@thầm vụng\n- Kín đáo và lén lút: Yêu thầm vụng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần lực\n*noun\n-miraculous strength"
+        "dict_definition": "@thầm vụng - secretly, in secret\n-inwardly, by stealth"
+      }
+    ]
+  },
+  {
+    "word": "thầy cãi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy cãi\n- Luật sư."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy cãi [thầy cãi]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "thầy mo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thầy cúng ở một số dân tộc thiểu số miền Bắc Việt Nam"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy mo\n- Thầy cúng ở miền núi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy mo [thầy mo]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "thầy tướng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nghề xem tướng để đoán số mệnh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy tướng\n- d. Người làm nghề xem tướng để đoán số mệnh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy tướng\n*noun\n-physiognomist"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần lực\n* noun\n- miraculous strength"
+        "dict_definition": "@thầy tướng\n* noun\n- physiognomist"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "supernatural force"
+        "dict_definition": "physiognomist"
       }
     ]
   },
   {
-    "word": "thầm nghĩ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to think to oneself"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh vận động",
+    "word": "thầy cô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-motor never"
+        "dict_definition": "@thầy cô [thầy cô]\n-(nói chung) teachers"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "teacher"
       }
     ]
   },
   {
-    "word": "thầy lang",
+    "word": "thần sa",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thầy thuốc chuyên chữa bệnh bằng phương pháp đông y, thường chủ yếu dựa theo kinh nghiệm"
+        "dict_definition": "khoáng vật màu đỏ có chứa thuỷ ngân, dùng làm thuốc"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy lang\n- Thầy thuốc Đông y."
+        "dict_definition": "@thần sa\n- (địa) Sun-fua thủy ngân tự nhiên, có màu đỏ tươi thắm, từ đó người ta lấy ra thủy ngân."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thầy lang [thầy lang]\n-herb doctor;  herbalist"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "herb doctor, herbalist"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zinnober"
       }
     ]
   },
   {
-    "word": "thầm lặng",
+    "word": "thầy dòng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "âm thầm và lặng lẽ, ít ai biết đến\nVí dụ:\n- sự hi sinh thầm lặng \n - giúp đỡ một cách thầm lặng"
+        "dict_definition": "thầy tu Công giáo [nhưng không phải là linh mục], thường lo việc dạy học trong các nhà trường của Công giáo"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầm lặng\n- t. Âm thầm, lặng lẽ, ít ai biết đến. Cuộc chiến đấu thầm lặng. Sự hi sinh thầm lặng."
+        "dict_definition": "@thầy dòng\n- d. Thầy tu Công giáo mà không phải là linh mục."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thầm lặng\n*adj\n-mute, silent"
+        "dict_definition": "@thầy dòng\n*noun\n-friar, monk"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầm lặng\n* adj\n- mute, silent"
+        "dict_definition": "@thầy dòng\n* noun\n- friar, monk"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "mute, silent"
+        "dict_definition": "friar, monk"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh phế vị đồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vagogram"
+      }
+    ]
+  },
+  {
+    "word": "thần hạ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần hạ\n- Từ mà người bầy tôi dùng để xưng với vua."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần hạ - I, me (used by subject to King)"
       }
     ]
   },
@@ -580,720 +1377,11 @@
     ]
   },
   {
-    "word": "thầy đồ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy đồ\n- Người dạy học chữ nho ngày xưa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy đồ [thầy đồ]\n-Confucian scholar;  teacher"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Confucian scholar, teacher"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh móng ngựa",
+    "word": "thần kinh vận nhãn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-horseshoe kidney"
-      }
-    ]
-  },
-  {
-    "word": "thầy thuốc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người làm nghề chữa bệnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy thuốc\n- dt. Người làm nghề chữa bệnh: một thầy thuốc giỏi  thầy thuốc đông y."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy thuốc\n*noun\n-physician, doctor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-aesculaplan\n-physician"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy thuốc\n* noun\n- physician, doctor"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "doctor, physician"
-      }
-    ]
-  },
-  {
-    "word": "thần chết",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vị thần chuyên đi bắt người hết thời hạn sống trở về cõi âm, theo thần thoại [thường được tưởng tượng là bộ xương cầm lưỡi hái]\nVí dụ:\n- thoát khỏi bàn tay của thần chết"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thần Chết\n- dt. (viết hoa) Nhân vật (trong tín ngưỡng dân gian) đi đến từng nơi để bắt người đã hết hạn sống trở về cõi âm. Trong truyền thuyết phương Tây thường được biểu hiện bằng bộ xương cầm lưỡi hái"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần chết [thần chết"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh phân tiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurosecretion"
-      }
-    ]
-  },
-  {
-    "word": "thần thông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất phi thường, có khả năng hiểu thấu mọi sự và biến hoá khó lường\nVí dụ:\n- có phép thần thông"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần thông\n- Mầu nhiệm, có phép biến hoá."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần thông\n*adj\n-magic, wonder-working"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần thông\n* adj\n- magic, wonder-working"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "magic, wonder-working"
-      }
-    ]
-  },
-  {
-    "word": "thầy thuốc ưu tú",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "danh hiệu của Nhà nước phong tặng cho thầy thuốc giỏi, có đạo đức, có thành tích xuất sắc, được nhân dân tín nhiệm"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh thiệt hầu, thần kinh sọ thứ chín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-glossopharyngeal nerve"
-      }
-    ]
-  },
-  {
-    "word": "thầy tu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người đàn ông tu hành"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy tu\n- Người bỏ đời sống bình thường để sống theo qui chế của một tôn giáo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy tu\n*noun\n-priest, monk"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy tu\n* noun\n- priest, monk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "priest, monk"
-      }
-    ]
-  },
-  {
-    "word": "thầy học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy học [thầy học]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh phế vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vagus nerve"
-      }
-    ]
-  },
-  {
-    "word": "thầu xây cất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-housebuilder"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh tiền đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vestibular nerve"
-      }
-    ]
-  },
-  {
-    "word": "thần mộng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần mộng\n- Lời báo mộng của thần, ý nói lời Đạm Tiên dặn trong chiêm bao, lúc Kiều tự vẫn ở nhà Tú Bà: \"Sông Tiền Đường sẽ hẹn hò về sau\""
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần mộng - dream sent by God"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dream sent by god"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh hệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần kinh hệ [thần kinh hệ"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nervous system"
-      }
-    ]
-  },
-  {
-    "word": "thầu thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax farming"
-      }
-    ]
-  },
-  {
-    "word": "thần thánh hóa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to deify, deification"
-      }
-    ]
-  },
-  {
-    "word": "thần tình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất tài tình, tới mức không thể giải thích nổi\nVí dụ:\n- nét vẽ thần tình \n - cú sút thật là thần tình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần tình\n- t. Tài tình tới mức không thể giải thích nổi. Nét vẽ thần tình. Thật là thần tình."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần tình\n*adj\n-extraodinary skilful"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần tình\n* adj\n- extraodinary skilful"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "extraodinary skillful"
-      }
-    ]
-  },
-  {
-    "word": "thần kỳ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem thần kì"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần kỳ\n- x. thần kì."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần kỳ\n*adjective\n-marvellous, miraculuos\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-legendary\n@Lĩnh vực: điện lạnh\n-magic"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần kỳ\n* adjective\n-marvellous, miraculuos"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "marvelous, miraculous"
-      }
-    ]
-  },
-  {
-    "word": "thần tượng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tượng thần; dùng để ví cái được tôn sùng, chiêm ngưỡng\nVí dụ:\n- thần tượng bóng đá"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần tượng\n- d. 1. Hình hoặc ảnh của người đã chết. 2. Hình một đấng coi là thiêng liêng, được tôn sùng và chiêm ngưỡng : Con bò bằng vàng là thần tượng của người Do Thái. 3. Người hay vật được quí trọng hay tôn sùng một cách say mê : Những nhà độc tài phát xít cho rằng mình là thần tượng của nhân dân."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần tượng\n*noun\n-icon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-idol"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần tượng\n* noun\n- icon"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "icon"
-      }
-    ]
-  },
-  {
-    "word": "thầy kiện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy kiện\n- Cg. Thầy cãi. Nh. Luật sư (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy kiện [thầy kiện]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "thần diệu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có khả năng đưa lại hiệu quả tốt đẹp đến mức đáng kinh ngạc, giống như có phép thần\nVí dụ:\n- kế sách thần diệu \n - phương thuốc thần diệu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần diệu\n- tt. Có khả năng đem lại kết quả tốt đẹp một cách kì lạ, như có phép mầu nhiệm: loại thuốc thần diệu  kế thần diệu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần diệu\n*adj\n-marvelluos, miraculous"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần diệu\n* adj\n- marvelluos, miraculous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miraculous, marvellous"
-      }
-    ]
-  },
-  {
-    "word": "thầy thuốc bắt mạch",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the physician feels the patient’s pulse"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh tủy sống phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinal accesory nerve"
-      }
-    ]
-  },
-  {
-    "word": "thầy tào",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thầy cúng theo đạo giáo trong một số dân tộc thiểu số"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental nerve"
-      }
-    ]
-  },
-  {
-    "word": "thần ngôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần ngôn - the divine word, logos"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the divine word, logos"
-      }
-    ]
-  },
-  {
-    "word": "thần tượng hóa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to idolize"
-      }
-    ]
-  },
-  {
-    "word": "thần hạ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần hạ\n- Từ mà người bầy tôi dùng để xưng với vua."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần hạ - I, me (used by subject to King)"
-      }
-    ]
-  },
-  {
-    "word": "thần thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần thuật - magic"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "magic"
-      }
-    ]
-  },
-  {
-    "word": "thần tử",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần tử\n- Bầy tôi đối với vua, con đối với cha: Đạo thần tử."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần tử - subject, servant"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "subject, servant"
-      }
-    ]
-  },
-  {
-    "word": "thầy bói",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nghề bói toán\nVí dụ:\n- thầy bói nói dựa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy bói\n- dt. Người chuyên nghề bói toán, xem số phận cho từng người: thầy bói xem voi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy bói\n*noun\n-fortuneteller, soothsayer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fortune-teller"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy bói\n* noun\n- fortuneteller, soothsayer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fortuneteller, soothsayer"
-      }
-    ]
-  },
-  {
-    "word": "thầm lén",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "âm thầm và lén lút, không muốn cho người khác biết\nVí dụ:\n- thầm lén rủ nhau đi \n - yêu thầm lén"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầm lén - in secret, secretly, stealthily"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in secret, secretly, stealthily"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sacral nerves"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh cảm giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sensorynerve"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh hiền, nhánh lớn của thần kinh đùi tứ đùi trên, đi xuống phía dưới chân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saphenous never"
-      }
-    ]
-  },
-  {
-    "word": "thần công",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần công\n- Từ cũ chỉ trọng pháo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần công [thần công]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "thầy ký",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem thầy kí"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy ký\n- x. thầy kí."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy ký\n*noun\n-clerk"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy ký\n* noun\n-clerk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "clerk"
-      }
-    ]
-  },
-  {
-    "word": "thần dược",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần dược\n- Thuốc công hiệu lắm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần dược [thần dược]\n-wonderful remedy;  panacea;  miracle"
-      }
-    ]
-  },
-  {
-    "word": "thầm thì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như thì thầm\nVí dụ:\n- chị thầm thì với chồng trong buồng \n - hai đứa thầm thì với nhau cả buổi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầm thì\n- Nói khẽ và kín: Thầm thì chuyện riêng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầm thì - whisper, in a whisper, under one\"s breath"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "whisper, in a whisper, under one’s breath"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-facial nerve"
-      }
-    ]
-  },
-  {
-    "word": "thần âm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "labial"
-      }
-    ]
-  },
-  {
-    "word": "thầy lâm sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clinician"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh của cái phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nerve of covering"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh vận mao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-piloncotor nerves"
-      }
-    ]
-  },
-  {
-    "word": "thầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhận thầu [nói tắt]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầu\n- 1 đgt. Nhận trọn gói công việc xây dựng hoặc dịch vụ gì cho người khác theo giá cả và các điều kiện đã thoả thuận: thầu xây dựng  đấu thầu.\n- 2 đgt., khng., lóng Lấy trộm đi: bị kẻ cắp thầu mất cái ví tiền."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầu\n*verb\n-to contract to take all to pinch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bid"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầu\n* verb\n- to contract to take all to pinch"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) contract; (2) to steal"
-      }
-    ]
-  },
-  {
-    "word": "thần tiên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thuộc về thế giới của thần và tiên; thường dùng để ví sự tốt đẹp đạt đến mức không gì sánh nổi\nVí dụ:\n- xứ sở thần tiên \n - chốn thần tiên \n - thuốc thần tiên"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần tiên\n- 1. d. Người tịch cốc tu hành đắc đạo, theo mê tín. 2. t. Có công hiệu lạ thường: Thuốc thần tiên."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần tiên - the immortals, the gods\n\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fairy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "magic, enchanting; the immortals, the gods"
-      }
-    ]
-  },
-  {
-    "word": "thầm cám ơn trời",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to thank heaven"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh thính giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-auditorynerve"
-      }
-    ]
-  },
-  {
-    "word": "thần quyền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quyền uy của thần thánh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần quyền\n- dt. Uy quyền của thần thánh, theo mê tín."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần quyền\n*noun\n-heavenly authority, deity"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần quyền\n* noun\n- heavenly authority, deity"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "heavenly authority, deity"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oculomotor nerve"
       }
     ]
   },
@@ -1311,37 +1399,33 @@
     ]
   },
   {
-    "word": "thầy mẹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy mẹ [thầy mẹ]\n-xem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "parents"
-      }
-    ]
-  },
-  {
-    "word": "thầy thợ",
+    "word": "thầy thừa",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy thợ\n- d. 1. Từ chỉ dân thầy (thông, ký, phán) và dân thợ (công nhân) trong thời Pháp thuộc. 2. Người lo việc giúp người khác trong xã hội cũ: Phải có thầy thợ thì việc mới xong."
+        "dict_definition": "@thầy thừa\n- X. Thừa phái."
       }
     ]
   },
   {
-    "word": "thần kinh học",
+    "word": "thần nhân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần kinh học [thần kinh học"
+        "dict_definition": "@thần nhân - the divine man"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "psychiatry, neurology"
+        "dict_definition": "the divine man"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh của cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuromyon"
       }
     ]
   },
@@ -1359,6 +1443,352 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "priest"
+      }
+    ]
+  },
+  {
+    "word": "thầy giùi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy giùi\n- Người chuyên xúi giục người ta gây chuyện, kiện cáo nhau."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy giùi [thầy giùi]\n-instigator;  inciter;  agitator"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "instigator, inciter, agitator"
+      }
+    ]
+  },
+  {
+    "word": "thần ngôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần ngôn - the divine word, logos"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the divine word, logos"
+      }
+    ]
+  },
+  {
+    "word": "thầy cò",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy cò\n- Người trong xã hội cũ chuyên làm thuê đơn từ, lo việc kiện cáo cho người khác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy cò [thầy cò]\n-(từ gốc tiếng Pháp là Correcteur) proof-reader"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh nội tiết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuroendocrine"
+      }
+    ]
+  },
+  {
+    "word": "thần kì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tài tình một cách kì lạ, tới mức như không thể tưởng tượng nổi\nVí dụ:\n- sức mạnh thần kì \n - câu chuyện thần kì"
+      }
+    ]
+  },
+  {
+    "word": "thần minh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần minh\n- Quỉ thần nói chung."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần minh - divinity, Godhead, deity"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "divinity, godhead, deity"
+      }
+    ]
+  },
+  {
+    "word": "thầy thông",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy thông\n- d. 1. Nhân viên hạng trung, dưới thầy phán, trong thời pháp thuộc. 2. Người làm nghề phiên dịch trong thời Pháp thuộc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy thông [thầy thông]\n-interpreter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "interpreter"
+      }
+    ]
+  },
+  {
+    "word": "thần xác",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần thể xác của con người [thường hàm ý chê bai, coi thường]\nVí dụ:\n- thần xác mệt mỏi \n - đi từ sáng, giờ mới dẫn thần xác về"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh quay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-radial nerve"
+      }
+    ]
+  },
+  {
+    "word": "thầy trò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy trò [thầy trò]\n-teacher and student"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "teacher and student"
+      }
+    ]
+  },
+  {
+    "word": "thần lực",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần lực\n- Sức mạnh ghê gớm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần lực\n*noun\n-miraculous strength"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần lực\n* noun\n- miraculous strength"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "supernatural force"
+      }
+    ]
+  },
+  {
+    "word": "thầy địa lí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nghề xem thế đất để tìm chỗ đặt mồ mả, dựng nhà cửa cho được may mắn, theo thuật phong thuỷ\nVí dụ:\n- \"Hòn đất mà biết nói năng, Thì thầy địa lí hàm răng chẳng còn.\" (Cdao)"
+      }
+    ]
+  },
+  {
+    "word": "thầy dùi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên kiếm chuyện để xúi giục người này người khác gây xích mích, mâu thuẫn với nhau, để mình ở giữa kiếm lợi\nVí dụ:\n- không nên nghe theo bọn thầy dùi"
+      }
+    ]
+  },
+  {
+    "word": "thần tích",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sự tích của các vị thần thánh được ghi chép, lưu truyền lại"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần tích - stories of the gods"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "stories of the gods"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh phế vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vagus nerve"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh móng ngựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-horseshoe kidney"
+      }
+    ]
+  },
+  {
+    "word": "thần âm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "labial"
+      }
+    ]
+  },
+  {
+    "word": "thầy mẹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy mẹ [thầy mẹ]\n-xem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "parents"
+      }
+    ]
+  },
+  {
+    "word": "thầm cầu nguyện",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to whisper a prayer"
+      }
+    ]
+  },
+  {
+    "word": "thần đạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần đạo [thần đạo]\n-Shinto (a religion native to Japan, characterized by veneration of nature spirits and ancestors and by a lack of formal dogma)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Shinto"
+      }
+    ]
+  },
+  {
+    "word": "thầy lang",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thầy thuốc chuyên chữa bệnh bằng phương pháp đông y, thường chủ yếu dựa theo kinh nghiệm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầy lang\n- Thầy thuốc Đông y."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy lang [thầy lang]\n-herb doctor;  herbalist"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "herb doctor, herbalist"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh tủy sống phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinal accesory nerve"
+      }
+    ]
+  },
+  {
+    "word": "thần hộ mệnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-guardian angel"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh dễ bị kích thích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nervousirritability"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-facial nerve"
+      }
+    ]
+  },
+  {
+    "word": "thầu lại (một việc....)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subcontract"
+      }
+    ]
+  },
+  {
+    "word": "thầu thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax farming"
+      }
+    ]
+  },
+  {
+    "word": "thầy địa lý",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem thầy địa lí"
+      }
+    ]
+  },
+  {
+    "word": "thầm nghĩ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to think to oneself"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh nội tạng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splanchnic nerves"
       }
     ]
   },
@@ -1400,327 +1830,151 @@
     ]
   },
   {
-    "word": "thần sắc",
+    "word": "thần thái",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sắc mặt, biểu hiện trạng thái sức khoẻ hoặc tinh thần của con người\nVí dụ:\n- thần sắc nhợt nhạt \n - sợ mất cả thần sắc"
+        "dict_definition": "những biểu hiện bên ngoài như vẻ mặt, dáng đi, điệu bộ, cử chỉ của con người [nói tổng quát]\nVí dụ:\n- thần thái mệt mỏi"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần sắc\n- Vẻ mặt do tinh thần hiện ra."
+        "dict_definition": "@thần thái\n- Dáng vẻ do tinh thần bên trong hiện ra."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần sắc\n*noun\n-look, complextion, countenance"
+        "dict_definition": "@thần thái - look, appearance, mien"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "look, appearance, mien"
+      }
+    ]
+  },
+  {
+    "word": "thầy tào",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thầy cúng theo đạo giáo trong một số dân tộc thiểu số"
+      }
+    ]
+  },
+  {
+    "word": "thần thông",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất phi thường, có khả năng hiểu thấu mọi sự và biến hoá khó lường\nVí dụ:\n- có phép thần thông"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần thông\n- Mầu nhiệm, có phép biến hoá."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần thông\n*adj\n-magic, wonder-working"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần sắc\n* noun\n- look, complextion, countenance"
+        "dict_definition": "@thần thông\n* adj\n- magic, wonder-working"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "look, complexion, countenance"
+        "dict_definition": "magic, wonder-working"
       }
     ]
   },
   {
-    "word": "thần kinh thất dụng (mất chức năng thần kinh tạm thời gây ngứa ran, tê và yếu ớt)",
+    "word": "thầu khoán phá hủy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurapraxia"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-demolition contractor"
       }
     ]
   },
   {
-    "word": "thần tích",
+    "word": "thầy tu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sự tích của các vị thần thánh được ghi chép, lưu truyền lại"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần tích - stories of the gods"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stories of the gods"
-      }
-    ]
-  },
-  {
-    "word": "thầy trò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy trò [thầy trò]\n-teacher and student"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "teacher and student"
-      }
-    ]
-  },
-  {
-    "word": "thần hiệu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hiệu nghiệm một cách đặc biệt, giống như có phép thần\nVí dụ:\n- phương thuốc thần hiệu"
+        "dict_definition": "người đàn ông tu hành"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần hiệu\n- Công hiệu lắm: Liều thuốc thần hiệu."
+        "dict_definition": "@thầy tu\n- Người bỏ đời sống bình thường để sống theo qui chế của một tôn giáo."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần hiệu - marvelous efficacy, very effective, very efficacious"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "marvelous efficacy, very effective, very efficacious"
-      }
-    ]
-  },
-  {
-    "word": "thầm kín",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu kín ở trong lòng, không bộc lộ ra ngoài\nVí dụ:\n- nỗi buồn thầm kín \n - mơ ước thầm kín"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầm kín\n- Ngầm, không để lộ ra: Tình yêu thầm kín."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầm kín - in secret, secretly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in secret, secretly; secret"
-      }
-    ]
-  },
-  {
-    "word": "thần xác",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần thể xác của con người [thường hàm ý chê bai, coi thường]\nVí dụ:\n- thần xác mệt mỏi \n - đi từ sáng, giờ mới dẫn thần xác về"
-      }
-    ]
-  },
-  {
-    "word": "thầy cúng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nghề cúng bái cầu thần thánh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy cúng\n- Người làm nghề cúng bái cho người ta (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy cúng [thầy cúng]\n-sorcerer;  wizard;  magician"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sorcerer, wizard, magician"
-      }
-    ]
-  },
-  {
-    "word": "thầy địa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thầy địa lí [nói tắt]"
-      }
-    ]
-  },
-  {
-    "word": "thầu cung cấp cơm giá cố định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-contract to supply meal at a fixed price"
-      }
-    ]
-  },
-  {
-    "word": "thần minh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần minh\n- Quỉ thần nói chung."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần minh - divinity, Godhead, deity"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "divinity, godhead, deity"
-      }
-    ]
-  },
-  {
-    "word": "thầu lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầu lại [thầu lại]\n-to work as a subcontractor;  to subcontract\n@Chuyên ngành kinh tế\n-job\n-Subcontracting (Sub-contracting)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to subcontract"
-      }
-    ]
-  },
-  {
-    "word": "thần dân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần dân\n- Nhân dân ở dưới quyền vua."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần dân [thần dân]\n-subject;  (nói chung) people\n@Chuyên ngành kinh tế\n-subject"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the people"
-      }
-    ]
-  },
-  {
-    "word": "thần chú",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lời bí ẩn đọc lên để sai khiến quỷ thần, theo mê tín\nVí dụ:\n- niệm thần chú \n - đọc câu thần chú"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần chú\n- d. Lời bí ẩn dùng để sai khiến quỷ thần, theo mê tín. Niệm thần chú."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần chú\n*noun\n-incantation"
+        "dict_definition": "@thầy tu\n*noun\n-priest, monk"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần chú\n* noun\n- incantation"
+        "dict_definition": "@thầy tu\n* noun\n- priest, monk"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "incantation, spell"
+        "dict_definition": "priest, monk"
       }
     ]
   },
   {
-    "word": "thầu lại (một việc....)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subcontract"
-      }
-    ]
-  },
-  {
-    "word": "thầu phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subcontract"
-      }
-    ]
-  },
-  {
-    "word": "thầm vụng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầm vụng\n- Kín đáo và lén lút: Yêu thầm vụng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầm vụng - secretly, in secret\n-inwardly, by stealth"
-      }
-    ]
-  },
-  {
-    "word": "thần sỉ âm",
+    "word": "thầm cám ơn trời đất",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "labiodental"
+        "dict_definition": "to whisper one’s thanks"
       }
     ]
   },
   {
-    "word": "thần sa",
+    "word": "thầm yêu trộm nhớ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoáng vật màu đỏ có chứa thuỷ ngân, dùng làm thuốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần sa\n- (địa) Sun-fua thủy ngân tự nhiên, có màu đỏ tươi thắm, từ đó người ta lấy ra thủy ngân."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zinnober"
+        "dict_definition": "@thầm yêu trộm nhớ [thầm yêu trộm nhớ"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to love somebody secret"
       }
     ]
   },
   {
-    "word": "thầy cãi",
+    "word": "thầy đờn",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy cãi\n- Luật sư."
+        "dict_name": "SPDict",
+        "dict_definition": "@thầy đờn [thầy đờn]\n-music teacher"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy cãi [thầy cãi]\n-xem"
+        "dict_name": "VNEDICT",
+        "dict_definition": "music teacher"
       }
     ]
   },
   {
-    "word": "thần kinh",
+    "word": "thần diệu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ máy của cơ thể động vật, có khả năng dẫn truyền kích thích và điều khiển các phản ứng đối với những kích thích đó, giúp động vật sống và hoạt động bình thường trong môi trường xung quanh\nVí dụ:\n- suy nhược thần kinh \n - thần kinh căng thẳng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như tâm thần [ng2]\nVí dụ:\n- mắc chứng thần kinh"
+        "dict_definition": "có khả năng đưa lại hiệu quả tốt đẹp đến mức đáng kinh ngạc, giống như có phép thần\nVí dụ:\n- kế sách thần diệu \n - phương thuốc thần diệu"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần kinh\n- Bộ phận trong cơ thể gồm có não, tủy và các dây tỏa khắp cơ thể, chuyên việc liên hệ giữa cơ thể và môi trường sinh sống, và giữa các cơ quan bộ phận trong cơ thể với nhau. Bệnh thần kinh. Bệnh do sự rối loạn của hệ thần kinh gây ra như bệnh điên, bệnh động kinh, bệnh mê sảng. Hệ thần kinh (giải). Bộ máy thích ứng của cơ thể đối với hoàn cảnh và điều khiển toàn bộ cơ thể, gồm có não, tuỷ và các dây thần kinh đi từ các phần cảm giác của ngũ quan đến tủy, não, và ngược lại, chuyên phân tích và tổng hợp những kích thích bên ngoài và bên trong cơ thể, tạo thành những phản xạ cần thiết cho đời sống.\n- Kinh đô của vua (cũ)."
+        "dict_definition": "@thần diệu\n- tt. Có khả năng đem lại kết quả tốt đẹp một cách kì lạ, như có phép mầu nhiệm: loại thuốc thần diệu  kế thần diệu."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần kinh\n*noun\n-nerves\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-nerve\n@Lĩnh vực: xây dựng\n-neural"
+        "dict_definition": "@thần diệu\n*adj\n-marvelluos, miraculous"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần kinh\n* noun\n- nerves"
+        "dict_definition": "@thần diệu\n* adj\n- marvelluos, miraculous"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "nerve(s)"
+        "dict_definition": "miraculous, marvellous"
       }
     ]
   },
@@ -1730,494 +1984,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "a half-baked physician"
-      }
-    ]
-  },
-  {
-    "word": "thầy dùi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên kiếm chuyện để xúi giục người này người khác gây xích mích, mâu thuẫn với nhau, để mình ở giữa kiếm lợi\nVí dụ:\n- không nên nghe theo bọn thầy dùi"
-      }
-    ]
-  },
-  {
-    "word": "thần phục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần phục\n- đg. Chịu phục tùng và tự nhận làm bề tôi (của vua) hoặc chư hầu (của nước lớn)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần phục\n*verb\n-to owe allegiance to, to submit to"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần phục\n* verb\n- to owe allegiance to, to submit to"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to submit (to a conqueror)"
-      }
-    ]
-  },
-  {
-    "word": "thầy cô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy cô [thầy cô]\n-(nói chung) teachers"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "teacher"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh nội tiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuroendocrine"
-      }
-    ]
-  },
-  {
-    "word": "thần đồng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đứa trẻ thông minh khác thường, có năng khiếu hết sức đặc biệt\nVí dụ:\n- thần đồng đất Việt \n - đứa trẻ thần đồng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần đồng\n- Trẻ thông minh đặc biệt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần đồng\n*noun\n-infant prodigy\n@Chuyên ngành kinh tế\n-whiz-kid"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần đồng\n* noun\n- infant prodigy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "infant prodigy"
-      }
-    ]
-  },
-  {
-    "word": "thầu khoán chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-general contractor"
-      }
-    ]
-  },
-  {
-    "word": "thầy địa lý",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem thầy địa lí"
-      }
-    ]
-  },
-  {
-    "word": "thần bí hoá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho trở nên thần bí\nVí dụ:\n- xu hướng thần bí hoá thơ ca"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh đệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-macroglia\n-neuroglia"
-      }
-    ]
-  },
-  {
-    "word": "thầy cò",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy cò\n- Người trong xã hội cũ chuyên làm thuê đơn từ, lo việc kiện cáo cho người khác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy cò [thầy cò]\n-(từ gốc tiếng Pháp là Correcteur) proof-reader"
-      }
-    ]
-  },
-  {
-    "word": "thần phả",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sách ghi chép gốc tích, sự tích của các vị thần trong đền thờ, miếu mạo"
-      }
-    ]
-  },
-  {
-    "word": "thầu lại (một công việc...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subcontract"
-      }
-    ]
-  },
-  {
-    "word": "thầy chùa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người ở chùa trông nom việc cúng Phật nhưng không xuất gia tu hành"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhà sư"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy chùa\n- d. 1. Người ở chùa giữ việc cúng Phật nhưng không tu hành. 2. (đph). Sư."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy chùa\n*noun\n-pagoda warden bonze"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy chùa\n* noun\n- pagoda warden bonze"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pagoda warden bonze"
-      }
-    ]
-  },
-  {
-    "word": "thầy xí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy xí\n- Nhân viên thường làm việc hàng giấy trong thời Pháp thuộc."
-      }
-    ]
-  },
-  {
-    "word": "thần kinh đùi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-femoral nerve"
-      }
-    ]
-  },
-  {
-    "word": "thầu khoán",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nghề nhận thầu [thường là các công việc xây dựng]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầu khoán\n- d. Người chuyên làm nghề nhận thầu (thường là các công việc xây dựng) thời trước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầu khoán\n*noun\n-contractor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-contractor"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầu khoán\n* noun\n- contractor"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "builder, contractor"
-      }
-    ]
-  },
-  {
-    "word": "thần xa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thần Xa\n- (xã) h. Võ Nhai, t. Thái Nguyên"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cinnabar"
-      }
-    ]
-  },
-  {
-    "word": "thần thánh hoá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho trở nên có tính chất thần thánh\nVí dụ:\n- nhân dân trong vùng thần thánh hoá vị tướng chỉ huy"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần thánh hoá - deify, deification"
-      }
-    ]
-  },
-  {
-    "word": "thầy phán",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy phán\n- Nhân viên hạng trung, làm việc bàn giấy trong các công sở thời pháp thuộc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy phán\n*noun\n-(cũ) senior clerk"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy phán\n* noun\n- (cũ) senior clerk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "senior clerk"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ulnar nerve"
-      }
-    ]
-  },
-  {
-    "word": "thần chủ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần chủ\n- Bài vị đề tên người chết để thờ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần chủ - anestral tablet"
-      }
-    ]
-  },
-  {
-    "word": "thầy kí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ dùng để gọi tôn viên chức cấp thấp làm công việc giấy tờ, sổ sách ở các công sở, hãng buôn, nhà máy, v.v. thời Pháp thuộc"
-      }
-    ]
-  },
-  {
-    "word": "thầu dầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây nhỡ, lá hình chân vịt, hoa đơn tính, quả có gai, hạt ép lấy dầu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầu dầu\n- Loài cây cùng họ với sắn, trẩu, lá có cuống dài, quả có gai, chứa hạt có chất dầu dùng làm dầu xổ, dầu thắp..."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầu dầu\n*noun\n-ricinus,castor-oil plant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-castor"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầu dầu\n* noun\n- ricinus,castor-oil plant"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "castor oil plant"
-      }
-    ]
-  },
-  {
-    "word": "thầu khoán xây dựng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction contractor"
-      }
-    ]
-  },
-  {
-    "word": "thần hệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần hệ - theogony"
-      }
-    ]
-  },
-  {
-    "word": "thần phù",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thần Phù\n- Cửa bể Thần Phù thuộc huyện Tống Sơn, tỉnh Thanh Hóa xưa. Cửa bể này xưa nổi tiếng phong cảnh hùng vĩ và sóng gió rất dữ. Sau bị phù sa lấp cạn từ đời Hậu Lê, nay là cánh đồng bát ngát thuộc vùng Phát Diệm (Hà Nam Ninh) và Nga Sơn (Thanh Hóa). Tương truyền ngoài khơi có hòn núi nơi Từ Thức gặp tiên\n- Thần Phù còn là tên ngọn núi ở xã Nga Tiên, huyện Nga Sơn, Thanh Hóa. Mạch núi chạy từ dãy Tam Điệp ra biển, phân chia đất ái Châu (Thanh Hóa) và các trấn vùng đồng bằng sông Hồng (Nam Châu)"
-      }
-    ]
-  },
-  {
-    "word": "thầy bà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thầy giáo, hoặc nói chung những người vẫn thường được xã hội gọi tôn là thầy [nói khái quát; hàm ý coi thường]\nVí dụ:\n- thầy bà gì cái loại nó"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy bà\n- Thầy, (ngh.1 và 7) dùng với nghĩa xấu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy bà [thầy bà]\n-(đùa cợt)  soothsayers;  fortune-tellers;  magicians"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "soothsayers, fortune-tellers, magicians"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh tiền đình - ốc tai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vestibulocochlear nerve"
-      }
-    ]
-  },
-  {
-    "word": "thần phong",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "kamikaze"
-      }
-    ]
-  },
-  {
-    "word": "thầy địa lí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nghề xem thế đất để tìm chỗ đặt mồ mả, dựng nhà cửa cho được may mắn, theo thuật phong thuỷ\nVí dụ:\n- \"Hòn đất mà biết nói năng, Thì thầy địa lí hàm răng chẳng còn.\" (Cdao)"
-      }
-    ]
-  },
-  {
-    "word": "thần hồn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần hồn, phần tinh thần [thường nói ở trạng thái không bình thường]\nVí dụ:\n- làm hỏng thì cứ liệu cái thần hồn! \n - thần hồn nát thần tính (tng)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần hồn\n- dt. Phần hồn, tinh thần: liệu thần hồn  thần hồn nát thần tính (tng.)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần hồn\n*noun\n-mind and soul"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần hồn\n* noun\n- mind and soul"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mind and soul"
-      }
-    ]
-  },
-  {
-    "word": "thầy mo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thầy cúng ở một số dân tộc thiểu số miền Bắc Việt Nam"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy mo\n- Thầy cúng ở miền núi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy mo [thầy mo]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neuromuscular"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh quay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-radial nerve"
-      }
-    ]
-  },
-  {
-    "word": "thầy giáo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người đàn ông làm nghề dạy học; cũng dùng để chỉ người làm nghề dạy học nói chung"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy giáo\n- dt. Người đàn ông làm nghề dạy học: thầy giáo chủ nhiệm  thầy giáo cũ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thầy giáo\n*noun\n-shoolmaster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-teacher"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy giáo\n* noun\n- shoolmaster"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "teacher, instructor"
-      }
-    ]
-  },
-  {
-    "word": "thần hộ mệnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-guardian angel"
       }
     ]
   },
@@ -2255,11 +2021,310 @@
     ]
   },
   {
-    "word": "thần kinh dễ bị kích thích",
+    "word": "thần phù",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thần Phù\n- Cửa bể Thần Phù thuộc huyện Tống Sơn, tỉnh Thanh Hóa xưa. Cửa bể này xưa nổi tiếng phong cảnh hùng vĩ và sóng gió rất dữ. Sau bị phù sa lấp cạn từ đời Hậu Lê, nay là cánh đồng bát ngát thuộc vùng Phát Diệm (Hà Nam Ninh) và Nga Sơn (Thanh Hóa). Tương truyền ngoài khơi có hòn núi nơi Từ Thức gặp tiên\n- Thần Phù còn là tên ngọn núi ở xã Nga Tiên, huyện Nga Sơn, Thanh Hóa. Mạch núi chạy từ dãy Tam Điệp ra biển, phân chia đất ái Châu (Thanh Hóa) và các trấn vùng đồng bằng sông Hồng (Nam Châu)"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh ngoại biên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ phận của hệ thần kinh, chủ yếu gồm các dây thần kinh, nhận các kích thích từ bên ngoài rồi dẫn về thần kinh trung ương"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần kinh ngoại biên [thần kinh ngoại biên]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "thần thoại",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "truyện kể dân gian về các vị thần hoặc các nhân vật anh hùng đã được thần thánh hoá, phản ánh những quan niệm ngây thơ của con người thời xa xưa về các hiện tượng tự nhiên và khát vọng trong đấu tranh chinh phục thiên nhiên\nVí dụ:\n- truyện thần thoại Hi Lạp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần thoại\n- dt. Truyện tưởng tượng về các vị thần, biểu hiện ước mơ chinh phục tự nhiên của con người xưa kia: truyện thần thoại  nhân vật thần thoại."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần thoại\n*noun\n-mythology"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần thoại\n* noun\n- mythology"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mythology"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh thiệt hầu, thần kinh sọ thứ chín",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nervousirritability"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-glossopharyngeal nerve"
+      }
+    ]
+  },
+  {
+    "word": "thần thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần thuật - magic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "magic"
+      }
+    ]
+  },
+  {
+    "word": "thần hồn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần hồn, phần tinh thần [thường nói ở trạng thái không bình thường]\nVí dụ:\n- làm hỏng thì cứ liệu cái thần hồn! \n - thần hồn nát thần tính (tng)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần hồn\n- dt. Phần hồn, tinh thần: liệu thần hồn  thần hồn nát thần tính (tng.)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần hồn\n*noun\n-mind and soul"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần hồn\n* noun\n- mind and soul"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mind and soul"
+      }
+    ]
+  },
+  {
+    "word": "thần dược",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần dược\n- Thuốc công hiệu lắm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần dược [thần dược]\n-wonderful remedy;  panacea;  miracle"
+      }
+    ]
+  },
+  {
+    "word": "thầy số",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nghề xem số [thường là xem số tử vi]"
+      }
+    ]
+  },
+  {
+    "word": "thần hôn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần hôn\n- d. 1. Buổi sáng và buổi tối. 2. Nói người con sớm tối săn sóc cha mẹ (cũ)."
+      }
+    ]
+  },
+  {
+    "word": "thần bí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thuộc về thần linh, có chứa đựng những điều không thể hiểu được, theo quan niệm duy tâm\nVí dụ:\n- thế giới thần bí \n - chuyện thần bí"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần bí\n- Mầu nhiệm bí mật : Đạo lý thần bí. Chủ nghĩa thần bí. Quan niệm duy tâm cho rằng vạn vật trong vũ trụ đều do thần sinh ra, nhằm che đậy những thối nát của xã hội đương thời đang có mâu thuẫn gay gắt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần bí\n*adj\n-mystical\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mystic"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần bí\n* adj\n- mystical"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mystical, divine"
+      }
+    ]
+  },
+  {
+    "word": "thầy thuốc bắt mạch",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the physician feels the patient’s pulse"
+      }
+    ]
+  },
+  {
+    "word": "thần tượng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tượng thần; dùng để ví cái được tôn sùng, chiêm ngưỡng\nVí dụ:\n- thần tượng bóng đá"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần tượng\n- d. 1. Hình hoặc ảnh của người đã chết. 2. Hình một đấng coi là thiêng liêng, được tôn sùng và chiêm ngưỡng : Con bò bằng vàng là thần tượng của người Do Thái. 3. Người hay vật được quí trọng hay tôn sùng một cách say mê : Những nhà độc tài phát xít cho rằng mình là thần tượng của nhân dân."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần tượng\n*noun\n-icon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-idol"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thần tượng\n* noun\n- icon"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "icon"
+      }
+    ]
+  },
+  {
+    "word": "thầu lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầu lại [thầu lại]\n-to work as a subcontractor;  to subcontract\n@Chuyên ngành kinh tế\n-job\n-Subcontracting (Sub-contracting)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to subcontract"
+      }
+    ]
+  },
+  {
+    "word": "thần thế",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chỗ dựa mạnh, có quyền uy và thế lực\nVí dụ:\n- cậy thần thế mà kiêu ngạo \n - một gia đình giàu có và thần thế"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần thế - powerful, potent, mighty"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "powerful, potent, mighty"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh đệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-macroglia\n-neuroglia"
+      }
+    ]
+  },
+  {
+    "word": "thầm thì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như thì thầm\nVí dụ:\n- chị thầm thì với chồng trong buồng \n - hai đứa thầm thì với nhau cả buổi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầm thì\n- Nói khẽ và kín: Thầm thì chuyện riêng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầm thì - whisper, in a whisper, under one\"s breath"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "whisper, in a whisper, under one’s breath"
+      }
+    ]
+  },
+  {
+    "word": "thần kinh tiền đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vestibular nerve"
+      }
+    ]
+  },
+  {
+    "word": "thầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhận thầu [nói tắt]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thầu\n- 1 đgt. Nhận trọn gói công việc xây dựng hoặc dịch vụ gì cho người khác theo giá cả và các điều kiện đã thoả thuận: thầu xây dựng  đấu thầu.\n- 2 đgt., khng., lóng Lấy trộm đi: bị kẻ cắp thầu mất cái ví tiền."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thầu\n*verb\n-to contract to take all to pinch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bid"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thầu\n* verb\n- to contract to take all to pinch"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) contract; (2) to steal"
+      }
+    ]
+  },
+  {
+    "word": "thần dân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thần dân\n- Nhân dân ở dưới quyền vua."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần dân [thần dân]\n-subject;  (nói chung) people\n@Chuyên ngành kinh tế\n-subject"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the people"
+      }
+    ]
+  },
+  {
+    "word": "thần khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần khí - vigour, stamina"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "vigor, stamina"
       }
     ]
   },
@@ -2273,110 +2338,79 @@
     ]
   },
   {
-    "word": "thần nhân",
+    "word": "thần kinh răng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần nhân - the divine man"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the divine man"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental nerve"
       }
     ]
   },
   {
-    "word": "thầm cám ơn trời đất",
+    "word": "thần hệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thần hệ - theogony"
+      }
+    ]
+  },
+  {
+    "word": "thầm cám ơn trời",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to whisper one’s thanks"
+        "dict_definition": "to thank heaven"
       }
     ]
   },
   {
-    "word": "thần học",
+    "word": "thầy giáo",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "môn học về thần linh, làm cơ sở triết học cho tôn giáo"
+        "dict_definition": "người đàn ông làm nghề dạy học; cũng dùng để chỉ người làm nghề dạy học nói chung"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần học\n- d. Môn học về thần linh, làm cơ sở triết học cho tôn giáo."
+        "dict_definition": "@thầy giáo\n- dt. Người đàn ông làm nghề dạy học: thầy giáo chủ nhiệm  thầy giáo cũ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thần học\n*noun\n-theology\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BOLZANO Bernard"
+        "dict_definition": "@thầy giáo\n*noun\n-shoolmaster\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-teacher"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thần học\n* noun\n- theology"
+        "dict_definition": "@thầy giáo\n* noun\n- shoolmaster"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "theology"
+        "dict_definition": "teacher, instructor"
       }
     ]
   },
   {
-    "word": "thần tài",
+    "word": "thần đồng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thần phù hộ cho việc làm ăn buôn bán thuận lợi, phát tài, theo quan niệm dân gian\nVí dụ:\n- thờ thần tài"
-      }
-    ]
-  },
-  {
-    "word": "thầy tướng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nghề xem tướng để đoán số mệnh"
+        "dict_definition": "đứa trẻ thông minh khác thường, có năng khiếu hết sức đặc biệt\nVí dụ:\n- thần đồng đất Việt \n - đứa trẻ thần đồng"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thầy tướng\n- d. Người làm nghề xem tướng để đoán số mệnh."
+        "dict_definition": "@thần đồng\n- Trẻ thông minh đặc biệt."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thầy tướng\n*noun\n-physiognomist"
+        "dict_definition": "@thần đồng\n*noun\n-infant prodigy\n@Chuyên ngành kinh tế\n-whiz-kid"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thầy tướng\n* noun\n- physiognomist"
+        "dict_definition": "@thần đồng\n* noun\n- infant prodigy"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "physiognomist"
-      }
-    ]
-  },
-  {
-    "word": "thầu chia lại việc cho người khác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-job"
-      }
-    ]
-  },
-  {
-    "word": "thần kì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tài tình một cách kì lạ, tới mức như không thể tưởng tượng nổi\nVí dụ:\n- sức mạnh thần kì \n - câu chuyện thần kì"
-      }
-    ]
-  },
-  {
-    "word": "thần kinh khứu giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-olfactory nerve"
+        "dict_definition": "infant prodigy"
       }
     ]
   },
@@ -2414,45 +2448,11 @@
     ]
   },
   {
-    "word": "thần kinh vận nhãn",
+    "word": "thầu khoán trưởng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oculomotor nerve"
-      }
-    ]
-  },
-  {
-    "word": "thần thái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "những biểu hiện bên ngoài như vẻ mặt, dáng đi, điệu bộ, cử chỉ của con người [nói tổng quát]\nVí dụ:\n- thần thái mệt mỏi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thần thái\n- Dáng vẻ do tinh thần bên trong hiện ra."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần thái - look, appearance, mien"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "look, appearance, mien"
-      }
-    ]
-  },
-  {
-    "word": "thần tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thần tính - divine nature"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "divine nature"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-general contractor"
       }
     ]
   }

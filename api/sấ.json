@@ -1,104 +1,28 @@
 [
   {
-    "word": "sấy khô",
+    "word": "sấy ngoài trời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dry\n-drying\n@Chuyên ngành kỹ thuật\n-bake\n-cure\n-desiccate\n-dry out\n-fire\n-freeze-drying\n-sweat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to dry out"
+        "dict_definition": "@Chuyên ngành kinh tế\n-seasoning"
       }
     ]
   },
   {
-    "word": "sấy chưa đủ khô",
+    "word": "sấy bằng lò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-underbake"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bone-dry\n-dry\n-kiln-dry\n-oven-dry\n-stove drying"
       }
     ]
   },
   {
-    "word": "sấy vecni",
+    "word": "sấy quá khô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-baking varnish"
-      }
-    ]
-  },
-  {
-    "word": "sấp ngửa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lối đánh bạc thời trước, đoán đồng tiền gieo úp trong bát là sấp hay ngửa mà ăn tiền\nVí dụ:\n- chơi sấp ngửa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[dáng vẻ] vội vàng, tất tả\nVí dụ:\n- nghe tin dữ, sấp ngửa chạy về"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấp ngửa\n- 1 dt. Lối đánh bạc, đoán đồng tiền gieo trong bát hay gieo xuống đất có mặt sấp hay ngửa theo thoả thuận mà xác định được thua.\n- 2 tt. Tất tả, vội vàng: sấp ngửa đi tìm thầy thuốc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấp ngửa\n*noun\n-head and tail"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấp ngửa\n* noun\n- head and tail"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "head and tail"
-      }
-    ]
-  },
-  {
-    "word": "sấy một phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-partial drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy chân không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vacuum dehydration\n-vacuum drying"
-      }
-    ]
-  },
-  {
-    "word": "sấp mặt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có thái độ trở mặt, bội bạc với người đã làm điều tốt cho mình\nVí dụ:\n- đồ sấp mặt! (tiếng chửi mắng)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấp mặt\n- t. Có thái độ trở mặt, bội bạc với người đã làm điều tốt cho mình (dùng làm tiếng chửi). Quân sấp mặt!"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấp mặt\n*adj\n-shifty, double-faced"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấp mặt\n* adj\n- shifty, double-faced"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shifty, double-faced"
+        "dict_definition": "@Chuyên ngành kinh tế\n-hard-baked\n-hard-cured"
       }
     ]
   },
@@ -112,78 +36,6 @@
     ]
   },
   {
-    "word": "sấy gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drying (of wood)\n-timber dryer\n-timber drying"
-      }
-    ]
-  },
-  {
-    "word": "sấm ì ầm ở đằng xa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "thunder rumbling in the distance"
-      }
-    ]
-  },
-  {
-    "word": "sấy thứ cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-secondary drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy đông ly tâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-centrifugal freeze-drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy (bằng tia) hồng ngoại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-infrared heating"
-      }
-    ]
-  },
-  {
-    "word": "sấy màng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-film drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy chân không tiếp xúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vacuum contact drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-back burning"
-      }
-    ]
-  },
-  {
     "word": "sấy đông lạnh",
     "definitions": [
       {
@@ -193,215 +45,20 @@
     ]
   },
   {
-    "word": "sấy thăng hoa từng mẻ",
+    "word": "sấy khô đều đặn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-batch freeze-drying"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-uniform dehydration"
       }
     ]
   },
   {
-    "word": "sấy đông từng mẻ",
+    "word": "sấy bằng hơi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-batch freeze-drying\n-discontinuous freeze-drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy sơ cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-primary drying"
-      }
-    ]
-  },
-  {
-    "word": "sấm kí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "những lời sấm được ghi chép lại\nVí dụ:\n- lời sấm kí của Nguyễn Bỉnh Khiêm"
-      }
-    ]
-  },
-  {
-    "word": "sấy thăng hoa thương mại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spray freeze-drying"
-      }
-    ]
-  },
-  {
-    "word": "sấm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiếng nổ rền vang do hiện tượng phóng điện giữa hai đám mây gây ra khi trời có dông\nVí dụ:\n- sấm rền \n - sấm vang chớp giật"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lời dự đoán có tính chất bí ẩn về sự kiện lớn trong tương lai có quan hệ đến đời sống của một xã hội, một dân tộc, theo thuật lí số\nVí dụ:\n- lời sấm \n - sấm Trạng Trình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấm\n- 1 dt. Tiếng nổ rền trên bầu trời khi có dông: Tiếng sấm rền vang  vỗ tay như sấm dậy.\n- 2 dt. Lời dự đoán những sự kiện lớn sẽ xẩy ra: sấm trạng Trình."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấm\n*noun\n-prophecy, oracle\n-thunder\n@Chuyên ngành kỹ thuật\n-thunder"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấm\n* noun\n- prophecy, oracle\n- thunder"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to thunder; thunder"
-      }
-    ]
-  },
-  {
-    "word": "sấy khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mold drying"
-      }
-    ]
-  },
-  {
-    "word": "sấn sổ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng bộ hung hăng, lấn tới một cách trắng trợn\nVí dụ:\n- sấn sổ bước đến \n - hành động sấn sổ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấn sổ\n- đgt, trgt Hung hăng xông vào: Tên mật thám sấn sổ vào nhà đồng chí ấy; Trẻ con cứ sấn sổ cướp lấy cái dùi (Ng-hồng)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấn sổ\n*verb\n-to rush violently at"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấn sổ\n* verb\n- to rush violently at"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to rush violently at"
-      }
-    ]
-  },
-  {
-    "word": "sấy bằng không khí nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot air drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy ngoài trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-seasoning"
-      }
-    ]
-  },
-  {
-    "word": "sấy lớp bề mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated freeze drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy bằng nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-heat dehydration\n-thermoelectric laws"
-      }
-    ]
-  },
-  {
-    "word": "sấy thăng hoa gia tốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated freeze drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy trong lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kiln dried"
-      }
-    ]
-  },
-  {
-    "word": "sấp bóng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quay lưng về phía có ánh sáng, làm cho phía trước mặt bị che tối\nVí dụ:\n- ngồi sấp bóng \n - bàn học kê ở chỗ bị sấp bóng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấp bóng\n- Quay lưng về phía có ánh nắng: Ngồi sấp bóng khó đọc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấp bóng\n-With one\"s back to the light\n=Ngồi sấp bóng khó đọc\n+It is hard to read when one sits with one\"s back to the light"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấp bóng\n- With one's back to the light\n=Ngồi sấp bóng khó đọc+It is hard to read when one sits with one's back to the light"
-      }
-    ]
-  },
-  {
-    "word": "sấu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây to cùng họ với xoài, lá kép lông chim, quả có vị chua, ăn được\nVí dụ:\n- ô mai sấu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấu\n- 1 dt. 1. Cây trồng ở đường phố lấy bóng mát và quả ăn, cao tới 30m, lá mọc cách, mép nguyên, có cuống rõ, quả hạch vị chua (lúc xanh để nấu canh) và ngọt (lúc chín). 2. Quả sấu: canh thịt nấu với sấu.\n- 2 dt. Cá sấu, nói tắt.\n- 3 dt. Con vật người ta tưởng tượng ra, thường đắp ở trên cột trụ, hoặc trước cửa đình, cửa đền."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấu\n*noun\n-(cây) dracontomelum*Syn\n-(cá) như cá sấu"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấu\n* noun\n- (cây) dracontomelum\n#Syn\n- (cá) như cá sấu"
-      }
-    ]
-  },
-  {
-    "word": "sấm chớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-thunderbolt"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wind drying"
       }
     ]
   },
@@ -415,28 +72,66 @@
     ]
   },
   {
-    "word": "sấm vang",
+    "word": "sấm truyền",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấm vang\n- 1. d. Tiếng vang của sấm. 2. t. Đồn khắấp mọi nơi: Danh uy từ đấy sấm vang trong ngoài (K)."
+        "dict_definition": "@sấm truyền\n- Nói lời sấm đã vạch ra trước."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sấm vang [sấm vang]\n-Thunderclap, thundercrash.\n-Spreading far and wide, widespread."
+        "dict_definition": "@sấm truyền\n-As prophesies"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấm truyền\n- As prophesies"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "thunderclap, thunder crash, spreading far and wide"
+        "dict_definition": "prophesy"
       }
     ]
   },
   {
-    "word": "sấy bằng không khí lạnh",
+    "word": "sấm sét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sấm và sét [nói khái quát]; thường dùng để ví những tác động mạnh khủng khiếp\nVí dụ:\n- giáng những đòn sấm sét"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấm sét\n- 1. d. Sấm và sét. 2. t. Có sức mạnh và tác động khủng khiếp : Đòn sấm sét."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấm sét\n*noun\n-thunder and thunderbolt*adj\n-thunderlike\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-thunderbolt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấm sét\n* noun\n- thunder and thunderbolt\n* adj\n- thunderlike"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "thunderbolt"
+      }
+    ]
+  },
+  {
+    "word": "sấy thứ cấp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-dry by cold air"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-secondary drying"
+      }
+    ]
+  },
+  {
+    "word": "sấm chớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-thunderbolt"
       }
     ]
   },
@@ -450,59 +145,78 @@
     ]
   },
   {
-    "word": "sấy nóng",
+    "word": "sấy thăng hoa gia tốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-heated"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated freeze drying"
       }
     ]
   },
   {
-    "word": "sấy tóc",
+    "word": "sấy khô",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dụng cụ điện có tác dụng làm cho tóc khô và giữ nếp bằng khí nóng\nVí dụ:\n- hỏng mất cái sấy tóc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấy tóc\n- Làm quăn tóc bằng điện."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@sấy tóc\n-Dry one\"s hair (with a hair-drier)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấy tóc\n- Dry one's hair (with a hair-drier)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-dry\n-drying\n@Chuyên ngành kỹ thuật\n-bake\n-cure\n-desiccate\n-dry out\n-fire\n-freeze-drying\n-sweat"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "dry one’s hair (with a hair-drier)"
+        "dict_definition": "to dry out"
       }
     ]
   },
   {
-    "word": "sấy non",
+    "word": "sấy chân không tiếp xúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-underbake"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vacuum contact drying"
       }
     ]
   },
   {
-    "word": "sấy (khô)",
+    "word": "sấy thăng hoa vi sóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-microware freeze-drying\n-microwave freeze-drying"
       }
     ]
   },
   {
-    "word": "sấy thăng hoa kiểu phun",
+    "word": "sấy phơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-kiln"
+      }
+    ]
+  },
+  {
+    "word": "sấy sơ cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-primary drying"
+      }
+    ]
+  },
+  {
+    "word": "sấm ngữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấm ngữ\n-như sấm ngôn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấm ngữ\n- như sấm ngôn"
+      }
+    ]
+  },
+  {
+    "word": "sấy thăng hoa thương mại",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -511,29 +225,20 @@
     ]
   },
   {
-    "word": "sấy phun sương",
+    "word": "sấy khô nhanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-atomizing drying\n-spray dehydration\n-spray drying"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flash-drying\n-quick-drying"
       }
     ]
   },
   {
-    "word": "sấy chân không cao",
+    "word": "sấy lớp bề mặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-high-vacuum drying\n-high-vacuum vacuum drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy thăng hoa ly tâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spray freeze-drying"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated freeze drying"
       }
     ]
   },
@@ -547,11 +252,11 @@
     ]
   },
   {
-    "word": "sấy thăng hoa vi sóng",
+    "word": "sấy khô bằng nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-microware freeze-drying\n-microwave freeze-drying"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-dry by heat"
       }
     ]
   },
@@ -573,6 +278,77 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "prophetic saying"
+      }
+    ]
+  },
+  {
+    "word": "sấm truyền ca",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Book of Prophesy (c. 1670)"
+      }
+    ]
+  },
+  {
+    "word": "sấy đông từng mẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-batch freeze-drying\n-discontinuous freeze-drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy thăng hoa từng mẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-batch freeze-drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy chưa đủ khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-underbake"
+      }
+    ]
+  },
+  {
+    "word": "sấy lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-reheat"
+      }
+    ]
+  },
+  {
+    "word": "sấy chân không cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-high-vacuum drying\n-high-vacuum vacuum drying"
+      }
+    ]
+  },
+  {
+    "word": "sấm vang",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấm vang\n- 1. d. Tiếng vang của sấm. 2. t. Đồn khắấp mọi nơi: Danh uy từ đấy sấm vang trong ngoài (K)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấm vang [sấm vang]\n-Thunderclap, thundercrash.\n-Spreading far and wide, widespread."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "thunderclap, thunder crash, spreading far and wide"
       }
     ]
   },
@@ -606,16 +382,7 @@
     ]
   },
   {
-    "word": "sấy bằng lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bone-dry\n-dry\n-kiln-dry\n-oven-dry\n-stove drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy đông kiểu phun sương",
+    "word": "sấy thăng hoa ly tâm",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -624,198 +391,29 @@
     ]
   },
   {
-    "word": "sấy thăng hoa",
+    "word": "sấy non",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-freeze dehydration\n-freeze-dry\n-freeze-drying\n-sublimation drying"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-underbake"
       }
     ]
   },
   {
-    "word": "sấm ngữ",
+    "word": "sấy thăng hoa kiểu phun",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sấm ngữ\n-như sấm ngôn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấm ngữ\n- như sấm ngôn"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spray freeze-drying"
       }
     ]
   },
   {
-    "word": "sấm truyền ca",
+    "word": "sấm ì ầm ở đằng xa",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "Book of Prophesy (c. 1670)"
-      }
-    ]
-  },
-  {
-    "word": "sấy bằng hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wind drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy ở nhiệt độ thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature dehydration"
-      }
-    ]
-  },
-  {
-    "word": "sấy nhân tạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-kiln-dry"
-      }
-    ]
-  },
-  {
-    "word": "sấm truyền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấm truyền\n- Nói lời sấm đã vạch ra trước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấm truyền\n-As prophesies"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấm truyền\n- As prophesies"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "prophesy"
-      }
-    ]
-  },
-  {
-    "word": "sấy phơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-kiln"
-      }
-    ]
-  },
-  {
-    "word": "sấm ký",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem sấm kí"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấm ký\n- Sách chép lời sấm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấm ký [sấm ký]\n-Book of prophecies."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "book of prophecies"
-      }
-    ]
-  },
-  {
-    "word": "sấy khô nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flash-drying\n-quick-drying"
-      }
-    ]
-  },
-  {
-    "word": "sấy khô đều đặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-uniform dehydration"
-      }
-    ]
-  },
-  {
-    "word": "sấy khô bề mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-surface desiccation"
-      }
-    ]
-  },
-  {
-    "word": "sấy lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-reheat"
-      }
-    ]
-  },
-  {
-    "word": "sấm sét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sấm và sét [nói khái quát]; thường dùng để ví những tác động mạnh khủng khiếp\nVí dụ:\n- giáng những đòn sấm sét"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sấm sét\n- 1. d. Sấm và sét. 2. t. Có sức mạnh và tác động khủng khiếp : Đòn sấm sét."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sấm sét\n*noun\n-thunder and thunderbolt*adj\n-thunderlike\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-thunderbolt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sấm sét\n* noun\n- thunder and thunderbolt\n* adj\n- thunderlike"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "thunderbolt"
-      }
-    ]
-  },
-  {
-    "word": "sấy khô bằng nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-dry by heat"
-      }
-    ]
-  },
-  {
-    "word": "sất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị ý nhấn mạnh sự phủ định hoàn toàn\nVí dụ:\n- không còn gì sất! \n - chẳng có chuyện gì xảy ra sất!"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sất\n-(particle of emphasis) [Nothing] at all\n=Chẳng có gì sất\n+There is nothing at all"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sất\n- (particle of emphasis) [Nothing] at all\n=Chẳng có gì sất+There is nothing at all"
+        "dict_definition": "thunder rumbling in the distance"
       }
     ]
   },
@@ -841,6 +439,361 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to dry (hair)"
+      }
+    ]
+  },
+  {
+    "word": "sấy trong lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kiln dried"
+      }
+    ]
+  },
+  {
+    "word": "sấy tóc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dụng cụ điện có tác dụng làm cho tóc khô và giữ nếp bằng khí nóng\nVí dụ:\n- hỏng mất cái sấy tóc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấy tóc\n- Làm quăn tóc bằng điện."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấy tóc\n-Dry one\"s hair (with a hair-drier)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấy tóc\n- Dry one's hair (with a hair-drier)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dry one’s hair (with a hair-drier)"
+      }
+    ]
+  },
+  {
+    "word": "sấy chân không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vacuum dehydration\n-vacuum drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy đông kiểu phun sương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spray freeze-drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy (bằng tia) hồng ngoại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-infrared heating"
+      }
+    ]
+  },
+  {
+    "word": "sấy nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-heated"
+      }
+    ]
+  },
+  {
+    "word": "sấy ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-back burning"
+      }
+    ]
+  },
+  {
+    "word": "sấy khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mold drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy phun sương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-atomizing drying\n-spray dehydration\n-spray drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy khô bề mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-surface desiccation"
+      }
+    ]
+  },
+  {
+    "word": "sấm kí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "những lời sấm được ghi chép lại\nVí dụ:\n- lời sấm kí của Nguyễn Bỉnh Khiêm"
+      }
+    ]
+  },
+  {
+    "word": "sấm ký",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem sấm kí"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấm ký\n- Sách chép lời sấm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấm ký [sấm ký]\n-Book of prophecies."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "book of prophecies"
+      }
+    ]
+  },
+  {
+    "word": "sấy vecni",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-baking varnish"
+      }
+    ]
+  },
+  {
+    "word": "sấy màng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-film drying"
+      }
+    ]
+  },
+  {
+    "word": "sấp mặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có thái độ trở mặt, bội bạc với người đã làm điều tốt cho mình\nVí dụ:\n- đồ sấp mặt! (tiếng chửi mắng)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấp mặt\n- t. Có thái độ trở mặt, bội bạc với người đã làm điều tốt cho mình (dùng làm tiếng chửi). Quân sấp mặt!"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấp mặt\n*adj\n-shifty, double-faced"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấp mặt\n* adj\n- shifty, double-faced"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shifty, double-faced"
+      }
+    ]
+  },
+  {
+    "word": "sấy nhân tạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-kiln-dry"
+      }
+    ]
+  },
+  {
+    "word": "sấy bằng không khí nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot air drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drying (of wood)\n-timber dryer\n-timber drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy bằng nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-heat dehydration\n-thermoelectric laws"
+      }
+    ]
+  },
+  {
+    "word": "sấy một phần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-partial drying"
+      }
+    ]
+  },
+  {
+    "word": "sấm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tiếng nổ rền vang do hiện tượng phóng điện giữa hai đám mây gây ra khi trời có dông\nVí dụ:\n- sấm rền \n - sấm vang chớp giật"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lời dự đoán có tính chất bí ẩn về sự kiện lớn trong tương lai có quan hệ đến đời sống của một xã hội, một dân tộc, theo thuật lí số\nVí dụ:\n- lời sấm \n - sấm Trạng Trình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấm\n- 1 dt. Tiếng nổ rền trên bầu trời khi có dông: Tiếng sấm rền vang  vỗ tay như sấm dậy.\n- 2 dt. Lời dự đoán những sự kiện lớn sẽ xẩy ra: sấm trạng Trình."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấm\n*noun\n-prophecy, oracle\n-thunder\n@Chuyên ngành kỹ thuật\n-thunder"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấm\n* noun\n- prophecy, oracle\n- thunder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to thunder; thunder"
+      }
+    ]
+  },
+  {
+    "word": "sấu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây to cùng họ với xoài, lá kép lông chim, quả có vị chua, ăn được\nVí dụ:\n- ô mai sấu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấu\n- 1 dt. 1. Cây trồng ở đường phố lấy bóng mát và quả ăn, cao tới 30m, lá mọc cách, mép nguyên, có cuống rõ, quả hạch vị chua (lúc xanh để nấu canh) và ngọt (lúc chín). 2. Quả sấu: canh thịt nấu với sấu.\n- 2 dt. Cá sấu, nói tắt.\n- 3 dt. Con vật người ta tưởng tượng ra, thường đắp ở trên cột trụ, hoặc trước cửa đình, cửa đền."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấu\n*noun\n-(cây) dracontomelum*Syn\n-(cá) như cá sấu"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấu\n* noun\n- (cây) dracontomelum\n#Syn\n- (cá) như cá sấu"
+      }
+    ]
+  },
+  {
+    "word": "sấn sổ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả dáng bộ hung hăng, lấn tới một cách trắng trợn\nVí dụ:\n- sấn sổ bước đến \n - hành động sấn sổ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấn sổ\n- đgt, trgt Hung hăng xông vào: Tên mật thám sấn sổ vào nhà đồng chí ấy; Trẻ con cứ sấn sổ cướp lấy cái dùi (Ng-hồng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấn sổ\n*verb\n-to rush violently at"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấn sổ\n* verb\n- to rush violently at"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to rush violently at"
+      }
+    ]
+  },
+  {
+    "word": "sấy ở nhiệt độ thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature dehydration"
+      }
+    ]
+  },
+  {
+    "word": "sấy thăng hoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-freeze dehydration\n-freeze-dry\n-freeze-drying\n-sublimation drying"
+      }
+    ]
+  },
+  {
+    "word": "sấy đông ly tâm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-centrifugal freeze-drying"
+      }
+    ]
+  },
+  {
+    "word": "sấp ngửa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lối đánh bạc thời trước, đoán đồng tiền gieo úp trong bát là sấp hay ngửa mà ăn tiền\nVí dụ:\n- chơi sấp ngửa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[dáng vẻ] vội vàng, tất tả\nVí dụ:\n- nghe tin dữ, sấp ngửa chạy về"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấp ngửa\n- 1 dt. Lối đánh bạc, đoán đồng tiền gieo trong bát hay gieo xuống đất có mặt sấp hay ngửa theo thoả thuận mà xác định được thua.\n- 2 tt. Tất tả, vội vàng: sấp ngửa đi tìm thầy thuốc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấp ngửa\n*noun\n-head and tail"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấp ngửa\n* noun\n- head and tail"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "head and tail"
       }
     ]
   },
@@ -878,11 +831,58 @@
     ]
   },
   {
-    "word": "sấy quá khô",
+    "word": "sất",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị ý nhấn mạnh sự phủ định hoàn toàn\nVí dụ:\n- không còn gì sất! \n - chẳng có chuyện gì xảy ra sất!"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sất\n-(particle of emphasis) [Nothing] at all\n=Chẳng có gì sất\n+There is nothing at all"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sất\n- (particle of emphasis) [Nothing] at all\n=Chẳng có gì sất+There is nothing at all"
+      }
+    ]
+  },
+  {
+    "word": "sấy (khô)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hard-baked\n-hard-cured"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry"
+      }
+    ]
+  },
+  {
+    "word": "sấp bóng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quay lưng về phía có ánh sáng, làm cho phía trước mặt bị che tối\nVí dụ:\n- ngồi sấp bóng \n - bàn học kê ở chỗ bị sấp bóng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sấp bóng\n- Quay lưng về phía có ánh nắng: Ngồi sấp bóng khó đọc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sấp bóng\n-With one\"s back to the light\n=Ngồi sấp bóng khó đọc\n+It is hard to read when one sits with one\"s back to the light"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sấp bóng\n- With one's back to the light\n=Ngồi sấp bóng khó đọc+It is hard to read when one sits with one's back to the light"
+      }
+    ]
+  },
+  {
+    "word": "sấy bằng không khí lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-dry by cold air"
       }
     ]
   }

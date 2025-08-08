@@ -1,76 +1,10 @@
 [
   {
-    "word": "rễ gừng",
+    "word": "rễ dây thần kinh mặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-race"
-      }
-    ]
-  },
-  {
-    "word": "rễ mầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-seed root\n-seminal root"
-      }
-    ]
-  },
-  {
-    "word": "rễ củ ăn được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-edible roots"
-      }
-    ]
-  },
-  {
-    "word": "rễ nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rootle"
-      }
-    ]
-  },
-  {
-    "word": "rễ cây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-root"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tree root"
-      }
-    ]
-  },
-  {
-    "word": "rễ mạc treo tiểu tràng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root of mesnetery"
-      }
-    ]
-  },
-  {
-    "word": "rễ bên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rễ bên\n-(thực vật) Lateral root"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rễ bên\n- (thực vật) Lateral root"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lateral root"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-racial root"
       }
     ]
   },
@@ -100,24 +34,6 @@
     ]
   },
   {
-    "word": "rễ vận nhãn hạch mi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-short root ot ciliary ganglion"
-      }
-    ]
-  },
-  {
-    "word": "rễ cần tây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-celeriac\n-knob celeriac\n-root celeriac\n-turnip-rooted celeriac"
-      }
-    ]
-  },
-  {
     "word": "rễ trong của dải thị",
     "definitions": [
       {
@@ -127,27 +43,71 @@
     ]
   },
   {
-    "word": "rễ cọc",
+    "word": "rễ cái",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ rễ cây có rễ cái to đâm thẳng xuống và nhiều rễ con nhỏ hơn, đâm nghiêng vào đất"
-      },
-      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rễ cọc\n- Rễ gồm có rễ cái và nhiều rễ con to nhỏ khác nhau."
+        "dict_definition": "@rễ cái\n- Rễ chính, lớn nhất của cây."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rễ cọc\n-(thực vật) Tap-root"
+        "dict_definition": "@rễ cái\n-(thực vật) Main root"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rễ cọc\n- (thực vật) Tap-root"
+        "dict_definition": "@rễ cái\n- (thực vật) Main root"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "tap-root"
+        "dict_definition": "main root"
+      }
+    ]
+  },
+  {
+    "word": "rễ ngoài của dải thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root of optic tract lateral"
+      }
+    ]
+  },
+  {
+    "word": "rễ hành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-scallion"
+      }
+    ]
+  },
+  {
+    "word": "rễ con",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rễ con\n- Rễ nhánh mọc từ rễ cái mà ra."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rễ con\n-(thực vật) Radicle, rootlet"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rễ con\n- (thực vật) Radicle, rootlet"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "radicle, rootlet"
+      }
+    ]
+  },
+  {
+    "word": "rễ bên dây thần kinh giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root of median nerve lateral"
       }
     ]
   },
@@ -157,24 +117,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Rauwolfia"
-      }
-    ]
-  },
-  {
-    "word": "rễ bụng của dây thần kinh tủy sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-motor root of spinal nerves"
-      }
-    ]
-  },
-  {
-    "word": "rễ, chân răng, gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root"
       }
     ]
   },
@@ -217,6 +159,23 @@
     ]
   },
   {
+    "word": "rễ phụ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rễ phụ\n- Rễ mọc từ thân hay cành."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rễ phụ [rễ phụ]\n-(thực vật) Adventitious root.\n-aerial root"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "adventitious root, aerial root"
+      }
+    ]
+  },
+  {
     "word": "rễ cây smilax aristolochiaefolia",
     "definitions": [
       {
@@ -226,50 +185,73 @@
     ]
   },
   {
-    "word": "rễ cái",
+    "word": "rễ vận nhãn hạch mi",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rễ cái\n- Rễ chính, lớn nhất của cây."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-short root ot ciliary ganglion"
+      }
+    ]
+  },
+  {
+    "word": "rễ mầm",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rễ cái\n-(thực vật) Main root"
+        "dict_definition": "@Chuyên ngành kinh tế\n-seed root\n-seminal root"
+      }
+    ]
+  },
+  {
+    "word": "rễ bên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rễ bên\n-(thực vật) Lateral root"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rễ cái\n- (thực vật) Main root"
+        "dict_definition": "@rễ bên\n- (thực vật) Lateral root"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "main root"
+        "dict_definition": "lateral root"
       }
     ]
   },
   {
-    "word": "rễ bên dây thần kinh giữa",
+    "word": "rễ gừng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root of median nerve lateral"
+        "dict_definition": "@Chuyên ngành kinh tế\n-race"
       }
     ]
   },
   {
-    "word": "rễ chính",
+    "word": "rễ bụng của dây thần kinh tủy sống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-main root\n-tap root"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-motor root of spinal nerves"
       }
     ]
   },
   {
-    "word": "rễ hành",
+    "word": "rễ mạc treo tiểu tràng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-scallion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root of mesnetery"
+      }
+    ]
+  },
+  {
+    "word": "rễ củ ăn được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-edible roots"
       }
     ]
   },
@@ -279,6 +261,71 @@
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@rễ cột\n- Rễ phụ ở một số cây như cây đa, cây si, to gần bằng thân cây."
+      }
+    ]
+  },
+  {
+    "word": "rễ, chân răng, gốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root"
+      }
+    ]
+  },
+  {
+    "word": "rễ nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rootle"
+      }
+    ]
+  },
+  {
+    "word": "rễ cọc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ rễ cây có rễ cái to đâm thẳng xuống và nhiều rễ con nhỏ hơn, đâm nghiêng vào đất"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rễ cọc\n- Rễ gồm có rễ cái và nhiều rễ con to nhỏ khác nhau."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rễ cọc\n-(thực vật) Tap-root"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rễ cọc\n- (thực vật) Tap-root"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tap-root"
+      }
+    ]
+  },
+  {
+    "word": "rễ cây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-root"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tree root"
+      }
+    ]
+  },
+  {
+    "word": "rễ chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-main root\n-tap root"
       }
     ]
   },
@@ -308,58 +355,11 @@
     ]
   },
   {
-    "word": "rễ con",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rễ con\n- Rễ nhánh mọc từ rễ cái mà ra."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rễ con\n-(thực vật) Radicle, rootlet"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rễ con\n- (thực vật) Radicle, rootlet"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "radicle, rootlet"
-      }
-    ]
-  },
-  {
-    "word": "rễ dây thần kinh mặt",
+    "word": "rễ cần tây",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-racial root"
-      }
-    ]
-  },
-  {
-    "word": "rễ phụ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rễ phụ\n- Rễ mọc từ thân hay cành."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rễ phụ [rễ phụ]\n-(thực vật) Adventitious root.\n-aerial root"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "adventitious root, aerial root"
-      }
-    ]
-  },
-  {
-    "word": "rễ ngoài của dải thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-root of optic tract lateral"
+        "dict_definition": "@Chuyên ngành kinh tế\n-celeriac\n-knob celeriac\n-root celeriac\n-turnip-rooted celeriac"
       }
     ]
   }

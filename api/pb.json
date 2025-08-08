@@ -1,14 +1,5 @@
 [
   {
-    "word": "pbo2",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-peroxide of lead"
-      }
-    ]
-  },
-  {
     "word": "pbx quốc tế",
     "definitions": [
       {
@@ -27,11 +18,11 @@
     ]
   },
   {
-    "word": "pbx số",
+    "word": "pbo2",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Digital PBX (DPBX)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-peroxide of lead"
       }
     ]
   },
@@ -53,6 +44,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-petabyte"
+      }
+    ]
+  },
+  {
+    "word": "pbx số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Digital PBX (DPBX)"
       }
     ]
   }

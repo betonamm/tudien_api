@@ -1,44 +1,75 @@
 [
   {
-    "word": "ước lệ",
+    "word": "ước khoảng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to estimate"
+      }
+    ]
+  },
+  {
+    "word": "ướt dầm dề",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "soaking wet"
+      }
+    ]
+  },
+  {
+    "word": "ước tính phân tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-analytical estimate"
+      }
+    ]
+  },
+  {
+    "word": "ướt máu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wet with blood"
+      }
+    ]
+  },
+  {
+    "word": "ước tính tuổi thọ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-life expectancy"
+      }
+    ]
+  },
+  {
+    "word": "ướt át",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quy ước biểu trưng trong biểu hiện nghệ thuật\nVí dụ:\n- bài thơ có nhiều hình ảnh mang tính ước lệ"
+        "dict_definition": "ướt nhiều, gây cảm giác khó chịu [nói khái quát]\nVí dụ:\n- đường sá ướt át \n - người ướt át mồ hôi"
       },
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quy ước đã thống nhất với nhau\nVí dụ:\n- tiếng lóng ít nhiều có tính ước lệ"
+        "dict_definition": "có chứa nhiều tình cảm uỷ mị, yếu đuối\nVí dụ:\n- tình cảm ướt át \n - giọng văn ướt át"
       },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có tính quy ước\nVí dụ:\n- hình ảnh ước lệ \n - ngôn ngữ sân khấu ước lệ"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ướt át\n- tt ướt nhiều, gây cảm giác khó chịu: Trời mưa, nhà dột, đồ đạc ướt át cả."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ước lệ\n*danh từ\n-conditioning"
+        "dict_definition": "@ướt át\n*adj\n-wet, damp"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ướt át\n* adj\n- wet, damp"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "conditioning"
-      }
-    ]
-  },
-  {
-    "word": "ước nguyện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như nguyện ước\nVí dụ:\n- trước lúc bà mất, bà đã ước nguyện được gặp tôi lần cuối"
-      }
-    ]
-  },
-  {
-    "word": "ước số của một số nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divisor of an integer"
+        "dict_definition": "wet, damp"
       }
     ]
   },
@@ -52,81 +83,49 @@
     ]
   },
   {
-    "word": "ước số",
+    "word": "ước muốn mua hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-desire for goods"
+      }
+    ]
+  },
+  {
+    "word": "ước vọng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "số chia hết của một số khác\nVí dụ:\n- 1, 3, 5 là ước số của 15"
+        "dict_definition": "điều mong muốn rất thiết tha\nVí dụ:\n- thoả mãn ước vọng"
       },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước số [ước số]\n-(toán học) divisor;  submultiple;  aliquote\n@Chuyên ngành kỹ thuật\n-aliquot\n-aliquote\n-divisor\n-submultiple"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "divisor, submultiple, aliquote"
-      }
-    ]
-  },
-  {
-    "word": "ước tính quá cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overestimate"
-      }
-    ]
-  },
-  {
-    "word": "ước (số)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước cung cấp độc quyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-exclusive purchasing agreement"
-      }
-    ]
-  },
-  {
-    "word": "ước tính sai số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-error estimation"
-      }
-    ]
-  },
-  {
-    "word": "ướt nhèm",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ướt mèm"
+        "dict_definition": "mong mỏi thiết tha\nVí dụ:\n- con người luôn ước vọng một tương lai tươi đẹp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ước vọng\n- đgt (H. ước: mong mỏi; vọng: trông mong) Điều mong mỏi: Những ước vọng của tuổi thanh niên."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ướt nhèm\n*trạng từ\n-be all wet"
+        "dict_definition": "@ước vọng\n*noun\n-aspiration"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ước vọng\n* noun\n- aspiration"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "completely wet"
+        "dict_definition": "to desire, wish; aspiration"
       }
     ]
   },
   {
-    "word": "ước lượng không chêch lệch",
+    "word": "ướt dầm",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unbiased estimator"
+        "dict_name": "VNEDICT",
+        "dict_definition": "soaking wet"
       }
     ]
   },
@@ -144,6 +143,139 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to estimate; estimated"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng đầy đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overall estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước muốn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mong muốn thiết tha\nVí dụ:\n- ước muốn trở thành người nổi tiếng \n - ước muốn một cuộc sống hạnh phúc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "điều mong muốn\nVí dụ:\n- đạt được ước muốn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ước muốn\n- I. đgt. Mong muốn thiết tha: ước muốn mọi điều tốt đẹp  ước muốn sống trong hoà bình dài lâu. II. dt. Điều mong muốn thiết tha: thực hiện được mọi ước muốn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước muốn\n*verb\n-to wish, would like\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-desire"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ước muốn\n* verb\n-to wish, would like"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wish, would like"
+      }
+    ]
+  },
+  {
+    "word": "ước hẹn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như hẹn ước\nVí dụ:\n- họ đã ước hẹn với nhau từ trước"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ước hẹn\n- đg. (vch.). Như hẹn ước."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước hẹn\n*verb\n-to fix an appointment"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ước hẹn\n* verb\n- to fix an appointment"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to fix an appointment"
+      }
+    ]
+  },
+  {
+    "word": "ước đoán thô sơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-crude guess"
+      }
+    ]
+  },
+  {
+    "word": "ước danh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-code name"
+      }
+    ]
+  },
+  {
+    "word": "ước (số)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-divisor"
+      }
+    ]
+  },
+  {
+    "word": "ước số chung lớn nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-greatest common divisor"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng bất biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-invariant estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ước chừng số lượng, dựa trên sự quan sát và tính toán đại khái\nVí dụ:\n- tôi đã ước lượng thời gian hoàn thành \n - tôi đã ước lượng xong mọi chuyện"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ước lượng\n- đgt. Đoán định số lượng một cách đại khái không dựa trên sự tính toán cụ thể chính xác: ước lượng của người đến xem  theo kết quả ước lượng ban đầu  ước lượng thế mà chính xác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước lượng\n*verb\n-to estimate, to measure\n@Chuyên ngành kinh tế\n-computation\n-estimate\n-estimation\n-estimator\n-evaluation\n-put\n@Chuyên ngành kỹ thuật\n-costing\n-estimate\n-estimation\n-estimator\n-evaluate\n-evaluation\n-rate\n-size\n-valuation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ước lượng\n* verb\n- to estimate, to measure"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to estimate, measure. size up"
       }
     ]
   },
@@ -177,70 +309,257 @@
     ]
   },
   {
-    "word": "ước lượng bằng lý thuyết",
+    "word": "ước lượng số các không đếm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-theoretical estimation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-the number of zeros"
       }
     ]
   },
   {
-    "word": "ước lượng khoảng cách",
+    "word": "ước chia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divisor"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng bậc hai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic estimator"
+      }
+    ]
+  },
+  {
+    "word": "ước số",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "số chia hết của một số khác\nVí dụ:\n- 1, 3, 5 là ước số của 15"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước số [ước số]\n-(toán học) divisor;  submultiple;  aliquote\n@Chuyên ngành kỹ thuật\n-aliquot\n-aliquote\n-divisor\n-submultiple"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "divisor, submultiple, aliquote"
+      }
+    ]
+  },
+  {
+    "word": "ước giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quotation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-account valuation"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng hợp lý cực đại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-maximum likelihood estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước chuẩn tắc của một nhóm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal subgroup of a group"
+      }
+    ]
+  },
+  {
+    "word": "ước cung cấp độc quyền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-exclusive purchasing agreement"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng không chính quy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-regular estimator"
+      }
+    ]
+  },
+  {
+    "word": "ướp nước đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-iced"
+      }
+    ]
+  },
+  {
+    "word": "ước nguyện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như nguyện ước\nVí dụ:\n- trước lúc bà mất, bà đã ước nguyện được gặp tôi lần cuối"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng bình phương bé nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-least square estimator"
+      }
+    ]
+  },
+  {
+    "word": "ướp xác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướp xác [ướp xác]\n-embalmment\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-embalming"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "embalmment"
+      }
+    ]
+  },
+  {
+    "word": "ước giá tồn kho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inventory valuation"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng chuyển tiếp công thức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-transition formula evaluation"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng chệch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biased estimator"
+      }
+    ]
+  },
+  {
+    "word": "ước tính quá cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overestimate"
+      }
+    ]
+  },
+  {
+    "word": "ướt mèm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ướt đẫm và dính bết vào nhau\nVí dụ:\n- quần áo ướt mèm"
+      }
+    ]
+  },
+  {
+    "word": "ước tính thiệt hại",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to estimate a distance"
+        "dict_definition": "to estimate damage"
       }
     ]
   },
   {
-    "word": "ướt mưa (cụm từ ghi chú trên vận đơn)",
+    "word": "ước lượng hữu hiệu nhất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rain wet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-most efficient estimator"
       }
     ]
   },
   {
-    "word": "ước lượng tuyến tính",
+    "word": "ước lượng không vững",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-linear estimator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inconsistent estimator"
       }
     ]
   },
   {
-    "word": "ước thật sự",
+    "word": "ước lượng phí tổn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divisor PROPER\n-proper divisor"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cost approximation"
       }
     ]
   },
   {
-    "word": "ước tính chung",
+    "word": "ước lượng lại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-general estimate"
+        "dict_definition": "@Chuyên ngành kinh tế\n-revalue"
       }
     ]
   },
   {
-    "word": "ước rằng",
+    "word": "ướm lòng",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướm lòng\n*động từ\n-sound out intentions, put out feelers"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to wish that"
+        "dict_definition": "sound out intentions, put out feelers"
       }
     ]
   },
   {
-    "word": "ước lượng hiệu quả",
+    "word": "ước lượng vững",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-consistent estimate\n-consistent estimator"
+      }
+    ]
+  },
+  {
+    "word": "ước toàn phần của không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-absolute zero divisor"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng hữu hiệu",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -249,20 +568,25 @@
     ]
   },
   {
-    "word": "ướt như chuột lột",
+    "word": "ước thúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ướt như chuột lột [ướt như chuột lột]\n-soaked/wet to the skin;  soaked/wet through;  as wet as a drowned rat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "completely wet, soaking wet"
+        "dict_definition": "@Chuyên ngành kinh tế\n-engagement"
       }
     ]
   },
   {
-    "word": "ước số bên trong",
+    "word": "ướt trên ướt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wet on wet"
+      }
+    ]
+  },
+  {
+    "word": "ước trong",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -271,29 +595,20 @@
     ]
   },
   {
-    "word": "ước lượng bằng mắt",
+    "word": "ướt tiếp điểm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-eye estimation\n-eyeball"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-contact wetting"
       }
     ]
   },
   {
-    "word": "ướp muối",
+    "word": "ước lượng (mức tổn thất)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-brine\n-cure\n-preserve with salt\n-salt\n-souse\n-to preserve in brine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-cure"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng bậc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic estimator"
+        "dict_definition": "@Chuyên ngành kinh tế\n-assessment"
       }
     ]
   },
@@ -331,103 +646,204 @@
     ]
   },
   {
-    "word": "ước ao",
+    "word": "ước tính về tiến độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-progress estimate"
+      }
+    ]
+  },
+  {
+    "word": "ướt mưa (cụm từ ghi chú trên vận đơn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rain wet"
+      }
+    ]
+  },
+  {
+    "word": "ước số bên trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interior divisor"
+      }
+    ]
+  },
+  {
+    "word": "ướt đề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướt đề - như"
+      }
+    ]
+  },
+  {
+    "word": "ướt sượt",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ao ước\nVí dụ:\n- ước ao một gia đình hạnh phúc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước ao - như"
+        "dict_definition": "như ướt rượt\nVí dụ:\n- tóc tai ướt sượt"
       }
     ]
   },
   {
-    "word": "ướp bằng thủy dầu",
+    "word": "ước chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-essence-flavoured"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal divisor"
       }
     ]
   },
   {
-    "word": "ước muốn mua hàng",
+    "word": "ước tính tổn thất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-desire for goods"
+        "dict_definition": "@Chuyên ngành kinh tế\n-loss expectancy"
       }
     ]
   },
   {
-    "word": "ước lượng chuyển tiếp công thức",
+    "word": "ước lượng tỷ số",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-transition formula evaluation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ratio estimator"
       }
     ]
   },
   {
-    "word": "ước liệu",
+    "word": "ước độ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-code signal"
-      }
-    ]
-  },
-  {
-    "word": "ước mơ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mơ ước\nVí dụ:\n- ước mơ trở thành người nổi tiếng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ước mơ\n- đg. (và d.). Như mơ ước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước mơ\n*noun\n-dream, wish"
+        "dict_definition": "@ước độ\n*adv\n-approximately"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ước mơ\n* noun\n- dream, wish"
+        "dict_definition": "@ước độ\n* adv\n- approximately"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "dream, wish"
+        "dict_definition": "approximately"
       }
     ]
   },
   {
-    "word": "ướt nhẹp",
+    "word": "ước lượng trên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ướt nhẹp\n*trạng từ\n-soaked"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-upper estimate"
       }
     ]
   },
   {
-    "word": "ướp tủy",
+    "word": "ước mong",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mong ước\nVí dụ:\n- chị ước mong được nhàn hạ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ước mong\n- đgt Mong mỏi thiết tha: Chỉ ước mong được luôn luôn khỏe mạnh."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pulp mummification"
+        "dict_definition": "@ước mong\n*verb\n-to wish, to expect"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ước mong\n* verb\n- to wish, to expect"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hope, desire, wish, want, expect"
       }
     ]
   },
   {
-    "word": "ước tính kế toán",
+    "word": "ước tính cho",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accounting estimate"
+        "dict_definition": "@Chuyên ngành kinh tế\n-impute"
+      }
+    ]
+  },
+  {
+    "word": "ước số của một số nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divisor of an integer"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng số điểm zêro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-estimate for the number of zeros"
+      }
+    ]
+  },
+  {
+    "word": "ướp lạnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cho vào tủ nước đá hoặc môi trường nước đá để giữ cho khỏi hỏng hoặc để cho thêm ngon\nVí dụ:\n- tôi ướp lạnh cái khăn \n - ướp lạnh thực phẩm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ướp lạnh\n- đg. Cho vào tủ nước đá hoặc môi trường nước đá để giữ cho khỏi hỏng hoặc để cho thêm ngon. Dứa ướp lạnh. Thịt ướp lạnh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướp lạnh\n*verb\n-to freeze\n@Chuyên ngành kinh tế\n-frappes\n-freeze\n-refrigerate\n-refrigeration\n@Chuyên ngành kỹ thuật\n-freeze\n-freezing\n-refrigerate"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ướp lạnh\n* verb\n- to freeze"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to freeze"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng khoảng cách",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to estimate a distance"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng bằng mắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-eye estimation\n-eyeball"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng chính quy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regular estimator"
       }
     ]
   },
@@ -461,83 +877,288 @@
     ]
   },
   {
-    "word": "ước lượng hữu hiệu",
+    "word": "ướt mưa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-efficient estimator"
+        "dict_definition": "@Chuyên ngành kinh tế\n-rain wet"
       }
     ]
   },
   {
-    "word": "ướt đề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướt đề - như"
-      }
-    ]
-  },
-  {
-    "word": "ướt sượt",
+    "word": "ướt",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ướt rượt\nVí dụ:\n- tóc tai ướt sượt"
+        "dict_definition": "có thấm nước hay có nước trên bề mặt\nVí dụ:\n- lưng áo ướt mồ hôi \n - củi ướt không cháy \n - mắt ướt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ướt\n- tt. Có nước thấm vào: ngã ướt hết quần áo  ướt như chuột lột (tng.)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướt\n*adj\n-wet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moisten\n-watery"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ướt\n* adj\n- wet"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wet"
       }
     ]
   },
   {
-    "word": "ước đoán thô sơ",
+    "word": "ước lượng được",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-crude guess"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-estimable"
       }
     ]
   },
   {
-    "word": "ước lượng hợp lý cực đại",
+    "word": "ước tính thấp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-maximum likelihood estimate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-underestimate"
       }
     ]
   },
   {
-    "word": "ước lượng không vững",
+    "word": "ước lượng không chệch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inconsistent estimator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unbiased estimate\n-unbiased estimator"
       }
     ]
   },
   {
-    "word": "ước chuẩn tắc của một nhóm",
+    "word": "ước số chung",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ước số đồng thời của nhiều số\nVí dụ:\n- 3 là ước số chung của 6, 9, 12, 15, 18, 21, …"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal subgroup of a group"
+        "dict_definition": "@ước số chung [ước số chung]\n-(toán học) common divisor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-common divisor"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "common divisor"
       }
     ]
   },
   {
-    "word": "ước số chung lớn nhất",
+    "word": "ước lược tự",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-greatest common divisor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-conventional abbreviation"
       }
     ]
   },
   {
-    "word": "ước lượng hồi quy",
+    "word": "ướm hỏi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regression estimate"
+        "dict_definition": "@ướm hỏi\n*động từ\n-sound someone out"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sound someone out"
+      }
+    ]
+  },
+  {
+    "word": "ướm lời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướm lời\n*động từ\n-sound somebody out, ask tentatively"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sound somebody out, ask tentatively"
+      }
+    ]
+  },
+  {
+    "word": "ước tính kế toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accounting estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước tính chung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-general estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng tuyệt đối không chệch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-absolutely unbiased estimator"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng giá bán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sale estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng hiệu dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-efficiency estimation"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng mức tổn hao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-loss evaluation"
+      }
+    ]
+  },
+  {
+    "word": "ướt nhẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướt nhẹp\n*trạng từ\n-soaked"
+      }
+    ]
+  },
+  {
+    "word": "ước chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-principal divisor"
+      }
+    ]
+  },
+  {
+    "word": "ướp (xác)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mummify"
+      }
+    ]
+  },
+  {
+    "word": "ướm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đặt thử vào để xem có vừa, có hợp không\nVí dụ:\n- tôi đang ướm giày \n - ướm thử chiếc vòng vào cổ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nói xa xôi để thử thăm dò ý kiến xem có thuận không\nVí dụ:\n- chị ướm hỏi tôi \n - \"Hôm xưa tướng phủ mới vào, Khoe con má phấn, ướm trao chỉ hồng.\" (NĐM)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ướm\n- đg. 1 Đặt thử vào để xem có vừa, có hợp không. Ướm giày. Mặc ướm thử. Ướm cánh cửa vào khung. 2 Nói thử để thăm dò ý kiến xem có thuận không. Chưa dám nói thẳng ra, mới ướm ý. Chỉ mới ướm mà đã chối đây đẩy. Câu hỏi ướm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướm\n*verb\n-to try on, to try"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ướm\n* verb\n- to try on, to try"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to try on, try"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng lại (một tài sản...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-revalue"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-estimated tare\n-point estimation"
+      }
+    ]
+  },
+  {
+    "word": "ướp muối (cá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rouse"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng bậc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic estimator"
+      }
+    ]
+  },
+  {
+    "word": "ước chung, ước chung lớn nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-common divisor, most grand common divisor"
+      }
+    ]
+  },
+  {
+    "word": "ướp tủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pulp mummification"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng...",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rate"
       }
     ]
   },
@@ -551,11 +1172,170 @@
     ]
   },
   {
+    "word": "ướp muối có đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sugar-salted"
+      }
+    ]
+  },
+  {
+    "word": "ướp ngâu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ướp ngâu\n- ướp hoa ngâu vàng rất thơm"
+      }
+    ]
+  },
+  {
     "word": "ước lượng minimax",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-minimax estimate"
+      }
+    ]
+  },
+  {
+    "word": "ướt rườn rượt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ướt rượt [nhưng ý nhấn mạnh hơn]"
+      }
+    ]
+  },
+  {
+    "word": "ước định mức chỉ tiêu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-standard spending assessment"
+      }
+    ]
+  },
+  {
+    "word": "ước ao",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ao ước\nVí dụ:\n- ước ao một gia đình hạnh phúc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước ao - như"
+      }
+    ]
+  },
+  {
+    "word": "ước thật sự",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divisor PROPER\n-proper divisor"
+      }
+    ]
+  },
+  {
+    "word": "ướt như chuột lột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướt như chuột lột [ướt như chuột lột]\n-soaked/wet to the skin;  soaked/wet through;  as wet as a drowned rat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "completely wet, soaking wet"
+      }
+    ]
+  },
+  {
+    "word": "ước liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-code signal"
+      }
+    ]
+  },
+  {
+    "word": "ước gì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước gì [ước gì]\n-I wish ..."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "i wish"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng bằng lý thuyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-theoretical estimation"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng không chêch lệch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unbiased estimator"
+      }
+    ]
+  },
+  {
+    "word": "ước muốn tiếp kiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-spirit of saving"
+      }
+    ]
+  },
+  {
+    "word": "ước rằng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wish that"
+      }
+    ]
+  },
+  {
+    "word": "ướt sũng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ướt nhiều, vì ngâm lâu trong nước hoặc thấm đẫm nước\nVí dụ:\n- quần áo ướt sũng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướt sũng\n*trạng từ\n-dripping wet, soaking wet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sopping"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "soaking wet"
+      }
+    ]
+  },
+  {
+    "word": "ướt đầm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ướt đẫm\nVí dụ:\n- \"Người về em những khóc thầm, Bên song vạt áo ướt đầm như mưa.\" (Cdao)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướt đầm\n*danh từ\n-soaking wet"
       }
     ]
   },
@@ -573,25 +1353,16 @@
     ]
   },
   {
-    "word": "ướt mưa",
+    "word": "ước lượng minimac",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rain wet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-minimax estimate"
       }
     ]
   },
   {
-    "word": "ước thúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-engagement"
-      }
-    ]
-  },
-  {
-    "word": "ướt trên ướt",
+    "word": "ướt trong ướt",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -600,11 +1371,169 @@
     ]
   },
   {
-    "word": "ướt dầm dề",
+    "word": "ướt rượt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ướt đến mức như sũng những nước\nVí dụ:\n- đôi mắt ướt rượt \n - đầu tóc ướt rượt"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ướt rượt\n*thành ngữ\n-be all wet"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "completely wet"
+      }
+    ]
+  },
+  {
+    "word": "ướp muối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-brine\n-cure\n-preserve with salt\n-salt\n-souse\n-to preserve in brine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-cure"
+      }
+    ]
+  },
+  {
+    "word": "ướt sườn sượt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ướt sượt [nhưng ý nhấn mạnh hơn]"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng chấp nhận được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-admissible estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước tính trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-precompute"
+      }
+    ]
+  },
+  {
+    "word": "ướp bằng thủy dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-essence-flavoured"
+      }
+    ]
+  },
+  {
+    "word": "ước chung lớn nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-greatest common divisor, highest common divisor"
+      }
+    ]
+  },
+  {
+    "word": "ước lược",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rút gọn\nVí dụ:\n- ước lược phân số"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước lược\n*động từ\n-reduce, summarize\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-reduce"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to summarize, estimate, guess"
+      }
+    ]
+  },
+  {
+    "word": "ước tính sai số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-error estimation"
+      }
+    ]
+  },
+  {
+    "word": "ước sơ cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elementary divisor"
+      }
+    ]
+  },
+  {
+    "word": "ước tính kế hoạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-planning estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước lượng khoảng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-interval estimate"
+      }
+    ]
+  },
+  {
+    "word": "ước chung",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ước đồng thời của nhiều đại lượng"
+      }
+    ]
+  },
+  {
+    "word": "ước lệ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quy ước biểu trưng trong biểu hiện nghệ thuật\nVí dụ:\n- bài thơ có nhiều hình ảnh mang tính ước lệ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quy ước đã thống nhất với nhau\nVí dụ:\n- tiếng lóng ít nhiều có tính ước lệ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có tính quy ước\nVí dụ:\n- hình ảnh ước lệ \n - ngôn ngữ sân khấu ước lệ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ước lệ\n*danh từ\n-conditioning"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "conditioning"
+      }
+    ]
+  },
+  {
+    "word": "ướt đẫm mồ hôi",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "soaking wet"
+        "dict_definition": "soaked with sweat"
       }
     ]
   },
@@ -642,68 +1571,11 @@
     ]
   },
   {
-    "word": "ước lượng bình phương bé nhất",
+    "word": "ước lượng hồi quy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-least square estimator"
-      }
-    ]
-  },
-  {
-    "word": "ướp xác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướp xác [ướp xác]\n-embalmment\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-embalming"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "embalmment"
-      }
-    ]
-  },
-  {
-    "word": "ướm lời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướm lời\n*động từ\n-sound somebody out, ask tentatively"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sound somebody out, ask tentatively"
-      }
-    ]
-  },
-  {
-    "word": "ước gì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước gì [ước gì]\n-I wish ..."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "i wish"
-      }
-    ]
-  },
-  {
-    "word": "ước tính trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-precompute"
-      }
-    ]
-  },
-  {
-    "word": "ướt đẫm mồ hôi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "soaked with sweat"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regression estimate"
       }
     ]
   },
@@ -713,293 +1585,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-best estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước định mức chỉ tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-standard spending assessment"
-      }
-    ]
-  },
-  {
-    "word": "ướp ngâu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ướp ngâu\n- ướp hoa ngâu vàng rất thơm"
-      }
-    ]
-  },
-  {
-    "word": "ướt mèm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ướt đẫm và dính bết vào nhau\nVí dụ:\n- quần áo ướt mèm"
-      }
-    ]
-  },
-  {
-    "word": "ướt sườn sượt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ướt sượt [nhưng ý nhấn mạnh hơn]"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng...",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rate"
-      }
-    ]
-  },
-  {
-    "word": "ướt nhè",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướt nhè\n*danh từ\n-wet (clothes)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wet (clothes)"
-      }
-    ]
-  },
-  {
-    "word": "ước tính về tiến độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-progress estimate"
-      }
-    ]
-  },
-  {
-    "word": "ước giá tồn kho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inventory valuation"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng giá bán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sale estimate"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng chính quy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-regular estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước tính kế hoạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-planning estimate"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng bất biến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-invariant estimate"
-      }
-    ]
-  },
-  {
-    "word": "ước vọng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "điều mong muốn rất thiết tha\nVí dụ:\n- thoả mãn ước vọng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mong mỏi thiết tha\nVí dụ:\n- con người luôn ước vọng một tương lai tươi đẹp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ước vọng\n- đgt (H. ước: mong mỏi; vọng: trông mong) Điều mong mỏi: Những ước vọng của tuổi thanh niên."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước vọng\n*noun\n-aspiration"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ước vọng\n* noun\n- aspiration"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to desire, wish; aspiration"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng tỷ số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ratio estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng hiệu dụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-efficiency estimation"
-      }
-    ]
-  },
-  {
-    "word": "ước số chung",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ước số đồng thời của nhiều số\nVí dụ:\n- 3 là ước số chung của 6, 9, 12, 15, 18, 21, …"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước số chung [ước số chung]\n-(toán học) common divisor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-common divisor"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "common divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước lược",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rút gọn\nVí dụ:\n- ước lược phân số"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước lược\n*động từ\n-reduce, summarize\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-reduce"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to summarize, estimate, guess"
-      }
-    ]
-  },
-  {
-    "word": "ước khoảng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to estimate"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-estimable"
-      }
-    ]
-  },
-  {
-    "word": "ướm hỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướm hỏi\n*động từ\n-sound someone out"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sound someone out"
-      }
-    ]
-  },
-  {
-    "word": "ướt át",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ướt nhiều, gây cảm giác khó chịu [nói khái quát]\nVí dụ:\n- đường sá ướt át \n - người ướt át mồ hôi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có chứa nhiều tình cảm uỷ mị, yếu đuối\nVí dụ:\n- tình cảm ướt át \n - giọng văn ướt át"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ướt át\n- tt ướt nhiều, gây cảm giác khó chịu: Trời mưa, nhà dột, đồ đạc ướt át cả."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướt át\n*adj\n-wet, damp"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ướt át\n* adj\n- wet, damp"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wet, damp"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ước chừng số lượng, dựa trên sự quan sát và tính toán đại khái\nVí dụ:\n- tôi đã ước lượng thời gian hoàn thành \n - tôi đã ước lượng xong mọi chuyện"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ước lượng\n- đgt. Đoán định số lượng một cách đại khái không dựa trên sự tính toán cụ thể chính xác: ước lượng của người đến xem  theo kết quả ước lượng ban đầu  ước lượng thế mà chính xác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước lượng\n*verb\n-to estimate, to measure\n@Chuyên ngành kinh tế\n-computation\n-estimate\n-estimation\n-estimator\n-evaluation\n-put\n@Chuyên ngành kỹ thuật\n-costing\n-estimate\n-estimation\n-estimator\n-evaluate\n-evaluation\n-rate\n-size\n-valuation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ước lượng\n* verb\n- to estimate, to measure"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to estimate, measure. size up"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-upper estimate"
       }
     ]
   },
@@ -1017,153 +1602,40 @@
     ]
   },
   {
-    "word": "ước lượng khoảng",
+    "word": "ướt nhè",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-interval estimate"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng không chệch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unbiased estimate\n-unbiased estimator"
-      }
-    ]
-  },
-  {
-    "word": "ướt dầm",
-    "definitions": [
+        "dict_definition": "@ướt nhè\n*danh từ\n-wet (clothes)"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "soaking wet"
+        "dict_definition": "wet (clothes)"
       }
     ]
   },
   {
-    "word": "ước lượng không chính quy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-regular estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng hữu hiệu nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-most efficient estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước tính thiệt hại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to estimate damage"
-      }
-    ]
-  },
-  {
-    "word": "ước tính cho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-impute"
-      }
-    ]
-  },
-  {
-    "word": "ước mong",
+    "word": "ước mơ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mong ước\nVí dụ:\n- chị ước mong được nhàn hạ"
+        "dict_definition": "như mơ ước\nVí dụ:\n- ước mơ trở thành người nổi tiếng"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ước mong\n- đgt Mong mỏi thiết tha: Chỉ ước mong được luôn luôn khỏe mạnh."
+        "dict_definition": "@ước mơ\n- đg. (và d.). Như mơ ước."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ước mong\n*verb\n-to wish, to expect"
+        "dict_definition": "@ước mơ\n*noun\n-dream, wish"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ước mong\n* verb\n- to wish, to expect"
+        "dict_definition": "@ước mơ\n* noun\n- dream, wish"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to hope, desire, wish, want, expect"
-      }
-    ]
-  },
-  {
-    "word": "ướt rườn rượt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ướt rượt [nhưng ý nhấn mạnh hơn]"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng tuyệt đối không chệch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-absolutely unbiased estimator"
-      }
-    ]
-  },
-  {
-    "word": "ướp (xác)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mummify"
-      }
-    ]
-  },
-  {
-    "word": "ước chung",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ước đồng thời của nhiều đại lượng"
-      }
-    ]
-  },
-  {
-    "word": "ước tính tuổi thọ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-life expectancy"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng số các không đếm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-the number of zeros"
-      }
-    ]
-  },
-  {
-    "word": "ước chung, ước chung lớn nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-common divisor, most grand common divisor"
+        "dict_definition": "dream, wish"
       }
     ]
   },
@@ -1193,424 +1665,28 @@
     ]
   },
   {
-    "word": "ước độ",
+    "word": "ước lượng hiệu quả",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ước độ\n*adv\n-approximately"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ước độ\n* adv\n- approximately"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "approximately"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-efficient estimator"
       }
     ]
   },
   {
-    "word": "ước lược tự",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-conventional abbreviation"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-revalue"
-      }
-    ]
-  },
-  {
-    "word": "ước hẹn",
+    "word": "ướt nhèm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như hẹn ước\nVí dụ:\n- họ đã ước hẹn với nhau từ trước"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ước hẹn\n- đg. (vch.). Như hẹn ước."
+        "dict_definition": "như ướt mèm"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ước hẹn\n*verb\n-to fix an appointment"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ước hẹn\n* verb\n- to fix an appointment"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to fix an appointment"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng số điểm zêro",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-estimate for the number of zeros"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng lại (một tài sản...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-revalue"
-      }
-    ]
-  },
-  {
-    "word": "ước sơ cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elementary divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interior divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước chung lớn nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-greatest common divisor, highest common divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng chấp nhận được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-admissible estimate"
-      }
-    ]
-  },
-  {
-    "word": "ướm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đặt thử vào để xem có vừa, có hợp không\nVí dụ:\n- tôi đang ướm giày \n - ướm thử chiếc vòng vào cổ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nói xa xôi để thử thăm dò ý kiến xem có thuận không\nVí dụ:\n- chị ướm hỏi tôi \n - \"Hôm xưa tướng phủ mới vào, Khoe con má phấn, ướm trao chỉ hồng.\" (NĐM)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ướm\n- đg. 1 Đặt thử vào để xem có vừa, có hợp không. Ướm giày. Mặc ướm thử. Ướm cánh cửa vào khung. 2 Nói thử để thăm dò ý kiến xem có thuận không. Chưa dám nói thẳng ra, mới ướm ý. Chỉ mới ướm mà đã chối đây đẩy. Câu hỏi ướm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướm\n*verb\n-to try on, to try"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ướm\n* verb\n- to try on, to try"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to try on, try"
-      }
-    ]
-  },
-  {
-    "word": "ước muốn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mong muốn thiết tha\nVí dụ:\n- ước muốn trở thành người nổi tiếng \n - ước muốn một cuộc sống hạnh phúc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "điều mong muốn\nVí dụ:\n- đạt được ước muốn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ước muốn\n- I. đgt. Mong muốn thiết tha: ước muốn mọi điều tốt đẹp  ước muốn sống trong hoà bình dài lâu. II. dt. Điều mong muốn thiết tha: thực hiện được mọi ước muốn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ước muốn\n*verb\n-to wish, would like\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-desire"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ước muốn\n* verb\n-to wish, would like"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wish, would like"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-estimated tare\n-point estimation"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng chệch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biased estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng đầy đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overall estimate"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng vững",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-consistent estimate\n-consistent estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước tính tổn thất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loss expectancy"
-      }
-    ]
-  },
-  {
-    "word": "ướt tiếp điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-contact wetting"
-      }
-    ]
-  },
-  {
-    "word": "ước tính phân tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-analytical estimate"
-      }
-    ]
-  },
-  {
-    "word": "ướt rượt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ướt đến mức như sũng những nước\nVí dụ:\n- đôi mắt ướt rượt \n - đầu tóc ướt rượt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướt rượt\n*thành ngữ\n-be all wet"
+        "dict_definition": "@ướt nhèm\n*trạng từ\n-be all wet"
       },
       {
         "dict_name": "VNEDICT",
         "dict_definition": "completely wet"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng bậc hai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic estimator"
-      }
-    ]
-  },
-  {
-    "word": "ước chia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-divisor"
-      }
-    ]
-  },
-  {
-    "word": "ướp muối (cá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rouse"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng (mức tổn thất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-assessment"
-      }
-    ]
-  },
-  {
-    "word": "ướt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có thấm nước hay có nước trên bề mặt\nVí dụ:\n- lưng áo ướt mồ hôi \n - củi ướt không cháy \n - mắt ướt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ướt\n- tt. Có nước thấm vào: ngã ướt hết quần áo  ướt như chuột lột (tng.)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướt\n*adj\n-wet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moisten\n-watery"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ướt\n* adj\n- wet"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wet"
-      }
-    ]
-  },
-  {
-    "word": "ướp nước đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-iced"
-      }
-    ]
-  },
-  {
-    "word": "ước danh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-code name"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng mức tổn hao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-loss evaluation"
-      }
-    ]
-  },
-  {
-    "word": "ướm lòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướm lòng\n*động từ\n-sound out intentions, put out feelers"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sound out intentions, put out feelers"
-      }
-    ]
-  },
-  {
-    "word": "ướp muối có đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sugar-salted"
-      }
-    ]
-  },
-  {
-    "word": "ướt sũng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ướt nhiều, vì ngâm lâu trong nước hoặc thấm đẫm nước\nVí dụ:\n- quần áo ướt sũng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướt sũng\n*trạng từ\n-dripping wet, soaking wet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sopping"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "soaking wet"
-      }
-    ]
-  },
-  {
-    "word": "ướp lạnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cho vào tủ nước đá hoặc môi trường nước đá để giữ cho khỏi hỏng hoặc để cho thêm ngon\nVí dụ:\n- tôi ướp lạnh cái khăn \n - ướp lạnh thực phẩm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ướp lạnh\n- đg. Cho vào tủ nước đá hoặc môi trường nước đá để giữ cho khỏi hỏng hoặc để cho thêm ngon. Dứa ướp lạnh. Thịt ướp lạnh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướp lạnh\n*verb\n-to freeze\n@Chuyên ngành kinh tế\n-frappes\n-freeze\n-refrigerate\n-refrigeration\n@Chuyên ngành kỹ thuật\n-freeze\n-freezing\n-refrigerate"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ướp lạnh\n* verb\n- to freeze"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to freeze"
-      }
-    ]
-  },
-  {
-    "word": "ướt máu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wet with blood"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng minimac",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-minimax estimate"
       }
     ]
   },
@@ -1624,87 +1700,11 @@
     ]
   },
   {
-    "word": "ước chuẩn",
+    "word": "ước lượng tuyến tính",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước toàn phần của không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-absolute zero divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-principal divisor"
-      }
-    ]
-  },
-  {
-    "word": "ước giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quotation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-account valuation"
-      }
-    ]
-  },
-  {
-    "word": "ước muốn tiếp kiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-spirit of saving"
-      }
-    ]
-  },
-  {
-    "word": "ước tính thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-underestimate"
-      }
-    ]
-  },
-  {
-    "word": "ước lượng phí tổn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cost approximation"
-      }
-    ]
-  },
-  {
-    "word": "ướt trong ướt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wet on wet"
-      }
-    ]
-  },
-  {
-    "word": "ướt đầm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ướt đẫm\nVí dụ:\n- \"Người về em những khóc thầm, Bên song vạt áo ướt đầm như mưa.\" (Cdao)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ướt đầm\n*danh từ\n-soaking wet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-linear estimator"
       }
     ]
   }

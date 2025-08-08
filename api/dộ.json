@@ -1,10 +1,65 @@
 [
   {
-    "word": "dội sóng (điện tử)",
+    "word": "dội",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[âm thanh] bật mạnh trở lại với nhiều tiếng vang\nVí dụ:\n- tiếng súng dội vào vách đá"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vang lên và truyền đi mạnh mẽ\nVí dụ:\n- tin chiến thắng dội về"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cơn đau hoặc tình cảm] nổi lên mạnh mẽ\nVí dụ:\n- phía ngực trái dội lên đau nhói \n - tình cảm dội lên trong lòng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem giội\nVí dụ:\n- nó dội nước ào ào vào người \n - máy bay đang dội bom ào ào"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dội\n- 1 dt., cũ Một khoảng thời gian nhất định: đi chơi một dội quanh làng  đấu nhau mấy dộị\n- 2 đgt. 1. (âm thanh) vọng lại với nhiều tiếng vang: Tiếng pháo dội vào vách núi. 2. Vang và truyền đi mạnh mẽ: Tin vui dội về làm nức lòng mọi người. 3. Cuộn lên mạnh mẽ: Cơn đau dội lên  Niềm thương nỗi nhớ dội lên trong lòng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dội\n*verb\n-to pour (water); to bound; to resound; to kick"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dội\n* verb\n- to pour (water); to bound; to resound; to kick"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pour (water), bound, resound, kick"
+      }
+    ]
+  },
+  {
+    "word": "dộng vật học",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "zoology"
+      }
+    ]
+  },
+  {
+    "word": "dộ dãn dài giới hạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reflection of the waves"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ultimate elongation"
+      }
+    ]
+  },
+  {
+    "word": "dội bốn mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tetracrotic"
       }
     ]
   },
@@ -34,20 +89,11 @@
     ]
   },
   {
-    "word": "dội ngược ra sau",
+    "word": "dội nước",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to move backwards"
-      }
-    ]
-  },
-  {
-    "word": "dộng vật học",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "zoology"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flush"
       }
     ]
   },
@@ -69,74 +115,11 @@
     ]
   },
   {
-    "word": "dội nước, rửa bằng tia nước",
+    "word": "dội rửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flush"
-      }
-    ]
-  },
-  {
-    "word": "dội ngược lại (tay quay, bàn quay)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-back kick"
-      }
-    ]
-  },
-  {
-    "word": "dội bốn mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tetracrotic"
-      }
-    ]
-  },
-  {
-    "word": "dộ dãn dài giới hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ultimate elongation"
-      }
-    ]
-  },
-  {
-    "word": "dội sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-reflection of the wave"
-      }
-    ]
-  },
-  {
-    "word": "dội bom",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bomb"
-      }
-    ]
-  },
-  {
-    "word": "dộp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem rộp\nVí dụ:\n- bàn tay nó đang dộp lên"
-      }
-    ]
-  },
-  {
-    "word": "dội nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flush"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-scour"
       }
     ]
   },
@@ -179,15 +162,6 @@
     ]
   },
   {
-    "word": "dội đôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dicrotic"
-      }
-    ]
-  },
-  {
     "word": "dội âm",
     "definitions": [
       {
@@ -197,48 +171,38 @@
     ]
   },
   {
-    "word": "dội rửa",
+    "word": "dội sóng (điện tử)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-scour"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reflection of the waves"
       }
     ]
   },
   {
-    "word": "dội",
+    "word": "dội bom",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[âm thanh] bật mạnh trở lại với nhiều tiếng vang\nVí dụ:\n- tiếng súng dội vào vách đá"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vang lên và truyền đi mạnh mẽ\nVí dụ:\n- tin chiến thắng dội về"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cơn đau hoặc tình cảm] nổi lên mạnh mẽ\nVí dụ:\n- phía ngực trái dội lên đau nhói \n - tình cảm dội lên trong lòng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem giội\nVí dụ:\n- nó dội nước ào ào vào người \n - máy bay đang dội bom ào ào"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dội\n- 1 dt., cũ Một khoảng thời gian nhất định: đi chơi một dội quanh làng  đấu nhau mấy dộị\n- 2 đgt. 1. (âm thanh) vọng lại với nhiều tiếng vang: Tiếng pháo dội vào vách núi. 2. Vang và truyền đi mạnh mẽ: Tin vui dội về làm nức lòng mọi người. 3. Cuộn lên mạnh mẽ: Cơn đau dội lên  Niềm thương nỗi nhớ dội lên trong lòng."
-      },
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bomb"
+      }
+    ]
+  },
+  {
+    "word": "dội đôi",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dội\n*verb\n-to pour (water); to bound; to resound; to kick"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dicrotic"
+      }
+    ]
+  },
+  {
+    "word": "dội ngược lại (tay quay, bàn quay)",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dội\n* verb\n- to pour (water); to bound; to resound; to kick"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pour (water), bound, resound, kick"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-back kick"
       }
     ]
   },
@@ -248,6 +212,42 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@dội lại [dội lại]\n-to bounce;  to rebound\n-to resound;  to resonate;  to echo\n-to reflect;  to reverberate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-reverberate"
+      }
+    ]
+  },
+  {
+    "word": "dội ngược ra sau",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to move backwards"
+      }
+    ]
+  },
+  {
+    "word": "dộp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem rộp\nVí dụ:\n- bàn tay nó đang dộp lên"
+      }
+    ]
+  },
+  {
+    "word": "dội nước, rửa bằng tia nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flush"
+      }
+    ]
+  },
+  {
+    "word": "dội sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-reflection of the wave"
       }
     ]
   }

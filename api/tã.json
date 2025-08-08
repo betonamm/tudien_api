@@ -1,30 +1,23 @@
 [
   {
-    "word": "tã",
+    "word": "tã giấy",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mảnh vải dùng để quấn, lót cho trẻ mới sinh, còn ít tháng\nVí dụ:\n- thay tã cho con"
-      },
+        "dict_definition": "tã được làm bằng một loại giấy xốp đặc biệt, hút nước nhanh, có hình như chiếc quần lót để mặc cho trẻ còn bé hoặc cho người ốm nặng"
+      }
+    ]
+  },
+  {
+    "word": "tã lót",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quá cũ, đã rách nát hoặc hư hỏng nhiều\nVí dụ:\n- đôi giày đã tã \n - chiếc xe đã quá tã"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tã\n- 1. d. Miếng vải dùng để quấn lót đít, bụng hoặc chân cho trẻ mới sinh. 2. t. Rách rưới, cũ kỹ : áo này đã tã rồi."
+        "dict_definition": "tã và lót dùng cho trẻ sơ sinh [nói khái quát]\nVí dụ:\n- may tã lót cho con"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tã\n*noun\n-nappy, napkin;\n-(Mỹ) diaper"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tã\n* noun\n- nappy, napkin;\n-(Mỹ) diaper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nappy, napkin, diaper"
+        "dict_definition": "@tã lót [tã lót]\n-xem"
       }
     ]
   },
@@ -54,24 +47,31 @@
     ]
   },
   {
-    "word": "tã lót",
+    "word": "tã",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tã và lót dùng cho trẻ sơ sinh [nói khái quát]\nVí dụ:\n- may tã lót cho con"
+        "dict_definition": "mảnh vải dùng để quấn, lót cho trẻ mới sinh, còn ít tháng\nVí dụ:\n- thay tã cho con"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quá cũ, đã rách nát hoặc hư hỏng nhiều\nVí dụ:\n- đôi giày đã tã \n - chiếc xe đã quá tã"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tã\n- 1. d. Miếng vải dùng để quấn lót đít, bụng hoặc chân cho trẻ mới sinh. 2. t. Rách rưới, cũ kỹ : áo này đã tã rồi."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tã lót [tã lót]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "tã giấy",
-    "definitions": [
+        "dict_definition": "@tã\n*noun\n-nappy, napkin;\n-(Mỹ) diaper"
+      },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tã được làm bằng một loại giấy xốp đặc biệt, hút nước nhanh, có hình như chiếc quần lót để mặc cho trẻ còn bé hoặc cho người ốm nặng"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tã\n* noun\n- nappy, napkin;\n-(Mỹ) diaper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nappy, napkin, diaper"
       }
     ]
   }

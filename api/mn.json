@@ -1,14 +1,5 @@
 [
   {
-    "word": "mno3",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nitrate"
-      }
-    ]
-  },
-  {
     "word": "mn",
     "definitions": [
       {
@@ -26,6 +17,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-manganese"
+      }
+    ]
+  },
+  {
+    "word": "mno3",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nitrate"
       }
     ]
   }

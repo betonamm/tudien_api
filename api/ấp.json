@@ -1,10 +1,67 @@
 [
   {
-    "word": "ấp trại",
+    "word": "ấp iu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ôm ấp vào lòng hoặc trên tay với vẻ nâng niu\nVí dụ:\n- bà đang ấp iu đứa bé trong lòng"
+      }
+    ]
+  },
+  {
+    "word": "ấp ứ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to stutter, speak haltingly"
+      }
+    ]
+  },
+  {
+    "word": "ấp dân sinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem ấp chiến lược\nVí dụ:\n- lập ấp dân sinh"
+      }
+    ]
+  },
+  {
+    "word": "ấp cây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ấp cây\n- ôm chặc cây cột cầu, chỉ việc liều thân mà thủ tiết\n- Vỹ Sinh người nước Lỗ thời Xuân Thu, cùng hẹn với một người con gái gặp nhau ở dưới chân một chiếc cầu. Người con gái không đến, Vỹ Sinh thủ tín cứ ngồi đợi mãi đến khi nước dâng lên cũng không chịu bỏ đi, cứ ngồi ôm trụ cầu mà chết. (Lời sớ sách Luận ngữ, chú Sớ giải kinh)\n- Hoa Tiên: ấp cây một mực trần trần\n- Kiều: Trần trần một phận ấp cây đã liều\n\n@ấp cây\n- ví người si mê"
+      }
+    ]
+  },
+  {
+    "word": "ấp chiến lược",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình thức trại tập trung dân do chính quyền Sài Gòn trước 1975 lập ra ở nông thôn [theo cách gọi của chính quyền Sài Gòn]\nVí dụ:\n- lập ấp chiến lược"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ấp chiến lược [ấp chiến lược]\n-strategic hamlet (in South Vietnam, under puppet regime)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "strategic hamlet"
+      }
+    ]
+  },
+  {
+    "word": "ấp tân sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-homestead\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-homestead"
+        "dict_definition": "@ấp tân sinh\n*danh từ\n-new life hamlet"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "new life hamlet"
       }
     ]
   },
@@ -18,11 +75,11 @@
     ]
   },
   {
-    "word": "ấp ứ",
+    "word": "ấp trại",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to stutter, speak haltingly"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-homestead\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-homestead"
       }
     ]
   },
@@ -48,63 +105,6 @@
     ]
   },
   {
-    "word": "ấp iu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ôm ấp vào lòng hoặc trên tay với vẻ nâng niu\nVí dụ:\n- bà đang ấp iu đứa bé trong lòng"
-      }
-    ]
-  },
-  {
-    "word": "ấp cây",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ấp cây\n- ôm chặc cây cột cầu, chỉ việc liều thân mà thủ tiết\n- Vỹ Sinh người nước Lỗ thời Xuân Thu, cùng hẹn với một người con gái gặp nhau ở dưới chân một chiếc cầu. Người con gái không đến, Vỹ Sinh thủ tín cứ ngồi đợi mãi đến khi nước dâng lên cũng không chịu bỏ đi, cứ ngồi ôm trụ cầu mà chết. (Lời sớ sách Luận ngữ, chú Sớ giải kinh)\n- Hoa Tiên: ấp cây một mực trần trần\n- Kiều: Trần trần một phận ấp cây đã liều\n\n@ấp cây\n- ví người si mê"
-      }
-    ]
-  },
-  {
-    "word": "ấp dân sinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem ấp chiến lược\nVí dụ:\n- lập ấp dân sinh"
-      }
-    ]
-  },
-  {
-    "word": "ấp tân sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ấp tân sinh\n*danh từ\n-new life hamlet"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "new life hamlet"
-      }
-    ]
-  },
-  {
-    "word": "ấp chiến lược",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình thức trại tập trung dân do chính quyền Sài Gòn trước 1975 lập ra ở nông thôn [theo cách gọi của chính quyền Sài Gòn]\nVí dụ:\n- lập ấp chiến lược"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ấp chiến lược [ấp chiến lược]\n-strategic hamlet (in South Vietnam, under puppet regime)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "strategic hamlet"
-      }
-    ]
-  },
-  {
     "word": "ấp trứng",
     "definitions": [
       {
@@ -114,43 +114,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to brood eggs"
-      }
-    ]
-  },
-  {
-    "word": "ấp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làng, xóm nhỏ được lập nên ở nơi mới khai khẩn\nVí dụ:\n- chiêu dân lập ấp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[loài chim] nằm phủ lên trứng cho ấm trứng để nở ra con\nVí dụ:\n- ngan đang ấp trứng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho trứng có đủ độ ấm để nở\nVí dụ:\n- máy ấp trứng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ôm lấy hoặc áp sát vào trên cả bề mặt\nVí dụ:\n- bé ấp đầu vào lòng mẹ \n - cô gái ấp lên ngực lá thư ố vàng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ấp\n- 1 dt. 1. Đất vua ban cho chư hầu, công thần ngày trước. 2. Làng xóm nhỏ được lập lên ở nơi mới khai khẩn.\n- 2 đgt. 1. (Loài chim) nằm phủ lên trứng trong một thời gian nhất định để trứng có đủ nhiệt độ nở thành con: Ngan ấp trứng  Gà ấp. 2. Làm cho trứng có đủ điều kiện và nhiệt độ để nở thành con: máy ấp trứng. 3. áp sát vào trên toàn bề mặt: Bé ấp đầu vào lòng mẹ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ấp\n*noun\n-land holding (of vassal or nobleman)\n-small settlement at newly-reclaimed site hamlet\n=ấp tân sinh\n+New life hamlet\n=ấp chiến lược\n+strategic hamlet*verb\n-to hatch, to brood, to sit, to incubate\n=gà mái ấp\n+a sitting hen\n=ấp trứng bằng máy\n+to hatch eggs with an incubator\n-to embrace, to hug\n=\n+Núi ấp ôm mây, mây ấp núi, Lòng sông gương sáng bụi không mờ\"\n@Chuyên ngành kinh tế\n-brood\n@Chuyên ngành kỹ thuật\n-farm\n-farmstead\n-incubation\n@Chuyên ngành kỹ thuật\n-farm\n-farmstead\n-incubation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ấp\n* noun\n- land holding (of vassal or nobleman)\n- small settlement at newly-reclaimed site hamlet\n=ấp tân sinh+New life hamlet\n=ấp chiến lược+strategic hamlet\n* verb\n- to hatch, to brood, to sit, to incubate\n=gà mái ấp+a sitting hen\n=ấp trứng bằng máy+to hatch eggs with an incubator\n- to embrace, to hug\n=\"Núi ấp ôm mây, mây ấp núi, Lòng sông gương sáng bụi không mờ\""
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) hamlet, small town, settlement; (2) to brood, sit on eggs"
       }
     ]
   },
@@ -201,6 +164,43 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to cherish, dream (of, about), entertain (idea); to plan, consider (seriously)"
+      }
+    ]
+  },
+  {
+    "word": "ấp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làng, xóm nhỏ được lập nên ở nơi mới khai khẩn\nVí dụ:\n- chiêu dân lập ấp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[loài chim] nằm phủ lên trứng cho ấm trứng để nở ra con\nVí dụ:\n- ngan đang ấp trứng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho trứng có đủ độ ấm để nở\nVí dụ:\n- máy ấp trứng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ôm lấy hoặc áp sát vào trên cả bề mặt\nVí dụ:\n- bé ấp đầu vào lòng mẹ \n - cô gái ấp lên ngực lá thư ố vàng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ấp\n- 1 dt. 1. Đất vua ban cho chư hầu, công thần ngày trước. 2. Làng xóm nhỏ được lập lên ở nơi mới khai khẩn.\n- 2 đgt. 1. (Loài chim) nằm phủ lên trứng trong một thời gian nhất định để trứng có đủ nhiệt độ nở thành con: Ngan ấp trứng  Gà ấp. 2. Làm cho trứng có đủ điều kiện và nhiệt độ để nở thành con: máy ấp trứng. 3. áp sát vào trên toàn bề mặt: Bé ấp đầu vào lòng mẹ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ấp\n*noun\n-land holding (of vassal or nobleman)\n-small settlement at newly-reclaimed site hamlet\n=ấp tân sinh\n+New life hamlet\n=ấp chiến lược\n+strategic hamlet*verb\n-to hatch, to brood, to sit, to incubate\n=gà mái ấp\n+a sitting hen\n=ấp trứng bằng máy\n+to hatch eggs with an incubator\n-to embrace, to hug\n=\n+Núi ấp ôm mây, mây ấp núi, Lòng sông gương sáng bụi không mờ\"\n@Chuyên ngành kinh tế\n-brood\n@Chuyên ngành kỹ thuật\n-farm\n-farmstead\n-incubation\n@Chuyên ngành kỹ thuật\n-farm\n-farmstead\n-incubation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ấp\n* noun\n- land holding (of vassal or nobleman)\n- small settlement at newly-reclaimed site hamlet\n=ấp tân sinh+New life hamlet\n=ấp chiến lược+strategic hamlet\n* verb\n- to hatch, to brood, to sit, to incubate\n=gà mái ấp+a sitting hen\n=ấp trứng bằng máy+to hatch eggs with an incubator\n- to embrace, to hug\n=\"Núi ấp ôm mây, mây ấp núi, Lòng sông gương sáng bụi không mờ\""
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) hamlet, small town, settlement; (2) to brood, sit on eggs"
       }
     ]
   }

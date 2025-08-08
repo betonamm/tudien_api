@@ -1,263 +1,31 @@
 [
   {
-    "word": "bòn mót",
+    "word": "bò lê bò la",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to crawl around"
+      }
+    ]
+  },
+  {
+    "word": "bò u",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bòn từng li từng tí, không để sót\nVí dụ:\n- bà ta bòn mót từng hạt thóc rơi vãi \n - chúng tôi bòn mót từng cành củi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bòn mót\n- đgt. Bòn từng ti chút, không để sót lại: bòn mót từng hạt lúa, củ khoai."
+        "dict_definition": "bò có u ở lưng, chỗ gần vai"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bòn mót\n*verb\n-To save every smallest bit of\n=bòn mót từng hạt thóc rơi vãi\n+to save every smallest grain of rice spilled"
+        "dict_definition": "@bò u\n*noun\n-Zebu"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bòn mót\n* verb\n- To save every smallest bit of\n=bòn mót từng hạt thóc rơi vãi+to save every smallest grain of rice spilled"
+        "dict_definition": "@bò u\n* noun\n- Zebu"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to glean, squeeze out the last bit of sth, collect the remnants of"
-      }
-    ]
-  },
-  {
-    "word": "bò cái tơ chửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-springer heifer"
-      }
-    ]
-  },
-  {
-    "word": "bò không vắt sữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cow not in milk\n-dry cow"
-      }
-    ]
-  },
-  {
-    "word": "bò cái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cow\n@Chuyên ngành kỹ thuật\n-cow\n@Chuyên ngành kỹ thuật\n-cow"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cow"
-      }
-    ]
-  },
-  {
-    "word": "bòn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tìm kiếm, góp nhặt từng ít một\nVí dụ:\n- chị ấy bòn từng đồng một"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lấy dần từng ít một của người khác, bằng mọi cách khôn khéo [hàm ý chê]\nVí dụ:\n- nó bòn tiền của ông"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bòn\n- đg. 1 Tìm kiếm, góp nhặt từng ít một. Bòn từng đồng. Bòn từng gáo nước để tưới ruộng hạn. 2 Lấy dần từng ít một của người khác, bằng mọi cách khôn khéo (hàm ý chê). Bòn của."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bòn\n*verb\n-To save every amount of\n=bòn từng hột gạo\n+to save every grain of rice\n-To squeeze\n=bòn từng xu của ai\n+to squeeze every penny out of somebody"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bòn\n* verb\n- To save every amount of\n=bòn từng hột gạo+to save every grain of rice\n-To squeeze\n=bòn từng xu của ai+to squeeze every penny out of somebody"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to collect, gather patiently, squeeze, extort"
-      }
-    ]
-  },
-  {
-    "word": "bò đực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-chub"
-      }
-    ]
-  },
-  {
-    "word": "bò biển",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "động vật có vú thuộc loại quý hiếm, ăn cỏ dưới đáy biển, sống thành bầy ở những vùng biển có nhiều thảm cỏ [như vùng biển Côn Đảo của Việt Nam]"
-      }
-    ]
-  },
-  {
-    "word": "bò sát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lớp động vật có xương sống, thở bằng phổi, chuyển dịch bằng cách bò sát đất, gồm rùa, thằn lằn, rắn, cá sấu, v.v."
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bò sát\n- d. Lớp động vật có xương sống, thân phủ vảy, thở bằng phổi, chuyển dịch bằng cách bò sát đất, gồm rùa, thằn lằn, rắn, cá sấu, v.v."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò sát\n*noun\n-Reptile"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bò sát\n* noun\n- Reptile"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "reptile"
-      }
-    ]
-  },
-  {
-    "word": "bò vào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to crawl into, climb into"
-      }
-    ]
-  },
-  {
-    "word": "bòn đãi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bòn đãi\n-To save every smallest thing\n-To squeeze the smallest amount of"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bòn đãi\n- To save every smallest thing\n-To squeeze the smallest amount of"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sift"
-      }
-    ]
-  },
-  {
-    "word": "bòng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây cùng họ với bưởi, quả to, cùi dày, vị chua\nVí dụ:\n- quả bòng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bòng\n- 1 dt. 1. Cây cùng họ bưởi, quả to, cùi dày, vị chua: Nhà có mấy cây bòng. 2. Quả bòng: mua phải bòng, không phải bưởi đâu.\n- 2 dt. Túi vải dùng để lọc bột nước hoặc đựng quần áo: mượn cái bao bòng bột  mang bòng đi đường."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bòng\n*noun\n-Shaddock"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bòng\n* noun\n- Shaddock"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) grapefruit; (2) to carry in one’s arms, with both hands"
-      }
-    ]
-  },
-  {
-    "word": "bò xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò xạ\n-Musk-ox"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bò xạ\n- Musk-ox"
-      }
-    ]
-  },
-  {
-    "word": "bò lạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò lạc [bò lạc]\n-lost calf\n-fallen woman; young girl from country side who got lost in big cities"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stray cow"
-      }
-    ]
-  },
-  {
-    "word": "bò đực thiến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ox"
-      }
-    ]
-  },
-  {
-    "word": "bò cạp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem bọ cạp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bò cạp\n- dt. (động) Loài tri thù thân gồm ba phần, phần cuối dài thành hình đuôi năm đốt, có gai nhọn chứa nọc độc: Bị bò cạp đốt, rất đau."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò cạp\n*noun\n-Scorpion"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bò cạp\n* noun\n- Scorpion"
-      }
-    ]
-  },
-  {
-    "word": "bòn chài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bòn chài [bòn chài]\n-như"
-      }
-    ]
-  },
-  {
-    "word": "bòn đãi cổ tức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dividend washing"
-      }
-    ]
-  },
-  {
-    "word": "bò vắt sữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cow in milk\n-milk cow"
+        "dict_definition": "zebra"
       }
     ]
   },
@@ -283,20 +51,77 @@
     ]
   },
   {
-    "word": "bòm",
+    "word": "bò đực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bòm [bòm]\n-plop"
+        "dict_definition": "@Chuyên ngành kinh tế\n-chub"
       }
     ]
   },
   {
-    "word": "bò cái tơ vỗ béo",
+    "word": "bò trườn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stocker heifer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-scrabble\n@Chuyên ngành kỹ thuật\n-scrabble"
+      }
+    ]
+  },
+  {
+    "word": "bò non",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cow in calf"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "calf"
+      }
+    ]
+  },
+  {
+    "word": "bò lê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò lê [bò lê]\n-drag/trail along; drag oneself along with difficulty"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to crawl along"
+      }
+    ]
+  },
+  {
+    "word": "bò lổm ngổm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò lổm ngổm [bò lổm ngổm]\n-scrabble on all fours"
+      }
+    ]
+  },
+  {
+    "word": "bò xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò xạ\n-Musk-ox"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bò xạ\n- Musk-ox"
+      }
+    ]
+  },
+  {
+    "word": "bò cái tơ chửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-springer heifer"
       }
     ]
   },
@@ -346,41 +171,46 @@
     ]
   },
   {
-    "word": "bò u",
+    "word": "bòn bon",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bò có u ở lưng, chỗ gần vai"
-      },
+        "dict_definition": "cây ăn quả, lá kép lẻ, quả tròn thành chùm, có năm múi, năm vách ngăn, cùi ngọt"
+      }
+    ]
+  },
+  {
+    "word": "bò biển",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "động vật có vú thuộc loại quý hiếm, ăn cỏ dưới đáy biển, sống thành bầy ở những vùng biển có nhiều thảm cỏ [như vùng biển Côn Đảo của Việt Nam]"
+      }
+    ]
+  },
+  {
+    "word": "bòn đãi",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bò u\n*noun\n-Zebu"
+        "dict_definition": "@bòn đãi\n-To save every smallest thing\n-To squeeze the smallest amount of"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bò u\n* noun\n- Zebu"
+        "dict_definition": "@bòn đãi\n- To save every smallest thing\n-To squeeze the smallest amount of"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "zebra"
+        "dict_definition": "to sift"
       }
     ]
   },
   {
-    "word": "bòn chèn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miserly, stingy"
-      }
-    ]
-  },
-  {
-    "word": "bò cái tơ",
+    "word": "bò thiến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cow calf\n-heifer\n-heifer calf"
+        "dict_definition": "@Chuyên ngành kinh tế\n-bullock"
       }
     ]
   },
@@ -394,20 +224,37 @@
     ]
   },
   {
-    "word": "bò cái tơ nhóm nặng cân",
+    "word": "bò sữa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-heavy heifer"
+        "dict_definition": "@bò sữa [bò sữa]\n-milch cow; milk cow; dairy cow;   (nói chung) dairy cattle\n@Chuyên ngành kinh tế\n-dairy-cattle\n-milch cow\n-milker\n-milk-fed calf"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "milk(ing) cow"
       }
     ]
   },
   {
-    "word": "bòn rút lợi nhuận",
+    "word": "bò mộng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-milk profits\n-milk the profits"
+        "dict_definition": "@bò mộng\n-Bull"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bò mộng\n- Bull"
+      }
+    ]
+  },
+  {
+    "word": "bò vắt sữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cow in milk\n-milk cow"
       }
     ]
   },
@@ -421,20 +268,145 @@
     ]
   },
   {
+    "word": "bòm bõm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bòm bõm\n-(ếch nhái nhảy bòm bõm) frogs flopped about in the water"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bòm bõm\n- (ếch nhái nhảy bòm bõm) frogs flopped about in the water"
+      }
+    ]
+  },
+  {
+    "word": "bò cái tơ nhóm nặng cân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-heavy heifer"
+      }
+    ]
+  },
+  {
+    "word": "bò dái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò dái\n-Bull"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bò dái\n- Bull"
+      }
+    ]
+  },
+  {
+    "word": "bò cái tơ vỗ béo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stocker heifer"
+      }
+    ]
+  },
+  {
+    "word": "bòn của",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bòn của\n-Squeeze money (out of somebody)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bòn của\n- Squeeze money (out of somebody)"
+      }
+    ]
+  },
+  {
+    "word": "bò hóc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mắm làm bằng cá để ươn [một món ăn truyền thống của người Khơ Me]"
+      }
+    ]
+  },
+  {
+    "word": "bòn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tìm kiếm, góp nhặt từng ít một\nVí dụ:\n- chị ấy bòn từng đồng một"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lấy dần từng ít một của người khác, bằng mọi cách khôn khéo [hàm ý chê]\nVí dụ:\n- nó bòn tiền của ông"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bòn\n- đg. 1 Tìm kiếm, góp nhặt từng ít một. Bòn từng đồng. Bòn từng gáo nước để tưới ruộng hạn. 2 Lấy dần từng ít một của người khác, bằng mọi cách khôn khéo (hàm ý chê). Bòn của."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bòn\n*verb\n-To save every amount of\n=bòn từng hột gạo\n+to save every grain of rice\n-To squeeze\n=bòn từng xu của ai\n+to squeeze every penny out of somebody"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bòn\n* verb\n- To save every amount of\n=bòn từng hột gạo+to save every grain of rice\n-To squeeze\n=bòn từng xu của ai+to squeeze every penny out of somebody"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to collect, gather patiently, squeeze, extort"
+      }
+    ]
+  },
+  {
+    "word": "bò tót",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bò rừng rất lớn và khoẻ, lông màu nâu đen, thường sống thành đàn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò tót\n*noun\n-Gayal"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bò tót\n* noun\n- Gayal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wild ox"
+      }
+    ]
+  },
+  {
+    "word": "bò vào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to crawl into, climb into"
+      }
+    ]
+  },
+  {
+    "word": "bò rừng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wild ox"
+      }
+    ]
+  },
+  {
     "word": "bò lê bò càng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "beaten until one is unable to walk"
-      }
-    ]
-  },
-  {
-    "word": "bòi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bòi [bòi]\n-prick"
       }
     ]
   },
@@ -452,24 +424,153 @@
     ]
   },
   {
-    "word": "bò lê bò la",
+    "word": "bòng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây cùng họ với bưởi, quả to, cùi dày, vị chua\nVí dụ:\n- quả bòng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bòng\n- 1 dt. 1. Cây cùng họ bưởi, quả to, cùi dày, vị chua: Nhà có mấy cây bòng. 2. Quả bòng: mua phải bòng, không phải bưởi đâu.\n- 2 dt. Túi vải dùng để lọc bột nước hoặc đựng quần áo: mượn cái bao bòng bột  mang bòng đi đường."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bòng\n*noun\n-Shaddock"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bòng\n* noun\n- Shaddock"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to crawl around"
+        "dict_definition": "(1) grapefruit; (2) to carry in one’s arms, with both hands"
       }
     ]
   },
   {
-    "word": "bò sữa",
+    "word": "bò lạc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bò sữa [bò sữa]\n-milch cow; milk cow; dairy cow;   (nói chung) dairy cattle\n@Chuyên ngành kinh tế\n-dairy-cattle\n-milch cow\n-milker\n-milk-fed calf"
+        "dict_definition": "@bò lạc [bò lạc]\n-lost calf\n-fallen woman; young girl from country side who got lost in big cities"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "milk(ing) cow"
+        "dict_definition": "stray cow"
+      }
+    ]
+  },
+  {
+    "word": "bò cái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cow\n@Chuyên ngành kỹ thuật\n-cow\n@Chuyên ngành kỹ thuật\n-cow"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cow"
+      }
+    ]
+  },
+  {
+    "word": "bòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bòm [bòm]\n-plop"
+      }
+    ]
+  },
+  {
+    "word": "bòn rút lợi nhuận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-milk profits\n-milk the profits"
+      }
+    ]
+  },
+  {
+    "word": "bò cạp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem bọ cạp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bò cạp\n- dt. (động) Loài tri thù thân gồm ba phần, phần cuối dài thành hình đuôi năm đốt, có gai nhọn chứa nọc độc: Bị bò cạp đốt, rất đau."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò cạp\n*noun\n-Scorpion"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bò cạp\n* noun\n- Scorpion"
+      }
+    ]
+  },
+  {
+    "word": "bòn mót",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bòn từng li từng tí, không để sót\nVí dụ:\n- bà ta bòn mót từng hạt thóc rơi vãi \n - chúng tôi bòn mót từng cành củi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bòn mót\n- đgt. Bòn từng ti chút, không để sót lại: bòn mót từng hạt lúa, củ khoai."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bòn mót\n*verb\n-To save every smallest bit of\n=bòn mót từng hạt thóc rơi vãi\n+to save every smallest grain of rice spilled"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bòn mót\n* verb\n- To save every smallest bit of\n=bòn mót từng hạt thóc rơi vãi+to save every smallest grain of rice spilled"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to glean, squeeze out the last bit of sth, collect the remnants of"
+      }
+    ]
+  },
+  {
+    "word": "bòn rút lợi lớn, lợi dụng thị trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-milk the market (to..)"
+      }
+    ]
+  },
+  {
+    "word": "bòn đãi cổ tức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dividend washing"
+      }
+    ]
+  },
+  {
+    "word": "bò la bò lết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò la bò lết [bò la bò lết]\n-crawl along"
+      }
+    ]
+  },
+  {
+    "word": "bòng bòng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây mọc thành bụi, lá có lông mịn, hoa to màu xanh tím mọc thành chùm"
       }
     ]
   },
@@ -499,56 +600,29 @@
     ]
   },
   {
-    "word": "bòn rút lợi lớn, lợi dụng thị trường",
+    "word": "bòn rút (tước đoạt) cổ tức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-milk the market (to..)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-dividend stripping"
       }
     ]
   },
   {
-    "word": "bòn bon",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây ăn quả, lá kép lẻ, quả tròn thành chùm, có năm múi, năm vách ngăn, cùi ngọt"
-      }
-    ]
-  },
-  {
-    "word": "bò la bò lết",
+    "word": "bò đực thiến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bò la bò lết [bò la bò lết]\n-crawl along"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ox"
       }
     ]
   },
   {
-    "word": "bò cái tơ ba tuổi",
+    "word": "bòi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-heifer in milk"
-      }
-    ]
-  },
-  {
-    "word": "bò rừng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wild ox"
-      }
-    ]
-  },
-  {
-    "word": "bò trườn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-scrabble\n@Chuyên ngành kỹ thuật\n-scrabble"
+        "dict_definition": "@bòi [bòi]\n-prick"
       }
     ]
   },
@@ -562,11 +636,20 @@
     ]
   },
   {
-    "word": "bòn rút (tước đoạt) cổ tức",
+    "word": "bòn chèn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "miserly, stingy"
+      }
+    ]
+  },
+  {
+    "word": "bò cái tơ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dividend stripping"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cow calf\n-heifer\n-heifer calf"
       }
     ]
   },
@@ -580,155 +663,36 @@
     ]
   },
   {
-    "word": "bò lê",
+    "word": "bò cái tơ ba tuổi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bò lê [bò lê]\n-drag/trail along; drag oneself along with difficulty"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to crawl along"
+        "dict_definition": "@Chuyên ngành kinh tế\n-heifer in milk"
       }
     ]
   },
   {
-    "word": "bò đưc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bull"
-      }
-    ]
-  },
-  {
-    "word": "bò hóc",
+    "word": "bò sát",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mắm làm bằng cá để ươn [một món ăn truyền thống của người Khơ Me]"
-      }
-    ]
-  },
-  {
-    "word": "bòm bõm",
-    "definitions": [
+        "dict_definition": "lớp động vật có xương sống, thở bằng phổi, chuyển dịch bằng cách bò sát đất, gồm rùa, thằn lằn, rắn, cá sấu, v.v."
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bò sát\n- d. Lớp động vật có xương sống, thân phủ vảy, thở bằng phổi, chuyển dịch bằng cách bò sát đất, gồm rùa, thằn lằn, rắn, cá sấu, v.v."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bòm bõm\n-(ếch nhái nhảy bòm bõm) frogs flopped about in the water"
+        "dict_definition": "@bò sát\n*noun\n-Reptile"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bòm bõm\n- (ếch nhái nhảy bòm bõm) frogs flopped about in the water"
-      }
-    ]
-  },
-  {
-    "word": "bòng bòng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây mọc thành bụi, lá có lông mịn, hoa to màu xanh tím mọc thành chùm"
-      }
-    ]
-  },
-  {
-    "word": "bò nheo bò nhóc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò nheo bò nhóc [bò nheo bò nhóc]\n-be left unattended"
-      }
-    ]
-  },
-  {
-    "word": "bò tót",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bò rừng rất lớn và khoẻ, lông màu nâu đen, thường sống thành đàn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò tót\n*noun\n-Gayal"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bò tót\n* noun\n- Gayal"
+        "dict_definition": "@bò sát\n* noun\n- Reptile"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "wild ox"
-      }
-    ]
-  },
-  {
-    "word": "bò mộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò mộng\n-Bull"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bò mộng\n- Bull"
-      }
-    ]
-  },
-  {
-    "word": "bò dái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò dái\n-Bull"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bò dái\n- Bull"
-      }
-    ]
-  },
-  {
-    "word": "bò non",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cow in calf"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "calf"
-      }
-    ]
-  },
-  {
-    "word": "bò lổm ngổm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bò lổm ngổm [bò lổm ngổm]\n-scrabble on all fours"
-      }
-    ]
-  },
-  {
-    "word": "bò thiến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bullock"
-      }
-    ]
-  },
-  {
-    "word": "bòn của",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bòn của\n-Squeeze money (out of somebody)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bòn của\n- Squeeze money (out of somebody)"
+        "dict_definition": "reptile"
       }
     ]
   },
@@ -742,6 +706,42 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@bòng chanh\n* noun\n- Kingfisher"
+      }
+    ]
+  },
+  {
+    "word": "bòn chài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bòn chài [bòn chài]\n-như"
+      }
+    ]
+  },
+  {
+    "word": "bò không vắt sữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cow not in milk\n-dry cow"
+      }
+    ]
+  },
+  {
+    "word": "bò nheo bò nhóc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bò nheo bò nhóc [bò nheo bò nhóc]\n-be left unattended"
+      }
+    ]
+  },
+  {
+    "word": "bò đưc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bull"
       }
     ]
   }

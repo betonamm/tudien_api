@@ -1,23 +1,14 @@
 [
   {
-    "word": "pê-đan",
+    "word": "pêđan",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@pê-đan\n- Bàn đạp xe đạp."
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bàn đạp của xe đạp, một số loại xe máy, v.v.\nVí dụ:\n- xe đạp hỏng pêđan"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@pê-đan [pê đan]\n-(tiếng Pháp gọi là Pédale) treadle;  pedal"
-      }
-    ]
-  },
-  {
-    "word": "pê-nan-ti",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@pê-nan-ti [pê-nan-ti]\n-(bóng đá) (tiếng Pháp gọi là Penalty)   xem"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-pedal"
       }
     ]
   },
@@ -39,11 +30,11 @@
     ]
   },
   {
-    "word": "pê nan ti",
+    "word": "pê-nan-ti",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "penalty"
+        "dict_name": "SPDict",
+        "dict_definition": "@pê-nan-ti [pê-nan-ti]\n-(bóng đá) (tiếng Pháp gọi là Penalty)   xem"
       }
     ]
   },
@@ -57,20 +48,20 @@
     ]
   },
   {
-    "word": "pê đa lô",
+    "word": "pê nan ti",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "pedal-boat, pedalo"
+        "dict_definition": "penalty"
       }
     ]
   },
   {
-    "word": "pêđan tăng tốc",
+    "word": "pêđê",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-accelerator pedal"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người đồng tính luyến ái nam; cũng dùng để chỉ người đồng tính luyến ái, nói chung"
       }
     ]
   },
@@ -92,11 +83,20 @@
     ]
   },
   {
-    "word": "pêđê",
+    "word": "pêđan phanh",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người đồng tính luyến ái nam; cũng dùng để chỉ người đồng tính luyến ái, nói chung"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-brake pedal"
+      }
+    ]
+  },
+  {
+    "word": "pêđan tăng tốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-accelerator pedal"
       }
     ]
   },
@@ -110,24 +110,24 @@
     ]
   },
   {
-    "word": "pêđan",
+    "word": "pê đa lô",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bàn đạp của xe đạp, một số loại xe máy, v.v.\nVí dụ:\n- xe đạp hỏng pêđan"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-pedal"
+        "dict_name": "VNEDICT",
+        "dict_definition": "pedal-boat, pedalo"
       }
     ]
   },
   {
-    "word": "pêđan phanh",
+    "word": "pê-đan",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@pê-đan\n- Bàn đạp xe đạp."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-brake pedal"
+        "dict_definition": "@pê-đan [pê đan]\n-(tiếng Pháp gọi là Pédale) treadle;  pedal"
       }
     ]
   }

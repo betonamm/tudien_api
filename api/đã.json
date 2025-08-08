@@ -1,46 +1,459 @@
 [
   {
-    "word": "đã xác nhận trả (bảo chi)",
+    "word": "đã được xử lý",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-confirmed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-processed"
       }
     ]
   },
   {
-    "word": "đã trả tiền",
+    "word": "đã chịu tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-account paid\n@Chuyên ngành kỹ thuật\n-charges paid\n-paid"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-loaded"
       }
     ]
   },
   {
-    "word": "đã xử lý",
+    "word": "đã rà (khớp)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-processed\n-treated"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bedded"
       }
     ]
   },
   {
-    "word": "đã cho phép cất cánh",
+    "word": "đã trả",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cleared for takeoff"
+        "dict_definition": "@Chuyên ngành kinh tế\n-paid"
       }
     ]
   },
   {
-    "word": "đã đặt trước",
+    "word": "đã đầu tư hết vốn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-booked"
+        "dict_definition": "@Chuyên ngành kinh tế\n-fully invested"
+      }
+    ]
+  },
+  {
+    "word": "đã qua tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-used"
+      }
+    ]
+  },
+  {
+    "word": "đã đảo ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inverted"
+      }
+    ]
+  },
+  {
+    "word": "đã khai thác hết (mỏ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-peter"
+      }
+    ]
+  },
+  {
+    "word": "đã chuyển nhượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-assigned"
+      }
+    ]
+  },
+  {
+    "word": "đã làm những thay đổi cần thiết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mutatis mutandis"
+      }
+    ]
+  },
+  {
+    "word": "đã lâu lắm rồi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "it has been a long time since"
+      }
+    ]
+  },
+  {
+    "word": "đãng bình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đãng bình\n- dẹp giặc cho yên dân"
+      }
+    ]
+  },
+  {
+    "word": "đã hủy bỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cancelled"
+      }
+    ]
+  },
+  {
+    "word": "đã đọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-examined"
+      }
+    ]
+  },
+  {
+    "word": "đã tắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-killed"
+      }
+    ]
+  },
+  {
+    "word": "đã được rán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fried"
+      }
+    ]
+  },
+  {
+    "word": "đã hỗn hống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-amalgamized"
+      }
+    ]
+  },
+  {
+    "word": "đã tiêu hao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expired cost"
+      }
+    ]
+  },
+  {
+    "word": "đã ram",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tempered"
+      }
+    ]
+  },
+  {
+    "word": "đã nghiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-broken"
+      }
+    ]
+  },
+  {
+    "word": "đã hiđro hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hydrogenated"
+      }
+    ]
+  },
+  {
+    "word": "đã kết tủa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-deposited"
+      }
+    ]
+  },
+  {
+    "word": "đã kiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-exhausted"
+      }
+    ]
+  },
+  {
+    "word": "đã thủy hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hydrated"
+      }
+    ]
+  },
+  {
+    "word": "đã dỡ hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unloaded"
+      }
+    ]
+  },
+  {
+    "word": "đã co",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-contracted"
+      }
+    ]
+  },
+  {
+    "word": "đã tháo khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unmolding"
+      }
+    ]
+  },
+  {
+    "word": "đã khử ngọn (lọc dầu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-topped"
+      }
+    ]
+  },
+  {
+    "word": "đãi ngộ miễn thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-duty-free treatment"
+      }
+    ]
+  },
+  {
+    "word": "đã thử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-proved\n-proven\n-tested"
+      }
+    ]
+  },
+  {
+    "word": "đã tiêu chuẩn hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-standardized"
+      }
+    ]
+  },
+  {
+    "word": "đã chải kỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-combed"
+      }
+    ]
+  },
+  {
+    "word": "đã sấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dried"
+      }
+    ]
+  },
+  {
+    "word": "đã được công nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ace. (accepted)"
+      }
+    ]
+  },
+  {
+    "word": "đã vậy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã vậy\n-All the same, nevertheless\n=Đã vậy mà nó còn cứ cãi mãi\n+All the same he argued on\n-In that case\n=Đã vậy thì mặc xác nó\n+In that case, let him stew in his own juice"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã vậy\n- All the same, nevertheless\n=Đã vậy mà nó còn cứ cãi mãi+All the same he argued on\n-In that case\n=Đã vậy thì mặc xác nó+In that case, let him stew in his own juice"
+      }
+    ]
+  },
+  {
+    "word": "đã nghiền thành bột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-powdered"
+      }
+    ]
+  },
+  {
+    "word": "đã làm lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chilled"
+      }
+    ]
+  },
+  {
+    "word": "đã phát triển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-state-of-the-art"
+      }
+    ]
+  },
+  {
+    "word": "đã về",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "even then"
+      }
+    ]
+  },
+  {
+    "word": "đã trả xong toàn bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fully paid (fully-paid)"
+      }
+    ]
+  },
+  {
+    "word": "đã ghép thành cặp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paired"
+      }
+    ]
+  },
+  {
+    "word": "đã...rồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-already"
+      }
+    ]
+  },
+  {
+    "word": "đã đục lỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-perforated"
+      }
+    ]
+  },
+  {
+    "word": "đã cân bằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-balanced"
+      }
+    ]
+  },
+  {
+    "word": "đã chuẩn hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-standardized"
+      }
+    ]
+  },
+  {
+    "word": "đã cho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-given"
+      }
+    ]
+  },
+  {
+    "word": "đã rút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-drawn"
+      }
+    ]
+  },
+  {
+    "word": "đãi khách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãi khách [đãi khách]\n-entertaining guests, inviting guests"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "entertaining guests, inviting guests"
+      }
+    ]
+  },
+  {
+    "word": "đã điều chỉnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-adjusted\n@Chuyên ngành kỹ thuật\n-calibrated\n@Lĩnh vực: điện lạnh\n-regulated"
+      }
+    ]
+  },
+  {
+    "word": "đã đãi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-washed"
       }
     ]
   },
@@ -58,7 +471,7 @@
     ]
   },
   {
-    "word": "đã đăng vào giá biểu",
+    "word": "đã đăng ký hành nghề",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -67,481 +480,24 @@
     ]
   },
   {
-    "word": "đã bão hòa",
+    "word": "đã lỗi thời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-saturated"
+        "dict_definition": "@Chuyên ngành kinh tế\n-obsolete\n-out-of-date"
       }
     ]
   },
   {
-    "word": "đã chỉnh lưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rectified"
-      }
-    ]
-  },
-  {
-    "word": "đã khát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã khát\n-Quench one\"s thirst, slake quenched\n=Uống cho đã khát\n+To drink until one\"s thirst is quenched"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã khát\n- Quench one's thirst, slake quenched\n=Uống cho đã khát+To drink until one's thirst is quenched"
-      }
-    ]
-  },
-  {
-    "word": "đã thấm bitum",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bitumen-impregnated"
-      }
-    ]
-  },
-  {
-    "word": "đã tôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hardened\n-quenched"
-      }
-    ]
-  },
-  {
-    "word": "đã khoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drilled"
-      }
-    ]
-  },
-  {
-    "word": "đã đọc và chuẩn y",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-read and approved"
-      }
-    ]
-  },
-  {
-    "word": "đã được lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-filtered"
-      }
-    ]
-  },
-  {
-    "word": "đã qua tuyển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cleaned coal"
-      }
-    ]
-  },
-  {
-    "word": "đã làm sạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-clarified\n@Chuyên ngành kỹ thuật\n-cleaned coal"
-      }
-    ]
-  },
-  {
-    "word": "đã biết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-certain\n-known"
-      }
-    ]
-  },
-  {
-    "word": "đã chấp nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
-      }
-    ]
-  },
-  {
-    "word": "đã sử dụng rồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-second-hand"
-      }
-    ]
-  },
-  {
-    "word": "đã định cỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-graded by size\n@Chuyên ngành kỹ thuật\n-calibrated"
-      }
-    ]
-  },
-  {
-    "word": "đã tính toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rated"
-      }
-    ]
-  },
-  {
-    "word": "đã chải kỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-combed"
-      }
-    ]
-  },
-  {
-    "word": "đã hiệu chỉnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-calibrated"
-      }
-    ]
-  },
-  {
-    "word": "đã trả thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax paid"
-      }
-    ]
-  },
-  {
-    "word": "đã ghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rated\n-registered"
-      }
-    ]
-  },
-  {
-    "word": "đã lắp vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-built-in"
-      }
-    ]
-  },
-  {
-    "word": "đã phân tán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-disseminated"
-      }
-    ]
-  },
-  {
-    "word": "đã quá tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-supercharged"
-      }
-    ]
-  },
-  {
-    "word": "đã ôxi hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxidized"
-      }
-    ]
-  },
-  {
-    "word": "đã gia tốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated"
-      }
-    ]
-  },
-  {
-    "word": "đã hiđro hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hydrogenated"
-      }
-    ]
-  },
-  {
-    "word": "đã tráng men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-glazed"
-      }
-    ]
-  },
-  {
-    "word": "đã dỡ tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-unloaded"
-      }
-    ]
-  },
-  {
-    "word": "đã đảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inverted"
-      }
-    ]
-  },
-  {
-    "word": "đã được ghi rõ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-specified"
-      }
-    ]
-  },
-  {
-    "word": "đã quá hạn từ lâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-long past due"
-      }
-    ]
-  },
-  {
-    "word": "đã thử nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-proven"
-      }
-    ]
-  },
-  {
-    "word": "đã rút gọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-simplified"
-      }
-    ]
-  },
-  {
-    "word": "đã cạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-exhausted"
-      }
-    ]
-  },
-  {
-    "word": "đã vô trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-sterilized"
-      }
-    ]
-  },
-  {
-    "word": "đã dùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hand"
-      }
-    ]
-  },
-  {
-    "word": "đã nhận đủ tiền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-payment received"
-      }
-    ]
-  },
-  {
-    "word": "đã thanh toán một phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-partly paid"
-      }
-    ]
-  },
-  {
-    "word": "đã quá hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-out-of-date"
-      }
-    ]
-  },
-  {
-    "word": "đã xóa tên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expunged"
-      }
-    ]
-  },
-  {
-    "word": "đã co",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-contracted"
-      }
-    ]
-  },
-  {
-    "word": "đã đăng ký trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Reserved (RES)"
-      }
-    ]
-  },
-  {
-    "word": "đã thanh trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pasteurized"
-      }
-    ]
-  },
-  {
-    "word": "đã dùng hết (kim ngạch các phiếu khoán)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-exhausted"
-      }
-    ]
-  },
-  {
-    "word": "đã điều chỉnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-adjusted\n@Chuyên ngành kỹ thuật\n-calibrated\n@Lĩnh vực: điện lạnh\n-regulated"
-      }
-    ]
-  },
-  {
-    "word": "đã xác nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-confirmed"
-      }
-    ]
-  },
-  {
-    "word": "đã tháo khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unmolding"
-      }
-    ]
-  },
-  {
-    "word": "đã nhận tiền rồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-received"
-      }
-    ]
-  },
-  {
-    "word": "đã lên men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fermented"
-      }
-    ]
-  },
-  {
-    "word": "đã trát kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plugged"
-      }
-    ]
-  },
-  {
-    "word": "đã trút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dumped"
-      }
-    ]
-  },
-  {
-    "word": "đã đành",
+    "word": "đãi bôi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị điều vừa nói đến được coi là dĩ nhiên, nhằm bổ sung, nêu ra một điều khác được coi là quan trọng hơn\nVí dụ:\n- đã đành là khó, nhưng cũng phải cố gắng chứ! \n - ông cụ lẩn thẩn đã đành, đến anh cũng lẩn thẩn nốt!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đã đành\n- Dĩ nhiên, hẳn là (để nhằm bổ sung cho điều quan trọng hơn sẽ nói đến): Đã đành là tin nhau, nhưng làm kinh tế vẫn phải có hợp đồng hẳn hoi  Đã đành là cháu còn bé, nhưng đã đến trường thì phải chấp hành nội quy."
+        "dict_definition": "tử tế, niềm nở bề ngoài, không thật tình\nVí dụ:\n- mời đãi bôi"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đã đành\n-of course; assuming that"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã đành\n- of course; assuming that"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "of course, assuming that"
+        "dict_definition": "@đãi bôi [đãi bôi]\n-xem"
       }
     ]
   },
@@ -583,1988 +539,11 @@
     ]
   },
   {
-    "word": "đã phân loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-classified\n-sifted coal"
-      }
-    ]
-  },
-  {
-    "word": "đã hỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spent"
-      }
-    ]
-  },
-  {
-    "word": "đã dùng qua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-second-hand"
-      }
-    ]
-  },
-  {
-    "word": "đã nộp thuế (hải quan)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-duty-paid"
-      }
-    ]
-  },
-  {
-    "word": "đã nêu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "aforementioned"
-      }
-    ]
-  },
-  {
-    "word": "đã làm khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dried"
-      }
-    ]
-  },
-  {
-    "word": "đã hoàn thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-finished"
-      }
-    ]
-  },
-  {
-    "word": "đã dỡ hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unloaded"
-      }
-    ]
-  },
-  {
-    "word": "đã đánh dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tagged"
-      }
-    ]
-  },
-  {
-    "word": "đã đảo ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inverted"
-      }
-    ]
-  },
-  {
-    "word": "đã qua đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expired cost\n-expired expense"
-      }
-    ]
-  },
-  {
     "word": "đã có",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "there was, were, had been"
-      }
-    ]
-  },
-  {
-    "word": "đã từng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(past perfect marker)"
-      }
-    ]
-  },
-  {
-    "word": "đã được giảm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-diminished"
-      }
-    ]
-  },
-  {
-    "word": "đã trả xong toàn bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fully paid (fully-paid)"
-      }
-    ]
-  },
-  {
-    "word": "đã tháo rời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-knocked-down condition"
-      }
-    ]
-  },
-  {
-    "word": "đã khử mỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fat-extracted\n-fat-free"
-      }
-    ]
-  },
-  {
-    "word": "đã loại bỏ nhân tố lạm phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inflation factor excluded"
-      }
-    ]
-  },
-  {
-    "word": "đã đến lúc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the time had come (to do sth)"
-      }
-    ]
-  },
-  {
-    "word": "đã làm nguội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cooled"
-      }
-    ]
-  },
-  {
-    "word": "đã tạo hình (bánh mì)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shaped"
-      }
-    ]
-  },
-  {
-    "word": "đã qua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã qua [đã qua]\n-past;  bygone"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "past, bygone"
-      }
-    ]
-  },
-  {
-    "word": "đã xem",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-examined"
-      }
-    ]
-  },
-  {
-    "word": "đã nhận thanh toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
-      }
-    ]
-  },
-  {
-    "word": "đã hiệu đính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-corrected"
-      }
-    ]
-  },
-  {
-    "word": "đã khoét lỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-holed"
-      }
-    ]
-  },
-  {
-    "word": "đã làm những thay đổi cần thiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mutatis mutandis"
-      }
-    ]
-  },
-  {
-    "word": "đã bỏ việc đàm phán giá cả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dropped"
-      }
-    ]
-  },
-  {
-    "word": "đã nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-chop\n@Chuyên ngành kỹ thuật\n-received"
-      }
-    ]
-  },
-  {
-    "word": "đã sửa (chữa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrected"
-      }
-    ]
-  },
-  {
-    "word": "đã tách parafin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dewaxed"
-      }
-    ]
-  },
-  {
-    "word": "đã loại sáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dewaxed"
-      }
-    ]
-  },
-  {
-    "word": "đã qua mọi phép đo thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-All Tests Pass (ATP)"
-      }
-    ]
-  },
-  {
-    "word": "đã thu tiền và giao hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-collected and delivered"
-      }
-    ]
-  },
-  {
-    "word": "đã dùng hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-depleted"
-      }
-    ]
-  },
-  {
-    "word": "đã ép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pressed"
-      }
-    ]
-  },
-  {
-    "word": "đãng tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãng tính\n-Unconcerned, indifferent to what going on about one"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đãng tính\n- Unconcerned, indifferent to what going on about one"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unconcerned, indifferent to what going on about one"
-      }
-    ]
-  },
-  {
-    "word": "đã truy cập phân chia tần số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-frequency-division multiple access (FDMA)"
-      }
-    ]
-  },
-  {
-    "word": "đã tinh cất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rectified"
-      }
-    ]
-  },
-  {
-    "word": "đã đục lỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-perforated"
-      }
-    ]
-  },
-  {
-    "word": "đã qua tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-used"
-      }
-    ]
-  },
-  {
-    "word": "đã thối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-definitely stale"
-      }
-    ]
-  },
-  {
-    "word": "đã phân loại theo phẩm chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-graded by quality"
-      }
-    ]
-  },
-  {
-    "word": "đã lỗi thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-obsolete\n-out-of-date"
-      }
-    ]
-  },
-  {
-    "word": "đã lâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã lâu\n*adverb\n-long ago; a long time ago"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã lâu\n* adverb\n-long ago; a long time ago"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have been a long time (since sth)"
-      }
-    ]
-  },
-  {
-    "word": "đã được chiết khấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-discounts received"
-      }
-    ]
-  },
-  {
-    "word": "đã được hấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-autoclaved"
-      }
-    ]
-  },
-  {
-    "word": "đã tích điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-charged"
-      }
-    ]
-  },
-  {
-    "word": "đã trả trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-paid in advance\n-prepaid\n-prepaid (ppd)\n@Chuyên ngành kỹ thuật\n-prepaid"
-      }
-    ]
-  },
-  {
-    "word": "đã mã hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-coded"
-      }
-    ]
-  },
-  {
-    "word": "đã qua kiểm tra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-passed muster"
-      }
-    ]
-  },
-  {
-    "word": "đã trùng hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-confounded"
-      }
-    ]
-  },
-  {
-    "word": "đã xóa tên khỏi danh sách của công ty xếp hạng tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expunged"
-      }
-    ]
-  },
-  {
-    "word": "đã sấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dried"
-      }
-    ]
-  },
-  {
-    "word": "đã hiệu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-calibrated\n-tested"
-      }
-    ]
-  },
-  {
-    "word": "đã kiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-exhausted"
-      }
-    ]
-  },
-  {
-    "word": "đã chọn trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-preoptive"
-      }
-    ]
-  },
-  {
-    "word": "đã khoan rỗng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chambered"
-      }
-    ]
-  },
-  {
-    "word": "đã tiếp địa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-earthed"
-      }
-    ]
-  },
-  {
-    "word": "đã thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã thế\n-như đã_vậy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã thế\n- như đã_vậy"
-      }
-    ]
-  },
-  {
-    "word": "đã loãng đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rarefied"
-      }
-    ]
-  },
-  {
-    "word": "đã trả phí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-charges paid"
-      }
-    ]
-  },
-  {
-    "word": "đã xử lý sơ bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-prepared"
-      }
-    ]
-  },
-  {
-    "word": "đã silic hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-silicified"
-      }
-    ]
-  },
-  {
-    "word": "đã lăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rounded-off"
-      }
-    ]
-  },
-  {
-    "word": "đã nhận cổ phần quá nhiều",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fully subscribed"
-      }
-    ]
-  },
-  {
-    "word": "đã rây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-screened"
-      }
-    ]
-  },
-  {
-    "word": "đã ký thành hai bản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-executed in duplicate"
-      }
-    ]
-  },
-  {
-    "word": "đã đốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-burnt\n-fired"
-      }
-    ]
-  },
-  {
-    "word": "đãi ngộ miễn thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-duty-free treatment"
-      }
-    ]
-  },
-  {
-    "word": "đã thấm cacbon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-charred"
-      }
-    ]
-  },
-  {
-    "word": "đã cho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-given"
-      }
-    ]
-  },
-  {
-    "word": "đã hỗn hống hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-amalgamated"
-      }
-    ]
-  },
-  {
-    "word": "đãi (mẫu) tự động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-auto-panning"
-      }
-    ]
-  },
-  {
-    "word": "đã về",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "even then"
-      }
-    ]
-  },
-  {
-    "word": "đã dùng rồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-used"
-      }
-    ]
-  },
-  {
-    "word": "đã ghép thành cặp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paired"
-      }
-    ]
-  },
-  {
-    "word": "đã...rồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-already"
-      }
-    ]
-  },
-  {
-    "word": "đã khử oxi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deoxidized"
-      }
-    ]
-  },
-  {
-    "word": "đã xác minh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-proven"
-      }
-    ]
-  },
-  {
-    "word": "đã đến ngày thanh toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-run to settlement"
-      }
-    ]
-  },
-  {
-    "word": "đã trả đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fully paid"
-      }
-    ]
-  },
-  {
-    "word": "đã chế biến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-processed"
-      }
-    ]
-  },
-  {
-    "word": "đã tới lúc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the time has come"
-      }
-    ]
-  },
-  {
-    "word": "đã hợp lý hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rationalized"
-      }
-    ]
-  },
-  {
-    "word": "đã gia công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-processed\n-worked"
-      }
-    ]
-  },
-  {
-    "word": "đã đánh bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bright\n@Lĩnh vực: hóa học & vật liệu\n-glazed"
-      }
-    ]
-  },
-  {
-    "word": "đã loại butan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-debutanised"
-      }
-    ]
-  },
-  {
-    "word": "đã rút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-drawn"
-      }
-    ]
-  },
-  {
-    "word": "đã định chốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-keyed advertisement"
-      }
-    ]
-  },
-  {
-    "word": "đã peclo hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-perchlorinated"
-      }
-    ]
-  },
-  {
-    "word": "đã lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filtered"
-      }
-    ]
-  },
-  {
-    "word": "đãi thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãi thời [đãi thời]\n-wait for better times, be a fencesitter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wait for better times, be a fence sitter"
-      }
-    ]
-  },
-  {
-    "word": "đã cũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-used"
-      }
-    ]
-  },
-  {
-    "word": "đã hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-unavailable"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be gone, be past, be over, finish doing (sth)"
-      }
-    ]
-  },
-  {
-    "word": "đã thiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-burnt"
-      }
-    ]
-  },
-  {
-    "word": "đã tăng tốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated"
-      }
-    ]
-  },
-  {
-    "word": "đã phân cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-classified"
-      }
-    ]
-  },
-  {
-    "word": "đã được thăm dò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-proved\n-proven"
-      }
-    ]
-  },
-  {
-    "word": "đã than hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-charred"
-      }
-    ]
-  },
-  {
-    "word": "đã từ lâu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "it had been a long time, it was a long time since"
-      }
-    ]
-  },
-  {
-    "word": "đã lâu lắm rồi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "it has been a long time since"
-      }
-    ]
-  },
-  {
-    "word": "đã tách phần ngọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-topped"
-      }
-    ]
-  },
-  {
-    "word": "đã xuống bến (khách)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unshipped"
-      }
-    ]
-  },
-  {
-    "word": "đãi nguyệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãi nguyệt [đãi nguyệt]\n-waiting for the moon to come up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "waiting for the moon to come up"
-      }
-    ]
-  },
-  {
-    "word": "đã tuyển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-clean coal\n-cleans"
-      }
-    ]
-  },
-  {
-    "word": "đã đọc chuẩn y",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-read and approved"
-      }
-    ]
-  },
-  {
-    "word": "đã phân phối hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fully distributed"
-      }
-    ]
-  },
-  {
-    "word": "đãi nghĩa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãi nghĩa\n-Great duty (toward the nation,societỵ..); great cause"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đãi nghĩa\n- Great duty (toward the nation,societỵ..); great cause"
-      }
-    ]
-  },
-  {
-    "word": "đãng trí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không tập trung chú ý vào công việc, do mải nghĩ về những việc khác hoặc do bệnh lí\nVí dụ:\n- tính hay đãng trí"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãng trí\n-Absent-minded"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đãng trí\n- Absent-minded"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "absent-minded"
-      }
-    ]
-  },
-  {
-    "word": "đã có kinh nghiệm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "experienced, having experience"
-      }
-    ]
-  },
-  {
-    "word": "đã vậy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã vậy\n-All the same, nevertheless\n=Đã vậy mà nó còn cứ cãi mãi\n+All the same he argued on\n-In that case\n=Đã vậy thì mặc xác nó\n+In that case, let him stew in his own juice"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã vậy\n- All the same, nevertheless\n=Đã vậy mà nó còn cứ cãi mãi+All the same he argued on\n-In that case\n=Đã vậy thì mặc xác nó+In that case, let him stew in his own juice"
-      }
-    ]
-  },
-  {
-    "word": "đã tháo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dismounted"
-      }
-    ]
-  },
-  {
-    "word": "đã đánh giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-estimated\n-rated"
-      }
-    ]
-  },
-  {
-    "word": "đãi nồi hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-boiler plate"
-      }
-    ]
-  },
-  {
-    "word": "đã sử dụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spent"
-      }
-    ]
-  },
-  {
-    "word": "đã kiểm tra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-examined"
-      }
-    ]
-  },
-  {
-    "word": "đã hạn chế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-limited"
-      }
-    ]
-  },
-  {
-    "word": "đã chuẩn hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-standardized"
-      }
-    ]
-  },
-  {
-    "word": "đã được phân loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-classified"
-      }
-    ]
-  },
-  {
-    "word": "đã lắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deposited"
-      }
-    ]
-  },
-  {
-    "word": "đã đóng kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-closed"
-      }
-    ]
-  },
-  {
-    "word": "đã ghi vào sổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-registered"
-      }
-    ]
-  },
-  {
-    "word": "đã lật ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inverted"
-      }
-    ]
-  },
-  {
-    "word": "đã kết tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-crystallizable"
-      }
-    ]
-  },
-  {
-    "word": "đã gắn kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cemented"
-      }
-    ]
-  },
-  {
-    "word": "đã đầu tư hết vốn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fully invested"
-      }
-    ]
-  },
-  {
-    "word": "đã thèm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã thèm\n-Satiate one\"s yearning (for drinks...)\n=Uống ba cốc bia lớn cho đã thèm\n+To satiateone\"s yearning for a drink with tree big glasses of beer"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã thèm\n- Satiate one's yearning (for drinks...)\n=Uống ba cốc bia lớn cho đã thèm+To satiateone's yearning for a drink with tree big glasses of beer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to satiate; satiated"
-      }
-    ]
-  },
-  {
-    "word": "đã chứng minh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-proved\n-proven"
-      }
-    ]
-  },
-  {
-    "word": "đã được định mức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rated"
-      }
-    ]
-  },
-  {
-    "word": "đã đẻ, đã sanh con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-parous"
-      }
-    ]
-  },
-  {
-    "word": "đã trả xong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-account paid\n-received"
-      }
-    ]
-  },
-  {
-    "word": "đã cạn thải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-exhausted"
-      }
-    ]
-  },
-  {
-    "word": "đã trả trước phí điện trả lời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reply paid"
-      }
-    ]
-  },
-  {
-    "word": "đã đặt hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on order"
-      }
-    ]
-  },
-  {
-    "word": "đã được công nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ace. (accepted)"
-      }
-    ]
-  },
-  {
-    "word": "đã phải",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "had to"
-      }
-    ]
-  },
-  {
-    "word": "đã cô đặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-concentrated"
-      }
-    ]
-  },
-  {
-    "word": "đã loại bỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-denuded"
-      }
-    ]
-  },
-  {
-    "word": "đãi đằng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đãi đằng\n- ở đây lại có nghĩa là nói năng, làm ầm ĩ lên"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãi đằng\n-treat, entertain\n=Đãi đằng bạn bè\n+To entertain his friends to a feast"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đãi đằng\n- treat, entertain\n=Đãi đằng bạn bè+To entertain his friends to a feast"
-      }
-    ]
-  },
-  {
-    "word": "đã có một lần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "once, at one time"
-      }
-    ]
-  },
-  {
-    "word": "đã rồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã rồi\n-Done and not reversible, accompli (in \" fait accompli\")\n=Sự đã rồi\n+Athing done and not reversible, a fait accompli"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã rồi\n- Done and not reversible, accompli (in \" fait accompli\")\n=Sự đã rồi+Athing done and not reversible, a fait accompli"
-      }
-    ]
-  },
-  {
-    "word": "đã lưu trữ ảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Multiple virtual Storage (MVS)"
-      }
-    ]
-  },
-  {
-    "word": "đã chuẩn bị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-prepared"
-      }
-    ]
-  },
-  {
-    "word": "đã nói trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-aforementioned"
-      }
-    ]
-  },
-  {
-    "word": "đã giao (hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-delivered"
-      }
-    ]
-  },
-  {
-    "word": "đã ký và đóng dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-signed and sealed"
-      }
-    ]
-  },
-  {
-    "word": "đã bốc dỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unshipped"
-      }
-    ]
-  },
-  {
-    "word": "đã được chấp nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
-      }
-    ]
-  },
-  {
-    "word": "đã bắn vỉa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-perforated"
-      }
-    ]
-  },
-  {
-    "word": "đã cân bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-balanced"
-      }
-    ]
-  },
-  {
-    "word": "đã kể trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-above-mentioned"
-      }
-    ]
-  },
-  {
-    "word": "đã tháo cạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-drained"
-      }
-    ]
-  },
-  {
-    "word": "đã được lập trình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-programmed"
-      }
-    ]
-  },
-  {
-    "word": "đã kết tủa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-deposited"
-      }
-    ]
-  },
-  {
-    "word": "đã dỡ xuống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dismounted"
-      }
-    ]
-  },
-  {
-    "word": "đã trả dứt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fully paid (fully-paid)\n-prepaid\n-received in full"
-      }
-    ]
-  },
-  {
-    "word": "đã sẵn sàng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "already"
-      }
-    ]
-  },
-  {
-    "word": "đãi ngọc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đãi ngọc\n- ngọc đợi giá cao"
-      }
-    ]
-  },
-  {
-    "word": "đã điều chỉnh theo mùa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-seasonable adjusted\n-seasonal adjusted"
-      }
-    ]
-  },
-  {
-    "word": "đã đọc và chấp thuận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-examined and endorsed"
-      }
-    ]
-  },
-  {
-    "word": "đã trả dứt khi đáo hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-be paid in full at appointed time"
-      }
-    ]
-  },
-  {
-    "word": "đãng định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãng định [đãng định]\n-pacify"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pacify"
-      }
-    ]
-  },
-  {
-    "word": "đã đóng dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-impressed stamp tem"
-      }
-    ]
-  },
-  {
-    "word": "đã phát hành và chưa đến hạn thanh toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-issued and outstanding"
-      }
-    ]
-  },
-  {
-    "word": "đã đặt cầu khoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-plugged"
-      }
-    ]
-  },
-  {
-    "word": "đã định khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-formatted"
-      }
-    ]
-  },
-  {
-    "word": "đã nghiền thành bột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-powdered"
-      }
-    ]
-  },
-  {
-    "word": "đã tinh luyện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-affined"
-      }
-    ]
-  },
-  {
-    "word": "đãi ngộ ngang nhau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pair profit"
-      }
-    ]
-  },
-  {
-    "word": "đã trả một phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-part paid"
-      }
-    ]
-  },
-  {
-    "word": "đã hủy bỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cancelled"
-      }
-    ]
-  },
-  {
-    "word": "đã hết hiệu lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expire\n-expired"
-      }
-    ]
-  },
-  {
-    "word": "đã được đạp vỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-broken rocks"
-      }
-    ]
-  },
-  {
-    "word": "đã tiêu hao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expired cost"
-      }
-    ]
-  },
-  {
-    "word": "đã trả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-paid"
-      }
-    ]
-  },
-  {
-    "word": "đã xảy ra",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have happened, have occurred, have taken place"
-      }
-    ]
-  },
-  {
-    "word": "đã khử mùi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deodorized"
-      }
-    ]
-  },
-  {
-    "word": "đã sang tên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-assigned"
-      }
-    ]
-  },
-  {
-    "word": "đã chuyển nhượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-assigned"
-      }
-    ]
-  },
-  {
-    "word": "đã phân loại theo cỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-graded by size"
-      }
-    ]
-  },
-  {
-    "word": "đã thanh toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-account paid\n-paid\n-paid with thanks\n@Chuyên ngành kỹ thuật\n-paid"
-      }
-    ]
-  },
-  {
-    "word": "đã được xử lý để chống gỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rust-proof"
-      }
-    ]
-  },
-  {
-    "word": "đã thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-proved\n-proven\n-tested"
-      }
-    ]
-  },
-  {
-    "word": "đã kết nối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-connected"
-      }
-    ]
-  },
-  {
-    "word": "đã thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-received"
-      }
-    ]
-  },
-  {
-    "word": "đã trưng bày lâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shop-soiled"
-      }
-    ]
-  },
-  {
-    "word": "đã trinitrat hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-trinitrated"
-      }
-    ]
-  },
-  {
-    "word": "đã được quyết định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-decided"
-      }
-    ]
-  },
-  {
-    "word": "đã đành rằng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "granted that"
-      }
-    ]
-  },
-  {
-    "word": "đã nhận trả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
-      }
-    ]
-  },
-  {
-    "word": "đã nghiền sơ bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-beaten"
-      }
-    ]
-  },
-  {
-    "word": "đã trả thuế, miễn thuế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax paid"
-      }
-    ]
-  },
-  {
-    "word": "đã ngăn cách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chambered"
-      }
-    ]
-  },
-  {
-    "word": "đãy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãy [đãy]\n-sack; kit-bag"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sack, kit-bag"
-      }
-    ]
-  },
-  {
-    "word": "đã trễ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "it was too late"
-      }
-    ]
-  },
-  {
-    "word": "đãi khách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãi khách [đãi khách]\n-entertaining guests, inviting guests"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "entertaining guests, inviting guests"
-      }
-    ]
-  },
-  {
-    "word": "đã tiêu chuẩn hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-standardized"
-      }
-    ]
-  },
-  {
-    "word": "đã được xử lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-processed"
-      }
-    ]
-  },
-  {
-    "word": "đã được giải quyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-decided"
-      }
-    ]
-  },
-  {
-    "word": "đã đời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quá hả hê, thoả sức, không còn thèm muốn gì thêm nữa\nVí dụ:\n- nhậu một bữa thật đã đời"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã đời\n-To [the point of] satiety\n=Ăn chơi đã đời\n+To indulge in pleasure to satiety"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã đời\n- To [the point of] satiety\n=Ăn chơi đã đời+To indulge in pleasure to satiety"
-      }
-    ]
-  },
-  {
-    "word": "đã làm lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chilled"
-      }
-    ]
-  },
-  {
-    "word": "đã làm lạnh bằng nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-water cooled"
-      }
-    ]
-  },
-  {
-    "word": "đã cùn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-disedged"
-      }
-    ]
-  },
-  {
-    "word": "đã tiêu mất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expired expense"
-      }
-    ]
-  },
-  {
-    "word": "đã loại parafin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dewaxed"
-      }
-    ]
-  },
-  {
-    "word": "đã ký kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-signatory"
-      }
-    ]
-  },
-  {
-    "word": "đã phát quang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cleared"
-      }
-    ]
-  },
-  {
-    "word": "đã được phân xử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-decided"
-      }
-    ]
-  },
-  {
-    "word": "đã trả bưu phí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-postage paid"
       }
     ]
   },
@@ -2578,556 +557,29 @@
     ]
   },
   {
-    "word": "đã nghiền",
+    "word": "đã thanh toán một phần",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-broken"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-partly paid"
       }
     ]
   },
   {
-    "word": "đãi ngộ",
+    "word": "đã đóng dấu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cho hưởng các quyền lợi tương xứng với sự đóng góp\nVí dụ:\n- nhà nước đãi ngộ những người hiền tài"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đãi ngộ\n- đg. Cho hưởng các quyền lợi theo chế độ, tương xứng với sự đóng góp. Chính sách đãi ngộ đối với thương binh. Đãi ngộ thích đáng."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@đãi ngộ\n*verb\n-to behave; to treat\n@Chuyên ngành kinh tế\n-treatment"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đãi ngộ\n* verb\n- to behave; to treat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to behave, treat"
+        "dict_definition": "@Chuyên ngành kinh tế\n-impressed stamp tem"
       }
     ]
   },
   {
-    "word": "đã đăng ký hành nghề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-listed"
-      }
-    ]
-  },
-  {
-    "word": "đãi bôi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tử tế, niềm nở bề ngoài, không thật tình\nVí dụ:\n- mời đãi bôi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đãi bôi [đãi bôi]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "đã ngưng lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-chilled"
-      }
-    ]
-  },
-  {
-    "word": "đã đóng rắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-solidified"
-      }
-    ]
-  },
-  {
-    "word": "đã pha trộn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-amalgamized"
-      }
-    ]
-  },
-  {
-    "word": "đã ram",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tempered"
-      }
-    ]
-  },
-  {
-    "word": "đã chịu tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-loaded"
-      }
-    ]
-  },
-  {
-    "word": "đã được yêu cầu mua hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subscribed fully"
-      }
-    ]
-  },
-  {
-    "word": "đã ký hiệp ước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-signatory"
-      }
-    ]
-  },
-  {
-    "word": "đã đến lúc để",
+    "word": "đã xảy ra",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "the time came to (do sth)"
-      }
-    ]
-  },
-  {
-    "word": "đã tắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-killed"
-      }
-    ]
-  },
-  {
-    "word": "đã làm trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-clarified"
-      }
-    ]
-  },
-  {
-    "word": "đã chia độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-graduated"
-      }
-    ]
-  },
-  {
-    "word": "đã xác định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-proved\n-proven"
-      }
-    ]
-  },
-  {
-    "word": "đã sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-graded coal\n@Lĩnh vực: hóa học & vật liệu\n-screened"
-      }
-    ]
-  },
-  {
-    "word": "đã phân cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-polarized"
-      }
-    ]
-  },
-  {
-    "word": "đã trót phóng lao",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the die has been cast, there is no turning back"
-      }
-    ]
-  },
-  {
-    "word": "đã khai thác hết (mỏ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-peter"
-      }
-    ]
-  },
-  {
-    "word": "đã cán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rounded-off"
-      }
-    ]
-  },
-  {
-    "word": "đã ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-signed\n@Chuyên ngành kỹ thuật\n-signed"
-      }
-    ]
-  },
-  {
-    "word": "đã nút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-plugged"
-      }
-    ]
-  },
-  {
-    "word": "đã bốc hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on board"
-      }
-    ]
-  },
-  {
-    "word": "đã kéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-drawn"
-      }
-    ]
-  },
-  {
-    "word": "đã kết thúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expire\n-expired"
-      }
-    ]
-  },
-  {
-    "word": "đã chất hàng lên tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipped on board"
-      }
-    ]
-  },
-  {
-    "word": "đã nghiền nát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-crushed"
-      }
-    ]
-  },
-  {
-    "word": "đã là",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã là\n-(dùng với thì) As\n=Đã là cha mẹ thì phải có trách nhiệm với con cái\n+As parents, we must assume responsibilities towards pur children"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đã là\n- (dùng với thì) As\n=Đã là cha mẹ thì phải có trách nhiệm với con cái+As parents, we must assume responsibilities towards pur children"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "was, were"
-      }
-    ]
-  },
-  {
-    "word": "đã chia làm 2 phe",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "was divided into 2 groups"
-      }
-    ]
-  },
-  {
-    "word": "đã thấm nhựa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bitumen-impregnated"
-      }
-    ]
-  },
-  {
-    "word": "đã nhận đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-received in full"
-      }
-    ]
-  },
-  {
-    "word": "đã phát triển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-state-of-the-art"
-      }
-    ]
-  },
-  {
-    "word": "đã đăng ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-registered\n@Chuyên ngành kỹ thuật\n-registered"
-      }
-    ]
-  },
-  {
-    "word": "đã hay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đã hay [đã hay]\n-granted that"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "granted that"
-      }
-    ]
-  },
-  {
-    "word": "đã bay hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-vaporized"
-      }
-    ]
-  },
-  {
-    "word": "đã trả phí phát triển nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-express paid"
-      }
-    ]
-  },
-  {
-    "word": "đã chất hàng xuống tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-afloat\n-to arrive"
-      }
-    ]
-  },
-  {
-    "word": "đãi (làm giàu quặng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wash"
-      }
-    ]
-  },
-  {
-    "word": "đã giải mã",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-decoded"
-      }
-    ]
-  },
-  {
-    "word": "đã trả đúng lúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-duly paid"
-      }
-    ]
-  },
-  {
-    "word": "đã làm lạnh bằng quạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fan cooled"
-      }
-    ]
-  },
-  {
-    "word": "đã thu đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-value received"
-      }
-    ]
-  },
-  {
-    "word": "đã được rút ngắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-curtailed"
-      }
-    ]
-  },
-  {
-    "word": "đã được sử dụng gần 78 năm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "has been used for almost 78 years"
-      }
-    ]
-  },
-  {
-    "word": "đã bán hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-out-of-print"
-      }
-    ]
-  },
-  {
-    "word": "đã hút khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drained"
-      }
-    ]
-  },
-  {
-    "word": "đã đọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-examined"
-      }
-    ]
-  },
-  {
-    "word": "đã đậu bến đang chờ chất hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on the berth"
-      }
-    ]
-  },
-  {
-    "word": "đã quyết toán dứt điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-all squared"
-      }
-    ]
-  },
-  {
-    "word": "đã thành đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-petrous"
-      }
-    ]
-  },
-  {
-    "word": "đã làm nghèo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-depleted\n-impoverished"
-      }
-    ]
-  },
-  {
-    "word": "đã tiệt trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pasteurized\n@Lĩnh vực: thực phẩm\n-sterilized"
-      }
-    ]
-  },
-  {
-    "word": "đã trả cước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-prepaid"
-      }
-    ]
-  },
-  {
-    "word": "đã được đơn giản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simplified"
-      }
-    ]
-  },
-  {
-    "word": "đã rà (khớp)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bedded"
-      }
-    ]
-  },
-  {
-    "word": "đã có sẵn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-established\n-existing"
-      }
-    ]
-  },
-  {
-    "word": "đã trả phí phát chuyển nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-express paid"
+        "dict_definition": "to have happened, have occurred, have taken place"
       }
     ]
   },
@@ -3161,7 +613,92 @@
     ]
   },
   {
-    "word": "đã hết hạn",
+    "word": "đã loại butan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-debutanised"
+      }
+    ]
+  },
+  {
+    "word": "đã cùn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-disedged"
+      }
+    ]
+  },
+  {
+    "word": "đã trả thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax paid"
+      }
+    ]
+  },
+  {
+    "word": "đã lập trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-programmed"
+      }
+    ]
+  },
+  {
+    "word": "đãi thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãi thời [đãi thời]\n-wait for better times, be a fencesitter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wait for better times, be a fence sitter"
+      }
+    ]
+  },
+  {
+    "word": "đã hỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spent"
+      }
+    ]
+  },
+  {
+    "word": "đã được định mức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rated"
+      }
+    ]
+  },
+  {
+    "word": "đã phát quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cleared"
+      }
+    ]
+  },
+  {
+    "word": "đã biết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-certain\n-known"
+      }
+    ]
+  },
+  {
+    "word": "đã kết thúc",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -3170,43 +707,303 @@
     ]
   },
   {
-    "word": "đã đến đỉnh",
+    "word": "đã đến lúc",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-topping out"
+        "dict_name": "VNEDICT",
+        "dict_definition": "the time had come (to do sth)"
       }
     ]
   },
   {
-    "word": "đã hỗn hống",
+    "word": "đã chỉnh lưu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-amalgamized"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rectified"
       }
     ]
   },
   {
-    "word": "đã khử ngọn (lọc dầu)",
+    "word": "đã giải mã",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-topped"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-decoded"
       }
     ]
   },
   {
-    "word": "đã được rán",
+    "word": "đã chất hàng lên tàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fried"
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipped on board"
       }
     ]
   },
   {
-    "word": "đã bít",
+    "word": "đã kéo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-drawn"
+      }
+    ]
+  },
+  {
+    "word": "đã tháo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dismounted"
+      }
+    ]
+  },
+  {
+    "word": "đã ép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pressed"
+      }
+    ]
+  },
+  {
+    "word": "đã được giải quyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-decided"
+      }
+    ]
+  },
+  {
+    "word": "đã ôxi hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxidized"
+      }
+    ]
+  },
+  {
+    "word": "đã đọc và chấp thuận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-examined and endorsed"
+      }
+    ]
+  },
+  {
+    "word": "đã ngăn cách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chambered"
+      }
+    ]
+  },
+  {
+    "word": "đã làm lạnh bằng quạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fan cooled"
+      }
+    ]
+  },
+  {
+    "word": "đã định chốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-keyed advertisement"
+      }
+    ]
+  },
+  {
+    "word": "đã tạo hình (bánh mì)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shaped"
+      }
+    ]
+  },
+  {
+    "word": "đã tách parafin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dewaxed"
+      }
+    ]
+  },
+  {
+    "word": "đã khử mùi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deodorized"
+      }
+    ]
+  },
+  {
+    "word": "đãi nguyệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãi nguyệt [đãi nguyệt]\n-waiting for the moon to come up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "waiting for the moon to come up"
+      }
+    ]
+  },
+  {
+    "word": "đã hiệu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-calibrated\n-tested"
+      }
+    ]
+  },
+  {
+    "word": "đã loại bỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-denuded"
+      }
+    ]
+  },
+  {
+    "word": "đã kiểm tra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-examined"
+      }
+    ]
+  },
+  {
+    "word": "đã cạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-exhausted"
+      }
+    ]
+  },
+  {
+    "word": "đã tích điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-charged"
+      }
+    ]
+  },
+  {
+    "word": "đã quá hạn từ lâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-long past due"
+      }
+    ]
+  },
+  {
+    "word": "đã chất hàng xuống tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-afloat\n-to arrive"
+      }
+    ]
+  },
+  {
+    "word": "đã được hấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-autoclaved"
+      }
+    ]
+  },
+  {
+    "word": "đã cán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rounded-off"
+      }
+    ]
+  },
+  {
+    "word": "đã gia tốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated"
+      }
+    ]
+  },
+  {
+    "word": "đã khoan thủng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-perforated"
+      }
+    ]
+  },
+  {
+    "word": "đã nhận đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-received in full"
+      }
+    ]
+  },
+  {
+    "word": "đã trinitrat hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-trinitrated"
+      }
+    ]
+  },
+  {
+    "word": "đã hay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã hay [đã hay]\n-granted that"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "granted that"
+      }
+    ]
+  },
+  {
+    "word": "đã trả cước (vận chuyển)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-freight charges paid"
+      }
+    ]
+  },
+  {
+    "word": "đã đặt cầu khoan",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -3215,20 +1012,145 @@
     ]
   },
   {
-    "word": "đã thủy hóa",
+    "word": "đã định khuôn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hydrated"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-formatted"
       }
     ]
   },
   {
-    "word": "đã đãi",
+    "word": "đã đặt trước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-washed"
+        "dict_definition": "@Chuyên ngành kinh tế\n-booked"
+      }
+    ]
+  },
+  {
+    "word": "đã hạn chế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-limited"
+      }
+    ]
+  },
+  {
+    "word": "đã chọn trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-preoptive"
+      }
+    ]
+  },
+  {
+    "word": "đã thu tiền và giao hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-collected and delivered"
+      }
+    ]
+  },
+  {
+    "word": "đã nghiền nát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-crushed"
+      }
+    ]
+  },
+  {
+    "word": "đã trút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dumped"
+      }
+    ]
+  },
+  {
+    "word": "đã nóng chảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-molten\n-smelted"
+      }
+    ]
+  },
+  {
+    "word": "đã trót phóng lao",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the die has been cast, there is no turning back"
+      }
+    ]
+  },
+  {
+    "word": "đã loại parafin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dewaxed"
+      }
+    ]
+  },
+  {
+    "word": "đã lát vát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-boarded"
+      }
+    ]
+  },
+  {
+    "word": "đã ký hiệp ước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-signatory"
+      }
+    ]
+  },
+  {
+    "word": "đã là",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã là\n-(dùng với thì) As\n=Đã là cha mẹ thì phải có trách nhiệm với con cái\n+As parents, we must assume responsibilities towards pur children"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã là\n- (dùng với thì) As\n=Đã là cha mẹ thì phải có trách nhiệm với con cái+As parents, we must assume responsibilities towards pur children"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "was, were"
+      }
+    ]
+  },
+  {
+    "word": "đãi (mẫu) tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-auto-panning"
+      }
+    ]
+  },
+  {
+    "word": "đã đóng kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-closed"
       }
     ]
   },
@@ -3242,11 +1164,38 @@
     ]
   },
   {
-    "word": "đã trả cước (vận chuyển)",
+    "word": "đã tráng men",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-freight charges paid"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-glazed"
+      }
+    ]
+  },
+  {
+    "word": "đã làm trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-clarified"
+      }
+    ]
+  },
+  {
+    "word": "đã thu đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-value received"
+      }
+    ]
+  },
+  {
+    "word": "đã tôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hardened\n-quenched"
       }
     ]
   },
@@ -3264,6 +1213,683 @@
     ]
   },
   {
+    "word": "đã sang tên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-assigned"
+      }
+    ]
+  },
+  {
+    "word": "đã được sử dụng gần 78 năm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "has been used for almost 78 years"
+      }
+    ]
+  },
+  {
+    "word": "đã xác minh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-proven"
+      }
+    ]
+  },
+  {
+    "word": "đã dùng qua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-second-hand"
+      }
+    ]
+  },
+  {
+    "word": "đã tháo rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-knocked-down condition"
+      }
+    ]
+  },
+  {
+    "word": "đã phân phối hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fully distributed"
+      }
+    ]
+  },
+  {
+    "word": "đã thanh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pasteurized"
+      }
+    ]
+  },
+  {
+    "word": "đã trả tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-account paid\n@Chuyên ngành kỹ thuật\n-charges paid\n-paid"
+      }
+    ]
+  },
+  {
+    "word": "đã phân cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-classified"
+      }
+    ]
+  },
+  {
+    "word": "đã khoan rỗng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chambered"
+      }
+    ]
+  },
+  {
+    "word": "đã đọc chuẩn y",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-read and approved"
+      }
+    ]
+  },
+  {
+    "word": "đã có sẵn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-established\n-existing"
+      }
+    ]
+  },
+  {
+    "word": "đã đốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-burnt\n-fired"
+      }
+    ]
+  },
+  {
+    "word": "đã tiệt trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pasteurized\n@Lĩnh vực: thực phẩm\n-sterilized"
+      }
+    ]
+  },
+  {
+    "word": "đã cũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-used"
+      }
+    ]
+  },
+  {
+    "word": "đã trả dứt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fully paid (fully-paid)\n-prepaid\n-received in full"
+      }
+    ]
+  },
+  {
+    "word": "đã loại sáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dewaxed"
+      }
+    ]
+  },
+  {
+    "word": "đã lăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rounded-off"
+      }
+    ]
+  },
+  {
+    "word": "đã nhận đủ tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-payment received"
+      }
+    ]
+  },
+  {
+    "word": "đã đến đỉnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-topping out"
+      }
+    ]
+  },
+  {
+    "word": "đã tháo cạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-drained"
+      }
+    ]
+  },
+  {
+    "word": "đã được giảm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-diminished"
+      }
+    ]
+  },
+  {
+    "word": "đã cô đặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-concentrated"
+      }
+    ]
+  },
+  {
+    "word": "đã bán hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-out-of-print"
+      }
+    ]
+  },
+  {
+    "word": "đã qua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã qua [đã qua]\n-past;  bygone"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "past, bygone"
+      }
+    ]
+  },
+  {
+    "word": "đã được quyết định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-decided"
+      }
+    ]
+  },
+  {
+    "word": "đãi đằng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đãi đằng\n- ở đây lại có nghĩa là nói năng, làm ầm ĩ lên"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãi đằng\n-treat, entertain\n=Đãi đằng bạn bè\n+To entertain his friends to a feast"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đãi đằng\n- treat, entertain\n=Đãi đằng bạn bè+To entertain his friends to a feast"
+      }
+    ]
+  },
+  {
+    "word": "đãi ngọc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đãi ngọc\n- ngọc đợi giá cao"
+      }
+    ]
+  },
+  {
+    "word": "đã có kinh nghiệm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "experienced, having experience"
+      }
+    ]
+  },
+  {
+    "word": "đãng định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãng định [đãng định]\n-pacify"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pacify"
+      }
+    ]
+  },
+  {
+    "word": "đã nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-chop\n@Chuyên ngành kỹ thuật\n-received"
+      }
+    ]
+  },
+  {
+    "word": "đã nhận thanh toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
+      }
+    ]
+  },
+  {
+    "word": "đã sửa (chữa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrected"
+      }
+    ]
+  },
+  {
+    "word": "đã rồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã rồi\n-Done and not reversible, accompli (in \" fait accompli\")\n=Sự đã rồi\n+Athing done and not reversible, a fait accompli"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã rồi\n- Done and not reversible, accompli (in \" fait accompli\")\n=Sự đã rồi+Athing done and not reversible, a fait accompli"
+      }
+    ]
+  },
+  {
+    "word": "đã quá tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-supercharged"
+      }
+    ]
+  },
+  {
+    "word": "đã trả một phần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-part paid"
+      }
+    ]
+  },
+  {
+    "word": "đã dỡ tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-unloaded"
+      }
+    ]
+  },
+  {
+    "word": "đã qua mọi phép đo thử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-All Tests Pass (ATP)"
+      }
+    ]
+  },
+  {
+    "word": "đã trả đúng lúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-duly paid"
+      }
+    ]
+  },
+  {
+    "word": "đã khử mỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fat-extracted\n-fat-free"
+      }
+    ]
+  },
+  {
+    "word": "đã sử dụng rồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-second-hand"
+      }
+    ]
+  },
+  {
+    "word": "đã đảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inverted"
+      }
+    ]
+  },
+  {
+    "word": "đã trả phí phát chuyển nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-express paid"
+      }
+    ]
+  },
+  {
+    "word": "đã thiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-burnt"
+      }
+    ]
+  },
+  {
+    "word": "đã truy cập phân chia tần số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-frequency-division multiple access (FDMA)"
+      }
+    ]
+  },
+  {
+    "word": "đã ký và đóng dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-signed and sealed"
+      }
+    ]
+  },
+  {
+    "word": "đã thu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-received"
+      }
+    ]
+  },
+  {
+    "word": "đã tiêu mất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expired expense"
+      }
+    ]
+  },
+  {
+    "word": "đã hút khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drained"
+      }
+    ]
+  },
+  {
+    "word": "đã lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filtered"
+      }
+    ]
+  },
+  {
+    "word": "đã đến ngày thanh toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-run to settlement"
+      }
+    ]
+  },
+  {
+    "word": "đã sẵn sàng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "already"
+      }
+    ]
+  },
+  {
+    "word": "đã đặt hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on order"
+      }
+    ]
+  },
+  {
+    "word": "đã được phân loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-classified"
+      }
+    ]
+  },
+  {
+    "word": "đã điều chỉnh theo mùa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-seasonable adjusted\n-seasonal adjusted"
+      }
+    ]
+  },
+  {
+    "word": "đã tăng tốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-accelerated"
+      }
+    ]
+  },
+  {
+    "word": "đã nhận trả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
+      }
+    ]
+  },
+  {
+    "word": "đã kết nối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-connected"
+      }
+    ]
+  },
+  {
+    "word": "đã thanh toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-account paid\n-paid\n-paid with thanks\n@Chuyên ngành kỹ thuật\n-paid"
+      }
+    ]
+  },
+  {
+    "word": "đã tinh cất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rectified"
+      }
+    ]
+  },
+  {
+    "word": "đã peclo hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-perchlorinated"
+      }
+    ]
+  },
+  {
+    "word": "đã trả trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-paid in advance\n-prepaid\n-prepaid (ppd)\n@Chuyên ngành kỹ thuật\n-prepaid"
+      }
+    ]
+  },
+  {
+    "word": "đã than hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-charred"
+      }
+    ]
+  },
+  {
+    "word": "đã được yêu cầu mua hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subscribed fully"
+      }
+    ]
+  },
+  {
+    "word": "đã bắn vỉa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-perforated"
+      }
+    ]
+  },
+  {
+    "word": "đã phân loại theo cỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-graded by size"
+      }
+    ]
+  },
+  {
+    "word": "đã đẻ, đã sanh con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-parous"
+      }
+    ]
+  },
+  {
+    "word": "đã hiệu đính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-corrected"
+      }
+    ]
+  },
+  {
+    "word": "đã bít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-plugged"
+      }
+    ]
+  },
+  {
+    "word": "đã lật ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inverted"
+      }
+    ]
+  },
+  {
+    "word": "đã nhận tiền rồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-received"
+      }
+    ]
+  },
+  {
+    "word": "đã khử oxi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deoxidized"
+      }
+    ]
+  },
+  {
+    "word": "đã lưu trữ ảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Multiple virtual Storage (MVS)"
+      }
+    ]
+  },
+  {
     "word": "đã rèn",
     "definitions": [
       {
@@ -3273,20 +1899,99 @@
     ]
   },
   {
-    "word": "đã xem và đồng ý",
+    "word": "đã chứng minh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inspected-approved"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-proved\n-proven"
       }
     ]
   },
   {
-    "word": "đã lập trình",
+    "word": "đã phát hành và chưa đến hạn thanh toán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-programmed"
+        "dict_definition": "@Chuyên ngành kinh tế\n-issued and outstanding"
+      }
+    ]
+  },
+  {
+    "word": "đã tuyển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-clean coal\n-cleans"
+      }
+    ]
+  },
+  {
+    "word": "đã gia công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-processed\n-worked"
+      }
+    ]
+  },
+  {
+    "word": "đã rây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-screened"
+      }
+    ]
+  },
+  {
+    "word": "đã trát kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plugged"
+      }
+    ]
+  },
+  {
+    "word": "đãi ngộ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cho hưởng các quyền lợi tương xứng với sự đóng góp\nVí dụ:\n- nhà nước đãi ngộ những người hiền tài"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đãi ngộ\n- đg. Cho hưởng các quyền lợi theo chế độ, tương xứng với sự đóng góp. Chính sách đãi ngộ đối với thương binh. Đãi ngộ thích đáng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãi ngộ\n*verb\n-to behave; to treat\n@Chuyên ngành kinh tế\n-treatment"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đãi ngộ\n* verb\n- to behave; to treat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to behave, treat"
+      }
+    ]
+  },
+  {
+    "word": "đã chuẩn bị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-prepared"
+      }
+    ]
+  },
+  {
+    "word": "đãi ngộ ngang nhau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pair profit"
       }
     ]
   },
@@ -3300,6 +2005,199 @@
     ]
   },
   {
+    "word": "đã làm sạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-clarified\n@Chuyên ngành kỹ thuật\n-cleaned coal"
+      }
+    ]
+  },
+  {
+    "word": "đã rút gọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-simplified"
+      }
+    ]
+  },
+  {
+    "word": "đã đánh bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bright\n@Lĩnh vực: hóa học & vật liệu\n-glazed"
+      }
+    ]
+  },
+  {
+    "word": "đã trả cước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-prepaid"
+      }
+    ]
+  },
+  {
+    "word": "đã nói trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-aforementioned"
+      }
+    ]
+  },
+  {
+    "word": "đã trả bưu phí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-postage paid"
+      }
+    ]
+  },
+  {
+    "word": "đã tính toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rated"
+      }
+    ]
+  },
+  {
+    "word": "đã được đạp vỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-broken rocks"
+      }
+    ]
+  },
+  {
+    "word": "đã được xử lý để chống gỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rust-proof"
+      }
+    ]
+  },
+  {
+    "word": "đã ký thành hai bản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-executed in duplicate"
+      }
+    ]
+  },
+  {
+    "word": "đã xem",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-examined"
+      }
+    ]
+  },
+  {
+    "word": "đã đánh giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-estimated\n-rated"
+      }
+    ]
+  },
+  {
+    "word": "đã thấm cacbon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-charred"
+      }
+    ]
+  },
+  {
+    "word": "đã bốc hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on board"
+      }
+    ]
+  },
+  {
+    "word": "đã thế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã thế\n-như đã_vậy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã thế\n- như đã_vậy"
+      }
+    ]
+  },
+  {
+    "word": "đã đậu bến đang chờ chất hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on the berth"
+      }
+    ]
+  },
+  {
+    "word": "đã hết hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expire\n-expired"
+      }
+    ]
+  },
+  {
+    "word": "đãi nồi hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-boiler plate"
+      }
+    ]
+  },
+  {
+    "word": "đã làm nghèo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-depleted\n-impoverished"
+      }
+    ]
+  },
+  {
+    "word": "đã từ lâu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "it had been a long time, it was a long time since"
+      }
+    ]
+  },
+  {
+    "word": "đã bỏ việc đàm phán giá cả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dropped"
+      }
+    ]
+  },
+  {
     "word": "đã hưởng lương",
     "definitions": [
       {
@@ -3309,56 +2207,180 @@
     ]
   },
   {
-    "word": "đã tiếp nhận",
+    "word": "đãi (làm giàu quặng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wash"
       }
     ]
   },
   {
-    "word": "đãng bình",
+    "word": "đã xóa tên",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expunged"
+      }
+    ]
+  },
+  {
+    "word": "đã trùng hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-confounded"
+      }
+    ]
+  },
+  {
+    "word": "đã đành rằng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "granted that"
+      }
+    ]
+  },
+  {
+    "word": "đã trả phí phát triển nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-express paid"
+      }
+    ]
+  },
+  {
+    "word": "đã quyết toán dứt điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-all squared"
+      }
+    ]
+  },
+  {
+    "word": "đã được phân xử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-decided"
+      }
+    ]
+  },
+  {
+    "word": "đã được lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-filtered"
+      }
+    ]
+  },
+  {
+    "word": "đã đăng ký",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-registered\n@Chuyên ngành kỹ thuật\n-registered"
+      }
+    ]
+  },
+  {
+    "word": "đã phân cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-polarized"
+      }
+    ]
+  },
+  {
+    "word": "đã phân tán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-disseminated"
+      }
+    ]
+  },
+  {
+    "word": "đã thối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-definitely stale"
+      }
+    ]
+  },
+  {
+    "word": "đã trả đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fully paid"
+      }
+    ]
+  },
+  {
+    "word": "đã xóa tên khỏi danh sách của công ty xếp hạng tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expunged"
+      }
+    ]
+  },
+  {
+    "word": "đã ngưng lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-chilled"
+      }
+    ]
+  },
+  {
+    "word": "đã đành",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị điều vừa nói đến được coi là dĩ nhiên, nhằm bổ sung, nêu ra một điều khác được coi là quan trọng hơn\nVí dụ:\n- đã đành là khó, nhưng cũng phải cố gắng chứ! \n - ông cụ lẩn thẩn đã đành, đến anh cũng lẩn thẩn nốt!"
+      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đãng bình\n- dẹp giặc cho yên dân"
+        "dict_definition": "@đã đành\n- Dĩ nhiên, hẳn là (để nhằm bổ sung cho điều quan trọng hơn sẽ nói đến): Đã đành là tin nhau, nhưng làm kinh tế vẫn phải có hợp đồng hẳn hoi  Đã đành là cháu còn bé, nhưng đã đến trường thì phải chấp hành nội quy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã đành\n-of course; assuming that"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã đành\n- of course; assuming that"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "of course, assuming that"
       }
     ]
   },
   {
-    "word": "đã tuyệt bản",
+    "word": "đã xử lý",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-out-of-print"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-processed\n-treated"
       }
     ]
   },
   {
-    "word": "đã nóng chảy",
+    "word": "đã thấm bitum",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-molten\n-smelted"
-      }
-    ]
-  },
-  {
-    "word": "đã xem hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-as inspected"
-      }
-    ]
-  },
-  {
-    "word": "đã lát vát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-boarded"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bitumen-impregnated"
       }
     ]
   },
@@ -3372,11 +2394,989 @@
     ]
   },
   {
-    "word": "đã khoan thủng",
+    "word": "đã trả trước phí điện trả lời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-perforated"
+        "dict_definition": "@Chuyên ngành kinh tế\n-reply paid"
+      }
+    ]
+  },
+  {
+    "word": "đã thành đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-petrous"
+      }
+    ]
+  },
+  {
+    "word": "đã chia làm 2 phe",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "was divided into 2 groups"
+      }
+    ]
+  },
+  {
+    "word": "đã khát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã khát\n-Quench one\"s thirst, slake quenched\n=Uống cho đã khát\n+To drink until one\"s thirst is quenched"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã khát\n- Quench one's thirst, slake quenched\n=Uống cho đã khát+To drink until one's thirst is quenched"
+      }
+    ]
+  },
+  {
+    "word": "đã thử nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-proven"
+      }
+    ]
+  },
+  {
+    "word": "đã trễ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "it was too late"
+      }
+    ]
+  },
+  {
+    "word": "đã thấm nhựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bitumen-impregnated"
+      }
+    ]
+  },
+  {
+    "word": "đã được chiết khấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-discounts received"
+      }
+    ]
+  },
+  {
+    "word": "đã trả xong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-account paid\n-received"
+      }
+    ]
+  },
+  {
+    "word": "đã mã hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-coded"
+      }
+    ]
+  },
+  {
+    "word": "đã nghiền sơ bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-beaten"
+      }
+    ]
+  },
+  {
+    "word": "đãi nghĩa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãi nghĩa\n-Great duty (toward the nation,societỵ..); great cause"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đãi nghĩa\n- Great duty (toward the nation,societỵ..); great cause"
+      }
+    ]
+  },
+  {
+    "word": "đã giao (hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-delivered"
+      }
+    ]
+  },
+  {
+    "word": "đãng tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãng tính\n-Unconcerned, indifferent to what going on about one"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đãng tính\n- Unconcerned, indifferent to what going on about one"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unconcerned, indifferent to what going on about one"
+      }
+    ]
+  },
+  {
+    "word": "đã xem và đồng ý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inspected-approved"
+      }
+    ]
+  },
+  {
+    "word": "đã sử dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spent"
+      }
+    ]
+  },
+  {
+    "word": "đã silic hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-silicified"
+      }
+    ]
+  },
+  {
+    "word": "đã được thăm dò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-proved\n-proven"
+      }
+    ]
+  },
+  {
+    "word": "đã bốc dỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unshipped"
+      }
+    ]
+  },
+  {
+    "word": "đã xác nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-confirmed"
+      }
+    ]
+  },
+  {
+    "word": "đã ký",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-signed\n@Chuyên ngành kỹ thuật\n-signed"
+      }
+    ]
+  },
+  {
+    "word": "đã phải",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "had to"
+      }
+    ]
+  },
+  {
+    "word": "đã chia độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-graduated"
+      }
+    ]
+  },
+  {
+    "word": "đã đến lúc để",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the time came to (do sth)"
+      }
+    ]
+  },
+  {
+    "word": "đã cạn thải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-exhausted"
+      }
+    ]
+  },
+  {
+    "word": "đã nhận cổ phần quá nhiều",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fully subscribed"
+      }
+    ]
+  },
+  {
+    "word": "đã dùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hand"
+      }
+    ]
+  },
+  {
+    "word": "đã bão hòa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-saturated"
+      }
+    ]
+  },
+  {
+    "word": "đã từng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(past perfect marker)"
+      }
+    ]
+  },
+  {
+    "word": "đã chế biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-processed"
+      }
+    ]
+  },
+  {
+    "word": "đã lên men",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fermented"
+      }
+    ]
+  },
+  {
+    "word": "đã định cỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-graded by size\n@Chuyên ngành kỹ thuật\n-calibrated"
+      }
+    ]
+  },
+  {
+    "word": "đãy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãy [đãy]\n-sack; kit-bag"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sack, kit-bag"
+      }
+    ]
+  },
+  {
+    "word": "đã tiếp nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
+      }
+    ]
+  },
+  {
+    "word": "đã trưng bày lâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shop-soiled"
+      }
+    ]
+  },
+  {
+    "word": "đã khoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drilled"
+      }
+    ]
+  },
+  {
+    "word": "đã đọc và chuẩn y",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-read and approved"
+      }
+    ]
+  },
+  {
+    "word": "đã được đơn giản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simplified"
+      }
+    ]
+  },
+  {
+    "word": "đã gắn kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cemented"
+      }
+    ]
+  },
+  {
+    "word": "đã khoét lỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-holed"
+      }
+    ]
+  },
+  {
+    "word": "đã tới lúc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the time has come"
+      }
+    ]
+  },
+  {
+    "word": "đã loãng đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rarefied"
+      }
+    ]
+  },
+  {
+    "word": "đã ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rated\n-registered"
+      }
+    ]
+  },
+  {
+    "word": "đã xác nhận trả (bảo chi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-confirmed"
+      }
+    ]
+  },
+  {
+    "word": "đã lâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã lâu\n*adverb\n-long ago; a long time ago"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã lâu\n* adverb\n-long ago; a long time ago"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have been a long time (since sth)"
+      }
+    ]
+  },
+  {
+    "word": "đã đăng vào giá biểu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-listed"
+      }
+    ]
+  },
+  {
+    "word": "đã hợp lý hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rationalized"
+      }
+    ]
+  },
+  {
+    "word": "đã phân loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-classified\n-sifted coal"
+      }
+    ]
+  },
+  {
+    "word": "đã dỡ xuống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dismounted"
+      }
+    ]
+  },
+  {
+    "word": "đã qua tuyển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cleaned coal"
+      }
+    ]
+  },
+  {
+    "word": "đã hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-unavailable"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be gone, be past, be over, finish doing (sth)"
+      }
+    ]
+  },
+  {
+    "word": "đã làm khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dried"
+      }
+    ]
+  },
+  {
+    "word": "đã xem hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-as inspected"
+      }
+    ]
+  },
+  {
+    "word": "đã xuống bến (khách)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unshipped"
+      }
+    ]
+  },
+  {
+    "word": "đã bay hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-vaporized"
+      }
+    ]
+  },
+  {
+    "word": "đã sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-graded coal\n@Lĩnh vực: hóa học & vật liệu\n-screened"
+      }
+    ]
+  },
+  {
+    "word": "đã hoàn thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-finished"
+      }
+    ]
+  },
+  {
+    "word": "đã ký kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-signatory"
+      }
+    ]
+  },
+  {
+    "word": "đã được ghi rõ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-specified"
+      }
+    ]
+  },
+  {
+    "word": "đã kết tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-crystallizable"
+      }
+    ]
+  },
+  {
+    "word": "đã được rút ngắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-curtailed"
+      }
+    ]
+  },
+  {
+    "word": "đã nộp thuế (hải quan)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-duty-paid"
+      }
+    ]
+  },
+  {
+    "word": "đã được chấp nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
+      }
+    ]
+  },
+  {
+    "word": "đã làm lạnh bằng nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-water cooled"
+      }
+    ]
+  },
+  {
+    "word": "đã trả thuế, miễn thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax paid"
+      }
+    ]
+  },
+  {
+    "word": "đã nút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-plugged"
+      }
+    ]
+  },
+  {
+    "word": "đã cho phép cất cánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cleared for takeoff"
+      }
+    ]
+  },
+  {
+    "word": "đã hết hiệu lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expire\n-expired"
+      }
+    ]
+  },
+  {
+    "word": "đã tuyệt bản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-out-of-print"
+      }
+    ]
+  },
+  {
+    "word": "đã vô trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-sterilized"
+      }
+    ]
+  },
+  {
+    "word": "đã đăng ký trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Reserved (RES)"
+      }
+    ]
+  },
+  {
+    "word": "đã hỗn hống hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-amalgamated"
+      }
+    ]
+  },
+  {
+    "word": "đã qua kiểm tra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-passed muster"
+      }
+    ]
+  },
+  {
+    "word": "đã trả phí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-charges paid"
+      }
+    ]
+  },
+  {
+    "word": "đã xác định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-proved\n-proven"
+      }
+    ]
+  },
+  {
+    "word": "đã trả dứt khi đáo hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-be paid in full at appointed time"
+      }
+    ]
+  },
+  {
+    "word": "đã nêu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "aforementioned"
+      }
+    ]
+  },
+  {
+    "word": "đã được lập trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-programmed"
+      }
+    ]
+  },
+  {
+    "word": "đã kể trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-above-mentioned"
+      }
+    ]
+  },
+  {
+    "word": "đã tách phần ngọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-topped"
+      }
+    ]
+  },
+  {
+    "word": "đã dùng hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-depleted"
+      }
+    ]
+  },
+  {
+    "word": "đã hiệu chỉnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-calibrated"
+      }
+    ]
+  },
+  {
+    "word": "đã lắng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deposited"
+      }
+    ]
+  },
+  {
+    "word": "đã có một lần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "once, at one time"
+      }
+    ]
+  },
+  {
+    "word": "đã xử lý sơ bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-prepared"
+      }
+    ]
+  },
+  {
+    "word": "đã tiếp địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-earthed"
+      }
+    ]
+  },
+  {
+    "word": "đã ghi vào sổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-registered"
+      }
+    ]
+  },
+  {
+    "word": "đã quá hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-out-of-date"
+      }
+    ]
+  },
+  {
+    "word": "đã pha trộn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-amalgamized"
+      }
+    ]
+  },
+  {
+    "word": "đã đời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quá hả hê, thoả sức, không còn thèm muốn gì thêm nữa\nVí dụ:\n- nhậu một bữa thật đã đời"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã đời\n-To [the point of] satiety\n=Ăn chơi đã đời\n+To indulge in pleasure to satiety"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã đời\n- To [the point of] satiety\n=Ăn chơi đã đời+To indulge in pleasure to satiety"
+      }
+    ]
+  },
+  {
+    "word": "đã dùng hết (kim ngạch các phiếu khoán)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-exhausted"
+      }
+    ]
+  },
+  {
+    "word": "đã phân loại theo phẩm chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-graded by quality"
+      }
+    ]
+  },
+  {
+    "word": "đã lắp vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-built-in"
+      }
+    ]
+  },
+  {
+    "word": "đã làm nguội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cooled"
+      }
+    ]
+  },
+  {
+    "word": "đã thèm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đã thèm\n-Satiate one\"s yearning (for drinks...)\n=Uống ba cốc bia lớn cho đã thèm\n+To satiateone\"s yearning for a drink with tree big glasses of beer"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đã thèm\n- Satiate one's yearning (for drinks...)\n=Uống ba cốc bia lớn cho đã thèm+To satiateone's yearning for a drink with tree big glasses of beer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to satiate; satiated"
+      }
+    ]
+  },
+  {
+    "word": "đãng trí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không tập trung chú ý vào công việc, do mải nghĩ về những việc khác hoặc do bệnh lí\nVí dụ:\n- tính hay đãng trí"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đãng trí\n-Absent-minded"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đãng trí\n- Absent-minded"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "absent-minded"
+      }
+    ]
+  },
+  {
+    "word": "đã đóng rắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-solidified"
+      }
+    ]
+  },
+  {
+    "word": "đã qua đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expired cost\n-expired expense"
+      }
+    ]
+  },
+  {
+    "word": "đã loại bỏ nhân tố lạm phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inflation factor excluded"
+      }
+    ]
+  },
+  {
+    "word": "đã dùng rồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-used"
+      }
+    ]
+  },
+  {
+    "word": "đã tinh luyện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-affined"
+      }
+    ]
+  },
+  {
+    "word": "đã chấp nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accepted"
+      }
+    ]
+  },
+  {
+    "word": "đã đánh dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tagged"
       }
     ]
   }

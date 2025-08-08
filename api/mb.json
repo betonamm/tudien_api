@@ -1,5 +1,18 @@
 [
   {
+    "word": "mb",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "megabyte [viết tắt]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-megabyte (MB)"
+      }
+    ]
+  },
+  {
     "word": "mbit",
     "definitions": [
       {
@@ -14,19 +27,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-MBE (molecular-beam expitaxy)"
-      }
-    ]
-  },
-  {
-    "word": "mb",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "megabyte [viết tắt]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-megabyte (MB)"
       }
     ]
   }

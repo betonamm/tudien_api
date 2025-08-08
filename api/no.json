@@ -1,10 +1,84 @@
 [
   {
-    "word": "non một thế ky",
+    "word": "nocbocnadien",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-norbornadiene"
+      }
+    ]
+  },
+  {
+    "word": "non choẹt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[vẻ mặt, giọng nói] quá non trẻ, chưa từng trải [hàm ý coi thường]\nVí dụ:\n- mặt non choẹt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@non choẹt\n- Nói người còn ít tưổi lắm: Mặt còn non choẹt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non choẹt [non choẹt]\n-xem\n-green youth, greenhorn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "green youth, greenhorn"
+      }
+    ]
+  },
+  {
+    "word": "nocbocnan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-norbornane"
+      }
+    ]
+  },
+  {
+    "word": "non yếu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "non trẻ và yếu ớt\nVí dụ:\n- nền công nghiệp non yếu \n - đối thủ non yếu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non yếu [non yếu]\n-weak"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "weak"
+      }
+    ]
+  },
+  {
+    "word": "noong luống",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Noong Luống\n- (xã) h. Điện Biên, t. Lai Châu"
+      }
+    ]
+  },
+  {
+    "word": "noãn cuối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epicoele"
+      }
+    ]
+  },
+  {
+    "word": "noi gương các anh hùng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "just under a century"
+        "dict_definition": "to follow the examples of heroes"
       }
     ]
   },
@@ -38,97 +112,96 @@
     ]
   },
   {
-    "word": "nonan",
+    "word": "notify-một giao thức điều khiển cổng phương tiện (mgcp)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-noname"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-A Media Gateway Control Protocol (MGCP) (NOTIFY)"
       }
     ]
   },
   {
-    "word": "nong nóng",
+    "word": "noãn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hơi nóng\nVí dụ:\n- trán hơi nong nóng"
+        "dict_definition": "bộ phận hình trứng ở trong bầu nhuỵ hoa, về sau phát triển thành hạt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@noãn\n- d. Bộ phận ở thực vật bậc cao, về sau biến thành hạt."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nong nóng\n-xem nóng (láy)"
+        "dict_definition": "@noãn\n-(sinh vật) Ovule\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovule"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nong nóng\n- xem nóng (láy)"
-      }
-    ]
-  },
-  {
-    "word": "noi gương các anh hùng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to follow the examples of heroes"
-      }
-    ]
-  },
-  {
-    "word": "non (đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-immature"
-      }
-    ]
-  },
-  {
-    "word": "noi theo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@noi theo\n- Nh. Noi, ngh. 2: Noi theo cán bộ cách mạng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@noi theo [noi theo]\n-xem"
+        "dict_definition": "@noãn\n- (sinh vật) Ovule"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to follow"
+        "dict_definition": "ovule"
       }
     ]
   },
   {
-    "word": "non non",
+    "word": "noctupit",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non non\n- Hơi dưới mức thường: Nhuộm non non."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@non non [non non]\n-xem"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-northupite"
       }
     ]
   },
   {
-    "word": "non choẹt",
+    "word": "nong đầu phình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bulbous bougle"
+      }
+    ]
+  },
+  {
+    "word": "nong",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[vẻ mặt, giọng nói] quá non trẻ, chưa từng trải [hàm ý coi thường]\nVí dụ:\n- mặt non choẹt"
+        "dict_definition": "đồ đan khít bằng tre, to hơn nia, lòng rộng và nông, dùng để phơi, đựng\nVí dụ:\n- nong tằm \n - phơi chè trên nong"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cho một vật vào trong một vật rỗng để dùng lực ép từ bên trong làm cho vật đó rộng ra\nVí dụ:\n- nong ống \n - nong khung xe đạp \n - nong động mạch vành"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "luồn cho vào hẳn bên trong\nVí dụ:\n- nong chân vào giầy"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non choẹt\n- Nói người còn ít tưổi lắm: Mặt còn non choẹt."
+        "dict_definition": "@nong\n- d. Đồ đan hình tròn, lòng nông, giống như cái nia, nhưng to hơn, thường dùng để phơi thóc, ngô.\n- đg. 1. Lèn một vật vào trong một vật khác để làm cho vật thứ hai này rộng ra: Nong giày. 2. Lồng vào, cho vào: Khung có nong kính. 3. Cố gắng đến mức cao: Nong sức."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@non choẹt [non choẹt]\n-xem\n-green youth, greenhorn"
+        "dict_definition": "@nong\n-Broad flat drying basket\n=Phơi thóc vào nong\n+To put out rice to dry on broad flat drying baskets\n-Stretch\n=Nong đôi giày chật\n+To stretch a tight pair of shoes\n-Insert\n=Khung có nong kính\n+A frame inserted with glass"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nong\n- Broad flat drying basket\n=Phơi thóc vào nong+To put out rice to dry on broad flat drying baskets\n-Stretch\n=Nong đôi giày chật+To stretch a tight pair of shoes\n-Insert\n=Khung có nong kính+A frame inserted with glass"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "green youth, greenhorn"
+        "dict_definition": "broad flat drying basket"
+      }
+    ]
+  },
+  {
+    "word": "notebook",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[A: notebook computer, nói tắt] máy tính xách tay loại hiện đại [nhỏ như quyển sách]"
       }
     ]
   },
@@ -158,179 +231,111 @@
     ]
   },
   {
-    "word": "nonoza",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nonose"
-      }
-    ]
-  },
-  {
-    "word": "non trẻ",
+    "word": "non nước",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "còn rất trẻ, vừa mới lớn, chưa đủ già dặn\nVí dụ:\n- khuôn mặt non trẻ \n - bộ óc non trẻ \n - tuổi đời còn quá non trẻ"
+        "dict_definition": "như nước non\nVí dụ:\n- non nước hữu tình \n - \"Tóc thề đã chấm ngang vai, Nào lời non nước, nào lời sắt son?\" (TKiều)"
       },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở giai đoạn mới xây dựng, chưa phát triển đầy đủ\nVí dụ:\n- nền công nghiệp non trẻ \n - một nhà máy non trẻ"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@non nước\n- d. (vch.). Như nước non1."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@non trẻ\n-Of tender age\n-Young\n=Nền công nghiệp non trẻ\n+Young industry"
+        "dict_definition": "@non nước\n*noun\n-fatherland"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@non trẻ\n- Of tender age\n-Young\n=Nền công nghiệp non trẻ+Young industry"
+        "dict_definition": "@non nước\n* noun\n- fatherland"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "infancy, of tender age-young"
+        "dict_definition": "fatherland"
       }
     ]
   },
   {
-    "word": "nong lỗ ổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bearinggizing"
-      }
-    ]
-  },
-  {
-    "word": "noong luống",
+    "word": "noong",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Noong Luống\n- (xã) h. Điện Biên, t. Lai Châu"
+        "dict_definition": "@Noong\n- (La-oang) Tên gọi một nhóm nhỏ của dân tộc Ra-glai"
       }
     ]
   },
   {
-    "word": "non nớt",
+    "word": "nocnicotin",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quá non, quá yếu [nói khái quát]\nVí dụ:\n- tuổi còn non nớt \n - trình độ lí luận còn non nớt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non nớt\n- t. 1. Chưa đủ lớn: Lứa mèo còn non nớt, còn bú mẹ chưa nuôi được bằng cơm. 2. Còn thấp so với mức trung bình: Nét vẽ non nớt."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nornicotine"
+      }
+    ]
+  },
+  {
+    "word": "non-contributory pension scheme",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@non nớt\n-Young, tender, green\n=Con cái còn non nớt\n+to have still young children. Immature"
-      },
+        "dict_definition": "@Chuyên ngành kinh tế\n-non-contributory pension plan"
+      }
+    ]
+  },
+  {
+    "word": "nong ống",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@non nớt\n- Young, tender, green\n=Con cái còn non nớt+to have still young children. Immature"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-casing expander\n-tube expander"
+      }
+    ]
+  },
+  {
+    "word": "noãn sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@noãn sinh [noãn sinh]\n-(thực vật) Ovary, oviparous"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "young, tender, green"
+        "dict_definition": "ovary, oviparous"
       }
     ]
   },
   {
-    "word": "no2-c6h4ch3",
+    "word": "no lòng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nitrotoluene"
-      }
-    ]
-  },
-  {
-    "word": "noãn thực vật (thểgiao tử)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oophyte"
-      }
-    ]
-  },
-  {
-    "word": "nong đầu phình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bulbous bougle"
-      }
-    ]
-  },
-  {
-    "word": "noi gót",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@noi gót\n- Bắt chước người trước hoặc người hơn mình: Noi gót người xưa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@noi gót\n-Follow the example of, tread in the steps of\n=noi gương các anh hùng\n+To follow the examples of heroes"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@noi gót\n- Follow the example of, tread in the steps of\n=noi gương các anh hùng+To follow the examples of heroes"
+        "dict_definition": "@no lòng [no lòng]\n-be full"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "follow the example of, tread in the steps of"
+        "dict_definition": "be full"
       }
     ]
   },
   {
-    "word": "noãn chính, tế bào noãn",
+    "word": "nong rộng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ootid"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-to spin in\n-to spin over"
       }
     ]
   },
   {
-    "word": "no tròn",
+    "word": "noãn sào",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có dáng hình căng tròn, đầy đặn\nVí dụ:\n- cái bụng no tròn \n - thân hình no tròn"
+        "dict_name": "SPDict",
+        "dict_definition": "@noãn sào [noãn sào]\n-ovary"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "full, ample"
-      }
-    ]
-  },
-  {
-    "word": "nong và nạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dilatation and curetatage"
-      }
-    ]
-  },
-  {
-    "word": "non gan",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thiếu can đảm, hay sợ\nVí dụ:\n- đồ non gan!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non gan\n- Không đủ bạo dạn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@non gan [non gan]\n-Not bold enough , somewhat  chicken-hearted , be a chicken"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "not bold enough, somewhat chicken-hearted, be a chicken"
+        "dict_definition": "ovary"
       }
     ]
   },
@@ -376,165 +381,33 @@
     ]
   },
   {
-    "word": "nocnacxein",
+    "word": "noãn thực vật (thểgiao tử)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nornarceine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oophyte"
       }
     ]
   },
   {
-    "word": "noãn hoàng",
+    "word": "nocolit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@noãn hoàng [noãn hoàng]\n-(sinh vật) Citellus.\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-yolk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-niccolite"
+      }
+    ]
+  },
+  {
+    "word": "non dại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non dại [non dại]\n-(ít dùng) Of tender age."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "citellus"
-      }
-    ]
-  },
-  {
-    "word": "noãn hoàn ở một cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-telolecithal"
-      }
-    ]
-  },
-  {
-    "word": "noãn sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@noãn sinh [noãn sinh]\n-(thực vật) Ovary, oviparous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ovary, oviparous"
-      }
-    ]
-  },
-  {
-    "word": "noãn bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@noãn bào\n-(sinh vật) Oocyte"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@noãn bào\n- (sinh vật) Oocyte"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "oocyte"
-      }
-    ]
-  },
-  {
-    "word": "notify-một giao thức điều khiển cổng phương tiện (mgcp)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-A Media Gateway Control Protocol (MGCP) (NOTIFY)"
-      }
-    ]
-  },
-  {
-    "word": "noãn (tế bào trứng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovum"
-      }
-    ]
-  },
-  {
-    "word": "nong rộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-to spin in\n-to spin over"
-      }
-    ]
-  },
-  {
-    "word": "non mã",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non mã\n- tức núi Mã Ngôi, nơi Đường Minh Hoàng buộc lòng phải giết Dương Quý Phi theo nguyện vọng của quân sĩ"
-      }
-    ]
-  },
-  {
-    "word": "noong",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Noong\n- (La-oang) Tên gọi một nhóm nhỏ của dân tộc Ra-glai"
-      }
-    ]
-  },
-  {
-    "word": "nong nả",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nong nả\n- Hăm hở cố sức: Nong nả đua bơi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nong nả\n-Exert oneself to the utmost\n=Nong nả đua chen\n+To exert oneself to the utmost and compete sharply"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nong nả\n- Exert oneself to the utmost\n=Nong nả đua chen+To exert oneself to the utmost and compete sharply"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "exert oneself to the utmost"
-      }
-    ]
-  },
-  {
-    "word": "noctupit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-northupite"
-      }
-    ]
-  },
-  {
-    "word": "nong long",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nong Long\n- (xã) h. Thuận Châu, t. Sơn La"
-      }
-    ]
-  },
-  {
-    "word": "noãn sào, tế bào trứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oocyte"
-      }
-    ]
-  },
-  {
-    "word": "notebook",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[A: notebook computer, nói tắt] máy tính xách tay loại hiện đại [nhỏ như quyển sách]"
+        "dict_definition": "of tender age"
       }
     ]
   },
@@ -548,24 +421,215 @@
     ]
   },
   {
-    "word": "noãn sào",
+    "word": "nong nhỏ, nong hình sợi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@noãn sào [noãn sào]\n-ovary"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ovary"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fillform bougle"
       }
     ]
   },
   {
-    "word": "non đào",
+    "word": "nong và nạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dilatation and curetatage"
+      }
+    ]
+  },
+  {
+    "word": "no say",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@no say [no say]\n-eat and drink well"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "eat and drink well"
+      }
+    ]
+  },
+  {
+    "word": "nocnacxein",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nornarceine"
+      }
+    ]
+  },
+  {
+    "word": "nong long",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Non Đào\n- Sách Liệt tiên truyện chép ở huyện Nga My, tỉnh Tứ xuyên có núi My Sơn có lắm cây Đào, ăn quả của nó sẽ được sống lâu và thành tiên"
+        "dict_definition": "@Nong Long\n- (xã) h. Thuận Châu, t. Sơn La"
+      }
+    ]
+  },
+  {
+    "word": "no2c6h4ch3",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nitrophenol"
+      }
+    ]
+  },
+  {
+    "word": "nonot",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nonode"
+      }
+    ]
+  },
+  {
+    "word": "noel",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lễ kỉ niệm ngày sinh chúa Jesus [25 tháng mười hai dương lịch], theo Kitô giáo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lễ kỉ niệm ngày sinh chúa Jesus [25 tháng mười hai dương lịch], theo Kitô giáo"
+      }
+    ]
+  },
+  {
+    "word": "noi theo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@noi theo\n- Nh. Noi, ngh. 2: Noi theo cán bộ cách mạng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@noi theo [noi theo]\n-xem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to follow"
+      }
+    ]
+  },
+  {
+    "word": "no bụng đói con mắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@no bụng đói con mắt [no bụng đói con mắt]\n-somebody\"s eyes are bigger than is stomach"
+      }
+    ]
+  },
+  {
+    "word": "non gan",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thiếu can đảm, hay sợ\nVí dụ:\n- đồ non gan!"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@non gan\n- Không đủ bạo dạn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non gan [non gan]\n-Not bold enough , somewhat  chicken-hearted , be a chicken"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "not bold enough, somewhat chicken-hearted, be a chicken"
+      }
+    ]
+  },
+  {
+    "word": "noong bua",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Noong Bua\n- (phường) tx. Điện Biên, t. Lai Châu"
+      }
+    ]
+  },
+  {
+    "word": "no nê",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "no tới mức hoàn toàn thoả mãn\nVí dụ:\n- ăn uống no nê \n - chén no nê \n - đánh một giấc no nê (kng; ngủ đẫy giấc)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@no nê\n- No nói chung: ăn uống no nê."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@no nê\n-To satiety\n=Ăn no nê\n+To eat to satiety"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@no nê\n- To satiety\n=Ăn no nê+To eat to satiety"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "full (of food)"
+      }
+    ]
+  },
+  {
+    "word": "noong hẹt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Noong Hẹt\n- (xã) h. Điện Biên, t. Lai Châu"
+      }
+    ]
+  },
+  {
+    "word": "non nớt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quá non, quá yếu [nói khái quát]\nVí dụ:\n- tuổi còn non nớt \n - trình độ lí luận còn non nớt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@non nớt\n- t. 1. Chưa đủ lớn: Lứa mèo còn non nớt, còn bú mẹ chưa nuôi được bằng cơm. 2. Còn thấp so với mức trung bình: Nét vẽ non nớt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non nớt\n-Young, tender, green\n=Con cái còn non nớt\n+to have still young children. Immature"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@non nớt\n- Young, tender, green\n=Con cái còn non nớt+to have still young children. Immature"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "young, tender, green"
+      }
+    ]
+  },
+  {
+    "word": "noãn tương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovoplasm"
+      }
+    ]
+  },
+  {
+    "word": "noãn thụ tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spermatovum"
       }
     ]
   },
@@ -595,41 +659,6 @@
     ]
   },
   {
-    "word": "nocmocphin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normorphine"
-      }
-    ]
-  },
-  {
-    "word": "noãn thụ tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spermatovum"
-      }
-    ]
-  },
-  {
-    "word": "non yếu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "non trẻ và yếu ớt\nVí dụ:\n- nền công nghiệp non yếu \n - đối thủ non yếu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@non yếu [non yếu]\n-weak"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "weak"
-      }
-    ]
-  },
-  {
     "word": "no đủ",
     "definitions": [
       {
@@ -655,79 +684,108 @@
     ]
   },
   {
-    "word": "noi gương",
+    "word": "non (đá)",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@noi gương\n- Bắt chước người có đức, có tài: Noi gương các liệt sĩ cách mạng."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@noi gương [noi gương]\n-to take somebody as one\"s model;  to model oneself on somebody;  to follow somebody\"s example"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to imitate, emulate; to follow an example"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-immature"
       }
     ]
   },
   {
-    "word": "noãn",
+    "word": "non mã",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@non mã\n- tức núi Mã Ngôi, nơi Đường Minh Hoàng buộc lòng phải giết Dương Quý Phi theo nguyện vọng của quân sĩ"
+      }
+    ]
+  },
+  {
+    "word": "nocmocphin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normorphine"
+      }
+    ]
+  },
+  {
+    "word": "noãn sào, tế bào trứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oocyte"
+      }
+    ]
+  },
+  {
+    "word": "noãn hoàn ngoại vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ectolecithal"
+      }
+    ]
+  },
+  {
+    "word": "nong hình trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cylindrical bougle"
+      }
+    ]
+  },
+  {
+    "word": "noãn hoàn ở một cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-telolecithal"
+      }
+    ]
+  },
+  {
+    "word": "noãn nang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oocyst"
+      }
+    ]
+  },
+  {
+    "word": "non tay",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ phận hình trứng ở trong bầu nhuỵ hoa, về sau phát triển thành hạt"
+        "dict_definition": "yếu kém về tay nghề, về bản lĩnh\nVí dụ:\n- nét vẽ còn non tay \n - \"Nước to sóng cả khôn chừng, Đã vào gian hiểm khuyên đừng non tay.\" (Cdao)"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@noãn\n- d. Bộ phận ở thực vật bậc cao, về sau biến thành hạt."
+        "dict_definition": "@non tay\n- Nói người chưa có đủ khả năng, chưa khéo léo: Vẽ còn non tay."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@noãn\n-(sinh vật) Ovule\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovule"
+        "dict_definition": "@non tay\n-Unskilled in drawing"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@noãn\n- (sinh vật) Ovule"
+        "dict_definition": "@non tay\n- Unskilled in drawing"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "ovule"
+        "dict_definition": "unskilled in drawing"
       }
     ]
   },
   {
-    "word": "nong luông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nong Luông\n- (xã) h. mai Châu, t. Hoà Bình"
-      }
-    ]
-  },
-  {
-    "word": "no say",
+    "word": "no nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@no say [no say]\n-eat and drink well"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "eat and drink well"
-      }
-    ]
-  },
-  {
-    "word": "nom dòm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "để ý nhìn để nhòm ngó, dò xét\nVí dụ:\n- bọn chúng hay nom dòm nhà người khác \n - mọi người nom dòm thái độ của nó"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như trông chừng\nVí dụ:\n- mày nom dòm nhà cửa cho bác"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water soaked\n-water-saturated"
       }
     ]
   },
@@ -741,159 +799,86 @@
     ]
   },
   {
-    "word": "nocbocnadien",
+    "word": "nong nả đua chen",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-norbornadiene"
-      }
-    ]
-  },
-  {
-    "word": "noong hẹt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Noong Hẹt\n- (xã) h. Điện Biên, t. Lai Châu"
-      }
-    ]
-  },
-  {
-    "word": "non bồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@non Bồng [non bồng]\n-Fairy mountain, fairyland."
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "fairy mountain, fairyland"
+        "dict_definition": "to exert oneself to the utmost and compete sharply"
       }
     ]
   },
   {
-    "word": "noong bua",
+    "word": "nong luông",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Noong Bua\n- (phường) tx. Điện Biên, t. Lai Châu"
+        "dict_definition": "@Nong Luông\n- (xã) h. mai Châu, t. Hoà Bình"
       }
     ]
   },
   {
-    "word": "node",
+    "word": "noi nghĩa ở nhân",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-node"
-      }
-    ]
-  },
-  {
-    "word": "no bụng đói con mắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@no bụng đói con mắt [no bụng đói con mắt]\n-somebody\"s eyes are bigger than is stomach"
-      }
-    ]
-  },
-  {
-    "word": "non bộ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "núi giả để làm cảnh\nVí dụ:\n- hòn non bộ"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non bộ\n- Núi giả để làm cảnh trong sân, vườn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@non bộ [non bộ]\n-rock-garden;  rock-work;  rockery"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rock-garden, rock-work, rockery"
+        "dict_definition": "@Noi nghĩa ở nhân\n- Mạnh Tử: \"Ngô nhân bất năng cư nhân do nghĩa vi chi tự khí giã. Nhân nhân chi an trạch giã. Nghĩa nghĩa chi chính lộ giã\" (Thân ta không thể ở vào chổ nhân, đi theo con đường nghĩa, gọi đó là mình tự bỏ mình. Nhân là nhà yên ấm của con người, Nghĩa là con đường chính của người)"
       }
     ]
   },
   {
-    "word": "non nớt, chưa chín, chưa trưởng thành",
+    "word": "novolac (nhựa)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-immature"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-novalac"
       }
     ]
   },
   {
-    "word": "nong hình roi",
+    "word": "noãn bào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-whip bougle"
-      }
-    ]
-  },
-  {
-    "word": "nong ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-casing expander\n-tube expander"
-      }
-    ]
-  },
-  {
-    "word": "nocfienđit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-northfieldite"
-      }
-    ]
-  },
-  {
-    "word": "nocolit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-niccolite"
-      }
-    ]
-  },
-  {
-    "word": "nong",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ đan khít bằng tre, to hơn nia, lòng rộng và nông, dùng để phơi, đựng\nVí dụ:\n- nong tằm \n - phơi chè trên nong"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cho một vật vào trong một vật rỗng để dùng lực ép từ bên trong làm cho vật đó rộng ra\nVí dụ:\n- nong ống \n - nong khung xe đạp \n - nong động mạch vành"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "luồn cho vào hẳn bên trong\nVí dụ:\n- nong chân vào giầy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nong\n- d. Đồ đan hình tròn, lòng nông, giống như cái nia, nhưng to hơn, thường dùng để phơi thóc, ngô.\n- đg. 1. Lèn một vật vào trong một vật khác để làm cho vật thứ hai này rộng ra: Nong giày. 2. Lồng vào, cho vào: Khung có nong kính. 3. Cố gắng đến mức cao: Nong sức."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nong\n-Broad flat drying basket\n=Phơi thóc vào nong\n+To put out rice to dry on broad flat drying baskets\n-Stretch\n=Nong đôi giày chật\n+To stretch a tight pair of shoes\n-Insert\n=Khung có nong kính\n+A frame inserted with glass"
+        "dict_definition": "@noãn bào\n-(sinh vật) Oocyte"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nong\n- Broad flat drying basket\n=Phơi thóc vào nong+To put out rice to dry on broad flat drying baskets\n-Stretch\n=Nong đôi giày chật+To stretch a tight pair of shoes\n-Insert\n=Khung có nong kính+A frame inserted with glass"
+        "dict_definition": "@noãn bào\n- (sinh vật) Oocyte"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "broad flat drying basket"
+        "dict_definition": "oocyte"
+      }
+    ]
+  },
+  {
+    "word": "no2-c6h4ch3",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nitrotoluene"
+      }
+    ]
+  },
+  {
+    "word": "not proviđe for",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-not sufficient funds"
+      }
+    ]
+  },
+  {
+    "word": "noãn hoàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@noãn hoàng [noãn hoàng]\n-(sinh vật) Citellus.\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-yolk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "citellus"
       }
     ]
   },
@@ -951,117 +936,112 @@
     ]
   },
   {
-    "word": "novolac (nhựa)",
+    "word": "nocfienđit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-novalac"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-northfieldite"
       }
     ]
   },
   {
-    "word": "non dại",
+    "word": "noãn (tế bào trứng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@non dại [non dại]\n-(ít dùng) Of tender age."
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovum"
+      }
+    ]
+  },
+  {
+    "word": "non bồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non Bồng [non bồng]\n-Fairy mountain, fairyland."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "of tender age"
+        "dict_definition": "fairy mountain, fairyland"
       }
     ]
   },
   {
-    "word": "noãn cầu",
+    "word": "no nao",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@no nao\n- nỏ biết lúc nào, chừng nào"
+      }
+    ]
+  },
+  {
+    "word": "node",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@noãn cầu [noãn cầu]\n-(sinh vật) Oosphere; ooplast"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-node"
+      }
+    ]
+  },
+  {
+    "word": "nong lỗ ổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bearinggizing"
+      }
+    ]
+  },
+  {
+    "word": "non non",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@non non\n- Hơi dưới mức thường: Nhuộm non non."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non non [non non]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "noi gót",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@noi gót\n- Bắt chước người trước hoặc người hơn mình: Noi gót người xưa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@noi gót\n-Follow the example of, tread in the steps of\n=noi gương các anh hùng\n+To follow the examples of heroes"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@noi gót\n- Follow the example of, tread in the steps of\n=noi gương các anh hùng+To follow the examples of heroes"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "oosphere, ooplast"
+        "dict_definition": "follow the example of, tread in the steps of"
       }
     ]
   },
   {
-    "word": "nocnicotin",
+    "word": "nong hình roi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nornicotine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-whip bougle"
       }
     ]
   },
   {
-    "word": "noãn hoàn ngoại vị",
+    "word": "non nớt, chưa chín, chưa trưởng thành",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ectolecithal"
-      }
-    ]
-  },
-  {
-    "word": "not enough, not sufficient",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-not sufficient funds"
-      }
-    ]
-  },
-  {
-    "word": "noãn tương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovoplasm"
-      }
-    ]
-  },
-  {
-    "word": "noel",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lễ kỉ niệm ngày sinh chúa Jesus [25 tháng mười hai dương lịch], theo Kitô giáo"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lễ kỉ niệm ngày sinh chúa Jesus [25 tháng mười hai dương lịch], theo Kitô giáo"
-      }
-    ]
-  },
-  {
-    "word": "nocbocnan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-norbornane"
-      }
-    ]
-  },
-  {
-    "word": "non ngày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@non ngày [non ngày]\n-Newly-born."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "newly-born"
-      }
-    ]
-  },
-  {
-    "word": "no2c6h4ch3",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nitrophenol"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-immature"
       }
     ]
   },
@@ -1095,15 +1075,6 @@
     ]
   },
   {
-    "word": "non-contributory pension scheme",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-non-contributory pension plan"
-      }
-    ]
-  },
-  {
     "word": "noãn nguyên bào",
     "definitions": [
       {
@@ -1113,47 +1084,72 @@
     ]
   },
   {
-    "word": "no nước",
+    "word": "nong nóng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hơi nóng\nVí dụ:\n- trán hơi nong nóng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nong nóng\n-xem nóng (láy)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nong nóng\n- xem nóng (láy)"
+      }
+    ]
+  },
+  {
+    "word": "nonoza",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water soaked\n-water-saturated"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nonose"
       }
     ]
   },
   {
-    "word": "nong nả đua chen",
+    "word": "non ngày",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@non ngày [non ngày]\n-Newly-born."
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to exert oneself to the utmost and compete sharply"
+        "dict_definition": "newly-born"
       }
     ]
   },
   {
-    "word": "no nao",
+    "word": "nocbecgit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-norbergite"
+      }
+    ]
+  },
+  {
+    "word": "noãn cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@noãn cầu [noãn cầu]\n-(sinh vật) Oosphere; ooplast"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "oosphere, ooplast"
+      }
+    ]
+  },
+  {
+    "word": "non đào",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@no nao\n- nỏ biết lúc nào, chừng nào"
-      }
-    ]
-  },
-  {
-    "word": "noãn nang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oocyst"
-      }
-    ]
-  },
-  {
-    "word": "not proviđe for",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-not sufficient funds"
+        "dict_definition": "@Non Đào\n- Sách Liệt tiên truyện chép ở huyện Nga My, tỉnh Tứ xuyên có núi My Sơn có lắm cây Đào, ăn quả của nó sẽ được sống lâu và thành tiên"
       }
     ]
   },
@@ -1175,144 +1171,122 @@
     ]
   },
   {
-    "word": "noãn cuối",
+    "word": "nong nả",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epicoele"
-      }
-    ]
-  },
-  {
-    "word": "no nê",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "no tới mức hoàn toàn thoả mãn\nVí dụ:\n- ăn uống no nê \n - chén no nê \n - đánh một giấc no nê (kng; ngủ đẫy giấc)"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@no nê\n- No nói chung: ăn uống no nê."
+        "dict_definition": "@nong nả\n- Hăm hở cố sức: Nong nả đua bơi."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@no nê\n-To satiety\n=Ăn no nê\n+To eat to satiety"
+        "dict_definition": "@nong nả\n-Exert oneself to the utmost\n=Nong nả đua chen\n+To exert oneself to the utmost and compete sharply"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@no nê\n- To satiety\n=Ăn no nê+To eat to satiety"
+        "dict_definition": "@nong nả\n- Exert oneself to the utmost\n=Nong nả đua chen+To exert oneself to the utmost and compete sharply"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "full (of food)"
+        "dict_definition": "exert oneself to the utmost"
       }
     ]
   },
   {
-    "word": "nong hình trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cylindrical bougle"
-      }
-    ]
-  },
-  {
-    "word": "nong nhỏ, nong hình sợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fillform bougle"
-      }
-    ]
-  },
-  {
-    "word": "nonot",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nonode"
-      }
-    ]
-  },
-  {
-    "word": "noi nghĩa ở nhân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Noi nghĩa ở nhân\n- Mạnh Tử: \"Ngô nhân bất năng cư nhân do nghĩa vi chi tự khí giã. Nhân nhân chi an trạch giã. Nghĩa nghĩa chi chính lộ giã\" (Thân ta không thể ở vào chổ nhân, đi theo con đường nghĩa, gọi đó là mình tự bỏ mình. Nhân là nhà yên ấm của con người, Nghĩa là con đường chính của người)"
-      }
-    ]
-  },
-  {
-    "word": "non tay",
+    "word": "non trẻ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "yếu kém về tay nghề, về bản lĩnh\nVí dụ:\n- nét vẽ còn non tay \n - \"Nước to sóng cả khôn chừng, Đã vào gian hiểm khuyên đừng non tay.\" (Cdao)"
+        "dict_definition": "còn rất trẻ, vừa mới lớn, chưa đủ già dặn\nVí dụ:\n- khuôn mặt non trẻ \n - bộ óc non trẻ \n - tuổi đời còn quá non trẻ"
       },
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non tay\n- Nói người chưa có đủ khả năng, chưa khéo léo: Vẽ còn non tay."
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở giai đoạn mới xây dựng, chưa phát triển đầy đủ\nVí dụ:\n- nền công nghiệp non trẻ \n - một nhà máy non trẻ"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@non tay\n-Unskilled in drawing"
+        "dict_definition": "@non trẻ\n-Of tender age\n-Young\n=Nền công nghiệp non trẻ\n+Young industry"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@non tay\n- Unskilled in drawing"
+        "dict_definition": "@non trẻ\n- Of tender age\n-Young\n=Nền công nghiệp non trẻ+Young industry"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "unskilled in drawing"
+        "dict_definition": "infancy, of tender age-young"
       }
     ]
   },
   {
-    "word": "nocbecgit",
+    "word": "not enough, not sufficient",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-norbergite"
+        "dict_definition": "@Chuyên ngành kinh tế\n-not sufficient funds"
       }
     ]
   },
   {
-    "word": "no lòng",
+    "word": "nonan",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@no lòng [no lòng]\n-be full"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be full"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-noname"
       }
     ]
   },
   {
-    "word": "non nước",
+    "word": "no tròn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như nước non\nVí dụ:\n- non nước hữu tình \n - \"Tóc thề đã chấm ngang vai, Nào lời non nước, nào lời sắt son?\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@non nước\n- d. (vch.). Như nước non1."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@non nước\n*noun\n-fatherland"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@non nước\n* noun\n- fatherland"
+        "dict_definition": "có dáng hình căng tròn, đầy đặn\nVí dụ:\n- cái bụng no tròn \n - thân hình no tròn"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "fatherland"
+        "dict_definition": "full, ample"
+      }
+    ]
+  },
+  {
+    "word": "non bộ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "núi giả để làm cảnh\nVí dụ:\n- hòn non bộ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@non bộ\n- Núi giả để làm cảnh trong sân, vườn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@non bộ [non bộ]\n-rock-garden;  rock-work;  rockery"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rock-garden, rock-work, rockery"
+      }
+    ]
+  },
+  {
+    "word": "non một thế ky",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "just under a century"
+      }
+    ]
+  },
+  {
+    "word": "nom dòm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "để ý nhìn để nhòm ngó, dò xét\nVí dụ:\n- bọn chúng hay nom dòm nhà người khác \n - mọi người nom dòm thái độ của nó"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như trông chừng\nVí dụ:\n- mày nom dòm nhà cửa cho bác"
       }
     ]
   },
@@ -1322,6 +1296,32 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normit"
+      }
+    ]
+  },
+  {
+    "word": "noãn chính, tế bào noãn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ootid"
+      }
+    ]
+  },
+  {
+    "word": "noi gương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@noi gương\n- Bắt chước người có đức, có tài: Noi gương các liệt sĩ cách mạng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@noi gương [noi gương]\n-to take somebody as one\"s model;  to model oneself on somebody;  to follow somebody\"s example"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to imitate, emulate; to follow an example"
       }
     ]
   }

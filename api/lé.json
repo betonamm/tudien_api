@@ -1,48 +1,44 @@
 [
   {
-    "word": "lép vế",
+    "word": "lép xép",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lép xép\n- Nh. Lép bép."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lép xép [lép xép]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "lép kẹp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chịu lép, chịu bị lấn át, chèn ép vì ở vào thế yếu\nVí dụ:\n- yếu thế nên đành chịu lép vế"
+        "dict_definition": "lép đến mức thấy như hoàn toàn không có gì ở trong\nVí dụ:\n- chiếc ba lô lép kẹp \n - bụng lép kẹp"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lép vế\n- ở địa vị kém và bị lấn át."
+        "dict_definition": "@lép kẹp\n- Nh. Lép, ngh.2: Bụng lép kẹp."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lép vế [lép vế]\n-b inferior (to in), yield (to)"
+        "dict_definition": "@lép kẹp [lép kẹp]\n-deflated, hollow, empty; (bụng lép kẹp)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "inferior"
+        "dict_definition": "deflated, hollow, empty"
       }
     ]
   },
   {
-    "word": "lé trên",
+    "word": "lé tuần hoàn (khi che mặt, mắt có chiều hướng quay theo chiều kim đồng hồ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypertropia"
-      }
-    ]
-  },
-  {
-    "word": "léo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@léo\n- đg. Vượt lên trên chỗ mà mình được ngồi: Thằng bé con dám léo lên nghế người lớn đang nói chuyện."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@léo [léo]\n-get (into), climb (into), ascend"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "get (into), climb (into), ascend"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cyclophoria"
       }
     ]
   },
@@ -72,23 +68,28 @@
     ]
   },
   {
-    "word": "lép kẹp",
+    "word": "léo",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lép đến mức thấy như hoàn toàn không có gì ở trong\nVí dụ:\n- chiếc ba lô lép kẹp \n - bụng lép kẹp"
-      },
-      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lép kẹp\n- Nh. Lép, ngh.2: Bụng lép kẹp."
+        "dict_definition": "@léo\n- đg. Vượt lên trên chỗ mà mình được ngồi: Thằng bé con dám léo lên nghế người lớn đang nói chuyện."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lép kẹp [lép kẹp]\n-deflated, hollow, empty; (bụng lép kẹp)"
+        "dict_definition": "@léo [léo]\n-get (into), climb (into), ascend"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "deflated, hollow, empty"
+        "dict_definition": "get (into), climb (into), ascend"
+      }
+    ]
+  },
+  {
+    "word": "lém lém",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lém lém\n- Nh. Lém: Nói lém lém; Lửa cháy lém lém vào rạ."
       }
     ]
   },
@@ -114,6 +115,15 @@
     ]
   },
   {
+    "word": "léo hánh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bén mảng\nVí dụ:\n- không dám léo hánh tới gần"
+      }
+    ]
+  },
+  {
     "word": "lém mép",
     "definitions": [
       {
@@ -127,20 +137,41 @@
     ]
   },
   {
-    "word": "léo lắt",
+    "word": "lép vế",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chịu lép, chịu bị lấn át, chèn ép vì ở vào thế yếu\nVí dụ:\n- yếu thế nên đành chịu lép vế"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@léo lắt\n- Nh. Lắt léo."
+        "dict_definition": "@lép vế\n- ở địa vị kém và bị lấn át."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lép vế [lép vế]\n-b inferior (to in), yield (to)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "inferior"
       }
     ]
   },
   {
-    "word": "lén vào",
+    "word": "lét chừng",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sneak into"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lét chừng\n- liếc mắt"
+      }
+    ]
+  },
+  {
+    "word": "lé tiềm tàng (thường thấy lúc một mắt bị che)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heterophoria"
       }
     ]
   },
@@ -191,256 +222,6 @@
     ]
   },
   {
-    "word": "léo xéo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả tiếng nói, tiếng gọi nghe thấy được từ xa\nVí dụ:\n- có tiếng léo xéo ngoài đường"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@léo xéo\n- Nh. Léo nhéo: Léo xéo như mõ réo quan viên (tng)."
-      }
-    ]
-  },
-  {
-    "word": "lét chừng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lét chừng\n- liếc mắt"
-      }
-    ]
-  },
-  {
-    "word": "lém lỉnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lém [nói khái quát]\nVí dụ:\n- ăn nói lém lỉnh \n - cái miệng lém lỉnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lém lỉnh\n- Nh. Lém, ngh.1: Thằng bé lém lỉnh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lém lỉnh [lém lỉnh]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "lép xép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lép xép\n- Nh. Lép bép."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lép xép [lép xép]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "lé ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-exotropia"
-      }
-    ]
-  },
-  {
-    "word": "léng phéng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có quan hệ không nghiêm túc, không đứng đắn [thường trong quan hệ nam nữ]\nVí dụ:\n- hai người léng phéng với nhau"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@léng phéng\n- Hay chàng màng phất phơ (thtục): Chẳng chịu học hành gì tối nào cũng léng phéng ngoài phố."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@léng phéng [léng phéng]\n-hang about"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hang about"
-      }
-    ]
-  },
-  {
-    "word": "lép nhép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng những tiếng nhỏ, không đều nhau, như tiếng chất dính và ướt liên tiếp bám vào rồi nhả ra khỏi vật cứng\nVí dụ:\n- mồm nhai lép nhép \n - tiếng bùn lép nhép ở dưới chân"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lép nhép\n- 1. Tiếng đi trên đường bùn lầy. 2. Tiếng nhai món ăn ướt và dai: Nhai kẹo mầm lép nhép."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lép nhép [lép nhép]\n-sticky"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sticky"
-      }
-    ]
-  },
-  {
-    "word": "lét đét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lét đét\n- Nh. Lẹt đẹt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lét đét [lét đét]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "lé mắt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to squint"
-      }
-    ]
-  },
-  {
-    "word": "lém lém",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lém lém\n- Nh. Lém: Nói lém lém; Lửa cháy lém lém vào rạ."
-      }
-    ]
-  },
-  {
-    "word": "léo nhéo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả tiếng gọi nhau hỗn độn liên tiếp từ xa, nghe to nhưng không rõ, gây cảm giác khó chịu\nVí dụ:\n- bọn trẻ léo nhéo gọi nhau"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@léo nhéo\n- Lèo xèo với giọng to: Léo nhéo đòi nợ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@léo nhéo [léo nhéo]\n-như\n-(of voice) rasping, shrill, sharp, piercing"
-      }
-    ]
-  },
-  {
-    "word": "lé tiềm tàng (thường thấy lúc một mắt bị che)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heterophoria"
-      }
-    ]
-  },
-  {
-    "word": "lén lút",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vụng trộm, giấu giếm, không để lộ ra\nVí dụ:\n- buôn bán lén lút \n - quan hệ lén lút với người đã có gia đình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lén lút\n- tt. Giấu giếm, vụng trộm, không công khai và có ý gian dối: mua bán lén lút những hàng cấm  Bọn gián điệp hoạt động lén lút  Một đám đông phụ nữ mới lên tàu (...) điệu bộ con buôn vừa nhâng nhâng hợm của, vừa lén lút gian giảo (Ma Văn Kháng)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lén lút\n*adv, tính từ stealthy ; stealthily ; sneaky ; sneakity\n@Chuyên ngành kinh tế\n-underhand"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lén lút\n* adv, tính từ stealthy ; stealthily ; sneaky ; sneakity"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "secretly, on the sly"
-      }
-    ]
-  },
-  {
-    "word": "lé tuần hoàn (khi che mặt, mắt có chiều hướng quay theo chiều kim đồng hồ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cyclophoria"
-      }
-    ]
-  },
-  {
-    "word": "léo nha léo nhéo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "léo nhéo mãi không thôi"
-      }
-    ]
-  },
-  {
-    "word": "léo hánh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bén mảng\nVí dụ:\n- không dám léo hánh tới gần"
-      }
-    ]
-  },
-  {
-    "word": "lét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lét\n- 1. đg. Liếc nhìn: Lét chừng sinh đã dần dà đến ngay (Hoa tiên). 2. d. Cái liếc mắt: Sóng thu một lét, hạt châu đôi hàng (Nhđm).\n\n@lét\n- tiếng cổ, liếc, hay dùng trong các truyện cũ \"Sóng thu một lét hữu tình (Hoàng Trừu). “Lét chừng, sinh đã dần dà đến ngay.”"
-      }
-    ]
-  },
-  {
-    "word": "lé",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[mắt nhìn] chếch về một phía, mi hơi khép lại [thường có vẻ sợ hãi hay gian xảo]\nVí dụ:\n- lé một mắt nhìn \n - lé mắt nhìn ra ngoài sân"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lác\nVí dụ:\n- bị lé mắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lé\n- 1 đg. (id.). Hiện ra và chiếu sáng. Ánh pháo sáng lé lên trong khoảnh khắc rồi tắt ngấm.\n- 2 t. 1 (Mắt nhìn) chếch về một phía, mi hơi khép lại (thường có vẻ sợ hãi hay gian xảo). Lé mắt nhìn. 2 (ph.). Lác. Mắt lé. // Láy: le lé (ng. 1; ý mức độ ít)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lé\n*adj\n-squint; cook-eyed\n=mắt lé\n+squint eyes\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-squint\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-high water"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lé\n* adj\n- squint; cook-eyed\n=mắt lé+squint eyes"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to squint"
-      }
-    ]
-  },
-  {
     "word": "lép",
     "definitions": [
       {
@@ -474,11 +255,230 @@
     ]
   },
   {
+    "word": "lén vào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sneak into"
+      }
+    ]
+  },
+  {
+    "word": "lé ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-exotropia"
+      }
+    ]
+  },
+  {
+    "word": "lém lỉnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lém [nói khái quát]\nVí dụ:\n- ăn nói lém lỉnh \n - cái miệng lém lỉnh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lém lỉnh\n- Nh. Lém, ngh.1: Thằng bé lém lỉnh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lém lỉnh [lém lỉnh]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "léo xéo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả tiếng nói, tiếng gọi nghe thấy được từ xa\nVí dụ:\n- có tiếng léo xéo ngoài đường"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@léo xéo\n- Nh. Léo nhéo: Léo xéo như mõ réo quan viên (tng)."
+      }
+    ]
+  },
+  {
+    "word": "lét đét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lét đét\n- Nh. Lẹt đẹt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lét đét [lét đét]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "lé mắt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to squint"
+      }
+    ]
+  },
+  {
+    "word": "léo lắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@léo lắt\n- Nh. Lắt léo."
+      }
+    ]
+  },
+  {
+    "word": "léo nha léo nhéo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "léo nhéo mãi không thôi"
+      }
+    ]
+  },
+  {
+    "word": "lép nhép",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng những tiếng nhỏ, không đều nhau, như tiếng chất dính và ướt liên tiếp bám vào rồi nhả ra khỏi vật cứng\nVí dụ:\n- mồm nhai lép nhép \n - tiếng bùn lép nhép ở dưới chân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lép nhép\n- 1. Tiếng đi trên đường bùn lầy. 2. Tiếng nhai món ăn ướt và dai: Nhai kẹo mầm lép nhép."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lép nhép [lép nhép]\n-sticky"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sticky"
+      }
+    ]
+  },
+  {
+    "word": "lé trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypertropia"
+      }
+    ]
+  },
+  {
+    "word": "léo nhéo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả tiếng gọi nhau hỗn độn liên tiếp từ xa, nghe to nhưng không rõ, gây cảm giác khó chịu\nVí dụ:\n- bọn trẻ léo nhéo gọi nhau"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@léo nhéo\n- Lèo xèo với giọng to: Léo nhéo đòi nợ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@léo nhéo [léo nhéo]\n-như\n-(of voice) rasping, shrill, sharp, piercing"
+      }
+    ]
+  },
+  {
+    "word": "lé",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[mắt nhìn] chếch về một phía, mi hơi khép lại [thường có vẻ sợ hãi hay gian xảo]\nVí dụ:\n- lé một mắt nhìn \n - lé mắt nhìn ra ngoài sân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lác\nVí dụ:\n- bị lé mắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lé\n- 1 đg. (id.). Hiện ra và chiếu sáng. Ánh pháo sáng lé lên trong khoảnh khắc rồi tắt ngấm.\n- 2 t. 1 (Mắt nhìn) chếch về một phía, mi hơi khép lại (thường có vẻ sợ hãi hay gian xảo). Lé mắt nhìn. 2 (ph.). Lác. Mắt lé. // Láy: le lé (ng. 1; ý mức độ ít)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lé\n*adj\n-squint; cook-eyed\n=mắt lé\n+squint eyes\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-squint\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-high water"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lé\n* adj\n- squint; cook-eyed\n=mắt lé+squint eyes"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to squint"
+      }
+    ]
+  },
+  {
+    "word": "lét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lét\n- 1. đg. Liếc nhìn: Lét chừng sinh đã dần dà đến ngay (Hoa tiên). 2. d. Cái liếc mắt: Sóng thu một lét, hạt châu đôi hàng (Nhđm).\n\n@lét\n- tiếng cổ, liếc, hay dùng trong các truyện cũ \"Sóng thu một lét hữu tình (Hoàng Trừu). “Lét chừng, sinh đã dần dà đến ngay.”"
+      }
+    ]
+  },
+  {
     "word": "lé dưới",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypotropia"
+      }
+    ]
+  },
+  {
+    "word": "léng phéng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có quan hệ không nghiêm túc, không đứng đắn [thường trong quan hệ nam nữ]\nVí dụ:\n- hai người léng phéng với nhau"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@léng phéng\n- Hay chàng màng phất phơ (thtục): Chẳng chịu học hành gì tối nào cũng léng phéng ngoài phố."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@léng phéng [léng phéng]\n-hang about"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hang about"
+      }
+    ]
+  },
+  {
+    "word": "lén lút",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vụng trộm, giấu giếm, không để lộ ra\nVí dụ:\n- buôn bán lén lút \n - quan hệ lén lút với người đã có gia đình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lén lút\n- tt. Giấu giếm, vụng trộm, không công khai và có ý gian dối: mua bán lén lút những hàng cấm  Bọn gián điệp hoạt động lén lút  Một đám đông phụ nữ mới lên tàu (...) điệu bộ con buôn vừa nhâng nhâng hợm của, vừa lén lút gian giảo (Ma Văn Kháng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lén lút\n*adv, tính từ stealthy ; stealthily ; sneaky ; sneakity\n@Chuyên ngành kinh tế\n-underhand"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lén lút\n* adv, tính từ stealthy ; stealthily ; sneaky ; sneakity"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "secretly, on the sly"
       }
     ]
   }

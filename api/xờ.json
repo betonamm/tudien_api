@@ -1,19 +1,23 @@
 [
   {
-    "word": "xờm ép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fin"
-      }
-    ]
-  },
-  {
     "word": "xờm",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@xờm\n*trạng từ\n-ruffled, dishevelled,  whose hair hangs loose and disordered\n@Chuyên ngành kỹ thuật\n-burr\n-flash\n-rag"
+      }
+    ]
+  },
+  {
+    "word": "xờ xạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xờ xạc\n*tính từ\n-fatigued, jadded, tired, run down, disordered, ruffled, in disorder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fatigued, jaded, tired, run down, disordered, ruffled, in"
       }
     ]
   },
@@ -48,15 +52,11 @@
     ]
   },
   {
-    "word": "xờ xạc",
+    "word": "xờm ép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xờ xạc\n*tính từ\n-fatigued, jadded, tired, run down, disordered, ruffled, in disorder"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fatigued, jaded, tired, run down, disordered, ruffled, in"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fin"
       }
     ]
   }

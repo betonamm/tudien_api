@@ -1,59 +1,5 @@
 [
   {
-    "word": "chặn, phong tỏa một tài khỏan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stop an account"
-      }
-    ]
-  },
-  {
-    "word": "chặn bằng bao cát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sandbag"
-      }
-    ]
-  },
-  {
-    "word": "chặt, cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting\n@Chuyên ngành kỹ thuật\n-cutting"
-      }
-    ]
-  },
-  {
-    "word": "chặt sít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-consistent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-consistent"
-      }
-    ]
-  },
-  {
-    "word": "chặn đóng bonologic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bornological\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bornological"
-      }
-    ]
-  },
-  {
-    "word": "chặn (ss7: trong isup)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Blocking (SS7:in ISUP) (BLO)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Blocking (SS7:in ISUP) (BLO)"
-      }
-    ]
-  },
-  {
     "word": "chặn đứng",
     "definitions": [
       {
@@ -75,321 +21,11 @@
     ]
   },
   {
-    "word": "chặn bóng",
+    "word": "chặng đường tính phí (chuyên chở)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chặn bóng [chặn bóng]\n-(bóng đá) to make a save;  to save a goal"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to make a save, save a goal"
-      }
-    ]
-  },
-  {
-    "word": "chặn mã zero",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Code Suppression (ZCS)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Code Suppression (ZCS)"
-      }
-    ]
-  },
-  {
-    "word": "chặt chẽ, ngặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-strict\n@Chuyên ngành kỹ thuật\n-strict"
-      }
-    ]
-  },
-  {
-    "word": "chặng sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-downline"
-      }
-    ]
-  },
-  {
-    "word": "chặn tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặn tay\n-To stay the hands of\n=chặn tay bọn hiếu chiến\n+to stay the hands of the warmongers"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặn tay\n- To stay the hands of\n=chặn tay bọn hiếu chiến+to stay the hands of the warmongers"
-      }
-    ]
-  },
-  {
-    "word": "chặn giấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặn giấy\n-Paper - weight"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặn giấy\n- Paper - weight"
-      }
-    ]
-  },
-  {
-    "word": "chặn giữ chi phiếu (không cho lãnh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stop payment of a cheque\n-stop payment of a cheque (to...)"
-      }
-    ]
-  },
-  {
-    "word": "chặc lưỡi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tặc lưỡi\nVí dụ:\n- tôi đã chặc lưỡi cho qua"
-      }
-    ]
-  },
-  {
-    "word": "chặt chẽ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gắn với nhau rất chặt [nói về cái trừu tượng]\nVí dụ:\n- phối hợp chặt chẽ \n - hệ thống chặt chẽ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không để rời khỏi sự theo dõi, không buông lỏng\nVí dụ:\n- chỉ đạo chặt chẽ \n - quản lí chặt chẽ mọi đối tượng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chặt chẽ\n- tt. 1. Có quan hệ khăng khít, gắn kết với nhau: phối hợp chặt chẽ  đoàn kết chặt chẽ với nhau. 2. Sát sao, nghiêm ngặt, không rời sự kiểm tra, theo dõi: bố trí canh gác chặt chẽ  chỉ đạo chặt chẽ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặt chẽ\n*adj\n-Close\n=phối hợp chặt chẽ\n+to coordinate closely\n=đoàn kết chặt chẽ\n+close solidarity\n=sự lãnh đạo chặt chẽ\n+close leadership\n=quản lý thị trường chặt chẽ\n+close control of the market\n@Chuyên ngành kinh tế\n-austerity"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặt chẽ\n* adj\n- Close\n=phối hợp chặt chẽ+to coordinate closely\n=đoàn kết chặt chẽ+close solidarity\n=sự lãnh đạo chặt chẽ+close leadership\n=quản lý thị trường chặt chẽ+close control of the market"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tight, close"
-      }
-    ]
-  },
-  {
-    "word": "chặn hậu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đi sau cùng để chặn địch\nVí dụ:\n- đem tinh binh đi chặn hậu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chặn đánh ở phía sau, khiến cho không thể rút chạy được\nVí dụ:\n- dẫn quân đi chặn hậu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặn hậu\n-To cut off the enemy\"s retreat"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặn hậu\n- To cut off the enemy's retreat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cut off the enemy’s retreat"
-      }
-    ]
-  },
-  {
-    "word": "chặn giữ tiền lương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stop wages\n-stop wages (to..)"
-      }
-    ]
-  },
-  {
-    "word": "chặt đẹp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chém đẹp\nVí dụ:\n- điểm giữ xe này đã chặt đẹp của tôi 10 nghìn đồng"
-      }
-    ]
-  },
-  {
-    "word": "chặm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chặm\n- đg. (ph.). Thấm từng ít một cho khô. Chặm nước mắt. Kéo vạt áo chặm mồ hôi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặm\n*verb\n-to sop up. to dab"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặm\n* verb\n- to sop up. to dab"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sop up, dab"
-      }
-    ]
-  },
-  {
-    "word": "chặng đường có tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loaded journey"
-      }
-    ]
-  },
-  {
-    "word": "chặn lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plug\n@Chuyên ngành kỹ thuật\n-arrest\n-contain\n-lock\n-obturate\n-plug\n-scotch\n@Chuyên ngành kỹ thuật\n-arrest\n-contain\n-lock\n-obturate\n-plug\n-scotch"
-      }
-    ]
-  },
-  {
-    "word": "chặn dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-impound\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-impound"
-      }
-    ]
-  },
-  {
-    "word": "chặn số nhận dạng cá nhân của thuê bao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Subscriber Personal Identification Number Intercept (SPINI)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Subscriber Personal Identification Number Intercept (SPINI)"
-      }
-    ]
-  },
-  {
-    "word": "chặt chịa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặt chịa [chặt chịa]\n-như"
-      }
-    ]
-  },
-  {
-    "word": "chặn họng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chặn ngang không cho nói ra, một cách thô bạo\nVí dụ:\n- họ chặn họng ông lão"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặn họng\n-To muzzle, to impose silence on (somebody)\n=nói chặn họng\n+to speak in such a way as to muzzle someone"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặn họng\n- To muzzle, to impose silence on (somebody)\n=nói chặn họng+to speak in such a way as to muzzle someone"
-      }
-    ]
-  },
-  {
-    "word": "chặt ngọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặt ngọn [chặt ngọn]\n-obtruncate"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cut the top off (a tree), (fig) beat to the punch"
-      }
-    ]
-  },
-  {
-    "word": "chặn tiến triển sảy thai không phát triển, thui",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abort\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abort"
-      }
-    ]
-  },
-  {
-    "word": "chặn tiến triển, không phát triển, thui, chột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abortive\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abortive"
-      }
-    ]
-  },
-  {
-    "word": "chặt khít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-close\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-close"
-      }
-    ]
-  },
-  {
-    "word": "chặt chẻ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-chop\n@Chuyên ngành kỹ thuật\n-chop"
-      }
-    ]
-  },
-  {
-    "word": "chặt vừa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-medium dense\n@Chuyên ngành kỹ thuật\n-medium dense"
-      }
-    ]
-  },
-  {
-    "word": "chặng xuôi gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-downwind leg\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-downwind leg"
-      }
-    ]
-  },
-  {
-    "word": "chặn đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặn đầu\n-Block (check) an advance\n=Đánh chặn đầu\n+To chack the enemy\"s advance"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặn đầu\n- Block (check) an advance\n=Đánh chặn đầu+To chack the enemy's advance"
+        "dict_definition": "@Chuyên ngành kinh tế\n-stage"
       }
     ]
   },
@@ -403,29 +39,29 @@
     ]
   },
   {
-    "word": "chặng đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stage"
-      }
-    ]
-  },
-  {
-    "word": "chặt, kín (không thấm nước, thoát hơi)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tight\n@Chuyên ngành kỹ thuật\n-tight"
-      }
-    ]
-  },
-  {
     "word": "chặn đóng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bornological\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bornological"
+      }
+    ]
+  },
+  {
+    "word": "chặt vừa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-medium dense\n@Chuyên ngành kỹ thuật\n-medium dense"
+      }
+    ]
+  },
+  {
+    "word": "chặt, cắt, xén",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-trim\n@Chuyên ngành kỹ thuật\n-trim"
       }
     ]
   },
@@ -475,29 +111,20 @@
     ]
   },
   {
-    "word": "chặn trung kế tạm thời",
+    "word": "chặn lại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Temporary Trunking Blocking (TTB)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Temporary Trunking Blocking (TTB)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-plug\n@Chuyên ngành kỹ thuật\n-arrest\n-contain\n-lock\n-obturate\n-plug\n-scotch\n@Chuyên ngành kỹ thuật\n-arrest\n-contain\n-lock\n-obturate\n-plug\n-scotch"
       }
     ]
   },
   {
-    "word": "chặt, cắt, xén",
+    "word": "chặng đường có tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-trim\n@Chuyên ngành kỹ thuật\n-trim"
-      }
-    ]
-  },
-  {
-    "word": "chặn tất cả các cuộc gọi đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Outgoing Calls (BAOC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Outgoing Calls (BAOC)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-loaded journey"
       }
     ]
   },
@@ -511,6 +138,121 @@
     ]
   },
   {
+    "word": "chặn đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặn đầu\n-Block (check) an advance\n=Đánh chặn đầu\n+To chack the enemy\"s advance"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặn đầu\n- Block (check) an advance\n=Đánh chặn đầu+To chack the enemy's advance"
+      }
+    ]
+  },
+  {
+    "word": "chặt sít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-consistent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-consistent"
+      }
+    ]
+  },
+  {
+    "word": "chặn tiến triển, không phát triển, thui, chột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abortive\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abortive"
+      }
+    ]
+  },
+  {
+    "word": "chặc lưỡi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tặc lưỡi\nVí dụ:\n- tôi đã chặc lưỡi cho qua"
+      }
+    ]
+  },
+  {
+    "word": "chặn bằng bao cát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sandbag"
+      }
+    ]
+  },
+  {
+    "word": "chặn họng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chặn ngang không cho nói ra, một cách thô bạo\nVí dụ:\n- họ chặn họng ông lão"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặn họng\n-To muzzle, to impose silence on (somebody)\n=nói chặn họng\n+to speak in such a way as to muzzle someone"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặn họng\n- To muzzle, to impose silence on (somebody)\n=nói chặn họng+to speak in such a way as to muzzle someone"
+      }
+    ]
+  },
+  {
+    "word": "chặn, phong tỏa một tài khỏan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stop an account"
+      }
+    ]
+  },
+  {
+    "word": "chặt ngọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặt ngọn [chặt ngọn]\n-obtruncate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cut the top off (a tree), (fig) beat to the punch"
+      }
+    ]
+  },
+  {
+    "word": "chặn (ss7: trong isup)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Blocking (SS7:in ISUP) (BLO)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Blocking (SS7:in ISUP) (BLO)"
+      }
+    ]
+  },
+  {
+    "word": "chặc chẽ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tight, close"
+      }
+    ]
+  },
+  {
+    "word": "chặt chẽ, ngặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-strict\n@Chuyên ngành kỹ thuật\n-strict"
+      }
+    ]
+  },
+  {
     "word": "chặn ngoài",
     "definitions": [
       {
@@ -520,60 +262,42 @@
     ]
   },
   {
-    "word": "chặt bằng rìu",
+    "word": "chặn đường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-axe\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-axe"
-      }
-    ]
-  },
-  {
-    "word": "chặn và đọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-to intercept and read (other people\"s email, e.g.)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-to intercept and read (other people\"s email, e.g.)"
-      }
-    ]
-  },
-  {
-    "word": "chặn tất cả các cuộc gọi đến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Incoming Calls (BAIC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Incoming Calls (BAIC)"
-      }
-    ]
-  },
-  {
-    "word": "chặn đứng (giá cả, hối suất...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-peg"
-      }
-    ]
-  },
-  {
-    "word": "chặt cây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cut down a tree"
-      }
-    ]
-  },
-  {
-    "word": "chặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặc\n*verb\n-To click (one\"s tongue)\n=chặc lưỡi chê bai\n+to click one\"s tongue scornfully"
+        "dict_definition": "@chặn đường [chặn đường]\n-to bar somebody\"s way;  to block somebody\"s war"
       },
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặc\n* verb\n- To click (one's tongue)\n=chặc lưỡi chê bai+to click one's tongue scornfully"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bar somebody’s way, block somebody’s way"
+      }
+    ]
+  },
+  {
+    "word": "chặn trung kế tạm thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Temporary Trunking Blocking (TTB)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Temporary Trunking Blocking (TTB)"
+      }
+    ]
+  },
+  {
+    "word": "chặn số nhận dạng cá nhân của thuê bao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Subscriber Personal Identification Number Intercept (SPINI)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Subscriber Personal Identification Number Intercept (SPINI)"
+      }
+    ]
+  },
+  {
+    "word": "chặn tất cả các cuộc gọi đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Outgoing Calls (BAOC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Outgoing Calls (BAOC)"
       }
     ]
   },
@@ -591,6 +315,42 @@
     ]
   },
   {
+    "word": "chặng xuôi gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-downwind leg\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-downwind leg"
+      }
+    ]
+  },
+  {
+    "word": "chặt chân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dismember"
+      }
+    ]
+  },
+  {
+    "word": "chặt, kín (không thấm nước, thoát hơi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tight\n@Chuyên ngành kỹ thuật\n-tight"
+      }
+    ]
+  },
+  {
+    "word": "chặn dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-impound\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-impound"
+      }
+    ]
+  },
+  {
     "word": "chặt đứt",
     "definitions": [
       {
@@ -600,41 +360,11 @@
     ]
   },
   {
-    "word": "chặt ngọn một cây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to top, cut the top off, a tree"
-      }
-    ]
-  },
-  {
-    "word": "chặn đứng tổn thất",
+    "word": "chặt bằng rìu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stop loss"
-      }
-    ]
-  },
-  {
-    "word": "chặp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chặp\n- (kng.). x. chập1."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chặp\n*noun\n-Moment, while, spell, short period\n=mắng cho một chặp\n+to scold for a moment\n=mưa một chặp lâu\n+it rained for a while\n=chặp này trời rét lắm\n+in this period, it is very cold; there has been a cold spell those days"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chặp\n* noun\n- Moment, while, spell, short period\n=mắng cho một chặp+to scold for a moment\n=mưa một chặp lâu+it rained for a while\n=chặp này trời rét lắm+in this period, it is very cold; there has been a cold spell those days"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "moment (in time), instant"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-axe\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-axe"
       }
     ]
   },
@@ -648,15 +378,6 @@
     ]
   },
   {
-    "word": "chặn dường",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to block a road, path"
-      }
-    ]
-  },
-  {
     "word": "chặn đứng vật giá",
     "definitions": [
       {
@@ -666,11 +387,33 @@
     ]
   },
   {
-    "word": "chặt cây đốn rừng để trồng lúa",
+    "word": "chặt, cắt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slash and burnt agriculture\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slash and burnt agriculture"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting\n@Chuyên ngành kỹ thuật\n-cutting"
+      }
+    ]
+  },
+  {
+    "word": "chặn đóng bonologic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bornological\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bornological"
+      }
+    ]
+  },
+  {
+    "word": "chặn tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặn tay\n-To stay the hands of\n=chặn tay bọn hiếu chiến\n+to stay the hands of the warmongers"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặn tay\n- To stay the hands of\n=chặn tay bọn hiếu chiến+to stay the hands of the warmongers"
       }
     ]
   },
@@ -684,11 +427,33 @@
     ]
   },
   {
-    "word": "chặc chẽ",
+    "word": "chặn giữ chi phiếu (không cho lãnh)",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tight, close"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stop payment of a cheque\n-stop payment of a cheque (to...)"
+      }
+    ]
+  },
+  {
+    "word": "chặt chịa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặt chịa [chặt chịa]\n-như"
+      }
+    ]
+  },
+  {
+    "word": "chặn giấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặn giấy\n-Paper - weight"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặn giấy\n- Paper - weight"
       }
     ]
   },
@@ -722,11 +487,162 @@
     ]
   },
   {
-    "word": "chặt chân",
+    "word": "chặn giữ tiền lương",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dismember"
+        "dict_definition": "@Chuyên ngành kinh tế\n-stop wages\n-stop wages (to..)"
+      }
+    ]
+  },
+  {
+    "word": "chặn mã zero",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Code Suppression (ZCS)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Code Suppression (ZCS)"
+      }
+    ]
+  },
+  {
+    "word": "chặt cây đốn rừng để trồng lúa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slash and burnt agriculture\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slash and burnt agriculture"
+      }
+    ]
+  },
+  {
+    "word": "chặt chẽ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gắn với nhau rất chặt [nói về cái trừu tượng]\nVí dụ:\n- phối hợp chặt chẽ \n - hệ thống chặt chẽ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không để rời khỏi sự theo dõi, không buông lỏng\nVí dụ:\n- chỉ đạo chặt chẽ \n - quản lí chặt chẽ mọi đối tượng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chặt chẽ\n- tt. 1. Có quan hệ khăng khít, gắn kết với nhau: phối hợp chặt chẽ  đoàn kết chặt chẽ với nhau. 2. Sát sao, nghiêm ngặt, không rời sự kiểm tra, theo dõi: bố trí canh gác chặt chẽ  chỉ đạo chặt chẽ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặt chẽ\n*adj\n-Close\n=phối hợp chặt chẽ\n+to coordinate closely\n=đoàn kết chặt chẽ\n+close solidarity\n=sự lãnh đạo chặt chẽ\n+close leadership\n=quản lý thị trường chặt chẽ\n+close control of the market\n@Chuyên ngành kinh tế\n-austerity"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặt chẽ\n* adj\n- Close\n=phối hợp chặt chẽ+to coordinate closely\n=đoàn kết chặt chẽ+close solidarity\n=sự lãnh đạo chặt chẽ+close leadership\n=quản lý thị trường chặt chẽ+close control of the market"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tight, close"
+      }
+    ]
+  },
+  {
+    "word": "chặng sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-downline"
+      }
+    ]
+  },
+  {
+    "word": "chặm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chặm\n- đg. (ph.). Thấm từng ít một cho khô. Chặm nước mắt. Kéo vạt áo chặm mồ hôi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặm\n*verb\n-to sop up. to dab"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặm\n* verb\n- to sop up. to dab"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sop up, dab"
+      }
+    ]
+  },
+  {
+    "word": "chặn hậu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đi sau cùng để chặn địch\nVí dụ:\n- đem tinh binh đi chặn hậu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chặn đánh ở phía sau, khiến cho không thể rút chạy được\nVí dụ:\n- dẫn quân đi chặn hậu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặn hậu\n-To cut off the enemy\"s retreat"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặn hậu\n- To cut off the enemy's retreat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cut off the enemy’s retreat"
+      }
+    ]
+  },
+  {
+    "word": "chặt cây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cut down a tree"
+      }
+    ]
+  },
+  {
+    "word": "chặt chẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-chop\n@Chuyên ngành kỹ thuật\n-chop"
+      }
+    ]
+  },
+  {
+    "word": "chặt khít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-close\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-close"
+      }
+    ]
+  },
+  {
+    "word": "chặn bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặn bóng [chặn bóng]\n-(bóng đá) to make a save;  to save a goal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to make a save, save a goal"
+      }
+    ]
+  },
+  {
+    "word": "chặn tiến triển sảy thai không phát triển, thui",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abort\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-abort"
       }
     ]
   },
@@ -740,15 +656,47 @@
     ]
   },
   {
-    "word": "chặn đường",
+    "word": "chặt đẹp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chém đẹp\nVí dụ:\n- điểm giữ xe này đã chặt đẹp của tôi 10 nghìn đồng"
+      }
+    ]
+  },
+  {
+    "word": "chặt ngọn một cây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to top, cut the top off, a tree"
+      }
+    ]
+  },
+  {
+    "word": "chặt đầu (cá)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chặn đường [chặn đường]\n-to bar somebody\"s way;  to block somebody\"s war"
-      },
+        "dict_definition": "@Chuyên ngành kinh tế\n-decapitate"
+      }
+    ]
+  },
+  {
+    "word": "chặng đường đi không trên biển",
+    "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bar somebody’s way, block somebody’s way"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-non-maritime leg"
+      }
+    ]
+  },
+  {
+    "word": "chặn đứng (giá cả, hối suất...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-peg"
       }
     ]
   },
@@ -778,16 +726,37 @@
     ]
   },
   {
-    "word": "chặng đường đi không trên biển",
+    "word": "chặp",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chặp\n- (kng.). x. chập1."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-non-maritime leg"
+        "dict_definition": "@chặp\n*noun\n-Moment, while, spell, short period\n=mắng cho một chặp\n+to scold for a moment\n=mưa một chặp lâu\n+it rained for a while\n=chặp này trời rét lắm\n+in this period, it is very cold; there has been a cold spell those days"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặp\n* noun\n- Moment, while, spell, short period\n=mắng cho một chặp+to scold for a moment\n=mưa một chặp lâu+it rained for a while\n=chặp này trời rét lắm+in this period, it is very cold; there has been a cold spell those days"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "moment (in time), instant"
       }
     ]
   },
   {
-    "word": "chặng đường tính phí (chuyên chở)",
+    "word": "chặn tất cả các cuộc gọi đến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Incoming Calls (BAIC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Barring of All Incoming Calls (BAIC)"
+      }
+    ]
+  },
+  {
+    "word": "chặng đường",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -796,11 +765,42 @@
     ]
   },
   {
-    "word": "chặt đầu (cá)",
+    "word": "chặn dường",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to block a road, path"
+      }
+    ]
+  },
+  {
+    "word": "chặn đứng tổn thất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-decapitate"
+        "dict_definition": "@Chuyên ngành kinh tế\n-stop loss"
+      }
+    ]
+  },
+  {
+    "word": "chặn và đọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-to intercept and read (other people\"s email, e.g.)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-to intercept and read (other people\"s email, e.g.)"
+      }
+    ]
+  },
+  {
+    "word": "chặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chặc\n*verb\n-To click (one\"s tongue)\n=chặc lưỡi chê bai\n+to click one\"s tongue scornfully"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chặc\n* verb\n- To click (one's tongue)\n=chặc lưỡi chê bai+to click one's tongue scornfully"
       }
     ]
   }

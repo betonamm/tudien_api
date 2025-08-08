@@ -1,5 +1,53 @@
 [
   {
+    "word": "vơ đũa cả nắm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vơ đũa cả nắm [vơ đũa cả nắm]\n-to generalize;  to say the same for everybody"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to generalize, say the same for everybody"
+      }
+    ]
+  },
+  {
+    "word": "vơ váo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lấy về cho mình một cách vội vàng, không lựa chọn, chỉ cốt cho nhanh hoặc cho được nhiều [nói khái quát]\nVí dụ:\n- hắn vơ váo mọi thứ vào túi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vơ váo\n*tính từ\n-ill-mannered, careless, sloppy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ill-mannered, careless, sloppy"
+      }
+    ]
+  },
+  {
+    "word": "vơi đầy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như đầy vơi\nVí dụ:\n- \"Ai đi muôn dặm non sông, Để ai chứa chất sầu đong vơi đầy.\" (Cdao)"
+      }
+    ]
+  },
+  {
+    "word": "vơ vất",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như vất vưởng\nVí dụ:\n- sống vơ vất đầu đường xó chợ"
+      }
+    ]
+  },
+  {
     "word": "vơ",
     "definitions": [
       {
@@ -37,6 +85,32 @@
     ]
   },
   {
+    "word": "vơi vơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vơi vơi - a little less full"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a little less full"
+      }
+    ]
+  },
+  {
+    "word": "vơ vẩn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như vẩn vơ\nVí dụ:\n- mắt nhìn vơ vẩn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vơ vẩn\n*tính từ\n-aimless\n-hang about\n-act aimlessly"
+      }
+    ]
+  },
+  {
     "word": "vơi",
     "definitions": [
       {
@@ -54,84 +128,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to be not quite full"
-      }
-    ]
-  },
-  {
-    "word": "vơ vất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như vất vưởng\nVí dụ:\n- sống vơ vất đầu đường xó chợ"
-      }
-    ]
-  },
-  {
-    "word": "vơi vơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vơi vơi - a little less full"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a little less full"
-      }
-    ]
-  },
-  {
-    "word": "vơ vét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lấy đi cho bằng hết, không chừa một thứ gì\nVí dụ:\n- vơ vét những gì còn sót lại \n - chị ta vơ vét đồ đạc mang đi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vơ vét\n*động từ\n-to loot\n-to pillage, to plunder\n-to sweep off, to carry off"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to carry off, carry away, sweep off"
-      }
-    ]
-  },
-  {
-    "word": "vơ váo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lấy về cho mình một cách vội vàng, không lựa chọn, chỉ cốt cho nhanh hoặc cho được nhiều [nói khái quát]\nVí dụ:\n- hắn vơ váo mọi thứ vào túi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vơ váo\n*tính từ\n-ill-mannered, careless, sloppy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ill-mannered, careless, sloppy"
-      }
-    ]
-  },
-  {
-    "word": "vơi đầy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như đầy vơi\nVí dụ:\n- \"Ai đi muôn dặm non sông, Để ai chứa chất sầu đong vơi đầy.\" (Cdao)"
-      }
-    ]
-  },
-  {
-    "word": "vơ vẩn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như vẩn vơ\nVí dụ:\n- mắt nhìn vơ vẩn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vơ vẩn\n*tính từ\n-aimless\n-hang about\n-act aimlessly"
       }
     ]
   },
@@ -154,15 +150,19 @@
     ]
   },
   {
-    "word": "vơ đũa cả nắm",
+    "word": "vơ vét",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lấy đi cho bằng hết, không chừa một thứ gì\nVí dụ:\n- vơ vét những gì còn sót lại \n - chị ta vơ vét đồ đạc mang đi"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@vơ đũa cả nắm [vơ đũa cả nắm]\n-to generalize;  to say the same for everybody"
+        "dict_definition": "@vơ vét\n*động từ\n-to loot\n-to pillage, to plunder\n-to sweep off, to carry off"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to generalize, say the same for everybody"
+        "dict_definition": "to carry off, carry away, sweep off"
       }
     ]
   }

@@ -1,10 +1,293 @@
 [
   {
+    "word": "cỡ nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pocket-size\n-small-scale\n-small-scale company\n-small-sized\n-undersized\n@Chuyên ngành kỹ thuật\n-baby\n-microformat\n-midget\n-scanty\n-small-scale\n-small-size\n@Chuyên ngành kỹ thuật\n-baby\n-microformat\n-midget\n-scanty\n-small-scale\n-small-size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wire gage\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wire gage"
+      }
+    ]
+  },
+  {
+    "word": "cỡ cực lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-super"
+      }
+    ]
+  },
+  {
     "word": "cỡ phông chữ",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-font size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-font size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ chữ in lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-large type matters"
+      }
+    ]
+  },
+  {
+    "word": "cỡ sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sieve number\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sieve number"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dây brown & sharpe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Brown & Sharpe gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Brown & Sharpe gauge"
+      }
+    ]
+  },
+  {
+    "word": "cỡ ngang mặt sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grizz level\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grizz level"
+      }
+    ]
+  },
+  {
+    "word": "cỡ cố định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fixed pitch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fixed pitch"
+      }
+    ]
+  },
+  {
+    "word": "cỡ ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-image ratio\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-image ratio"
+      }
+    ]
+  },
+  {
+    "word": "cỡ quy định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-given size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dây (dẫn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-conductor size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-conductor size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-heavy-duty\n-king-size\n-king-sized\n-large-sized\n-outsize\n@Chuyên ngành kỹ thuật\n-long-range\n@Chuyên ngành kỹ thuật\n-long-range"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "big, large"
+      }
+    ]
+  },
+  {
+    "word": "cỡ như",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "like, at the level of"
+      }
+    ]
+  },
+  {
+    "word": "cỡ mẫu trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-average sample number (ASN)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-average sample number (ASN)"
+      }
+    ]
+  },
+  {
+    "word": "cỡ toàn phần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-full-size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-full-size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ mã",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-code size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-code size"
+      }
+    ]
+  },
+  {
+    "word": "cỡi kình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@cỡi kình\n- cưỡi cá kình, giống cá lớn ngoài biển, ý nói có tài học khác thường"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đường hầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bore\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bore"
+      }
+    ]
+  },
+  {
+    "word": "cỡ cốt liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aggregate size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aggregate size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ miệng chìa vặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spanner opening\n-wrench opening\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spanner opening\n-wrench opening"
+      }
+    ]
+  },
+  {
+    "word": "cỡ bộ đệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-buffer size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-buffer size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đẩy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-feet pitch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-feet pitch"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đầy đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-full size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-full size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-line size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-line size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dùng cho gia đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-family-size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ bài toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-problem size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-problem size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dây mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-American wire gauge (AWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-American wire gauge (AWG)"
+      }
+    ]
+  },
+  {
+    "word": "cỡ điều chỉnh dạng ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting sleeve\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting sleeve"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line-size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line-size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dây chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gauge"
+      }
+    ]
+  },
+  {
+    "word": "cỡ nhỏ (máy)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-monkey\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-monkey"
       }
     ]
   },
@@ -18,11 +301,290 @@
     ]
   },
   {
-    "word": "cỡ dây tiêu chuẩn mỹ, tiêu chuẩn dây dẫn mỹ",
+    "word": "cỡi truồng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "naked"
+      }
+    ]
+  },
+  {
+    "word": "cỡ hạt tương đương",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-American Wire Gauge (AWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-American Wire Gauge (AWG)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-equivalent grain size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-equivalent grain size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-economy size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ ban đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Original Size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Original Size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ tệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-file size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-file size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ như thế này",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "like this"
+      }
+    ]
+  },
+  {
+    "word": "cỡ bé",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-baby\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-baby"
+      }
+    ]
+  },
+  {
+    "word": "cỡ rây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-screen size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-screen size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ chừng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "about, approximately"
+      }
+    ]
+  },
+  {
+    "word": "cỡ mẫu cơ bản (trong điều tra)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-radix\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-radix"
+      }
+    ]
+  },
+  {
+    "word": "cỡ thu nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-miniature\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-miniature"
+      }
+    ]
+  },
+  {
+    "word": "cỡ khổng lồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-king-size\n-king-sized"
+      }
+    ]
+  },
+  {
+    "word": "cỡ cụm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cluster size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cluster size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ bộ nhớ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-memory size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-memory size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dây chuẩn (mỹ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gage (SWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gage (SWG)"
+      }
+    ]
+  },
+  {
+    "word": "cỡ hạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-coarseness\n-fraction\n-gradation\n-grain size\n-partial size\n-particle size\n@Chuyên ngành kỹ thuật\n-coarseness\n-fraction\n-gradation\n-grain size\n-partial size\n-particle size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ ngắn (chiều dài ống)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-short-length\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-short-length"
+      }
+    ]
+  },
+  {
+    "word": "cỡ lượng tử hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quantization size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quantization size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-type"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đo chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-caliper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-caliper"
+      }
+    ]
+  },
+  {
+    "word": "cỡ dày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thickness gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thickness gauge"
+      }
+    ]
+  },
+  {
+    "word": "cỡ ô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mesh size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mesh size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ phông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-font size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-font size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đo khe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-clearance gauge\n-feeler gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-clearance gauge\n-feeler gauge"
+      }
+    ]
+  },
+  {
+    "word": "cỡ điểm ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pel size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pel size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ bình thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stock size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ nòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bore\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bore"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đo góc vuông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-square caliper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-square caliper"
+      }
+    ]
+  },
+  {
+    "word": "cỡ thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stock size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ khổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension"
+      }
+    ]
+  },
+  {
+    "word": "cỡ đo ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-external gauge\n-female gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-external gauge\n-female gauge"
+      }
+    ]
+  },
+  {
+    "word": "cỡ mũi khoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gage numbers\n-gauge numbers\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gage numbers\n-gauge numbers"
       }
     ]
   },
@@ -40,38 +602,29 @@
     ]
   },
   {
-    "word": "cỡ nòng",
+    "word": "cỡ đo đàn hồi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bore\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-bore"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spring caliper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spring caliper"
       }
     ]
   },
   {
-    "word": "cỡ lượng tử hóa",
+    "word": "cỡ dây tiêu chuẩn mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quantization size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quantization size"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-American wire gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-American wire gauge"
       }
     ]
   },
   {
-    "word": "cỡ mẫu trung bình",
+    "word": "cỡ dây tiêu chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-average sample number (ASN)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-average sample number (ASN)"
-      }
-    ]
-  },
-  {
-    "word": "cỡ phông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-font size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-font size"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-standard wire gauge\n@Lĩnh vực: điện lạnh\n-standard wire gauge (SWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-standard wire gauge\n@Lĩnh vực: điện lạnh\n-standard wire gauge (SWG)"
       }
     ]
   },
@@ -85,20 +638,47 @@
     ]
   },
   {
-    "word": "cỡ đo góc vuông",
+    "word": "cỡ trang",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-square caliper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-square caliper"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-page size\n@Chuyên ngành kỹ thuật\n-page size"
       }
     ]
   },
   {
-    "word": "cỡ bộ nhớ",
+    "word": "cỡ lỡn đặc biệt (quần áo, giày dép...)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-memory size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-memory size"
+        "dict_definition": "@Chuyên ngành kinh tế\n-extra large"
+      }
+    ]
+  },
+  {
+    "word": "cỡ khóa, khoảng cách khóa cửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-backset\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-backset"
+      }
+    ]
+  },
+  {
+    "word": "cỡ tấm mỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet format\n-sheet size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet format\n-sheet size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ lá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-gapper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-gapper"
       }
     ]
   },
@@ -120,38 +700,65 @@
     ]
   },
   {
-    "word": "cỡ đo khe",
+    "word": "cỡ độ dày tấm kim loại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-clearance gauge\n-feeler gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-clearance gauge\n-feeler gauge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sheet iron gage\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sheet iron gage"
       }
     ]
   },
   {
-    "word": "cỡi truồng",
+    "word": "cỡ ứng xuất điện trở",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "naked"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-resistance strain gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-resistance strain gauge"
       }
     ]
   },
   {
-    "word": "cỡ nghiền",
+    "word": "cỡ lỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-crusher gage\n-crusher gauge\n@Chuyên ngành kỹ thuật\n-crusher gage\n-crusher gauge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-aperture\n-caliber\n-caliber calip\n-size\n@Chuyên ngành kỹ thuật\n-aperture\n-caliber\n-caliber calip\n-size"
       }
     ]
   },
   {
-    "word": "cỡ dày",
+    "word": "cỡ (lớn)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thickness gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thickness gauge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnitude\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnitude"
+      }
+    ]
+  },
+  {
+    "word": "cỡ hạt lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarse-grained\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarse-grained"
+      }
+    ]
+  },
+  {
+    "word": "cỡ chữ nổi lớn (để in quảng cáo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-display type"
+      }
+    ]
+  },
+  {
+    "word": "cỡ khối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-block size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-block size"
       }
     ]
   },
@@ -165,123 +772,29 @@
     ]
   },
   {
-    "word": "cỡ như",
+    "word": "cỡ nhỏ (quần áo, giầy dép)",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "like, at the level of"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-small"
       }
     ]
   },
   {
-    "word": "cỡ tiêu chuẩn",
+    "word": "cỡ vừa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-standard size\n-stock size"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-medium size\n-medium-size casting\n-medium-sized\n@Chuyên ngành kỹ thuật\n-medium size\n-medium-size casting\n-medium-sized"
       }
     ]
   },
   {
-    "word": "cỡ khóa, khoảng cách khóa cửa",
+    "word": "cỡ lốp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-backset\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-backset"
-      }
-    ]
-  },
-  {
-    "word": "cỡ giấy, khổ giấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-paper size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-paper size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ bé",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-baby\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-baby"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-American wire gauge (AWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-American wire gauge (AWG)"
-      }
-    ]
-  },
-  {
-    "word": "cỡ tệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-file size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-file size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ cố định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fixed pitch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-fixed pitch"
-      }
-    ]
-  },
-  {
-    "word": "cỡ đầy đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-full size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-full size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ hạt tương đương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-equivalent grain size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-equivalent grain size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ vừa cho mọi người",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-random sizes"
-      }
-    ]
-  },
-  {
-    "word": "cỡ bó",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-packet size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-packet size"
-      }
-    ]
-  },
-  {
-    "word": "cỡn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cỡn [cỡn]\n-rut, (of female) be in heat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rut, (of female) be in heat"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tire size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tire size"
       }
     ]
   },
@@ -295,29 +808,65 @@
     ]
   },
   {
-    "word": "cỡ nhỏ (máy)",
+    "word": "cỡ bó",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-monkey\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-monkey"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-packet size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-packet size"
       }
     ]
   },
   {
-    "word": "cỡ ngắn (chiều dài ống)",
+    "word": "cỡ tiêu chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-short-length\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-short-length"
+        "dict_definition": "@Chuyên ngành kinh tế\n-standard size\n-stock size"
       }
     ]
   },
   {
-    "word": "cỡ đo đàn hồi",
+    "word": "cỡ dây tiêu chuẩn mỹ, tiêu chuẩn dây dẫn mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spring caliper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spring caliper"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-American Wire Gauge (AWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-American Wire Gauge (AWG)"
+      }
+    ]
+  },
+  {
+    "word": "cỡ hạt của chất độn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarseness of aggregates\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarseness of aggregates"
+      }
+    ]
+  },
+  {
+    "word": "cỡ vừa cho mọi người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-random sizes"
+      }
+    ]
+  },
+  {
+    "word": "cỡ lớn đặc biệt (quần áo, giầy dép...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-extra large"
+      }
+    ]
+  },
+  {
+    "word": "cỡ gia số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-increment size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-increment size"
       }
     ]
   },
@@ -363,470 +912,24 @@
     ]
   },
   {
-    "word": "cỡ khối",
+    "word": "cỡn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-block size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-block size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ cốt liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aggregate size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aggregate size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ ứng xuất điện trở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-resistance strain gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-resistance strain gauge"
-      }
-    ]
-  },
-  {
-    "word": "cỡ bình thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stock size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gage\n-gauge\n-standard size\n@Chuyên ngành kỹ thuật\n-gage\n-gauge\n-standard size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ lá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-gapper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-gapper"
-      }
-    ]
-  },
-  {
-    "word": "cỡ kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economy size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ lốp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tire size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tire size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ chừng",
-    "definitions": [
+        "dict_definition": "@cỡn [cỡn]\n-rut, (of female) be in heat"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "about, approximately"
+        "dict_definition": "rut, (of female) be in heat"
       }
     ]
   },
   {
-    "word": "cỡ dòng",
+    "word": "cỡ giấy, khổ giấy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-line size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-line size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây (dẫn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-conductor size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-conductor size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ thu nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-miniature\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-miniature"
-      }
-    ]
-  },
-  {
-    "word": "cỡ hạt lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarse-grained\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarse-grained"
-      }
-    ]
-  },
-  {
-    "word": "cỡ điểm ảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pel size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pel size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ khổng lồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-king-size\n-king-sized"
-      }
-    ]
-  },
-  {
-    "word": "cỡ toàn phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-full-size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-full-size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ ngang mặt sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grizz level\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grizz level"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây brown & sharpe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Brown & Sharpe gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Brown & Sharpe gauge"
-      }
-    ]
-  },
-  {
-    "word": "cỡ nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pocket-size\n-small-scale\n-small-scale company\n-small-sized\n-undersized\n@Chuyên ngành kỹ thuật\n-baby\n-microformat\n-midget\n-scanty\n-small-scale\n-small-size\n@Chuyên ngành kỹ thuật\n-baby\n-microformat\n-midget\n-scanty\n-small-scale\n-small-size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ lỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-aperture\n-caliber\n-caliber calip\n-size\n@Chuyên ngành kỹ thuật\n-aperture\n-caliber\n-caliber calip\n-size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ mã",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-code size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-code size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ mẫu cơ bản (trong điều tra)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-radix\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-radix"
-      }
-    ]
-  },
-  {
-    "word": "cỡ chữ in lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-large type matters"
-      }
-    ]
-  },
-  {
-    "word": "cỡi kình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@cỡi kình\n- cưỡi cá kình, giống cá lớn ngoài biển, ý nói có tài học khác thường"
-      }
-    ]
-  },
-  {
-    "word": "cỡ cụm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cluster size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cluster size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ gia số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-increment size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-increment size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ rây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-screen size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-screen size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây tiêu chuẩn mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-American wire gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-American wire gauge"
-      }
-    ]
-  },
-  {
-    "word": "cỡ hạt của chất độn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarseness of aggregates\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coarseness of aggregates"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gauge"
-      }
-    ]
-  },
-  {
-    "word": "cỡ nhỏ (quần áo, giầy dép)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-small"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dùng cho gia đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-family-size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ đường hầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bore\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bore"
-      }
-    ]
-  },
-  {
-    "word": "cỡ sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sieve number\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sieve number"
-      }
-    ]
-  },
-  {
-    "word": "cỡ tấm mỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet format\n-sheet size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet format\n-sheet size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây chuẩn (mỹ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gage (SWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-standard wire gage (SWG)"
-      }
-    ]
-  },
-  {
-    "word": "cỡ ô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mesh size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mesh size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stock size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-standard wire gauge\n@Lĩnh vực: điện lạnh\n-standard wire gauge (SWG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-standard wire gauge\n@Lĩnh vực: điện lạnh\n-standard wire gauge (SWG)"
-      }
-    ]
-  },
-  {
-    "word": "cỡ điều chỉnh dạng ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting sleeve\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjusting sleeve"
-      }
-    ]
-  },
-  {
-    "word": "cỡ điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-point size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-point size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ đẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-feet pitch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-feet pitch"
-      }
-    ]
-  },
-  {
-    "word": "cỡ đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line-size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line-size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ thực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-actual size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-actual size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ bài toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-problem size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-problem size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ lỡn đặc biệt (quần áo, giày dép...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extra large"
-      }
-    ]
-  },
-  {
-    "word": "cỡ bộ đệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-buffer size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-buffer size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ lớn đặc biệt (quần áo, giầy dép...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extra large"
-      }
-    ]
-  },
-  {
-    "word": "cỡ hạt có ích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-effective grain size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-effective grain size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ đo ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-external gauge\n-female gauge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-external gauge\n-female gauge"
-      }
-    ]
-  },
-  {
-    "word": "cỡ dây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wire gage\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wire gage"
-      }
-    ]
-  },
-  {
-    "word": "cỡ miệng chìa vặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spanner opening\n-wrench opening\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spanner opening\n-wrench opening"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-paper size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-paper size"
       }
     ]
   },
@@ -840,29 +943,38 @@
     ]
   },
   {
-    "word": "cỡ như thế này",
+    "word": "cỡ điểm",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "like this"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-point size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-point size"
       }
     ]
   },
   {
-    "word": "cỡ loại",
+    "word": "cỡ hạt có ích",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-type"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-effective grain size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-effective grain size"
       }
     ]
   },
   {
-    "word": "cỡ (lớn)",
+    "word": "cỡ chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnitude\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnitude"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gage\n-gauge\n-standard size\n@Chuyên ngành kỹ thuật\n-gage\n-gauge\n-standard size"
+      }
+    ]
+  },
+  {
+    "word": "cỡ nghiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-crusher gage\n-crusher gauge\n@Chuyên ngành kỹ thuật\n-crusher gage\n-crusher gauge"
       }
     ]
   },
@@ -876,123 +988,11 @@
     ]
   },
   {
-    "word": "cỡ ban đầu",
+    "word": "cỡ thực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Original Size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Original Size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ quy định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-given size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ hạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-coarseness\n-fraction\n-gradation\n-grain size\n-partial size\n-particle size\n@Chuyên ngành kỹ thuật\n-coarseness\n-fraction\n-gradation\n-grain size\n-partial size\n-particle size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ trang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-page size\n@Chuyên ngành kỹ thuật\n-page size"
-      }
-    ]
-  },
-  {
-    "word": "cỡ vừa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-medium size\n-medium-size casting\n-medium-sized\n@Chuyên ngành kỹ thuật\n-medium size\n-medium-size casting\n-medium-sized"
-      }
-    ]
-  },
-  {
-    "word": "cỡ ảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-image ratio\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-image ratio"
-      }
-    ]
-  },
-  {
-    "word": "cỡ lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-heavy-duty\n-king-size\n-king-sized\n-large-sized\n-outsize\n@Chuyên ngành kỹ thuật\n-long-range\n@Chuyên ngành kỹ thuật\n-long-range"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "big, large"
-      }
-    ]
-  },
-  {
-    "word": "cỡ mũi khoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gage numbers\n-gauge numbers\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gage numbers\n-gauge numbers"
-      }
-    ]
-  },
-  {
-    "word": "cỡ đo chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-caliper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-caliper"
-      }
-    ]
-  },
-  {
-    "word": "cỡ chữ nổi lớn (để in quảng cáo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-display type"
-      }
-    ]
-  },
-  {
-    "word": "cỡ cực lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-super"
-      }
-    ]
-  },
-  {
-    "word": "cỡ khổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension"
-      }
-    ]
-  },
-  {
-    "word": "cỡ độ dày tấm kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sheet iron gage\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sheet iron gage"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-actual size\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-actual size"
       }
     ]
   }

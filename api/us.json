@@ -1,5 +1,23 @@
 [
   {
+    "word": "usbekit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-usbakite"
+      }
+    ]
+  },
+  {
+    "word": "user đầu cuối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-terminal user"
+      }
+    ]
+  },
+  {
     "word": "usenet",
     "definitions": [
       {
@@ -9,11 +27,29 @@
     ]
   },
   {
+    "word": "usgs dem",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-USGS DEM"
+      }
+    ]
+  },
+  {
     "word": "usb",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Universal Serial Bus-USB\n-USB"
+      }
+    ]
+  },
+  {
+    "word": "usingit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ussingite"
       }
     ]
   },
@@ -36,42 +72,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "đồng đô la Mĩ"
-      }
-    ]
-  },
-  {
-    "word": "user đầu cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-terminal user"
-      }
-    ]
-  },
-  {
-    "word": "usgs dem",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-USGS DEM"
-      }
-    ]
-  },
-  {
-    "word": "usbekit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-usbakite"
-      }
-    ]
-  },
-  {
-    "word": "usingit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ussingite"
       }
     ]
   }

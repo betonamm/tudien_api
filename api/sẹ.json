@@ -1,5 +1,14 @@
 [
   {
+    "word": "sẹc măng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil-ring"
+      }
+    ]
+  },
+  {
     "word": "sẹo gỗ",
     "definitions": [
       {
@@ -14,45 +23,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-keloid"
-      }
-    ]
-  },
-  {
-    "word": "sẹ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tinh dịch của cá"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẹ\n-Semen (của cá)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẹ\n- Semen (của cá)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(fish) semen"
-      }
-    ]
-  },
-  {
-    "word": "sẹo đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-casting scar\n-double skin\n-scab"
-      }
-    ]
-  },
-  {
-    "word": "sẹo nang trứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-atretic follum"
       }
     ]
   },
@@ -90,11 +60,41 @@
     ]
   },
   {
-    "word": "sẹc măng",
+    "word": "sẹo đúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil-ring"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-casting scar\n-double skin\n-scab"
+      }
+    ]
+  },
+  {
+    "word": "sẹo nang trứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-atretic follum"
+      }
+    ]
+  },
+  {
+    "word": "sẹ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tinh dịch của cá"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẹ\n-Semen (của cá)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẹ\n- Semen (của cá)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(fish) semen"
       }
     ]
   }

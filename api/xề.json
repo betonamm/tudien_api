@@ -1,5 +1,14 @@
 [
   {
+    "word": "xề",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to approach, come near"
+      }
+    ]
+  },
+  {
     "word": "xềnh xệch",
     "definitions": [
       {
@@ -9,6 +18,19 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@xềnh xệch\n*trạng từ\n-onomtopoeia of the sound of an object dragged along"
+      }
+    ]
+  },
+  {
+    "word": "xềnh xoàng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem xuềnh xoàng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xềnh xoàng\n*trạng từ\n-easy-going, simple-minded\n-simple, common, plain, unadorned"
       }
     ]
   },
@@ -39,7 +61,7 @@
     ]
   },
   {
-    "word": "xề",
+    "word": "xề xề",
     "definitions": [
       {
         "dict_name": "VNEDICT",
@@ -53,28 +75,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "[ngồi, nằm] xệp xuống một chỗ trong thời gian tương đối lâu\nVí dụ:\n- gà mái nằm xềm xệp trong ổ"
-      }
-    ]
-  },
-  {
-    "word": "xềnh xoàng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem xuềnh xoàng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xềnh xoàng\n*trạng từ\n-easy-going, simple-minded\n-simple, common, plain, unadorned"
-      }
-    ]
-  },
-  {
-    "word": "xề xề",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to approach, come near"
       }
     ]
   }

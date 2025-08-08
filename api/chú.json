@@ -1,74 +1,285 @@
 [
   {
-    "word": "chú dẫn",
+    "word": "chúng mày",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chú thích và dẫn chứng cho rõ thêm\nVí dụ:\n- cuối trang sách có lời chú dẫn của tác giả"
+        "dict_definition": "tổ hợp dùng để gọi nhóm người ngang hàng hoặc hàng dưới khi nói với nhóm người ấy, tỏ ý coi thường hoặc thân mật\nVí dụ:\n- bọn chúng mày \n - đi thôi chúng mày ơi!"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chú dẫn\n-Note and quotation\n=sách có chú dẫn đầy đủ\n+a book with complete notes and related quotations\n=lời chú dẫn của tác giả\n+the author\"s notes\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-footnote\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-footnote"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú dẫn\n- Note and quotation\n=sách có chú dẫn đầy đủ+a book with complete notes and related quotations\n=lời chú dẫn của tác giả+the author's notes"
-      }
-    ]
-  },
-  {
-    "word": "chúng con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng con [chúng con]\n-we (when addressing one\"s parents/grandparents or one\"s uncle/aunt)"
+        "dict_definition": "@chúng mày [chúng mày]\n-xem"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "we (when addressing one’s parents or grandparents or one’s"
+        "dict_definition": "you (plural, impolite)"
       }
     ]
   },
   {
-    "word": "chúng ông",
+    "word": "chú ý về phạm vi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chúng ông [chúng ông]\n-we (very arrogant)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "we (very arrogant)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scope note\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scope note"
       }
     ]
   },
   {
-    "word": "chúm chím",
+    "word": "chú mày",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng môi hơi mấp máy và chúm lại, không hé mở ra\nVí dụ:\n- miệng cười chúm chím"
+        "dict_definition": "như chú mình [nhưng có phần hơi sỗ sàng]\nVí dụ:\n- chú mày ra đây anh bảo"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chúm chím\n-To open slightly (one\"s lips)"
+        "dict_definition": "@chú mày\n-(Familiar form of address used with one\"s younger brother or a young man about the same age)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúm chím\n- To open slightly (one's lips)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to open slightly (one’s lips)"
+        "dict_definition": "@chú mày\n- (Familiar form of address used with one's younger brother or a young man about the same age)"
       }
     ]
   },
   {
-    "word": "chú trọng nhãn hiệu",
+    "word": "chú tâm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "để hết tâm trí [vào việc gì]\nVí dụ:\n- nó chú tâm vào học hành \n - đừng chú tâm vào những chuyện vặt vãnh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú tâm\n*verb\n-To give one\"s whole mind to\n=chú tâm học tập\n+to give one\"s whole mind to one\"s study"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chú tâm\n* verb\n- To give one's whole mind to\n=chú tâm học tập+to give one's whole mind to one's study"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to concentrate on, pay attention to"
+      }
+    ]
+  },
+  {
+    "word": "chú ý",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "để hết tâm trí vào\nVí dụ:\n- chú ý lắng nghe \n - đang mải nghĩ nên không chú ý"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lưu ý, để tâm đến một cách thường xuyên\nVí dụ:\n- chú ý dạy dỗ con cái \n - được cấp trên chú ý"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chú ý\n- đgt. (H. chú: rót vào; ý: ý thức) Để cả tâm trí vào việc gì: Chú ý nghe giảng, Hồ Chủ tịch rất chú ý đến vấn đề giáo dục quân đội (Trg-chinh). // tht. Coi chừng! Nên cẩn thận: Chú ý! Nhà có chó dữ!."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú ý\n-To pay attention to\n=chú ý nghe thầy giảng bài\n+to pay attention to the teacher\"s explanations\n=chú ý, phía trước có xe!\n+attention! there is a car coming\n-To be constantly concerned with\n=chú ý dạy dỗ con cái\n+to be constantly concerned with one\"s children\"s education\n@Chuyên ngành kinh tế\n-pay attention to (to...)\n@Chuyên ngành kỹ thuật\n-attention\n-in view of\n-notice\n-observational\n-observe\n-to take notice\n@Chuyên ngành kỹ thuật\n-attention\n-in view of\n-notice\n-observational\n-observe\n-to take notice"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chú ý\n- To pay attention to\n=chú ý nghe thầy giảng bài+to pay attention to the teacher's explanations\n=chú ý, phía trước có xe!+attention! there is a car coming\n-To be constantly concerned with\n=chú ý dạy dỗ con cái+to be constantly concerned with one's children's education"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pay attention; note"
+      }
+    ]
+  },
+  {
+    "word": "chúa ngục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-brand-conscious"
+        "dict_definition": "@chúa ngục [chúa ngục]\n-jailer;  warden;  warder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "jailer, warden, warder"
+      }
+    ]
+  },
+  {
+    "word": "chúa xuân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúa xuân [chúa xuân]\n*danh từ\n-spring goddess, spring\n-(từ cũ, nghĩa cũ) husband"
+      }
+    ]
+  },
+  {
+    "word": "chút nào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chút nào [chút nào]\n-at all\n-some"
+      }
+    ]
+  },
+  {
+    "word": "chú dẫn tham chiếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-reference"
+      }
+    ]
+  },
+  {
+    "word": "chúng khẩu đồng từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng khẩu đồng từ [chúng khẩu đồng từ]\n-all reporting the same, unanimous"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "all reporting the same, unanimous"
+      }
+    ]
+  },
+  {
+    "word": "chú giả bút toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-narrative"
+      }
+    ]
+  },
+  {
+    "word": "chút quà nhỏ nhoi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a small gift"
+      }
+    ]
+  },
+  {
+    "word": "chúc thư",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bản di chúc, đặc biệt về việc xử lí các tài sản của mình sau khi chết\nVí dụ:\n- lập chúc thư"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chúc thư\n- dt. Bản viết của một người trước khi chết nói rõ ý muốn của mình về việc phân chia tài sản của mình để lại, về việc ứng xử trong gia đình, họ hàng...: chúc thư của ông nội  làm đúng như chúc thư  viết chúc thư."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúc thư\n*noun\n-Will, testament\n@Chuyên ngành kinh tế\n-testament\n-will"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúc thư\n* noun\n- Will, testament"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will, testament"
+      }
+    ]
+  },
+  {
+    "word": "chút nữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chút nữa [chút nữa]\n-a bit/little later;  in a short/little while\n-xem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "little more"
+      }
+    ]
+  },
+  {
+    "word": "chúm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thu lại gần nhau thành hình núm tròn\nVí dụ:\n- con bé chúm mấy đầu ngón tay lại"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thu lại gần nhau thành hình núm tròn\nVí dụ:\n- những cánh hoa đang chúm lại"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúm\n*verb\n-To round (lips)\n=chúm miệng hu\"yt sáo\n+to round one\"s lips and whistle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúm\n* verb\n- To round (lips)\n=chúm miệng hu'yt sáo+to round one's lips and whistle"
+      }
+    ]
+  },
+  {
+    "word": "chúng tớ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng tớ [chúng tớ]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "chú thích cuối trang (báo cáo tài chính)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-footnote"
+      }
+    ]
+  },
+  {
+    "word": "chúc mừng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chúc nhân dịp vui mừng\nVí dụ:\n- tôi chúc mừng anh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chúc mừng\n- đg. Chúc nhân dịp vui mừng. Chúc mừng cô dâu chú rể. Chúc mừng năm mới."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúc mừng\n*verb\n-To congratulate"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúc mừng\n* verb\n- To congratulate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to congratulate"
+      }
+    ]
+  },
+  {
+    "word": "chúc có kèm điều kiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-conditional will"
+      }
+    ]
+  },
+  {
+    "word": "chú giải (của biểu đồ, bản đồ, đồ thị)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-legend (for a graph, map, diagram)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-legend (for a graph, map, diagram)"
       }
     ]
   },
@@ -86,83 +297,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "king of the forest or jungle, tiger"
-      }
-    ]
-  },
-  {
-    "word": "chúng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ dùng để chỉ những người, những con vật đã được nói đến, thường với ý coi khinh\nVí dụ:\n- mấy con chó này chúng khôn lắm \n - toán lính và tên chỉ huy của chúng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị số lượng nhiều được xác định [gồm tất cả những người, động vật muốn nói đến]\nVí dụ:\n- chúng cháu chào ông ạ! \n - hai đứa ấy hư lắm, phải cho chúng một trận"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chúng\n- 1 dt. Như Chúng bạn: Đàn ông vượt bể có chúng, có bạn (tng).\n- 2 đt. Chúng nó nói tắt: Bọn đế quốc tham lam vô hạn, chúng muốn biến nhiều nước thành thuộc địa của chúng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng\n*noun\n-Masses*pronoun\n-We, us, they, them, you\n=chúng anh\n+we\n=mấy con chó này chúng nó khôn lắm\n+these dogs they are very intelligent, these dogs are very intelligent\n@Chuyên ngành kỹ thuật\n-they\n@Chuyên ngành kỹ thuật\n-they"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúng\n* noun\n- Masses\n* pronoun\n- We, us, they, them, you\n=chúng anh+we\n=mấy con chó này chúng nó khôn lắm+these dogs they are very intelligent, these dogs are very intelligent"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "group, people; (pluralizer for persons)"
-      }
-    ]
-  },
-  {
-    "word": "chú dẫn tham chiếu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reference"
-      }
-    ]
-  },
-  {
-    "word": "chú giải chú thích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-note"
-      }
-    ]
-  },
-  {
-    "word": "chúng ta không thể làm một mình nổi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "we can’t do it ourselves, by ourselves"
-      }
-    ]
-  },
-  {
-    "word": "chú mục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập trung quan tâm vào việc gì đó\nVí dụ:\n- không nên quá chú mục vào một việc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú mục\n*verb\n-To gaze at, to concentrate one\"s attention upon"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú mục\n* verb\n- To gaze at, to concentrate one's attention upon"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to gaze at, concentrate one’s attention upon"
       }
     ]
   },
@@ -188,6 +322,140 @@
     ]
   },
   {
+    "word": "chúng nó cùng làm một nghề với nhau",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "they follow the same profession"
+      }
+    ]
+  },
+  {
+    "word": "chúi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngả phần đầu về phía trước\nVí dụ:\n- Hắn chúi đầu về phía trước \n - chúi nòng súng xuống đất"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chúi\n- đg. 1 Ngả đầu về phía trước. Đi hơi chúi về phía trước. Thuyền chúi mũi. Ngã chúi vào nhau. 2 (kng.; id.). Để hết tâm trí vào việc gì; chúi đầu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúi\n*verb\n-To bend one\"s head forward\n=đi hơi chúi về phía trước\n+to walk with one\"s head a little bent forward\n=thuyền chúi mũi\n+the boat bent its prow forward, the boat dipped its prow\n-To be completely engrossed in\n=chúi vào công việc\n+to be completely engrossed in one\"s work"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúi\n* verb\n- To bend one's head forward\n=đi hơi chúi về phía trước+to walk with one's head a little bent forward\n=thuyền chúi mũi+the boat bent its prow forward, the boat dipped its prow\n-To be completely engrossed in\n=chúi vào công việc+to be completely engrossed in one's work"
+      }
+    ]
+  },
+  {
+    "word": "chúc mừng năm mới",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "happy new year"
+      }
+    ]
+  },
+  {
+    "word": "chú ý đến chênh lệch trọng lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-make allowance for difference in weight\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-make allowance for difference in weight"
+      }
+    ]
+  },
+  {
+    "word": "chúi phần mũi (tàu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the head\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the head"
+      }
+    ]
+  },
+  {
+    "word": "chú âm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dùng kí hiệu ghi chú phát âm của từ ngữ tiếng Hán"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú âm [chú âm]\n-phoneticize, show the pronunciation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to indicate pronunciation (phonetically)"
+      }
+    ]
+  },
+  {
+    "word": "chúi nhủi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngã chúi xuống, không gượng được\nVí dụ:\n- bị vấp phải hòn đá, ngã chúi nhủi"
+      }
+    ]
+  },
+  {
+    "word": "chú mình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp dùng trong đối thoại để gọi một cách thân mật em trai, hoặc người đàn ông khác chưa lớn tuổi lắm, coi như vai em trai của mình\nVí dụ:\n- chú mình định đi đâu thế?"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú mình\n-(Intimate form of address used with one\"s younger brother or a young man about the same age and position)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chú mình\n- (Intimate form of address used with one's younger brother or a young man about the same age and position)"
+      }
+    ]
+  },
+  {
+    "word": "chúng em",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng em [chúng em]\n-We (when addressing one\"s elder brother or sister)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "we (when addressing one’s elder brother or sister)"
+      }
+    ]
+  },
+  {
+    "word": "chúc tụng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chúc mừng và ca tụng\nVí dụ:\n- lời chúc tụng \n - được mọi người chúc tụng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúc tụng\n-To express one\"s wishes and praises"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúc tụng\n- To express one's wishes and praises"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to complement, praise, toast"
+      }
+    ]
+  },
+  {
     "word": "chúng mình",
     "definitions": [
       {
@@ -209,19 +477,450 @@
     ]
   },
   {
-    "word": "chú rể",
+    "word": "chú trọng xuất khẩu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-export-oriented"
+      }
+    ]
+  },
+  {
+    "word": "chú ý nghe",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to listen with both ears"
+      }
+    ]
+  },
+  {
+    "word": "chúng (vi khuẩn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-strain"
+      }
+    ]
+  },
+  {
+    "word": "chút nào hết",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(not) one bit, (not) even a little"
+      }
+    ]
+  },
+  {
+    "word": "chúi về đuôi (tàu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the stern\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the stern"
+      }
+    ]
+  },
+  {
+    "word": "chúa trời",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người con trai lấy vợ, trong hôm làm lễ cưới"
+        "dict_definition": "[thường viết hoa] đấng tạo ra trời đất, làm chủ muôn loài, theo Công giáo"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chú rể [chú rể]\n-groom;  bridegroom"
+        "dict_definition": "@chúa trời\n-God, Creator"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúa trời\n- God, Creator"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "groom, bridegroom"
+        "dict_definition": "god, creator"
+      }
+    ]
+  },
+  {
+    "word": "chúc mào",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chào mào"
+      }
+    ]
+  },
+  {
+    "word": "chúa công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúa công\n*noun\n-Lord"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúa công\n* noun\n- Lord"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lord"
+      }
+    ]
+  },
+  {
+    "word": "chút ít",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "một phần rất nhỏ, rất ít\nVí dụ:\n- kế hoạch có thay đổi chút ít"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chút ít\n-A little\n@Chuyên ngành kỹ thuật\n-little bit\n@Chuyên ngành kỹ thuật\n-little bit"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chút ít\n- A little"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a little bit, small, slightly"
+      }
+    ]
+  },
+  {
+    "word": "chúc ngài được bình an",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I wish you good health"
+      }
+    ]
+  },
+  {
+    "word": "chúng ta không thể làm một mình nổi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "we can’t do it ourselves, by ourselves"
+      }
+    ]
+  },
+  {
+    "word": "chú thích ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-caption"
+      }
+    ]
+  },
+  {
+    "word": "chú mục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập trung quan tâm vào việc gì đó\nVí dụ:\n- không nên quá chú mục vào một việc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú mục\n*verb\n-To gaze at, to concentrate one\"s attention upon"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chú mục\n* verb\n- To gaze at, to concentrate one's attention upon"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to gaze at, concentrate one’s attention upon"
+      }
+    ]
+  },
+  {
+    "word": "chú dẫn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chú thích và dẫn chứng cho rõ thêm\nVí dụ:\n- cuối trang sách có lời chú dẫn của tác giả"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú dẫn\n-Note and quotation\n=sách có chú dẫn đầy đủ\n+a book with complete notes and related quotations\n=lời chú dẫn của tác giả\n+the author\"s notes\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-footnote\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-footnote"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chú dẫn\n- Note and quotation\n=sách có chú dẫn đầy đủ+a book with complete notes and related quotations\n=lời chú dẫn của tác giả+the author's notes"
+      }
+    ]
+  },
+  {
+    "word": "chúc từ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chúc từ\n- dt. (H. chúc: chúc mừng; từ: lời) Lời chúc mừng; Bài chúc mừng nhân một dịp vui của người nào: Học sinh đọc chúc từ trước mặt cô giáo nhân dịp tết nguyên đán."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúc từ\n*noun\n-Formal eulogy with wishes (at a ceremony, banquet...)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúc từ\n* noun\n- Formal eulogy with wishes (at a ceremony, banquet...)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "formal eulogy with wishes (at a ceremony, banquet)"
+      }
+    ]
+  },
+  {
+    "word": "chúc phúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúc phúc [chúc phúc]\n-to wish somebody well"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wish somebody well"
+      }
+    ]
+  },
+  {
+    "word": "chúng bạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bạn bè nói chung\nVí dụ:\n- theo kịp chúng bạn \n - bị chúng bạn cười chê"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng bạn [chúng bạn]\n-friends"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "friends"
+      }
+    ]
+  },
+  {
+    "word": "chú tâm đến vùng âu châu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pay attention to, concentrate on Europe"
+      }
+    ]
+  },
+  {
+    "word": "chúng tao",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chúng tôi [nhưng dùng với người dưới hoặc ngang hàng, thường tỏ ý coi thường]\nVí dụ:\n- chuyện của mày, chúng tao không tham gia \n - ngày mai chúng tao sẽ đi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng tao [chúng tao]\n-(lối nói xấc xược) we\n-us\n-our"
+      }
+    ]
+  },
+  {
+    "word": "chú thích bên lề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-note in the margin"
+      }
+    ]
+  },
+  {
+    "word": "chúng cháu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng cháu [chúng cháu]\n-we (when addressing one\"s uncle/aunt or one\"s grandparents)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "we (when addressing one’s uncle or aunt or one’s"
+      }
+    ]
+  },
+  {
+    "word": "chúng bay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng bay [chúng bay]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "chúi đầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "để hết tâm trí vào làm việc gì, không để ý đến xung quanh\nVí dụ:\n- khi ở nhà, nó luôn chúi đầu vào sách vở"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúi đầu\n-như chúi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-nose dive\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-nose dive"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúi đầu\n- như chúi"
+      }
+    ]
+  },
+  {
+    "word": "chút",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cháu đời thứ năm, con của chắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lượng rất nhỏ, rất ít, gần như không đáng kể\nVí dụ:\n- chờ chút \n - bớt chút thời gian \n - \"Bấy lâu mới được một ngày, Dừng chân, gạn chút niềm tây gọi là...\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chút\n- 1 d. Cháu đời thứ năm, con của chắt.\n- 2 d. Lượng rất nhỏ, rất ít, gần như không đáng kể; cái ít ỏi. Bớt chút thì giờ. Không chút ngần ngại. Sinh được chút con trai."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chút\n*noun\n-Great-great grandchild\n=Whit (chỉ dùng phủ ddi.nh), dash (of pepper, whiskỵ.), crumb (of\n+information, comfort). little"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chút\n* noun\n- Great-great grandchild\n=Whit (chỉ dùng phủ ddi.nh), dash (of pepper, whiskỵ.), crumb (of+information, comfort). little"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) a little bit, a tiny bit, a short while; (2) great-great grandchild"
+      }
+    ]
+  },
+  {
+    "word": "chúa đất",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kẻ chiếm hữu cả một vùng ruộng đất rộng lớn để bóc lột địa tô"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúa đất [chúa đất]\n*danh từ\n-landlord"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "landlord"
+      }
+    ]
+  },
+  {
+    "word": "chút đỉnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "một phần nào đó rất nhỏ, coi như không đáng là bao\nVí dụ:\n- cố ăn chút đỉnh cho lại người \n - khá hơn chút đỉnh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chút đỉnh\n- dt. Một ít thôi, coi như không đáng kể: biếu nhau chút đỉnh gọi là  ước hẹn với nhau chút đỉnh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chút đỉnh\n-A little bit"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chút đỉnh\n- A little bit"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a little bit"
+      }
+    ]
+  },
+  {
+    "word": "chúng tôi được ba cháu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "we have 3 children"
+      }
+    ]
+  },
+  {
+    "word": "chú thích cuối đoạn tiếp tục ở trang kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Endnotes Continued on the next page\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Endnotes Continued on the next page"
+      }
+    ]
+  },
+  {
+    "word": "chú giải bảng và cây kết hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Tree And Tabular Combined Notation (TCCN)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Tree And Tabular Combined Notation (TCCN)"
+      }
+    ]
+  },
+  {
+    "word": "chúng sinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tất cả những sinh vật nói chung; cũng dùng để chỉ người và động vật, theo quan niệm của đạo Phật\nVí dụ:\n- phổ độ chúng sinh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tất cả những cô hồn không ai thờ cúng, theo quan niệm dân gian\nVí dụ:\n- cúng chúng sinh \n - \"Thương thay thập loại chúng sinh, Hồn đơn phách chiếc lênh đênh quê người.\" (CH)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chúng sinh\n- d. Tất cả những gì có sự sống, nói chung; có khi chuyên dùng để chỉ người và động vật (nói tổng quát), theo cách nói trong đạo Phật. Phổ độ chúng sinh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng sinh\n-Living beings\n=\n+ouls of the dead (theo lối nói của đạo Phật)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúng sinh\n- Living beings\n=Souls of the dead (theo lối nói của đạo Phật)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "living beings, souls of the dead"
+      }
+    ]
+  },
+  {
+    "word": "chú thích bên lề (được in bên góc trang sách)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sideline store\n-side-note (side note)"
+      }
+    ]
+  },
+  {
+    "word": "chúc tết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúc tết [chúc tết]\n-to wish somebody a Happy New Year"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wish somebody a happy new year"
       }
     ]
   },
@@ -251,11 +950,15 @@
     ]
   },
   {
-    "word": "chúc may mắn",
+    "word": "chút phận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bon voyage"
+        "dict_definition": "@chút phận [chút phận]\n-modest condition"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "modest condition"
       }
     ]
   },
@@ -317,223 +1020,24 @@
     ]
   },
   {
-    "word": "chúng tròn",
+    "word": "chú trọng nhãn hiệu",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "round"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-brand-conscious"
       }
     ]
   },
   {
-    "word": "chúng ta",
+    "word": "chúa nhật",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp người nói dùng để chỉ bản thân mình cùng với người đối thoại\nVí dụ:\n- tổ quốc của chúng ta \n - ngày mai chúng ta sẽ bàn tiếp"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@chúng ta\n-We, us (including person addressed)\n@Chuyên ngành kỹ thuật\n-we\n@Chuyên ngành kỹ thuật\n-we"
+        "dict_definition": "@chúa nhật\n-Như chủ nhật"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúng ta\n- We, us (including person addressed)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "we (includes the speaker and the person spoken to)"
-      }
-    ]
-  },
-  {
-    "word": "chúa đất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kẻ chiếm hữu cả một vùng ruộng đất rộng lớn để bóc lột địa tô"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúa đất [chúa đất]\n*danh từ\n-landlord"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "landlord"
-      }
-    ]
-  },
-  {
-    "word": "chúng nó cùng làm một nghề với nhau",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "they follow the same profession"
-      }
-    ]
-  },
-  {
-    "word": "chúc mừng năm mới",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "happy new year"
-      }
-    ]
-  },
-  {
-    "word": "chú tiểu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú tiểu [chú tiểu]\n*danh từ\n-novice, lay brother (in Buddhist temple)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "novice, lay brother (in Buddhist temple)"
-      }
-    ]
-  },
-  {
-    "word": "chú giả bút toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-narrative"
-      }
-    ]
-  },
-  {
-    "word": "chúc mào",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chào mào"
-      }
-    ]
-  },
-  {
-    "word": "chú mày",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chú mình [nhưng có phần hơi sỗ sàng]\nVí dụ:\n- chú mày ra đây anh bảo"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú mày\n-(Familiar form of address used with one\"s younger brother or a young man about the same age)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú mày\n- (Familiar form of address used with one's younger brother or a young man about the same age)"
-      }
-    ]
-  },
-  {
-    "word": "chú ý nghe",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to listen with both ears"
-      }
-    ]
-  },
-  {
-    "word": "chúng bay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng bay [chúng bay]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "chúng thường",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ordinary people"
-      }
-    ]
-  },
-  {
-    "word": "chú thích bên lề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-note in the margin"
-      }
-    ]
-  },
-  {
-    "word": "chúc mừng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chúc nhân dịp vui mừng\nVí dụ:\n- tôi chúc mừng anh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chúc mừng\n- đg. Chúc nhân dịp vui mừng. Chúc mừng cô dâu chú rể. Chúc mừng năm mới."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúc mừng\n*verb\n-To congratulate"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúc mừng\n* verb\n- To congratulate"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to congratulate"
-      }
-    ]
-  },
-  {
-    "word": "chú ý đến chênh lệch trọng lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-make allowance for difference in weight\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-make allowance for difference in weight"
-      }
-    ]
-  },
-  {
-    "word": "chú giải của ban cán bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-official staff commentry"
-      }
-    ]
-  },
-  {
-    "word": "chú ý",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "để hết tâm trí vào\nVí dụ:\n- chú ý lắng nghe \n - đang mải nghĩ nên không chú ý"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lưu ý, để tâm đến một cách thường xuyên\nVí dụ:\n- chú ý dạy dỗ con cái \n - được cấp trên chú ý"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chú ý\n- đgt. (H. chú: rót vào; ý: ý thức) Để cả tâm trí vào việc gì: Chú ý nghe giảng, Hồ Chủ tịch rất chú ý đến vấn đề giáo dục quân đội (Trg-chinh). // tht. Coi chừng! Nên cẩn thận: Chú ý! Nhà có chó dữ!."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú ý\n-To pay attention to\n=chú ý nghe thầy giảng bài\n+to pay attention to the teacher\"s explanations\n=chú ý, phía trước có xe!\n+attention! there is a car coming\n-To be constantly concerned with\n=chú ý dạy dỗ con cái\n+to be constantly concerned with one\"s children\"s education\n@Chuyên ngành kinh tế\n-pay attention to (to...)\n@Chuyên ngành kỹ thuật\n-attention\n-in view of\n-notice\n-observational\n-observe\n-to take notice\n@Chuyên ngành kỹ thuật\n-attention\n-in view of\n-notice\n-observational\n-observe\n-to take notice"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú ý\n- To pay attention to\n=chú ý nghe thầy giảng bài+to pay attention to the teacher's explanations\n=chú ý, phía trước có xe!+attention! there is a car coming\n-To be constantly concerned with\n=chú ý dạy dỗ con cái+to be constantly concerned with one's children's education"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pay attention; note"
+        "dict_definition": "@chúa nhật\n- Như chủ nhật"
       }
     ]
   },
@@ -551,169 +1055,96 @@
     ]
   },
   {
-    "word": "chú thích cuối trang",
+    "word": "chú giải chú thích",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-running foot\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-running foot"
+        "dict_definition": "@Chuyên ngành kinh tế\n-note"
       }
     ]
   },
   {
-    "word": "chúng bạn",
+    "word": "chút thân",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bạn bè nói chung\nVí dụ:\n- theo kịp chúng bạn \n - bị chúng bạn cười chê"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@chúng bạn [chúng bạn]\n-friends"
+        "dict_definition": "@chút thân [chút thân]\n-humble life"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "friends"
+        "dict_definition": "humble life"
       }
     ]
   },
   {
-    "word": "chúa trời",
+    "word": "chúng nó",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[thường viết hoa] đấng tạo ra trời đất, làm chủ muôn loài, theo Công giáo"
+        "dict_definition": "tổ hợp dùng để chỉ nhóm người ngang hàng hay hàng dưới hoặc nhóm động vật đã được xác định nào đó\nVí dụ:\n- bọn trẻ bây giờ chúng nó khôn lắm \n - phải cho chúng nó biết tay!"
       },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúa trời\n-God, Creator"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúa trời\n- God, Creator"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "god, creator"
-      }
-    ]
-  },
-  {
-    "word": "chúng mày",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp dùng để gọi nhóm người ngang hàng hoặc hàng dưới khi nói với nhóm người ấy, tỏ ý coi thường hoặc thân mật\nVí dụ:\n- bọn chúng mày \n - đi thôi chúng mày ơi!"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng mày [chúng mày]\n-xem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "you (plural, impolite)"
-      }
-    ]
-  },
-  {
-    "word": "chú giải",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chú giải\n- đgt. Viết lời giải thích các chỗ khó trong sách để cho hiểu rõ: chú giải điển tích trong Truyện Kiều."
+        "dict_definition": "@chúng nó\n- đt. Ngôi thứ ba về số nhiều chỉ những người ở bực dưới hoặc những người mà mình khinh miệt: Con cái còn dại thì phải dạy bảo chúng nó; Những thằng ác ôn ấy đều bị bắt, thực đáng kiếp chúng nó."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chú giải\n-Như chú thích\n@Chuyên ngành kinh tế\n-annotate\n-note\n@Chuyên ngành kỹ thuật\n-annotate\n-annotation\n-comment\n-notation\n-note\n@Lĩnh vực: toán & tin\n-caption\n-cutline\n-legend\n@Chuyên ngành kỹ thuật\n-annotate\n-annotation\n-comment\n-notation\n-note\n@Lĩnh vực: toán & tin\n-caption\n-cutline\n-legend"
+        "dict_definition": "@chúng nó\n-They; them"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú giải\n- Như chú thích"
+        "dict_definition": "@chúng nó\n-They; them"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "comment"
+        "dict_definition": "they (impolite)"
       }
     ]
   },
   {
-    "word": "chú chích",
+    "word": "chú khi ni mi khi khác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chú chích [chú chích]\n-thief"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "thief"
+        "dict_definition": "@chú khi ni mi khi khác [chú khi ni mi khi khác]\n-xem"
       }
     ]
   },
   {
-    "word": "chú thích bên lề (được in bên góc trang sách)",
+    "word": "chú ý ( tiền tố lệnh của các môđem hayes )",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sideline store\n-side-note (side note)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Attention (Hayes Modems Command Prefix) (AT)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Attention (Hayes Modems Command Prefix) (AT)"
       }
     ]
   },
   {
-    "word": "chú trọng",
+    "word": "chúng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đặc biệt coi trọng\nVí dụ:\n- nhà trường chú trọng đến công tác giảng dạy \n - cốt ở nội dung, không chú trọng hình thức"
+        "dict_definition": "từ dùng để chỉ những người, những con vật đã được nói đến, thường với ý coi khinh\nVí dụ:\n- mấy con chó này chúng khôn lắm \n - toán lính và tên chỉ huy của chúng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị số lượng nhiều được xác định [gồm tất cả những người, động vật muốn nói đến]\nVí dụ:\n- chúng cháu chào ông ạ! \n - hai đứa ấy hư lắm, phải cho chúng một trận"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chúng\n- 1 dt. Như Chúng bạn: Đàn ông vượt bể có chúng, có bạn (tng).\n- 2 đt. Chúng nó nói tắt: Bọn đế quốc tham lam vô hạn, chúng muốn biến nhiều nước thành thuộc địa của chúng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chú trọng\n*verb\n-To attach special importance to\n=chú trọng cả chất lượng lẫn số lượng sản phẩm\n+to attach special importance to both the quality and quantity of the products"
+        "dict_definition": "@chúng\n*noun\n-Masses*pronoun\n-We, us, they, them, you\n=chúng anh\n+we\n=mấy con chó này chúng nó khôn lắm\n+these dogs they are very intelligent, these dogs are very intelligent\n@Chuyên ngành kỹ thuật\n-they\n@Chuyên ngành kỹ thuật\n-they"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú trọng\n* verb\n- To attach special importance to\n=chú trọng cả chất lượng lẫn số lượng sản phẩm+to attach special importance to both the quality and quantity of the products"
+        "dict_definition": "@chúng\n* noun\n- Masses\n* pronoun\n- We, us, they, them, you\n=chúng anh+we\n=mấy con chó này chúng nó khôn lắm+these dogs they are very intelligent, these dogs are very intelligent"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to pay attention, attach importance"
-      }
-    ]
-  },
-  {
-    "word": "chú họ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú họ [chú họ]\n*danh từ\n-parent\"s cousin, uncle"
-      }
-    ]
-  },
-  {
-    "word": "chúm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thu lại gần nhau thành hình núm tròn\nVí dụ:\n- con bé chúm mấy đầu ngón tay lại"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thu lại gần nhau thành hình núm tròn\nVí dụ:\n- những cánh hoa đang chúm lại"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúm\n*verb\n-To round (lips)\n=chúm miệng hu\"yt sáo\n+to round one\"s lips and whistle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúm\n* verb\n- To round (lips)\n=chúm miệng hu'yt sáo+to round one's lips and whistle"
-      }
-    ]
-  },
-  {
-    "word": "chú dẫn bao bì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-packing instructions"
+        "dict_definition": "group, people; (pluralizer for persons)"
       }
     ]
   },
@@ -747,57 +1178,243 @@
     ]
   },
   {
-    "word": "chúa cứu thế",
+    "word": "chúng ông",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chúa Jesus, theo quan niệm của đạo Kitô"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chúa Jesus, theo quan niệm của đạo Kitô"
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng ông [chúng ông]\n-we (very arrogant)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "the Savior"
+        "dict_definition": "we (very arrogant)"
       }
     ]
   },
   {
-    "word": "chú thích",
+    "word": "chú bé nhanh nhảu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ghi phụ thêm để giải thích cho rõ\nVí dụ:\n- tác giả đã chú thích những từ khó"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú thích\n-To provide with notes*noun\n-Note\n=chú thích ở cuối trang\n+a footnote\n-(khẩu ngữ)Thief\n@Chuyên ngành kinh tế\n-annotate\n-annotation\n-note\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-annotation\n-caption\n-comment\n-note\n-notice\n-remark\n-to comment (vs)@Lĩnh vực: toán & tin\n-cutline\n-legend\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-annotation\n-caption\n-comment\n-note\n-notice\n-remark\n-to comment (vs)@Lĩnh vực: toán & tin\n-cutline\n-legend"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú thích\n- To provide with notes\n* noun\n- Note\n=chú thích ở cuối trang+a footnote\n-(khẩu ngữ)Thief"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to annotate, note, edit, make a note; note, annotation"
+        "dict_definition": "an active little boy"
       }
     ]
   },
   {
-    "word": "chúi đầu",
+    "word": "chúc may mắn",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "để hết tâm trí vào làm việc gì, không để ý đến xung quanh\nVí dụ:\n- khi ở nhà, nó luôn chúi đầu vào sách vở"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bon voyage"
+      }
+    ]
+  },
+  {
+    "word": "chúng tròn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "round"
+      }
+    ]
+  },
+  {
+    "word": "chút thì giờ nữa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a little more time"
+      }
+    ]
+  },
+  {
+    "word": "chú giải",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chú giải\n- đgt. Viết lời giải thích các chỗ khó trong sách để cho hiểu rõ: chú giải điển tích trong Truyện Kiều."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chúi đầu\n-như chúi\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-nose dive\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-nose dive"
+        "dict_definition": "@chú giải\n-Như chú thích\n@Chuyên ngành kinh tế\n-annotate\n-note\n@Chuyên ngành kỹ thuật\n-annotate\n-annotation\n-comment\n-notation\n-note\n@Lĩnh vực: toán & tin\n-caption\n-cutline\n-legend\n@Chuyên ngành kỹ thuật\n-annotate\n-annotation\n-comment\n-notation\n-note\n@Lĩnh vực: toán & tin\n-caption\n-cutline\n-legend"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúi đầu\n- như chúi"
+        "dict_definition": "@chú giải\n- Như chú thích"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "comment"
+      }
+    ]
+  },
+  {
+    "word": "chúa tể",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kẻ nắm toàn bộ quyền thống trị, quyền chi phối\nVí dụ:\n- làm chúa tể một vùng \n - chúa tể rừng xanh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúa tể\n*noun\n-Supreme ruler\n=làm chúa tể một vùng\n+to be supreme ruler of a region"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúa tể\n* noun\n- Supreme ruler\n=làm chúa tể một vùng+to be supreme ruler of a region"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "chief, master, lord"
+      }
+    ]
+  },
+  {
+    "word": "chúc thọ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chúc [người già] sống lâu\nVí dụ:\n- con cháu chúc thọ ông bà"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúc thọ\n-To wish (an elderly person) longevity\n=Chúc thọ: Phong tục của đồng bào Khmer Nam bộ. Khi cha mẹ, thầy học đến tuổi già, học trò, con cháu sẽ tổ chức lễ chúc thọ cha mẹ, thầy học để mong cho họ mạnh khỏe, sống lâu và mang ý nghĩa trả ơn\n+Chúc thọ (Longevity wishing ceremony): A custom from the Khmer (Khơ-Me) community in South-Vietnam. When their parents or teachers reach the old age, children or learners show their profound gratitude to them by celebrating a ceremony to wish them good health and long life"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúc thọ\n- To wish (an elderly person) longevity\n=Chúc thọ: Phong tục của đồng bào Khmer Nam bộ. Khi cha mẹ, thầy học đến tuổi già, học trò, con cháu sẽ tổ chức lễ chúc thọ cha mẹ, thầy học để mong cho họ mạnh khỏe, sống lâu và mang ý nghĩa trả ơn+Chúc thọ (Longevity wishing ceremony): A custom from the Khmer (Khơ-Me) community in South-Vietnam. When their parents or teachers reach the old age, children or learners show their profound gratitude to them by celebrating a ceremony to wish them good health and long life"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wish a long life, birthday (for an old person)"
+      }
+    ]
+  },
+  {
+    "word": "chú chích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú chích [chú chích]\n-thief"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "thief"
+      }
+    ]
+  },
+  {
+    "word": "chúng thường",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ordinary people"
+      }
+    ]
+  },
+  {
+    "word": "chúng ta",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp người nói dùng để chỉ bản thân mình cùng với người đối thoại\nVí dụ:\n- tổ quốc của chúng ta \n - ngày mai chúng ta sẽ bàn tiếp"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúng ta\n-We, us (including person addressed)\n@Chuyên ngành kỹ thuật\n-we\n@Chuyên ngành kỹ thuật\n-we"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúng ta\n- We, us (including person addressed)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "we (includes the speaker and the person spoken to)"
+      }
+    ]
+  },
+  {
+    "word": "chút xíu nữa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a little bit more, just a little more"
+      }
+    ]
+  },
+  {
+    "word": "chúm chím",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả dáng môi hơi mấp máy và chúm lại, không hé mở ra\nVí dụ:\n- miệng cười chúm chím"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chúm chím\n-To open slightly (one\"s lips)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chúm chím\n- To open slightly (one's lips)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to open slightly (one’s lips)"
+      }
+    ]
+  },
+  {
+    "word": "chú trọng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đặc biệt coi trọng\nVí dụ:\n- nhà trường chú trọng đến công tác giảng dạy \n - cốt ở nội dung, không chú trọng hình thức"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú trọng\n*verb\n-To attach special importance to\n=chú trọng cả chất lượng lẫn số lượng sản phẩm\n+to attach special importance to both the quality and quantity of the products"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chú trọng\n* verb\n- To attach special importance to\n=chú trọng cả chất lượng lẫn số lượng sản phẩm+to attach special importance to both the quality and quantity of the products"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pay attention, attach importance"
+      }
+    ]
+  },
+  {
+    "word": "chú rể",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người con trai lấy vợ, trong hôm làm lễ cưới"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chú rể [chú rể]\n-groom;  bridegroom"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "groom, bridegroom"
+      }
+    ]
+  },
+  {
+    "word": "chú thích cuối trang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-running foot\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-running foot"
+      }
+    ]
+  },
+  {
+    "word": "chú dẫn bao bì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-packing instructions"
       }
     ]
   },
@@ -855,171 +1472,54 @@
     ]
   },
   {
-    "word": "chú thích ảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-caption"
-      }
-    ]
-  },
-  {
-    "word": "chúng cháu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng cháu [chúng cháu]\n-we (when addressing one\"s uncle/aunt or one\"s grandparents)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "we (when addressing one’s uncle or aunt or one’s"
-      }
-    ]
-  },
-  {
-    "word": "chúng khẩu đồng từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng khẩu đồng từ [chúng khẩu đồng từ]\n-all reporting the same, unanimous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "all reporting the same, unanimous"
-      }
-    ]
-  },
-  {
-    "word": "chú thích cuối trang (báo cáo tài chính)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-footnote"
-      }
-    ]
-  },
-  {
-    "word": "chú âm",
+    "word": "chú thích",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng kí hiệu ghi chú phát âm của từ ngữ tiếng Hán"
+        "dict_definition": "ghi phụ thêm để giải thích cho rõ\nVí dụ:\n- tác giả đã chú thích những từ khó"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chú âm [chú âm]\n-phoneticize, show the pronunciation"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to indicate pronunciation (phonetically)"
-      }
-    ]
-  },
-  {
-    "word": "chúng (vi khuẩn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-strain"
-      }
-    ]
-  },
-  {
-    "word": "chú mình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp dùng trong đối thoại để gọi một cách thân mật em trai, hoặc người đàn ông khác chưa lớn tuổi lắm, coi như vai em trai của mình\nVí dụ:\n- chú mình định đi đâu thế?"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú mình\n-(Intimate form of address used with one\"s younger brother or a young man about the same age and position)"
+        "dict_definition": "@chú thích\n-To provide with notes*noun\n-Note\n=chú thích ở cuối trang\n+a footnote\n-(khẩu ngữ)Thief\n@Chuyên ngành kinh tế\n-annotate\n-annotation\n-note\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-annotation\n-caption\n-comment\n-note\n-notice\n-remark\n-to comment (vs)@Lĩnh vực: toán & tin\n-cutline\n-legend\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-annotation\n-caption\n-comment\n-note\n-notice\n-remark\n-to comment (vs)@Lĩnh vực: toán & tin\n-cutline\n-legend"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú mình\n- (Intimate form of address used with one's younger brother or a young man about the same age and position)"
-      }
-    ]
-  },
-  {
-    "word": "chút nào hết",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(not) one bit, (not) even a little"
-      }
-    ]
-  },
-  {
-    "word": "chú tâm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "để hết tâm trí [vào việc gì]\nVí dụ:\n- nó chú tâm vào học hành \n - đừng chú tâm vào những chuyện vặt vãnh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú tâm\n*verb\n-To give one\"s whole mind to\n=chú tâm học tập\n+to give one\"s whole mind to one\"s study"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chú tâm\n* verb\n- To give one's whole mind to\n=chú tâm học tập+to give one's whole mind to one's study"
+        "dict_definition": "@chú thích\n- To provide with notes\n* noun\n- Note\n=chú thích ở cuối trang+a footnote\n-(khẩu ngữ)Thief"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to concentrate on, pay attention to"
+        "dict_definition": "to annotate, note, edit, make a note; note, annotation"
       }
     ]
   },
   {
-    "word": "chú giải (của biểu đồ, bản đồ, đồ thị)",
+    "word": "chú họ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-legend (for a graph, map, diagram)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-legend (for a graph, map, diagram)"
+        "dict_definition": "@chú họ [chú họ]\n*danh từ\n-parent\"s cousin, uncle"
       }
     ]
   },
   {
-    "word": "chút quà nhỏ nhoi",
+    "word": "chúc sơn",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a small gift"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chúc Sơn\n- (thị trấn) h. Chương Mỹ, t. Hà Tây"
       }
     ]
   },
   {
-    "word": "chúc phúc",
+    "word": "chúng con",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chúc phúc [chúc phúc]\n-to wish somebody well"
+        "dict_definition": "@chúng con [chúng con]\n-we (when addressing one\"s parents/grandparents or one\"s uncle/aunt)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to wish somebody well"
-      }
-    ]
-  },
-  {
-    "word": "chúc thọ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chúc [người già] sống lâu\nVí dụ:\n- con cháu chúc thọ ông bà"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúc thọ\n-To wish (an elderly person) longevity\n=Chúc thọ: Phong tục của đồng bào Khmer Nam bộ. Khi cha mẹ, thầy học đến tuổi già, học trò, con cháu sẽ tổ chức lễ chúc thọ cha mẹ, thầy học để mong cho họ mạnh khỏe, sống lâu và mang ý nghĩa trả ơn\n+Chúc thọ (Longevity wishing ceremony): A custom from the Khmer (Khơ-Me) community in South-Vietnam. When their parents or teachers reach the old age, children or learners show their profound gratitude to them by celebrating a ceremony to wish them good health and long life"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúc thọ\n- To wish (an elderly person) longevity\n=Chúc thọ: Phong tục của đồng bào Khmer Nam bộ. Khi cha mẹ, thầy học đến tuổi già, học trò, con cháu sẽ tổ chức lễ chúc thọ cha mẹ, thầy học để mong cho họ mạnh khỏe, sống lâu và mang ý nghĩa trả ơn+Chúc thọ (Longevity wishing ceremony): A custom from the Khmer (Khơ-Me) community in South-Vietnam. When their parents or teachers reach the old age, children or learners show their profound gratitude to them by celebrating a ceremony to wish them good health and long life"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wish a long life, birthday (for an old person)"
+        "dict_definition": "we (when addressing one’s parents or grandparents or one’s"
       }
     ]
   },
@@ -1049,144 +1549,24 @@
     ]
   },
   {
-    "word": "chút đỉnh",
+    "word": "chú giải của ban cán bộ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "một phần nào đó rất nhỏ, coi như không đáng là bao\nVí dụ:\n- cố ăn chút đỉnh cho lại người \n - khá hơn chút đỉnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chút đỉnh\n- dt. Một ít thôi, coi như không đáng kể: biếu nhau chút đỉnh gọi là  ước hẹn với nhau chút đỉnh."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-official staff commentry"
+      }
+    ]
+  },
+  {
+    "word": "chú tiểu",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chút đỉnh\n-A little bit"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chút đỉnh\n- A little bit"
+        "dict_definition": "@chú tiểu [chú tiểu]\n*danh từ\n-novice, lay brother (in Buddhist temple)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "a little bit"
-      }
-    ]
-  },
-  {
-    "word": "chút xíu nữa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a little bit more, just a little more"
-      }
-    ]
-  },
-  {
-    "word": "chúa xuân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúa xuân [chúa xuân]\n*danh từ\n-spring goddess, spring\n-(từ cũ, nghĩa cũ) husband"
-      }
-    ]
-  },
-  {
-    "word": "chúa ngục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúa ngục [chúa ngục]\n-jailer;  warden;  warder"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "jailer, warden, warder"
-      }
-    ]
-  },
-  {
-    "word": "chúc thư",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bản di chúc, đặc biệt về việc xử lí các tài sản của mình sau khi chết\nVí dụ:\n- lập chúc thư"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chúc thư\n- dt. Bản viết của một người trước khi chết nói rõ ý muốn của mình về việc phân chia tài sản của mình để lại, về việc ứng xử trong gia đình, họ hàng...: chúc thư của ông nội  làm đúng như chúc thư  viết chúc thư."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúc thư\n*noun\n-Will, testament\n@Chuyên ngành kinh tế\n-testament\n-will"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúc thư\n* noun\n- Will, testament"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will, testament"
-      }
-    ]
-  },
-  {
-    "word": "chúc từ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chúc từ\n- dt. (H. chúc: chúc mừng; từ: lời) Lời chúc mừng; Bài chúc mừng nhân một dịp vui của người nào: Học sinh đọc chúc từ trước mặt cô giáo nhân dịp tết nguyên đán."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúc từ\n*noun\n-Formal eulogy with wishes (at a ceremony, banquet...)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúc từ\n* noun\n- Formal eulogy with wishes (at a ceremony, banquet...)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "formal eulogy with wishes (at a ceremony, banquet)"
-      }
-    ]
-  },
-  {
-    "word": "chú tâm đến vùng âu châu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pay attention to, concentrate on Europe"
-      }
-    ]
-  },
-  {
-    "word": "chú ý đến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-consider\n-in consideration of\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-consider\n-in consideration of"
-      }
-    ]
-  },
-  {
-    "word": "chúc tết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúc tết [chúc tết]\n-to wish somebody a Happy New Year"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wish somebody a happy new year"
-      }
-    ]
-  },
-  {
-    "word": "chú khi ni mi khi khác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chú khi ni mi khi khác [chú khi ni mi khi khác]\n-xem"
+        "dict_definition": "novice, lay brother (in Buddhist temple)"
       }
     ]
   },
@@ -1200,408 +1580,28 @@
     ]
   },
   {
-    "word": "chúi về đuôi (tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the stern\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the stern"
-      }
-    ]
-  },
-  {
-    "word": "chúi",
+    "word": "chúa cứu thế",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngả phần đầu về phía trước\nVí dụ:\n- Hắn chúi đầu về phía trước \n - chúi nòng súng xuống đất"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chúi\n- đg. 1 Ngả đầu về phía trước. Đi hơi chúi về phía trước. Thuyền chúi mũi. Ngã chúi vào nhau. 2 (kng.; id.). Để hết tâm trí vào việc gì; chúi đầu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúi\n*verb\n-To bend one\"s head forward\n=đi hơi chúi về phía trước\n+to walk with one\"s head a little bent forward\n=thuyền chúi mũi\n+the boat bent its prow forward, the boat dipped its prow\n-To be completely engrossed in\n=chúi vào công việc\n+to be completely engrossed in one\"s work"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúi\n* verb\n- To bend one's head forward\n=đi hơi chúi về phía trước+to walk with one's head a little bent forward\n=thuyền chúi mũi+the boat bent its prow forward, the boat dipped its prow\n-To be completely engrossed in\n=chúi vào công việc+to be completely engrossed in one's work"
-      }
-    ]
-  },
-  {
-    "word": "chúi nhủi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngã chúi xuống, không gượng được\nVí dụ:\n- bị vấp phải hòn đá, ngã chúi nhủi"
-      }
-    ]
-  },
-  {
-    "word": "chúc có kèm điều kiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-conditional will"
-      }
-    ]
-  },
-  {
-    "word": "chú trọng xuất khẩu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-export-oriented"
-      }
-    ]
-  },
-  {
-    "word": "chúng nó",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp dùng để chỉ nhóm người ngang hàng hay hàng dưới hoặc nhóm động vật đã được xác định nào đó\nVí dụ:\n- bọn trẻ bây giờ chúng nó khôn lắm \n - phải cho chúng nó biết tay!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chúng nó\n- đt. Ngôi thứ ba về số nhiều chỉ những người ở bực dưới hoặc những người mà mình khinh miệt: Con cái còn dại thì phải dạy bảo chúng nó; Những thằng ác ôn ấy đều bị bắt, thực đáng kiếp chúng nó."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng nó\n-They; them"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúng nó\n-They; them"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "they (impolite)"
-      }
-    ]
-  },
-  {
-    "word": "chúng sinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tất cả những sinh vật nói chung; cũng dùng để chỉ người và động vật, theo quan niệm của đạo Phật\nVí dụ:\n- phổ độ chúng sinh"
+        "dict_definition": "chúa Jesus, theo quan niệm của đạo Kitô"
       },
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tất cả những cô hồn không ai thờ cúng, theo quan niệm dân gian\nVí dụ:\n- cúng chúng sinh \n - \"Thương thay thập loại chúng sinh, Hồn đơn phách chiếc lênh đênh quê người.\" (CH)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chúng sinh\n- d. Tất cả những gì có sự sống, nói chung; có khi chuyên dùng để chỉ người và động vật (nói tổng quát), theo cách nói trong đạo Phật. Phổ độ chúng sinh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng sinh\n-Living beings\n=\n+ouls of the dead (theo lối nói của đạo Phật)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúng sinh\n- Living beings\n=Souls of the dead (theo lối nói của đạo Phật)"
+        "dict_definition": "chúa Jesus, theo quan niệm của đạo Kitô"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "living beings, souls of the dead"
+        "dict_definition": "the Savior"
       }
     ]
   },
   {
-    "word": "chúa tể",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kẻ nắm toàn bộ quyền thống trị, quyền chi phối\nVí dụ:\n- làm chúa tể một vùng \n - chúa tể rừng xanh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúa tể\n*noun\n-Supreme ruler\n=làm chúa tể một vùng\n+to be supreme ruler of a region"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúa tể\n* noun\n- Supreme ruler\n=làm chúa tể một vùng+to be supreme ruler of a region"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "chief, master, lord"
-      }
-    ]
-  },
-  {
-    "word": "chúng tôi được ba cháu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "we have 3 children"
-      }
-    ]
-  },
-  {
-    "word": "chút ít",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "một phần rất nhỏ, rất ít\nVí dụ:\n- kế hoạch có thay đổi chút ít"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chút ít\n-A little\n@Chuyên ngành kỹ thuật\n-little bit\n@Chuyên ngành kỹ thuật\n-little bit"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chút ít\n- A little"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a little bit, small, slightly"
-      }
-    ]
-  },
-  {
-    "word": "chúc ngài được bình an",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I wish you good health"
-      }
-    ]
-  },
-  {
-    "word": "chú giải bảng và cây kết hợp",
+    "word": "chú ý đến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Tree And Tabular Combined Notation (TCCN)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Tree And Tabular Combined Notation (TCCN)"
-      }
-    ]
-  },
-  {
-    "word": "chút",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cháu đời thứ năm, con của chắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lượng rất nhỏ, rất ít, gần như không đáng kể\nVí dụ:\n- chờ chút \n - bớt chút thời gian \n - \"Bấy lâu mới được một ngày, Dừng chân, gạn chút niềm tây gọi là...\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chút\n- 1 d. Cháu đời thứ năm, con của chắt.\n- 2 d. Lượng rất nhỏ, rất ít, gần như không đáng kể; cái ít ỏi. Bớt chút thì giờ. Không chút ngần ngại. Sinh được chút con trai."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chút\n*noun\n-Great-great grandchild\n=Whit (chỉ dùng phủ ddi.nh), dash (of pepper, whiskỵ.), crumb (of\n+information, comfort). little"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chút\n* noun\n- Great-great grandchild\n=Whit (chỉ dùng phủ ddi.nh), dash (of pepper, whiskỵ.), crumb (of+information, comfort). little"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) a little bit, a tiny bit, a short while; (2) great-great grandchild"
-      }
-    ]
-  },
-  {
-    "word": "chú thích cuối đoạn tiếp tục ở trang kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Endnotes Continued on the next page\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Endnotes Continued on the next page"
-      }
-    ]
-  },
-  {
-    "word": "chúc tụng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chúc mừng và ca tụng\nVí dụ:\n- lời chúc tụng \n - được mọi người chúc tụng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúc tụng\n-To express one\"s wishes and praises"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúc tụng\n- To express one's wishes and praises"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to complement, praise, toast"
-      }
-    ]
-  },
-  {
-    "word": "chúng tao",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chúng tôi [nhưng dùng với người dưới hoặc ngang hàng, thường tỏ ý coi thường]\nVí dụ:\n- chuyện của mày, chúng tao không tham gia \n - ngày mai chúng tao sẽ đi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng tao [chúng tao]\n-(lối nói xấc xược) we\n-us\n-our"
-      }
-    ]
-  },
-  {
-    "word": "chú ý về phạm vi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scope note\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scope note"
-      }
-    ]
-  },
-  {
-    "word": "chúc sơn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chúc Sơn\n- (thị trấn) h. Chương Mỹ, t. Hà Tây"
-      }
-    ]
-  },
-  {
-    "word": "chú bé nhanh nhảu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "an active little boy"
-      }
-    ]
-  },
-  {
-    "word": "chúng tớ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng tớ [chúng tớ]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "chút thì giờ nữa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a little more time"
-      }
-    ]
-  },
-  {
-    "word": "chút phận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chút phận [chút phận]\n-modest condition"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "modest condition"
-      }
-    ]
-  },
-  {
-    "word": "chút nữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chút nữa [chút nữa]\n-a bit/little later;  in a short/little while\n-xem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "little more"
-      }
-    ]
-  },
-  {
-    "word": "chú ý ( tiền tố lệnh của các môđem hayes )",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Attention (Hayes Modems Command Prefix) (AT)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Attention (Hayes Modems Command Prefix) (AT)"
-      }
-    ]
-  },
-  {
-    "word": "chút thân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chút thân [chút thân]\n-humble life"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "humble life"
-      }
-    ]
-  },
-  {
-    "word": "chúng em",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúng em [chúng em]\n-We (when addressing one\"s elder brother or sister)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "we (when addressing one’s elder brother or sister)"
-      }
-    ]
-  },
-  {
-    "word": "chúa công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúa công\n*noun\n-Lord"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúa công\n* noun\n- Lord"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lord"
-      }
-    ]
-  },
-  {
-    "word": "chúi phần mũi (tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the head\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-down by the head"
-      }
-    ]
-  },
-  {
-    "word": "chút nào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chút nào [chút nào]\n-at all\n-some"
-      }
-    ]
-  },
-  {
-    "word": "chúa nhật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chúa nhật\n-Như chủ nhật"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chúa nhật\n- Như chủ nhật"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-consider\n-in consideration of\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-consider\n-in consideration of"
       }
     ]
   }

@@ -1,60 +1,5 @@
 [
   {
-    "word": "dẽ gà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "loài dẽ cỡ lớn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẽ gà\n-(động vật) Woodcock"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dẽ gà\n- (động vật) Woodcock"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "woodcock"
-      }
-    ]
-  },
-  {
-    "word": "dẽ tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẽ tính\n-Gentle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dẽ tính\n- Gentle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gentle"
-      }
-    ]
-  },
-  {
-    "word": "dẽ dàng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[nói năng] nhỏ nhẹ, dịu dàng, nhưng rành rọt\nVí dụ:\n- dẽ dàng bảo ban \n - giọng nói dẽ dàng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẽ dàng\n-Courteous, gentle\n=Ăn nói dẽ dàng\n+To speak gently"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dẽ dàng\n- Courteous, gentle\n=Ăn nói dẽ dàng+To speak gently"
-      }
-    ]
-  },
-  {
     "word": "dẽ",
     "definitions": [
       {
@@ -76,6 +21,70 @@
     ]
   },
   {
+    "word": "dẽo dai",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tough, strong, resilient"
+      }
+    ]
+  },
+  {
+    "word": "dẽ gà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "loài dẽ cỡ lớn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẽ gà\n-(động vật) Woodcock"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dẽ gà\n- (động vật) Woodcock"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "woodcock"
+      }
+    ]
+  },
+  {
+    "word": "dẽ dàng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[nói năng] nhỏ nhẹ, dịu dàng, nhưng rành rọt\nVí dụ:\n- dẽ dàng bảo ban \n - giọng nói dẽ dàng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẽ dàng\n-Courteous, gentle\n=Ăn nói dẽ dàng\n+To speak gently"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dẽ dàng\n- Courteous, gentle\n=Ăn nói dẽ dàng+To speak gently"
+      }
+    ]
+  },
+  {
+    "word": "dẽ tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẽ tính\n-Gentle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dẽ tính\n- Gentle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gentle"
+      }
+    ]
+  },
+  {
     "word": "dẽ giun",
     "definitions": [
       {
@@ -93,15 +102,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "snipe"
-      }
-    ]
-  },
-  {
-    "word": "dẽo dai",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tough, strong, resilient"
       }
     ]
   }

@@ -1,10 +1,14 @@
 [
   {
-    "word": "ctcp",
+    "word": "ct",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "công ti cổ phần [viết tắt]"
+        "dict_definition": "chỉ thị [viết tắt]"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "chủ tịch (chairman, president)"
       }
     ]
   },
@@ -22,15 +26,11 @@
     ]
   },
   {
-    "word": "ct",
+    "word": "ctcp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chỉ thị [viết tắt]"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "chủ tịch (chairman, president)"
+        "dict_definition": "công ti cổ phần [viết tắt]"
       }
     ]
   }

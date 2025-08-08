@@ -1,18 +1,59 @@
 [
   {
-    "word": "vẩn vơ",
+    "word": "vẩy hàn",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái suy nghĩ, nói năng hay đi lại mà không ý thức rõ mình muốn gì, nhằm vào cái gì, lí do tại sao\nVí dụ:\n- đi vẩn vơ ngoài đường \n - nghĩ ngợi vẩn vơ"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bead"
+      }
+    ]
+  },
+  {
+    "word": "vẩn đục nước muối",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vẩn vơ - lounge, saunter, stroll, loaf\n-dream, be in a dreams\n-have a day-dreams\n-undefined vague\n-uncertain, faint"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brine fog\n-brine mist"
+      }
+    ]
+  },
+  {
+    "word": "vẩy tưới nước muối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brine solution"
+      }
+    ]
+  },
+  {
+    "word": "vẩy nước đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice chip\n-ice flake"
+      }
+    ]
+  },
+  {
+    "word": "vẩn thạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-meteor trail\n-meteoric stone\n-meteorite"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "vague, unclear, undecided, wavering, aimless, idle"
+        "dict_definition": "meteorite"
+      }
+    ]
+  },
+  {
+    "word": "vẩy hàn kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-weld metal splatter"
       }
     ]
   },
@@ -26,11 +67,54 @@
     ]
   },
   {
-    "word": "vẩn kế",
+    "word": "vẩy (nước) đá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-turbidimeter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice chip\n-ice flake"
+      }
+    ]
+  },
+  {
+    "word": "vẩy tung lên (chất lỏng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-splash"
+      }
+    ]
+  },
+  {
+    "word": "vẩy cá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-paddle"
+      }
+    ]
+  },
+  {
+    "word": "vẩn đục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái có nhiều gợn bẩn nổi lên, làm cho không còn trong sạch nữa\nVí dụ:\n- dòng nước gợn bùn, vẩn đục \n - tâm hồn bị vẩn đục"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vẩn đục\n- t. Ở trạng thái có nhiều gợn bẩn nổi lên, không trong lắng. Nước bị vẩn đục. Mây đen làm vẩn đục bầu trời. Lòng không hề vẩn đục (b.)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vẩn đục\n*noun\n-muddy, turbid"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vẩn đục\n* noun\n- muddy, turbid"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "turbid, muddy"
       }
     ]
   },
@@ -52,11 +136,20 @@
     ]
   },
   {
-    "word": "vẩn (đục)",
+    "word": "vẩu răng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be buck toothed, have buck teeth"
+      }
+    ]
+  },
+  {
+    "word": "vẩy bùn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-turbid"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-puddle"
       }
     ]
   },
@@ -86,42 +179,41 @@
     ]
   },
   {
-    "word": "vẩn thạch",
+    "word": "vẩy nến",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem vảy nến"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-meteor trail\n-meteoric stone\n-meteorite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wax flake"
+      }
+    ]
+  },
+  {
+    "word": "vẩn vơ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái suy nghĩ, nói năng hay đi lại mà không ý thức rõ mình muốn gì, nhằm vào cái gì, lí do tại sao\nVí dụ:\n- đi vẩn vơ ngoài đường \n - nghĩ ngợi vẩn vơ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vẩn vơ - lounge, saunter, stroll, loaf\n-dream, be in a dreams\n-have a day-dreams\n-undefined vague\n-uncertain, faint"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "meteorite"
+        "dict_definition": "vague, unclear, undecided, wavering, aimless, idle"
       }
     ]
   },
   {
-    "word": "vẩy hàn kim loại",
+    "word": "vẩn kế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-weld metal splatter"
-      }
-    ]
-  },
-  {
-    "word": "vẩu hai hàm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-double protrution"
-      }
-    ]
-  },
-  {
-    "word": "vẩy cá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-paddle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-turbidimeter"
       }
     ]
   },
@@ -151,78 +243,6 @@
     ]
   },
   {
-    "word": "vẩy cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crust"
-      }
-    ]
-  },
-  {
-    "word": "vẩy hàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bead"
-      }
-    ]
-  },
-  {
-    "word": "vẩu răng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be buck toothed, have buck teeth"
-      }
-    ]
-  },
-  {
-    "word": "vẩy tung lên (chất lỏng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-splash"
-      }
-    ]
-  },
-  {
-    "word": "vẩy tưới nước muối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brine solution"
-      }
-    ]
-  },
-  {
-    "word": "vẩy nước đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice chip\n-ice flake"
-      }
-    ]
-  },
-  {
-    "word": "vẩy (nước) đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice chip\n-ice flake"
-      }
-    ]
-  },
-  {
-    "word": "vẩn đục nước muối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brine fog\n-brine mist"
-      }
-    ]
-  },
-  {
     "word": "vẩn đục của nước",
     "definitions": [
       {
@@ -232,49 +252,29 @@
     ]
   },
   {
-    "word": "vẩy bùn",
+    "word": "vẩy cứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-puddle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crust"
       }
     ]
   },
   {
-    "word": "vẩy nến",
+    "word": "vẩn (đục)",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem vảy nến"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wax flake"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-turbid"
       }
     ]
   },
   {
-    "word": "vẩn đục",
+    "word": "vẩu hai hàm",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái có nhiều gợn bẩn nổi lên, làm cho không còn trong sạch nữa\nVí dụ:\n- dòng nước gợn bùn, vẩn đục \n - tâm hồn bị vẩn đục"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vẩn đục\n- t. Ở trạng thái có nhiều gợn bẩn nổi lên, không trong lắng. Nước bị vẩn đục. Mây đen làm vẩn đục bầu trời. Lòng không hề vẩn đục (b.)."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@vẩn đục\n*noun\n-muddy, turbid"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vẩn đục\n* noun\n- muddy, turbid"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "turbid, muddy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-double protrution"
       }
     ]
   }

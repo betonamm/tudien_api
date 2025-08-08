@@ -9,11 +9,11 @@
     ]
   },
   {
-    "word": "scautit",
+    "word": "scsi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-scawtite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SCSI (Small Computer System Interface)"
       }
     ]
   },
@@ -27,11 +27,11 @@
     ]
   },
   {
-    "word": "scanner",
+    "word": "sco (đơn vị trọng lượng heo, bò, bằng 20 hoặc 21 pao)",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem máy quét"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-score"
       }
     ]
   },
@@ -45,29 +45,11 @@
     ]
   },
   {
-    "word": "scsi",
+    "word": "scautit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SCSI (Small Computer System Interface)"
-      }
-    ]
-  },
-  {
-    "word": "scsi-2",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SCSI-2"
-      }
-    ]
-  },
-  {
-    "word": "sc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-scandium"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-scawtite"
       }
     ]
   },
@@ -77,15 +59,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-scarn"
-      }
-    ]
-  },
-  {
-    "word": "scandi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Sc (scandium)"
       }
     ]
   },
@@ -108,11 +81,38 @@
     ]
   },
   {
-    "word": "sco (đơn vị trọng lượng heo, bò, bằng 20 hoặc 21 pao)",
+    "word": "scanner",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem máy quét"
+      }
+    ]
+  },
+  {
+    "word": "sc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-score"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-scandium"
+      }
+    ]
+  },
+  {
+    "word": "scandi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Sc (scandium)"
+      }
+    ]
+  },
+  {
+    "word": "scsi-2",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-SCSI-2"
       }
     ]
   }

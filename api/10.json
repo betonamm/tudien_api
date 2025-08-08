@@ -1,15 +1,24 @@
 [
   {
-    "word": "1000 bảng anh",
+    "word": "100 lần đơn vị cơ bản",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-grand"
+        "dict_definition": "@Chuyên ngành kinh tế\n-hecto"
       }
     ]
   },
   {
-    "word": "1000 đô la mỹ",
+    "word": "10 mũ-6 ampe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-microampere\n@Chuyên ngành kỹ thuật\n-microampere"
+      }
+    ]
+  },
+  {
+    "word": "1000 bảng anh",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -27,20 +36,11 @@
     ]
   },
   {
-    "word": "10 mũ-6 ampe",
+    "word": "1000 đô la mỹ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-microampere\n@Chuyên ngành kỹ thuật\n-microampere"
-      }
-    ]
-  },
-  {
-    "word": "100 lần đơn vị cơ bản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hecto"
+        "dict_definition": "@Chuyên ngành kinh tế\n-grand"
       }
     ]
   }

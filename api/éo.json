@@ -1,18 +1,27 @@
 [
   {
-    "word": "éo ẹt",
+    "word": "éo sèo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bother, worry"
+      }
+    ]
+  },
+  {
+    "word": "éo ợt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@éo ẹt\n-Groan (nói về đòn gánh khi gánh nặng)\n=\n+�o à éo ẹt (láy, ý liên tiếp)"
+        "dict_definition": "@éo ợt\n-In an affected voice (different from one\"s usual voice)\n=Ăn nói ẽo ọt\n+To speak in an affected voice"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@éo ẹt\n- Groan (nói về đòn gánh khi gánh nặng)\n=éo à éo ẹt (láy, ý liên tiếp)"
+        "dict_definition": "@éo ợt\n- In an affected voice (different from one's usual voice)\n=Ăn nói ẽo ọt+To speak in an affected voice"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "groan"
+        "dict_definition": "in an affected voice (different from one’s usual voice)"
       }
     ]
   },
@@ -42,28 +51,19 @@
     ]
   },
   {
-    "word": "éo ợt",
+    "word": "éo ẹt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@éo ợt\n-In an affected voice (different from one\"s usual voice)\n=Ăn nói ẽo ọt\n+To speak in an affected voice"
+        "dict_definition": "@éo ẹt\n-Groan (nói về đòn gánh khi gánh nặng)\n=\n+�o à éo ẹt (láy, ý liên tiếp)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@éo ợt\n- In an affected voice (different from one's usual voice)\n=Ăn nói ẽo ọt+To speak in an affected voice"
+        "dict_definition": "@éo ẹt\n- Groan (nói về đòn gánh khi gánh nặng)\n=éo à éo ẹt (láy, ý liên tiếp)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "in an affected voice (different from one’s usual voice)"
-      }
-    ]
-  },
-  {
-    "word": "éo sèo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bother, worry"
+        "dict_definition": "groan"
       }
     ]
   }

@@ -1,39 +1,5 @@
 [
   {
-    "word": "thẩm mỹ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem thẩm mĩ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm mỹ\n- Cảm biết cái đẹp."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm mỹ\n*noun\n-taste, sense"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm mỹ\n* noun\n-taste, sense"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "taste, sense; to appreciate beauty"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền tài liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-document authority"
-      }
-    ]
-  },
-  {
     "word": "thẩu",
     "definitions": [
       {
@@ -51,76 +17,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(1) opium, poppy; (2) jar"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền hành chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Administrative Authority (AA)"
-      }
-    ]
-  },
-  {
-    "word": "thẩn thơ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như thơ thẩn\nVí dụ:\n- suy nghĩ thẩn thơ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩn thơ\n- t. Như thơ thẩn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩn thơ\n*verb\n-to stroll"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thẩn thơ\n* verb\n- to stroll"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to stroll"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mĩ học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-aesthetics"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra thống kê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-statistical verification"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền riêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-private authority"
-      }
-    ]
-  },
-  {
-    "word": "thẩm định đầu tư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-investment appraisal"
       }
     ]
   },
@@ -146,11 +42,405 @@
     ]
   },
   {
-    "word": "thẩm tra về quyết toán lợi nhuận",
+    "word": "thẩm tách máu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-audit of returns"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-haemodialysis"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra thực địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-field audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm định tài sản sở hữu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-proprietary view"
+      }
+    ]
+  },
+  {
+    "word": "thẩm vấn công khai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-public examination"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra viên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-examiner"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mỹ kiến trúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architectural aesthetics"
+      }
+    ]
+  },
+  {
+    "word": "thẩm thấu ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-damp infiltration"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra tổng cộng và việc vào sổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-verification of footings and postings"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mỹ công nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial aesthetics"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mĩ viện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mĩ viện\nVí dụ:\n- đến thẩm mĩ viện để sửa sang sắc đẹp"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mĩ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cảm thụ và hiểu biết về cái đẹp\nVí dụ:\n- óc thẩm mĩ \n - chức năng thẩm mĩ của văn học"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chăm sóc, sửa sang làm cho cơ thể trở nên đẹp hơn bằng các biện pháp kĩ thuật đặc biệt\nVí dụ:\n- phẫu thuật thẩm mĩ \n - dịch vụ thẩm mĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cái đẹp, khả năng cảm thụ cái đẹp\nVí dụ:\n- quan niệm về thẩm mĩ \n - một công trình kiến trúc thiếu thẩm mĩ"
+      }
+    ]
+  },
+  {
+    "word": "thẩm phán đoàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-magistracy\n-magistracy (the...)"
+      }
+    ]
+  },
+  {
+    "word": "thẩm kiểm tầng biên bắc cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Arctic Boundary Layer Expedition (US NASA) (ABLE)"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra tiền mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-verification of cash"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền thu thuế ưu tiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-primary jurisdiction"
+      }
+    ]
+  },
+  {
+    "word": "thẩn thờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩn thờ - distracted, apathy\n-listless, thoughtful and sad"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mĩ học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-aesthetics"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra thống kê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-statistical verification"
+      }
+    ]
+  },
+  {
+    "word": "thẩm định đầu tư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-investment appraisal"
+      }
+    ]
+  },
+  {
+    "word": "thẩm phán chuyên án",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ad hoc judge"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra công khai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-public audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra thiết kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-design review"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền hành chánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-administrative jurisdiction"
+      }
+    ]
+  },
+  {
+    "word": "thẩm a chi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thẩm A Chi\n- Xem Lộng Ngọc"
+      }
+    ]
+  },
+  {
+    "word": "thẩm bằng khảo sát và thử nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-verification by tests and scrutiny"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra khả năng tài chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mean test\n-means test"
+      }
+    ]
+  },
+  {
+    "word": "thẩm kế định kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-periodical audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mỹ học công nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial aesthetics"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền về đất đai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-territorial authority"
+      }
+    ]
+  },
+  {
+    "word": "thẩm phán tòa sơ thẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-judge of First Instance\n-judgement of First Instance"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra dự án",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-project appraisal"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra và đánh giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-review and appraisal"
+      }
+    ]
+  },
+  {
+    "word": "thẩm cứu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm cứu\n- Xét một vụ án."
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền về quy hoạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-planning authority"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mỹ viện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem thẩm mĩ viện"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-beauty salon"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "beauty salon, beauty parlor"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền hành chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Administrative Authority (AA)"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra (nhân viên dự tuyển)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-screening"
+      }
+    ]
+  },
+  {
+    "word": "thẩm lậu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lọt qua trái phép từng ít một, rất khó kiểm soát\nVí dụ:\n- rượu ngoại thẩm lậu vào thị trường trong nước \n - hàng giả thẩm lậu qua biên giới"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra hàng năm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-annual review"
+      }
+    ]
+  },
+  {
+    "word": "thẩm phán dự khuyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-deputy judge"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra tài vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-financial audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm phán sơ thẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trial judge"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-continuous review"
       }
     ]
   },
@@ -164,36 +454,102 @@
     ]
   },
   {
-    "word": "thẩm thấu",
+    "word": "thẩm tra một phần",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[hiện tượng một chất, thường là dung môi] khuếch tán qua một màng mỏng ngăn cách dung môi nguyên chất với dung dịch hoặc ngăn cách hai dung dịch có nồng độ khác nhau, màng mỏng này chỉ cho dung môi thấm qua mà thôi\nVí dụ:\n- tính thẩm thấu của nước"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như thẩm lậu [ng2]\nVí dụ:\n- hàng kém chất lượng thẩm thấu vào thị trường trong nước \n - hàng giả thẩm thấu qua biên giới"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm thấu\n- (lý) Hiện tượng các dung dịch thấm qua các màng động vật hay thực vật."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@thẩm thấu - endosmose, endosmosis\n\n@Chuyên ngành kinh tế\n-endosmosis\n-osmose\n-osmotic\n@Chuyên ngành kỹ thuật\n-osmose\n-osmosis\n-osmotic\n-osmotic phenomenon"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endosmose, endosmosis"
+        "dict_definition": "@Chuyên ngành kinh tế\n-partial audit"
       }
     ]
   },
   {
-    "word": "thẩm vấn công khai",
+    "word": "thẩm mỹ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem thẩm mĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm mỹ\n- Cảm biết cái đẹp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm mỹ\n*noun\n-taste, sense"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm mỹ\n* noun\n-taste, sense"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "taste, sense; to appreciate beauty"
+      }
+    ]
+  },
+  {
+    "word": "thẩm kế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-public examination"
+        "dict_definition": "@Chuyên ngành kinh tế\n-audit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-percolation gauge"
+      }
+    ]
+  },
+  {
+    "word": "thẩm định tài sản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-verification of assets"
+      }
+    ]
+  },
+  {
+    "word": "thẩn phán đứng đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-capital justiciar"
+      }
+    ]
+  },
+  {
+    "word": "thẩm xét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem xét lại một cách kĩ càng trước khi đưa ra quyết định\nVí dụ:\n- hội đồng đang thẩm xét danh sách khen thưởng \n - toà án đang thẩm xét vụ án \n - tôi đã thẩm xét mọi việc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm xét\n- Xét hỏi kỹ càng: Thẩm xét tội nhân."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm xét - examine, inspect, survey, investigate, explore"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "examine, inspect, survey, investigate, explore"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra thiết kế công trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-engineering design review"
+      }
+    ]
+  },
+  {
+    "word": "thẩm thấu học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-osmosology"
       }
     ]
   },
@@ -216,87 +572,47 @@
     ]
   },
   {
-    "word": "thẩm tra thực địa",
+    "word": "thẩm mỹ quan",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-field audit"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm mỹ quan\n- Quan niệm về cái đẹp."
       }
     ]
   },
   {
-    "word": "thẩm thấu ngược",
+    "word": "thẩm cấp chỉ huy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reverse osmosis"
+        "dict_definition": "@Chuyên ngành kinh tế\n-executive"
       }
     ]
   },
   {
-    "word": "thẩm quyền về quy hoạch",
+    "word": "thẩm quyền điều khiển công việc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-planning authority"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-job control authority"
       }
     ]
   },
   {
-    "word": "thẩm bằng khảo sát và thử nghiệm",
+    "word": "thẩm tra toàn diện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-verification by tests and scrutiny"
+        "dict_definition": "@Chuyên ngành kinh tế\n-comprehensive review"
       }
     ]
   },
   {
-    "word": "thẩm định giả thuyết",
+    "word": "thẩm quyền ký",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-testing assumptions"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra một phần (chọn ra một phần để tiến hành kiểm tra)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-audit by test"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra tổng cộng và việc vào sổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-verification of footings and postings"
-      }
-    ]
-  },
-  {
-    "word": "thẩm sát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm sát - examine, inspect, survey"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "examine, inspect, survey"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mỹ kỹ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-engineering aesthetics\n-technical aesthetics"
+        "dict_definition": "@Chuyên ngành kinh tế\n-authority to sign"
       }
     ]
   },
@@ -326,126 +642,6 @@
     ]
   },
   {
-    "word": "thẩm tách màng bụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vividialysis"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền đăng ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Registration Authority (RA)"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mỹ học kiến trúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architectural aesthetics"
-      }
-    ]
-  },
-  {
-    "word": "thẩn phán đứng đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-capital justiciar"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm tích - dialyze, dialysis"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dialyze, dialysis"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tách máu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-haemodialysis"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra sổ tổng cộng và việc vào sổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-verification of footings postings"
-      }
-    ]
-  },
-  {
-    "word": "thẩm kế định kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-periodical audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mĩ viện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mĩ viện\nVí dụ:\n- đến thẩm mĩ viện để sửa sang sắc đẹp"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền, giới chức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-authority"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra một phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-partial audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm đoán",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm đoán\n- Xét và đoán."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm đoán - estimate, value, rate, assess"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "estimate, value, rate, assess"
-      }
-    ]
-  },
-  {
     "word": "thẩm tra sơ bộ",
     "definitions": [
       {
@@ -455,181 +651,11 @@
     ]
   },
   {
-    "word": "thẩm tra số dư",
+    "word": "thẩm tách màng bụng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-verification of balance"
-      }
-    ]
-  },
-  {
-    "word": "thẩm thấu băng giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frost penetration"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền nhóm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-group authority"
-      }
-    ]
-  },
-  {
-    "word": "thẩm a chi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thẩm A Chi\n- Xem Lộng Ngọc"
-      }
-    ]
-  },
-  {
-    "word": "thẩm phán chuyên án",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ad hoc judge"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền hành chánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-administrative jurisdiction"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mỹ viện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem thẩm mĩ viện"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-beauty salon"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "beauty salon, beauty parlor"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra công khai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-public audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra hàng năm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-annual review"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-authority to sign"
-      }
-    ]
-  },
-  {
-    "word": "thẩm kiểm tầng biên bắc cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Arctic Boundary Layer Expedition (US NASA) (ABLE)"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra viên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-examiner"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền thu thuế ưu tiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-primary jurisdiction"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra (nhân viên dự tuyển)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-screening"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền về đất đai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-territorial authority"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra tài vụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-financial audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm vấn lương bổng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-salary survey"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra xã hội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-social audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm thấu học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-osmosology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vividialysis"
       }
     ]
   },
@@ -643,83 +669,56 @@
     ]
   },
   {
-    "word": "thẩm quyền (của ủy ban, của trọng tài ...)",
+    "word": "thẩm tra sổ tổng cộng và việc vào sổ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-terms of reference"
+        "dict_definition": "@Chuyên ngành kinh tế\n-verification of footings postings"
       }
     ]
   },
   {
-    "word": "thẩm tra nghiệp vụ",
+    "word": "thẩm tra tại chỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-business audit\n-operational audit"
+        "dict_definition": "@Chuyên ngành kinh tế\n-on-the-spot audit\n-site audit"
       }
     ]
   },
   {
-    "word": "thẩm quyền đọc",
+    "word": "thẩm quyền, giới chức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-read authority"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-authority"
       }
     ]
   },
   {
-    "word": "thẩm định tài sản sở hữu",
+    "word": "thẩm độ kế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-proprietary view"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-permeameter"
       }
     ]
   },
   {
-    "word": "thẩm phán đoàn",
+    "word": "thẩm vấn lương bổng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-magistracy\n-magistracy (the...)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-salary survey"
       }
     ]
   },
   {
-    "word": "thẩm cung",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hỏi cung một cách kĩ càng\nVí dụ:\n- vị chủ toạ đang thẩm cung một bị can"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền chung",
+    "word": "thẩm định trước... theo cách mà...",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-public authority"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra có sự đồng ý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-verification by consent"
-      }
-    ]
-  },
-  {
-    "word": "thẩm cứu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm cứu\n- Xét một vụ án."
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-prequalification in such a manner that"
       }
     ]
   },
@@ -733,19 +732,38 @@
     ]
   },
   {
-    "word": "thẩm mĩ",
+    "word": "thẩm quyền xác nhận",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cảm thụ và hiểu biết về cái đẹp\nVí dụ:\n- óc thẩm mĩ \n - chức năng thẩm mĩ của văn học"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Certification Authority (CA)"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra trách nhiệm",
+    "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chăm sóc, sửa sang làm cho cơ thể trở nên đẹp hơn bằng các biện pháp kĩ thuật đặc biệt\nVí dụ:\n- phẫu thuật thẩm mĩ \n - dịch vụ thẩm mĩ"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-responsibility audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm định dự án",
+    "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cái đẹp, khả năng cảm thụ cái đẹp\nVí dụ:\n- quan niệm về thẩm mĩ \n - một công trình kiến trúc thiếu thẩm mĩ"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-project appraisal"
+      }
+    ]
+  },
+  {
+    "word": "thẩm thấu (độ) ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-moisture infiltration"
       }
     ]
   },
@@ -775,11 +793,282 @@
     ]
   },
   {
-    "word": "thẩm cấp chỉ huy",
+    "word": "thẩm tra về quyết toán lợi nhuận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-executive"
+        "dict_definition": "@Chuyên ngành kinh tế\n-audit of returns"
+      }
+    ]
+  },
+  {
+    "word": "thẩm thấu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[hiện tượng một chất, thường là dung môi] khuếch tán qua một màng mỏng ngăn cách dung môi nguyên chất với dung dịch hoặc ngăn cách hai dung dịch có nồng độ khác nhau, màng mỏng này chỉ cho dung môi thấm qua mà thôi\nVí dụ:\n- tính thẩm thấu của nước"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như thẩm lậu [ng2]\nVí dụ:\n- hàng kém chất lượng thẩm thấu vào thị trường trong nước \n - hàng giả thẩm thấu qua biên giới"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm thấu\n- (lý) Hiện tượng các dung dịch thấm qua các màng động vật hay thực vật."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm thấu - endosmose, endosmosis\n\n@Chuyên ngành kinh tế\n-endosmosis\n-osmose\n-osmotic\n@Chuyên ngành kỹ thuật\n-osmose\n-osmosis\n-osmotic\n-osmotic phenomenon"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endosmose, endosmosis"
+      }
+    ]
+  },
+  {
+    "word": "thẩm định",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem xét nhằm đánh giá để xác định, quyết định\nVí dụ:\n- thẩm định văn chương \n - hội đồng đã thẩm định tính khả thi của dự án"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm định\n- đg. Xem xét để xác định, quyết định. Thẩm định giá trị tác phẩm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm định\n*verb\n-to consider and decide\n@Chuyên ngành kinh tế\n-screening\n-verification\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-appraisal\n-appraise"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm định\n* verb\n- to consider and decide"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to appreciate, estimate, consider"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mỹ kỹ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-engineering aesthetics\n-technical aesthetics"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra nợ chưa thanh toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-review of outstanding obligations"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra tổng quát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-general audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "điều tra, xem xét lại xem có đúng, có chính xác như đã biết không\nVí dụ:\n- cơ quan chức năng đã thẩm tra tờ khai của anh \n - toà án đang thẩm tra nhân chứng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm tra\n- Tra xét xem có đúng hay không: Thẩm tra lý lịch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm tra - investigate, examine and verify\n\n@Chuyên ngành kinh tế\n-check\n-examine\n-investigate\n-investigation\n-investigative\n-screen\n-verify\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-verify"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "investigate, examine and verify"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra số dư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-verification of balance"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền nhóm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-group authority"
+      }
+    ]
+  },
+  {
+    "word": "thẩm định giả thuyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-testing assumptions"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dialyze\n@Chuyên ngành kỹ thuật\n-dialysis\n-dialytic\n-dialytical\n-dialyze"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra vật lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-physical verification"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền (của ủy ban, của trọng tài ...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-terms of reference"
+      }
+    ]
+  },
+  {
+    "word": "thẩm áp kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-osmometer"
+      }
+    ]
+  },
+  {
+    "word": "thẩm phán tòa hòa giải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-justice of the peace"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra vấn đáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-selection interview"
+      }
+    ]
+  },
+  {
+    "word": "thẩm mỹ học kiến trúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architectural aesthetics"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra việc làm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-job audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra nghiệp vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-business audit\n-operational audit"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền đọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-read authority"
+      }
+    ]
+  },
+  {
+    "word": "thẩm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[toà án] xét kĩ các vấn đề liên quan đến một vụ án\nVí dụ:\n- toà án đang thẩm lại vụ án"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm\n- đg. Xét kỹ những việc thuộc về tòa án : Thẩm lại vụ án.\n- Nh. Thấm, ngh. 3: Thẩm cho ráo mực.\n\n@thẩm\n- xét kỹ càng. Thẩm án là xét án, thẩm định là xét và định, thẩm phán là xét xử (một chức quan toà)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm\n*verb\n-to suck up"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm\n* verb\n- to suck up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to suck up"
+      }
+    ]
+  },
+  {
+    "word": "thẩm thấu qua cửa sổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-window infiltration"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra có sự đồng ý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-verification by consent"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm tích - dialyze, dialysis"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dialyze, dialysis"
       }
     ]
   },
@@ -793,29 +1082,196 @@
     ]
   },
   {
-    "word": "thẩm độ kế",
+    "word": "thẩm thấu ngược",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-permeameter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reverse osmosis"
       }
     ]
   },
   {
-    "word": "thẩm tra thiết kế",
+    "word": "thẩm quyền tài liệu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-design review"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-document authority"
       }
     ]
   },
   {
-    "word": "thẩm quyền xác nhận",
+    "word": "thẩn thơ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như thơ thẩn\nVí dụ:\n- suy nghĩ thẩn thơ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩn thơ\n- t. Như thơ thẩn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩn thơ\n*verb\n-to stroll"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thẩn thơ\n* verb\n- to stroll"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to stroll"
+      }
+    ]
+  },
+  {
+    "word": "thẩm kế viên bên ngoài",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Certification Authority (CA)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-external auditor"
+      }
+    ]
+  },
+  {
+    "word": "thẩm sát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm sát - examine, inspect, survey"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "examine, inspect, survey"
+      }
+    ]
+  },
+  {
+    "word": "thẩm duyệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm duyệt - shift thoroughtly\n\n@Chuyên ngành kinh tế\n-examine and approve\n-examine and approve (to...)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shift thoroughly"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền (của ủy ban, của trọng tài)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-terms of reference"
+      }
+    ]
+  },
+  {
+    "word": "thẩm dương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thẩm Dương\n- (xã) h. Văn Bàn, t. Lào Cai"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-jurisdiction"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền chương trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-program authority"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền xét duyệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-approving authorities"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền đăng ký",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Registration Authority (RA)"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền riêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-private authority"
+      }
+    ]
+  },
+  {
+    "word": "thẩm đoán",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thẩm đoán\n- Xét và đoán."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thẩm đoán - estimate, value, rate, assess"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "estimate, value, rate, assess"
+      }
+    ]
+  },
+  {
+    "word": "thẩm thấu băng giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frost penetration"
+      }
+    ]
+  },
+  {
+    "word": "thẩm quyền chung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-public authority"
+      }
+    ]
+  },
+  {
+    "word": "thẩm cung",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hỏi cung một cách kĩ càng\nVí dụ:\n- vị chủ toạ đang thẩm cung một bị can"
+      }
+    ]
+  },
+  {
+    "word": "thẩm tra xã hội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-social audit"
       }
     ]
   },
@@ -849,467 +1305,11 @@
     ]
   },
   {
-    "word": "thẩm tra trách nhiệm",
+    "word": "thẩm tra một phần (chọn ra một phần để tiến hành kiểm tra)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-responsibility audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra và đánh giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-review and appraisal"
-      }
-    ]
-  },
-  {
-    "word": "thẩm kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-audit\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-percolation gauge"
-      }
-    ]
-  },
-  {
-    "word": "thẩm phán dự khuyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-deputy judge"
-      }
-    ]
-  },
-  {
-    "word": "thẩm áp kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-osmometer"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra nợ chưa thanh toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-review of outstanding obligations"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra vật lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-physical verification"
-      }
-    ]
-  },
-  {
-    "word": "thẩm định",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem xét nhằm đánh giá để xác định, quyết định\nVí dụ:\n- thẩm định văn chương \n - hội đồng đã thẩm định tính khả thi của dự án"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm định\n- đg. Xem xét để xác định, quyết định. Thẩm định giá trị tác phẩm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm định\n*verb\n-to consider and decide\n@Chuyên ngành kinh tế\n-screening\n-verification\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-appraisal\n-appraise"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm định\n* verb\n- to consider and decide"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to appreciate, estimate, consider"
-      }
-    ]
-  },
-  {
-    "word": "thẩm phán tòa sơ thẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-judge of First Instance\n-judgement of First Instance"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra dự án",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-project appraisal"
-      }
-    ]
-  },
-  {
-    "word": "thẩm xét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem xét lại một cách kĩ càng trước khi đưa ra quyết định\nVí dụ:\n- hội đồng đang thẩm xét danh sách khen thưởng \n - toà án đang thẩm xét vụ án \n - tôi đã thẩm xét mọi việc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm xét\n- Xét hỏi kỹ càng: Thẩm xét tội nhân."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm xét - examine, inspect, survey, investigate, explore"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "examine, inspect, survey, investigate, explore"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền xét duyệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-approving authorities"
-      }
-    ]
-  },
-  {
-    "word": "thẩm định tài sản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-verification of assets"
-      }
-    ]
-  },
-  {
-    "word": "thẩm định dự án",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-project appraisal"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-jurisdiction"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-continuous review"
-      }
-    ]
-  },
-  {
-    "word": "thẩm thấu qua cửa sổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-window infiltration"
-      }
-    ]
-  },
-  {
-    "word": "thẩm phán sơ thẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trial judge"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mỹ kiến trúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architectural aesthetics"
-      }
-    ]
-  },
-  {
-    "word": "thẩm thấu ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-damp infiltration"
-      }
-    ]
-  },
-  {
-    "word": "thẩm định trước... theo cách mà...",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-prequalification in such a manner that"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra tại chỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on-the-spot audit\n-site audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền chương trình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-program authority"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mỹ học công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial aesthetics"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mỹ quan",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm mỹ quan\n- Quan niệm về cái đẹp."
-      }
-    ]
-  },
-  {
-    "word": "thẩm tách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dialyze\n@Chuyên ngành kỹ thuật\n-dialysis\n-dialytic\n-dialytical\n-dialyze"
-      }
-    ]
-  },
-  {
-    "word": "thẩm lậu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lọt qua trái phép từng ít một, rất khó kiểm soát\nVí dụ:\n- rượu ngoại thẩm lậu vào thị trường trong nước \n - hàng giả thẩm lậu qua biên giới"
-      }
-    ]
-  },
-  {
-    "word": "thẩm mỹ công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial aesthetics"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra tiền mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-verification of cash"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra tổng quát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-general audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm phán tòa hòa giải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-justice of the peace"
-      }
-    ]
-  },
-  {
-    "word": "thẩn thờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩn thờ - distracted, apathy\n-listless, thoughtful and sad"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra toàn diện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-comprehensive review"
-      }
-    ]
-  },
-  {
-    "word": "thẩm dương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thẩm Dương\n- (xã) h. Văn Bàn, t. Lào Cai"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền (của ủy ban, của trọng tài)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-terms of reference"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra việc làm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-job audit"
-      }
-    ]
-  },
-  {
-    "word": "thẩm quyền điều khiển công việc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-job control authority"
-      }
-    ]
-  },
-  {
-    "word": "thẩm thấu (độ) ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-moisture infiltration"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra khả năng tài chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mean test\n-means test"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "điều tra, xem xét lại xem có đúng, có chính xác như đã biết không\nVí dụ:\n- cơ quan chức năng đã thẩm tra tờ khai của anh \n - toà án đang thẩm tra nhân chứng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm tra\n- Tra xét xem có đúng hay không: Thẩm tra lý lịch."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm tra - investigate, examine and verify\n\n@Chuyên ngành kinh tế\n-check\n-examine\n-investigate\n-investigation\n-investigative\n-screen\n-verify\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-verify"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "investigate, examine and verify"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra vấn đáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-selection interview"
-      }
-    ]
-  },
-  {
-    "word": "thẩm kế viên bên ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-external auditor"
-      }
-    ]
-  },
-  {
-    "word": "thẩm tra thiết kế công trình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-engineering design review"
-      }
-    ]
-  },
-  {
-    "word": "thẩm duyệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm duyệt - shift thoroughtly\n\n@Chuyên ngành kinh tế\n-examine and approve\n-examine and approve (to...)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shift thoroughly"
-      }
-    ]
-  },
-  {
-    "word": "thẩm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[toà án] xét kĩ các vấn đề liên quan đến một vụ án\nVí dụ:\n- toà án đang thẩm lại vụ án"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm\n- đg. Xét kỹ những việc thuộc về tòa án : Thẩm lại vụ án.\n- Nh. Thấm, ngh. 3: Thẩm cho ráo mực.\n\n@thẩm\n- xét kỹ càng. Thẩm án là xét án, thẩm định là xét và định, thẩm phán là xét xử (một chức quan toà)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thẩm\n*verb\n-to suck up"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thẩm\n* verb\n- to suck up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to suck up"
+        "dict_definition": "@Chuyên ngành kinh tế\n-audit by test"
       }
     ]
   }

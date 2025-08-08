@@ -1,5 +1,56 @@
 [
   {
+    "word": "dẹp đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẹp đường [dẹp đường]\n-clear the way"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "clear the way"
+      }
+    ]
+  },
+  {
+    "word": "dẹp tan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẹp tan\n*verb\n-to crush out\n=dẹp_tan một cuộc nổi loạn\n+To crush out a revolt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dẹp tan\n* verb\n-to crush out\n= dẹp_tan một cuộc nổi loạn+To crush out a revolt"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to clear out, sweep away"
+      }
+    ]
+  },
+  {
+    "word": "dẹp loạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dẹp loạn\n- đgt. Làm tan những cuộc nổi dậy chống chính quyền: Dưới triều Nguyễn, Nguyễn Công Trứ có công nhiều phen dẹp loạn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẹp loạn\n*verb\n-to quell a revolt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dẹp loạn\n* verb\n-to quell a revolt"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to quell a revolt"
+      }
+    ]
+  },
+  {
     "word": "dẹp khu vực in",
     "definitions": [
       {
@@ -9,11 +60,86 @@
     ]
   },
   {
-    "word": "dẹp ngắt trang",
+    "word": "dẹp trang",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-remove page break"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-remove page"
+      }
+    ]
+  },
+  {
+    "word": "dẹt xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bone"
+      }
+    ]
+  },
+  {
+    "word": "dẹp tiệm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cơ sở sản xuất, kinh doanh] đóng cửa, thôi không tiếp tục làm nữa\nVí dụ:\n- quán mở được nửa tháng thì dẹp tiệm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẹp tiệm [dẹp tiệm]\n-to shut up shop;  to stop trading"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to close up shop, stop trading"
+      }
+    ]
+  },
+  {
+    "word": "dẹp giặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẹp giặc [dẹp giặc]\n-squash the rebellion, eliminate the bandits"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "squash the rebellion, eliminate the bandits"
+      }
+    ]
+  },
+  {
+    "word": "dẹp yên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dẹp yên [dẹp yên]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "dẹp tựa đề in",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-remove print title"
+      }
+    ]
+  },
+  {
+    "word": "dẹp tan các bọn cướp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sweep out bands of robbers"
+      }
+    ]
+  },
+  {
+    "word": "dẹp đỡ dây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-hanging clamp"
       }
     ]
   },
@@ -39,15 +165,46 @@
     ]
   },
   {
-    "word": "dẹp đường",
+    "word": "dẹp lép",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất dẹp [hàm ý chê]\nVí dụ:\n- ngực dẹp lép"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@dẹp đường [dẹp đường]\n-clear the way"
+        "dict_definition": "@dẹp lép [dẹp lép]\n-flat"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "clear the way"
+        "dict_definition": "flat"
+      }
+    ]
+  },
+  {
+    "word": "dẹp qua một bên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to put aside, place to one side"
+      }
+    ]
+  },
+  {
+    "word": "dẹp ngắt trang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-remove page break"
+      }
+    ]
+  },
+  {
+    "word": "dẹp loàn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dẹp loàn\n- dẹp loạn"
       }
     ]
   },
@@ -85,163 +242,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to put down, repress, quell"
-      }
-    ]
-  },
-  {
-    "word": "dẹt xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bone"
-      }
-    ]
-  },
-  {
-    "word": "dẹp tiệm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cơ sở sản xuất, kinh doanh] đóng cửa, thôi không tiếp tục làm nữa\nVí dụ:\n- quán mở được nửa tháng thì dẹp tiệm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẹp tiệm [dẹp tiệm]\n-to shut up shop;  to stop trading"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to close up shop, stop trading"
-      }
-    ]
-  },
-  {
-    "word": "dẹp tựa đề in",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-remove print title"
-      }
-    ]
-  },
-  {
-    "word": "dẹp tan các bọn cướp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sweep out bands of robbers"
-      }
-    ]
-  },
-  {
-    "word": "dẹp loạn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dẹp loạn\n- đgt. Làm tan những cuộc nổi dậy chống chính quyền: Dưới triều Nguyễn, Nguyễn Công Trứ có công nhiều phen dẹp loạn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẹp loạn\n*verb\n-to quell a revolt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dẹp loạn\n* verb\n-to quell a revolt"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to quell a revolt"
-      }
-    ]
-  },
-  {
-    "word": "dẹp trang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-remove page"
-      }
-    ]
-  },
-  {
-    "word": "dẹp yên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẹp yên [dẹp yên]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "dẹp đỡ dây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-hanging clamp"
-      }
-    ]
-  },
-  {
-    "word": "dẹp qua một bên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to put aside, place to one side"
-      }
-    ]
-  },
-  {
-    "word": "dẹp lép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất dẹp [hàm ý chê]\nVí dụ:\n- ngực dẹp lép"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẹp lép [dẹp lép]\n-flat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flat"
-      }
-    ]
-  },
-  {
-    "word": "dẹp loàn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dẹp loàn\n- dẹp loạn"
-      }
-    ]
-  },
-  {
-    "word": "dẹp giặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẹp giặc [dẹp giặc]\n-squash the rebellion, eliminate the bandits"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "squash the rebellion, eliminate the bandits"
-      }
-    ]
-  },
-  {
-    "word": "dẹp tan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dẹp tan\n*verb\n-to crush out\n=dẹp_tan một cuộc nổi loạn\n+To crush out a revolt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dẹp tan\n* verb\n-to crush out\n= dẹp_tan một cuộc nổi loạn+To crush out a revolt"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to clear out, sweep away"
       }
     ]
   }

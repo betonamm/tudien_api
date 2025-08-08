@@ -1,61 +1,5 @@
 [
   {
-    "word": "chè lam",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bánh ngọt làm bằng bột bỏng nếp ngào với mật, có pha nước gừng"
-      }
-    ]
-  },
-  {
-    "word": "chèo queo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[lối nằm] nghiêng và co người lại\nVí dụ:\n- nằm chèo queo một góc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèo queo\n*adj\n-Curled up, coiled up\n=nằm chèo queo vì lạnh\n+to lie curled up because of the cold"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chèo queo\n* adj\n- Curled up, coiled up\n=nằm chèo queo vì lạnh+to lie curled up because of the cold"
-      }
-    ]
-  },
-  {
-    "word": "chè hương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè sản xuất từ búp chè không ủ lên men và đã sàng lọc kĩ, ướp bằng hương các thứ hoa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè hương\n-Flavoured tea, scented tea\n@Chuyên ngành kinh tế\n-scented tea"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chè hương\n- Flavoured tea, scented tea"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flavored tea, scented tea"
-      }
-    ]
-  },
-  {
-    "word": "chèn đầy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clad\n-fill in\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clad\n-fill in"
-      }
-    ]
-  },
-  {
     "word": "chèn chỉ mục",
     "definitions": [
       {
@@ -65,112 +9,20 @@
     ]
   },
   {
-    "word": "chè chính hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-original tea"
-      }
-    ]
-  },
-  {
-    "word": "chèn thêm dữ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data insertion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data insertion"
-      }
-    ]
-  },
-  {
-    "word": "chè đỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-oolong tea\n-red tea\n-self-fermented tea"
-      }
-    ]
-  },
-  {
-    "word": "chè hòa tan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tea extract"
-      }
-    ]
-  },
-  {
-    "word": "chè nguyên chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-genuine tea"
-      }
-    ]
-  },
-  {
-    "word": "chè kho",
+    "word": "chè hạt lựu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè nấu thật đặc bằng đường hay mật với đậu xanh rang"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè kho [chè kho]\n-soft green-lentil cake"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "soft green-lentil cake"
+        "dict_definition": "chè nấu bằng đường với bột hoàng tinh hoặc bột sắn kết thành những hạt nhỏ như hạt lựu"
       }
     ]
   },
   {
-    "word": "chè đường",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè nấu bằng đường trắng với bột nếp hoặc bột đao, thường ăn với xôi vò"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè đường [chè đường]\n*danh từ\n-tea with sugar"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tea with sugar"
-      }
-    ]
-  },
-  {
-    "word": "chèn lắp",
+    "word": "chèo (thuyền)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mason\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mason"
-      }
-    ]
-  },
-  {
-    "word": "chèn lấn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèn lấn\n-như chèn ép\n@Chuyên ngành kinh tế\n-crowding out"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chèn lấn\n- như chèn ép"
-      }
-    ]
-  },
-  {
-    "word": "chèn ép người",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-short squeeze"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-row\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-row"
       }
     ]
   },
@@ -184,86 +36,37 @@
     ]
   },
   {
-    "word": "chè xấu",
+    "word": "chè sen",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cat-lap"
+        "dict_definition": "@chè sen [chè sen]\n*danh từ\n-lotus tea\n-lotus compote"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lotus tea, lotus compote"
       }
     ]
   },
   {
-    "word": "chèo bẻo",
+    "word": "chèo ngọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèo ngọn [chèo ngọn]\n-bow oars"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bow oars"
+      }
+    ]
+  },
+  {
+    "word": "chè bạng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chim lông đen, cánh dài, đuôi dài chẻ thành hai nhánh, hay ăn sâu bọ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèo bẻo\n*noun\n-Drongo"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chèo bẻo\n* noun\n- Drongo"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "drongo"
-      }
-    ]
-  },
-  {
-    "word": "chèn thêm dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-line insert"
-      }
-    ]
-  },
-  {
-    "word": "chè không có tanin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tannin-free tea"
-      }
-    ]
-  },
-  {
-    "word": "chè hỗn hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-blended tea"
-      }
-    ]
-  },
-  {
-    "word": "chè đặc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "strong tea"
-      }
-    ]
-  },
-  {
-    "word": "chèn dữ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pack\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pack"
-      }
-    ]
-  },
-  {
-    "word": "chèn đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamp or tamping\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamp or tamping"
+        "dict_definition": "chè sản xuất từ lá chè già băm và phơi khô"
       }
     ]
   },
@@ -285,15 +88,6 @@
     ]
   },
   {
-    "word": "chè không có cafein",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-caffeine-free tea"
-      }
-    ]
-  },
-  {
     "word": "chè ô long",
     "definitions": [
       {
@@ -303,86 +97,152 @@
     ]
   },
   {
-    "word": "chè đậu đãi",
+    "word": "chèm chẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèm chẹp\n-như chem chép"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chèm chẹp\n- như chem chép"
+      }
+    ]
+  },
+  {
+    "word": "chè nhạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cat-lap"
+      }
+    ]
+  },
+  {
+    "word": "chè chính hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-original tea"
+      }
+    ]
+  },
+  {
+    "word": "chè bồm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè nấu bằng đường trắng với đậu xanh đãi sạch vỏ"
+        "dict_definition": "chè xấu sản xuất từ lá chè không non cũng không già"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chè đậu đãi [chè đậu đãi]\n*danh từ\n-green bean compote"
+        "dict_definition": "@Chuyên ngành kinh tế\n-baikhovi tea"
+      }
+    ]
+  },
+  {
+    "word": "chè ps (lá non thứ ba của búp chè)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Pekoe-souchong"
+      }
+    ]
+  },
+  {
+    "word": "chè thuốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chè lá\nVí dụ:\n- lo liệu chè thuốc cho quan trên"
+      }
+    ]
+  },
+  {
+    "word": "chèn mục đã tính toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Calculated Item\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Calculated Item"
+      }
+    ]
+  },
+  {
+    "word": "chèn thêm dữ liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data insertion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data insertion"
+      }
+    ]
+  },
+  {
+    "word": "chè hỗn hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-blended tea"
+      }
+    ]
+  },
+  {
+    "word": "chè đã ủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tea mellowing"
+      }
+    ]
+  },
+  {
+    "word": "chè tàu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè sản xuất từ búp chè không ủ lên men, cánh nhỏ, nước xanh, có hương thơm [nguyên sản xuất ở Trung Quốc]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè tàu [chè tàu]\n-Chinese tea\n@Chuyên ngành kinh tế\n-China tea"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "green bean compote"
+        "dict_definition": "Chinese tea"
       }
     ]
   },
   {
-    "word": "chè khô",
+    "word": "chè không có tanin",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fired tea"
+        "dict_definition": "@Chuyên ngành kinh tế\n-tannin-free tea"
       }
     ]
   },
   {
-    "word": "chèn lấp",
+    "word": "chè ngọn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-insert\n-lay\n-putty\n-void filling\n@Chuyên ngành kỹ thuật\n-insert\n-lay\n-putty\n-void filling"
+        "dict_definition": "@Chuyên ngành kinh tế\n-tippy tea"
       }
     ]
   },
   {
-    "word": "chè lên men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fermented tea"
-      }
-    ]
-  },
-  {
-    "word": "chè tan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-soluble tea"
-      }
-    ]
-  },
-  {
-    "word": "chèo chẹo",
+    "word": "chè hột",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[đòi điều gì] rất dai, cho kì được, gây cảm giác khó chịu [thường nói về trẻ con]\nVí dụ:\n- đứa bé đòi ăn chèo chẹo \n - khóc chèo chẹo"
+        "dict_definition": "chè hạt"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chèo chẹo [chèo chẹo]\n-large hawk-cuckoo\n-(of children) pester somebody for something"
-      }
-    ]
-  },
-  {
-    "word": "chè loãng",
-    "definitions": [
+        "dict_definition": "@chè hột [chè hột]\n*danh từ\n-tea buds"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "weak tea"
-      }
-    ]
-  },
-  {
-    "word": "chè bạng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè sản xuất từ lá chè già băm và phơi khô"
+        "dict_definition": "tea buds"
       }
     ]
   },
@@ -404,37 +264,6 @@
     ]
   },
   {
-    "word": "chè paraguay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Mate"
-      }
-    ]
-  },
-  {
-    "word": "chèo phách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèo phách [chèo phách]\n-middle oars"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "middle oars"
-      }
-    ]
-  },
-  {
-    "word": "chè nấu nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-instant tea"
-      }
-    ]
-  },
-  {
     "word": "chèn dày (điểm)",
     "definitions": [
       {
@@ -444,142 +273,148 @@
     ]
   },
   {
-    "word": "chèn bẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèn bẩy [chèn bẩy]\n-oust"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "oust"
-      }
-    ]
-  },
-  {
-    "word": "chè cốm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè cốm [chè cốm]\n*danh từ\n-kind of dessert made with sugar and grilled rice"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "kind of dessert made with sugar and grilled rice"
-      }
-    ]
-  },
-  {
-    "word": "chèn đe tách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down"
-      }
-    ]
-  },
-  {
-    "word": "chè nụ",
+    "word": "chèo chống",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem chè hạt"
+        "dict_definition": "chèo và chống để đưa thuyền bè đi [nói khái quát]\nVí dụ:\n- chèo chống mãi mới đưa được thuyền vào bờ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xoay xở, đối phó với các khó khăn\nVí dụ:\n- một mình chị chèo chống nuôi con"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chèo chống\n- đgt. 1. Tìm mọi cách giải quyết những khó khăn: Tìm mọi cách chèo chống trong cơn bão táp (Trg-chinh) 2. Chống chế khi đã mắc sai lầm: Anh ta mắc khuyết điểm, nhưng có tài chèo chống."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chè nụ\n-như chè hạt"
+        "dict_definition": "@chèo chống\n*verb\n-To row and punt\n=chèo chống mãi mới đưa được thuyền vào bờ\n+by dint of rowing and punting, he succeeded in bringing the boat to shore\n-To buffet with difficulties\n=một mình chèo chống nuôi cả đàn em\n+by buffeting with difficulties alone, she managed to bring up her band of sisters and brothers"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chè nụ\n- như chè hạt"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tea bud"
+        "dict_definition": "@chèo chống\n* verb\n- To row and punt\n=chèo chống mãi mới đưa được thuyền vào bờ+by dint of rowing and punting, he succeeded in bringing the boat to shore\n-To buffet with difficulties\n=một mình chèo chống nuôi cả đàn em+by buffeting with difficulties alone, she managed to bring up her band of sisters and brothers"
       }
     ]
   },
   {
-    "word": "chè sen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè sen [chè sen]\n*danh từ\n-lotus tea\n-lotus compote"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lotus tea, lotus compote"
-      }
-    ]
-  },
-  {
-    "word": "chè pha dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tea blend"
-      }
-    ]
-  },
-  {
-    "word": "chè ngọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tippy tea"
-      }
-    ]
-  },
-  {
-    "word": "chè thơm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-scented tea"
-      }
-    ]
-  },
-  {
-    "word": "chè hoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flower tea"
-      }
-    ]
-  },
-  {
-    "word": "chè thuốc",
+    "word": "chèo chẹo",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chè lá\nVí dụ:\n- lo liệu chè thuốc cho quan trên"
+        "dict_definition": "[đòi điều gì] rất dai, cho kì được, gây cảm giác khó chịu [thường nói về trẻ con]\nVí dụ:\n- đứa bé đòi ăn chèo chẹo \n - khóc chèo chẹo"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèo chẹo [chèo chẹo]\n-large hawk-cuckoo\n-(of children) pester somebody for something"
       }
     ]
   },
   {
-    "word": "chè đen",
+    "word": "chè lá",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè sản xuất từ búp chè đã được ủ lên men, nước có màu hung đỏ, vị thơm dịu"
+        "dict_definition": "chè tàu, thuốc lá và những thứ tương tự thường dùng để biếu xén, hối lộ khi cầu cạnh việc gì\nVí dụ:\n- lo liệu chè lá cho quan trên"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chè đen [chè đen]\n*danh từ\n-Black tea\n@Chuyên ngành kinh tế\n-black tea"
+        "dict_definition": "@chè lá\n-Tea and cigarettes, baksheesh, bribe\n=tiền chè lá cho lý trưởng trước khi lên quan\n+to give bribes to the village headman before going to the yamen\n@Chuyên ngành kinh tế\n-leafy tea"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chè lá\n- Tea and cigarettes, baksheesh, bribe\n=tiền chè lá cho lý trưởng trước khi lên quan+to give bribes to the village headman before going to the yamen"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "black tea"
+        "dict_definition": "tea and cigarettes, baksheesh, bribe"
       }
     ]
   },
   {
-    "word": "chè cám",
+    "word": "chèo kéo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cố níu lại mời mọc cho bằng được\nVí dụ:\n- nhân viên đang chèo kéo khách hàng \n - chèo kéo bạn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèo kéo\n*verb\n-To invite with insistence\n=\n+o solicit (nói về gái ddiếm)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chèo kéo\n* verb\n- To invite with insistence\n=To solicit (nói về gái ddiếm)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to invite with insistence, solicit"
+      }
+    ]
+  },
+  {
+    "word": "chè xấu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tea dust\n-tea finings"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cat-lap"
+      }
+    ]
+  },
+  {
+    "word": "chè mạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè thô sản xuất bằng búp của một giống chè lá to [trước đây thường trồng ở mạn ngược]\nVí dụ:\n- pha một ấm chè mạn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè mạn\n-Brown tea"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chè mạn\n- Brown tea"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "brown tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn ép tim",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cardiac tamponade\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cardiac tamponade"
+      }
+    ]
+  },
+  {
+    "word": "chè loãng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "weak tea"
+      }
+    ]
+  },
+  {
+    "word": "chèo bằng mái chèo đôi (lái thuyền)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-scull\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-scull"
+      }
+    ]
+  },
+  {
+    "word": "chèn ký hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert"
       }
     ]
   },
@@ -605,38 +440,161 @@
     ]
   },
   {
-    "word": "chè xám (quá khô)",
+    "word": "chèm nhèm",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-grey tea"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như nhem nhuốc\nVí dụ:\n- mặt mũi chèm nhèm \n - mực dính chèm nhèm khắp áo"
       }
     ]
   },
   {
-    "word": "chèn khoảng cách em",
+    "word": "chè vụn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Em Space\n-Insert En Space\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Em Space\n-Insert En Space"
+        "dict_definition": "@Chuyên ngành kinh tế\n-broken tea\n-dust tea"
       }
     ]
   },
   {
-    "word": "chè nhạt",
+    "word": "chè đậu đen",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cat-lap"
+        "dict_name": "VNEDICT",
+        "dict_definition": "type of dessert"
       }
     ]
   },
   {
-    "word": "chèn một trường rỗng",
+    "word": "chè hoa cau",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè đường có rắc đậu xanh đãi vỏ đã đồ chín"
+      }
+    ]
+  },
+  {
+    "word": "chè bp (lá non thứ hai của búp chè gãy)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Blank\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Blank"
+        "dict_definition": "@Chuyên ngành kinh tế\n-Broken pekoe"
+      }
+    ]
+  },
+  {
+    "word": "chè cám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tea dust\n-tea finings"
+      }
+    ]
+  },
+  {
+    "word": "chè đặc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "strong tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn dữ liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pack\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pack"
+      }
+    ]
+  },
+  {
+    "word": "chè paraguay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Mate"
+      }
+    ]
+  },
+  {
+    "word": "chè con ong",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè nấu bằng đường với xôi, hạt xôi nở to"
+      }
+    ]
+  },
+  {
+    "word": "chèo bẻo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chim lông đen, cánh dài, đuôi dài chẻ thành hai nhánh, hay ăn sâu bọ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèo bẻo\n*noun\n-Drongo"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chèo bẻo\n* noun\n- Drongo"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "drongo"
+      }
+    ]
+  },
+  {
+    "word": "chè thơm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-scented tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn lấn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèn lấn\n-như chèn ép\n@Chuyên ngành kinh tế\n-crowding out"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chèn lấn\n- như chèn ép"
+      }
+    ]
+  },
+  {
+    "word": "chè đỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-oolong tea\n-red tea\n-self-fermented tea"
+      }
+    ]
+  },
+  {
+    "word": "chè đen",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè sản xuất từ búp chè đã được ủ lên men, nước có màu hung đỏ, vị thơm dịu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè đen [chè đen]\n*danh từ\n-Black tea\n@Chuyên ngành kinh tế\n-black tea"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "black tea"
       }
     ]
   },
@@ -650,11 +608,103 @@
     ]
   },
   {
-    "word": "chèn vữa (trong xây đá)",
+    "word": "chèn khoảng cách em",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-torch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-torch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Em Space\n-Insert En Space\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Em Space\n-Insert En Space"
+      }
+    ]
+  },
+  {
+    "word": "chè gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-brick tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn lấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-insert\n-lay\n-putty\n-void filling\n@Chuyên ngành kỹ thuật\n-insert\n-lay\n-putty\n-void filling"
+      }
+    ]
+  },
+  {
+    "word": "chèn mối nối có bổ sung ba-lát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamping of the joint with additional ballast\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamping of the joint with additional ballast"
+      }
+    ]
+  },
+  {
+    "word": "chè hạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè sản xuất từ nụ chè"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè hạt\n-Tea flower buds"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chè hạt\n- Tea flower buds"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tea flower buds"
+      }
+    ]
+  },
+  {
+    "word": "chè lên men",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fermented tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn tại vị trí ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of the switches\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of the switches"
+      }
+    ]
+  },
+  {
+    "word": "chè khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fired tea"
+      }
+    ]
+  },
+  {
+    "word": "chè đậu đãi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè nấu bằng đường trắng với đậu xanh đãi sạch vỏ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè đậu đãi [chè đậu đãi]\n*danh từ\n-green bean compote"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "green bean compote"
       }
     ]
   },
@@ -664,6 +714,102 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-stalky tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dry pack\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dry pack"
+      }
+    ]
+  },
+  {
+    "word": "chè đường",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè nấu bằng đường trắng với bột nếp hoặc bột đao, thường ăn với xôi vò"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè đường [chè đường]\n*danh từ\n-tea with sugar"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tea with sugar"
+      }
+    ]
+  },
+  {
+    "word": "chè không có cafein",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-caffeine-free tea"
+      }
+    ]
+  },
+  {
+    "word": "chèo lái",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mái chèo ở phía sau thuyền dùng để lái; phân biệt với chèo mũi\nVí dụ:\n- cầm chèo lái"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chèo và lái để đưa thuyền đi [nói khái quát]\nVí dụ:\n- ông đã chèo lái con thuyền vượt qua cơn bão"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cáng đáng công việc nặng nhọc, xoay xở, đối phó với nhiều khó khăn\nVí dụ:\n- anh ấy đã chèo lái công ty thoát khỏi hiểm hoạ phá sản"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèo lái [chèo lái]\n-row and steer; steer, guide"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "row and steer, steer, guide"
+      }
+    ]
+  },
+  {
+    "word": "chè nguyên chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-genuine tea"
+      }
+    ]
+  },
+  {
+    "word": "chè bánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cake tea"
+      }
+    ]
+  },
+  {
+    "word": "chè xám (quá khô)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-grey tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn ở vị trí tà vẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of sleepers\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of sleepers"
       }
     ]
   },
@@ -709,310 +855,108 @@
     ]
   },
   {
-    "word": "chè chén",
+    "word": "chèn một trường rỗng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Blank\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Blank"
+      }
+    ]
+  },
+  {
+    "word": "chè lam",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ăn uống một cách lãng phí\nVí dụ:\n- các cụ đang chè chén say sưa \n - ngồi chè chén với nhau"
-      },
+        "dict_definition": "bánh ngọt làm bằng bột bỏng nếp ngào với mật, có pha nước gừng"
+      }
+    ]
+  },
+  {
+    "word": "chè hoa",
+    "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chè chén\n- 1 dt. Nước uống pha bằng chè búp: uống chè chén cho tỉnh ngủ.\n- 2 đgt. ăn uống xa hoa, lãng phí: chè chén linh đình  chè chén no say."
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-flower tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn đầy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clad\n-fill in\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clad\n-fill in"
+      }
+    ]
+  },
+  {
+    "word": "chè tan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-soluble tea"
+      }
+    ]
+  },
+  {
+    "word": "chèn đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamp or tamping\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamp or tamping"
+      }
+    ]
+  },
+  {
+    "word": "chè p (lá non thứ hai của búp bê)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Pekoe"
+      }
+    ]
+  },
+  {
+    "word": "chè hương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè sản xuất từ búp chè không ủ lên men và đã sàng lọc kĩ, ướp bằng hương các thứ hoa"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chè chén\n-To feast\n=chè chén linh đình\n+to indulge in the lavish feasting"
+        "dict_definition": "@chè hương\n-Flavoured tea, scented tea\n@Chuyên ngành kinh tế\n-scented tea"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chè chén\n- To feast\n=chè chén linh đình+to indulge in the lavish feasting"
+        "dict_definition": "@chè hương\n- Flavoured tea, scented tea"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to drink"
+        "dict_definition": "flavored tea, scented tea"
       }
     ]
   },
   {
-    "word": "chèn khô",
+    "word": "chèo phách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dry pack\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dry pack"
-      }
-    ]
-  },
-  {
-    "word": "chè bp (lá non thứ hai của búp chè gãy)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Broken pekoe"
-      }
-    ]
-  },
-  {
-    "word": "chèo (thuyền)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-row\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-row"
-      }
-    ]
-  },
-  {
-    "word": "chè ps (lá non thứ ba của búp chè)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Pekoe-souchong"
-      }
-    ]
-  },
-  {
-    "word": "chèn ký hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-insert"
-      }
-    ]
-  },
-  {
-    "word": "chèo bằng mái chèo đôi (lái thuyền)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-scull\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-scull"
-      }
-    ]
-  },
-  {
-    "word": "chèo chống",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chèo và chống để đưa thuyền bè đi [nói khái quát]\nVí dụ:\n- chèo chống mãi mới đưa được thuyền vào bờ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xoay xở, đối phó với các khó khăn\nVí dụ:\n- một mình chị chèo chống nuôi con"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chèo chống\n- đgt. 1. Tìm mọi cách giải quyết những khó khăn: Tìm mọi cách chèo chống trong cơn bão táp (Trg-chinh) 2. Chống chế khi đã mắc sai lầm: Anh ta mắc khuyết điểm, nhưng có tài chèo chống."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèo chống\n*verb\n-To row and punt\n=chèo chống mãi mới đưa được thuyền vào bờ\n+by dint of rowing and punting, he succeeded in bringing the boat to shore\n-To buffet with difficulties\n=một mình chèo chống nuôi cả đàn em\n+by buffeting with difficulties alone, she managed to bring up her band of sisters and brothers"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chèo chống\n* verb\n- To row and punt\n=chèo chống mãi mới đưa được thuyền vào bờ+by dint of rowing and punting, he succeeded in bringing the boat to shore\n-To buffet with difficulties\n=một mình chèo chống nuôi cả đàn em+by buffeting with difficulties alone, she managed to bring up her band of sisters and brothers"
-      }
-    ]
-  },
-  {
-    "word": "chè móc câu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè búp ngọn, cánh săn, nhỏ và cong như hình cái móc câu"
-      }
-    ]
-  },
-  {
-    "word": "chè mạn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè thô sản xuất bằng búp của một giống chè lá to [trước đây thường trồng ở mạn ngược]\nVí dụ:\n- pha một ấm chè mạn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè mạn\n-Brown tea"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chè mạn\n- Brown tea"
+        "dict_definition": "@chèo phách [chèo phách]\n-middle oars"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "brown tea"
+        "dict_definition": "middle oars"
       }
     ]
   },
   {
-    "word": "chèn vào",
+    "word": "chè nấu nhanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-insertion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-insert\n@Lĩnh vực: toán & tin\n-paste\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-insert\n@Lĩnh vực: toán & tin\n-paste"
-      }
-    ]
-  },
-  {
-    "word": "chè đậu đen",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "type of dessert"
-      }
-    ]
-  },
-  {
-    "word": "chè bánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cake tea"
-      }
-    ]
-  },
-  {
-    "word": "chè hột",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè hạt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè hột [chè hột]\n*danh từ\n-tea buds"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tea buds"
-      }
-    ]
-  },
-  {
-    "word": "chè tươi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem chè xanh\nVí dụ:\n- bát nước chè tươi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè tươi [chè tươi]\n-Concoction of green tea leaves, fresh tea, tea, made with fresh tea (cũng"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "concoction of green tea leaves, fresh tea, tea, made with fresh tea"
-      }
-    ]
-  },
-  {
-    "word": "chèn lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reinsert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reinsert"
-      }
-    ]
-  },
-  {
-    "word": "chè hoa cau",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè đường có rắc đậu xanh đãi vỏ đã đồ chín"
-      }
-    ]
-  },
-  {
-    "word": "chè bồm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè xấu sản xuất từ lá chè không non cũng không già"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-baikhovi tea"
-      }
-    ]
-  },
-  {
-    "word": "chè tàu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè sản xuất từ búp chè không ủ lên men, cánh nhỏ, nước xanh, có hương thơm [nguyên sản xuất ở Trung Quốc]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè tàu [chè tàu]\n-Chinese tea\n@Chuyên ngành kinh tế\n-China tea"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Chinese tea"
-      }
-    ]
-  },
-  {
-    "word": "chèo lái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mái chèo ở phía sau thuyền dùng để lái; phân biệt với chèo mũi\nVí dụ:\n- cầm chèo lái"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chèo và lái để đưa thuyền đi [nói khái quát]\nVí dụ:\n- ông đã chèo lái con thuyền vượt qua cơn bão"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cáng đáng công việc nặng nhọc, xoay xở, đối phó với nhiều khó khăn\nVí dụ:\n- anh ấy đã chèo lái công ty thoát khỏi hiểm hoạ phá sản"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèo lái [chèo lái]\n-row and steer; steer, guide"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "row and steer, steer, guide"
-      }
-    ]
-  },
-  {
-    "word": "chè đã ủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tea mellowing"
-      }
-    ]
-  },
-  {
-    "word": "chèn kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-seal\n@Chuyên ngành kỹ thuật\n-seal"
-      }
-    ]
-  },
-  {
-    "word": "chèn mục đã tính toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Calculated Item\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Insert Calculated Item"
-      }
-    ]
-  },
-  {
-    "word": "chèo ngọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèo ngọn [chèo ngọn]\n-bow oars"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bow oars"
+        "dict_definition": "@Chuyên ngành kinh tế\n-instant tea"
       }
     ]
   },
@@ -1050,6 +994,219 @@
     ]
   },
   {
+    "word": "chèn lắp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mason\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mason"
+      }
+    ]
+  },
+  {
+    "word": "chè móc câu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè búp ngọn, cánh săn, nhỏ và cong như hình cái móc câu"
+      }
+    ]
+  },
+  {
+    "word": "chèo queo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[lối nằm] nghiêng và co người lại\nVí dụ:\n- nằm chèo queo một góc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèo queo\n*adj\n-Curled up, coiled up\n=nằm chèo queo vì lạnh\n+to lie curled up because of the cold"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chèo queo\n* adj\n- Curled up, coiled up\n=nằm chèo queo vì lạnh+to lie curled up because of the cold"
+      }
+    ]
+  },
+  {
+    "word": "chèn bằng tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing by hand\n-tamping by hand\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing by hand\n-tamping by hand"
+      }
+    ]
+  },
+  {
+    "word": "chèn vữa (trong xây đá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-torch\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-torch"
+      }
+    ]
+  },
+  {
+    "word": "chèn lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reinsert\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reinsert"
+      }
+    ]
+  },
+  {
+    "word": "chè chén",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ăn uống một cách lãng phí\nVí dụ:\n- các cụ đang chè chén say sưa \n - ngồi chè chén với nhau"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chè chén\n- 1 dt. Nước uống pha bằng chè búp: uống chè chén cho tỉnh ngủ.\n- 2 đgt. ăn uống xa hoa, lãng phí: chè chén linh đình  chè chén no say."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè chén\n-To feast\n=chè chén linh đình\n+to indulge in the lavish feasting"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chè chén\n- To feast\n=chè chén linh đình+to indulge in the lavish feasting"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to drink"
+      }
+    ]
+  },
+  {
+    "word": "chè cốm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè cốm [chè cốm]\n*danh từ\n-kind of dessert made with sugar and grilled rice"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "kind of dessert made with sugar and grilled rice"
+      }
+    ]
+  },
+  {
+    "word": "chè nụ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem chè hạt"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè nụ\n-như chè hạt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chè nụ\n- như chè hạt"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tea bud"
+      }
+    ]
+  },
+  {
+    "word": "chè tươi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem chè xanh\nVí dụ:\n- bát nước chè tươi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè tươi [chè tươi]\n-Concoction of green tea leaves, fresh tea, tea, made with fresh tea (cũng"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "concoction of green tea leaves, fresh tea, tea, made with fresh tea"
+      }
+    ]
+  },
+  {
+    "word": "chè kho",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chè nấu thật đặc bằng đường hay mật với đậu xanh rang"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chè kho [chè kho]\n-soft green-lentil cake"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "soft green-lentil cake"
+      }
+    ]
+  },
+  {
+    "word": "chèn vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-insertion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-insert\n@Lĩnh vực: toán & tin\n-paste\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-insert\n@Lĩnh vực: toán & tin\n-paste"
+      }
+    ]
+  },
+  {
+    "word": "chèn đe tách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail down"
+      }
+    ]
+  },
+  {
+    "word": "chèn thêm dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-line insert"
+      }
+    ]
+  },
+  {
+    "word": "chè hòa tan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tea extract"
+      }
+    ]
+  },
+  {
+    "word": "chèn bẩy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chèn bẩy [chèn bẩy]\n-oust"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "oust"
+      }
+    ]
+  },
+  {
+    "word": "chèn ép người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-short squeeze"
+      }
+    ]
+  },
+  {
     "word": "chèn ép",
     "definitions": [
       {
@@ -1075,90 +1232,11 @@
     ]
   },
   {
-    "word": "chèm chẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèm chẹp\n-như chem chép"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chèm chẹp\n- như chem chép"
-      }
-    ]
-  },
-  {
-    "word": "chè con ong",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè nấu bằng đường với xôi, hạt xôi nở to"
-      }
-    ]
-  },
-  {
-    "word": "chèn mối nối có bổ sung ba-lát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamping of the joint with additional ballast\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tamping of the joint with additional ballast"
-      }
-    ]
-  },
-  {
     "word": "chè bop (lá non thứ nhất và thứ hai của búp chè)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-Broken orange pekoe"
-      }
-    ]
-  },
-  {
-    "word": "chè vụn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-broken tea\n-dust tea"
-      }
-    ]
-  },
-  {
-    "word": "chèn bằng tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing by hand\n-tamping by hand\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing by hand\n-tamping by hand"
-      }
-    ]
-  },
-  {
-    "word": "chè hạt lựu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè nấu bằng đường với bột hoàng tinh hoặc bột sắn kết thành những hạt nhỏ như hạt lựu"
-      }
-    ]
-  },
-  {
-    "word": "chè lá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè tàu, thuốc lá và những thứ tương tự thường dùng để biếu xén, hối lộ khi cầu cạnh việc gì\nVí dụ:\n- lo liệu chè lá cho quan trên"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè lá\n-Tea and cigarettes, baksheesh, bribe\n=tiền chè lá cho lý trưởng trước khi lên quan\n+to give bribes to the village headman before going to the yamen\n@Chuyên ngành kinh tế\n-leafy tea"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chè lá\n- Tea and cigarettes, baksheesh, bribe\n=tiền chè lá cho lý trưởng trước khi lên quan+to give bribes to the village headman before going to the yamen"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tea and cigarettes, baksheesh, bribe"
       }
     ]
   },
@@ -1192,98 +1270,20 @@
     ]
   },
   {
-    "word": "chèn ép tim",
+    "word": "chè pha dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cardiac tamponade\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cardiac tamponade"
+        "dict_definition": "@Chuyên ngành kinh tế\n-tea blend"
       }
     ]
   },
   {
-    "word": "chèn tại vị trí ghi",
+    "word": "chèn kín",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of the switches\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of the switches"
-      }
-    ]
-  },
-  {
-    "word": "chèm nhèm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như nhem nhuốc\nVí dụ:\n- mặt mũi chèm nhèm \n - mực dính chèm nhèm khắp áo"
-      }
-    ]
-  },
-  {
-    "word": "chèn ở vị trí tà vẹt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of sleepers\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-packing of sleepers"
-      }
-    ]
-  },
-  {
-    "word": "chè gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-brick tea"
-      }
-    ]
-  },
-  {
-    "word": "chè p (lá non thứ hai của búp bê)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Pekoe"
-      }
-    ]
-  },
-  {
-    "word": "chè hạt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chè sản xuất từ nụ chè"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chè hạt\n-Tea flower buds"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chè hạt\n- Tea flower buds"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tea flower buds"
-      }
-    ]
-  },
-  {
-    "word": "chèo kéo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cố níu lại mời mọc cho bằng được\nVí dụ:\n- nhân viên đang chèo kéo khách hàng \n - chèo kéo bạn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chèo kéo\n*verb\n-To invite with insistence\n=\n+o solicit (nói về gái ddiếm)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chèo kéo\n* verb\n- To invite with insistence\n=To solicit (nói về gái ddiếm)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to invite with insistence, solicit"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-seal\n@Chuyên ngành kỹ thuật\n-seal"
       }
     ]
   }

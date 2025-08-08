@@ -1,5 +1,44 @@
 [
   {
+    "word": "dệt cửi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dệt cửi [dệt cửi]\n-to weave"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to weave"
+      }
+    ]
+  },
+  {
+    "word": "dệt vải dệt kim một mặt phải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-single jet injection nozzle"
+      }
+    ]
+  },
+  {
+    "word": "dệt gấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dệt gấm\n*verb\n-to brocade"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dệt gấm\n* verb\n-to brocade"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to brocade"
+      }
+    ]
+  },
+  {
     "word": "dệt",
     "definitions": [
       {
@@ -25,6 +64,37 @@
     ]
   },
   {
+    "word": "dện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhện"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dện [dện]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "dệ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem vệ\nVí dụ:\n- dệ cỏ"
+      }
+    ]
+  },
+  {
+    "word": "dệt xử lý nhiệt (in hàng dệt, chỗ bị bẩn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-bake"
+      }
+    ]
+  },
+  {
     "word": "dệt kim",
     "definitions": [
       {
@@ -42,50 +112,11 @@
     ]
   },
   {
-    "word": "dệt vải",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to weave cloth, textiles"
-      }
-    ]
-  },
-  {
-    "word": "dệt gấm",
+    "word": "dệt trục dệt, trục sợi dọc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dệt gấm\n*verb\n-to brocade"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dệt gấm\n* verb\n-to brocade"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to brocade"
-      }
-    ]
-  },
-  {
-    "word": "dệt cửi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dệt cửi [dệt cửi]\n-to weave"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to weave"
-      }
-    ]
-  },
-  {
-    "word": "dệt xử lý nhiệt (in hàng dệt, chỗ bị bẩn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-bake"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam"
       }
     ]
   },
@@ -99,42 +130,11 @@
     ]
   },
   {
-    "word": "dệ",
+    "word": "dệt vải",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem vệ\nVí dụ:\n- dệ cỏ"
-      }
-    ]
-  },
-  {
-    "word": "dệt trục dệt, trục sợi dọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-beam"
-      }
-    ]
-  },
-  {
-    "word": "dệt vải dệt kim một mặt phải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-single jet injection nozzle"
-      }
-    ]
-  },
-  {
-    "word": "dện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhện"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dện [dện]\n-xem"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to weave cloth, textiles"
       }
     ]
   }

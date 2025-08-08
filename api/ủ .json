@@ -1,90 +1,10 @@
 [
   {
-    "word": "ủ ấp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ấp ủ\nVí dụ:\n- tôi vẫn ủ ấp hi vọng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ủ ấp\n*động từ\n-như\n-brood, prepare in secret (a plot etc.)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cherish"
-      }
-    ]
-  },
-  {
-    "word": "ủ bằng tháp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pot-anneal"
-      }
-    ]
-  },
-  {
-    "word": "ủ trong hộp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-box annealing"
-      }
-    ]
-  },
-  {
-    "word": "ủ giảm ứng suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-stress-relieving anneal"
-      }
-    ]
-  },
-  {
-    "word": "ủ gang dẻo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-malleablize"
-      }
-    ]
-  },
-  {
     "word": "ủ mềm",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-temper"
-      }
-    ]
-  },
-  {
-    "word": "ủ hở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-open-anneal"
-      }
-    ]
-  },
-  {
-    "word": "ủ liễu phai đào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ủ liễu phai đào\n*thành ngữ\n-a sad pale face"
-      }
-    ]
-  },
-  {
-    "word": "ủ sau khi đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-annealed casting"
       }
     ]
   },
@@ -98,19 +18,11 @@
     ]
   },
   {
-    "word": "ủ bệnh",
+    "word": "ủ dẻo",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trong giai đoạn từ khi nhiễm đến khi phát bệnh\nVí dụ:\n- thời gian ủ bệnh"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@ủ bệnh [ủ bệnh]\n-("
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "incubation period"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-malleablize"
       }
     ]
   },
@@ -166,7 +78,7 @@
     ]
   },
   {
-    "word": "ủ dẻo",
+    "word": "ủ gang dẻo",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -184,29 +96,11 @@
     ]
   },
   {
-    "word": "ủ thô hạt",
+    "word": "ủ đẳng thời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-full annealing"
-      }
-    ]
-  },
-  {
-    "word": "ủ trong môi trường chân không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-annealed in vacuum"
-      }
-    ]
-  },
-  {
-    "word": "ủ đất sét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-souring (of clay)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-isochronal annealing"
       }
     ]
   },
@@ -236,11 +130,144 @@
     ]
   },
   {
+    "word": "ủ bằng tháp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pot-anneal"
+      }
+    ]
+  },
+  {
+    "word": "ủ hoàn toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-full annealing"
+      }
+    ]
+  },
+  {
+    "word": "ủ ấp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ấp ủ\nVí dụ:\n- tôi vẫn ủ ấp hi vọng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ủ ấp\n*động từ\n-như\n-brood, prepare in secret (a plot etc.)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cherish"
+      }
+    ]
+  },
+  {
+    "word": "ủ sau khi đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-annealed casting"
+      }
+    ]
+  },
+  {
+    "word": "ủ trong môi trường chân không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-annealed in vacuum"
+      }
+    ]
+  },
+  {
+    "word": "ủ đất sét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-souring (of clay)"
+      }
+    ]
+  },
+  {
+    "word": "ủ giảm ứng suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-stress-relieving anneal"
+      }
+    ]
+  },
+  {
+    "word": "ủ thô hạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-full annealing"
+      }
+    ]
+  },
+  {
+    "word": "ủ liễu phai đào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ủ liễu phai đào\n*thành ngữ\n-a sad pale face"
+      }
+    ]
+  },
+  {
+    "word": "ủ bệnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trong giai đoạn từ khi nhiễm đến khi phát bệnh\nVí dụ:\n- thời gian ủ bệnh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ủ bệnh [ủ bệnh]\n-("
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "incubation period"
+      }
+    ]
+  },
+  {
+    "word": "ủ khử ứng suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-stress-relieving anneal"
+      }
+    ]
+  },
+  {
+    "word": "ủ bằng thùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pot-anneal"
+      }
+    ]
+  },
+  {
     "word": "ủ từ",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic anneal"
+      }
+    ]
+  },
+  {
+    "word": "ủ hở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-open-anneal"
       }
     ]
   },
@@ -270,38 +297,11 @@
     ]
   },
   {
-    "word": "ủ hoàn toàn",
+    "word": "ủ trong hộp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-full annealing"
-      }
-    ]
-  },
-  {
-    "word": "ủ khử ứng suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-stress-relieving anneal"
-      }
-    ]
-  },
-  {
-    "word": "ủ đẳng thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-isochronal annealing"
-      }
-    ]
-  },
-  {
-    "word": "ủ bằng thùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pot-anneal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-box annealing"
       }
     ]
   }

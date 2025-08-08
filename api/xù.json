@@ -1,14 +1,14 @@
 [
   {
-    "word": "xùm xụp",
+    "word": "xùng xình",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@xùm xụp - sink, go deep or far down (of hat, turban)"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thùng thình\nVí dụ:\n- \"Xùng xình áo lụa mới may, Hôm qua thấy bận, bữa nay mất rồi?\" (Cdao)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "sink, go deep or far down (of hat, turban)"
+        "dict_definition": "unkempt, sloppy (clothes)"
       }
     ]
   },
@@ -18,6 +18,23 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to stump up, shell out, fork out, cough up"
+      }
+    ]
+  },
+  {
+    "word": "xù xì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều nốt nhỏ không đều nổi trên bề mặt, khiến cho khi sờ vào thấy không mịn\nVí dụ:\n- vỏ cây xù xì \n - da tay xù xì"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-harsh\n@Chuyên ngành kỹ thuật\n-asperity\n-ragged\n-rough\n@Lĩnh vực: xây dựng\n-crisp\n-hackly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rough, coarse (surfaced)"
       }
     ]
   },
@@ -64,32 +81,15 @@
     ]
   },
   {
-    "word": "xùng xình",
+    "word": "xùm xụp",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thùng thình\nVí dụ:\n- \"Xùng xình áo lụa mới may, Hôm qua thấy bận, bữa nay mất rồi?\" (Cdao)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unkempt, sloppy (clothes)"
-      }
-    ]
-  },
-  {
-    "word": "xù xì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều nốt nhỏ không đều nổi trên bề mặt, khiến cho khi sờ vào thấy không mịn\nVí dụ:\n- vỏ cây xù xì \n - da tay xù xì"
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-harsh\n@Chuyên ngành kỹ thuật\n-asperity\n-ragged\n-rough\n@Lĩnh vực: xây dựng\n-crisp\n-hackly"
+        "dict_definition": "@xùm xụp - sink, go deep or far down (of hat, turban)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "rough, coarse (surfaced)"
+        "dict_definition": "sink, go deep or far down (of hat, turban)"
       }
     ]
   }

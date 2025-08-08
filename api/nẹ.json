@@ -1,37 +1,10 @@
 [
   {
-    "word": "nẹp giữ kính",
+    "word": "nẹp gỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bead\n-collar\n-flange\n-glazing bead"
-      }
-    ]
-  },
-  {
-    "word": "nẹp có móc liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-continuous clasp splint"
-      }
-    ]
-  },
-  {
-    "word": "nẹp ván",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-molding"
-      }
-    ]
-  },
-  {
-    "word": "nẹp bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fillet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-molding\n-strip"
       }
     ]
   },
@@ -45,11 +18,11 @@
     ]
   },
   {
-    "word": "nẹp bảo vệ",
+    "word": "nẹp chân tường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-protection molding"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-counterlath"
       }
     ]
   },
@@ -63,11 +36,29 @@
     ]
   },
   {
-    "word": "nẹp (gỗ)",
+    "word": "nẹp ván",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-strip"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-molding"
+      }
+    ]
+  },
+  {
+    "word": "nẹp bảo vệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-protection molding"
+      }
+    ]
+  },
+  {
+    "word": "nẹp có móc liên tục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-continuous clasp splint"
       }
     ]
   },
@@ -105,11 +96,11 @@
     ]
   },
   {
-    "word": "nẹp gỗ",
+    "word": "nẹp bờ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-molding\n-strip"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fillet"
       }
     ]
   },
@@ -119,51 +110,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-fillet\n-molding fillet"
-      }
-    ]
-  },
-  {
-    "word": "nẹp cố định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fixed splint"
-      }
-    ]
-  },
-  {
-    "word": "nẹp, thanh nẹp, ván lót sàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batten"
-      }
-    ]
-  },
-  {
-    "word": "nẹp gỗ dùng đóng đinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-wood nailing strip"
-      }
-    ]
-  },
-  {
-    "word": "nẹp chân tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-counterlath"
-      }
-    ]
-  },
-  {
-    "word": "nẹp gỗ ép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cover strip"
       }
     ]
   },
@@ -189,6 +135,60 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to threaten"
+      }
+    ]
+  },
+  {
+    "word": "nẹp cố định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fixed splint"
+      }
+    ]
+  },
+  {
+    "word": "nẹp (gỗ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-strip"
+      }
+    ]
+  },
+  {
+    "word": "nẹp, thanh nẹp, ván lót sàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batten"
+      }
+    ]
+  },
+  {
+    "word": "nẹp giữ kính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bead\n-collar\n-flange\n-glazing bead"
+      }
+    ]
+  },
+  {
+    "word": "nẹp gỗ dùng đóng đinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-wood nailing strip"
+      }
+    ]
+  },
+  {
+    "word": "nẹp gỗ ép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cover strip"
       }
     ]
   },

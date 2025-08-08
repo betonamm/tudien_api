@@ -1,10 +1,733 @@
 [
   {
-    "word": "nông trang thực nghiệm",
+    "word": "nông hộ kinh doanh thêm nghề phụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-development farm"
+        "dict_definition": "@Chuyên ngành kinh tế\n-side work farmer"
+      }
+    ]
+  },
+  {
+    "word": "nông nại",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Nại\n- Tên một vùng đất phía đông bắc Nam Bộ. Năm 1679, một người Hoa là Trần Thượng Xuyên được chúa Nguyễn cho vào xứ Đồng Nai cư trú. ông đã tập hợp nhiều thương nhân, thợ thủ công người Hoa và Việt đến vùng Cù Lao Phố, còn gọi là Nông Nại Đại Phố hay Đông Phố. Năm 1698, thống xuất Nguyễn Hữu Cảnh vào kinh lược sát nhập Nông Nại vào bản đồ Đàng Trong. Nông Nại nay thuộc thành phố Biên Hoà tỉnh Đồng Nai"
+      }
+    ]
+  },
+  {
+    "word": "nô đùa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chơi đùa một cách ồn ào, vui vẻ\nVí dụ:\n- bọn trẻ đang nô đùa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nô đùa\n- đg. Chơi đùa một cách ồn ào, vui vẻ. Trẻ em nô đùa ngoài sân."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nô đùa\n*verb\n-to frolic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-frolic"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nô đùa\n* verb\n- to frolic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to frolic"
+      }
+    ]
+  },
+  {
+    "word": "nông cống",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Cống\n- (huyện) Huyện ở phía nam tỉnh Thanh Hoá. Diện tích 267,2km2. Số dân 186.900 (1997). Địa hình đồi thoải lượn sóng, đồng bằng chiếm 63% diện tích. Có hồ sông Mực, Yên Mỹ, sông Yên chảy qua. Dân cư 87,9% làm nông nghiệp. Đường sắt Thống Nhất, đường liên tỉnh chạy qua. Huyện gồm 2 thị trấn (Yên Mỹ, Nông Cống) huyện lị, 31 xã\n- (thị trấn) h. Nông Cống, t. Thanh Hoá"
+      }
+    ]
+  },
+  {
+    "word": "nô lệ kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-economic slavery"
+      }
+    ]
+  },
+  {
+    "word": "nông choèn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất nông, đến mức coi như không đáng kể\nVí dụ:\n- cái hố nông choèn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông choèn\n-Unnoticeably shallow"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông choèn\n- Unnoticeably shallow"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unnoticeably shallow"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp thâm canh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-intensive agriculture\n@Chuyên ngành kỹ thuật\n-intensive husbandry"
+      }
+    ]
+  },
+  {
+    "word": "nông sản",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sản phẩm nông nghiệp, như gạo, thịt, trứng, rau, hoa quả, v.v. [nói khái quát]\nVí dụ:\n- thu mua nông sản \n - nhà máy chế biến nông sản"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông sản\n- Sản phẩm của nông nghiệp như thóc, gạo, bông, gai..."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông sản\n*noun\n-agricultural produce; farm produce\n@Chuyên ngành kinh tế\n-green product\n@Chuyên ngành kỹ thuật\n-agricultural products"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông sản\n* noun\n- agricultural produce; farm produce"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "agricultural produce, farm produce"
+      }
+    ]
+  },
+  {
+    "word": "nông trang thí nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-experimental farm"
+      }
+    ]
+  },
+  {
+    "word": "nông choẹt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như nông choèn"
+      }
+    ]
+  },
+  {
+    "word": "nông trường công xưởng hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-factory farm"
+      }
+    ]
+  },
+  {
+    "word": "nô lệ gia đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-domestic slave"
+      }
+    ]
+  },
+  {
+    "word": "nông phẩm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nông sản\nVí dụ:\n- thu mua nông phẩm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông phẩm [nông phẩm]\n-farming products\n@Chuyên ngành kinh tế\n-produce\n@Chuyên ngành kỹ thuật\n-husbandry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "farming products"
+      }
+    ]
+  },
+  {
+    "word": "nông tang",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông tang\n- Nghề làm ruộng và nghề nuôi tằm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông tang\n-(cũ) Agriculture and silk-worm breeding"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông tang\n- (cũ) Agriculture and silk-worm breeding"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "agriculture and silk-worm breeding"
+      }
+    ]
+  },
+  {
+    "word": "nông thịnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Thịnh\n- (xã) h. Bạch Thông, t. Bắc Kạn"
+      }
+    ]
+  },
+  {
+    "word": "nông phố",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông phố\n- Nghề làm ruộng, làm vườn (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông phố [nông phố]\n-(cũ) Farming, agriculture, gardening."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "farming, agriculture, gardening"
+      }
+    ]
+  },
+  {
+    "word": "nông dân nghèo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-poor peasant"
+      }
+    ]
+  },
+  {
+    "word": "nô en",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Nô en\n-Christmas"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@Nô en\n- Christmas"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Noël, Yule, Christmas"
+      }
+    ]
+  },
+  {
+    "word": "nông trại nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-holding\n-smallholding"
+      }
+    ]
+  },
+  {
+    "word": "nôn ọe",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nôn ọe\n- Nh. Nôn mửa."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to vomit"
+      }
+    ]
+  },
+  {
+    "word": "nông sờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông sờ\n- Nh. Nông, ngh. 1: Sông Tương một dải nông sờ (K)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông sờ\n-Shallow, not deep"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông sờ\n- Shallow, not deep"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shallow, not deep"
+      }
+    ]
+  },
+  {
+    "word": "nông trường mộc châu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Trường Mộc Châu\n- (thị trấn) h. Mộc Châu, t. Sơn La"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp vùng ngoại ô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-suburban agriculture"
+      }
+    ]
+  },
+  {
+    "word": "nô tỳ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nô tì"
+      }
+    ]
+  },
+  {
+    "word": "nông trại",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trại sản xuất nông nghiệp\nVí dụ:\n- nông trại nuôi bò"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông trại\n-Farm\n@Chuyên ngành kinh tế\n-farm\n@Chuyên ngành kỹ thuật\n-agricultural farm\n-farm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông trại\n- Farm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "farm"
+      }
+    ]
+  },
+  {
+    "word": "nông trường quốc doanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-kobo\n-state farm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a state-managed farm, a sovkhoz"
+      }
+    ]
+  },
+  {
+    "word": "nông văn vân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Văn Vân\n- (? - 1835) Tù trưởng người Tày, tri châu Bảo Lạc (Cao Bằng), liên kết với các tri châu chống lại triều Nguyễn.Khởi nghĩa bùng nổ ngày 2-7-1833, Nông Văn Vân tự xưng là \"tiết chế thượng tướng quân\" lập đại bản doanh ở Bảo Lạc, được nhiều tù trưởng và nhân dân các tộc trong vùng hưởng ứng. Nghĩa quân nhanh chóng mở rộng hoạt động đánh chiếm các tỉnh thành miền núi phía Bắc. Minh Mệnh phải phái quan quân đàn áp. Ngày 11-3-1835 quân triều đình phóng hoả đốt khu rừng Thẩm Bát, nơi ẩn náu của Nông Văn Vân và nghĩa quân. Khởi nghĩa bị dập tắt"
+      }
+    ]
+  },
+  {
+    "word": "nông sản phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-agricultural produce\n-farm produce\n-produce"
+      }
+    ]
+  },
+  {
+    "word": "nông vận",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông vận\n- Việc tuyên truyền và tổ chức nông dân đấu tranh và sản suất."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông vận\n-(cũ) Agritation and propaganda among the peasant agitprop"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông vận\n- (cũ) Agritation and propaganda among the peasant agitprop"
+      }
+    ]
+  },
+  {
+    "word": "nô",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chơi đùa\nVí dụ:\n- lũ trẻ đang nô ngoài sân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nô\n- đg. 1. Cg. Nô đùa. Chơi nghịch: Nô cả ngày, chẳng chịu học hành gì. 2. Nh. Nô nức: Nô nhau đi xem hội.\n- d. \"Nô lệ\" hay \"nô tỳ\" nói tắt: Mua nô."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nô\n-Frolic, gambol\n=Nô cả ngày không chịu học\n+To frolic the whole day instead of studying"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nô\n- Frolic, gambol\n=Nô cả ngày không chịu học+To frolic the whole day instead of studying"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "frolic, gambol"
+      }
+    ]
+  },
+  {
+    "word": "nông lâm nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-agro-forestry"
+      }
+    ]
+  },
+  {
+    "word": "nô nức",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ ra hăm hở, phấn khởi cùng đua nhau làm một việc gì\nVí dụ:\n- nô nức đi xem hội \n - học sinh nô nức đến trường"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nô nức\n- Đua nhau, háo hức: Nô nức đi xem hội."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nô nức\n-flock\n=Nô nức đi xem pháo hoa\n+To flock to see a display of fireworks"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nô nức\n- flock\n=Nô nức đi xem pháo hoa+To flock to see a display of fireworks"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "flock"
+      }
+    ]
+  },
+  {
+    "word": "nôn nóng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nóng lòng muốn được làm ngay việc chưa thể làm, muốn có ngay cái chưa thể có\nVí dụ:\n- thái độ nôn nóng \n - nôn nóng muốn về"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nôn nóng\n- t. 1. Nóng ruột: Nôn nóng muốn biết tin nhà. 2. Thiếu kiên nhẫn, muốn đạt ngay: Vì nôn nóng mà hỏng việc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nôn nóng\n-Be eager to, be bursting tọ\n=Nôn nóng muốn biết kết quả thi\n+To be bursting to know the results of one\"s examinations\n-Overhasty\n=Vì nôn óng mà hỏng việc\n+To be unsuccessful because of overhastiness, to go off at half cock"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nôn nóng\n- Be eager to, be bursting tọ\n=Nôn nóng muốn biết kết quả thi+To be bursting to know the results of one's examinations\n-Overhasty\n=Vì nôn óng mà hỏng việc+To be unsuccessful because of overhastiness, to go off at half cock"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "anxious, eager to, bursting to"
+      }
+    ]
+  },
+  {
+    "word": "nôm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tiếng Việt, viết bằng chữ gọi là chữ Nôm; phân biệt với tiếng Hán, viết bằng chữ Nho\nVí dụ:\n- truyện nôm khuyết danh \n - thơ nôm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nôm\n- t. 1. Nói thơ, văn, viết bằng chữ nôm : Thơ nôm. 2. Cg. Nôm na. Dễ hiểu, không văn hoa : Câu văn nôm lắm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nôm\n*noun\n-Chinese-transcribed Vietnamese\n=thơ nôm\n+poetry in Chinese-transcribed Vietnamese*adj\n-Prose-like, simple, easy to understand\n=câu văn nôm lắm\n+a very simple sentence\n-In opposition to the Chinese\"s Hán language, Nôm (slantingly pronounced from \"Nam\") language belonged to Việt ethnic group. It borrowed the Hán hieroglyphic scripts to transcribe the Vietnamese language. Nôm language might appear in the 8th century. The memorable poems in Nôm language belonged to Hàn Thuyên and Nguyễn Sĩ Cố (in the late 13th century) The birth of Nôm language not only marked the Việt people\"s mature national consciousness, but also brought a brilliant development to the Vietnamese literature between the late 18th and early 19th centuries. For complication and imperfection, Nôm language was replaced by quốc ngữ (national language)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nôm\n* noun\n- Chinese-transcribed Vietnamese\n=thơ nôm+poetry in Chinese-transcribed Vietnamese\n* adj\n- Prose-like, simple, easy to understand\n=câu văn nôm lắm+a very simple sentence\n- In opposition to the Chinese's Hán language, Nôm (slantingly pronounced from \"Nam\") language belonged to Việt ethnic group. It borrowed the Hán hieroglyphic scripts to transcribe the Vietnamese language. Nôm language might appear in the 8th century. The memorable poems in Nôm language belonged to Hàn Thuyên and Nguyễn Sĩ Cố (in the late 13th century) The birth of Nôm language not only marked the Việt people's mature national consciousness, but also brought a brilliant development to the Vietnamese literature between the late 18th and early 19th centuries. For complication and imperfection, Nôm language was replaced by quốc ngữ (national language)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Nom (old Vietnamese writing system based on Chinese characters)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "popular, common, vulgar"
+      }
+    ]
+  },
+  {
+    "word": "nô giỡn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như nô đùa\nVí dụ:\n- bọn trẻ đang nô giỡn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nô giỡn\n-như nô đùa"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nô giỡn\n- như nô đùa"
+      }
+    ]
+  },
+  {
+    "word": "nông gia",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông gia\n- Người lao động sống bằng nghề làm ruộng (cũ): Cấy cày vốn nghiệp nông gia (cd)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông gia\n-(cũ) Cultivator, agriculturist"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông gia\n- (cũ) Cultivator, agriculturist"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cultivator, agriculturist"
+      }
+    ]
+  },
+  {
+    "word": "nô lệ thời hiện đại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "modern slavery"
+      }
+    ]
+  },
+  {
+    "word": "nông thôn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khu vực dân cư tập trung chủ yếu làm nghề nông; phân biệt với thành thị\nVí dụ:\n- sống ở nông thôn \n - người nông thôn \n - từ nông thôn ra thành thị"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông thôn\n- Làng mạc sống bằng sản xuất nông nghiệp, khác với thành thị."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông thôn\n-Countryside, country\n=\n+ông thôn Việt Nam\n@Chuyên ngành kỹ thuật\n-country\n-countryside\n-rural"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông thôn\n- Countryside, country\n=nông thôn Việt Nam"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "countryside, country, rural"
+      }
+    ]
+  },
+  {
+    "word": "nông dân làm thuê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-farm labourer\n-hired farmhand"
+      }
+    ]
+  },
+  {
+    "word": "nôn mửa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nôn [nói khái quát]\nVí dụ:\n- thằng bé nôn mửa nhiều lần"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nôn mửa\n- Nh. Mửa: ăn được gì nôn mửa hết."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nôn mửa\n-xem nôn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nôn mửa\n- xem nôn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to vomit, nauseous"
+      }
+    ]
+  },
+  {
+    "word": "nông trường kiểu mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-demonstration farm"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp sinh tồn (không có thừa để xuất khẩu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
+      }
+    ]
+  },
+  {
+    "word": "nông học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoa học tổng hợp nghiên cứu về sản xuất nông nghiệp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông học\n- Môn học nghiên cứu phương pháp cải tiến và phát triển nông nghiệp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông học\n-Argonomy\n@Chuyên ngành kinh tế\n-agronomy\n@Chuyên ngành kỹ thuật\n-agronomy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông học\n- Argonomy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "agriculture, agronomy"
+      }
+    ]
+  },
+  {
+    "word": "nô tì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nô tì\n- Người vì có tội, vì cha mẹ có tội, hoặc vì nghèo đói mà phải làm tôi tớ hay bán mình cho nhà phong kiến: Xã hội Lý, Trần có lắm nô tì. Chế độ nô tì. Chế độ xã hội đời Lý, đời Trần, cho phép giai cấp quý tộc mua nô tì và dùng nô tì vào việc sản xuất hay phục vụ gia đình."
+      }
+    ]
+  },
+  {
+    "word": "nông sản phẩm thặng dư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-agricultural surplus"
+      }
+    ]
+  },
+  {
+    "word": "nông dân (ấn độ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ryot"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp lương thực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-field farming"
+      }
+    ]
+  },
+  {
+    "word": "nông sản xuất khẩu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-export crop"
+      }
+    ]
+  },
+  {
+    "word": "nông chính",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông chính\n- Công việc trông nom và phát triển nông nghiệp (cũ)."
+      }
+    ]
+  },
+  {
+    "word": "nông nô",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông nô\n- Người bị áp bức bóc lột nhất trong chế độ phong kiến, bị phụ thuộc vào ruộng đất của phong kiến, địa chủ, bị phong kiến, địa chủ chiếm đoạt sản vật, ngoài ra còn phải làm nhiều công việc tạp dịch phục vụ phong kiến, địa chủ. Chế độ nông nô. Chế độ bóc lột nông nô dưới chế độ phong kiến; nông nô tuy không phải là tài sản của phong kiến địa chủ, nhưng khi phong kiến, địa chủ bán ruộng đất thì bị bán theo, sản vật do nông nô làm ra bị phong kiến địa chủ chiếm hữu. Giai cấp nông nô. Giai cấp gồm những người nói trên."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông nô [nông nô]\n-bondman;  serf\n@Chuyên ngành kinh tế\n-bondsman\n-serf\n-villain\n-villein\n@Chuyên ngành kỹ thuật\n-serf"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bondman, serf"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp tập thể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-collective farm"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp tự nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
       }
     ]
   },
@@ -42,355 +765,29 @@
     ]
   },
   {
-    "word": "nôn máu",
+    "word": "nông nghiệp ngũ cốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vomitus cruentus"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-grain farming"
       }
     ]
   },
   {
-    "word": "nông cụ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "công cụ dùng trong sản xuất nông nghiệp\nVí dụ:\n- cải tiến nông cụ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông cụ\n- Đồ dùng để trồng trọt, cày cấy như cày, bừa, cuốc, v v"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông cụ\n-Farming implement\n@Chuyên ngành kỹ thuật\n-agricultural equipments"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông cụ\n- Farming implement"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farming implement"
-      }
-    ]
-  },
-  {
-    "word": "nô en",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Nô en\n-Christmas"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@Nô en\n- Christmas"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Noël, Yule, Christmas"
-      }
-    ]
-  },
-  {
-    "word": "nô giỡn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như nô đùa\nVí dụ:\n- bọn trẻ đang nô giỡn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nô giỡn\n-như nô đùa"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nô giỡn\n- như nô đùa"
-      }
-    ]
-  },
-  {
-    "word": "nông học",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoa học tổng hợp nghiên cứu về sản xuất nông nghiệp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông học\n- Môn học nghiên cứu phương pháp cải tiến và phát triển nông nghiệp."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông học\n-Argonomy\n@Chuyên ngành kinh tế\n-agronomy\n@Chuyên ngành kỹ thuật\n-agronomy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông học\n- Argonomy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "agriculture, agronomy"
-      }
-    ]
-  },
-  {
-    "word": "nông trại nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-holding\n-smallholding"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp sinh tồn (không có thừa để xuất khẩu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
-      }
-    ]
-  },
-  {
-    "word": "nông hộ kinh doanh thêm nghề phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-side work farmer"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp quảng canh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extensive agriculture\n@Chuyên ngành kỹ thuật\n-extensive husbandry"
-      }
-    ]
-  },
-  {
-    "word": "nông dân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người lao động sản xuất nông nghiệp\nVí dụ:\n- bà con nông dân \n - cuộc nổi dậy của nông dân"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông dân\n- dt (H. dân: người dân) Người dân làm nghề trồng trọt, cày cấy: Nông dân là một lực lượng rất to lớn của dân tộc (HCM)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông dân\n*noun\n-farmer ; cultivator\n@Chuyên ngành kinh tế\n-peasant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-peasant\n@Lĩnh vực: cơ khí & công trình\n-tiller"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông dân\n* noun\n- farmer ; cultivator"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farmer, cultivator"
-      }
-    ]
-  },
-  {
-    "word": "nông cạn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[nhận thức] không đi vào chiều sâu, vào bản chất, chỉ lướt qua bên ngoài\nVí dụ:\n- suy nghĩ nông cạn \n - tư tưởng nông cạn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông cạn\n- tt. (Nhận thức) hời hợt, không biết đào sâu suy nghĩ, không sâu sắc: hiểu biết nông cạn  suy nghĩ còn nông cạn lắm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông cạn\n-superficial; shallow\n=kiến thức nông cạn\n+superficial knowledge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-superficial"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông cạn\n- superficial; shallow\n=kiến thức nông cạn+superficial knowledge"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "empty, superficial, shallow"
-      }
-    ]
-  },
-  {
-    "word": "nông trường chăn nuôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-animal farm"
-      }
-    ]
-  },
-  {
-    "word": "nông văn vân",
+    "word": "nông thượng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Văn Vân\n- (? - 1835) Tù trưởng người Tày, tri châu Bảo Lạc (Cao Bằng), liên kết với các tri châu chống lại triều Nguyễn.Khởi nghĩa bùng nổ ngày 2-7-1833, Nông Văn Vân tự xưng là \"tiết chế thượng tướng quân\" lập đại bản doanh ở Bảo Lạc, được nhiều tù trưởng và nhân dân các tộc trong vùng hưởng ứng. Nghĩa quân nhanh chóng mở rộng hoạt động đánh chiếm các tỉnh thành miền núi phía Bắc. Minh Mệnh phải phái quan quân đàn áp. Ngày 11-3-1835 quân triều đình phóng hoả đốt khu rừng Thẩm Bát, nơi ẩn náu của Nông Văn Vân và nghĩa quân. Khởi nghĩa bị dập tắt"
+        "dict_definition": "@Nông Thượng\n- (xã) tx. Bắc Kạn, t. Bắc Kạn"
       }
     ]
   },
   {
-    "word": "nông nghiệp lương thực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-field farming"
-      }
-    ]
-  },
-  {
-    "word": "nông vận",
+    "word": "nông hạ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông vận\n- Việc tuyên truyền và tổ chức nông dân đấu tranh và sản suất."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông vận\n-(cũ) Agritation and propaganda among the peasant agitprop"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông vận\n- (cũ) Agritation and propaganda among the peasant agitprop"
-      }
-    ]
-  },
-  {
-    "word": "nông hội",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông hội\n- Tổ chức của nông dân gồm cố nông, bần nông, trung nông, nhằm cải thiện đời sống của nông dân, liên minh với công nhân đấu tranh chống đế quốc phong kiến, địa chủ; đánh đổ chế độ áp bức, tiến tới chủ nghĩa xã hội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông hội\n-Peasants\" association\n@Chuyên ngành kinh tế\n-agricultural association"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông hội\n- Peasants' association"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "peasants’ association"
-      }
-    ]
-  },
-  {
-    "word": "nông chính",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông chính\n- Công việc trông nom và phát triển nông nghiệp (cũ)."
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp tự túc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
-      }
-    ]
-  },
-  {
-    "word": "nông ngư",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nông nghiệp và ngư nghiệp [nói gộp]\nVí dụ:\n- sản xuất theo mô hình nông ngư kết hợp"
-      }
-    ]
-  },
-  {
-    "word": "nông trường vườn rau quả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-truck farm"
-      }
-    ]
-  },
-  {
-    "word": "nông dân làm thuê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-farm labourer\n-hired farmhand"
-      }
-    ]
-  },
-  {
-    "word": "nông choèn choẹt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như nông choèn [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- vũng nước nông choèn choẹt"
-      }
-    ]
-  },
-  {
-    "word": "nông phố",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông phố\n- Nghề làm ruộng, làm vườn (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông phố [nông phố]\n-(cũ) Farming, agriculture, gardening."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farming, agriculture, gardening"
-      }
-    ]
-  },
-  {
-    "word": "nông trường tập thể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-kobo\n-kolkhoz"
-      }
-    ]
-  },
-  {
-    "word": "nông trang",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nông trang tập thể [nói tắt]\nVí dụ:\n- nông trang trồng nho \n - chủ tịch nông trang"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Trang\n- (phường) tp. Việt Trì, t. Phú Thọ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông trang\n- Trại sản xuất nông nghiệp."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông trang\n-Farm\n=Nông trang tập thể\n+A kolkhoz\n@Chuyên ngành kinh tế\n-farm\n-plantation\n@Chuyên ngành kỹ thuật\n-farm"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông trang\n- Farm\n=Nông trang tập thể+A kolkhoz"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farm"
+        "dict_definition": "@Nông Hạ\n- (xã) h. Bạch Thông, t. Bắc Kạn"
       }
     ]
   },
@@ -404,165 +801,6 @@
     ]
   },
   {
-    "word": "nôn nóng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nóng lòng muốn được làm ngay việc chưa thể làm, muốn có ngay cái chưa thể có\nVí dụ:\n- thái độ nôn nóng \n - nôn nóng muốn về"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nôn nóng\n- t. 1. Nóng ruột: Nôn nóng muốn biết tin nhà. 2. Thiếu kiên nhẫn, muốn đạt ngay: Vì nôn nóng mà hỏng việc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nôn nóng\n-Be eager to, be bursting tọ\n=Nôn nóng muốn biết kết quả thi\n+To be bursting to know the results of one\"s examinations\n-Overhasty\n=Vì nôn óng mà hỏng việc\n+To be unsuccessful because of overhastiness, to go off at half cock"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nôn nóng\n- Be eager to, be bursting tọ\n=Nôn nóng muốn biết kết quả thi+To be bursting to know the results of one's examinations\n-Overhasty\n=Vì nôn óng mà hỏng việc+To be unsuccessful because of overhastiness, to go off at half cock"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "anxious, eager to, bursting to"
-      }
-    ]
-  },
-  {
-    "word": "nông tiến",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Tiến\n- (xã) tx. Tuyên Quang, t. Tuyên Quang"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp vùng ngoại ô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-suburban agriculture"
-      }
-    ]
-  },
-  {
-    "word": "nông trường công xưởng hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-factory farm"
-      }
-    ]
-  },
-  {
-    "word": "nông công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông công nghiệp\n-Argo-industrial"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông công nghiệp\n- Argo-industrial"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "argo-industrial"
-      }
-    ]
-  },
-  {
-    "word": "nông sản hàng hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cash crop"
-      }
-    ]
-  },
-  {
-    "word": "nôn ọe",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nôn ọe\n- Nh. Nôn mửa."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to vomit"
-      }
-    ]
-  },
-  {
-    "word": "nôn phân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stercoraceous vomiting"
-      }
-    ]
-  },
-  {
-    "word": "nôn đa toan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hyperacid vomiting"
-      }
-    ]
-  },
-  {
-    "word": "nôm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiếng Việt, viết bằng chữ gọi là chữ Nôm; phân biệt với tiếng Hán, viết bằng chữ Nho\nVí dụ:\n- truyện nôm khuyết danh \n - thơ nôm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nôm\n- t. 1. Nói thơ, văn, viết bằng chữ nôm : Thơ nôm. 2. Cg. Nôm na. Dễ hiểu, không văn hoa : Câu văn nôm lắm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nôm\n*noun\n-Chinese-transcribed Vietnamese\n=thơ nôm\n+poetry in Chinese-transcribed Vietnamese*adj\n-Prose-like, simple, easy to understand\n=câu văn nôm lắm\n+a very simple sentence\n-In opposition to the Chinese\"s Hán language, Nôm (slantingly pronounced from \"Nam\") language belonged to Việt ethnic group. It borrowed the Hán hieroglyphic scripts to transcribe the Vietnamese language. Nôm language might appear in the 8th century. The memorable poems in Nôm language belonged to Hàn Thuyên and Nguyễn Sĩ Cố (in the late 13th century) The birth of Nôm language not only marked the Việt people\"s mature national consciousness, but also brought a brilliant development to the Vietnamese literature between the late 18th and early 19th centuries. For complication and imperfection, Nôm language was replaced by quốc ngữ (national language)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nôm\n* noun\n- Chinese-transcribed Vietnamese\n=thơ nôm+poetry in Chinese-transcribed Vietnamese\n* adj\n- Prose-like, simple, easy to understand\n=câu văn nôm lắm+a very simple sentence\n- In opposition to the Chinese's Hán language, Nôm (slantingly pronounced from \"Nam\") language belonged to Việt ethnic group. It borrowed the Hán hieroglyphic scripts to transcribe the Vietnamese language. Nôm language might appear in the 8th century. The memorable poems in Nôm language belonged to Hàn Thuyên and Nguyễn Sĩ Cố (in the late 13th century) The birth of Nôm language not only marked the Việt people's mature national consciousness, but also brought a brilliant development to the Vietnamese literature between the late 18th and early 19th centuries. For complication and imperfection, Nôm language was replaced by quốc ngữ (national language)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Nom (old Vietnamese writing system based on Chinese characters)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "popular, common, vulgar"
-      }
-    ]
-  },
-  {
-    "word": "nô bộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô bộc\n- Đầy tớ, người ở trong xã hội cũ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nô bộc\n-(cũ) Servant"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nô bộc\n- (cũ) Servant"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "slave, servant"
-      }
-    ]
-  },
-  {
     "word": "nôi dung tài liệu",
     "definitions": [
       {
@@ -572,342 +810,20 @@
     ]
   },
   {
-    "word": "nông trường đường",
+    "word": "nôn do bệnh não",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sugar plantation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cerebral vomiting"
       }
     ]
   },
   {
-    "word": "nông sờ",
+    "word": "nông cơ",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông sờ\n- Nh. Nông, ngh. 1: Sông Tương một dải nông sờ (K)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông sờ\n-Shallow, not deep"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông sờ\n- Shallow, not deep"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "shallow, not deep"
-      }
-    ]
-  },
-  {
-    "word": "nông trường thương nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commercial farm"
-      }
-    ]
-  },
-  {
-    "word": "nôi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ dùng để cho trẻ nhỏ nằm, thường được đan bằng mây, có thể đưa qua đưa lại được\nVí dụ:\n- đưa nôi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nơi phát sinh ra [cái có ý nghĩa trọng đại trong lịch sử dân tộc, lịch sử loài người]\nVí dụ:\n- cái nôi của nền văn minh lúa nước \n - Việt Bắc là cái nôi của cách mạng nước ta"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nôi\n- d. Cg. Nhôi. Đồ đan bằng mây hay tre, tựa cái thúng lớn, để trẻ nhỏ nằm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nôi\n-cũng nói nhôi Cradle\n@Chuyên ngành kinh tế\n-drawer"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nôi\n- cũng nói nhôi Cradle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cradle"
-      }
-    ]
-  },
-  {
-    "word": "nông sản xuất khẩu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-export crop"
-      }
-    ]
-  },
-  {
-    "word": "nông hộ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hộ nông dân\nVí dụ:\n- đa số các nông hộ đã gia nhập hợp tác xã"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông hộ\n- Gia đình sống bằng nghề nông, được kể là một đơn vị về mặt chính quyền: Hợp tác xã này có 140 nông hộ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông hộ\n-Farmer household"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông hộ\n- Farmer household"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farmer household"
-      }
-    ]
-  },
-  {
-    "word": "nôm na",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cách nói, cách diễn đạt] mộc mạc, theo cách nói của người dân thường không biết chữ nho\nVí dụ:\n- lời lẽ rất nôm na \n - hiểu một cách nôm na"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nôm na\n-như nôm nghĩa 2"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nôm na\n- như nôm nghĩa 2"
-      }
-    ]
-  },
-  {
-    "word": "nông cống",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Cống\n- (huyện) Huyện ở phía nam tỉnh Thanh Hoá. Diện tích 267,2km2. Số dân 186.900 (1997). Địa hình đồi thoải lượn sóng, đồng bằng chiếm 63% diện tích. Có hồ sông Mực, Yên Mỹ, sông Yên chảy qua. Dân cư 87,9% làm nông nghiệp. Đường sắt Thống Nhất, đường liên tỉnh chạy qua. Huyện gồm 2 thị trấn (Yên Mỹ, Nông Cống) huyện lị, 31 xã\n- (thị trấn) h. Nông Cống, t. Thanh Hoá"
-      }
-    ]
-  },
-  {
-    "word": "nông phu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông phu\n- Từ cũ chỉ nông dân nghèo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông phu [nông phu]\n-(cũ) Poor peasant (farmer).\n-farmer cultivator"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "poor peasant (farmer), farmer cultivator"
-      }
-    ]
-  },
-  {
-    "word": "nông trang tập thể",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình thức tổ chức sản xuất nông nghiệp tập thể ở một số nước xã hội chủ nghĩa, giống như hợp tác xã cấp cao"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-collective farm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a kolkhoz"
-      }
-    ]
-  },
-  {
-    "word": "nông lâm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nông nghiệp và lâm nghiệp [nói gộp]\nVí dụ:\n- sở nông lâm \n - đại học nông lâm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông lâm\n- Nông nghiệp và lâm nghiệp."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông lâm\n-Agriculture and silvicultue, agriculture and forestry\n@Chuyên ngành kỹ thuật\n-agricultural and forestry"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông lâm\n- Agriculture and silvicultue, agriculture and forestry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "agriculture and forestry"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp thâm canh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-intensive agriculture\n@Chuyên ngành kỹ thuật\n-intensive husbandry"
-      }
-    ]
-  },
-  {
-    "word": "nông nại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Nại\n- Tên một vùng đất phía đông bắc Nam Bộ. Năm 1679, một người Hoa là Trần Thượng Xuyên được chúa Nguyễn cho vào xứ Đồng Nai cư trú. ông đã tập hợp nhiều thương nhân, thợ thủ công người Hoa và Việt đến vùng Cù Lao Phố, còn gọi là Nông Nại Đại Phố hay Đông Phố. Năm 1698, thống xuất Nguyễn Hữu Cảnh vào kinh lược sát nhập Nông Nại vào bản đồ Đàng Trong. Nông Nại nay thuộc thành phố Biên Hoà tỉnh Đồng Nai"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp mưu sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
-      }
-    ]
-  },
-  {
-    "word": "nông tang",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông tang\n- Nghề làm ruộng và nghề nuôi tằm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông tang\n-(cũ) Agriculture and silk-worm breeding"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông tang\n- (cũ) Agriculture and silk-worm breeding"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "agriculture and silk-worm breeding"
-      }
-    ]
-  },
-  {
-    "word": "nông trường kiểu mẫu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-demonstration farm"
-      }
-    ]
-  },
-  {
-    "word": "nô tỳ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nô tì"
-      }
-    ]
-  },
-  {
-    "word": "nông thịnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Thịnh\n- (xã) h. Bạch Thông, t. Bắc Kạn"
-      }
-    ]
-  },
-  {
-    "word": "nông trường chiềng ve",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Trường Chiềng Ve\n- (thị trấn) Mộc Châu, t. Sơn La"
-      }
-    ]
-  },
-  {
-    "word": "nông nỗi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tình cảnh, sự thể không được như ý muốn\nVí dụ:\n- ai biết cơ sự lại ra nông nỗi này!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông nỗi\n- Cơ sự, tình cảm không được như ý: Nông nỗi nhân dân xưa thật là đau xót.nullnullnullnull nullnullnullnullnullnullnull"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông nỗi [nông nỗi]\n-Plight, uncomfortable emotional state.\n-situation, condition, bad situation, deplorable plight"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "plight, uncomfortable emotional state, situation"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp xí nghiệp hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-business farming"
-      }
-    ]
-  },
-  {
-    "word": "nông dân (ấn độ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ryot"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp kinh doanh nhiều loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-multiple agriculture"
-      }
-    ]
-  },
-  {
-    "word": "nông nổi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nông cạn, bồng bột, thiếu cân nhắc suy nghĩ trước khi hành động\nVí dụ:\n- hành động nông nổi \n - \"Đàn ông nông nổi giếng khơi, Đàn bà sâu sắc như cơi đựng trầu.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông nổi\n- Hời hợt, thiếu suy nghĩ, thiếu sâu sắc, chỉ có bề ngoài: Con người nông nổi gặp đâu nói đấy."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông nổi [nông nổi]\n-Superficial\n-act lightly, without much thought"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "superficial; to act lightly, without much thought"
+        "dict_definition": "farm machinery"
       }
     ]
   },
@@ -937,339 +853,75 @@
     ]
   },
   {
-    "word": "nô lệ thời hiện đại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "modern slavery"
-      }
-    ]
-  },
-  {
-    "word": "nôn ọe thốc tháo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to throw up violently, be violently sick"
-      }
-    ]
-  },
-  {
-    "word": "nô lệ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phụ thuộc hoàn toàn vào\nVí dụ:\n- sống nô lệ vào đồng tiền"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người bị tước đoạt hết mọi quyền tự do, sống dưới một ách áp bức\nVí dụ:\n- không chịu cúi đầu làm nô lệ cho thực dân"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người bị phụ thuộc hoàn toàn vào một thế lực nào đó\nVí dụ:\n- trở thành nô lệ của đồng tiền"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô lệ\n- I. dt. 1. Người lao động bị tước hết quyền làm người, trở thành sở hữu riêng của những chủ nô, dưới thời chiếm hữu nô lệ: buôn bán nô lệ. 2. Người bị phụ thuộc vào một thế lực thống trị nào đó, người làm đầy tớ: người dân nô lệ của nước thuộc địa  nô lệ của đồng tiền. II. đgt. Phụ thuộc tuyệt đối: sống nô lệ vào đồng tiền  nô lệ vào sách vở."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nô lệ\n*noun\n-slave\n=thà chết còn hơn làm nô lệ\n+Death sooner than slavery\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slave"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nô lệ\n* noun\n- slave\n=thà chết còn hơn làm nô lệ+Death sooner than slavery"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "slave, slavery"
-      }
-    ]
-  },
-  {
-    "word": "nông phẩm chế biến",
+    "word": "nông nghiệp quảng canh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-farm products"
+        "dict_definition": "@Chuyên ngành kinh tế\n-extensive agriculture\n@Chuyên ngành kỹ thuật\n-extensive husbandry"
       }
     ]
   },
   {
-    "word": "nông trường mộc châu",
+    "word": "nông hội",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Trường Mộc Châu\n- (thị trấn) h. Mộc Châu, t. Sơn La"
+        "dict_definition": "@nông hội\n- Tổ chức của nông dân gồm cố nông, bần nông, trung nông, nhằm cải thiện đời sống của nông dân, liên minh với công nhân đấu tranh chống đế quốc phong kiến, địa chủ; đánh đổ chế độ áp bức, tiến tới chủ nghĩa xã hội."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông hội\n-Peasants\" association\n@Chuyên ngành kinh tế\n-agricultural association"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông hội\n- Peasants' association"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "peasants’ association"
       }
     ]
   },
   {
-    "word": "nông dược",
+    "word": "nông tiến",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thuốc dùng trong sản xuất nông nghiệp, như thuốc trừ sâu, thuốc diệt cỏ, v.v.\nVí dụ:\n- cửa hàng nông dược \n - sản xuất thuốc nông dược"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Tiến\n- (xã) tx. Tuyên Quang, t. Tuyên Quang"
       }
     ]
   },
   {
-    "word": "nô",
+    "word": "nông hộ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chơi đùa\nVí dụ:\n- lũ trẻ đang nô ngoài sân"
+        "dict_definition": "hộ nông dân\nVí dụ:\n- đa số các nông hộ đã gia nhập hợp tác xã"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô\n- đg. 1. Cg. Nô đùa. Chơi nghịch: Nô cả ngày, chẳng chịu học hành gì. 2. Nh. Nô nức: Nô nhau đi xem hội.\n- d. \"Nô lệ\" hay \"nô tỳ\" nói tắt: Mua nô."
+        "dict_definition": "@nông hộ\n- Gia đình sống bằng nghề nông, được kể là một đơn vị về mặt chính quyền: Hợp tác xã này có 140 nông hộ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nô\n-Frolic, gambol\n=Nô cả ngày không chịu học\n+To frolic the whole day instead of studying"
+        "dict_definition": "@nông hộ\n-Farmer household"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nô\n- Frolic, gambol\n=Nô cả ngày không chịu học+To frolic the whole day instead of studying"
+        "dict_definition": "@nông hộ\n- Farmer household"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "frolic, gambol"
+        "dict_definition": "farmer household"
       }
     ]
   },
   {
-    "word": "nông nghiệp luân canh",
+    "word": "nông sản thặng dư",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-alternate husbandry"
-      }
-    ]
-  },
-  {
-    "word": "nông trường nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-minifarm\n-minifundium"
-      }
-    ]
-  },
-  {
-    "word": "nông lâm nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-agro-forestry"
-      }
-    ]
-  },
-  {
-    "word": "nô đùa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chơi đùa một cách ồn ào, vui vẻ\nVí dụ:\n- bọn trẻ đang nô đùa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô đùa\n- đg. Chơi đùa một cách ồn ào, vui vẻ. Trẻ em nô đùa ngoài sân."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nô đùa\n*verb\n-to frolic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-frolic"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nô đùa\n* verb\n- to frolic"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to frolic"
-      }
-    ]
-  },
-  {
-    "word": "nôi tải để lột da súc vật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cattle skinning cradle"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp hộ gia đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-family-unit agriculture"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngành sản xuất vật chất cơ bản của xã hội, cung cấp sản phẩm trồng trọt và sản phẩm chăn nuôi\nVí dụ:\n- ngành nông nghiệp \n - sản xuất nông nghiệp \n - hợp tác xã nông nghiệp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông nghiệp\n- Ngành kinh tế quốc dân chuyên trồng trọt và cày cấy để cung cấp thực phẩm cho nhân dân và nguyên liệu cho công nghiệp. Bộ nông nghiệp. Cơ quan chính phủ phụ trách lãnh đạo sản xuất nông nghiệp."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông nghiệp\n*noun\n-Agriculture, farming\n=Bộ nông nghiệp\n+Ministry of Agriculture\n-CEREMONIES STILL AT THE HEART OF AGRICULTURE IN VIETNAM: Lễ Hạ Điền is a popular ceremony which bears a religious significance for Vietnamese farmers. During the ceremony, farmers pray to heaven to grant them blessings. As Vietnam is an agricultural country where labour-intensive wet-rice is grown, the life of the majority of people is closely linked with the land. Hence, almost all ceremonies and rituals are connected with farming. Wet-rice is grown in very difficult natural conditions, especially in the Red River Delta and central Vietnam where natural calamities - typhoons, flooding, drought and pests - are a constant menace for the peasantry. In the past, in the absence of science and technology, Vietnamese farmers believed in mysterious forces which decided their success or failure. This faith is found in such folk songs as \"Thanks to heaven which grants us good weather conditions\" or \"I pray to heaven to bring rain so that I can have enough water to drink and cover my fields\". Heaven (or Trời in Vietnamese) is a common appellation for the spirit world. The belief in the power of spirits is handed down from generation to generation, so that even now our farmers turn to spirits for assistance. Hence the existence of so many farming-related ceremonies. In the past, there were two main rice crops: the Mùa and the Chiêm Depending on climate and local understanding, farmers regard the Chiêm as the main crop, or vice versa. For this reason, Lễ Hạ Điền differs from one region to another. In many villages, the ceremony is regarded as a major event in the life of the peasantry. Although the ceremonies may differ in scale, the rituals have many common features. On the day of the ceremony, early in the morning, village notables called Già Làng (elder people) in the central highlands make their way to the communal house where other villagers await. There they pay tribute to Thành Hoàng (tutelary god) and Thần Nông (god of agriculture) and other divinities; begging them to bring security, prosperity and bumper crops. Afterwards, the villagers head to a chosen location, usually not too far from the communal house, where the ceremony inaugurating the farming season takes place. In a first-class rice field already meticulously ploughed and harrowed, a bamboo tree is planted with all its branches and leaves. The tree is called Cây Ne^u. Ears of rice are attached to the top of the tree, and having reported to the god of agriculture, they start the ceremony proper. To start the ball rolling, a rice transplant ritual is performed. For this, many Chúa Đồng (Field Lords) are selected. In some villages, only one Chúa Đồng is singled out. They are mostly elderly people, versed in farming techniques and the soil. In addition, they must be kind-hearted people having extended families whose members live in perfect concord. Last but not least, they should not be mourning People hope that the good qualities of the Chúa Đồng will blend into the rice plants and impart great vitality to them. Having paid their respects to the god of agriculture, the Chúa Đồng step into the field and transplant rice around the bamboo tree. In the meantime, the villagers shout cheerfully and beat drums (mimicking natural disaster), targeting the Chúa Đồng. If these people can stand firm on their feet and manage to perform their task well, people believe that their wish will come true Lễ Hạ Điền is held in a very simple way, but it is very dear to the  farmers. They pin all their hopes on the good health, prosperity and happiness that the ceremony promises. Furthermore, it is in this ceremony that the spirit of the community comes to the surface. In their hearts, everyone pledges to join forces for the common cause\n=nông nhàn\n+Agricultual leisure\n@Chuyên ngành kinh tế\n-agriculture\n-agronomy\n-farming\n-husbandry\n@Chuyên ngành kỹ thuật\n-agricultural\n-agriculture\n-agronomy\n-farming\n-husbandry"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông nghiệp\n* noun\n- Agriculture, farming\n=Bộ nông nghiệp+Ministry of Agriculture\n-CEREMONIES STILL AT THE HEART OF AGRICULTURE IN VIETNAM: Lễ Hạ Điền is a popular ceremony which bears a religious significance for Vietnamese farmers. During the ceremony, farmers pray to heaven to grant them blessings. As Vietnam is an agricultural country where labour-intensive wet-rice is grown, the life of the majority of people is closely linked with the land. Hence, almost all ceremonies and rituals are connected with farming. Wet-rice is grown in very difficult natural conditions, especially in the Red River Delta and central Vietnam where natural calamities - typhoons, flooding, drought and pests - are a constant menace for the peasantry. In the past, in the absence of science and technology, Vietnamese farmers believed in mysterious forces which decided their success or failure. This faith is found in such folk songs as \"Thanks to heaven which grants us good weather conditions\" or \"I pray to heaven to bring rain so that I can have enough water to drink and cover my fields\". Heaven (or Trời in Vietnamese) is a common appellation for the spirit world. The belief in the power of spirits is handed down from generation to generation, so that even now our farmers turn to spirits for assistance. Hence the existence of so many farming-related ceremonies. In the past, there were two main rice crops: the Mùa and the Chiêm Depending on climate and local understanding, farmers regard the Chiêm as the main crop, or vice versa. For this reason, Lễ Hạ Điền differs from one region to another. In many villages, the ceremony is regarded as a major event in the life of the peasantry. Although the ceremonies may differ in scale, the rituals have many common features. On the day of the ceremony, early in the morning, village notables called Già Làng (elder people) in the central highlands make their way to the communal house where other villagers await. There they pay tribute to Thành Hoàng (tutelary god) and Thần Nông (god of agriculture) and other divinities; begging them to bring security, prosperity and bumper crops. Afterwards, the villagers head to a chosen location, usually not too far from the communal house, where the ceremony inaugurating the farming season takes place. In a first-class rice field already meticulously ploughed and harrowed, a bamboo tree is planted with all its branches and leaves. The tree is called Cây Ne^u. Ears of rice are attached to the top of the tree, and having reported to the god of agriculture, they start the ceremony proper. To start the ball rolling, a rice transplant ritual is performed. For this, many Chúa Đồng (Field Lords) are selected. In some villages, only one Chúa Đồng is singled out. They are mostly elderly people, versed in farming techniques and the soil. In addition, they must be kind-hearted people having extended families whose members live in perfect concord. Last but not least, they should not be mourning People hope that the good qualities of the Chúa Đồng will blend into the rice plants and impart great vitality to them. Having paid their respects to the god of agriculture, the Chúa Đồng step into the field and transplant rice around the bamboo tree. In the meantime, the villagers shout cheerfully and beat drums (mimicking natural disaster), targeting the Chúa Đồng. If these people can stand firm on their feet and manage to perform their task well, people believe that their wish will come true Lễ Hạ Điền is held in a very simple way, but it is very dear to the  farmers. They pin all their hopes on the good health, prosperity and happiness that the ceremony promises. Furthermore, it is in this ceremony that the spirit of the community comes to the surface. In their hearts, everyone pledges to join forces for the common cause\n=nông nhàn+Agricultual leisure"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "agriculture, farming"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp khoáng diện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extensive agriculture"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp có phạm vi rộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extensive agriculture"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp tự nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
-      }
-    ]
-  },
-  {
-    "word": "nôn do bệnh não",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cerebral vomiting"
-      }
-    ]
-  },
-  {
-    "word": "nôi khí cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-car"
-      }
-    ]
-  },
-  {
-    "word": "nông trại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trại sản xuất nông nghiệp\nVí dụ:\n- nông trại nuôi bò"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông trại\n-Farm\n@Chuyên ngành kinh tế\n-farm\n@Chuyên ngành kỹ thuật\n-agricultural farm\n-farm"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông trại\n- Farm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farm"
-      }
-    ]
-  },
-  {
-    "word": "nôn nao",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác khó chịu trong người, như bị chao đảo, chóng mặt, buồn nôn\nVí dụ:\n- tôi thấy trong người nôn nao, khó chịu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái xao động trong tình cảm khi đang mong mỏi hoặc gợi nhớ đến điều gì\nVí dụ:\n- lòng tôi nôn nao buồn \n - \"Biết là em quá xa rồi, Cớ chi dạ cứ bồi hồi nôn nao.\" (Trần Đăng Khoa; 10)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nôn nao\n- Rộn rực khó chịu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nôn nao\n-Feel sick\n=Đi biển không quen, thấy người nôn nao\n+To feel sick because not used to travelling by sea"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nôn nao\n- Feel sick\n=Đi biển không quen, thấy người nôn nao+To feel sick because not used to travelling by sea"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dizzy, nauseous, impatient, anxious"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp lúa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rice farming"
-      }
-    ]
-  },
-  {
-    "word": "nông trang thí nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-experimental farm"
-      }
-    ]
-  },
-  {
-    "word": "nông phẩm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nông sản\nVí dụ:\n- thu mua nông phẩm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông phẩm [nông phẩm]\n-farming products\n@Chuyên ngành kinh tế\n-produce\n@Chuyên ngành kỹ thuật\n-husbandry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farming products"
-      }
-    ]
-  },
-  {
-    "word": "nô lệ gia đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-domestic slave"
+        "dict_definition": "@Chuyên ngành kinh tế\n-farm surpluses"
       }
     ]
   },
@@ -1291,84 +943,66 @@
     ]
   },
   {
-    "word": "nô nức",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ ra hăm hở, phấn khởi cùng đua nhau làm một việc gì\nVí dụ:\n- nô nức đi xem hội \n - học sinh nô nức đến trường"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô nức\n- Đua nhau, háo hức: Nô nức đi xem hội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nô nức\n-flock\n=Nô nức đi xem pháo hoa\n+To flock to see a display of fireworks"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nô nức\n- flock\n=Nô nức đi xem pháo hoa+To flock to see a display of fireworks"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flock"
-      }
-    ]
-  },
-  {
-    "word": "nông trang viên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thành viên của nông trang"
-      }
-    ]
-  },
-  {
-    "word": "nông trường (lớn)",
+    "word": "nôn phân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plantation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stercoraceous vomiting"
       }
     ]
   },
   {
-    "word": "nông nghiệp ngũ cốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-grain farming"
-      }
-    ]
-  },
-  {
-    "word": "nông gia",
+    "word": "nô bộc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông gia\n- Người lao động sống bằng nghề làm ruộng (cũ): Cấy cày vốn nghiệp nông gia (cd)."
+        "dict_definition": "@nô bộc\n- Đầy tớ, người ở trong xã hội cũ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nông gia\n-(cũ) Cultivator, agriculturist"
+        "dict_definition": "@nô bộc\n-(cũ) Servant"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông gia\n- (cũ) Cultivator, agriculturist"
+        "dict_definition": "@nô bộc\n- (cũ) Servant"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cultivator, agriculturist"
+        "dict_definition": "slave, servant"
       }
     ]
   },
   {
-    "word": "nông sản thặng dư",
+    "word": "nông ngư",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nông nghiệp và ngư nghiệp [nói gộp]\nVí dụ:\n- sản xuất theo mô hình nông ngư kết hợp"
+      }
+    ]
+  },
+  {
+    "word": "nông cạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[nhận thức] không đi vào chiều sâu, vào bản chất, chỉ lướt qua bên ngoài\nVí dụ:\n- suy nghĩ nông cạn \n - tư tưởng nông cạn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông cạn\n- tt. (Nhận thức) hời hợt, không biết đào sâu suy nghĩ, không sâu sắc: hiểu biết nông cạn  suy nghĩ còn nông cạn lắm."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-farm surpluses"
+        "dict_definition": "@nông cạn\n-superficial; shallow\n=kiến thức nông cạn\n+superficial knowledge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-superficial"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông cạn\n- superficial; shallow\n=kiến thức nông cạn+superficial knowledge"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "empty, superficial, shallow"
       }
     ]
   },
@@ -1382,11 +1016,20 @@
     ]
   },
   {
-    "word": "nông nghiệp trồng màu",
+    "word": "nông nghiệp luân canh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dry agriculture"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-alternate husbandry"
+      }
+    ]
+  },
+  {
+    "word": "nông sinh học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-agrobiology"
       }
     ]
   },
@@ -1432,174 +1075,19 @@
     ]
   },
   {
-    "word": "nông choẹt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như nông choèn"
-      }
-    ]
-  },
-  {
-    "word": "nông sinh học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-agrobiology"
-      }
-    ]
-  },
-  {
-    "word": "nông thượng",
+    "word": "nông phu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Thượng\n- (xã) tx. Bắc Kạn, t. Bắc Kạn"
-      }
-    ]
-  },
-  {
-    "word": "nô-en",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nô-en\n- (F. Noởl) dt. Lễ kỉ niệm ngày sinh chúa Giê-su (25 tháng 12)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô-en\n- Lễ của Thiên chúa giáo, kỷ niệm ngày Giê-xu đản sinh, mỗi năm cử hành vào ngày 25 tháng 12 dương lịch."
+        "dict_definition": "@nông phu\n- Từ cũ chỉ nông dân nghèo."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nô-en [nô-en]\n-(tiếng Pháp gọi là Noel) yule;  Xmas;  Christmas"
-      }
-    ]
-  },
-  {
-    "word": "nông trường quốc doanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-kobo\n-state farm"
+        "dict_definition": "@nông phu [nông phu]\n-(cũ) Poor peasant (farmer).\n-farmer cultivator"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "a state-managed farm, a sovkhoz"
-      }
-    ]
-  },
-  {
-    "word": "nông thôn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khu vực dân cư tập trung chủ yếu làm nghề nông; phân biệt với thành thị\nVí dụ:\n- sống ở nông thôn \n - người nông thôn \n - từ nông thôn ra thành thị"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông thôn\n- Làng mạc sống bằng sản xuất nông nghiệp, khác với thành thị."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông thôn\n-Countryside, country\n=\n+ông thôn Việt Nam\n@Chuyên ngành kỹ thuật\n-country\n-countryside\n-rural"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông thôn\n- Countryside, country\n=nông thôn Việt Nam"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "countryside, country, rural"
-      }
-    ]
-  },
-  {
-    "word": "nông cơ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "farm machinery"
-      }
-    ]
-  },
-  {
-    "word": "nông dân nghèo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-poor peasant"
-      }
-    ]
-  },
-  {
-    "word": "nông hóa học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông hóa học\n-Argo-chemistry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-agrochemistry"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông hóa học\n- Argo-chemistry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "argo-chemistry"
-      }
-    ]
-  },
-  {
-    "word": "nông nghiệp tập thể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-collective farm"
-      }
-    ]
-  },
-  {
-    "word": "nôn mửa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nôn [nói khái quát]\nVí dụ:\n- thằng bé nôn mửa nhiều lần"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nôn mửa\n- Nh. Mửa: ăn được gì nôn mửa hết."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nôn mửa\n-xem nôn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nôn mửa\n- xem nôn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to vomit, nauseous"
-      }
-    ]
-  },
-  {
-    "word": "nông choèn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất nông, đến mức coi như không đáng kể\nVí dụ:\n- cái hố nông choèn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông choèn\n-Unnoticeably shallow"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông choèn\n- Unnoticeably shallow"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unnoticeably shallow"
+        "dict_definition": "poor peasant (farmer), farmer cultivator"
       }
     ]
   },
@@ -1609,59 +1097,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-cane plantation"
-      }
-    ]
-  },
-  {
-    "word": "nông hạ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Hạ\n- (xã) h. Bạch Thông, t. Bắc Kạn"
-      }
-    ]
-  },
-  {
-    "word": "nôn khan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dry vomiting\n-retching"
-      }
-    ]
-  },
-  {
-    "word": "nôn thần kinh dạ dày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nervous vomiting"
-      }
-    ]
-  },
-  {
-    "word": "nông nô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông nô\n- Người bị áp bức bóc lột nhất trong chế độ phong kiến, bị phụ thuộc vào ruộng đất của phong kiến, địa chủ, bị phong kiến, địa chủ chiếm đoạt sản vật, ngoài ra còn phải làm nhiều công việc tạp dịch phục vụ phong kiến, địa chủ. Chế độ nông nô. Chế độ bóc lột nông nô dưới chế độ phong kiến; nông nô tuy không phải là tài sản của phong kiến địa chủ, nhưng khi phong kiến, địa chủ bán ruộng đất thì bị bán theo, sản vật do nông nô làm ra bị phong kiến địa chủ chiếm hữu. Giai cấp nông nô. Giai cấp gồm những người nói trên."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nông nô [nông nô]\n-bondman;  serf\n@Chuyên ngành kinh tế\n-bondsman\n-serf\n-villain\n-villein\n@Chuyên ngành kỹ thuật\n-serf"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bondman, serf"
-      }
-    ]
-  },
-  {
-    "word": "nô tì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô tì\n- Người vì có tội, vì cha mẹ có tội, hoặc vì nghèo đói mà phải làm tôi tớ hay bán mình cho nhà phong kiến: Xã hội Lý, Trần có lắm nô tì. Chế độ nô tì. Chế độ xã hội đời Lý, đời Trần, cho phép giai cấp quý tộc mua nô tì và dùng nô tì vào việc sản xuất hay phục vụ gia đình."
       }
     ]
   },
@@ -1683,24 +1118,6 @@
     ]
   },
   {
-    "word": "nông sơn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nông Sơn\n- Mỏ than ở bờ trái sông Thu Bồn thuộc tỉnh Quảng Nam. Được khai thác từ 1887, trữ lượng khoảng 5 triệu tấn. Than được khai thác bằng phương pháp lộ thiên"
-      }
-    ]
-  },
-  {
-    "word": "nô lệ kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economic slavery"
-      }
-    ]
-  },
-  {
     "word": "nông dân tự canh tác",
     "definitions": [
       {
@@ -1710,45 +1127,188 @@
     ]
   },
   {
-    "word": "nông sản",
+    "word": "nông trường thương nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commercial farm"
+      }
+    ]
+  },
+  {
+    "word": "nông trường (lớn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-plantation"
+      }
+    ]
+  },
+  {
+    "word": "nông giang",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sản phẩm nông nghiệp, như gạo, thịt, trứng, rau, hoa quả, v.v. [nói khái quát]\nVí dụ:\n- thu mua nông sản \n - nhà máy chế biến nông sản"
+        "dict_definition": "sông đào phục vụ cho sản xuất nông nghiệp\nVí dụ:\n- cải tạo hệ thống nông giang"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông sản\n- Sản phẩm của nông nghiệp như thóc, gạo, bông, gai..."
+        "dict_definition": "@nông giang\n- Sông đào để lấy nước tưới ruộng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nông sản\n*noun\n-agricultural produce; farm produce\n@Chuyên ngành kinh tế\n-green product\n@Chuyên ngành kỹ thuật\n-agricultural products"
+        "dict_definition": "@nông giang\n-Irrigation canal"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông sản\n* noun\n- agricultural produce; farm produce"
+        "dict_definition": "@nông giang\n- Irrigation canal"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "agricultural produce, farm produce"
+        "dict_definition": "irrigation canal"
       }
     ]
   },
   {
-    "word": "nông trại hợp tác",
+    "word": "nông trang",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nông trang tập thể [nói tắt]\nVí dụ:\n- nông trang trồng nho \n - chủ tịch nông trang"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Trang\n- (phường) tp. Việt Trì, t. Phú Thọ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông trang\n- Trại sản xuất nông nghiệp."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cooperative farm"
+        "dict_definition": "@nông trang\n-Farm\n=Nông trang tập thể\n+A kolkhoz\n@Chuyên ngành kinh tế\n-farm\n-plantation\n@Chuyên ngành kỹ thuật\n-farm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông trang\n- Farm\n=Nông trang tập thể+A kolkhoz"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "farm"
       }
     ]
   },
   {
-    "word": "nông sản phẩm",
+    "word": "nông trang thực nghiệm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-agricultural produce\n-farm produce\n-produce"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-development farm"
+      }
+    ]
+  },
+  {
+    "word": "nô dịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho mất hết quyền tự do, trở thành hoàn toàn phụ thuộc vào mình\nVí dụ:\n- một dân tộc bị nô dịch \n - chính sách nô dịch của thực dân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mang tính chất nô lệ, phụ thuộc vào nước ngoài\nVí dụ:\n- nền văn hoá nô dịch"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nô dịch\n- 1. d. Tôi tớ: Đầu óc nô dịch. 2. đg. Biến người khác thành tôi tớ: Bọn đế quốc muốn nô dịch các dân tộc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nô dịch\n-Enslave, subdue, subjugate"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nô dịch\n- Enslave, subdue, subjugate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "enslave, subdue, subjugate"
+      }
+    ]
+  },
+  {
+    "word": "nông dân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người lao động sản xuất nông nghiệp\nVí dụ:\n- bà con nông dân \n - cuộc nổi dậy của nông dân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông dân\n- dt (H. dân: người dân) Người dân làm nghề trồng trọt, cày cấy: Nông dân là một lực lượng rất to lớn của dân tộc (HCM)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông dân\n*noun\n-farmer ; cultivator\n@Chuyên ngành kinh tế\n-peasant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-peasant\n@Lĩnh vực: cơ khí & công trình\n-tiller"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông dân\n* noun\n- farmer ; cultivator"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "farmer, cultivator"
+      }
+    ]
+  },
+  {
+    "word": "nô lệ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phụ thuộc hoàn toàn vào\nVí dụ:\n- sống nô lệ vào đồng tiền"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người bị tước đoạt hết mọi quyền tự do, sống dưới một ách áp bức\nVí dụ:\n- không chịu cúi đầu làm nô lệ cho thực dân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người bị phụ thuộc hoàn toàn vào một thế lực nào đó\nVí dụ:\n- trở thành nô lệ của đồng tiền"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nô lệ\n- I. dt. 1. Người lao động bị tước hết quyền làm người, trở thành sở hữu riêng của những chủ nô, dưới thời chiếm hữu nô lệ: buôn bán nô lệ. 2. Người bị phụ thuộc vào một thế lực thống trị nào đó, người làm đầy tớ: người dân nô lệ của nước thuộc địa  nô lệ của đồng tiền. II. đgt. Phụ thuộc tuyệt đối: sống nô lệ vào đồng tiền  nô lệ vào sách vở."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nô lệ\n*noun\n-slave\n=thà chết còn hơn làm nô lệ\n+Death sooner than slavery\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slave"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nô lệ\n* noun\n- slave\n=thà chết còn hơn làm nô lệ+Death sooner than slavery"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "slave, slavery"
+      }
+    ]
+  },
+  {
+    "word": "nôn ọe thốc tháo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to throw up violently, be violently sick"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp có phạm vi rộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-extensive agriculture"
       }
     ]
   },
@@ -1782,65 +1342,505 @@
     ]
   },
   {
-    "word": "nông sản phẩm thặng dư",
+    "word": "nông sơn",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-agricultural surplus"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Sơn\n- Mỏ than ở bờ trái sông Thu Bồn thuộc tỉnh Quảng Nam. Được khai thác từ 1887, trữ lượng khoảng 5 triệu tấn. Than được khai thác bằng phương pháp lộ thiên"
       }
     ]
   },
   {
-    "word": "nông giang",
+    "word": "nông nghiệp lúa",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sông đào phục vụ cho sản xuất nông nghiệp\nVí dụ:\n- cải tạo hệ thống nông giang"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nông giang\n- Sông đào để lấy nước tưới ruộng."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@nông giang\n-Irrigation canal"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nông giang\n- Irrigation canal"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "irrigation canal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rice farming"
       }
     ]
   },
   {
-    "word": "nô dịch",
+    "word": "nông trường chiềng ve",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nông Trường Chiềng Ve\n- (thị trấn) Mộc Châu, t. Sơn La"
+      }
+    ]
+  },
+  {
+    "word": "nôn khan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dry vomiting\n-retching"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp xí nghiệp hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-business farming"
+      }
+    ]
+  },
+  {
+    "word": "nông nổi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho mất hết quyền tự do, trở thành hoàn toàn phụ thuộc vào mình\nVí dụ:\n- một dân tộc bị nô dịch \n - chính sách nô dịch của thực dân"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mang tính chất nô lệ, phụ thuộc vào nước ngoài\nVí dụ:\n- nền văn hoá nô dịch"
+        "dict_definition": "nông cạn, bồng bột, thiếu cân nhắc suy nghĩ trước khi hành động\nVí dụ:\n- hành động nông nổi \n - \"Đàn ông nông nổi giếng khơi, Đàn bà sâu sắc như cơi đựng trầu.\" (Cdao)"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nô dịch\n- 1. d. Tôi tớ: Đầu óc nô dịch. 2. đg. Biến người khác thành tôi tớ: Bọn đế quốc muốn nô dịch các dân tộc."
+        "dict_definition": "@nông nổi\n- Hời hợt, thiếu suy nghĩ, thiếu sâu sắc, chỉ có bề ngoài: Con người nông nổi gặp đâu nói đấy."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nô dịch\n-Enslave, subdue, subjugate"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nô dịch\n- Enslave, subdue, subjugate"
+        "dict_definition": "@nông nổi [nông nổi]\n-Superficial\n-act lightly, without much thought"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "enslave, subdue, subjugate"
+        "dict_definition": "superficial; to act lightly, without much thought"
+      }
+    ]
+  },
+  {
+    "word": "nôi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đồ dùng để cho trẻ nhỏ nằm, thường được đan bằng mây, có thể đưa qua đưa lại được\nVí dụ:\n- đưa nôi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nơi phát sinh ra [cái có ý nghĩa trọng đại trong lịch sử dân tộc, lịch sử loài người]\nVí dụ:\n- cái nôi của nền văn minh lúa nước \n - Việt Bắc là cái nôi của cách mạng nước ta"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nôi\n- d. Cg. Nhôi. Đồ đan bằng mây hay tre, tựa cái thúng lớn, để trẻ nhỏ nằm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nôi\n-cũng nói nhôi Cradle\n@Chuyên ngành kinh tế\n-drawer"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nôi\n- cũng nói nhôi Cradle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cradle"
+      }
+    ]
+  },
+  {
+    "word": "nông cụ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "công cụ dùng trong sản xuất nông nghiệp\nVí dụ:\n- cải tiến nông cụ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông cụ\n- Đồ dùng để trồng trọt, cày cấy như cày, bừa, cuốc, v v"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông cụ\n-Farming implement\n@Chuyên ngành kỹ thuật\n-agricultural equipments"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông cụ\n- Farming implement"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "farming implement"
+      }
+    ]
+  },
+  {
+    "word": "nôn nao",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cảm giác khó chịu trong người, như bị chao đảo, chóng mặt, buồn nôn\nVí dụ:\n- tôi thấy trong người nôn nao, khó chịu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái xao động trong tình cảm khi đang mong mỏi hoặc gợi nhớ đến điều gì\nVí dụ:\n- lòng tôi nôn nao buồn \n - \"Biết là em quá xa rồi, Cớ chi dạ cứ bồi hồi nôn nao.\" (Trần Đăng Khoa; 10)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nôn nao\n- Rộn rực khó chịu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nôn nao\n-Feel sick\n=Đi biển không quen, thấy người nôn nao\n+To feel sick because not used to travelling by sea"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nôn nao\n- Feel sick\n=Đi biển không quen, thấy người nôn nao+To feel sick because not used to travelling by sea"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dizzy, nauseous, impatient, anxious"
+      }
+    ]
+  },
+  {
+    "word": "nông trường tập thể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-kobo\n-kolkhoz"
+      }
+    ]
+  },
+  {
+    "word": "nôn đa toan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hyperacid vomiting"
+      }
+    ]
+  },
+  {
+    "word": "nông trang viên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thành viên của nông trang"
+      }
+    ]
+  },
+  {
+    "word": "nông phẩm chế biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-farm products"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp mưu sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp kinh doanh nhiều loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-multiple agriculture"
+      }
+    ]
+  },
+  {
+    "word": "nông trại hợp tác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cooperative farm"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp hộ gia đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-family-unit agriculture"
+      }
+    ]
+  },
+  {
+    "word": "nông sản hàng hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cash crop"
+      }
+    ]
+  },
+  {
+    "word": "nô-en",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nô-en\n- (F. Noởl) dt. Lễ kỉ niệm ngày sinh chúa Giê-su (25 tháng 12)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nô-en\n- Lễ của Thiên chúa giáo, kỷ niệm ngày Giê-xu đản sinh, mỗi năm cử hành vào ngày 25 tháng 12 dương lịch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nô-en [nô-en]\n-(tiếng Pháp gọi là Noel) yule;  Xmas;  Christmas"
+      }
+    ]
+  },
+  {
+    "word": "nông dược",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thuốc dùng trong sản xuất nông nghiệp, như thuốc trừ sâu, thuốc diệt cỏ, v.v.\nVí dụ:\n- cửa hàng nông dược \n - sản xuất thuốc nông dược"
+      }
+    ]
+  },
+  {
+    "word": "nông trường vườn rau quả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-truck farm"
+      }
+    ]
+  },
+  {
+    "word": "nông choèn choẹt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như nông choèn [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- vũng nước nông choèn choẹt"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp trồng màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dry agriculture"
+      }
+    ]
+  },
+  {
+    "word": "nông trường chăn nuôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-animal farm"
+      }
+    ]
+  },
+  {
+    "word": "nông nỗi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tình cảnh, sự thể không được như ý muốn\nVí dụ:\n- ai biết cơ sự lại ra nông nỗi này!"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông nỗi\n- Cơ sự, tình cảm không được như ý: Nông nỗi nhân dân xưa thật là đau xót.nullnullnullnull nullnullnullnullnullnullnull"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông nỗi [nông nỗi]\n-Plight, uncomfortable emotional state.\n-situation, condition, bad situation, deplorable plight"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "plight, uncomfortable emotional state, situation"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp khoáng diện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-extensive agriculture"
+      }
+    ]
+  },
+  {
+    "word": "nôm na",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cách nói, cách diễn đạt] mộc mạc, theo cách nói của người dân thường không biết chữ nho\nVí dụ:\n- lời lẽ rất nôm na \n - hiểu một cách nôm na"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nôm na\n-như nôm nghĩa 2"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nôm na\n- như nôm nghĩa 2"
+      }
+    ]
+  },
+  {
+    "word": "nôi tải để lột da súc vật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cattle skinning cradle"
+      }
+    ]
+  },
+  {
+    "word": "nôn thần kinh dạ dày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nervous vomiting"
+      }
+    ]
+  },
+  {
+    "word": "nông trường đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sugar plantation"
+      }
+    ]
+  },
+  {
+    "word": "nông trang tập thể",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình thức tổ chức sản xuất nông nghiệp tập thể ở một số nước xã hội chủ nghĩa, giống như hợp tác xã cấp cao"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-collective farm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a kolkhoz"
+      }
+    ]
+  },
+  {
+    "word": "nôi khí cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-car"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp tự túc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subsistence farming"
+      }
+    ]
+  },
+  {
+    "word": "nông trường nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-minifarm\n-minifundium"
+      }
+    ]
+  },
+  {
+    "word": "nông hóa học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông hóa học\n-Argo-chemistry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-agrochemistry"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông hóa học\n- Argo-chemistry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "argo-chemistry"
+      }
+    ]
+  },
+  {
+    "word": "nông lâm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nông nghiệp và lâm nghiệp [nói gộp]\nVí dụ:\n- sở nông lâm \n - đại học nông lâm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông lâm\n- Nông nghiệp và lâm nghiệp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông lâm\n-Agriculture and silvicultue, agriculture and forestry\n@Chuyên ngành kỹ thuật\n-agricultural and forestry"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông lâm\n- Agriculture and silvicultue, agriculture and forestry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "agriculture and forestry"
+      }
+    ]
+  },
+  {
+    "word": "nông nghiệp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngành sản xuất vật chất cơ bản của xã hội, cung cấp sản phẩm trồng trọt và sản phẩm chăn nuôi\nVí dụ:\n- ngành nông nghiệp \n - sản xuất nông nghiệp \n - hợp tác xã nông nghiệp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nông nghiệp\n- Ngành kinh tế quốc dân chuyên trồng trọt và cày cấy để cung cấp thực phẩm cho nhân dân và nguyên liệu cho công nghiệp. Bộ nông nghiệp. Cơ quan chính phủ phụ trách lãnh đạo sản xuất nông nghiệp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông nghiệp\n*noun\n-Agriculture, farming\n=Bộ nông nghiệp\n+Ministry of Agriculture\n-CEREMONIES STILL AT THE HEART OF AGRICULTURE IN VIETNAM: Lễ Hạ Điền is a popular ceremony which bears a religious significance for Vietnamese farmers. During the ceremony, farmers pray to heaven to grant them blessings. As Vietnam is an agricultural country where labour-intensive wet-rice is grown, the life of the majority of people is closely linked with the land. Hence, almost all ceremonies and rituals are connected with farming. Wet-rice is grown in very difficult natural conditions, especially in the Red River Delta and central Vietnam where natural calamities - typhoons, flooding, drought and pests - are a constant menace for the peasantry. In the past, in the absence of science and technology, Vietnamese farmers believed in mysterious forces which decided their success or failure. This faith is found in such folk songs as \"Thanks to heaven which grants us good weather conditions\" or \"I pray to heaven to bring rain so that I can have enough water to drink and cover my fields\". Heaven (or Trời in Vietnamese) is a common appellation for the spirit world. The belief in the power of spirits is handed down from generation to generation, so that even now our farmers turn to spirits for assistance. Hence the existence of so many farming-related ceremonies. In the past, there were two main rice crops: the Mùa and the Chiêm Depending on climate and local understanding, farmers regard the Chiêm as the main crop, or vice versa. For this reason, Lễ Hạ Điền differs from one region to another. In many villages, the ceremony is regarded as a major event in the life of the peasantry. Although the ceremonies may differ in scale, the rituals have many common features. On the day of the ceremony, early in the morning, village notables called Già Làng (elder people) in the central highlands make their way to the communal house where other villagers await. There they pay tribute to Thành Hoàng (tutelary god) and Thần Nông (god of agriculture) and other divinities; begging them to bring security, prosperity and bumper crops. Afterwards, the villagers head to a chosen location, usually not too far from the communal house, where the ceremony inaugurating the farming season takes place. In a first-class rice field already meticulously ploughed and harrowed, a bamboo tree is planted with all its branches and leaves. The tree is called Cây Ne^u. Ears of rice are attached to the top of the tree, and having reported to the god of agriculture, they start the ceremony proper. To start the ball rolling, a rice transplant ritual is performed. For this, many Chúa Đồng (Field Lords) are selected. In some villages, only one Chúa Đồng is singled out. They are mostly elderly people, versed in farming techniques and the soil. In addition, they must be kind-hearted people having extended families whose members live in perfect concord. Last but not least, they should not be mourning People hope that the good qualities of the Chúa Đồng will blend into the rice plants and impart great vitality to them. Having paid their respects to the god of agriculture, the Chúa Đồng step into the field and transplant rice around the bamboo tree. In the meantime, the villagers shout cheerfully and beat drums (mimicking natural disaster), targeting the Chúa Đồng. If these people can stand firm on their feet and manage to perform their task well, people believe that their wish will come true Lễ Hạ Điền is held in a very simple way, but it is very dear to the  farmers. They pin all their hopes on the good health, prosperity and happiness that the ceremony promises. Furthermore, it is in this ceremony that the spirit of the community comes to the surface. In their hearts, everyone pledges to join forces for the common cause\n=nông nhàn\n+Agricultual leisure\n@Chuyên ngành kinh tế\n-agriculture\n-agronomy\n-farming\n-husbandry\n@Chuyên ngành kỹ thuật\n-agricultural\n-agriculture\n-agronomy\n-farming\n-husbandry"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông nghiệp\n* noun\n- Agriculture, farming\n=Bộ nông nghiệp+Ministry of Agriculture\n-CEREMONIES STILL AT THE HEART OF AGRICULTURE IN VIETNAM: Lễ Hạ Điền is a popular ceremony which bears a religious significance for Vietnamese farmers. During the ceremony, farmers pray to heaven to grant them blessings. As Vietnam is an agricultural country where labour-intensive wet-rice is grown, the life of the majority of people is closely linked with the land. Hence, almost all ceremonies and rituals are connected with farming. Wet-rice is grown in very difficult natural conditions, especially in the Red River Delta and central Vietnam where natural calamities - typhoons, flooding, drought and pests - are a constant menace for the peasantry. In the past, in the absence of science and technology, Vietnamese farmers believed in mysterious forces which decided their success or failure. This faith is found in such folk songs as \"Thanks to heaven which grants us good weather conditions\" or \"I pray to heaven to bring rain so that I can have enough water to drink and cover my fields\". Heaven (or Trời in Vietnamese) is a common appellation for the spirit world. The belief in the power of spirits is handed down from generation to generation, so that even now our farmers turn to spirits for assistance. Hence the existence of so many farming-related ceremonies. In the past, there were two main rice crops: the Mùa and the Chiêm Depending on climate and local understanding, farmers regard the Chiêm as the main crop, or vice versa. For this reason, Lễ Hạ Điền differs from one region to another. In many villages, the ceremony is regarded as a major event in the life of the peasantry. Although the ceremonies may differ in scale, the rituals have many common features. On the day of the ceremony, early in the morning, village notables called Già Làng (elder people) in the central highlands make their way to the communal house where other villagers await. There they pay tribute to Thành Hoàng (tutelary god) and Thần Nông (god of agriculture) and other divinities; begging them to bring security, prosperity and bumper crops. Afterwards, the villagers head to a chosen location, usually not too far from the communal house, where the ceremony inaugurating the farming season takes place. In a first-class rice field already meticulously ploughed and harrowed, a bamboo tree is planted with all its branches and leaves. The tree is called Cây Ne^u. Ears of rice are attached to the top of the tree, and having reported to the god of agriculture, they start the ceremony proper. To start the ball rolling, a rice transplant ritual is performed. For this, many Chúa Đồng (Field Lords) are selected. In some villages, only one Chúa Đồng is singled out. They are mostly elderly people, versed in farming techniques and the soil. In addition, they must be kind-hearted people having extended families whose members live in perfect concord. Last but not least, they should not be mourning People hope that the good qualities of the Chúa Đồng will blend into the rice plants and impart great vitality to them. Having paid their respects to the god of agriculture, the Chúa Đồng step into the field and transplant rice around the bamboo tree. In the meantime, the villagers shout cheerfully and beat drums (mimicking natural disaster), targeting the Chúa Đồng. If these people can stand firm on their feet and manage to perform their task well, people believe that their wish will come true Lễ Hạ Điền is held in a very simple way, but it is very dear to the  farmers. They pin all their hopes on the good health, prosperity and happiness that the ceremony promises. Furthermore, it is in this ceremony that the spirit of the community comes to the surface. In their hearts, everyone pledges to join forces for the common cause\n=nông nhàn+Agricultual leisure"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "agriculture, farming"
+      }
+    ]
+  },
+  {
+    "word": "nôn máu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vomitus cruentus"
+      }
+    ]
+  },
+  {
+    "word": "nông công nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nông công nghiệp\n-Argo-industrial"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nông công nghiệp\n- Argo-industrial"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "argo-industrial"
       }
     ]
   }

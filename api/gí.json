@@ -1,41 +1,28 @@
 [
   {
-    "word": "gíclơ cầm chừng",
+    "word": "gíá trị ngoại lai",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-idle jet"
+        "dict_definition": "@Chuyên ngành kinh tế\n-extrinsic value"
       }
     ]
   },
   {
-    "word": "gíp",
+    "word": "gíclơ gió cầm chừng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xe gíp [nói tắt]"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@gíp [gíp]\n-xem"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-idle air jet"
       }
     ]
   },
   {
-    "word": "gí cố",
+    "word": "gíclơ phụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-strut"
-      }
-    ]
-  },
-  {
-    "word": "gíclơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-jet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-compensating jet"
       }
     ]
   },
@@ -74,33 +61,6 @@
     ]
   },
   {
-    "word": "gíclơ gió cầm chừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-idle air jet"
-      }
-    ]
-  },
-  {
-    "word": "gíclơ phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-compensating jet"
-      }
-    ]
-  },
-  {
-    "word": "gíá trị ngoại lai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extrinsic value"
-      }
-    ]
-  },
-  {
     "word": "gía để chai",
     "definitions": [
       {
@@ -110,11 +70,51 @@
     ]
   },
   {
+    "word": "gíp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xe gíp [nói tắt]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gíp [gíp]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "gí cố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-strut"
+      }
+    ]
+  },
+  {
+    "word": "gíclơ cầm chừng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-idle jet"
+      }
+    ]
+  },
+  {
     "word": "gíc lơ phụ",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-economy jet"
+      }
+    ]
+  },
+  {
+    "word": "gíclơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-jet"
       }
     ]
   }

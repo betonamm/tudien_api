@@ -1,23 +1,5 @@
 [
   {
-    "word": "win32",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Win32"
-      }
-    ]
-  },
-  {
-    "word": "wintel",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Wintel"
-      }
-    ]
-  },
-  {
     "word": "win32s",
     "definitions": [
       {
@@ -45,6 +27,24 @@
     ]
   },
   {
+    "word": "winsock",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Winsock"
+      }
+    ]
+  },
+  {
+    "word": "win32",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Win32"
+      }
+    ]
+  },
+  {
     "word": "wins",
     "definitions": [
       {
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "word": "winsock",
+    "word": "wintel",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Winsock"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Wintel"
       }
     ]
   }

@@ -1,27 +1,10 @@
 [
   {
-    "word": "uổng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "để mất đi một cách đáng tiếc do đã không được dùng một cách có ích\nVí dụ:\n- tôi đã uổng công chờ đợi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@uổng [uổng]\n-useless;  needless;  unnecessary\n-pity;  waste"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to waste"
-      }
-    ]
-  },
-  {
-    "word": "uổng tiền",
+    "word": "uổng quá",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to waste money"
+        "dict_definition": "what a waste!, what a pity!"
       }
     ]
   },
@@ -39,11 +22,20 @@
     ]
   },
   {
-    "word": "uổng quá",
+    "word": "uổng dụng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "what a waste!, what a pity!"
+        "dict_definition": "to abuse"
+      }
+    ]
+  },
+  {
+    "word": "uổng tiền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to waste money"
       }
     ]
   },
@@ -70,11 +62,19 @@
     ]
   },
   {
-    "word": "uổng dụng",
+    "word": "uổng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "để mất đi một cách đáng tiếc do đã không được dùng một cách có ích\nVí dụ:\n- tôi đã uổng công chờ đợi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@uổng [uổng]\n-useless;  needless;  unnecessary\n-pity;  waste"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to abuse"
+        "dict_definition": "to waste"
       }
     ]
   },

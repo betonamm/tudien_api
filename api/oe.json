@@ -1,5 +1,18 @@
 [
   {
+    "word": "oe oé",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng trẻ con kêu hoặc khóc to và liên tiếp, nghe chói tai\nVí dụ:\n- kêu oe oé"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@oe oé\n- Tiếng trẻ con kêu khi bị đánh đau: Trẻ con đấm đá nhau kêu oe óe."
+      }
+    ]
+  },
+  {
     "word": "oen phe",
     "definitions": [
       {
@@ -43,28 +56,6 @@
     ]
   },
   {
-    "word": "oem",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-original equipment manufacturer"
-      }
-    ]
-  },
-  {
-    "word": "oe oé",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng trẻ con kêu hoặc khóc to và liên tiếp, nghe chói tai\nVí dụ:\n- kêu oe oé"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@oe oé\n- Tiếng trẻ con kêu khi bị đánh đau: Trẻ con đấm đá nhau kêu oe óe."
-      }
-    ]
-  },
-  {
     "word": "oe oe",
     "definitions": [
       {
@@ -82,6 +73,15 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@oe oe\n- như oa oa"
+      }
+    ]
+  },
+  {
+    "word": "oem",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-original equipment manufacturer"
       }
     ]
   }

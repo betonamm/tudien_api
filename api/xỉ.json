@@ -1,5 +1,32 @@
 [
   {
+    "word": "xỉ xi măng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cement clinker"
+      }
+    ]
+  },
+  {
+    "word": "xỉ hoàn nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reduction slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lò cao dạng hạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-granulated blast-furnace slag"
+      }
+    ]
+  },
+  {
     "word": "xỉ lò rèn",
     "definitions": [
       {
@@ -9,20 +36,110 @@
     ]
   },
   {
-    "word": "xỉ lò luyện gang",
+    "word": "xỉ dùng để chế tạo xi măng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blast furnace slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slag for cement fabrication"
       }
     ]
   },
   {
-    "word": "xỉ oxit nhôm",
+    "word": "xỉ nở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-high-alumina slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-expanded slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ trung tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-neutral slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nhiệt điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slag of heat-and power station"
+      }
+    ]
+  },
+  {
+    "word": "xỉ silicat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-silicate slag\n@Lĩnh vực: hóa học & vật liệu\n-siliceous slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ khử oxi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deoxidizing slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-foam\n-froth\n-scum\n-skim\n-skimming"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lò mactin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open-hearth slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ hạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-granulated slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ dính chặt (mép chặt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-adhering slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foamed slag\n-thermozite"
+      }
+    ]
+  },
+  {
+    "word": "xỉ chảy lỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-molten slag"
       }
     ]
   },
@@ -40,29 +157,85 @@
     ]
   },
   {
-    "word": "xỉ quặng",
+    "word": "xỉ luyện kim",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ore slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel slag"
       }
     ]
   },
   {
-    "word": "xỉ dùng để chế tạo xi măng",
+    "word": "xỉ xốp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slag for cement fabrication"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-expanded slag"
       }
     ]
   },
   {
-    "word": "xỉ lò cao dạng hạt",
+    "word": "xỉ oxi hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-granulated blast-furnace slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxidizing slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nguội chậm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slowly cooled slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ than đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-black-coal slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chất thải rắn và xốp còn lại trong quá trình luyện kim, đốt lò\nVí dụ:\n- xỉ than \n - xỉ sắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem hỉ\nVí dụ:\n- nó đang xỉ mũi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xỉ\n- 1 d. Chất thải rắn và xốp còn lại trong quá trình luyện kim, đốt lò. Xỉ lò cao. Xỉ sắt. Xỉ than.\n- 2 đg. (ph.). Hỉ. Xỉ mũi.\n- 3 đg. (ph.). Xỉa. Xỉ vào mặt mà mắng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xỉ\n*noun\n-slag, cinder\n@Chuyên ngành kinh tế\n-cinder\n-slime\n-sludge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cinder\n-clinker\n-dross\n-floss\n-mud\n-scabs\n-scale\n-scoriaceous\n-scotch\n-scum\n-sinder\n-sinter\n-slag\n-sprue\n-tag\n-tails\n@Lĩnh vực: hóa học & vật liệu\n-scoria"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xỉ\n* noun\n- slag, cinder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "slag, cinder"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lò tinh chế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-refinery scum"
       }
     ]
   },
@@ -76,11 +249,83 @@
     ]
   },
   {
-    "word": "xỉ hoàn thiện",
+    "word": "xỉ cuối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-finishing slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-finishing slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ sau thiêu đốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-incineration slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ bọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dross\n-foamed slag\n-scum"
+      }
+    ]
+  },
+  {
+    "word": "xỉ trợ dung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fluid slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ fotfo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosphoric slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ (nổi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slip\n-suspension"
+      }
+    ]
+  },
+  {
+    "word": "xỉ tro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ash\n-cinder\n-dross\n-scoria\n-scum\n-slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lò (quay)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clinker"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fluid slag"
       }
     ]
   },
@@ -90,6 +335,33 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lime slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ núi lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cinder\n-scoria\n-volcanic cinder\n-volcanic slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ cacbua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-carbide slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-surface sintered brick"
       }
     ]
   },
@@ -135,92 +407,11 @@
     ]
   },
   {
-    "word": "xỉ fotfo",
+    "word": "xỉ hàn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosphoric slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ bọt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dross\n-foamed slag\n-scum"
-      }
-    ]
-  },
-  {
-    "word": "xỉ sau thiêu đốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-incineration slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ (nổi)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slip\n-suspension"
-      }
-    ]
-  },
-  {
-    "word": "xỉ kiềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-basic slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nổi (trong gầu đúc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sullage"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nguội chậm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slowly cooled slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ chì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lead slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-skim"
-      }
-    ]
-  },
-  {
-    "word": "xỉ núi lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cinder\n-scoria\n-volcanic cinder\n-volcanic slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-welding cinder"
       }
     ]
   },
@@ -242,6 +433,24 @@
     ]
   },
   {
+    "word": "xỉ lò thomas",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Thomas\"s slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-clinker\n-slag"
+      }
+    ]
+  },
+  {
     "word": "xỉ sắt",
     "definitions": [
       {
@@ -251,7 +460,16 @@
     ]
   },
   {
-    "word": "xỉ lò mactin",
+    "word": "xỉ oxit nhôm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-high-alumina slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lò bằng",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -260,47 +478,20 @@
     ]
   },
   {
-    "word": "xỉ cuối",
+    "word": "xỉ kẽm nổi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-finishing slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cadmia"
       }
     ]
   },
   {
-    "word": "xỉ vụn",
+    "word": "xỉ trung quốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-broken slag\n-granulated slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-clinker"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foamed slag\n-thermozite"
-      }
-    ]
-  },
-  {
-    "word": "xỉ hoàn nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reduction slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Chinese wax"
       }
     ]
   },
@@ -314,29 +505,182 @@
     ]
   },
   {
-    "word": "xỉ than đá",
+    "word": "xỉ lôcô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-black-coal slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-boiler ash"
       }
     ]
   },
   {
-    "word": "xỉ khử oxi",
+    "word": "xỉ kiềm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deoxidizing slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-basic slag"
       }
     ]
   },
   {
-    "word": "xỉ luyện kim",
+    "word": "xỉ chắc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-resistance slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dusting clinker"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-skim"
+      }
+    ]
+  },
+  {
+    "word": "xỉ axit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-acid slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ chảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fluid slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ quặng (mỏ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-disposal area"
+      }
+    ]
+  },
+  {
+    "word": "xỉ khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-clinker"
+      }
+    ]
+  },
+  {
+    "word": "xỉ tôi ở lò cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quenched blast-furnace slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ash\n-breeze\n-cinder\n-clinker\n-dross\n-furnace clinker\n-scoria\n-skim\n-slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nóng chảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-molten slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nở lò cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-expanded blast-furnace slag\n-sintered expanded slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ lò luyện gang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blast furnace slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nồi hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-boiler ash\n-boiler slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ tơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slaked slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-casting slim\n@Lĩnh vực: xây dựng\n-dross casting"
+      }
+    ]
+  },
+  {
+    "word": "xỉ bazơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-base slag\n-basic slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ vụn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-broken slag\n-granulated slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ nổi (trong gầu đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sullage"
       }
     ]
   },
@@ -350,11 +694,81 @@
     ]
   },
   {
-    "word": "xỉ axit",
+    "word": "xỉ của quá trình khử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-acid slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reduction slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ dạng thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-finishing slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có màu ngả sang màu đen bẩn và kém vẻ bóng bẩy\nVí dụ:\n- nước kền đã xỉn \n - nồi đồng bị xỉn đen \n - vải xỉn màu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "say rượu, bia\nVí dụ:\n- mới uống vài cốc đã xỉn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xỉn\n*động từ\n-to get drunk*trạng từ\n-blacken, go black and dark\n@Chuyên ngành kỹ thuật\n-flat\n-lusterless\n-lustreless"
+      }
+    ]
+  },
+  {
+    "word": "xỉ silic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-siliceous slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉ quặng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ore slag"
+      }
+    ]
+  },
+  {
+    "word": "xỉa xói",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xỉa liên tiếp vào mặt người khác để mắng chửi\nVí dụ:\n- chị ta xỉa xói vào mặt chồng mà kể lể"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xỉa xói [xỉa xói]\n-to poke/stick/shove one\"s finger into somebody\"s face"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to poke or stick or shove one’s finger into somebody’s face"
+      }
+    ]
+  },
+  {
+    "word": "xỉ đập vỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-broken slag"
       }
     ]
   },
@@ -384,291 +798,11 @@
     ]
   },
   {
-    "word": "xỉ cacbua",
+    "word": "xỉ chì",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-carbide slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-clinker\n-slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nhiệt điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slag of heat-and power station"
-      }
-    ]
-  },
-  {
-    "word": "xỉ chảy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fluid slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chất thải rắn và xốp còn lại trong quá trình luyện kim, đốt lò\nVí dụ:\n- xỉ than \n - xỉ sắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hỉ\nVí dụ:\n- nó đang xỉ mũi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xỉ\n- 1 d. Chất thải rắn và xốp còn lại trong quá trình luyện kim, đốt lò. Xỉ lò cao. Xỉ sắt. Xỉ than.\n- 2 đg. (ph.). Hỉ. Xỉ mũi.\n- 3 đg. (ph.). Xỉa. Xỉ vào mặt mà mắng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xỉ\n*noun\n-slag, cinder\n@Chuyên ngành kinh tế\n-cinder\n-slime\n-sludge\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cinder\n-clinker\n-dross\n-floss\n-mud\n-scabs\n-scale\n-scoriaceous\n-scotch\n-scum\n-sinder\n-sinter\n-slag\n-sprue\n-tag\n-tails\n@Lĩnh vực: hóa học & vật liệu\n-scoria"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xỉ\n* noun\n- slag, cinder"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "slag, cinder"
-      }
-    ]
-  },
-  {
-    "word": "xỉ của quá trình khử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reduction slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ kẽm nổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cadmia"
-      }
-    ]
-  },
-  {
-    "word": "xỉ quặng (mỏ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-disposal area"
-      }
-    ]
-  },
-  {
-    "word": "xỉ tro",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ash\n-cinder\n-dross\n-scoria\n-scum\n-slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ trung quốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Chinese wax"
-      }
-    ]
-  },
-  {
-    "word": "xỉ silic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-siliceous slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ dạng thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-finishing slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ lôcô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-boiler ash"
-      }
-    ]
-  },
-  {
-    "word": "xỉ trung tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-neutral slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ đập vỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-broken slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ xi măng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cement clinker"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-foam\n-froth\n-scum\n-skim\n-skimming"
-      }
-    ]
-  },
-  {
-    "word": "xỉ bazơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-base slag\n-basic slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ chắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-resistance slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ hạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-granulated slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nồi hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-boiler ash\n-boiler slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ (đá) núi lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slag\n-volcanic slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ hàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-welding cinder"
-      }
-    ]
-  },
-  {
-    "word": "xỉ mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-surface sintered brick"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nở lò cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-expanded blast-furnace slag\n-sintered expanded slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ lò (quay)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clinker"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nóng chảy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-molten slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ silicat",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-silicate slag\n@Lĩnh vực: hóa học & vật liệu\n-siliceous slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉa xói",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xỉa liên tiếp vào mặt người khác để mắng chửi\nVí dụ:\n- chị ta xỉa xói vào mặt chồng mà kể lể"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xỉa xói [xỉa xói]\n-to poke/stick/shove one\"s finger into somebody\"s face"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to poke or stick or shove one’s finger into somebody’s face"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lead slag"
       }
     ]
   },
@@ -682,145 +816,11 @@
     ]
   },
   {
-    "word": "xỉ tôi ở lò cao",
+    "word": "xỉ hoàn thiện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quenched blast-furnace slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ tơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slaked slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ nở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-expanded slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ lò thomas",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Thomas\"s slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ oxi hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxidizing slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ xốp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-expanded slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ chảy lỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-molten slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ lò tinh chế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-refinery scum"
-      }
-    ]
-  },
-  {
-    "word": "xỉ trợ dung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fluid slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-casting slim\n@Lĩnh vực: xây dựng\n-dross casting"
-      }
-    ]
-  },
-  {
-    "word": "xỉ lò bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open-hearth slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có màu ngả sang màu đen bẩn và kém vẻ bóng bẩy\nVí dụ:\n- nước kền đã xỉn \n - nồi đồng bị xỉn đen \n - vải xỉn màu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "say rượu, bia\nVí dụ:\n- mới uống vài cốc đã xỉn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xỉn\n*động từ\n-to get drunk*trạng từ\n-blacken, go black and dark\n@Chuyên ngành kỹ thuật\n-flat\n-lusterless\n-lustreless"
-      }
-    ]
-  },
-  {
-    "word": "xỉ dính chặt (mép chặt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-adhering slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ash\n-breeze\n-cinder\n-clinker\n-dross\n-furnace clinker\n-scoria\n-skim\n-slag"
-      }
-    ]
-  },
-  {
-    "word": "xỉ rời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dusting clinker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-finishing slag"
       }
     ]
   },
@@ -834,11 +834,11 @@
     ]
   },
   {
-    "word": "xỉ lỏng",
+    "word": "xỉ (đá) núi lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fluid slag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slag\n-volcanic slag"
       }
     ]
   }

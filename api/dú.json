@@ -1,73 +1,14 @@
 [
   {
-    "word": "dúm dó",
+    "word": "dún dẩy",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem rúm ró\nVí dụ:\n- quần áo khâu dúm dó"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@dúm dó\n-Wrinkled up"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dúm dó\n- Wrinkled up"
+        "dict_definition": "@dún dẩy [dún dẩy]\n-waddle"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "wrinkled up"
-      }
-    ]
-  },
-  {
-    "word": "dút dát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhút nhát\nVí dụ:\n- cô bé rất dút dát"
-      }
-    ]
-  },
-  {
-    "word": "dúng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhúng\nVí dụ:\n- nhúng khăn vào chậu nước"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dúng\n-(địa phương) như nhúng"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dúng\n- (địa phương) như nhúng"
-      }
-    ]
-  },
-  {
-    "word": "dúm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhúm\nVí dụ:\n- nó dúm chút muối \n - dúm chè cho vào ấm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem rúm\nVí dụ:\n- chân tay dúm lại"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dúm\n-xem nhúm\n=\n+em rúm\n@Chuyên ngành kỹ thuật\n-shrink"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dúm\n- xem nhúm\n=xem rúm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) to gather with one’s fingers; pinch, handful; (2) wrinkled"
+        "dict_definition": "waddle"
       }
     ]
   },
@@ -114,15 +55,65 @@
     ]
   },
   {
-    "word": "dúm dụm",
+    "word": "dúng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nhúng\nVí dụ:\n- nhúng khăn vào chậu nước"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@dúm dụm [dúm dụm]\n-battered out of shape"
+        "dict_definition": "@dúng\n-(địa phương) như nhúng"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dúng\n- (địa phương) như nhúng"
+      }
+    ]
+  },
+  {
+    "word": "dúm dó",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem rúm ró\nVí dụ:\n- quần áo khâu dúm dó"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dúm dó\n-Wrinkled up"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dúm dó\n- Wrinkled up"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "battered out of shape"
+        "dict_definition": "wrinkled up"
+      }
+    ]
+  },
+  {
+    "word": "dúm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nhúm\nVí dụ:\n- nó dúm chút muối \n - dúm chè cho vào ấm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem rúm\nVí dụ:\n- chân tay dúm lại"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dúm\n-xem nhúm\n=\n+em rúm\n@Chuyên ngành kỹ thuật\n-shrink"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dúm\n- xem nhúm\n=xem rúm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) to gather with one’s fingers; pinch, handful; (2) wrinkled"
       }
     ]
   },
@@ -144,15 +135,24 @@
     ]
   },
   {
-    "word": "dún dẩy",
+    "word": "dúm dụm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dún dẩy [dún dẩy]\n-waddle"
+        "dict_definition": "@dúm dụm [dúm dụm]\n-battered out of shape"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "waddle"
+        "dict_definition": "battered out of shape"
+      }
+    ]
+  },
+  {
+    "word": "dút dát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nhút nhát\nVí dụ:\n- cô bé rất dút dát"
       }
     ]
   }

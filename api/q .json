@@ -1,19 +1,28 @@
 [
   {
-    "word": "q cao",
+    "word": "q không (phụ) tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-high Q"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nonloaded Q"
       }
     ]
   },
   {
-    "word": "q có phụ tải",
+    "word": "q kế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-loaded Q"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Q meter\n-quality-factor measuring instrument"
+      }
+    ]
+  },
+  {
+    "word": "q (có) phụ tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-working Q"
       }
     ]
   },
@@ -36,29 +45,20 @@
     ]
   },
   {
-    "word": "q (có) phụ tải",
+    "word": "q cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-working Q"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-high Q"
       }
     ]
   },
   {
-    "word": "q kế",
+    "word": "q có phụ tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Q meter\n-quality-factor measuring instrument"
-      }
-    ]
-  },
-  {
-    "word": "q không (phụ) tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nonloaded Q"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-loaded Q"
       }
     ]
   },

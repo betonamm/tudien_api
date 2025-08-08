@@ -9,27 +9,65 @@
     ]
   },
   {
-    "word": "tủi thân",
+    "word": "tủ đông lạnh",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủi cho bản thân mình\nVí dụ:\n- bà thấy tủi thân vì sự khổ hạnh của mình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủi thân\n- Buồn vì thương thân mình kém người : Thằng bé tủi thân vì không có áo mới mặc tết."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ gia đình",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tủi thân\n*verb\n-to feel self-pity"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sideboard"
+      }
+    ]
+  },
+  {
+    "word": "tủ điện lắp (trên) cột",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tủi thân\n* verb\n- to feel self-pity"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole mounted cubicle"
+      }
+    ]
+  },
+  {
+    "word": "tủ bảo vệ",
+    "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to feel self-pity"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-protection cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh bơm nhiệt nhiệt độ thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature heat pump refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ két",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chest"
+      }
+    ]
+  },
+  {
+    "word": "tủ sấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cabinet drier\n-desiccator\n-hot-air sterilizer\n@Chuyên ngành kỹ thuật\n-compartment drier\n-drier\n-drying cabinet\n-drying cupboard\n-oven"
       }
     ]
   },
@@ -43,248 +81,20 @@
     ]
   },
   {
-    "word": "tủ lạnh hai sao",
+    "word": "tủ lạnh tự phá băng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-star refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-self-defrosting cabinet\n-self-defrosting cabinet (refrigerator)\n-self-defrosting refrigerator"
       }
     ]
   },
   {
-    "word": "tủ lạnh nén hơi gia đình",
+    "word": "tủ lạnh có máy nén",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-domestic compression refrigerating cabinet\n-household compression refrigerating cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ nối cáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-joint box\n-junction box\n-terminal box"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh hai cửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-double-door refrigerated cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh du lịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-camping refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh dùng nitơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh có bơm nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-heat pump refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia dụng chạy ga",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gas-operated domestic refrigerator\n-gas-operated household refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ tụ điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-capacitor cubicle"
-      }
-    ]
-  },
-  {
-    "word": "tủ đá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủ lạnh có khả năng tạo nhiệt độ thấp, chuyên dùng để làm nước đá"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh tự phục vụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-self-service cabinet\n-self-service counter\n-self-service display\n-self-service merchandiser\n-self-service showcase"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh đông có dàn quạt cưỡng bức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen food blower coil reach in"
-      }
-    ]
-  },
-  {
-    "word": "tủ ấp trứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cabinet type Hatcher"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh kiểu bệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-floor typed freezer"
-      }
-    ]
-  },
-  {
-    "word": "tủ nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-box"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính đặt ở cửa sổ (giới thiệu sản phẩm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-window display"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh bảo quản máu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-blood (storage) refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh để sản phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-refrigerated locker"
-      }
-    ]
-  },
-  {
-    "word": "tủy thận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-medulla renis"
-      }
-    ]
-  },
-  {
-    "word": "tủ sấy đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-drying cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ (bán) hàng cách nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-insulated case"
-      }
-    ]
-  },
-  {
-    "word": "tủ trưng bày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shower"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính lạnh một chức năng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-duty display showcase"
-      }
-    ]
-  },
-  {
-    "word": "tủi hổ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự lấy làm hổ thẹn và buồn cho mình\nVí dụ:\n- nỗi xót xa tủi hổ \n - tủi hổ vì những lỗi lầm của mình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủi hổ\n- Thương thân và thẹn: Tủi hổ vì không tiến bộ kịp mọi người."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủi hổ [tủi hổ]\n-be ashamed (of)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be ashamed (of)"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh (gia đình) hai nhiệt độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator-freezer\n-side-by-side] refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủy chân răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-radicular pulp"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-compression refrigerating machine cabinet\n-compression refrigerator"
       }
     ]
   },
@@ -318,344 +128,103 @@
     ]
   },
   {
-    "word": "tủ chất độc",
+    "word": "tủ lạnh thương mại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-poisons cupboard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-commercial refrigerated cabinet\n-commercial refrigerator"
       }
     ]
   },
   {
-    "word": "tủ (có khóa)",
+    "word": "tủ (bảng) điều khiển",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-locker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-control board\n-switchboard"
       }
     ]
   },
   {
-    "word": "tủ rơ le",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-relay cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh ba sao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-three-star refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh di chuyển được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-portable refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ ướp lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-frigidaire\n-ice house"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh tự phá băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-self-defrosting cabinet\n-self-defrosting cabinet (refrigerator)\n-self-defrosting refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ có ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cupboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ liền giường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cupboard with shut-in bed"
-      }
-    ]
-  },
-  {
-    "word": "tủ két",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chest"
-      }
-    ]
-  },
-  {
-    "word": "tủ máy đo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-measuring cubicle"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh (kính) dàn ống xoắn đối lưu tự nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated gravity coil reach-in"
-      }
-    ]
-  },
-  {
-    "word": "tủ rán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-air-cooking cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hermetic refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ phân phối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-control cabinet\n@Lĩnh vực: điện\n-joint box"
-      }
-    ]
-  },
-  {
-    "word": "tủ kết đông lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-reach-in freezer\n-reach-in froster"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh xách tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-portable refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ hút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-extraction hood"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wall showcase"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh bơm nhiệt nhiệt độ thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature heat pump refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ hộp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh nguyên cụm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-packaged cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lệch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủ có một bên cao và một bên thấp"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh thương mại nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-small commercial refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ kết đông thực phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-food freezer cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ sấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cabinet drier\n-desiccator\n-hot-air sterilizer\n@Chuyên ngành kỹ thuật\n-compartment drier\n-drier\n-drying cabinet\n-drying cupboard\n-oven"
-      }
-    ]
-  },
-  {
-    "word": "tủ bảo quản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-conservator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-storage cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính hai nhiệt độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dual temperature display cabinet\n-dual temperature display case\n-dual temperature display merchandiser"
-      }
-    ]
-  },
-  {
-    "word": "tủ li",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủ dài và thấp, giống như tủ chè, mặt trước có cửa bằng kính, dùng bày các loại cốc chén, đồ trang trí nhỏ, v.v."
-      }
-    ]
-  },
-  {
-    "word": "tủy xương vàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bone marrow yellow"
-      }
-    ]
-  },
-  {
-    "word": "tủ cầu dao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric switchboard"
-      }
-    ]
-  },
-  {
-    "word": "tủa thàng",
+    "word": "tủy sống",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tủa Thàng\n- (xã) h. Tủa Chùa, t. Lai Châu"
+        "dict_definition": "@tủy sống\n- (giải) Chất tủy ở trong cột xương sống."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-medulla\n-spinal marrow\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinal marrow"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "spinal cord"
       }
     ]
   },
   {
-    "word": "tủ dụng cụ",
+    "word": "tủ rơle",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-instrument cabinet\n-tool chest\n-tool locker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-relay board"
       }
     ]
   },
   {
-    "word": "tủ phân phối điện",
+    "word": "tủ cách nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-distributing frame"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-insulated chest"
       }
     ]
   },
   {
-    "word": "tủa chùa",
+    "word": "tủ bán hàng lạnh kiểu hở",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-open sales cabinet (counter\n-open sales cabinet open sales\n-open sales counter\n-open sales showcase"
+      }
+    ]
+  },
+  {
+    "word": "tủm tỉm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả kiểu cười không mở miệng, chỉ thấy cử động đôi môi một cách kín đáo\nVí dụ:\n- tủm tỉm cười một mình"
+      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tủa Chùa\n- (huyện) t. Lai Châu\n- (thị trấn) h. Tủa Chùa, t. Lai Châu"
+        "dict_definition": "@tủm tỉm\n- ph. Nói cười chúm chím: Tủm tỉm cười."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủm tỉm [tủm tỉm]\n-to smile"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to smile"
       }
     ]
   },
   {
-    "word": "tủ kính cửa mở phía trên",
+    "word": "tủ trưng bày",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated top display cabinet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shower"
       }
     ]
   },
   {
-    "word": "tủ hun khói",
+    "word": "tủ lạnh để sản phẩm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-smoke chest"
-      }
-    ]
-  },
-  {
-    "word": "tủ dập tắt lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire extinguisher cabinet"
+        "dict_definition": "@Chuyên ngành kinh tế\n-refrigerated locker"
       }
     ]
   },
@@ -669,193 +238,11 @@
     ]
   },
   {
-    "word": "tủ chè",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủ dài và thấp dùng để đựng ấm chén và bày các đồ vật đẹp, quý\nVí dụ:\n- tủ chè sập gụ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủ chè\n- dt. Tủ dài và thấp, dùng để bày ấm chén và các đồ quý giá."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủ chè\n*noun\n-cupboard\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-buffet"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tủ chè\n* noun\n- cupboard"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cupboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ gương",
+    "word": "tủ lạnh đa chức năng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tủ gương [tủ gương]\n-mirrored wardrobe"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mirrored wardrobe"
-      }
-    ]
-  },
-  {
-    "word": "tủy đồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myelogram"
-      }
-    ]
-  },
-  {
-    "word": "tủ hút (không khí)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vent hood"
-      }
-    ]
-  },
-  {
-    "word": "tủ điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cubicle\n-panel"
-      }
-    ]
-  },
-  {
-    "word": "tủ sắt, tủ đựng tiền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-safe"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính (bày hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-show-case glazing"
-      }
-    ]
-  },
-  {
-    "word": "tủ có khóa xích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cable locker\n-chain locker"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gắn sẵn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-built-in cold room\n-built-in refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh nhỏ để kinh doanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-small commercial refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính đúp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-double-glazing\n-dual-glazing"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh kiểu gắn tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wall-type refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính cửa hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shopper window"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính bày hàng (trong cửa hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-window"
-      }
-    ]
-  },
-  {
-    "word": "tủ có bảng điều khiển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-control panel cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh (làm mát) bằng nước biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sea water refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính lạnh hấp thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-absorption display\n-absorption merchandiser\n-absorption merchandiser [showcase]\n-absorptions showcase"
-      }
-    ]
-  },
-  {
-    "word": "tủ để bánh thánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tabernacle"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh nhiệt độ thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-universal refrigerated cabinet"
       }
     ]
   },
@@ -893,429 +280,29 @@
     ]
   },
   {
-    "word": "tủ lạnh hấp thụ khuếch tán",
+    "word": "tủ lạnh tự phục vụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-absorption diffusion refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-self-service cabinet\n-self-service counter\n-self-service display\n-self-service merchandiser\n-self-service showcase"
       }
     ]
   },
   {
-    "word": "tủ kính (trưng bày hàng) triển lãm",
+    "word": "tủ lạnh du lịch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-exhibition case"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-camping refrigerator"
       }
     ]
   },
   {
-    "word": "tủ sấy thăng hoa",
+    "word": "tủ đựng văn phòng phẩm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cabinet freeze-drier\n-freeze-drying cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh có ngăn nước lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator mounted cold water system"
-      }
-    ]
-  },
-  {
-    "word": "tủ sắt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủ sắt\n- Tủ làm bằng sắt dùng để chứa tiền."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủ sắt [tủ sắt]\n-safe;  strong-box\n@Chuyên ngành kinh tế\n-safe\n-strongbox (strong box, strong-box)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safe"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "safe, strong-box"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh lắp ghép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sectional refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủ có thiết bị làm lạnh để giữ cho các thứ đựng bên trong [thường là thực phẩm] lâu bị hư hỏng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủ lạnh\n- d. Tủ có thiết bị làm lạnh để giữ cho các thứ đựng bên trong (thường là thực phẩm) lâu bị hư hỏng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủ lạnh\n*noun\n-refrigerator, fridge\n@Chuyên ngành kinh tế\n-chill cabinet\n-cooler\n-freezer\n-reach-in cooler\n-reach-in-refrigerator\n-refrigeration cabinet\n-refrigerator\n@Chuyên ngành kỹ thuật\n-chill box\n-chill cabinet\n-cold (-storage) box\n-cold box\n-cold-storage box\n-cooled cabinet\n-cooling [refrigerator] box\n-cooling box\n-cooling cabinet\n-domestic freezer\n-fridge\n-frozen-food cabinet\n-reach-in cabinet\n-reach-in cooler\n-reach-in refrigerator\n-refrigerated cabinet\n-refrigeration cabinet\n-refrigerator box\n-refrigerator cabinet"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tủ lạnh\n* noun\n- refrigerator, fridge"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "refrigerator, fridge"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh đựng thực phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen-food cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh (kính) giàn ống xoắn đối lưu tự nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated gravity coil reach-in"
-      }
-    ]
-  },
-  {
-    "word": "tủ ly",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tủ li"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh từ tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh thương mại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-commercial refrigerated cabinet\n-commercial refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ cờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag locker\n-signal locker"
-      }
-    ]
-  },
-  {
-    "word": "tủ để hộc chữ in",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-case rack"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh kiểu hở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-case\n-display case"
-      }
-    ]
-  },
-  {
-    "word": "tủy sống kép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diplomyelia"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh thương nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-commercial refrigerated cabinet\n-commercial refrigerator\n-food service cooler"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính nhiều giá ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-multideck counter\n-multitier counter"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh (chạy bằng năng lượng) mặt trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-solar refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủy sống nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-micromyelia"
-      }
-    ]
-  },
-  {
-    "word": "tủ đo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-measuring cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ bảo quản kem",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-cream conservator"
-      }
-    ]
-  },
-  {
-    "word": "tủ (bảng) điều khiển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-control board\n-switchboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình có máy nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-household compression refrigerating cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ bán kem tự động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-cream vendor"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh hai thân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-double-unit cooler"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính để phục vụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-serve-over display showcase"
-      }
-    ]
-  },
-  {
-    "word": "tủ tường",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủ lớn, gồm nhiều khối liên kết với nhau, kích cỡ và hình dáng các ngăn đa dạng, dùng để đựng đồ và bày biện trang trí, thường được đặt dựa sát vào tường"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cabinet\n-closet\n-wall cupboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính (trưng bày)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-show-case"
-      }
-    ]
-  },
-  {
-    "word": "tủy răng bị hoại tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-necrotic pulp"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủ kính\n- Thứ tủ có mặt trên và mặt bên bằng kính để bày hàng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủ kính\n*noun\n-wardrobe\n@Chuyên ngành kỹ thuật\n-display window\n-glass case\n-show-case"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tủ kính\n* noun\n- wardrobe"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wardrobe"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh có bộ làm lạnh nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator mounted cold water system"
-      }
-    ]
-  },
-  {
-    "word": "tủ đựng tiền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-safe"
-      }
-    ]
-  },
-  {
-    "word": "tủ gia đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sideboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ xử lý không khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air handing cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh bảo quản hoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-florist cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ bảo hiểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-strongbox (strong box, strong-box)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safe deposit"
-      }
-    ]
-  },
-  {
-    "word": "tủ co màn gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air curtain cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-display refrigerator\n-refrigerated visual cooler"
-      }
-    ]
-  },
-  {
-    "word": "tủ bảo vệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-protection cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủi hờn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cảm thấy buồn bã, xót xa cho thân phận mình và có ý như oán trách\nVí dụ:\n- giọt nước mắt tủi hờn"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính treo tường (để giới thiệu sản phẩm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wall-counter display refrigerator"
+        "dict_definition": "@Chuyên ngành kinh tế\n-stationery supplies cupboard"
       }
     ]
   },
@@ -1329,60 +316,6 @@
     ]
   },
   {
-    "word": "tủ lạnh mang xách được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-portable refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ điều khiển và rơle",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-relay and control cubicle"
-      }
-    ]
-  },
-  {
-    "word": "tủ thử nghiệm nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pocket proofer"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh bơm nhiệt độ thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature heat pump refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính lạnh (kiểu) cánh trượt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated slide-door reach-in"
-      }
-    ]
-  },
-  {
-    "word": "tủ nối chéo cáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cross-connect cabinet"
-      }
-    ]
-  },
-  {
     "word": "tủ lạnh gia dụng",
     "definitions": [
       {
@@ -1392,51 +325,335 @@
     ]
   },
   {
-    "word": "tủ kính lạnh nhiều giá ngăn",
+    "word": "tủ lạnh từ tính",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-multideck display refrigerator\n-mutideck display refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic refrigerator"
       }
     ]
   },
   {
-    "word": "tủ quần áo",
+    "word": "tủ trung tâm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloakroom furniture\n-linen cupboard"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "closet, wardrobe. dresser, chest of drawers"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-central panel"
       }
     ]
   },
   {
-    "word": "tủ lạnh đa chức năng",
+    "word": "tủ bày hàng nhỏ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-universal refrigerated cabinet"
+        "dict_definition": "@Chuyên ngành kinh tế\n-display case"
       }
     ]
   },
   {
-    "word": "tủ lạnh cryo",
+    "word": "tủ kết đông ở nhiệt độ không (-17, 8oc)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cryogenic refrigerator\n-cryorefrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-zero temperature freezing cabinet"
       }
     ]
   },
   {
-    "word": "tủ lạnh có quạt gió lạnh",
+    "word": "tủ sấy đông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated blower coil reach-in"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-drying cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ kết đông thực phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-food freezer cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ ly",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tủ li"
+      }
+    ]
+  },
+  {
+    "word": "tủ đá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủ lạnh có khả năng tạo nhiệt độ thấp, chuyên dùng để làm nước đá"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh cỡ nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-walk-in refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh nén hơi gia đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-domestic compression refrigerating cabinet\n-household compression refrigerating cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình gắn tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-recessed domestic refrigerator\n-recessed household refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủa thàng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tủa Thàng\n- (xã) h. Tủa Chùa, t. Lai Châu"
+      }
+    ]
+  },
+  {
+    "word": "tủ rơ le",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-relay cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ có ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cupboard"
+      }
+    ]
+  },
+  {
+    "word": "tủ đựng tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-safe"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh có một cửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-door refrigerated cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ cầu dao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric switchboard"
+      }
+    ]
+  },
+  {
+    "word": "tủ (kính) bày hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-showcase (show-case)"
+      }
+    ]
+  },
+  {
+    "word": "tủ hộp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính hai nhiệt độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dual temperature display cabinet\n-dual temperature display case\n-dual temperature display merchandiser"
+      }
+    ]
+  },
+  {
+    "word": "tủ chứa các đầu dây (điện thoại, điện báo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-system leading box"
+      }
+    ]
+  },
+  {
+    "word": "tủ tụ điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-capacitor cubicle"
+      }
+    ]
+  },
+  {
+    "word": "tủ phân phối điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-distributing frame"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình hai cửa (ngăn, buồng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủy sống nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-micromyelia"
+      }
+    ]
+  },
+  {
+    "word": "tủ bảo quản kem",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-cream conservator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh kính một tầng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-deck display refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh (kính) giàn ống xoắn đối lưu tự nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated gravity coil reach-in"
+      }
+    ]
+  },
+  {
+    "word": "tủ đo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-measuring cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ rán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-air-cooking cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ có khóa xích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-cable locker\n-chain locker"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình có lốc nén",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-household compression refrigerating cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ phiếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-card index filing cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-domestic cabinet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-household refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ đứng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủ hình chữ nhật, cao quá đầu người, thường để đựng quần áo"
+      }
+    ]
+  },
+  {
+    "word": "tủ bảo quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-conservator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-storage cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh di chuyển được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-portable refrigerator"
       }
     ]
   },
@@ -1450,6 +667,49 @@
     ]
   },
   {
+    "word": "tủi thân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủi cho bản thân mình\nVí dụ:\n- bà thấy tủi thân vì sự khổ hạnh của mình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủi thân\n- Buồn vì thương thân mình kém người : Thằng bé tủi thân vì không có áo mới mặc tết."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủi thân\n*verb\n-to feel self-pity"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tủi thân\n* verb\n- to feel self-pity"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to feel self-pity"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-humid cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh bảo quản và làm lạnh đông sản phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dual-purpose refrigerator"
+      }
+    ]
+  },
+  {
     "word": "tủ có màn gió",
     "definitions": [
       {
@@ -1459,100 +719,294 @@
     ]
   },
   {
-    "word": "tủ lạnh có ký hiệu sao (chỉ độ lạnh)",
+    "word": "tủy bào huyết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-star-marked refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myelocytosis"
       }
     ]
   },
   {
-    "word": "tủi nhục",
+    "word": "tủi hờn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự thấy nhục nhã và xót xa, đau khổ\nVí dụ:\n- cuộc sống tủi nhục \n - nỗi tủi nhục của người dân mất nước"
-      },
+        "dict_definition": "cảm thấy buồn bã, xót xa cho thân phận mình và có ý như oán trách\nVí dụ:\n- giọt nước mắt tủi hờn"
+      }
+    ]
+  },
+  {
+    "word": "tủ ấp trứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cabinet type Hatcher"
+      }
+    ]
+  },
+  {
+    "word": "tủ để hộc chữ in",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-case rack"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh (làm mát) bằng nước biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sea water refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủa chùa",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủi nhục\n- Thương thân và cảm thấy thấp kém."
+        "dict_definition": "@Tủa Chùa\n- (huyện) t. Lai Châu\n- (thị trấn) h. Tủa Chùa, t. Lai Châu"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính bày hàng (trong cửa hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-window"
+      }
+    ]
+  },
+  {
+    "word": "tủm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủm\n- ph. Nh. Tủm tỉm: Cười tủm."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tủi nhục [tủi nhục]\n-to bring shame upon oneself\n-to conver oneself with shame\n-to disgrace oneself"
+        "dict_definition": "@tủm [tủm]\n-như\n-(cười tủm) smile\n-make a loud report, fart\n-(vulg, and not decent) crack, crackle"
       }
     ]
   },
   {
-    "word": "tủ lạnh hấp thụ",
+    "word": "tủ lạnh làm lạnh bằng đá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-absorption refrigerator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-absorption cabinet\n-absorption refrigerator"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ice-cooled refrigerator\n-self-service refrigerator"
       }
     ]
   },
   {
-    "word": "tủ lạnh gia đình gắn chìm",
+    "word": "tủ dập tắt lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-recessed domestic refrigerator\n-recessed household refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire extinguisher cabinet"
       }
     ]
   },
   {
-    "word": "tủ lạnh không bị đóng băng",
+    "word": "tủ lạnh lắp ghép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frost free refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sectional refrigerator"
       }
     ]
   },
   {
-    "word": "tủ lạnh-tủ kết đông gắn chìm",
+    "word": "tủ tập tin",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-recessed refrigerator freezer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-File Cabinet"
       }
     ]
   },
   {
-    "word": "tủ nhiều ngăn",
+    "word": "tủ đựng thực phẩm đông lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage racks"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen food conservator\n-frozen food refrigerator"
       }
     ]
   },
   {
-    "word": "tủ cất giữ",
+    "word": "tủ nối cáp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-storage cupboard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-joint box\n-junction box\n-terminal box"
       }
     ]
   },
   {
-    "word": "tủy hóa",
+    "word": "tủ lạnh có bộ làm lạnh nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pulpefaction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator mounted cold water system"
       }
     ]
   },
   {
-    "word": "tủ xuất tuyến",
+    "word": "tủ (đựng quần áo)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-outgoing cubicle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wardrobe"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình hai cửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh kiểu gắn tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wall-type refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ quần áo (phân xưởng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cloth locker"
+      }
+    ]
+  },
+  {
+    "word": "tủi cực",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cảm thấy tủi vì nỗi cực khổ của mình\nVí dụ:\n- tủi cực vì thân phận tôi đòi \n - chịu bao cay đắng, tủi cực"
+      }
+    ]
+  },
+  {
+    "word": "tủ điện máy lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigeration panel"
+      }
+    ]
+  },
+  {
+    "word": "tủ điều hòa không khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air-conditioner cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ cờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag locker\n-signal locker"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh có ngăn nước lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator mounted cold water system"
+      }
+    ]
+  },
+  {
+    "word": "tủ trần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ceiling cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính bày hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-display window\n-shop window\n-window\n-window-case"
+      }
+    ]
+  },
+  {
+    "word": "tủ li",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủ dài và thấp, giống như tủ chè, mặt trước có cửa bằng kính, dùng bày các loại cốc chén, đồ trang trí nhỏ, v.v."
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hermetic refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ kết đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-freeze box\n-freezing box\n-freezing cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủy xương vàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bone marrow yellow"
+      }
+    ]
+  },
+  {
+    "word": "tủ thép có khóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-steel locker"
+      }
+    ]
+  },
+  {
+    "word": "tủ nở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-proof cabinet"
       }
     ]
   },
@@ -1578,65 +1032,38 @@
     ]
   },
   {
-    "word": "tủ hút bọt",
+    "word": "tủ lạnh hấp thụ khuếch tán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-bubble hood"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-absorption diffusion refrigerator"
       }
     ]
   },
   {
-    "word": "tủ đựng văn phòng phẩm",
+    "word": "tủ kính (trưng bày hàng) triển lãm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stationery supplies cupboard"
+        "dict_definition": "@Chuyên ngành kinh tế\n-exhibition case"
       }
     ]
   },
   {
-    "word": "tủ (kính) bày hàng",
+    "word": "tủ sấy chân không",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-showcase (show-case)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vacuum drying cabinet"
       }
     ]
   },
   {
-    "word": "tủ lạnh cỡ nhỏ",
+    "word": "tủ kính lạnh hấp thụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-walk-in refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh công suất nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fractional horsepower cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh chạy điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-electric refrigerator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ thực phẩm kết đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frosted foot cabinet\n-frozen food cabinet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-absorption display\n-absorption merchandiser\n-absorption merchandiser [showcase]\n-absorptions showcase"
       }
     ]
   },
@@ -1650,20 +1077,127 @@
     ]
   },
   {
-    "word": "tủ đông lạnh",
+    "word": "tủ nhỏ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freeze-refrigerator"
+        "dict_definition": "@Chuyên ngành kinh tế\n-box"
       }
     ]
   },
   {
-    "word": "tủ ấp",
+    "word": "tủ bảo hiểm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-incubator"
+        "dict_definition": "@Chuyên ngành kinh tế\n-strongbox (strong box, strong-box)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safe deposit"
+      }
+    ]
+  },
+  {
+    "word": "tủi nhục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự thấy nhục nhã và xót xa, đau khổ\nVí dụ:\n- cuộc sống tủi nhục \n - nỗi tủi nhục của người dân mất nước"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủi nhục\n- Thương thân và cảm thấy thấp kém."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủi nhục [tủi nhục]\n-to bring shame upon oneself\n-to conver oneself with shame\n-to disgrace oneself"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính lạnh treo tường (để giới thiệu sản phẩm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wall-counter display refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủy chân răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-radicular pulp"
+      }
+    ]
+  },
+  {
+    "word": "tủ sấy thăng hoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cabinet freeze-drier\n-freeze-drying cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủy sống kép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diplomyelia"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh có ký hiệu sao (chỉ độ lạnh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-star-marked refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủy xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bone marrow\n-medulla\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bone marrow\n-medulla ossium"
+      }
+    ]
+  },
+  {
+    "word": "tủy đồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myelogram"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh (gia đình) hai nhiệt độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator-freezer\n-side-by-side] refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh có hai ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-compartment cooler"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh joule-thomson",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Joule-Thomson cooler\n-Joule-Thomson refrigerator"
       }
     ]
   },
@@ -1677,429 +1211,11 @@
     ]
   },
   {
-    "word": "tủ cách nhiệt",
+    "word": "tủ lạnh vận hành bằng nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-insulated chest"
-      }
-    ]
-  },
-  {
-    "word": "tủy trắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-white pulp"
-      }
-    ]
-  },
-  {
-    "word": "tủ ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rack stand\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cupboard partition\n-shelving"
-      }
-    ]
-  },
-  {
-    "word": "tủ điều hòa không khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air-conditioner cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủi phận",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủi phận\n- Cảm thấy buồn vì số phận."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủi phận [tủi phận]\n-to complain of one\"s lot\n-to lament one\"s lot"
-      }
-    ]
-  },
-  {
-    "word": "tủ thử nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-proving cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự cảm thấy thương xót và buồn cho mình\nVí dụ:\n- tôi thấy tủi quá \n - vừa mừng vừa tủi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủi\n- t. Buồn vì thương thân hoặc vì người ta nói nhục đến mình: Giận duyên tủi phận bời bời (K)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủi [tủi]\n-to slf-pity\n-to lament, mourn\n-to deplore, to bewail\n-to be pained, to grieve"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to lament, feel hurt, be ashamed"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh kiểu ống xoáy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vortex refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ xông gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fume cupboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ sắt két sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safe"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh cửa kính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-glass door refrigerated cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-domestic cabinet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-household refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ kết đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-freeze box\n-freezing box\n-freezing cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình gắn tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-recessed domestic refrigerator\n-recessed household refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ sắt, tủ bảo hiểm, két bạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-strong box (strong-box)"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh phá băng tự động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-automatic defrosting refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ bày hàng nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-display case"
-      }
-    ]
-  },
-  {
-    "word": "tủ bán đá tự động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice vendor"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh có máy nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-compression refrigerating machine cabinet\n-compression refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ thực phẩm kết đông nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-quick-frozen food cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ máy biến áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-transformer kiosk"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình hai ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ (đựng quần áo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wardrobe"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh làm lạnh bằng đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ice-cooled refrigerator\n-self-service refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh một cửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-door refrigerated cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh bảo quản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated storage cabinet\n-storage refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủm tỉm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả kiểu cười không mở miệng, chỉ thấy cử động đôi môi một cách kín đáo\nVí dụ:\n- tủm tỉm cười một mình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủm tỉm\n- ph. Nói cười chúm chím: Tủm tỉm cười."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủm tỉm [tủm tỉm]\n-to smile"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to smile"
-      }
-    ]
-  },
-  {
-    "word": "tủa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[nhiều vật cứng, nhọn] đâm thẳng ra nhiều phía\nVí dụ:\n- rễ tủa ra xung quanh \n - xương rồng tủa gai"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "toả ra khắp các ngả cùng một lúc rất nhiều, không có trật tự\nVí dụ:\n- mọi người tủa ra phía chợ bị cháy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủa\n- đg. 1. Tuôn ra: Nước trong hang tủa tụt khe núi. 2. Kéo ra rất đông: Kiến vỡ tổ tủa khắp sân.\n- đg. Tỏa ra, vãi ra: Đổ thóc vào bồ tủa cả ra ngoài."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủa [tủa]\n-to break up\n-to be scattered\n-to be dispersed"
-      }
-    ]
-  },
-  {
-    "word": "tủ bán hàng giữ lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-display cooler"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình hai cửa (ngăn, buồng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ đựng thực phẩm đông lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen food conservator\n-frozen food refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ điện lắp (trên) cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole mounted cubicle"
-      }
-    ]
-  },
-  {
-    "word": "tủ phân phối đầu dây vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lead in distribution cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ hút gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fume cupboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính bày hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-display window\n-shop window\n-window\n-window-case"
-      }
-    ]
-  },
-  {
-    "word": "tủ công tơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-meter cupboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ bán hàng lạnh kiểu hở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-open sales cabinet (counter\n-open sales cabinet open sales\n-open sales counter\n-open sales showcase"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-humid cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủi tay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủi tay\n- Nói đã nhận một vật gì lại phải trả lại."
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh chạy bằng gas",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gas operated domestic"
-      }
-    ]
-  },
-  {
-    "word": "tủ biến áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-transformer cubicle"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình hai cửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ cách âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-acoustic hood"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-heat operated refrigerator"
       }
     ]
   },
@@ -2121,222 +1237,56 @@
     ]
   },
   {
-    "word": "tủ bếp",
+    "word": "tủ lạnh-tủ kết đông gắn chìm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cabinet-kitchen\n-kitchen cabinet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-recessed refrigerator freezer"
       }
     ]
   },
   {
-    "word": "tủ lạnh có bộ làm lạnh nước (có ngăn nước lạnh)",
+    "word": "tủ lạnh có quạt gió lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator mounted cold water system"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated blower coil reach-in"
       }
     ]
   },
   {
-    "word": "tủ lạnh vận hành bằng nhiệt",
+    "word": "tủ cất giữ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-heat operated refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-storage cupboard"
       }
     ]
   },
   {
-    "word": "tủ tập tin",
+    "word": "tủ xuất tuyến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-File Cabinet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-outgoing cubicle"
       }
     ]
   },
   {
-    "word": "tủ lạnh cắm trạị",
+    "word": "tủ công tơ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-camping refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-meter cupboard"
       }
     ]
   },
   {
-    "word": "tủ máy",
+    "word": "tủ lạnh kiểu ống xoáy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cabinet\n-housing"
-      }
-    ]
-  },
-  {
-    "word": "tủ thép có khóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-steel locker"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình có lốc nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-household compression refrigerating cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ trần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ceiling cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ đứng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tủ hình chữ nhật, cao quá đầu người, thường để đựng quần áo"
-      }
-    ]
-  },
-  {
-    "word": "tủy bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myelocyte"
-      }
-    ]
-  },
-  {
-    "word": "tủ thử nghiệm nhiệt độ thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature test cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủy răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental pulp"
-      }
-    ]
-  },
-  {
-    "word": "tủ thực phẩm đông lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frosted foot cabinet\n-frozen food cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủi duyên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủi duyên\n- Nói duyên phận không may mắn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủi duyên [tủi duyên]\n-như"
-      }
-    ]
-  },
-  {
-    "word": "tủ sấy đông lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cabinet freeze-drier"
-      }
-    ]
-  },
-  {
-    "word": "tủ điều hòa khí hậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-climatic chamber"
-      }
-    ]
-  },
-  {
-    "word": "tủ điện máy lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigeration panel"
-      }
-    ]
-  },
-  {
-    "word": "tủ hồ sơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-file cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh có một cửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-door refrigerated cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh gia đình hai buồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh joule-thomson",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Joule-Thomson cooler\n-Joule-Thomson refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ ướp đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-congelation chamber"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh vạn năng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-combination freezer and cooler"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vortex refrigerator"
       }
     ]
   },
@@ -2350,7 +1300,259 @@
     ]
   },
   {
-    "word": "tủ kính lạnh treo tường (để giới thiệu sản phẩm)",
+    "word": "tủ (bán) hàng cách nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-insulated case"
+      }
+    ]
+  },
+  {
+    "word": "tủ thực phẩm kết đông nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-quick-frozen food cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ bán đá tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice vendor"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính giữ lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-display cooler"
+      }
+    ]
+  },
+  {
+    "word": "tủ thử nghiệm nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pocket proofer"
+      }
+    ]
+  },
+  {
+    "word": "tủ thông gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fume hood\n-vent hood"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh hấp thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-absorption refrigerator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-absorption cabinet\n-absorption refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lệch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủ có một bên cao và một bên thấp"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính nhiều giá ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-multideck counter\n-multitier counter"
+      }
+    ]
+  },
+  {
+    "word": "tủ biến áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-transformer cubicle"
+      }
+    ]
+  },
+  {
+    "word": "tủ có bảng điều khiển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-control panel cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh nhiệt điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-electronic refrigerator\n-electronic unit\n-thermoelectric refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính (trưng bày)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-show-case"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh đựng thực phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen-food cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ nhiều ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-storage racks"
+      }
+    ]
+  },
+  {
+    "word": "tủ co màn gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air curtain cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ hút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-extraction hood"
+      }
+    ]
+  },
+  {
+    "word": "tủ ấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-incubator"
+      }
+    ]
+  },
+  {
+    "word": "tủ thử nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-proving cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ tẽ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "kind, nice, amicable"
+      }
+    ]
+  },
+  {
+    "word": "tủ để bánh thánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tabernacle"
+      }
+    ]
+  },
+  {
+    "word": "tủ hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-case\n-display case"
+      }
+    ]
+  },
+  {
+    "word": "tủ điều hòa khí hậu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-climatic chamber"
+      }
+    ]
+  },
+  {
+    "word": "tủy thận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-medulla renis"
+      }
+    ]
+  },
+  {
+    "word": "tủ trưng bày nhiệt độ lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cool temperature display"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh ba sao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-three-star refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh nén hơi gia dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-domestic compression refrigerating cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính cửa hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shopper window"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính treo tường (để giới thiệu sản phẩm)",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -2359,20 +1561,87 @@
     ]
   },
   {
-    "word": "tủ cờ hiệu",
+    "word": "tủ tường",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủ lớn, gồm nhiều khối liên kết với nhau, kích cỡ và hình dáng các ngăn đa dạng, dùng để đựng đồ và bày biện trang trí, thường được đặt dựa sát vào tường"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag locker\n-signal locker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cabinet\n-closet\n-wall cupboard"
       }
     ]
   },
   {
-    "word": "tủ kính lạnh (bán hàng)",
+    "word": "tủ lạnh điện tử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-chill merchandiser\n-chill showcase"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electronic refrigerator\n-electronic unit"
+      }
+    ]
+  },
+  {
+    "word": "tủ hút gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fume cupboard"
+      }
+    ]
+  },
+  {
+    "word": "tủ dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-instrument cabinet\n-tool chest\n-tool locker"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình hai ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ bán kem tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-cream vendor"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh bảo quản hoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-florist cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ thực phẩm đông lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frosted foot cabinet\n-frozen food cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh có bơm nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-heat pump refrigerator"
       }
     ]
   },
@@ -2386,65 +1655,214 @@
     ]
   },
   {
-    "word": "tủ kết đông ở nhiệt độ không (-17, 8 độ c)",
+    "word": "tủ lạnh phá băng tự động",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-zero temperature freezing cabinet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-automatic defrosting refrigerator"
       }
     ]
   },
   {
-    "word": "tủ lạnh kính một tầng",
+    "word": "tủ lạnh gia đình có máy nén",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-deck display refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-household compression refrigerating cabinet"
       }
     ]
   },
   {
-    "word": "tủ lạnh bảo quản và làm lạnh đông sản phẩm",
+    "word": "tủ sấy đông lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dual-purpose refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cabinet freeze-drier"
       }
     ]
   },
   {
-    "word": "tủ lạnh có bánh xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-roll-in refrigerator\n-roll-in refrigerator roof fan"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh nitơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủi cực",
+    "word": "tủi hổ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cảm thấy tủi vì nỗi cực khổ của mình\nVí dụ:\n- tủi cực vì thân phận tôi đòi \n - chịu bao cay đắng, tủi cực"
+        "dict_definition": "tự lấy làm hổ thẹn và buồn cho mình\nVí dụ:\n- nỗi xót xa tủi hổ \n - tủi hổ vì những lỗi lầm của mình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủi hổ\n- Thương thân và thẹn: Tủi hổ vì không tiến bộ kịp mọi người."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủi hổ [tủi hổ]\n-be ashamed (of)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be ashamed (of)"
       }
     ]
   },
   {
-    "word": "tủ thông gió",
+    "word": "tủ thử nghiệm nhiệt độ thấp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fume hood\n-vent hood"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature test cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ áo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủ áo [tủ áo]\n-linen cupboard;  wardrobe"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "closet, wardrobe"
+      }
+    ]
+  },
+  {
+    "word": "tủi tay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủi tay\n- Nói đã nhận một vật gì lại phải trả lại."
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh hấp thụ gia đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-household absorption refrigerating cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh không bị đóng băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frost free refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-reach-in-freeze"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gắn sẵn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-built-in cold room\n-built-in refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh nguyên cụm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-packaged cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ sắt két sắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safe"
+      }
+    ]
+  },
+  {
+    "word": "tủ kết đông lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-reach-in freezer\n-reach-in froster"
+      }
+    ]
+  },
+  {
+    "word": "tủ ướp lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-frigidaire\n-ice house"
+      }
+    ]
+  },
+  {
+    "word": "tủ hút (không khí)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vent hood"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh bảo quản máu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-blood (storage) refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ phân phối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-control cabinet\n@Lĩnh vực: điện\n-joint box"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính đặt ở cửa sổ (giới thiệu sản phẩm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-window display"
+      }
+    ]
+  },
+  {
+    "word": "tủ chè",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủ dài và thấp dùng để đựng ấm chén và bày các đồ vật đẹp, quý\nVí dụ:\n- tủ chè sập gụ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủ chè\n- dt. Tủ dài và thấp, dùng để bày ấm chén và các đồ quý giá."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủ chè\n*noun\n-cupboard\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-buffet"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tủ chè\n* noun\n- cupboard"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cupboard"
       }
     ]
   },
@@ -2474,243 +1892,6 @@
     ]
   },
   {
-    "word": "tủ kết đông ở nhiệt độ không (-17, 8oc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-zero temperature freezing cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ chứa các đầu dây (điện thoại, điện báo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-system leading box"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reach-in-freeze"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh treo tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wall-mounted freezer"
-      }
-    ]
-  },
-  {
-    "word": "tủ nở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-proof cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electronic refrigerator\n-electronic unit"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh nén hơi gia dụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-domestic compression refrigerating cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ kiểu vách ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cupboard partition\n-wardrobe-partition"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh trọn khối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-packaged cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ tẽ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "kind, nice, amicable"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh dùng quạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-forced air refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủy xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bone marrow\n-medulla\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bone marrow\n-medulla ossium"
-      }
-    ]
-  },
-  {
-    "word": "tủ kính giữ lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-display cooler"
-      }
-    ]
-  },
-  {
-    "word": "tủ trung tâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-central panel"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh độc lập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-refrigerated self-contained reach-in\n-self-contained refrigerated cabinet\n-self-contained refrigerator"
-      }
-    ]
-  },
-  {
-    "word": "tủ hâm nóng đồ ăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-warming cupboard"
-      }
-    ]
-  },
-  {
-    "word": "tủ áo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tủ áo [tủ áo]\n-linen cupboard;  wardrobe"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "closet, wardrobe"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh hấp thụ gia đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-household absorption refrigerating cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh có hai ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-compartment cooler"
-      }
-    ]
-  },
-  {
-    "word": "tủy sống",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủy sống\n- (giải) Chất tủy ở trong cột xương sống."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-medulla\n-spinal marrow\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinal marrow"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "spinal cord"
-      }
-    ]
-  },
-  {
-    "word": "tủ chữa cháy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hộp chữa cháy"
-      }
-    ]
-  },
-  {
-    "word": "tủ rơle",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-relay board"
-      }
-    ]
-  },
-  {
-    "word": "tủ trưng bày nhiệt độ lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cool temperature display"
-      }
-    ]
-  },
-  {
-    "word": "tủ phiếu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-card index filing cabinet"
-      }
-    ]
-  },
-  {
-    "word": "tủ lạnh (kiểu) ống xoáy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vortex refrigerator"
-      }
-    ]
-  },
-  {
     "word": "tủ (đựng giấy tờ)",
     "definitions": [
       {
@@ -2720,38 +1901,15 @@
     ]
   },
   {
-    "word": "tủ lạnh kính (có) một tầng",
+    "word": "tủi phận",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-deck display"
-      }
-    ]
-  },
-  {
-    "word": "tủ quần áo (phân xưởng)",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủi phận\n- Cảm thấy buồn vì số phận."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cloth locker"
-      }
-    ]
-  },
-  {
-    "word": "tủy bào huyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myelocytosis"
-      }
-    ]
-  },
-  {
-    "word": "tủ thực phẩm được làm lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated food chest"
+        "dict_definition": "@tủi phận [tủi phận]\n-to complain of one\"s lot\n-to lament one\"s lot"
       }
     ]
   },
@@ -2765,20 +1923,520 @@
     ]
   },
   {
-    "word": "tủ sấy chân không",
+    "word": "tủ bếp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vacuum drying cabinet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cabinet-kitchen\n-kitchen cabinet"
       }
     ]
   },
   {
-    "word": "tủ lạnh nhiệt điện",
+    "word": "tủ lạnh kính (có) một tầng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-electronic refrigerator\n-electronic unit\n-thermoelectric refrigerator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-deck display"
+      }
+    ]
+  },
+  {
+    "word": "tủy răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental pulp"
+      }
+    ]
+  },
+  {
+    "word": "tủ thực phẩm được làm lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated food chest"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tủ có thiết bị làm lạnh để giữ cho các thứ đựng bên trong [thường là thực phẩm] lâu bị hư hỏng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủ lạnh\n- d. Tủ có thiết bị làm lạnh để giữ cho các thứ đựng bên trong (thường là thực phẩm) lâu bị hư hỏng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủ lạnh\n*noun\n-refrigerator, fridge\n@Chuyên ngành kinh tế\n-chill cabinet\n-cooler\n-freezer\n-reach-in cooler\n-reach-in-refrigerator\n-refrigeration cabinet\n-refrigerator\n@Chuyên ngành kỹ thuật\n-chill box\n-chill cabinet\n-cold (-storage) box\n-cold box\n-cold-storage box\n-cooled cabinet\n-cooling [refrigerator] box\n-cooling box\n-cooling cabinet\n-domestic freezer\n-fridge\n-frozen-food cabinet\n-reach-in cabinet\n-reach-in cooler\n-reach-in refrigerator\n-refrigerated cabinet\n-refrigeration cabinet\n-refrigerator box\n-refrigerator cabinet"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tủ lạnh\n* noun\n- refrigerator, fridge"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "refrigerator, fridge"
+      }
+    ]
+  },
+  {
+    "word": "tủy hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pulpefaction"
+      }
+    ]
+  },
+  {
+    "word": "tủy bào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myelocyte"
+      }
+    ]
+  },
+  {
+    "word": "tủ sắt, tủ bảo hiểm, két bạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-strong box (strong-box)"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh nhỏ để kinh doanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-small commercial refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ (có khóa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-locker"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh xách tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-portable refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh hai cửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-double-door refrigerated cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh treo tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wall-mounted freezer"
+      }
+    ]
+  },
+  {
+    "word": "tủ sắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủ sắt\n- Tủ làm bằng sắt dùng để chứa tiền."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủ sắt [tủ sắt]\n-safe;  strong-box\n@Chuyên ngành kinh tế\n-safe\n-strongbox (strong box, strong-box)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safe"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "safe, strong-box"
+      }
+    ]
+  },
+  {
+    "word": "tủ điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cubicle\n-panel"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình hai buồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-door domestic refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh công suất nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fractional horsepower cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh bảo quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated storage cabinet\n-storage refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh (chạy bằng năng lượng) mặt trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-solar refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ kết đông ở nhiệt độ không (-17, 8 độ c)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-zero temperature freezing cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ bán hàng giữ lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-display cooler"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh kiểu hở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh nitơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ phân phối đầu dây vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lead in distribution cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủi duyên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủi duyên\n- Nói duyên phận không may mắn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủi duyên [tủi duyên]\n-như"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính lạnh nhiều giá ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-multideck display refrigerator\n-mutideck display refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh dùng quạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-forced air refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh một cửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-door refrigerated cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủy trắng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-white pulp"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh độc lập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-refrigerated self-contained reach-in\n-self-contained refrigerated cabinet\n-self-contained refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh dùng nitơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ chữa cháy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem hộp chữa cháy"
+      }
+    ]
+  },
+  {
+    "word": "tủ xông gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-fume cupboard"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính lạnh (bán hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-chill merchandiser\n-chill showcase"
+      }
+    ]
+  },
+  {
+    "word": "tủ hồ sơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-file cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh vạn năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-combination freezer and cooler"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-display refrigerator\n-refrigerated visual cooler"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh (kính) dàn ống xoắn đối lưu tự nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated gravity coil reach-in"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh cửa kính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-glass door refrigerated cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ ướp đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-congelation chamber"
+      }
+    ]
+  },
+  {
+    "word": "tủ máy biến áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-transformer kiosk"
+      }
+    ]
+  },
+  {
+    "word": "tủ điều khiển và rơle",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-relay and control cubicle"
+      }
+    ]
+  },
+  {
+    "word": "tủ máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cabinet\n-housing"
+      }
+    ]
+  },
+  {
+    "word": "tủ hun khói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-smoke chest"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính lạnh một chức năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-single-duty display showcase"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh hai thân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-double-unit cooler"
+      }
+    ]
+  },
+  {
+    "word": "tủ cờ hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag locker\n-signal locker"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh thương mại nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-small commercial refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính (bày hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-show-case glazing"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính lạnh (kiểu) cánh trượt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated slide-door reach-in"
+      }
+    ]
+  },
+  {
+    "word": "tủ liền giường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cupboard with shut-in bed"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia đình gắn chìm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-recessed domestic refrigerator\n-recessed household refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ quần áo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloakroom furniture\n-linen cupboard"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "closet, wardrobe. dresser, chest of drawers"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh nhiệt độ thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature refrigerator"
       }
     ]
   },
@@ -2792,15 +2450,357 @@
     ]
   },
   {
-    "word": "tủm",
+    "word": "tủ kính đúp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-double-glazing\n-dual-glazing"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh gia dụng chạy ga",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gas-operated domestic refrigerator\n-gas-operated household refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rack stand\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cupboard partition\n-shelving"
+      }
+    ]
+  },
+  {
+    "word": "tủ máy đo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-measuring cubicle"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh hai sao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-two-star refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ sắt, tủ đựng tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-safe"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh chạy bằng gas",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gas operated domestic"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh (kiểu) ống xoáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vortex refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tủm\n- ph. Nh. Tủm tỉm: Cười tủm."
+        "dict_definition": "@tủ kính\n- Thứ tủ có mặt trên và mặt bên bằng kính để bày hàng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tủm [tủm]\n-như\n-(cười tủm) smile\n-make a loud report, fart\n-(vulg, and not decent) crack, crackle"
+        "dict_definition": "@tủ kính\n*noun\n-wardrobe\n@Chuyên ngành kỹ thuật\n-display window\n-glass case\n-show-case"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tủ kính\n* noun\n- wardrobe"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wardrobe"
+      }
+    ]
+  },
+  {
+    "word": "tủ nối chéo cáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cross-connect cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh cắm trạị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-camping refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh có bộ làm lạnh nước (có ngăn nước lạnh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerator mounted cold water system"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh trọn khối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-packaged cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ xử lý không khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air handing cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh cryo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cryogenic refrigerator\n-cryorefrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh đông có dàn quạt cưỡng bức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen food blower coil reach in"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wall showcase"
+      }
+    ]
+  },
+  {
+    "word": "tủ cách âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-acoustic hood"
+      }
+    ]
+  },
+  {
+    "word": "tủ kiểu vách ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cupboard partition\n-wardrobe-partition"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh kiểu bệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-floor typed freezer"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh mang xách được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-portable refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ chất độc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-poisons cupboard"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh thương nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-commercial refrigerated cabinet\n-commercial refrigerator\n-food service cooler"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính để phục vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-serve-over display showcase"
+      }
+    ]
+  },
+  {
+    "word": "tủy răng bị hoại tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-necrotic pulp"
+      }
+    ]
+  },
+  {
+    "word": "tủi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự cảm thấy thương xót và buồn cho mình\nVí dụ:\n- tôi thấy tủi quá \n - vừa mừng vừa tủi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủi\n- t. Buồn vì thương thân hoặc vì người ta nói nhục đến mình: Giận duyên tủi phận bời bời (K)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủi [tủi]\n-to slf-pity\n-to lament, mourn\n-to deplore, to bewail\n-to be pained, to grieve"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to lament, feel hurt, be ashamed"
+      }
+    ]
+  },
+  {
+    "word": "tủa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[nhiều vật cứng, nhọn] đâm thẳng ra nhiều phía\nVí dụ:\n- rễ tủa ra xung quanh \n - xương rồng tủa gai"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "toả ra khắp các ngả cùng một lúc rất nhiều, không có trật tự\nVí dụ:\n- mọi người tủa ra phía chợ bị cháy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tủa\n- đg. 1. Tuôn ra: Nước trong hang tủa tụt khe núi. 2. Kéo ra rất đông: Kiến vỡ tổ tủa khắp sân.\n- đg. Tỏa ra, vãi ra: Đổ thóc vào bồ tủa cả ra ngoài."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủa [tủa]\n-to break up\n-to be scattered\n-to be dispersed"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh bơm nhiệt độ thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-low-temperature heat pump refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh chạy điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-electric refrigerator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric refrigerator"
+      }
+    ]
+  },
+  {
+    "word": "tủ kính cửa mở phía trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerated top display cabinet"
+      }
+    ]
+  },
+  {
+    "word": "tủ lạnh có bánh xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-roll-in refrigerator\n-roll-in refrigerator roof fan"
+      }
+    ]
+  },
+  {
+    "word": "tủ hút bọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-bubble hood"
+      }
+    ]
+  },
+  {
+    "word": "tủ gương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tủ gương [tủ gương]\n-mirrored wardrobe"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mirrored wardrobe"
+      }
+    ]
+  },
+  {
+    "word": "tủ hâm nóng đồ ăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-warming cupboard"
+      }
+    ]
+  },
+  {
+    "word": "tủ thực phẩm kết đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frosted foot cabinet\n-frozen food cabinet"
       }
     ]
   }

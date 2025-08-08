@@ -1,37 +1,55 @@
 [
   {
-    "word": "germanium",
+    "word": "gene",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kim loại có tính bán dẫn, thường dùng chế tạo đèn diode, transistor, v.v."
+        "dict_definition": "đơn vị phân bố trên các nhiễm sắc thể có liên quan chặt chẽ với sự di truyền ở sinh vật"
       }
     ]
   },
   {
-    "word": "gen lặn",
+    "word": "geneve",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-recessive gene"
+        "dict_name": "VNEDICT",
+        "dict_definition": "Geneva"
       }
     ]
   },
   {
-    "word": "gen trội",
+    "word": "general paralysis of the insane (liệt tổng quát ở người mất trí)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dominant gene"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-GPI"
       }
     ]
   },
   {
-    "word": "gen silic",
+    "word": "gen chất nguyên sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-silica gel"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-plasmagene"
+      }
+    ]
+  },
+  {
+    "word": "geocode",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geocode"
+      }
+    ]
+  },
+  {
+    "word": "gelatin",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chất trắng hoặc vàng chế từ xương hoặc da động vật, dùng làm keo dán, chế phim và giấy ảnh"
       }
     ]
   },
@@ -45,11 +63,110 @@
     ]
   },
   {
-    "word": "gelatin",
+    "word": "gen lặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-recessive gene"
+      }
+    ]
+  },
+  {
+    "word": "gen silic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-silica gel"
+      }
+    ]
+  },
+  {
+    "word": "georeference",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-georeference"
+      }
+    ]
+  },
+  {
+    "word": "gen hạn chế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-restriction gen"
+      }
+    ]
+  },
+  {
+    "word": "gen ức chế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-represser gene"
+      }
+    ]
+  },
+  {
+    "word": "germanium",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chất trắng hoặc vàng chế từ xương hoặc da động vật, dùng làm keo dán, chế phim và giấy ảnh"
+        "dict_definition": "kim loại có tính bán dẫn, thường dùng chế tạo đèn diode, transistor, v.v."
+      }
+    ]
+  },
+  {
+    "word": "gen tạm thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-temporary gel"
+      }
+    ]
+  },
+  {
+    "word": "gen gây ung thư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oncogene"
+      }
+    ]
+  },
+  {
+    "word": "gen kép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-duplicate gene"
+      }
+    ]
+  },
+  {
+    "word": "gen không định hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amorphic gene"
+      }
+    ]
+  },
+  {
+    "word": "gel hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-galate"
+      }
+    ]
+  },
+  {
+    "word": "gen liên kết giãnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sex-linked gene"
       }
     ]
   },
@@ -75,6 +192,42 @@
     ]
   },
   {
+    "word": "gen đột biến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mutant gene"
+      }
+    ]
+  },
+  {
+    "word": "gentisin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gentisic"
+      }
+    ]
+  },
+  {
+    "word": "gen gây chết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lethal gen"
+      }
+    ]
+  },
+  {
+    "word": "gen ẩn (dth)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cryptomere"
+      }
+    ]
+  },
+  {
     "word": "gen",
     "definitions": [
       {
@@ -92,119 +245,11 @@
     ]
   },
   {
-    "word": "gen gây ung thư",
+    "word": "gen trội",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oncogene"
-      }
-    ]
-  },
-  {
-    "word": "gen kép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-duplicate gene"
-      }
-    ]
-  },
-  {
-    "word": "gentisin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gentisic"
-      }
-    ]
-  },
-  {
-    "word": "gen đột biến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mutant gene"
-      }
-    ]
-  },
-  {
-    "word": "gen hạn chế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-restriction gen"
-      }
-    ]
-  },
-  {
-    "word": "gen chất nguyên sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-plasmagene"
-      }
-    ]
-  },
-  {
-    "word": "gen ẩn (dth)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cryptomere"
-      }
-    ]
-  },
-  {
-    "word": "gen trung tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neutral gene"
-      }
-    ]
-  },
-  {
-    "word": "general paralysis of the insane (liệt tổng quát ở người mất trí)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-GPI"
-      }
-    ]
-  },
-  {
-    "word": "gen không định hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amorphic gene"
-      }
-    ]
-  },
-  {
-    "word": "gene",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị phân bố trên các nhiễm sắc thể có liên quan chặt chẽ với sự di truyền ở sinh vật"
-      }
-    ]
-  },
-  {
-    "word": "gen tạm thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-temporary gel"
-      }
-    ]
-  },
-  {
-    "word": "gen liên kết giãnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sex-linked gene"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dominant gene"
       }
     ]
   },
@@ -218,56 +263,11 @@
     ]
   },
   {
-    "word": "gen ức chế",
+    "word": "gen trung tính",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-represser gene"
-      }
-    ]
-  },
-  {
-    "word": "geneve",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Geneva"
-      }
-    ]
-  },
-  {
-    "word": "geocode",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geocode"
-      }
-    ]
-  },
-  {
-    "word": "georeference",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-georeference"
-      }
-    ]
-  },
-  {
-    "word": "gel hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-galate"
-      }
-    ]
-  },
-  {
-    "word": "gen gây chết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lethal gen"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neutral gene"
       }
     ]
   }

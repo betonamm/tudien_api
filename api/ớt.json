@@ -1,65 +1,10 @@
 [
   {
-    "word": "ớt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây nhỏ cùng họ với cà, hoa trắng, quả chín có màu đỏ hay vàng, vị cay, dùng làm gia vị"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ớt\n- d. Cây nhỏ cùng họ với cà, hoa trắng, quả chín có màu đỏ hay vàng, vị cay, dùng làm gia vị. Cay như ớt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ớt\n-chilli; red pepper; paprika\n=cay như ớt\n+hot as chilli\n=quả ớt tây\n+sweet pepper\n@Chuyên ngành kinh tế\n-pimento\n-piper"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ớt\n- chilli; red pepper; paprika\n=cay như ớt+hot as chilli\n=quả ớt tây+sweet pepper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(red) pepper, chili pepper, hot sauce, paprika"
-      }
-    ]
-  },
-  {
-    "word": "ớt cà chua",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ớt quả tròn, trông giống quả cà chua, ít cay"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ớt cà chua\n- Nh. ớt bị."
-      }
-    ]
-  },
-  {
-    "word": "ớt tây",
+    "word": "ớt cựa gà",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ớt tây\n- Nh. ớt cựa gà."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ớt tây [ớt tây]\n-green pepper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "green pepper"
-      }
-    ]
-  },
-  {
-    "word": "ớt cay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-chille pepper"
+        "dict_definition": "@ớt cựa gà\n- Cg. ớt tây. ớt quả vàng, hình tròn hơi dài."
       }
     ]
   },
@@ -86,6 +31,31 @@
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@ớt hiểm\n- Nh. ớt hạt tiêu."
+      }
+    ]
+  },
+  {
+    "word": "ớt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây nhỏ cùng họ với cà, hoa trắng, quả chín có màu đỏ hay vàng, vị cay, dùng làm gia vị"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ớt\n- d. Cây nhỏ cùng họ với cà, hoa trắng, quả chín có màu đỏ hay vàng, vị cay, dùng làm gia vị. Cay như ớt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ớt\n-chilli; red pepper; paprika\n=cay như ớt\n+hot as chilli\n=quả ớt tây\n+sweet pepper\n@Chuyên ngành kinh tế\n-pimento\n-piper"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ớt\n- chilli; red pepper; paprika\n=cay như ớt+hot as chilli\n=quả ớt tây+sweet pepper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(red) pepper, chili pepper, hot sauce, paprika"
       }
     ]
   },
@@ -124,20 +94,19 @@
     ]
   },
   {
-    "word": "ớt cayen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cayenne"
-      }
-    ]
-  },
-  {
-    "word": "ớt hạt tiêu",
+    "word": "ớt tây",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ớt hạt tiêu\n- Cg. ớt hiểm. ớt quả nhỏ, đỏ, nhọn đầu, rất cay."
+        "dict_definition": "@ớt tây\n- Nh. ớt cựa gà."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ớt tây [ớt tây]\n-green pepper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "green pepper"
       }
     ]
   },
@@ -151,11 +120,33 @@
     ]
   },
   {
-    "word": "ớt cựa gà",
+    "word": "ớt cay",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-chille pepper"
+      }
+    ]
+  },
+  {
+    "word": "ớt cà chua",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ớt quả tròn, trông giống quả cà chua, ít cay"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ớt cựa gà\n- Cg. ớt tây. ớt quả vàng, hình tròn hơi dài."
+        "dict_definition": "@ớt cà chua\n- Nh. ớt bị."
+      }
+    ]
+  },
+  {
+    "word": "ớt đỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cayenne pepper"
       }
     ]
   },
@@ -173,11 +164,20 @@
     ]
   },
   {
-    "word": "ớt đỏ",
+    "word": "ớt cayen",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cayenne pepper"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cayenne"
+      }
+    ]
+  },
+  {
+    "word": "ớt hạt tiêu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ớt hạt tiêu\n- Cg. ớt hiểm. ớt quả nhỏ, đỏ, nhọn đầu, rất cay."
       }
     ]
   }

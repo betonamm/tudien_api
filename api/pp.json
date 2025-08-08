@@ -1,64 +1,10 @@
 [
   {
-    "word": "ppdu báo nhận ngữ cảnh thay thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Alter Context Acknowledge PPDU (ACA PPDU)"
-      }
-    ]
-  },
-  {
     "word": "ppdu báo nhận dữ liệu tiềm năng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Capability Data Acknowledge PPDU"
-      }
-    ]
-  },
-  {
-    "word": "ppdu nhà cung ứng ngừng bất thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Abnormal Release Provider PPDU (ARP PPDU)"
-      }
-    ]
-  },
-  {
-    "word": "ppdu dữ liệu trình diễn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Presentation Data PPDU (TD PPDU)"
-      }
-    ]
-  },
-  {
-    "word": "ppdu báo nhận tái đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Resynchronize Acknowledge PPDU (RSA PPDU)"
-      }
-    ]
-  },
-  {
-    "word": "pp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "phó phòng"
-      }
-    ]
-  },
-  {
-    "word": "ppdu mô tả kết nối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Connect Presentation PPDU (CP PPDU)"
       }
     ]
   },
@@ -72,38 +18,29 @@
     ]
   },
   {
-    "word": "ppm",
+    "word": "ppdu của văn cảnh thay đổi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-PPM"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Alter Context PPDU (ACPPDU)"
       }
     ]
   },
   {
-    "word": "ppdu người dùng ngừng bất thường",
+    "word": "ppdu mô tả kết nối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Abnormal Release User PPDU (ARU PPDU)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Connect Presentation PPDU (CP PPDU)"
       }
     ]
   },
   {
-    "word": "ppdu dữ liệu trình diễn đã được nhập",
+    "word": "ppdu nhà cung ứng ngừng bất thường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Presentation Typed Data PPDU (TID PPDU)"
-      }
-    ]
-  },
-  {
-    "word": "ppdu hợp lệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-valid PPDU"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Abnormal Release Provider PPDU (ARP PPDU)"
       }
     ]
   },
@@ -117,11 +54,56 @@
     ]
   },
   {
+    "word": "ppdu báo nhận ngữ cảnh thay thế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Alter Context Acknowledge PPDU (ACA PPDU)"
+      }
+    ]
+  },
+  {
+    "word": "ppm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-PPM"
+      }
+    ]
+  },
+  {
     "word": "ppdu từ chối mô tả kết nối",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Connect Presentation Reject PPDU (CPR PPDU)"
+      }
+    ]
+  },
+  {
+    "word": "pp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "phó phòng"
+      }
+    ]
+  },
+  {
+    "word": "ppdu dữ liệu trình diễn đã được nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Presentation Typed Data PPDU (TID PPDU)"
+      }
+    ]
+  },
+  {
+    "word": "ppdu báo nhận tái đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Resynchronize Acknowledge PPDU (RSA PPDU)"
       }
     ]
   },
@@ -135,6 +117,24 @@
     ]
   },
   {
+    "word": "ppdu người dùng ngừng bất thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Abnormal Release User PPDU (ARU PPDU)"
+      }
+    ]
+  },
+  {
+    "word": "ppdu hợp lệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-valid PPDU"
+      }
+    ]
+  },
+  {
     "word": "ppdu dữ liệu phát nhanh",
     "definitions": [
       {
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "word": "ppdu của văn cảnh thay đổi",
+    "word": "ppdu dữ liệu trình diễn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Alter Context PPDU (ACPPDU)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Presentation Data PPDU (TD PPDU)"
       }
     ]
   }

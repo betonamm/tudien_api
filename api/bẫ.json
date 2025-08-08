@@ -1,19 +1,98 @@
 [
   {
-    "word": "bẫy lỏng đường hút nằm ngang",
+    "word": "bẫy tách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-horizontal suction trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-horizontal suction trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-separator\n-settling tank\n-trap\n@Chuyên ngành kỹ thuật\n-separator\n-settling tank\n-trap"
       }
     ]
   },
   {
-    "word": "bẫy đầu cơ giá xuống",
+    "word": "bẫy (lập trình)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bear trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air trap\n@Lĩnh vực: hóa học & vật liệu\n-gas trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air trap\n@Lĩnh vực: hóa học & vật liệu\n-gas trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy electron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy chứa dạng vát nhọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pinch-out trap reservoir"
+      }
+    ]
+  },
+  {
+    "word": "bẫy chứa dạng trồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-piercement trap reservoir"
+      }
+    ]
+  },
+  {
+    "word": "bẫy nitơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoẻ\nVí dụ:\n- cho trâu ăn bẫm \n - bẫm sức \n - cày sâu cuốc bẫm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dễ có được món lợi lớn\nVí dụ:\n- tự dưng được món bẫm \n - vớ bẫm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bẫm\n*adj\n-Plentiful\n=cho trâu ăn bẫm\n+to give the buffaloes plentiful food\n=cày sâu cuốc bẫm\n+to plough deep and to the hoe with great force\n-Fat (profit..)\n=vớ được món bẫm\n+to make a fat profit, to make a packet, to make a pile"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bẫm\n* adj\n- Plentiful\n=cho trâu ăn bẫm+to give the buffaloes plentiful food\n=cày sâu cuốc bẫm+to plough deep and to the hoe with great force\n- Fat (profit..)\n=vớ được món bẫm+to make a fat profit, to make a packet, to make a pile"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "deep"
+      }
+    ]
+  },
+  {
+    "word": "bẫy hệ thống không đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Asynchronous System Trap (AST)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Asynchronous System Trap (AST)"
       }
     ]
   },
@@ -31,6 +110,33 @@
     ]
   },
   {
+    "word": "bẫy hút thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy do đứt gãy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-cryotrap\n@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-cryotrap"
+      }
+    ]
+  },
+  {
     "word": "bẫy gây lệch",
     "definitions": [
       {
@@ -40,11 +146,92 @@
     ]
   },
   {
-    "word": "bẫy nitơ lỏng",
+    "word": "bẫy nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-water separator\n-water sepeostat\n-water trap\n@Chuyên ngành kỹ thuật\n-water separator\n-water sepeostat\n-water trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy tạp chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dirt trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dirt trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy lỏng ngưng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy iôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ion trap\n@Chuyên ngành kỹ thuật\n-ion trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy iôn chùm tia điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Electron Beam Ion Trap (EBIT)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Electron Beam Ion Trap (EBIT)"
+      }
+    ]
+  },
+  {
+    "word": "bẫy tốc độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-speed trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy cấu tạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-structural trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy và phân rã exiton",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-exiton decay and trapping\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-exiton decay and trapping"
+      }
+    ]
+  },
+  {
+    "word": "bẫy mã hoạt động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-operation code trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-operation code trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-heat trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-heat trap"
       }
     ]
   },
@@ -86,83 +273,11 @@
     ]
   },
   {
-    "word": "bẫy khí",
+    "word": "bẫy khởi động",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air trap\n@Lĩnh vực: hóa học & vật liệu\n-gas trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air trap\n@Lĩnh vực: hóa học & vật liệu\n-gas trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy đá khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry ice trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy dạng phao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-float trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-water separator\n-water sepeostat\n-water trap\n@Chuyên ngành kỹ thuật\n-water separator\n-water sepeostat\n-water trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-heat trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-heat trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy hấp thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap\n@Lĩnh vực: vật lý\n-adsorption trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap\n@Lĩnh vực: vật lý\n-adsorption trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy tốc độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-speed trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy lừa địch",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "decoy"
-      }
-    ]
-  },
-  {
-    "word": "bẫy chiến xa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tank trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bootstrap (vs)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bootstrap (vs)"
       }
     ]
   },
@@ -176,56 +291,11 @@
     ]
   },
   {
-    "word": "bẫy nghèo khó",
+    "word": "bẫy nguyên đại tầng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-poverty trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy đa khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry ice trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy bụi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dust trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dust trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy dầu bất chỉnh hợp (địa chất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-unconformity trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy hệ thống không đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Asynchronous System Trap (AST)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Asynchronous System Trap (AST)"
-      }
-    ]
-  },
-  {
-    "word": "bẫy lỏng đường hút kiểu đứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vertical suction trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vertical suction trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-primary stratigraphic trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-primary stratigraphic trap"
       }
     ]
   },
@@ -239,20 +309,20 @@
     ]
   },
   {
-    "word": "bẫy địa tầng",
+    "word": "bẫy đá khô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry ice trap"
       }
     ]
   },
   {
-    "word": "bẫy chứa lồi",
+    "word": "bẫy (lỏng) đường hút",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-convex trap reservoir"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-suction line trap"
       }
     ]
   },
@@ -266,47 +336,11 @@
     ]
   },
   {
-    "word": "bẫy tạp chất",
+    "word": "bẫy địa tầng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dirt trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dirt trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy lấy mẫu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sample trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sample trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy nitơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-nitrogen trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy rỗng (của tầng chứa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-porosity trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-porosity trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy trầm tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deposition trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deposition trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap"
       }
     ]
   },
@@ -316,78 +350,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-automatic trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-automatic trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy nguyên đại tầng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-primary stratigraphic trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-primary stratigraphic trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy gom dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil transformer\n@Chuyên ngành kỹ thuật\n-oil transformer"
-      }
-    ]
-  },
-  {
-    "word": "bẫy (đọng) dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gasoline trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy chứa dạng trồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-piercement trap reservoir"
-      }
-    ]
-  },
-  {
-    "word": "bẫy tách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-separator\n-settling tank\n-trap\n@Chuyên ngành kỹ thuật\n-separator\n-settling tank\n-trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy chứa dạng vát nhọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pinch-out trap reservoir"
-      }
-    ]
-  },
-  {
-    "word": "bẫy (lập trình)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy lỗi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error trapping\n@Lĩnh vực: điện tử & viễn thông\n-trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error trapping\n@Lĩnh vực: điện tử & viễn thông\n-trap"
       }
     ]
   },
@@ -413,117 +375,20 @@
     ]
   },
   {
-    "word": "bẫy do đứt gãy",
+    "word": "bẫy cấu trúc (địa chất)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-structural strap"
       }
     ]
   },
   {
-    "word": "bẫm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoẻ\nVí dụ:\n- cho trâu ăn bẫm \n - bẫm sức \n - cày sâu cuốc bẫm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dễ có được món lợi lớn\nVí dụ:\n- tự dưng được món bẫm \n - vớ bẫm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bẫm\n*adj\n-Plentiful\n=cho trâu ăn bẫm\n+to give the buffaloes plentiful food\n=cày sâu cuốc bẫm\n+to plough deep and to the hoe with great force\n-Fat (profit..)\n=vớ được món bẫm\n+to make a fat profit, to make a packet, to make a pile"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bẫm\n* adj\n- Plentiful\n=cho trâu ăn bẫm+to give the buffaloes plentiful food\n=cày sâu cuốc bẫm+to plough deep and to the hoe with great force\n- Fat (profit..)\n=vớ được món bẫm+to make a fat profit, to make a packet, to make a pile"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "deep"
-      }
-    ]
-  },
-  {
-    "word": "bẫy cryo",
+    "word": "bẫy trầm tích",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cryogenic trap\n-cryotrap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy ngưng tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-condensing trap\n@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-condensing trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy hút thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy đứt gãy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy hồi dầu kiểu phao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil return float trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil return float trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy (lỏng) đường hút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-suction line trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-magnetic catcher\n@Chuyên ngành kỹ thuật\n-magnetic catcher"
-      }
-    ]
-  },
-  {
-    "word": "bẫy dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy sóng (ăng ten)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-trap\n@Chuyên ngành kỹ thuật\n-trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deposition trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deposition trap"
       }
     ]
   },
@@ -537,56 +402,11 @@
     ]
   },
   {
-    "word": "bẫy mã hoạt động",
+    "word": "bẫy dạng phao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-operation code trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-operation code trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy địa tầng (địa chất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy cấu tạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-structural trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy cát (địa chất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sand trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy tóp dần (mỏ dầu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pinch-out trap\n@Chuyên ngành kỹ thuật\n-pinch-out trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy cấu trúc (địa chất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-structural strap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-float trap"
       }
     ]
   },
@@ -600,110 +420,56 @@
     ]
   },
   {
-    "word": "bẫy chứa dầu",
+    "word": "bẫy hạt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reservoir trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reservoir trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-particle trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-particle trap"
       }
     ]
   },
   {
-    "word": "bẫy chuột",
+    "word": "bẫy dầu bất chỉnh hợp (địa chất)",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mousetrap"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-unconformity trap"
       }
     ]
   },
   {
-    "word": "bẫy và phân rã exiton",
+    "word": "bẫy dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-exiton decay and trapping\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-exiton decay and trapping"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil trap"
       }
     ]
   },
   {
-    "word": "bẫy tiền mặt",
+    "word": "bẫy gom dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-liquidity trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil transformer\n@Chuyên ngành kỹ thuật\n-oil transformer"
       }
     ]
   },
   {
-    "word": "bẫy electron",
+    "word": "bẫy nitơ lỏng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electron trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen trap"
       }
     ]
   },
   {
-    "word": "bẫy iôn",
+    "word": "bẫy bụi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ion trap\n@Chuyên ngành kỹ thuật\n-ion trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy lỏng ngưng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-cryotrap\n@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-cryotrap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy lạnh sâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy iôn chùm tia điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Electron Beam Ion Trap (EBIT)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Electron Beam Ion Trap (EBIT)"
-      }
-    ]
-  },
-  {
-    "word": "bẫy hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vapour trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vapour trap"
-      }
-    ]
-  },
-  {
-    "word": "bẫy (kỹ thuật) lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cold trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dust trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dust trap"
       }
     ]
   },
@@ -717,38 +483,65 @@
     ]
   },
   {
-    "word": "bẫy hạt",
+    "word": "bẫy nghèo khó",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-particle trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-particle trap"
+        "dict_definition": "@Chuyên ngành kinh tế\n-poverty trap"
       }
     ]
   },
   {
-    "word": "bẫy khởi động",
+    "word": "bẫy chứa lồi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bootstrap (vs)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bootstrap (vs)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-convex trap reservoir"
       }
     ]
   },
   {
-    "word": "bẫy dân số",
+    "word": "bẫy ngưng tụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-population trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-condensing trap\n@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n-condensing trap"
       }
     ]
   },
   {
-    "word": "bẫy phần ngưng",
+    "word": "bẫy tóp dần (mỏ dầu)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pinch-out trap\n@Chuyên ngành kỹ thuật\n-pinch-out trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy (đọng) dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gasoline trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy địa tầng (địa chất)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stratigraphic trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy chiến xa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tank trap"
       }
     ]
   },
@@ -762,11 +555,218 @@
     ]
   },
   {
+    "word": "bẫy lỏng đường hút nằm ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-horizontal suction trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-horizontal suction trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy lỗi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error trapping\n@Lĩnh vực: điện tử & viễn thông\n-trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error trapping\n@Lĩnh vực: điện tử & viễn thông\n-trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy hồi dầu kiểu phao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil return float trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil return float trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-magnetic catcher\n@Chuyên ngành kỹ thuật\n-magnetic catcher"
+      }
+    ]
+  },
+  {
+    "word": "bẫy đứt gãy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fault trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy lừa địch",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "decoy"
+      }
+    ]
+  },
+  {
+    "word": "bẫy rỗng (của tầng chứa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-porosity trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-porosity trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy chuột",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mousetrap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy (kỹ thuật) lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-cold trap"
+      }
+    ]
+  },
+  {
     "word": "bẫy hyđrocacbon (địa chất)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hydrocarbon trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy tiền mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-liquidity trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy phần ngưng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy đầu cơ giá xuống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bear trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy sóng (ăng ten)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-trap\n@Chuyên ngành kỹ thuật\n-trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy đa khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry ice trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy lấy mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sample trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sample trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy hấp thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap\n@Lĩnh vực: vật lý\n-adsorption trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-absorber trap\n@Lĩnh vực: vật lý\n-adsorption trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vapour trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vapour trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy dân số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-population trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy lỏng đường hút kiểu đứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vertical suction trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-vertical suction trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy lạnh sâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap\n@Chuyên ngành kỹ thuật\n-cold trap\n-condensation trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy chứa dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reservoir trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reservoir trap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy cryo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cryogenic trap\n-cryotrap"
+      }
+    ]
+  },
+  {
+    "word": "bẫy cát (địa chất)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sand trap"
       }
     ]
   }

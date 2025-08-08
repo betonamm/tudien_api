@@ -1,5 +1,64 @@
 [
   {
+    "word": "tặng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cho, trao cho nhằm khen ngợi, khuyến khích hoặc để tỏ lòng quý mến\nVí dụ:\n- tôi tặng hoa cho người yêu \n - bố tặng tôi con ngựa quý"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tặng\n- đg. Cho để tỏ lòng quý mến."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tặng\n*verb\n-to present, to give\n@Chuyên ngành kinh tế\n-donation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mammock"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tặng\n* verb\n- to present, to give"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to present, give, offer, award, donate"
+      }
+    ]
+  },
+  {
+    "word": "tặc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) rebel; (2) ill intention"
+      }
+    ]
+  },
+  {
+    "word": "tặng thưởng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tặng để khen thưởng\nVí dụ:\n- nhà nước tặng thưởng danh hiệu anh hùng lao động cho đơn vị"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tặng thưởng\n- đgt. Tặng để khen ngợi về thành tích, công lao của cá nhân hay tập thể: được nhà nước tặng thưởng huân chương lao động  tặng thưởng giấy khen cho các em học sinh giỏi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tặng thưởng\n*verb\n-to award"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tặng thưởng\n* verb\n- to award"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to award"
+      }
+    ]
+  },
+  {
     "word": "tặng phong",
     "definitions": [
       {
@@ -13,11 +72,20 @@
     ]
   },
   {
-    "word": "tặng bằng danh dự",
+    "word": "tặng giữa những người còn sống",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to award an honorary degree"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lifetime transfer"
+      }
+    ]
+  },
+  {
+    "word": "tặng khoản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-grant"
       }
     ]
   },
@@ -35,33 +103,11 @@
     ]
   },
   {
-    "word": "tặc",
+    "word": "tặng bằng danh dự",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(1) rebel; (2) ill intention"
-      }
-    ]
-  },
-  {
-    "word": "tặng giữa những người còn sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lifetime transfer"
-      }
-    ]
-  },
-  {
-    "word": "tặc tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tặc tử [tặc tử"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bad son"
+        "dict_definition": "to award an honorary degree"
       }
     ]
   },
@@ -117,61 +163,15 @@
     ]
   },
   {
-    "word": "tặng thưởng",
+    "word": "tặc tử",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tặng để khen thưởng\nVí dụ:\n- nhà nước tặng thưởng danh hiệu anh hùng lao động cho đơn vị"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tặng thưởng\n- đgt. Tặng để khen ngợi về thành tích, công lao của cá nhân hay tập thể: được nhà nước tặng thưởng huân chương lao động  tặng thưởng giấy khen cho các em học sinh giỏi."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@tặng thưởng\n*verb\n-to award"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tặng thưởng\n* verb\n- to award"
+        "dict_definition": "@tặc tử [tặc tử"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to award"
-      }
-    ]
-  },
-  {
-    "word": "tặng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cho, trao cho nhằm khen ngợi, khuyến khích hoặc để tỏ lòng quý mến\nVí dụ:\n- tôi tặng hoa cho người yêu \n - bố tặng tôi con ngựa quý"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tặng\n- đg. Cho để tỏ lòng quý mến."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tặng\n*verb\n-to present, to give\n@Chuyên ngành kinh tế\n-donation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mammock"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tặng\n* verb\n- to present, to give"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to present, give, offer, award, donate"
-      }
-    ]
-  },
-  {
-    "word": "tặng khoản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-grant"
+        "dict_definition": "bad son"
       }
     ]
   }

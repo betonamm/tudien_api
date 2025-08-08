@@ -1,49 +1,35 @@
 [
   {
+    "word": "eo sèo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng người ồn ào, lộn xộn từ xa vọng lại\nVí dụ:\n- \"Lặn lội thân cò khi quãng vắng, Eo sèo mặt nước buổi đò đông.\" (Trần Tế Xương; 4)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kêu ca, phàn nàn một cách khó chịu\nVí dụ:\n- bị vợ eo sèo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@eo sèo\n- 1. đg. Nh. Eo óc, ngh. 2: Có dăm món nợ eo sèo bên tai (Tản Đà). 2. t. Có nhiều người nói ồn ào: Eo sèo mặt nước buổi đò đông (Trần Tế xương)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@eo sèo\n-Harp on scold\n=Lấy phải bà vợ cư eo sèo suốt ngày\n+To have married a woman who keeps scolding (nagging) the whole day\n-Raise a din"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@eo sèo\n- Harp on scold\n=Lấy phải bà vợ cư eo sèo suốt ngày+To have married a woman who keeps scolding (nagging) the whole day\n-Raise a din"
+      }
+    ]
+  },
+  {
     "word": "eo ếch",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "vùng thắt lưng\nVí dụ:\n- ôm ngang eo ếch"
-      }
-    ]
-  },
-  {
-    "word": "eo biển (địa lý)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-strait"
-      }
-    ]
-  },
-  {
-    "word": "eo lưng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@eo lưng\n- tt. Nói đoạn giữa thắt lại, hai đầu phình ra: Quả bầu eo lưng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@eo lưng\n*noun\n-waist"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@eo lưng\n* noun\n-waist"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "waist"
-      }
-    ]
-  },
-  {
-    "word": "eo tuyến tiền liệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isthmus prostatae"
       }
     ]
   },
@@ -82,61 +68,54 @@
     ]
   },
   {
-    "word": "eo tuyến giáp",
+    "word": "eo niệu dạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isthmus gaindulae thyroideae"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isthmus arethrae"
       }
     ]
   },
   {
-    "word": "eo biển",
+    "word": "eo biển hẹp (đạo hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pass"
+      }
+    ]
+  },
+  {
+    "word": "eo đất",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần biển dài và hẹp nằm ở giữa hai khoảng đất, nối liền hai biển với nhau"
+        "dict_definition": "phần đất dài và hẹp, hai bên là biển"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@eo biển\n- d. Phần biển dài và hẹp nằm ở giữa hai khoảng đất, nối liền hai biển với nhau."
+        "dict_definition": "@eo đất\n- dt. Dải đất hẹp dài, hai bên có biển ép lại."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@eo biển\n*noun\n-strait; channel\n@Chuyên ngành kỹ thuật\n-channel\n-gully\n-pass\n-pass party\n-sea-arm\n-sound\n-strait"
+        "dict_definition": "@eo đất\n*noun\n-Isthmus\n@Chuyên ngành kỹ thuật\n-isthmus\n-neck of land"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@eo biển\n* noun\n- strait; channel"
+        "dict_definition": "@eo đất\n* noun\n- Isthmus"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "strait, channel"
+        "dict_definition": "isthmus"
       }
     ]
   },
   {
-    "word": "eo sèo",
+    "word": "eo lưng ong",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng người ồn ào, lộn xộn từ xa vọng lại\nVí dụ:\n- \"Lặn lội thân cò khi quãng vắng, Eo sèo mặt nước buổi đò đông.\" (Trần Tế Xương; 4)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kêu ca, phàn nàn một cách khó chịu\nVí dụ:\n- bị vợ eo sèo"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@eo sèo\n- 1. đg. Nh. Eo óc, ngh. 2: Có dăm món nợ eo sèo bên tai (Tản Đà). 2. t. Có nhiều người nói ồn ào: Eo sèo mặt nước buổi đò đông (Trần Tế xương)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@eo sèo\n-Harp on scold\n=Lấy phải bà vợ cư eo sèo suốt ngày\n+To have married a woman who keeps scolding (nagging) the whole day\n-Raise a din"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@eo sèo\n- Harp on scold\n=Lấy phải bà vợ cư eo sèo suốt ngày+To have married a woman who keeps scolding (nagging) the whole day\n-Raise a din"
+        "dict_name": "VNEDICT",
+        "dict_definition": "wasp waist"
       }
     ]
   },
@@ -166,11 +145,63 @@
     ]
   },
   {
+    "word": "eo cột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-column necking"
+      }
+    ]
+  },
+  {
+    "word": "eo biển hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-inlet"
+      }
+    ]
+  },
+  {
+    "word": "eo biển",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần biển dài và hẹp nằm ở giữa hai khoảng đất, nối liền hai biển với nhau"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@eo biển\n- d. Phần biển dài và hẹp nằm ở giữa hai khoảng đất, nối liền hai biển với nhau."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@eo biển\n*noun\n-strait; channel\n@Chuyên ngành kỹ thuật\n-channel\n-gully\n-pass\n-pass party\n-sea-arm\n-sound\n-strait"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@eo biển\n* noun\n- strait; channel"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "strait, channel"
+      }
+    ]
+  },
+  {
     "word": "eo dưới",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-apertura pelvis inferior\n-pelvic strait inferior"
+      }
+    ]
+  },
+  {
+    "word": "eo trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pelvic strait superior"
       }
     ]
   },
@@ -184,11 +215,93 @@
     ]
   },
   {
-    "word": "eo biển hẹp (đạo hàng)",
+    "word": "eo mũ cột",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pass"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-capital necking"
+      }
+    ]
+  },
+  {
+    "word": "eo tuyến tiền liệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isthmus prostatae"
+      }
+    ]
+  },
+  {
+    "word": "eo biển (địa lý)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-strait"
+      }
+    ]
+  },
+  {
+    "word": "eo tuyến giáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isthmus gaindulae thyroideae"
+      }
+    ]
+  },
+  {
+    "word": "eophorit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-eosphorite"
+      }
+    ]
+  },
+  {
+    "word": "eo lưng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@eo lưng\n- tt. Nói đoạn giữa thắt lại, hai đầu phình ra: Quả bầu eo lưng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@eo lưng\n*noun\n-waist"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@eo lưng\n* noun\n-waist"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "waist"
+      }
+    ]
+  },
+  {
+    "word": "eo hẹp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thiếu, hạn chế, không có nhiều, không được rộng rãi\nVí dụ:\n- thời gian eo hẹp \n - cuộc sống khó khăn, eo hẹp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@eo hẹp\n- t. Không được rộng rãi, túng thiếu, khó khăn: Đồng tiền eo hẹp; Sống eo hẹp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@eo hẹp\n*noun\n-scanty; want; tight\n=tiền bạc eo hẹp\n+to have scanty money"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@eo hẹp\n* noun\n- scanty; want; tight\n=tiền bạc eo hẹp+to have scanty money"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "scanty, tight"
       }
     ]
   },
@@ -222,76 +335,6 @@
     ]
   },
   {
-    "word": "eophorit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-eosphorite"
-      }
-    ]
-  },
-  {
-    "word": "eo hẹp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thiếu, hạn chế, không có nhiều, không được rộng rãi\nVí dụ:\n- thời gian eo hẹp \n - cuộc sống khó khăn, eo hẹp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@eo hẹp\n- t. Không được rộng rãi, túng thiếu, khó khăn: Đồng tiền eo hẹp; Sống eo hẹp."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@eo hẹp\n*noun\n-scanty; want; tight\n=tiền bạc eo hẹp\n+to have scanty money"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@eo hẹp\n* noun\n- scanty; want; tight\n=tiền bạc eo hẹp+to have scanty money"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "scanty, tight"
-      }
-    ]
-  },
-  {
-    "word": "eo biển hẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-inlet"
-      }
-    ]
-  },
-  {
-    "word": "eo mũ cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-capital necking"
-      }
-    ]
-  },
-  {
-    "word": "eo niệu dạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isthmus arethrae"
-      }
-    ]
-  },
-  {
-    "word": "eo lưng ong",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wasp waist"
-      }
-    ]
-  },
-  {
     "word": "eo",
     "definitions": [
       {
@@ -317,49 +360,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(1) curved; straights (water); (2) waist, back; (3) horrible"
-      }
-    ]
-  },
-  {
-    "word": "eo cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-column necking"
-      }
-    ]
-  },
-  {
-    "word": "eo đất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần đất dài và hẹp, hai bên là biển"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@eo đất\n- dt. Dải đất hẹp dài, hai bên có biển ép lại."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@eo đất\n*noun\n-Isthmus\n@Chuyên ngành kỹ thuật\n-isthmus\n-neck of land"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@eo đất\n* noun\n- Isthmus"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "isthmus"
-      }
-    ]
-  },
-  {
-    "word": "eo trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pelvic strait superior"
       }
     ]
   }

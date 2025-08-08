@@ -1,10 +1,10 @@
 [
   {
-    "word": "pdu tin quản lý hệ thống",
+    "word": "pdu quản lý đo thử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-System Management Protocol Data Unit (SMPDU)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Test Management PDU (TM-PDU)"
       }
     ]
   },
@@ -18,20 +18,20 @@
     ]
   },
   {
-    "word": "pd",
+    "word": "pdu đáp ứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paladium"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-response PDU"
       }
     ]
   },
   {
-    "word": "pdu quản lý đo thử",
+    "word": "pdu thông tin",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Test Management PDU (TM-PDU)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Information PDU (i-PDU)"
       }
     ]
   },
@@ -49,11 +49,11 @@
     ]
   },
   {
-    "word": "pdu thông tin",
+    "word": "pd",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Information PDU (i-PDU)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-paladium"
       }
     ]
   },
@@ -67,11 +67,11 @@
     ]
   },
   {
-    "word": "pdu đáp ứng",
+    "word": "pdu tin quản lý hệ thống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-response PDU"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-System Management Protocol Data Unit (SMPDU)"
       }
     ]
   }

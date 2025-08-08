@@ -1,14 +1,27 @@
 [
   {
-    "word": "ú a ú ớ",
+    "word": "ú òa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "peekaboo"
+      }
+    ]
+  },
+  {
+    "word": "ú tim",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ú ớ [nhưng ý nhấn mạnh hơn]"
+        "dict_definition": "trò chơi đi trốn, đi tìm của trẻ em\nVí dụ:\n- chơi trò ú tim"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ú a ú ớ - như"
+        "dict_definition": "@ú tim [ú tim]\n-("
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hide and seek"
       }
     ]
   },
@@ -43,32 +56,6 @@
     ]
   },
   {
-    "word": "ú tim",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trò chơi đi trốn, đi tìm của trẻ em\nVí dụ:\n- chơi trò ú tim"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ú tim [ú tim]\n-("
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hide and seek"
-      }
-    ]
-  },
-  {
-    "word": "ú a ú a",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to mutter"
-      }
-    ]
-  },
-  {
     "word": "ú oà",
     "definitions": [
       {
@@ -82,7 +69,20 @@
     ]
   },
   {
-    "word": "ú ứ",
+    "word": "ú a ú ớ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ú ớ [nhưng ý nhấn mạnh hơn]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ú a ú ớ - như"
+      }
+    ]
+  },
+  {
+    "word": "ú a ú a",
     "definitions": [
       {
         "dict_name": "VNEDICT",
@@ -91,11 +91,11 @@
     ]
   },
   {
-    "word": "ú òa",
+    "word": "ú ứ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "peekaboo"
+        "dict_definition": "to mutter"
       }
     ]
   },

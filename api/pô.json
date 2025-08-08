@@ -1,19 +1,28 @@
 [
   {
-    "word": "pôlyme cacboxyl hóa",
+    "word": "pôlyme ghép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-carboxylated polymer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-graft polymer"
       }
     ]
   },
   {
-    "word": "pôlyme đồng nhất",
+    "word": "pôlyme tự gia cường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-homopolymer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-self-reinforcing polymer"
+      }
+    ]
+  },
+  {
+    "word": "pô pơ lin",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "poplin"
       }
     ]
   },
@@ -27,11 +36,83 @@
     ]
   },
   {
+    "word": "pôlyme ngưng tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-condensation polymer"
+      }
+    ]
+  },
+  {
+    "word": "pôlyme mạch thẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-linear polymer"
+      }
+    ]
+  },
+  {
+    "word": "pô-li-ê-ti-len",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@pô-li-ê-ti-len [pô-li-ê-ti-len]\n-(hoá học) (tiếng Pháp gọi là Polyéthylène) polythene;  polyethylene (used especially for containers, kitchenware, and tubing, or in the form of films and sheets for packaging)"
+      }
+    ]
+  },
+  {
+    "word": "pôlyme dẫn điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-conducting polymer"
+      }
+    ]
+  },
+  {
+    "word": "pôlyme hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-polymerize"
+      }
+    ]
+  },
+  {
+    "word": "pôlyme đồng nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-homopolymer"
+      }
+    ]
+  },
+  {
     "word": "pôlyme cộng (các monome)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-addition polymer"
+      }
+    ]
+  },
+  {
+    "word": "pôlyme hữu cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-organic polymer"
+      }
+    ]
+  },
+  {
+    "word": "pôlyme hạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-popcorn polymers"
       }
     ]
   },
@@ -49,38 +130,24 @@
     ]
   },
   {
-    "word": "pô-sét",
+    "word": "pô-pơ-lin",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@pô-pơ-lin\n- d. Vải mỏng sợi nhỏ và bóng."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@pô-sét [pô-sét]\n-(từ gốc tiếng Pháp là Pochette) sleeve;  pouch\n-(từ gốc tiếng Pháp là Pochette) pocket handkerchief"
+        "dict_definition": "@pô-pơ-lin [pô pơ lin]\n-(tiếng Pháp gọi là Popeline) poplin (used in making clothing and upholstery)"
       }
     ]
   },
   {
-    "word": "pôlyme hữu cơ",
+    "word": "pôlyme hai sợi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-organic polymer"
-      }
-    ]
-  },
-  {
-    "word": "pô li me",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "polymer"
-      }
-    ]
-  },
-  {
-    "word": "pôlyme mạch thẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-linear polymer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ladder polymer"
       }
     ]
   },
@@ -103,86 +170,38 @@
     ]
   },
   {
-    "word": "pôlyme hai sợi",
+    "word": "pô-sét",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ladder polymer"
+        "dict_definition": "@pô-sét [pô-sét]\n-(từ gốc tiếng Pháp là Pochette) sleeve;  pouch\n-(từ gốc tiếng Pháp là Pochette) pocket handkerchief"
       }
     ]
   },
   {
-    "word": "pôlyme nhạy sáng",
+    "word": "pôlyme",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-photoresist"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-polymer\n@Lĩnh vực: điện lạnh\n-polymeric"
       }
     ]
   },
   {
-    "word": "pô-pơ-lin",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@pô-pơ-lin\n- d. Vải mỏng sợi nhỏ và bóng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@pô-pơ-lin [pô pơ lin]\n-(tiếng Pháp gọi là Popeline) poplin (used in making clothing and upholstery)"
-      }
-    ]
-  },
-  {
-    "word": "pô pơ lin",
+    "word": "pô li me",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "poplin"
+        "dict_definition": "polymer"
       }
     ]
   },
   {
-    "word": "pôlyme hóa",
+    "word": "pôlyme có độ bền cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-polymerize"
-      }
-    ]
-  },
-  {
-    "word": "pôlyme ngưng tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-condensation polymer"
-      }
-    ]
-  },
-  {
-    "word": "pôlyme tự gia cường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-self-reinforcing polymer"
-      }
-    ]
-  },
-  {
-    "word": "pô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lần lên phim và bấm máy để chụp ảnh\nVí dụ:\n- chụp vài pô ảnh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@pô\n-Shot\n=Một pô ảnh\n+A camera shot, an exposure"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@pô\n- Shot\n=Một pô ảnh+A camera shot, an exposure"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ultrahigh-strength polymer"
       }
     ]
   },
@@ -205,11 +224,28 @@
     ]
   },
   {
-    "word": "pôlyme ghép",
+    "word": "pôlyme cacboxyl hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-graft polymer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-carboxylated polymer"
+      }
+    ]
+  },
+  {
+    "word": "pô",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lần lên phim và bấm máy để chụp ảnh\nVí dụ:\n- chụp vài pô ảnh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@pô\n-Shot\n=Một pô ảnh\n+A camera shot, an exposure"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@pô\n- Shot\n=Một pô ảnh+A camera shot, an exposure"
       }
     ]
   },
@@ -223,47 +259,11 @@
     ]
   },
   {
-    "word": "pôlyme",
+    "word": "pôlyme nhạy sáng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-polymer\n@Lĩnh vực: điện lạnh\n-polymeric"
-      }
-    ]
-  },
-  {
-    "word": "pôlyme dẫn điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-conducting polymer"
-      }
-    ]
-  },
-  {
-    "word": "pô-li-ê-ti-len",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@pô-li-ê-ti-len [pô-li-ê-ti-len]\n-(hoá học) (tiếng Pháp gọi là Polyéthylène) polythene;  polyethylene (used especially for containers, kitchenware, and tubing, or in the form of films and sheets for packaging)"
-      }
-    ]
-  },
-  {
-    "word": "pôlyme hạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-popcorn polymers"
-      }
-    ]
-  },
-  {
-    "word": "pôlyme có độ bền cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ultrahigh-strength polymer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-photoresist"
       }
     ]
   }

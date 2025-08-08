@@ -1,30 +1,5 @@
 [
   {
-    "word": "ém nhẹm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giấu thật kín, không để lộ cho ai biết\nVí dụ:\n- bọn họ ém nhẹm vụ việc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ém nhẹm\n- đg. (kng.). Giấu kín, không để lộ cho ai biết. Vụ việc bị ém nhẹm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ém nhẹm\n*verb\n-to hush up; to smother up"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ém nhẹm\n* verb\n- to hush up; to smother up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hush up"
-      }
-    ]
-  },
-  {
     "word": "ém",
     "definitions": [
       {
@@ -62,6 +37,19 @@
     ]
   },
   {
+    "word": "ém quân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ém quân [ém quân]\n-to conceal troops"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to conceal troops"
+      }
+    ]
+  },
+  {
     "word": "ém dẹm",
     "definitions": [
       {
@@ -75,15 +63,27 @@
     ]
   },
   {
-    "word": "ém quân",
+    "word": "ém nhẹm",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "giấu thật kín, không để lộ cho ai biết\nVí dụ:\n- bọn họ ém nhẹm vụ việc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ém nhẹm\n- đg. (kng.). Giấu kín, không để lộ cho ai biết. Vụ việc bị ém nhẹm."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@ém quân [ém quân]\n-to conceal troops"
+        "dict_definition": "@ém nhẹm\n*verb\n-to hush up; to smother up"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ém nhẹm\n* verb\n- to hush up; to smother up"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to conceal troops"
+        "dict_definition": "to hush up"
       }
     ]
   }

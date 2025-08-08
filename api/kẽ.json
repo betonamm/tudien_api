@@ -1,26 +1,35 @@
 [
   {
-    "word": "kẽ",
+    "word": "kẽ hở",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chỗ tiếp giáp không khít nhau làm thành khoảng trống nhỏ\nVí dụ:\n- kẽ răng \n - tia nắng chiếu qua kẽ lá"
-      },
-      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@kẽ\n- dt Khe nhỏ: Những ánh lửa bếp chờn vờn qua những kẽ liếp (Ng-hồng); ánh sáng lọt qua kẽ cửa."
+        "dict_definition": "@kẽ hở\n- dt Điều sơ hở khiến có kẻ lợi dụng: Trơng cơ chế quản lí còn có kẽ hở."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@kẽ\n*noun\n-crevice"
+        "dict_definition": "@kẽ hở\n*noun\n-split; slit; aperture\n@Chuyên ngành kinh tế\n-leaks"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@kẽ\n* noun\n- crevice"
+        "dict_definition": "@kẽ hở\n* noun\n- split; slit; aperture"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "crevice"
+        "dict_definition": "crack, crevice, split, slit, aperture"
+      }
+    ]
+  },
+  {
+    "word": "kẽ tóc chân tơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kẽ tóc chân tơ [kẽ tóc chân tơ]\n-in minute detail"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in minute detail"
       }
     ]
   },
@@ -50,83 +59,15 @@
     ]
   },
   {
-    "word": "kẽ nứt",
+    "word": "kẽ răng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@kẽ nứt [kẽ nứt]\n-slit, fissure\n@Chuyên ngành kinh tế\n-slit"
+        "dict_definition": "@kẽ răng [kẽ răng]\n*danh từ\n-space between teeth"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "slit, fissure"
-      }
-    ]
-  },
-  {
-    "word": "kẽ tóc chân tơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@kẽ tóc chân tơ [kẽ tóc chân tơ]\n-in minute detail"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in minute detail"
-      }
-    ]
-  },
-  {
-    "word": "kẽo kẹt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng những tiếng trầm bổng, dài ngắn vang lên đều đều như tiếng của hai vật bằng tre, gỗ cọ xiết vào nhau\nVí dụ:\n- tiếng võng kẽo kẹt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@kẽo kẹt\n- Tiếng cây tre cọ xát vào nhau, hay tiếng võng đưa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@kẽo kẹt\n-như kẹt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@kẽo kẹt\n- như kẹt"
-      }
-    ]
-  },
-  {
-    "word": "kẽ nẻ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@kẽ nẻ [kẽ nẻ]\n-crevice"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crevice"
-      }
-    ]
-  },
-  {
-    "word": "kẽ hở",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@kẽ hở\n- dt Điều sơ hở khiến có kẻ lợi dụng: Trơng cơ chế quản lí còn có kẽ hở."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@kẽ hở\n*noun\n-split; slit; aperture\n@Chuyên ngành kinh tế\n-leaks"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@kẽ hở\n* noun\n- split; slit; aperture"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crack, crevice, split, slit, aperture"
+        "dict_definition": "space between teeth"
       }
     ]
   },
@@ -148,6 +89,57 @@
     ]
   },
   {
+    "word": "kẽ nứt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kẽ nứt [kẽ nứt]\n-slit, fissure\n@Chuyên ngành kinh tế\n-slit"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "slit, fissure"
+      }
+    ]
+  },
+  {
+    "word": "kẽ tóc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kẽ tóc [kẽ tóc]\n-interval between hairs on the scalp"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "interval between hairs on the scalp"
+      }
+    ]
+  },
+  {
+    "word": "kẽ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chỗ tiếp giáp không khít nhau làm thành khoảng trống nhỏ\nVí dụ:\n- kẽ răng \n - tia nắng chiếu qua kẽ lá"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@kẽ\n- dt Khe nhỏ: Những ánh lửa bếp chờn vờn qua những kẽ liếp (Ng-hồng); ánh sáng lọt qua kẽ cửa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kẽ\n*noun\n-crevice"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@kẽ\n* noun\n- crevice"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "crevice"
+      }
+    ]
+  },
+  {
     "word": "kẽo cà kẽo kẹt",
     "definitions": [
       {
@@ -161,6 +153,19 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "creaking sound"
+      }
+    ]
+  },
+  {
+    "word": "kẽ nẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kẽ nẻ [kẽ nẻ]\n-crevice"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "crevice"
       }
     ]
   },
@@ -182,28 +187,23 @@
     ]
   },
   {
-    "word": "kẽ tóc",
+    "word": "kẽo kẹt",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@kẽ tóc [kẽ tóc]\n-interval between hairs on the scalp"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng những tiếng trầm bổng, dài ngắn vang lên đều đều như tiếng của hai vật bằng tre, gỗ cọ xiết vào nhau\nVí dụ:\n- tiếng võng kẽo kẹt"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "interval between hairs on the scalp"
-      }
-    ]
-  },
-  {
-    "word": "kẽ răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@kẽ răng [kẽ răng]\n*danh từ\n-space between teeth"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@kẽo kẹt\n- Tiếng cây tre cọ xát vào nhau, hay tiếng võng đưa."
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "space between teeth"
+        "dict_name": "SPDict",
+        "dict_definition": "@kẽo kẹt\n-như kẹt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@kẽo kẹt\n- như kẹt"
       }
     ]
   }

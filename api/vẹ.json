@@ -1,41 +1,46 @@
 [
   {
-    "word": "vẹo vọ",
+    "word": "vẹo răng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bị vẹo, lệch, mất cân đối\nVí dụ:\n- dáng đi vẹo vọ \n - bàn ghế vẹo vọ"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@vẹo vọ - như"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dilaceration"
       }
     ]
   },
   {
-    "word": "vẹc",
+    "word": "vẹo cổ do thần kinh",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "loài linh trưởng đuôi dài, thân gầy, sống thành đàn trên cây, chuyên ăn lá và quả cây"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurogenic torticollis"
       }
     ]
   },
   {
-    "word": "vẹo cột sống bệnh xương",
+    "word": "vẹo cột sống lòi xương",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-osteopathic scoliosis"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rachitic scoliosis"
       }
     ]
   },
   {
-    "word": "vẹo cổ ra phía sau",
+    "word": "vẹo cột sống do thói quen",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retrocollis"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-habit scoliosis"
+      }
+    ]
+  },
+  {
+    "word": "vẹo ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-valgus"
       }
     ]
   },
@@ -57,11 +62,103 @@
     ]
   },
   {
-    "word": "vẹo cổ do thần kinh",
+    "word": "vẹn chữ tùng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vẹn chữ tùng\n- trọn đạo làm vợ (theo chồng)"
+      }
+    ]
+  },
+  {
+    "word": "vẹt xanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurogenic torticollis"
+        "dict_definition": "@vẹt xanh - love bird"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "love bird"
+      }
+    ]
+  },
+  {
+    "word": "vẹo cổ bẩm sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-congenital torticollis"
+      }
+    ]
+  },
+  {
+    "word": "vẹo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bị nghiêng, bị lệch hẳn về một bên, không thẳng, không cân như bình thường\nVí dụ:\n- bị vẹo cột sống \n - gió mạnh làm túp lều vẹo hẳn về một bên"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vẹo - become deformed\n-twisted, crooked, distored, chage in form/shape"
+      }
+    ]
+  },
+  {
+    "word": "vẹn tuyền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vẹn tuyền - complete, full"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "complete, full"
+      }
+    ]
+  },
+  {
+    "word": "vẹc bông lau",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem bạc mày"
+      }
+    ]
+  },
+  {
+    "word": "vẹo cổ ra phía sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retrocollis"
+      }
+    ]
+  },
+  {
+    "word": "vẹm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trai to ở ven biển, vỏ màu xanh đen\nVí dụ:\n- ăn như vẹm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vẹm [vẹm]\n-(động vật học) mussel"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mussel"
+      }
+    ]
+  },
+  {
+    "word": "vẹo cột sống bệnh xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-osteopathic scoliosis"
       }
     ]
   },
@@ -87,15 +184,15 @@
     ]
   },
   {
-    "word": "vẹo",
+    "word": "vẹo vọ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bị nghiêng, bị lệch hẳn về một bên, không thẳng, không cân như bình thường\nVí dụ:\n- bị vẹo cột sống \n - gió mạnh làm túp lều vẹo hẳn về một bên"
+        "dict_definition": "bị vẹo, lệch, mất cân đối\nVí dụ:\n- dáng đi vẹo vọ \n - bàn ghế vẹo vọ"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vẹo - become deformed\n-twisted, crooked, distored, chage in form/shape"
+        "dict_definition": "@vẹo vọ - như"
       }
     ]
   },
@@ -109,11 +206,20 @@
     ]
   },
   {
-    "word": "vẹo cột sống bệnh khớp háng",
+    "word": "vẹn nguyên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như nguyên vẹn"
+      }
+    ]
+  },
+  {
+    "word": "vẹc-ni",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-coxitic scoliosis\n-ischiatic scoliosis"
+        "dict_definition": "@vẹc-ni [vẹc-ni]\n-xem"
       }
     ]
   },
@@ -155,29 +261,28 @@
     ]
   },
   {
-    "word": "vẹo cột sống do thói quen",
+    "word": "vẹn",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "còn giữ được nguyên, không mất mát, không biến đổi chút nào\nVí dụ:\n- giữ vẹn lời thề \n - vẹn đạo làm con"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đầy đủ, không thiếu sót chút nào\nVí dụ:\n- vẹn cả đôi đường \n - \"Mai cốt cách, tuyết tinh thần, Mỗi người một vẻ, mười phân vẹn mười.\" (TKiều)"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-habit scoliosis"
+        "dict_definition": "@vẹn - complete, implement, fulfill, carry  out, execute\n-intact, unblemished, untainted, entire, whole, perfect"
       }
     ]
   },
   {
-    "word": "vẹo cổ bẩm sinh",
+    "word": "vẹo cột sống bệnh khớp háng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-congenital torticollis"
-      }
-    ]
-  },
-  {
-    "word": "vẹn chữ tùng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vẹn chữ tùng\n- trọn đạo làm vợ (theo chồng)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-coxitic scoliosis\n-ischiatic scoliosis"
       }
     ]
   },
@@ -207,108 +312,11 @@
     ]
   },
   {
-    "word": "vẹo ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-valgus"
-      }
-    ]
-  },
-  {
-    "word": "vẹm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trai to ở ven biển, vỏ màu xanh đen\nVí dụ:\n- ăn như vẹm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vẹm [vẹm]\n-(động vật học) mussel"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mussel"
-      }
-    ]
-  },
-  {
-    "word": "vẹo răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dilaceration"
-      }
-    ]
-  },
-  {
-    "word": "vẹt xanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vẹt xanh - love bird"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "love bird"
-      }
-    ]
-  },
-  {
-    "word": "vẹc bông lau",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem bạc mày"
-      }
-    ]
-  },
-  {
-    "word": "vẹc-ni",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vẹc-ni [vẹc-ni]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "vẹn nguyên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như nguyên vẹn"
-      }
-    ]
-  },
-  {
     "word": "vẹo cổ",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@vẹo cổ - wry neck, stiff neck, crick (in the neck)\n*danh từ\n-(bird) cyrasian wrymeck\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-wryneck"
-      }
-    ]
-  },
-  {
-    "word": "vẹo cột sống lòi xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rachitic scoliosis"
-      }
-    ]
-  },
-  {
-    "word": "vẹn tuyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vẹn tuyền - complete, full"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "complete, full"
       }
     ]
   },
@@ -322,19 +330,11 @@
     ]
   },
   {
-    "word": "vẹn",
+    "word": "vẹc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "còn giữ được nguyên, không mất mát, không biến đổi chút nào\nVí dụ:\n- giữ vẹn lời thề \n - vẹn đạo làm con"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đầy đủ, không thiếu sót chút nào\nVí dụ:\n- vẹn cả đôi đường \n - \"Mai cốt cách, tuyết tinh thần, Mỗi người một vẻ, mười phân vẹn mười.\" (TKiều)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vẹn - complete, implement, fulfill, carry  out, execute\n-intact, unblemished, untainted, entire, whole, perfect"
+        "dict_definition": "loài linh trưởng đuôi dài, thân gầy, sống thành đàn trên cây, chuyên ăn lá và quả cây"
       }
     ]
   }

@@ -1,5 +1,23 @@
 [
   {
+    "word": "thèn sìn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thèn Sìn\n- (xã) h. Phong Thổ, t. Lai Châu"
+      }
+    ]
+  },
+  {
+    "word": "thèn phàng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Thèn Phàng\n- (xã) h. Xín Mần, t. Hà Giang"
+      }
+    ]
+  },
+  {
     "word": "thèm vào",
     "definitions": [
       {
@@ -21,37 +39,27 @@
     ]
   },
   {
-    "word": "thèm nhạt",
+    "word": "thèm muốn",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "muốn được thoả mãn nhu cầu nào đó của bản thân [thường là những cái bị coi là tầm thường]\nVí dụ:\n- thèm muốn cuộc sống giàu sang \n - tôi thèm muốn được đi du lịch một chuyến"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thèm nhạt\n- Nh. Thèm. ngh. 1."
+        "dict_definition": "@thèm muốn\n- đgt. Muốn được đáp ứng thoả mãn nhu cầu nào đó, thường là nhu cầu vật chất tầm thường: thèm muốn tiền tài địa vị  thèm muốn nhục dục."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thèm nhạt - covet, conceeive, a violent passion for, lust after"
+        "dict_definition": "@thèm muốn\n*verb\n-to wish eagerly, to covet"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thèm muốn\n* verb\n- to wish eagerly, to covet"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to covet, lust after"
-      }
-    ]
-  },
-  {
-    "word": "thèm vào!",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I don’t care"
-      }
-    ]
-  },
-  {
-    "word": "thèn sìn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thèn Sìn\n- (xã) h. Phong Thổ, t. Lai Châu"
+        "dict_definition": "to want, desire, covet"
       }
     ]
   },
@@ -73,6 +81,49 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "a little shy, sheepish"
+      }
+    ]
+  },
+  {
+    "word": "thèo lẻo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thèo lẻo\n*verb\n-to peach, to sneak, to tell tales"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thèo lẻo\n* verb\n- to peach, to sneak, to tell tales"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to peach, sneak, tell tales"
+      }
+    ]
+  },
+  {
+    "word": "thèm thuốc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to crave a cigarette"
+      }
+    ]
+  },
+  {
+    "word": "thèm nhạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thèm nhạt\n- Nh. Thèm. ngh. 1."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thèm nhạt - covet, conceeive, a violent passion for, lust after"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to covet, lust after"
       }
     ]
   },
@@ -110,11 +161,37 @@
     ]
   },
   {
-    "word": "thè lưỡi ra",
+    "word": "thèm thèm",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thèm thèm\n- Hơi thiếu một tí: Thèm thèm hai đấu gạo."
+      }
+    ]
+  },
+  {
+    "word": "thèm hai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thèm hai\n- gần hai mươi tuổi"
+      }
+    ]
+  },
+  {
+    "word": "thèo đảnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở vị trí chênh vênh gây cảm giác dễ đổ, dễ ngã do không có chỗ bám hoặc chỗ dựa\nVí dụ:\n- đứng thèo đảnh trên mép bàn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thèo đảnh - carelessly, nonchalantly, heeglessly"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to stick out one’s tongue"
+        "dict_definition": "carelessly, nonchalantly, heedlessly"
       }
     ]
   },
@@ -148,15 +225,6 @@
     ]
   },
   {
-    "word": "thèm thuốc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to crave a cigarette"
-      }
-    ]
-  },
-  {
     "word": "thè lè",
     "definitions": [
       {
@@ -186,32 +254,6 @@
     ]
   },
   {
-    "word": "thèo đảnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở vị trí chênh vênh gây cảm giác dễ đổ, dễ ngã do không có chỗ bám hoặc chỗ dựa\nVí dụ:\n- đứng thèo đảnh trên mép bàn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thèo đảnh - carelessly, nonchalantly, heeglessly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "carelessly, nonchalantly, heedlessly"
-      }
-    ]
-  },
-  {
-    "word": "thèm thèm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thèm thèm\n- Hơi thiếu một tí: Thèm thèm hai đấu gạo."
-      }
-    ]
-  },
-  {
     "word": "thèo bẻo",
     "definitions": [
       {
@@ -221,11 +263,11 @@
     ]
   },
   {
-    "word": "thèm hai",
+    "word": "thè lưỡi ra",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thèm hai\n- gần hai mươi tuổi"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to stick out one’s tongue"
       }
     ]
   },
@@ -255,44 +297,11 @@
     ]
   },
   {
-    "word": "thèo lẻo",
+    "word": "thèm vào!",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@thèo lẻo\n*verb\n-to peach, to sneak, to tell tales"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thèo lẻo\n* verb\n- to peach, to sneak, to tell tales"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to peach, sneak, tell tales"
-      }
-    ]
-  },
-  {
-    "word": "thèm muốn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "muốn được thoả mãn nhu cầu nào đó của bản thân [thường là những cái bị coi là tầm thường]\nVí dụ:\n- thèm muốn cuộc sống giàu sang \n - tôi thèm muốn được đi du lịch một chuyến"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thèm muốn\n- đgt. Muốn được đáp ứng thoả mãn nhu cầu nào đó, thường là nhu cầu vật chất tầm thường: thèm muốn tiền tài địa vị  thèm muốn nhục dục."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thèm muốn\n*verb\n-to wish eagerly, to covet"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thèm muốn\n* verb\n- to wish eagerly, to covet"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to want, desire, covet"
+        "dict_definition": "I don’t care"
       }
     ]
   },
@@ -314,15 +323,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to desire, long for"
-      }
-    ]
-  },
-  {
-    "word": "thèn phàng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Thèn Phàng\n- (xã) h. Xín Mần, t. Hà Giang"
       }
     ]
   }

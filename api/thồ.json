@@ -1,5 +1,26 @@
 [
   {
+    "word": "thồm lồm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chứng bệnh gây lở loét ở vành tai\nVí dụ:\n- thồm lồm ăn tai"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thồm lồm\n- Bệnh lở loét ở vành tai."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thồm lồm\n*danh từ\n-gangrene, mortification"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gangrene, mortification"
+      }
+    ]
+  },
+  {
     "word": "thồ",
     "definitions": [
       {
@@ -25,44 +46,6 @@
     ]
   },
   {
-    "word": "thồi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thồi\n- d. Bàn ăn trong quán: Bày cơm rượu lên thồi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thồi\n*danh từ\n-dinner-set"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dinner-set"
-      }
-    ]
-  },
-  {
-    "word": "thồm lồm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chứng bệnh gây lở loét ở vành tai\nVí dụ:\n- thồm lồm ăn tai"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thồm lồm\n- Bệnh lở loét ở vành tai."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thồm lồm\n*danh từ\n-gangrene, mortification"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gangrene, mortification"
-      }
-    ]
-  },
-  {
     "word": "thồn",
     "definitions": [
       {
@@ -80,6 +63,23 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to fill, squeeze"
+      }
+    ]
+  },
+  {
+    "word": "thồi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thồi\n- d. Bàn ăn trong quán: Bày cơm rượu lên thồi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thồi\n*danh từ\n-dinner-set"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dinner-set"
       }
     ]
   }

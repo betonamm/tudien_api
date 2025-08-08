@@ -1,5 +1,14 @@
 [
   {
+    "word": "ăm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to carry in the arms"
+      }
+    ]
+  },
+  {
     "word": "ăm ắp",
     "definitions": [
       {
@@ -25,11 +34,11 @@
     ]
   },
   {
-    "word": "ăm",
+    "word": "ăm pun",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to carry in the arms"
+        "dict_definition": "phial, ampoule"
       }
     ]
   },
@@ -39,15 +48,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@ăm-pun [ăm pun]\n-(tiếng Pháp gọi là Ampoule) phial;  ampoule"
-      }
-    ]
-  },
-  {
-    "word": "ăm pun",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "phial, ampoule"
       }
     ]
   }

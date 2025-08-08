@@ -1,31 +1,14 @@
 [
   {
-    "word": "xệch xạc",
+    "word": "xệp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lệch, biến dạng đi [nói khái quát]\nVí dụ:\n- hàng quán xệch xạc \n - miệng mếu đến xệch xạc"
+        "dict_definition": "[nằm, ngồi] sát xuống, tựa như bị dán chặt vào bề mặt\nVí dụ:\n- nằm xệp trên giường \n - ngồi xệp xuống đất"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xệch xạc\n*động từ\n-become deformed\n-change in form/shape"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to become deformed, change in form or shape"
-      }
-    ]
-  },
-  {
-    "word": "xệu xạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xệu xạo\n*động từ\n-mumble (of toothless old man)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mumble (of toothless old man)"
+        "dict_definition": "@xệp\n*trạng từ\n-to sit flat (on floor or bed)"
       }
     ]
   },
@@ -43,15 +26,15 @@
     ]
   },
   {
-    "word": "xệp",
+    "word": "xệu xạo",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[nằm, ngồi] sát xuống, tựa như bị dán chặt vào bề mặt\nVí dụ:\n- nằm xệp trên giường \n - ngồi xệp xuống đất"
+        "dict_name": "SPDict",
+        "dict_definition": "@xệu xạo\n*động từ\n-mumble (of toothless old man)"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@xệp\n*trạng từ\n-to sit flat (on floor or bed)"
+        "dict_name": "VNEDICT",
+        "dict_definition": "mumble (of toothless old man)"
       }
     ]
   },
@@ -69,6 +52,23 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "loose, slack, aslant, awry"
+      }
+    ]
+  },
+  {
+    "word": "xệch xạc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lệch, biến dạng đi [nói khái quát]\nVí dụ:\n- hàng quán xệch xạc \n - miệng mếu đến xệch xạc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xệch xạc\n*động từ\n-become deformed\n-change in form/shape"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to become deformed, change in form or shape"
       }
     ]
   }

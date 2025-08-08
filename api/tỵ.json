@@ -26,24 +26,6 @@
     ]
   },
   {
-    "word": "tỵ nạn chính trị",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "political refugee"
-      }
-    ]
-  },
-  {
-    "word": "tỵ nạn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "refugee"
-      }
-    ]
-  },
-  {
     "word": "tỵ tổ",
     "definitions": [
       {
@@ -58,6 +40,24 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "nasal"
+      }
+    ]
+  },
+  {
+    "word": "tỵ nạn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "refugee"
+      }
+    ]
+  },
+  {
+    "word": "tỵ nạn chính trị",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "political refugee"
       }
     ]
   }

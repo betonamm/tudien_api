@@ -1,23 +1,5 @@
 [
   {
-    "word": "bễ thợ rèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bellows\n-smithery\n@Chuyên ngành kỹ thuật\n-bellows\n-smithery"
-      }
-    ]
-  },
-  {
-    "word": "bễ của thân van",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-body bellows\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-body bellows"
-      }
-    ]
-  },
-  {
     "word": "bễ điều khiển bằng tay",
     "definitions": [
       {
@@ -27,29 +9,20 @@
     ]
   },
   {
-    "word": "bễ thủ công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hand bellow\n@Chuyên ngành kỹ thuật\n-hand bellow"
-      }
-    ]
-  },
-  {
-    "word": "bễ thổi lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bellows\n@Chuyên ngành kỹ thuật\n-bellows"
-      }
-    ]
-  },
-  {
     "word": "bễ (thổi lò)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bellows\n-blower or blowing engine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bellows\n-blower or blowing engine"
+      }
+    ]
+  },
+  {
+    "word": "bễ của thân van",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-body bellows\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-body bellows"
       }
     ]
   },
@@ -75,6 +48,33 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "bellows"
+      }
+    ]
+  },
+  {
+    "word": "bễ thợ rèn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bellows\n-smithery\n@Chuyên ngành kỹ thuật\n-bellows\n-smithery"
+      }
+    ]
+  },
+  {
+    "word": "bễ thủ công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hand bellow\n@Chuyên ngành kỹ thuật\n-hand bellow"
+      }
+    ]
+  },
+  {
+    "word": "bễ thổi lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bellows\n@Chuyên ngành kỹ thuật\n-bellows"
       }
     ]
   },

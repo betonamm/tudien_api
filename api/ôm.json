@@ -1,71 +1,71 @@
 [
   {
-    "word": "ôm mẫu",
+    "word": "ôm lấy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-standard ohm"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-embed"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to grab, cover, hug"
       }
     ]
   },
   {
-    "word": "ôm chầm",
+    "word": "ôm nhiệt",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ôm và ghì chặt lấy vào lòng bằng một động tác rất nhanh và đột ngột\nVí dụ:\n- bé ôm chầm lấy mẹ"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fourier\n@Lĩnh vực: điện\n-thermal ohm"
+      }
+    ]
+  },
+  {
+    "word": "ôm đầu",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ôm chầm\n-xem chầm"
+        "dict_definition": "@ôm đầu\n-Hold one\"s head in one\"s hands"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôm chầm\n- xem chầm"
-      }
-    ]
-  },
-  {
-    "word": "ômêga",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-omega"
-      }
-    ]
-  },
-  {
-    "word": "ôm đít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm đít\n-(thông tục)Lick (somebody\"s) arse"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôm đít\n- (thông tục)Lick (somebody's) arse"
+        "dict_definition": "@ôm đầu\n- Hold one's head in one's hands"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to kiss (sb’s) ass"
+        "dict_definition": "to hold one’s head in one’s hands"
       }
     ]
   },
   {
-    "word": "ôm chặt",
+    "word": "ôm quốc tế",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to embrace, hug tightly"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-international ohm"
       }
     ]
   },
   {
-    "word": "ôm sát sạt",
+    "word": "ôm hôn",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm hôn [ôm hôn]\n-embrace and kiss"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to hug, embrace tightly"
+        "dict_definition": "embrace and kiss"
+      }
+    ]
+  },
+  {
+    "word": "ôm hệ từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-aw\n@Lĩnh vực: điện\n-abohm"
       }
     ]
   },
@@ -88,38 +88,11 @@
     ]
   },
   {
-    "word": "ôm xentimet nghịch đảo (đơn vị độ dẫn điện)",
+    "word": "ôm, choàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-roc"
-      }
-    ]
-  },
-  {
-    "word": "ôm hy vọng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cherish the hope"
-      }
-    ]
-  },
-  {
-    "word": "ôm từ hai phía",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-straddle\n@Lĩnh vực: cơ khí & công trình\n-straddling"
-      }
-    ]
-  },
-  {
-    "word": "ôm nghịch đảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-reciprocal ohm"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hug"
       }
     ]
   },
@@ -133,29 +106,38 @@
     ]
   },
   {
-    "word": "ôm quốc tế",
+    "word": "ôm xentimet nghịch đảo (đơn vị độ dẫn điện)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-international ohm"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-roc"
       }
     ]
   },
   {
-    "word": "ôm-lét",
+    "word": "ôm từ hai phía",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ôm-lét [ôm-lét]\n-xem"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-straddle\n@Lĩnh vực: cơ khí & công trình\n-straddling"
       }
     ]
   },
   {
-    "word": "ôm mét nghịch đảo",
+    "word": "ôm kế cao áp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-reciprocal ohm meter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-teraohmmeter"
+      }
+    ]
+  },
+  {
+    "word": "ôm tĩnh điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-statohm"
       }
     ]
   },
@@ -178,266 +160,6 @@
     ]
   },
   {
-    "word": "ôm kế cao áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-teraohmmeter"
-      }
-    ]
-  },
-  {
-    "word": "ôm cây đợi thỏ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ôm cây đợi thỏ\n- Sách Hàn Phi Tử: Có người nước Tống một hôm đang cày ruộng, trong ruộng có một cây to, một con thỏ chạy đâm vào cây mà chết. Thấy vậy, người đó bèn bỏ cày, chạy lại ôm cây mong được thỏ nữa\n- Chuyện này chê người chí mọn không biết phân tích, cứ cứng nhắc làm việc một cách mù quáng, ngu tối\n- (Đừng lầm điển này với ấp cây.)"
-      }
-    ]
-  },
-  {
-    "word": "ôm trên volt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ohms per volt"
-      }
-    ]
-  },
-  {
-    "word": "ôm hệ từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-aw\n@Lĩnh vực: điện\n-abohm"
-      }
-    ]
-  },
-  {
-    "word": "ôm ấp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ôm vào lòng với tình cảm tha thiết, âu yếm\nVí dụ:\n- chị ôm ấp đứa con vào lòng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nuôi giữ trong lòng một cách trân trọng, tha thiết\nVí dụ:\n- ôm ấp mộng văn chương \n - ôm ấp hi vọng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ôm ấp\n- tt. 1. ôm vào lòng với tình cảm yêu thương tha thiết: ôm ấp đứa con vào lòng. 2. ấp ủ với tình cảm trân trọng, tha thiết: ôm ấp hoài bão lớn lao  ôm ấp những mộng tưởng lớn  ôm ấp bao hi vọng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm ấp\n*verb\n-to embrace, to cuddle ; to nurse, to nurture\n@Chuyên ngành kỹ thuật\n-cuddle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôm ấp\n* verb\n- to embrace, to cuddle ; to nurse, to nurture"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hug, embrace (lit and fig); cherish"
-      }
-    ]
-  },
-  {
-    "word": "ôm lấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-embed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to grab, cover, hug"
-      }
-    ]
-  },
-  {
-    "word": "ôm đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm đầu\n-Hold one\"s head in one\"s hands"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôm đầu\n- Hold one's head in one's hands"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hold one’s head in one’s hands"
-      }
-    ]
-  },
-  {
-    "word": "ôm vật gì trong nách",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to carry something under one’s arms"
-      }
-    ]
-  },
-  {
-    "word": "ôm ghì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm ghì [ôm ghì]\n-clasp, hug, embrace"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "clasp, hug, embrace"
-      }
-    ]
-  },
-  {
-    "word": "ôm kế điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-electronic ohmmeter"
-      }
-    ]
-  },
-  {
-    "word": "ôm mặt khóc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hold one’s face and cry, cry in one’s hands"
-      }
-    ]
-  },
-  {
-    "word": "ôm, choàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hug"
-      }
-    ]
-  },
-  {
-    "word": "ôm sát",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to embrace tightly"
-      }
-    ]
-  },
-  {
-    "word": "ôm chân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ví hành động luồn cúi, bợ đỡ một cách đê hèn\nVí dụ:\n- diệt trừ kẻ ôm chân giặc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ôm chân\n- đgt Nịnh nọt để cầu lợi: Ôm chân tên chủ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm chân\n*verb\n-to fawn upon, to toady tọ"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôm chân\n* verb\n- to fawn upon, to toady tọ"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to fawn upon, toady to"
-      }
-    ]
-  },
-  {
-    "word": "ôm nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fourier\n@Lĩnh vực: điện\n-thermal ohm"
-      }
-    ]
-  },
-  {
-    "word": "ôm cầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm cầm [ôm cầm]\n-(woman) marry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(woman) to marry"
-      }
-    ]
-  },
-  {
-    "word": "ôm kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm kế [ôm kế]\n-ohm metre\n@Chuyên ngành kỹ thuật\n-ohmmeter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ohm meter"
-      }
-    ]
-  },
-  {
-    "word": "ôm bụng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hold one’s sides (with laughter)"
-      }
-    ]
-  },
-  {
-    "word": "ôm hôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm hôn [ôm hôn]\n-embrace and kiss"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "embrace and kiss"
-      }
-    ]
-  },
-  {
-    "word": "ôm đồm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự nhận làm quá nhiều việc, kể cả những việc lẽ ra phải để người khác làm, cho nên làm không xuể\nVí dụ:\n- ôm đồm nhiều việc \n - tính hay ôm đồm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ôm đồm\n- đg. 1. Mang nhiều thứ quá : Đi đâu mà ôm đồm thế? 2. Tham lam làm nhiều việc trong một lúc : ôm đồm lắm công tác thì khó làm được chu đáo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ôm đồm\n*verb\n-cary too many things with one\n=đi đâu mà ôm đồm thế\n+Where are you going with so many things. to take more than one can cope with at a time"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôm đồm\n* verb\n- cary too many things with one\n=đi đâu mà ôm đồm thế+Where are you going with so many things. to take more than one can cope with at a time"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "carry too many things at a time"
-      }
-    ]
-  },
-  {
     "word": "ôm trống",
     "definitions": [
       {
@@ -455,11 +177,29 @@
     ]
   },
   {
-    "word": "ôm tĩnh điện",
+    "word": "ômêga",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-statohm"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-omega"
+      }
+    ]
+  },
+  {
+    "word": "ôm mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-standard ohm"
+      }
+    ]
+  },
+  {
+    "word": "ôm mét nghịch đảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-reciprocal ohm meter"
       }
     ]
   },
@@ -497,11 +237,271 @@
     ]
   },
   {
+    "word": "ôm hy vọng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cherish the hope"
+      }
+    ]
+  },
+  {
+    "word": "ôm chầm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ôm và ghì chặt lấy vào lòng bằng một động tác rất nhanh và đột ngột\nVí dụ:\n- bé ôm chầm lấy mẹ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm chầm\n-xem chầm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ôm chầm\n- xem chầm"
+      }
+    ]
+  },
+  {
+    "word": "ôm mặt khóc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hold one’s face and cry, cry in one’s hands"
+      }
+    ]
+  },
+  {
+    "word": "ôm chân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ví hành động luồn cúi, bợ đỡ một cách đê hèn\nVí dụ:\n- diệt trừ kẻ ôm chân giặc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ôm chân\n- đgt Nịnh nọt để cầu lợi: Ôm chân tên chủ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm chân\n*verb\n-to fawn upon, to toady tọ"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ôm chân\n* verb\n- to fawn upon, to toady tọ"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to fawn upon, toady to"
+      }
+    ]
+  },
+  {
+    "word": "ôm vật gì trong nách",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to carry something under one’s arms"
+      }
+    ]
+  },
+  {
+    "word": "ôm bụng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hold one’s sides (with laughter)"
+      }
+    ]
+  },
+  {
+    "word": "ôm cây đợi thỏ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ôm cây đợi thỏ\n- Sách Hàn Phi Tử: Có người nước Tống một hôm đang cày ruộng, trong ruộng có một cây to, một con thỏ chạy đâm vào cây mà chết. Thấy vậy, người đó bèn bỏ cày, chạy lại ôm cây mong được thỏ nữa\n- Chuyện này chê người chí mọn không biết phân tích, cứ cứng nhắc làm việc một cách mù quáng, ngu tối\n- (Đừng lầm điển này với ấp cây.)"
+      }
+    ]
+  },
+  {
+    "word": "ôm sát sạt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hug, embrace tightly"
+      }
+    ]
+  },
+  {
     "word": "ôm chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-standard ohm"
+      }
+    ]
+  },
+  {
+    "word": "ôm kế điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-electronic ohmmeter"
+      }
+    ]
+  },
+  {
+    "word": "ôm cầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm cầm [ôm cầm]\n-(woman) marry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(woman) to marry"
+      }
+    ]
+  },
+  {
+    "word": "ôm kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm kế [ôm kế]\n-ohm metre\n@Chuyên ngành kỹ thuật\n-ohmmeter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ohm meter"
+      }
+    ]
+  },
+  {
+    "word": "ôm nghịch đảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-reciprocal ohm"
+      }
+    ]
+  },
+  {
+    "word": "ôm ghì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm ghì [ôm ghì]\n-clasp, hug, embrace"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "clasp, hug, embrace"
+      }
+    ]
+  },
+  {
+    "word": "ôm sát",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to embrace tightly"
+      }
+    ]
+  },
+  {
+    "word": "ôm đồm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự nhận làm quá nhiều việc, kể cả những việc lẽ ra phải để người khác làm, cho nên làm không xuể\nVí dụ:\n- ôm đồm nhiều việc \n - tính hay ôm đồm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ôm đồm\n- đg. 1. Mang nhiều thứ quá : Đi đâu mà ôm đồm thế? 2. Tham lam làm nhiều việc trong một lúc : ôm đồm lắm công tác thì khó làm được chu đáo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm đồm\n*verb\n-cary too many things with one\n=đi đâu mà ôm đồm thế\n+Where are you going with so many things. to take more than one can cope with at a time"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ôm đồm\n* verb\n- cary too many things with one\n=đi đâu mà ôm đồm thế+Where are you going with so many things. to take more than one can cope with at a time"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "carry too many things at a time"
+      }
+    ]
+  },
+  {
+    "word": "ôm trên volt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ohms per volt"
+      }
+    ]
+  },
+  {
+    "word": "ôm chặt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to embrace, hug tightly"
+      }
+    ]
+  },
+  {
+    "word": "ôm ấp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ôm vào lòng với tình cảm tha thiết, âu yếm\nVí dụ:\n- chị ôm ấp đứa con vào lòng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nuôi giữ trong lòng một cách trân trọng, tha thiết\nVí dụ:\n- ôm ấp mộng văn chương \n - ôm ấp hi vọng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ôm ấp\n- tt. 1. ôm vào lòng với tình cảm yêu thương tha thiết: ôm ấp đứa con vào lòng. 2. ấp ủ với tình cảm trân trọng, tha thiết: ôm ấp hoài bão lớn lao  ôm ấp những mộng tưởng lớn  ôm ấp bao hi vọng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm ấp\n*verb\n-to embrace, to cuddle ; to nurse, to nurture\n@Chuyên ngành kỹ thuật\n-cuddle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ôm ấp\n* verb\n- to embrace, to cuddle ; to nurse, to nurture"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hug, embrace (lit and fig); cherish"
+      }
+    ]
+  },
+  {
+    "word": "ôm đít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm đít\n-(thông tục)Lick (somebody\"s) arse"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ôm đít\n- (thông tục)Lick (somebody's) arse"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to kiss (sb’s) ass"
+      }
+    ]
+  },
+  {
+    "word": "ôm-lét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ôm-lét [ôm-lét]\n-xem"
       }
     ]
   }

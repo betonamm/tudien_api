@@ -1,5 +1,14 @@
 [
   {
+    "word": "auxơ đong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fluid ounce\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fluid ounce"
+      }
+    ]
+  },
+  {
     "word": "audio kênh đôi",
     "definitions": [
       {
@@ -9,11 +18,29 @@
     ]
   },
   {
-    "word": "auxơ đong",
+    "word": "austenit dư",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fluid ounce\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fluid ounce"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rest austenite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rest austenite"
+      }
+    ]
+  },
+  {
+    "word": "automat lập trình, bộ sắp xếp dãy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sequencer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sequencer"
+      }
+    ]
+  },
+  {
+    "word": "automat",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thiết bị tự động, hoạt động theo chương trình cho trước, không có sự tham gia trực tiếp của con người"
       }
     ]
   },
@@ -27,11 +54,20 @@
     ]
   },
   {
-    "word": "automat lập trình, bộ sắp xếp dãy",
+    "word": "audio",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tiếng, âm thanh trong hệ thống nghe nhìn"
+      }
+    ]
+  },
+  {
+    "word": "audio khởi đầu sớm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sequencer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sequencer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-early-start audio\n@Chuyên ngành kỹ thuật\n-early-start audio"
       }
     ]
   },
@@ -73,42 +109,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "bright and cheerful"
-      }
-    ]
-  },
-  {
-    "word": "automat",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thiết bị tự động, hoạt động theo chương trình cho trước, không có sự tham gia trực tiếp của con người"
-      }
-    ]
-  },
-  {
-    "word": "audio khởi đầu sớm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-early-start audio\n@Chuyên ngành kỹ thuật\n-early-start audio"
-      }
-    ]
-  },
-  {
-    "word": "austenit dư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rest austenite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rest austenite"
-      }
-    ]
-  },
-  {
-    "word": "audio",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiếng, âm thanh trong hệ thống nghe nhìn"
       }
     ]
   }

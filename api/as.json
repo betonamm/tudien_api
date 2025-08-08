@@ -1,19 +1,10 @@
 [
   {
-    "word": "asic",
+    "word": "asin",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Application-Specific Integrated Circuit (ASIC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Application-Specific Integrated Circuit (ASIC)"
-      }
-    ]
-  },
-  {
-    "word": "asitrap",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architrave\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architrave"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-arsine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-arsine"
       }
     ]
   },
@@ -27,11 +18,65 @@
     ]
   },
   {
+    "word": "asitrap",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architrave\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architrave"
+      }
+    ]
+  },
+  {
+    "word": "ascii gửi dữ liệu hiển thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Display Data Send ASCII (DDSA)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Display Data Send ASCII (DDSA)"
+      }
+    ]
+  },
+  {
     "word": "ascii phục hồi dữ liệu hiển thị",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Display Data Return ASCII (DDRA)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Display Data Return ASCII (DDRA)"
+      }
+    ]
+  },
+  {
+    "word": "as (mo hệ cgs điện từ, bằng 10 mũ 9 mo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-absiemens\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-absiemens"
+      }
+    ]
+  },
+  {
+    "word": "asf",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-aspect source flag (ASF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-aspect source flag (ASF)"
+      }
+    ]
+  },
+  {
+    "word": "as-ka-ren",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-askarel\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-askarel"
+      }
+    ]
+  },
+  {
+    "word": "asphalt pha loãng bảo dưỡng trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium-curing cut back asphalt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium-curing cut back asphalt"
       }
     ]
   },
@@ -53,20 +98,20 @@
     ]
   },
   {
-    "word": "asphalt pha loãng bảo dưỡng trung bình",
+    "word": "ascobic",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium-curing cut back asphalt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium-curing cut back asphalt"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ascorbic"
       }
     ]
   },
   {
-    "word": "as (mo hệ cgs điện từ, bằng 10 mũ 9 mo)",
+    "word": "asic",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-absiemens\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-absiemens"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Application-Specific Integrated Circuit (ASIC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Application-Specific Integrated Circuit (ASIC)"
       }
     ]
   },
@@ -85,51 +130,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-liquid asphalt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-liquid asphalt"
-      }
-    ]
-  },
-  {
-    "word": "as-ka-ren",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-askarel\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-askarel"
-      }
-    ]
-  },
-  {
-    "word": "asf",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-aspect source flag (ASF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-aspect source flag (ASF)"
-      }
-    ]
-  },
-  {
-    "word": "ascobic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ascorbic"
-      }
-    ]
-  },
-  {
-    "word": "ascii gửi dữ liệu hiển thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Display Data Send ASCII (DDSA)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Display Data Send ASCII (DDSA)"
-      }
-    ]
-  },
-  {
-    "word": "asin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-arsine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-arsine"
       }
     ]
   }

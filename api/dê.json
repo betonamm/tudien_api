@@ -1,5 +1,62 @@
 [
   {
+    "word": "dê con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-kid"
+      }
+    ]
+  },
+  {
+    "word": "dê rừng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dê rừng [dê rừng]\n*danh từ\n-mountain goat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mountain goat"
+      }
+    ]
+  },
+  {
+    "word": "dê già",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dê già [dê già]\n*danh từ\n-old voluptuary;  dirty old man;   old goat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "old voluptuary, dirty old man, old goat"
+      }
+    ]
+  },
+  {
+    "word": "dê xồm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dê xồm [dê xồm]\n-he-goat with big goatee; old goat, lecher"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "he-goat with big goatee, old goat, lecher"
+      }
+    ]
+  },
+  {
+    "word": "dê-rô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dê-rô [dê-rô]\n-xem"
+      }
+    ]
+  },
+  {
     "word": "dê cụ",
     "definitions": [
       {
@@ -21,42 +78,11 @@
     ]
   },
   {
-    "word": "dê xồm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dê xồm [dê xồm]\n-he-goat with big goatee; old goat, lecher"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "he-goat with big goatee, old goat, lecher"
-      }
-    ]
-  },
-  {
     "word": "dê đực",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-ram"
-      }
-    ]
-  },
-  {
-    "word": "dên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dên [dên]\n-(kỹ thuật) xem"
-      }
-    ]
-  },
-  {
-    "word": "dê con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-kid"
       }
     ]
   },
@@ -90,11 +116,11 @@
     ]
   },
   {
-    "word": "dê-rô",
+    "word": "dên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dê-rô [dê-rô]\n-xem"
+        "dict_definition": "@dên [dên]\n-(kỹ thuật) xem"
       }
     ]
   },
@@ -112,32 +138,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "expose to shame"
-      }
-    ]
-  },
-  {
-    "word": "dê già",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dê già [dê già]\n*danh từ\n-old voluptuary;  dirty old man;   old goat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "old voluptuary, dirty old man, old goat"
-      }
-    ]
-  },
-  {
-    "word": "dê rừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dê rừng [dê rừng]\n*danh từ\n-mountain goat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mountain goat"
       }
     ]
   }

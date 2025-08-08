@@ -1,5 +1,26 @@
 [
   {
+    "word": "ải quan",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ải quan\n- dt. Cửa ải, chỗ qua lại chật hẹp, hiểm trở giữa hai nước, thường có binh lính trấn giữ: Tính rồi xong xả chước mầu, Phút nghe huyền đã đến đầu ải quan (Lục Vân Tiên)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ải quan\n*noun\n-Frontier pass"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ải quan\n* noun\n- Frontier pass"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "frontier pass"
+      }
+    ]
+  },
+  {
     "word": "ải đất",
     "definitions": [
       {
@@ -9,29 +30,29 @@
     ]
   },
   {
-    "word": "ải cuối cùng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "final obstacle, hurdle"
-      }
-    ]
-  },
-  {
-    "word": "ải du",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ải Du\n- Cửa ải phía Tây Bắc Trung Quốc. Mông Điềm đời Tần từng dựng ải ở đây để chống Hung Nô"
-      }
-    ]
-  },
-  {
     "word": "ải sát",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to execute by hanging, strangle to death"
+      }
+    ]
+  },
+  {
+    "word": "ải chi lăng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Chilang Pass"
+      }
+    ]
+  },
+  {
+    "word": "ải tử",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be strangled (to death), be hanged"
       }
     ]
   },
@@ -73,20 +94,11 @@
     ]
   },
   {
-    "word": "ải tử",
+    "word": "ải du",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be strangled (to death), be hanged"
-      }
-    ]
-  },
-  {
-    "word": "ải chi lăng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Chilang Pass"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ải Du\n- Cửa ải phía Tây Bắc Trung Quốc. Mông Điềm đời Tần từng dựng ải ở đây để chống Hung Nô"
       }
     ]
   },
@@ -100,23 +112,11 @@
     ]
   },
   {
-    "word": "ải quan",
+    "word": "ải cuối cùng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ải quan\n- dt. Cửa ải, chỗ qua lại chật hẹp, hiểm trở giữa hai nước, thường có binh lính trấn giữ: Tính rồi xong xả chước mầu, Phút nghe huyền đã đến đầu ải quan (Lục Vân Tiên)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ải quan\n*noun\n-Frontier pass"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ải quan\n* noun\n- Frontier pass"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "frontier pass"
+        "dict_definition": "final obstacle, hurdle"
       }
     ]
   }

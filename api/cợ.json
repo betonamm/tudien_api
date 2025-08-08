@@ -1,18 +1,14 @@
 [
   {
-    "word": "cợt nhả",
+    "word": "cợt ghẹo",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trêu đùa một cách sỗ sàng, không đứng đắn\nVí dụ:\n- nó cợt nhả với tôi"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@cợt nhả [cợt nhả]\n-indelicate;  tactless;  impolite;  rude"
+        "dict_definition": "@cợt ghẹo [cợt ghẹo]\n-tease, bother"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "indelicate, tactless, impolite, rude"
+        "dict_definition": "tease, bother"
       }
     ]
   },
@@ -34,24 +30,28 @@
     ]
   },
   {
+    "word": "cợt nhả",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trêu đùa một cách sỗ sàng, không đứng đắn\nVí dụ:\n- nó cợt nhả với tôi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cợt nhả [cợt nhả]\n-indelicate;  tactless;  impolite;  rude"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "indelicate, tactless, impolite, rude"
+      }
+    ]
+  },
+  {
     "word": "cợp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "[tóc] dài, rậm và xù\nVí dụ:\n- tóc dài cợp mang tai"
-      }
-    ]
-  },
-  {
-    "word": "cợt ghẹo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cợt ghẹo [cợt ghẹo]\n-tease, bother"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tease, bother"
       }
     ]
   }

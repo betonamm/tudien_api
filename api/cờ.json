@@ -1,62 +1,113 @@
 [
   {
-    "word": "cờ đuôi nheo",
+    "word": "cờ rếp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "crepe"
+      }
+    ]
+  },
+  {
+    "word": "cờ mã",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ tàu buôn (của nước anh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Red ensign"
+      }
+    ]
+  },
+  {
+    "word": "cờ gánh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ có hình dải dài mà ở cuối xẻ ra thành hai phần hình tam giác, thường dùng để trang trí trong ngày lễ"
-      },
+        "dict_definition": "cờ có mười sáu quân bày thành hai phía sấp, ngửa, khi một quân đi lọt được vào giữa hai quân của đối phương thì được lật hai quân ấy, biến thành quân của mình [gọi là gánh]"
+      }
+    ]
+  },
+  {
+    "word": "cờ ngăn xếp",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cờ đuôi nheo [cờ đuôi nheo]\n-pennon;   pennant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-stack flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-stack flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ đen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ đen [cờ đen]\n-black flag;  Jolly Roger\n-skull and crossbones"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "pennon, pennant"
+        "dict_definition": "Black Flag (rebels)"
       }
     ]
   },
   {
-    "word": "cờ \"bổ sung phương thức\"",
+    "word": "cờ lê tròng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Mode Addition Flag (MAF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Mode Addition Flag (MAF)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ring spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ring spanner"
       }
     ]
   },
   {
-    "word": "cờ chân chó",
+    "word": "cờ-lê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ-lê [cờ lê]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "cờ mang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-carry flat\n@Chuyên ngành kỹ thuật\n-carry flat"
+      }
+    ]
+  },
+  {
+    "word": "cờ chỉ báo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator"
+      }
+    ]
+  },
+  {
+    "word": "cờ công ty",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-house flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-house flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-house flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ bỏi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ chơi bằng bốn quân bày ở bốn góc một hình vuông khuyết một cạnh và có hai đường chéo, bên nào dồn được quân của đối phương vào thế bí là thắng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ chân chó [cờ chân chó]\n*danh từ\n-dog-leg chess (a children\"s game)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dog-leg chess (a children’s game)"
-      }
-    ]
-  },
-  {
-    "word": "cờ lệnh nhổ neo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-blue peter"
-      }
-    ]
-  },
-  {
-    "word": "cờ vây",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ có ba trăm quân, khi chơi đặt từng quân một để vây nhau"
+        "dict_definition": "cờ tướng dùng quân cờ bằng biển gỗ có cán cầm, cắm trên khoảng đất có kẻ ô làm bàn cờ"
       }
     ]
   },
@@ -86,270 +137,11 @@
     ]
   },
   {
-    "word": "cờ đăng ký bắt buộc",
+    "word": "cờ-rếp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Forced Registration Flag (FOREG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Forced Registration Flag (FOREG)"
-      }
-    ]
-  },
-  {
-    "word": "cờ idle",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-idle flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-idle flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ chiếu tướng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "chess"
-      }
-    ]
-  },
-  {
-    "word": "cờn cỡn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng nhảy cẫng lên một cách liên tiếp, thể hiện trạng thái tâm lí ở mức thái quá\nVí dụ:\n- nhảy cờn cỡn"
-      }
-    ]
-  },
-  {
-    "word": "cờ dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sign flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sign flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ cạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ đuôi theo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pennant"
-      }
-    ]
-  },
-  {
-    "word": "cờ bẫy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Trap Flag (TF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Trap Flag (TF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ mang bổ sung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CoMplement Carry flag (CMC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CoMplement Carry flag (CMC)"
-      }
-    ]
-  },
-  {
-    "word": "cờ lao trắng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Cờ Lao Trắng\n- Tên gọi một nhóm nhỏ của dân tộc Cờ Lao"
-      }
-    ]
-  },
-  {
-    "word": "cờ niêm cất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-archive flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-archive flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ số không, cờ zero",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-zero flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-zero flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ lao đỏ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Cờ Lao Đỏ\n- Tên gọi một nhóm nhỏ của dân tộc Cờ Lao"
-      }
-    ]
-  },
-  {
-    "word": "cờ lê ổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-socket spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-socket spanner"
-      }
-    ]
-  },
-  {
-    "word": "cời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng que gạt vật vụn [thường là tro, than] ra để khơi thông hoặc để kéo lấy cái nằm bên trong\nVí dụ:\n- cời đống lửa \n - cời những hòn than trong bếp ra"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cời [cời]\n-get something (by means of a stick); scrape\n-torn\n@Chuyên ngành kỹ thuật\n-rake\n@Chuyên ngành kỹ thuật\n-rake"
-      }
-    ]
-  },
-  {
-    "word": "cờ lưu trữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-archived flag\n@Chuyên ngành kỹ thuật\n-archived flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ dữ liệu móc nối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chain data flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chain data flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ hướng xóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Direction Flag (CLD)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Direction Flag (CLD)"
-      }
-    ]
-  },
-  {
-    "word": "cờ xác lập hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Direction Flag (SDF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Direction Flag (SDF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ phương tiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flag of convenience"
-      }
-    ]
-  },
-  {
-    "word": "cời lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stoke\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stoke"
-      }
-    ]
-  },
-  {
-    "word": "cờ gian bạc lận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ gian bạc lận [cờ gian bạc lận]\n-to cheat in gambling"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cheat in gambling"
-      }
-    ]
-  },
-  {
-    "word": "cờ-lê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ-lê [cờ lê]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "cờ nước trung lập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-neutral flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ đen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ đen [cờ đen]\n-black flag;  Jolly Roger\n-skull and crossbones"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Black Flag (rebels)"
-      }
-    ]
-  },
-  {
-    "word": "cờ lệnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ lệnh [cờ lệnh]\n*danh từ\n-control flag"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "control flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ hiệu dòng lệnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-command line flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-command line flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ tàu buôn (của nước anh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Red ensign"
+        "dict_definition": "@cờ-rếp [cờ-rép]\n-(từ gốc tiếng Pháp là Crêpe) crepe\n-(từ gốc tiếng Pháp là Crêpe) crepe rubber;  crepe"
       }
     ]
   },
@@ -363,108 +155,6 @@
     ]
   },
   {
-    "word": "cờ lê ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner"
-      }
-    ]
-  },
-  {
-    "word": "cờ rũ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flag at half staff, half mast"
-      }
-    ]
-  },
-  {
-    "word": "cờ gánh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ có mười sáu quân bày thành hai phía sấp, ngửa, khi một quân đi lọt được vào giữa hai quân của đối phương thì được lật hai quân ấy, biến thành quân của mình [gọi là gánh]"
-      }
-    ]
-  },
-  {
-    "word": "cờ xí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ dùng để đón rước, trang trí trong các dịp lễ lớn [nói khái quát]\nVí dụ:\n- cờ xí rợp trời \n - \"Giáo gươm cờ xí trùng trùng, Hằng năm mở hội tưng bừng vui thay.\" (Cdao)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ xí [cờ xí]\n-flag, banner"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flag, banner"
-      }
-    ]
-  },
-  {
-    "word": "cờ tam giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee"
-      }
-    ]
-  },
-  {
-    "word": "cờ ngăn xếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-stack flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-stack flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ tang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ lau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ lau [cờ lau]\n*danh từ\n-reed wood"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "reed wood"
-      }
-    ]
-  },
-  {
-    "word": "cờ (cho phép) ngắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Interrupt ( enable ) Flag (IF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Interrupt ( enable ) Flag (IF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ hiệu, mã hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semaphore\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semaphore"
-      }
-    ]
-  },
-  {
     "word": "cờ hiệu tràn lưu lượng",
     "definitions": [
       {
@@ -474,402 +164,11 @@
     ]
   },
   {
-    "word": "cờ mang",
+    "word": "cờ đợi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-carry flat\n@Chuyên ngành kỹ thuật\n-carry flat"
-      }
-    ]
-  },
-  {
-    "word": "cờ chỉ hướng gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-wind vane\n@Chuyên ngành kỹ thuật\n-wind vane"
-      }
-    ]
-  },
-  {
-    "word": "cờ hiển thị cạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge visibility flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge visibility flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ buôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-merchant flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ bỏi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ tướng dùng quân cờ bằng biển gỗ có cán cầm, cắm trên khoảng đất có kẻ ô làm bàn cờ"
-      }
-    ]
-  },
-  {
-    "word": "cờ trắng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ màu trắng, dùng để báo hiệu sự đầu hàng\nVí dụ:\n- kéo cờ trắng xin hàng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ trắng [cờ trắng]\n-white flag;  flag of truce\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-white flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-white flag"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "white flag, flag of truce"
-      }
-    ]
-  },
-  {
-    "word": "cờ công ty tàu biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-house flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ dữ liệu mới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-New Data flag (NDF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-New Data flag (NDF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ xóa gián đoạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Interrupt Flag (CLI)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Interrupt Flag (CLI)"
-      }
-    ]
-  },
-  {
-    "word": "cờ vua",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ có ba mươi hai quân [có nguồn gốc từ Ấn Độ; gồm có: vua, hậu, sĩ, tượng, xe, mã, tốt], mỗi loại quân có một cách đi riêng, bên nào đưa vua của đối phương vào thế không được bảo vệ thì sẽ giành phần thắng\nVí dụ:\n- giải thi đấu cờ vua quốc tế"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ vua [cờ vua]\n-chess"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to play chess"
-      }
-    ]
-  },
-  {
-    "word": "cờ tín hiệu quốc tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ lê nụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-line spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-line spanner"
-      }
-    ]
-  },
-  {
-    "word": "cờ q",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Qflag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Qflag"
-      }
-    ]
-  },
-  {
-    "word": "cờ tràn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ chỉ báo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator"
-      }
-    ]
-  },
-  {
-    "word": "cờ báo có người chết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ khẩn cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Urgent Flag (URG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Urgent Flag (URG)"
-      }
-    ]
-  },
-  {
-    "word": "cờ hoa tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pilot flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pilot flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ hiệu tràn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ xóa mang sang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Carry Flag (CLCF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Carry Flag (CLCF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ nhớ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-carry flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-carry flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ mã",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ vàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ vàng [cờ vàng]\n*danh từ\n-yellow flag\n@Chuyên ngành kinh tế\n-yellow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-yellow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-yellow flag"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Yellow Flag (rebels)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "yellow flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ phân giải xung đột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-conflict resolution flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-conflict resolution flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ chỉ thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ ( nhớ ) phụ trợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Auxiliary (carry) Flag (AF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Auxiliary (carry) Flag (AF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ hiệu [cờ hiệu]\n-pennant\n@Chuyên ngành kinh tế\n-flag\n@Chuyên ngành kỹ thuật\n-banner\n-colors\n-colours\n-flag flip-flop\n-semaphore\n-sentinel\n-standard\n@Chuyên ngành kỹ thuật\n-banner\n-colors\n-colours\n-flag flip-flop\n-semaphore\n-sentinel\n-standard"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pennant"
-      }
-    ]
-  },
-  {
-    "word": "cờ lê",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chìa vặn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bolt tightening machine\n-spanner\n-wrench\n@Chuyên ngành kỹ thuật\n-bolt tightening machine\n-spanner\n-wrench"
-      }
-    ]
-  },
-  {
-    "word": "cờ người",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ tướng dùng người mặc sắc phục khác nhau đóng làm quân, đi trên khoảng đất có kẻ ô làm bàn cờ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ người [cờ người]\n*danh từ\n-human chess"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "human chess"
-      }
-    ]
-  },
-  {
-    "word": "cờlê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fix spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fix spanner"
-      }
-    ]
-  },
-  {
-    "word": "cờ chỉ đọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-read-only flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-read-only flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ lê tuýp kẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grip pipe-wrench\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grip pipe-wrench"
-      }
-    ]
-  },
-  {
-    "word": "cờ hiệu báo lỗi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error flag\n-error tag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error flag\n-error tag"
-      }
-    ]
-  },
-  {
-    "word": "cờ báo bận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-busy flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-busy flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ bắt đầu lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Resume Flag (RF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Resume Flag (RF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ rời bến (chữ p)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-blue peter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-blue peter"
-      }
-    ]
-  },
-  {
-    "word": "cờ tiệp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@cờ tiệp\n- cờ báo tin thi đỗ"
-      }
-    ]
-  },
-  {
-    "word": "cờ thuận tiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag of convenience\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag of convenience"
-      }
-    ]
-  },
-  {
-    "word": "cờ lê tròng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ring spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ring spanner"
-      }
-    ]
-  },
-  {
-    "word": "cờ danh dự",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-courtesy ensign\n-courtesy flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-courtesy ensign\n-courtesy flag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Wait Flag (WF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Wait Flag (WF)"
       }
     ]
   },
@@ -883,6 +182,105 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "French flag, the tricolor"
+      }
+    ]
+  },
+  {
+    "word": "cờ hướng xóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Direction Flag (CLD)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Direction Flag (CLD)"
+      }
+    ]
+  },
+  {
+    "word": "cờ dấu hiệu/cờ đồng bộ hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sign Flag/Synchronization Flag (SF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sign Flag/Synchronization Flag (SF)"
+      }
+    ]
+  },
+  {
+    "word": "cờlê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fix spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-fix spanner"
+      }
+    ]
+  },
+  {
+    "word": "cờ dữ liệu mới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-New Data flag (NDF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-New Data flag (NDF)"
+      }
+    ]
+  },
+  {
+    "word": "cờ mang bổ sung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CoMplement Carry flag (CMC)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CoMplement Carry flag (CMC)"
+      }
+    ]
+  },
+  {
+    "word": "cờ hiệu, mã hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semaphore\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semaphore"
+      }
+    ]
+  },
+  {
+    "word": "cờ cạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ báo bận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-busy flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-busy flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ hiệu báo lỗi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error flag\n-error tag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-error flag\n-error tag"
+      }
+    ]
+  },
+  {
+    "word": "cờ rũ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "flag at half staff, half mast"
+      }
+    ]
+  },
+  {
+    "word": "cờn cỡn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả dáng nhảy cẫng lên một cách liên tiếp, thể hiện trạng thái tâm lí ở mức thái quá\nVí dụ:\n- nhảy cờn cỡn"
       }
     ]
   },
@@ -905,11 +303,432 @@
     ]
   },
   {
-    "word": "cờ công ty",
+    "word": "cờ số không, cờ zero",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-house flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-house flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-house flag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-zero flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-zero flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ thiết bị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device code\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device code"
+      }
+    ]
+  },
+  {
+    "word": "cờ vàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ vàng [cờ vàng]\n*danh từ\n-yellow flag\n@Chuyên ngành kinh tế\n-yellow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-yellow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-yellow flag"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Yellow Flag (rebels)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "yellow flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ rủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ rủ [cờ rủ]\n-flag at half-mast"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "flag at half-mast"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chìa vặn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bolt tightening machine\n-spanner\n-wrench\n@Chuyên ngành kỹ thuật\n-bolt tightening machine\n-spanner\n-wrench"
+      }
+    ]
+  },
+  {
+    "word": "cờ nước trung lập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-neutral flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ niêm cất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-archive flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-archive flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ công ty tàu biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-house flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ đuôi tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ensign\n-stern flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ensign\n-stern flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ người",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ tướng dùng người mặc sắc phục khác nhau đóng làm quân, đi trên khoảng đất có kẻ ô làm bàn cờ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ người [cờ người]\n*danh từ\n-human chess"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "human chess"
+      }
+    ]
+  },
+  {
+    "word": "cờ kết thúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-FINish flag (FIN)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-FINish flag (FIN)"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê ổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-socket spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-socket spanner"
+      }
+    ]
+  },
+  {
+    "word": "cờ tín hiệu quốc tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-code flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ mang sang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Carry Flag (CF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Carry Flag (CF)"
+      }
+    ]
+  },
+  {
+    "word": "cờ danh dự",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-courtesy ensign\n-courtesy flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-courtesy ensign\n-courtesy flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ lau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ lau [cờ lau]\n*danh từ\n-reed wood"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "reed wood"
+      }
+    ]
+  },
+  {
+    "word": "cờ tràn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê nụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-line spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-line spanner"
+      }
+    ]
+  },
+  {
+    "word": "cờ kiểm dịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quarantine flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-quarantine flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-quarantine flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ q",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Qflag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Qflag"
+      }
+    ]
+  },
+  {
+    "word": "cờ trắng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ màu trắng, dùng để báo hiệu sự đầu hàng\nVí dụ:\n- kéo cờ trắng xin hàng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ trắng [cờ trắng]\n-white flag;  flag of truce\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-white flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-white flag"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "white flag, flag of truce"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê tuýp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner"
+      }
+    ]
+  },
+  {
+    "word": "cờ bẫy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Trap Flag (TF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Trap Flag (TF)"
+      }
+    ]
+  },
+  {
+    "word": "cờ lao trắng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Cờ Lao Trắng\n- Tên gọi một nhóm nhỏ của dân tộc Cờ Lao"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner"
+      }
+    ]
+  },
+  {
+    "word": "cờ phương tiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-flag of convenience"
+      }
+    ]
+  },
+  {
+    "word": "cờ lệnh nhổ neo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-blue peter"
+      }
+    ]
+  },
+  {
+    "word": "cờ đuôi theo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pennant"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê tuýp kẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grip pipe-wrench\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grip pipe-wrench"
+      }
+    ]
+  },
+  {
+    "word": "cờ hiệu dòng lệnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-command line flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-command line flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ tang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ lệnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ lệnh [cờ lệnh]\n*danh từ\n-control flag"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "control flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ xác lập ngắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Interrupt Flag (STI)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Interrupt Flag (STI)"
+      }
+    ]
+  },
+  {
+    "word": "cờ buôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-merchant flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ idle",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-idle flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-idle flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ hoa tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pilot flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-pilot flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ bắt đầu lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Resume Flag (RF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Resume Flag (RF)"
+      }
+    ]
+  },
+  {
+    "word": "cờ lao",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Cờ Lao\n- (dân tộc) Tên gọi của một trong số 54 dân tộc anh em sống trên lãnh thổ Việt Nam (x. Phụ lục)\n- (tiếng) Ngôn ngữ của dân tộc Cờ Lao"
+      }
+    ]
+  },
+  {
+    "word": "cờ xác lập hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Direction Flag (SDF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Direction Flag (SDF)"
+      }
+    ]
+  },
+  {
+    "word": "cời lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stoke\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stoke"
+      }
+    ]
+  },
+  {
+    "word": "cời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dùng que gạt vật vụn [thường là tro, than] ra để khơi thông hoặc để kéo lấy cái nằm bên trong\nVí dụ:\n- cời đống lửa \n - cời những hòn than trong bếp ra"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cời [cời]\n-get something (by means of a stick); scrape\n-torn\n@Chuyên ngành kỹ thuật\n-rake\n@Chuyên ngành kỹ thuật\n-rake"
+      }
+    ]
+  },
+  {
+    "word": "cờ xí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ dùng để đón rước, trang trí trong các dịp lễ lớn [nói khái quát]\nVí dụ:\n- cờ xí rợp trời \n - \"Giáo gươm cờ xí trùng trùng, Hằng năm mở hội tưng bừng vui thay.\" (Cdao)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ xí [cờ xí]\n-flag, banner"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "flag, banner"
       }
     ]
   },
@@ -939,114 +758,103 @@
     ]
   },
   {
-    "word": "cờ thiết bị",
+    "word": "cờ đuôi nheo",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ có hình dải dài mà ở cuối xẻ ra thành hai phần hình tam giác, thường dùng để trang trí trong ngày lễ"
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device code\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device code"
-      }
-    ]
-  },
-  {
-    "word": "cờ gỡ rối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-debugger flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-debugger flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ dấu hiệu/cờ đồng bộ hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sign Flag/Synchronization Flag (SF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sign Flag/Synchronization Flag (SF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ xác lập ngắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Interrupt Flag (STI)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Set Interrupt Flag (STI)"
-      }
-    ]
-  },
-  {
-    "word": "cờ kết thúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-FINish flag (FIN)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-FINish flag (FIN)"
-      }
-    ]
-  },
-  {
-    "word": "cờ tiện nghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flag of convenience"
-      }
-    ]
-  },
-  {
-    "word": "cờ rếp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crepe"
-      }
-    ]
-  },
-  {
-    "word": "cờ-rếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ-rếp [cờ-rép]\n-(từ gốc tiếng Pháp là Crêpe) crepe\n-(từ gốc tiếng Pháp là Crêpe) crepe rubber;  crepe"
-      }
-    ]
-  },
-  {
-    "word": "cờ lê 2 đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-double-ended spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-double-ended spanner"
-      }
-    ]
-  },
-  {
-    "word": "cờ rủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ rủ [cờ rủ]\n-flag at half-mast"
+        "dict_definition": "@cờ đuôi nheo [cờ đuôi nheo]\n-pennon;   pennant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "flag at half-mast"
+        "dict_definition": "pennon, pennant"
       }
     ]
   },
   {
-    "word": "cờ mang sang",
+    "word": "cờ xóa mang sang",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Carry Flag (CF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Carry Flag (CF)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Carry Flag (CLCF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Carry Flag (CLCF)"
       }
     ]
   },
   {
-    "word": "cờ ngắt",
+    "word": "cờ chân chó",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ chơi bằng bốn quân bày ở bốn góc một hình vuông khuyết một cạnh và có hai đường chéo, bên nào dồn được quân của đối phương vào thế bí là thắng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ chân chó [cờ chân chó]\n*danh từ\n-dog-leg chess (a children\"s game)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dog-leg chess (a children’s game)"
+      }
+    ]
+  },
+  {
+    "word": "cờ gian bạc lận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interrupt flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interrupt flag"
+        "dict_definition": "@cờ gian bạc lận [cờ gian bạc lận]\n-to cheat in gambling"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cheat in gambling"
+      }
+    ]
+  },
+  {
+    "word": "cờ rời bến (chữ p)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-blue peter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-blue peter"
+      }
+    ]
+  },
+  {
+    "word": "cờ hiệu tràn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-overflow flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ vây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ có ba trăm quân, khi chơi đặt từng quân một để vây nhau"
+      }
+    ]
+  },
+  {
+    "word": "cờ hiển thị cạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge visibility flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-edge visibility flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ lao đỏ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Cờ Lao Đỏ\n- Tên gọi một nhóm nhỏ của dân tộc Cờ Lao"
       }
     ]
   },
@@ -1060,38 +868,126 @@
     ]
   },
   {
-    "word": "cờ lê đường",
+    "word": "cờ tiện nghi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dirt track\n-disturbed track\n-joint trackage\n-ladder\n-shoofly\n-siding\n-strip chart\n-track wrench\n@Chuyên ngành kỹ thuật\n-dirt track\n-disturbed track\n-joint trackage\n-ladder\n-shoofly\n-siding\n-strip chart\n-track wrench"
+        "dict_definition": "@Chuyên ngành kinh tế\n-flag of convenience"
       }
     ]
   },
   {
-    "word": "cờ lao xanh",
+    "word": "cờ lông công",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Cờ Lao Xanh\n- Tên gọi một nhóm nhỏ của dân tộc Cờ Lao"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ hiệu của lính trạm chạy công văn khẩn ngày xưa\nVí dụ:\n- chạy như cờ lông công"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ lông công [cờ lông công]\n*danh từ\n-sparrow-feather flag (used by couriers for urgent dispatches in former times)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sparrow-feather flag (used by couriers for"
       }
     ]
   },
   {
-    "word": "cờ đợi",
+    "word": "cờ đăng ký bắt buộc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Wait Flag (WF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Wait Flag (WF)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Forced Registration Flag (FOREG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Forced Registration Flag (FOREG)"
       }
     ]
   },
   {
-    "word": "cờ kiểm dịch",
+    "word": "cờ thuận tiện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quarantine flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-quarantine flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-quarantine flag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag of convenience\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-flag of convenience"
+      }
+    ]
+  },
+  {
+    "word": "cờ hiệu zero",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Flag (ZF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Flag (ZF)"
+      }
+    ]
+  },
+  {
+    "word": "cờ (cho phép) ngắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Interrupt ( enable ) Flag (IF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Interrupt ( enable ) Flag (IF)"
+      }
+    ]
+  },
+  {
+    "word": "cờ vua",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cờ có ba mươi hai quân [có nguồn gốc từ Ấn Độ; gồm có: vua, hậu, sĩ, tượng, xe, mã, tốt], mỗi loại quân có một cách đi riêng, bên nào đưa vua của đối phương vào thế không được bảo vệ thì sẽ giành phần thắng\nVí dụ:\n- giải thi đấu cờ vua quốc tế"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ vua [cờ vua]\n-chess"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to play chess"
+      }
+    ]
+  },
+  {
+    "word": "cờ dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sign flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sign flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ ngắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interrupt flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-interrupt flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ chỉ hướng gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-wind vane\n@Chuyên ngành kỹ thuật\n-wind vane"
+      }
+    ]
+  },
+  {
+    "word": "cờ gỡ rối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-debugger flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-debugger flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ phân giải xung đột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-conflict resolution flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-conflict resolution flag"
       }
     ]
   },
@@ -1129,6 +1025,154 @@
     ]
   },
   {
+    "word": "cờ chỉ đọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-read-only flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-read-only flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ chỉ thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-indicator flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê 2 đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-double-ended spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-double-ended spanner"
+      }
+    ]
+  },
+  {
+    "word": "cờ lao xanh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Cờ Lao Xanh\n- Tên gọi một nhóm nhỏ của dân tộc Cờ Lao"
+      }
+    ]
+  },
+  {
+    "word": "cờ lưu trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-archived flag\n@Chuyên ngành kỹ thuật\n-archived flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ báo có người chết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mourning flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ khẩn cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Urgent Flag (URG)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Urgent Flag (URG)"
+      }
+    ]
+  },
+  {
+    "word": "cờ chiếu tướng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "chess"
+      }
+    ]
+  },
+  {
+    "word": "cờ xóa gián đoạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Interrupt Flag (CLI)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Clear Interrupt Flag (CLI)"
+      }
+    ]
+  },
+  {
+    "word": "cờ tiệp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@cờ tiệp\n- cờ báo tin thi đỗ"
+      }
+    ]
+  },
+  {
+    "word": "cờ lê đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dirt track\n-disturbed track\n-joint trackage\n-ladder\n-shoofly\n-siding\n-strip chart\n-track wrench\n@Chuyên ngành kỹ thuật\n-dirt track\n-disturbed track\n-joint trackage\n-ladder\n-shoofly\n-siding\n-strip chart\n-track wrench"
+      }
+    ]
+  },
+  {
+    "word": "cờ hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cờ hiệu [cờ hiệu]\n-pennant\n@Chuyên ngành kinh tế\n-flag\n@Chuyên ngành kỹ thuật\n-banner\n-colors\n-colours\n-flag flip-flop\n-semaphore\n-sentinel\n-standard\n@Chuyên ngành kỹ thuật\n-banner\n-colors\n-colours\n-flag flip-flop\n-semaphore\n-sentinel\n-standard"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pennant"
+      }
+    ]
+  },
+  {
+    "word": "cờ tam giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-burgee"
+      }
+    ]
+  },
+  {
+    "word": "cờ ( nhớ ) phụ trợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Auxiliary (carry) Flag (AF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Auxiliary (carry) Flag (AF)"
+      }
+    ]
+  },
+  {
+    "word": "cờ dữ liệu móc nối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chain data flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chain data flag"
+      }
+    ]
+  },
+  {
+    "word": "cờ nhớ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-carry flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-carry flag"
+      }
+    ]
+  },
+  {
     "word": "cờ hãng",
     "definitions": [
       {
@@ -1138,55 +1182,11 @@
     ]
   },
   {
-    "word": "cờ lê tuýp",
+    "word": "cờ \"bổ sung phương thức\"",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pipe spanner"
-      }
-    ]
-  },
-  {
-    "word": "cờ hiệu zero",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Flag (ZF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Zero Flag (ZF)"
-      }
-    ]
-  },
-  {
-    "word": "cờ lao",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Cờ Lao\n- (dân tộc) Tên gọi của một trong số 54 dân tộc anh em sống trên lãnh thổ Việt Nam (x. Phụ lục)\n- (tiếng) Ngôn ngữ của dân tộc Cờ Lao"
-      }
-    ]
-  },
-  {
-    "word": "cờ đuôi tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ensign\n-stern flag\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ensign\n-stern flag"
-      }
-    ]
-  },
-  {
-    "word": "cờ lông công",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cờ hiệu của lính trạm chạy công văn khẩn ngày xưa\nVí dụ:\n- chạy như cờ lông công"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cờ lông công [cờ lông công]\n*danh từ\n-sparrow-feather flag (used by couriers for urgent dispatches in former times)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sparrow-feather flag (used by couriers for"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Mode Addition Flag (MAF)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Mode Addition Flag (MAF)"
       }
     ]
   }

@@ -1,5 +1,139 @@
 [
   {
+    "word": "vỉ đo cỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sizing grid"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè trên cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sidewalk"
+      }
+    ]
+  },
+  {
+    "word": "vỉa ngầm (than, quặng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bedded deposit"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè lát ván",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-board walk"
+      }
+    ]
+  },
+  {
+    "word": "vỉ nướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-barbecue\n-broiler\n-gridiron"
+      }
+    ]
+  },
+  {
+    "word": "vỉa ngầm ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overturned bedding"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè quanh nhà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blind area"
+      }
+    ]
+  },
+  {
+    "word": "vỉa ngầm bị phá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-broken bedding\n-distorted bedding"
+      }
+    ]
+  },
+  {
+    "word": "vỉa kẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-intercalation\n-interstrafication\n-interstratification\n-seam\n-shed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa giàu khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rich gas band"
+      }
+    ]
+  },
+  {
+    "word": "vỉa cắm dốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pitching seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa atphan lẫn đất đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stone filled sheet asphalt"
+      }
+    ]
+  },
+  {
+    "word": "vỉ buồm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tấm cói đan dùng để đậy hoặc lót rổ, thúng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vỉ buồm - trellis matting"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "trellis matting"
+      }
+    ]
+  },
+  {
+    "word": "vỉ rây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve grate"
+      }
+    ]
+  },
+  {
     "word": "vỉa hè",
     "definitions": [
       {
@@ -25,294 +159,11 @@
     ]
   },
   {
-    "word": "vỉa xen giữa",
+    "word": "vỉa dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa nước ngầm bề mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phreatic surface sheet"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thick bed\n@Lĩnh vực: hóa học & vật liệu\n-thick seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dốc ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oversteepened bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa mỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thin seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bench\n-curb\n-kerb\n-road shoulder\n-shoulder\n-wayside\n@Lĩnh vực: xây dựng\n-berm"
-      }
-    ]
-  },
-  {
-    "word": "vỉa quặng lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gulf"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè lát đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone-clad blind area"
-      }
-    ]
-  },
-  {
-    "word": "vỉa đồng nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-measures"
-      }
-    ]
-  },
-  {
-    "word": "vỉa lồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-convex joint"
-      }
-    ]
-  },
-  {
-    "word": "vỉa chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-main lode\n-master lode\n-mother lode"
-      }
-    ]
-  },
-  {
-    "word": "vỉ nướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-barbecue\n-broiler\n-gridiron"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè lăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving walk"
-      }
-    ]
-  },
-  {
-    "word": "vỉ lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vỉ lò\n*danh từ\n-(trong lò sưởi) andiron, fire-grate\n@Chuyên ngành kinh tế\n-grate\n@Chuyên ngành kỹ thuật\n-grate bars\n-grillage\n-grille"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "andiron, fire-grate"
-      }
-    ]
-  },
-  {
-    "word": "vỉa quặng niken",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nickel pan"
-      }
-    ]
-  },
-  {
-    "word": "vỉa nhựa đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt leveling course"
-      }
-    ]
-  },
-  {
-    "word": "vỉ lò, ghi lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-grate\n-grating"
-      }
-    ]
-  },
-  {
-    "word": "vỉ két nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-radiator grille"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving sidewalk"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dốc nghiêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-edge seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè di động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-moving pavement\n-moving sidewalk"
-      }
-    ]
-  },
-  {
-    "word": "vỉa xây dựng mỏ nanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brick wall stopped toothing"
-      }
-    ]
-  },
-  {
-    "word": "vỉa xen tầng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-interformational sheet"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè hình giẻ quạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-segmental paving"
-      }
-    ]
-  },
-  {
-    "word": "vỉa rất dốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-highly-inclined seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa kép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-double course"
-      }
-    ]
-  },
-  {
-    "word": "vỉa atphan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sheet asphalt"
-      }
-    ]
-  },
-  {
-    "word": "vỉ mạch bộ nhớ cực nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Flash Memory Card"
-      }
-    ]
-  },
-  {
-    "word": "vỉa ngầm nguyên thủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-primary bedding"
-      }
-    ]
-  },
-  {
-    "word": "vỉa chứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reservoir bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rock ledge\n-stone bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa thay thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-replacement lode"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-field\n-oil field\n-oil layer\n-oil measures\n-reservoir"
       }
     ]
   },
@@ -326,47 +177,101 @@
     ]
   },
   {
-    "word": "vỉa hè lát sỏi",
+    "word": "vỉa kép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pebble pavement\n-pebblesidewalk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-double course"
       }
     ]
   },
   {
-    "word": "vỉa ngầm ngược",
+    "word": "vỉa mặt trước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overturned bedding"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-frontal layer"
       }
     ]
   },
   {
-    "word": "vỉa lót dưới",
+    "word": "vỉa móc, đá lớp nóc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-subjacent bed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-superincumbent bed"
       }
     ]
   },
   {
-    "word": "vỉ đậy",
+    "word": "vỉa nhựa đường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-grill cover"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt leveling course"
       }
     ]
   },
   {
-    "word": "vỉa kép mạch xây",
+    "word": "vỉ sàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-seam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve grate"
+      }
+    ]
+  },
+  {
+    "word": "vỉa dốc ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oversteepened bed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving sidewalk"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè lăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving walk"
+      }
+    ]
+  },
+  {
+    "word": "vỉa cát kết dầy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-post"
+      }
+    ]
+  },
+  {
+    "word": "vỉ thuốc viên ép lấy ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-push-though pill pack"
+      }
+    ]
+  },
+  {
+    "word": "vỉa xâm nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-intruded deposit\n-intrusive sheet\n-sill"
       }
     ]
   },
@@ -380,6 +285,86 @@
     ]
   },
   {
+    "word": "vỉ lọc dưới bơm dầu (nhớt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-oil pump strainer"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè lát gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brick pavement\n-brick sidewalk"
+      }
+    ]
+  },
+  {
+    "word": "vỉa lót dưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-subjacent bed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa atphan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sheet asphalt"
+      }
+    ]
+  },
+  {
+    "word": "vỉ uốn nếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-puckering"
+      }
+    ]
+  },
+  {
+    "word": "vỉa dốc nghiêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-edge seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa ngầm nguyên thủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-primary bedding"
+      }
+    ]
+  },
+  {
+    "word": "vỉ ruồi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vật dùng để đập ruồi, thường đan bằng nan tre mỏng và có cán dài\nVí dụ:\n- đan vỉ ruồi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vỉ ruồi\n*danh từ\n-fly-swatter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fly-swatter"
+      }
+    ]
+  },
+  {
     "word": "vỉa lót",
     "definitions": [
       {
@@ -389,29 +374,245 @@
     ]
   },
   {
-    "word": "vỉa giàu khí",
+    "word": "vỉ đường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rich gas band"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roadside"
       }
     ]
   },
   {
-    "word": "vỉa lăng trụ",
+    "word": "vỉa bị phá hủy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-prismatic bed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-disrupted bed"
       }
     ]
   },
   {
-    "word": "vỉa atphan lẫn đất đá",
+    "word": "vỉa hè bờ đường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stone filled sheet asphalt"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pavement"
+      }
+    ]
+  },
+  {
+    "word": "vỉa xen giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa than dạng dải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ribbed coal seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa ngầm không thuận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-discordant bedding"
+      }
+    ]
+  },
+  {
+    "word": "vỉa quặng niken",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nickel pan"
+      }
+    ]
+  },
+  {
+    "word": "vỉa dốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-steep seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè di động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-moving pavement\n-moving sidewalk"
+      }
+    ]
+  },
+  {
+    "word": "vỉa lồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-convex joint"
+      }
+    ]
+  },
+  {
+    "word": "vỉa đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bench\n-curb\n-kerb\n-road shoulder\n-shoulder\n-wayside\n@Lĩnh vực: xây dựng\n-berm"
+      }
+    ]
+  },
+  {
+    "word": "vỉa than dốc nghiêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pitch coal"
+      }
+    ]
+  },
+  {
+    "word": "vỉa lõm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-concave joint"
+      }
+    ]
+  },
+  {
+    "word": "vỉa vát nhọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bed pinchout"
+      }
+    ]
+  },
+  {
+    "word": "vỉa nằm kề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-contiguous seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉ đậy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-grill cover"
+      }
+    ]
+  },
+  {
+    "word": "vỉa xen tầng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-interformational sheet"
+      }
+    ]
+  },
+  {
+    "word": "vỉa phủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-burden"
+      }
+    ]
+  },
+  {
+    "word": "vỉa mỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thin seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa dốc đứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-edge seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa quặng xâm nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ore sill"
+      }
+    ]
+  },
+  {
+    "word": "vỉa chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-main lode\n-master lode\n-mother lode"
+      }
+    ]
+  },
+  {
+    "word": "vỉa chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reservoir bed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa thẳng đứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vertical bed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa dày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thick bed\n@Lĩnh vực: hóa học & vật liệu\n-thick seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa xây dựng mỏ nanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brick wall stopped toothing"
+      }
+    ]
+  },
+  {
+    "word": "vỉa liền sát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-contiguous seam"
       }
     ]
   },
@@ -449,306 +650,101 @@
     ]
   },
   {
-    "word": "vỉa dốc đứng",
+    "word": "vỉa rất dốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-edge seam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-highly-inclined seam"
       }
     ]
   },
   {
-    "word": "vỉa than đá",
+    "word": "vỉa đồng nhất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-coal bed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-measures"
       }
     ]
   },
   {
-    "word": "vỉa móc, đá lớp nóc",
+    "word": "vỉa lăng trụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-superincumbent bed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-prismatic bed"
       }
     ]
   },
   {
-    "word": "vỉ sàng",
+    "word": "vỉa dầu xa bờ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve grate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-offshore field"
       }
     ]
   },
   {
-    "word": "vỉ lọc dầu",
+    "word": "vỉa nước ngầm bề mặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil strainer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phreatic surface sheet"
       }
     ]
   },
   {
-    "word": "vỉa nghiêng",
+    "word": "vỉa hè lát sỏi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inclined seam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pebble pavement\n-pebblesidewalk"
       }
     ]
   },
   {
-    "word": "vỉa hè bờ đường",
+    "word": "vỉa quặng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pavement"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ore bed\n-sheet ground\n-vein of ore"
       }
     ]
   },
   {
-    "word": "vỉa khai thác được",
+    "word": "vỉa chứa khí nổ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-workable seam"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fiery seam"
       }
     ]
   },
   {
-    "word": "vỉa kẹp",
+    "word": "vỉa chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-intercalation\n-interstrafication\n-interstratification\n-seam\n-shed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-key bed"
       }
     ]
   },
   {
-    "word": "vỉa than",
+    "word": "vỉa hè bê tông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-coal bed\n-coal measures\n-coal seam\n-coal vein\n-coal-stream"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-concrete pavement\n-concrete sidewalk"
       }
     ]
   },
   {
-    "word": "vỉa hè quanh nhà",
+    "word": "vỉa tường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blind area"
-      }
-    ]
-  },
-  {
-    "word": "vỉ ruồi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vật dùng để đập ruồi, thường đan bằng nan tre mỏng và có cán dài\nVí dụ:\n- đan vỉ ruồi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vỉ ruồi\n*danh từ\n-fly-swatter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fly-swatter"
-      }
-    ]
-  },
-  {
-    "word": "vỉa mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-branch"
-      }
-    ]
-  },
-  {
-    "word": "vỉa (hè)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-list"
-      }
-    ]
-  },
-  {
-    "word": "vỉa đi kèm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-associated sheet"
-      }
-    ]
-  },
-  {
-    "word": "vỉa ngầm bị phá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-broken bedding\n-distorted bedding"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-carrier bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè lát gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brick pavement\n-brick sidewalk"
-      }
-    ]
-  },
-  {
-    "word": "vỉa bị phá hủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-disrupted bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉ uốn nếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-puckering"
-      }
-    ]
-  },
-  {
-    "word": "vỉa nằm kề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-contiguous seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-subjacent bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa cắm dốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pitching seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa xen (địa chất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-interlayer"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-steep seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉ buồm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tấm cói đan dùng để đậy hoặc lót rổ, thúng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vỉ buồm - trellis matting"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "trellis matting"
-      }
-    ]
-  },
-  {
-    "word": "vỉa kẹp giữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sandwich"
-      }
-    ]
-  },
-  {
-    "word": "vỉ thuốc viên ép lấy ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-push-though pill pack"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-field\n-oil field\n-oil layer\n-oil measures\n-reservoir"
-      }
-    ]
-  },
-  {
-    "word": "vỉa than dạng dải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ribbed coal seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa than dốc nghiêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pitch coal"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè lát ván",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-board walk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wall-paper edging"
       }
     ]
   },
@@ -782,83 +778,60 @@
     ]
   },
   {
-    "word": "vỉa xâm nhập",
+    "word": "vỉa đi kèm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-intruded deposit\n-intrusive sheet\n-sill"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-associated sheet"
       }
     ]
   },
   {
-    "word": "vỉa tường",
+    "word": "vỉa quặng lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wall-paper edging"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gulf"
       }
     ]
   },
   {
-    "word": "vỉa than trên mặt",
+    "word": "vỉa dẫn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-callow"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-carrier bed"
       }
     ]
   },
   {
-    "word": "vỉa hè bê tông",
+    "word": "vỉ lò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-concrete pavement\n-concrete sidewalk"
+        "dict_definition": "@vỉ lò\n*danh từ\n-(trong lò sưởi) andiron, fire-grate\n@Chuyên ngành kinh tế\n-grate\n@Chuyên ngành kỹ thuật\n-grate bars\n-grillage\n-grille"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "andiron, fire-grate"
       }
     ]
   },
   {
-    "word": "vỉa phủ",
+    "word": "vỉ lò, ghi lò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-burden"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-grate\n-grating"
       }
     ]
   },
   {
-    "word": "vỉa vát nhọn",
+    "word": "vỉa hè lát đá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bed pinchout"
-      }
-    ]
-  },
-  {
-    "word": "vỉa cát kết dầy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-post"
-      }
-    ]
-  },
-  {
-    "word": "vỉa ngầm (than, quặng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bedded deposit"
-      }
-    ]
-  },
-  {
-    "word": "vỉ đo cỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sizing grid"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone-clad blind area"
       }
     ]
   },
@@ -872,119 +845,20 @@
     ]
   },
   {
-    "word": "vỉa quặng",
+    "word": "vỉa khai thác được",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ore bed\n-sheet ground\n-vein of ore"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-workable seam"
       }
     ]
   },
   {
-    "word": "vỉa liền sát",
+    "word": "vỉa dưới",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-contiguous seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa dầu xa bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-offshore field"
-      }
-    ]
-  },
-  {
-    "word": "vỉa thoải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flat deposit"
-      }
-    ]
-  },
-  {
-    "word": "vỉa thẳng đứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vertical bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa chứa khí nổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fiery seam"
-      }
-    ]
-  },
-  {
-    "word": "vỉa mặt trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-frontal layer"
-      }
-    ]
-  },
-  {
-    "word": "vỉ đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roadside"
-      }
-    ]
-  },
-  {
-    "word": "vỉa chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-key bed"
-      }
-    ]
-  },
-  {
-    "word": "vỉa quặng xâm nhập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ore sill"
-      }
-    ]
-  },
-  {
-    "word": "vỉa hè trên cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sidewalk"
-      }
-    ]
-  },
-  {
-    "word": "vỉ rây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve grate"
-      }
-    ]
-  },
-  {
-    "word": "vỉa lõm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-concave joint"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-subjacent bed"
       }
     ]
   },
@@ -998,20 +872,146 @@
     ]
   },
   {
-    "word": "vỉ lọc dưới bơm dầu (nhớt)",
+    "word": "vỉa thay thế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-oil pump strainer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-replacement lode"
       }
     ]
   },
   {
-    "word": "vỉa ngầm không thuận",
+    "word": "vỉa than",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-discordant bedding"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-coal bed\n-coal measures\n-coal seam\n-coal vein\n-coal-stream"
+      }
+    ]
+  },
+  {
+    "word": "vỉa than đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-coal bed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa xen (địa chất)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-interlayer"
+      }
+    ]
+  },
+  {
+    "word": "vỉa (hè)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-list"
+      }
+    ]
+  },
+  {
+    "word": "vỉ lọc dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil strainer"
+      }
+    ]
+  },
+  {
+    "word": "vỉa kẹp giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sandwich"
+      }
+    ]
+  },
+  {
+    "word": "vỉ mạch bộ nhớ cực nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Flash Memory Card"
+      }
+    ]
+  },
+  {
+    "word": "vỉa nghiêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-inclined seam"
+      }
+    ]
+  },
+  {
+    "word": "vỉa hè hình giẻ quạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-segmental paving"
+      }
+    ]
+  },
+  {
+    "word": "vỉa đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rock ledge\n-stone bed"
+      }
+    ]
+  },
+  {
+    "word": "vỉa than trên mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-callow"
+      }
+    ]
+  },
+  {
+    "word": "vỉa mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-branch"
+      }
+    ]
+  },
+  {
+    "word": "vỉa thoải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flat deposit"
+      }
+    ]
+  },
+  {
+    "word": "vỉ két nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-radiator grille"
+      }
+    ]
+  },
+  {
+    "word": "vỉa kép mạch xây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-seam"
       }
     ]
   }

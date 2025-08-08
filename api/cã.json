@@ -1,14 +1,5 @@
 [
   {
-    "word": "cãi dĩa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fork\n@Chuyên ngành kỹ thuật\n-fork"
-      }
-    ]
-  },
-  {
     "word": "cãi nhau",
     "definitions": [
       {
@@ -18,70 +9,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to fight, quarrel; fight, quarrel"
-      }
-    ]
-  },
-  {
-    "word": "cãi bướng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@cãi bướng\n- đgt. Cãi bừa, cãi liều, chẳng có lí lẽ, cơ sở gì: Đừng có cãi bướng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cãi bướng\n*verb\n-to argue obstinately"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cãi bướng\n* verb\n-to argue obstinately"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to argue stubbornly"
-      }
-    ]
-  },
-  {
-    "word": "cãi với",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to argue with"
-      }
-    ]
-  },
-  {
-    "word": "cãi cọ nhau om sòm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "they quarelled noisily"
-      }
-    ]
-  },
-  {
-    "word": "cãi lộn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cãi cọ nhau có tính chất hơn thua\nVí dụ:\n- nó đang cãi lộn với em"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@cãi lộn\n- đgt. Như Cãi nhau: Sao anh em cứ hay cãi lộn thế?."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cãi lộn\n*verb\n-To quarrel"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cãi lộn\n* verb\n- To quarrel"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to fight, quarrel"
       }
     ]
   },
@@ -111,6 +38,31 @@
     ]
   },
   {
+    "word": "cãi lộn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cãi cọ nhau có tính chất hơn thua\nVí dụ:\n- nó đang cãi lộn với em"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@cãi lộn\n- đgt. Như Cãi nhau: Sao anh em cứ hay cãi lộn thế?."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cãi lộn\n*verb\n-To quarrel"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cãi lộn\n* verb\n- To quarrel"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to fight, quarrel"
+      }
+    ]
+  },
+  {
     "word": "cãi lẽ",
     "definitions": [
       {
@@ -128,32 +80,32 @@
     ]
   },
   {
-    "word": "cãi nhau ỏm lên",
+    "word": "cãi dĩa",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to quarrel loudly"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fork\n@Chuyên ngành kỹ thuật\n-fork"
       }
     ]
   },
   {
-    "word": "cãi cọ",
+    "word": "cãi bướng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cãi nhau lôi thôi giữa hai bên\nVí dụ:\n- nó đang cãi cọ với bà bán hàng \n - bà ta cãi cọ với người qua đường"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@cãi bướng\n- đgt. Cãi bừa, cãi liều, chẳng có lí lẽ, cơ sở gì: Đừng có cãi bướng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cãi cọ\n*verb\n-To have an argument with (nói khái quát)\n=không bao giờ cãi cọ với ai\n+Never to have an argument with anyone"
+        "dict_definition": "@cãi bướng\n*verb\n-to argue obstinately"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cãi cọ\n* verb\n- To have an argument with (nói khái quát)\n=không bao giờ cãi cọ với ai+Never to have an argument with anyone"
+        "dict_definition": "@cãi bướng\n* verb\n-to argue obstinately"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to quarrel, dispute, argue"
+        "dict_definition": "to argue stubbornly"
       }
     ]
   },
@@ -183,6 +135,54 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to argue, quarrel, contradict, deny"
+      }
+    ]
+  },
+  {
+    "word": "cãi cọ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cãi nhau lôi thôi giữa hai bên\nVí dụ:\n- nó đang cãi cọ với bà bán hàng \n - bà ta cãi cọ với người qua đường"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cãi cọ\n*verb\n-To have an argument with (nói khái quát)\n=không bao giờ cãi cọ với ai\n+Never to have an argument with anyone"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cãi cọ\n* verb\n- To have an argument with (nói khái quát)\n=không bao giờ cãi cọ với ai+Never to have an argument with anyone"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to quarrel, dispute, argue"
+      }
+    ]
+  },
+  {
+    "word": "cãi với",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to argue with"
+      }
+    ]
+  },
+  {
+    "word": "cãi nhau ỏm lên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to quarrel loudly"
+      }
+    ]
+  },
+  {
+    "word": "cãi cọ nhau om sòm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "they quarelled noisily"
       }
     ]
   }

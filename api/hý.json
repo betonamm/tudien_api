@@ -1,5 +1,36 @@
 [
   {
+    "word": "hý kịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem hí kịch"
+      }
+    ]
+  },
+  {
+    "word": "hý khúc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem hí khúc"
+      }
+    ]
+  },
+  {
+    "word": "hý",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem hí"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hý [hý]\n-amuse oneself"
+      }
+    ]
+  },
+  {
     "word": "hý họa",
     "definitions": [
       {
@@ -17,15 +48,6 @@
     ]
   },
   {
-    "word": "hý trường",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hí trường"
-      }
-    ]
-  },
-  {
     "word": "hý viện",
     "definitions": [
       {
@@ -35,33 +57,11 @@
     ]
   },
   {
-    "word": "hý khúc",
+    "word": "hý trường",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hí khúc"
-      }
-    ]
-  },
-  {
-    "word": "hý kịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hí kịch"
-      }
-    ]
-  },
-  {
-    "word": "hý",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hí"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hý [hý]\n-amuse oneself"
+        "dict_definition": "xem hí trường"
       }
     ]
   }

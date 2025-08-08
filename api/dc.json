@@ -1,5 +1,14 @@
 [
   {
+    "word": "dc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-direct current"
+      }
+    ]
+  },
+  {
     "word": "dctl",
     "definitions": [
       {
@@ -14,15 +23,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-DCE (Distributed Computing Environment)"
-      }
-    ]
-  },
-  {
-    "word": "dc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-direct current"
       }
     ]
   }

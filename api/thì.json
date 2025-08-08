@@ -1,28 +1,135 @@
 [
   {
-    "word": "thì xả (thì thoát)",
+    "word": "thì ra vậy",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-exhaust stroke"
+        "dict_name": "VNEDICT",
+        "dict_definition": "so that’s it, so that’s what it is, so that’s the way it is"
       }
     ]
   },
   {
-    "word": "thì thà thì thầm",
+    "word": "thì là gì",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "then what is (it)"
+      }
+    ]
+  },
+  {
+    "word": "thì phát động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-working stroke"
+      }
+    ]
+  },
+  {
+    "word": "thì nạp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-charging stroke\n@Lĩnh vực: cơ khí & công trình\n-intake stroke"
+      }
+    ]
+  },
+  {
+    "word": "thìa là",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như thì thầm [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- chúng nó thì thà thì thầm với nhau cả đêm \n - nó thì thà thì thầm với chị điều gì"
+        "dict_definition": "rau có phiến lá xẻ thành bản hình sợi, mùi thơm, thường dùng làm gia vị trong các món canh chua"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thìa là\n- Loài cây thuộc họ mùi, lá bản hẹp, có mùi thơm dùng làm rau ăn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thìa là - như"
       }
     ]
   },
   {
-    "word": "thìa hớt váng xoáy",
+    "word": "thì chớ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị ý phủ định về điều cho là nếu như vậy thì có thể chẳng nói đến làm gì, nhằm nhấn mạnh điều xảy ra trên thực tế khác hẳn hoặc trái ngược hoàn toàn\nVí dụ:\n- đã chẳng được khen thì chớ, lại còn bị mắng"
+      }
+    ]
+  },
+  {
+    "word": "thìa vớt váng đập (tràn)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-vortex skimmer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-weir skimmer"
+      }
+    ]
+  },
+  {
+    "word": "thìa bàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tablespoonful"
+      }
+    ]
+  },
+  {
+    "word": "thì thầm vào tai",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to whisper in someone’s ear"
+      }
+    ]
+  },
+  {
+    "word": "thì sao?",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật"
+      }
+    ]
+  },
+  {
+    "word": "thìa khoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drill scoop\n-mud auger"
+      }
+    ]
+  },
+  {
+    "word": "thì nổ dãn (thì phát động)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Power stroke"
+      }
+    ]
+  },
+  {
+    "word": "thì nay",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "but now"
+      }
+    ]
+  },
+  {
+    "word": "thì nén",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-compression stroke"
       }
     ]
   },
@@ -52,50 +159,6 @@
     ]
   },
   {
-    "word": "thìa là",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rau có phiến lá xẻ thành bản hình sợi, mùi thơm, thường dùng làm gia vị trong các món canh chua"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thìa là\n- Loài cây thuộc họ mùi, lá bản hẹp, có mùi thơm dùng làm rau ăn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thìa là - như"
-      }
-    ]
-  },
-  {
-    "word": "thì nạp hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-induction stroke"
-      }
-    ]
-  },
-  {
-    "word": "thìa móc (vụn đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crowfoot"
-      }
-    ]
-  },
-  {
-    "word": "thì nạp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-charging stroke\n@Lĩnh vực: cơ khí & công trình\n-intake stroke"
-      }
-    ]
-  },
-  {
     "word": "thì ra",
     "definitions": [
       {
@@ -117,169 +180,73 @@
     ]
   },
   {
-    "word": "thìn",
+    "word": "thìu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[thường viết hoa] kí hiệu thứ năm trong địa chi [lấy rồng làm tượng trưng; sau mão, trước tị], dùng trong phép đếm thời gian cổ truyền của Trung Quốc và một số nước châu Á, trong đó có Việt Nam\nVí dụ:\n- giờ thìn (từ 7 đến 9 giờ sáng) \n - năm Canh Thìn"
+        "dict_definition": "cây gỗ dài dùng trong vì chống của hầm lò"
+      }
+    ]
+  },
+  {
+    "word": "thì phải vậy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "then it has to be that way"
+      }
+    ]
+  },
+  {
+    "word": "thì đạo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dateline"
+      }
+    ]
+  },
+  {
+    "word": "thìa móc (vụn đá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crowfoot"
+      }
+    ]
+  },
+  {
+    "word": "thì thòm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng trầm, gọn và vang đều đều như tiếng trống vẳng lại từ xa\nVí dụ:\n- tiếng tát nước thì thòm trong đêm \n - \"Thì thòm trống điểm tàn canh, Để coi người ngọc, duyên lành trao ai?\" (Cdao)"
+      }
+    ]
+  },
+  {
+    "word": "thì đây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "this is"
+      }
+    ]
+  },
+  {
+    "word": "thình thịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng trầm và nặng, phát ra liên tiếp, như tiếng chân giẫm mạnh và đều trên nền đất\nVí dụ:\n- tim đập thình thịch \n - tiếng chân chạy thình thịch trên nền đất"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thìn\n- d. Chữ thứ năm trong hàng chi: Giờ thìn; Năm thìn.\n- t. Nói tính nết thuần và tốt (cũ): Nguyệt Nga khi ấy càng thìn nết na (LVT).\n- đg. Gìn, gìn giữ (cũ): Hết kính hết thìn, bề tiến thoái (Nguyễn Trãi).\n\n@thìn\n- răn, giữ"
+        "dict_definition": "@thình thịch\n- Tiếng đánh hay đập mạnh và không giòn: Đấm thình thịch vào lưng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thìn [thìn]\n-(tử vi) Dragon"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fifth year of the Chinese zodiac (“dragon”)"
-      }
-    ]
-  },
-  {
-    "word": "thì là",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem thìa là"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thì là [thì là"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dill, fennel"
-      }
-    ]
-  },
-  {
-    "word": "thì thào",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả tiếng nói chuyện với nhau rất nhỏ, nghe tựa như hơi gió thoảng qua tai\nVí dụ:\n- họ thì thào với nhau điều gì \n - nghe có tiếng thì thào"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thì thào\n- đgt. Nói nhỏ, không rõ thành tiếng, nghe lẫn vào trong hơi gió: nghe tiếng thì thào ở cuối lớp  Hai người thì thào với nhau điều gì."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thì thào\n*verb\n-to whisper"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thì thào\n* verb\n- to whisper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to whisper"
-      }
-    ]
-  },
-  {
-    "word": "thì là gì",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "then what is (it)"
-      }
-    ]
-  },
-  {
-    "word": "thì chớ kể",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý khẳng định với người đối thoại là sẽ không sao tránh được điều không hay như vừa nói đến hoặc như điều đã biết rõ trước đó [hàm ý đe doạ, cảnh cáo]\nVí dụ:\n- làm thế nó mà biết được thì chớ kể"
-      }
-    ]
-  },
-  {
-    "word": "thì (kì) nạp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-induction stroke\n-inlet stroke\n-intake stroke"
-      }
-    ]
-  },
-  {
-    "word": "thình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng to và rền như tiếng của vật nặng rơi xuống hay tiếng va đập mạnh\nVí dụ:\n- khúc gỗ rơi thình xuống đất \n - đập bàn đánh thình một cái"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thình\n- t. Từ mô phỏng tiếng to và rền như tiếng của vật nặng rơi xuống hay tiếng va đập mạnh vào cửa. Rơi đánh thình một cái. Tiếng đập cửa thình thình."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thình\n*noun\n-bang"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thình\n* noun\n- bang"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bang"
-      }
-    ]
-  },
-  {
-    "word": "thì chớ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý phủ định về điều cho là nếu như vậy thì có thể chẳng nói đến làm gì, nhằm nhấn mạnh điều xảy ra trên thực tế khác hẳn hoặc trái ngược hoàn toàn\nVí dụ:\n- đã chẳng được khen thì chớ, lại còn bị mắng"
-      }
-    ]
-  },
-  {
-    "word": "thìa canh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thìa lớn, thường dùng để múc canh"
-      }
-    ]
-  },
-  {
-    "word": "thì thọt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như thì thụt\nVí dụ:\n- cô ấy thì thọt qua lại, rầm rì với vợ tôi cả buổi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thì thọt\n- đg. (kng.). Như thì thụt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thì thọt\n*verb\n-to sneak in and out"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thì thọt\n* verb\n- to sneak in and out"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to dash in and out, sneak in and out"
-      }
-    ]
-  },
-  {
-    "word": "thì giờ là vàng bạc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "time is money"
+        "dict_definition": "@thình thịch\n*danh từ\n-như"
       }
     ]
   },
@@ -306,283 +273,11 @@
     ]
   },
   {
-    "word": "thì nay",
+    "word": "thì thụp",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "but now"
-      }
-    ]
-  },
-  {
-    "word": "thìa bàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tablespoonful"
-      }
-    ]
-  },
-  {
-    "word": "thì sao?",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật"
-      }
-    ]
-  },
-  {
-    "word": "thìu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây gỗ dài dùng trong vì chống của hầm lò"
-      }
-    ]
-  },
-  {
-    "word": "thì sao",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "what about, how about, then what (will happen)?"
-      }
-    ]
-  },
-  {
-    "word": "thì nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-compression stroke"
-      }
-    ]
-  },
-  {
-    "word": "thì nạp (động cơ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-suction stroke"
-      }
-    ]
-  },
-  {
-    "word": "thìa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ dùng thường làm bằng kim loại hoặc bằng nhựa, có cán cầm, dùng để múc thức ăn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thìa\n- d. Dụng cụ có một cái cán nối liền với một phần trũng, dùng để múc thức ăn lỏng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thìa\n*noun\n-spoon\n@Chuyên ngành kinh tế\n-spoon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-then"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thìa\n* noun\n- spoon"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "spoon, spoonful, handle (on a grenade)"
-      }
-    ]
-  },
-  {
-    "word": "thì nổ dãn (thì phát động)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Power stroke"
-      }
-    ]
-  },
-  {
-    "word": "thì đây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "this is"
-      }
-    ]
-  },
-  {
-    "word": "thì phải vậy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "then it has to be that way"
-      }
-    ]
-  },
-  {
-    "word": "thình lình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[việc gì diễn ra] một cách hết sức bất ngờ, không thể lường trước được\nVí dụ:\n- cơn giông thình lình ập tới \n - chiếc máy bay thình lình bổ nhào"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thình lình\n- pht. Bỗng nhiên, bất ngờ, không hề biết trước, lường trước: thình lình bị tấn công  trời đang nắng thình lình đổ mưa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thình lình\n*adv\n-suddenly, all of a sudden\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sudden"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thình lình\n* adv\n- suddenly, all of a sudden"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "suddenly, all of a sudden, unexpected"
-      }
-    ]
-  },
-  {
-    "word": "thìa múc đầu thanh chuyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-connecting rod dipper"
-      }
-    ]
-  },
-  {
-    "word": "thìa lìa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái nằm chìa ra ngoài, gây vướng víu"
-      }
-    ]
-  },
-  {
-    "word": "thì lại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "then, on the other hand, in contrast, but, however"
-      }
-    ]
-  },
-  {
-    "word": "thì thòm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng trầm, gọn và vang đều đều như tiếng trống vẳng lại từ xa\nVí dụ:\n- tiếng tát nước thì thòm trong đêm \n - \"Thì thòm trống điểm tàn canh, Để coi người ngọc, duyên lành trao ai?\" (Cdao)"
-      }
-    ]
-  },
-  {
-    "word": "thình lình, đột xuất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sudden"
-      }
-    ]
-  },
-  {
-    "word": "thìa ăn món tráng miệng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dessert-spoon"
-      }
-    ]
-  },
-  {
-    "word": "thìa múc đầu thanh truyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-connecting rod dipper"
-      }
-    ]
-  },
-  {
-    "word": "thì thà thì thụt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như thì thụt [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- bọn nó thì thà thì thụt với nhau cả ngày \n - nó thì thà thì thụt ra vào"
-      }
-    ]
-  },
-  {
-    "word": "thì thải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-exhaust stroke"
-      }
-    ]
-  },
-  {
-    "word": "thì giờ rảnh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "free time"
-      }
-    ]
-  },
-  {
-    "word": "thình thịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng trầm và nặng, phát ra liên tiếp, như tiếng chân giẫm mạnh và đều trên nền đất\nVí dụ:\n- tim đập thình thịch \n - tiếng chân chạy thình thịch trên nền đất"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thình thịch\n- Tiếng đánh hay đập mạnh và không giòn: Đấm thình thịch vào lưng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thình thịch\n*danh từ\n-như"
-      }
-    ]
-  },
-  {
-    "word": "thì giờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thời gian, về mặt sử dụng có ích cho con người\nVí dụ:\n- có đủ thì giờ chuẩn bị \n - chẳng có thì giờ đâu mà để tâm đến chuyện ấy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thì giờ\n- Thời gian nói về mặt giá trị đối với con người : Dùng thì giờ cho hợp lý ; Bỏ phí thì giờ ; Giết thì giờ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thì giờ\n*noun\n-time"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thì giờ\n* noun\n- time"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "time"
-      }
-    ]
-  },
-  {
-    "word": "thì nạp chậm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-admission lag"
+        "dict_definition": "to kneel and rise repeatedly"
       }
     ]
   },
@@ -600,11 +295,28 @@
     ]
   },
   {
-    "word": "thì cũng",
+    "word": "thìa ăn món tráng miệng",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dessert-spoon"
+      }
+    ]
+  },
+  {
+    "word": "thì là",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem thìa là"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thì là [thì là"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "at this time"
+        "dict_definition": "dill, fennel"
       }
     ]
   },
@@ -662,121 +374,11 @@
     ]
   },
   {
-    "word": "thì ăn trứng",
+    "word": "thì nạp hơi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-egg-spoon"
-      }
-    ]
-  },
-  {
-    "word": "thì vào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in"
-      }
-    ]
-  },
-  {
-    "word": "thì giãn nở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-expansion stroke\n@Lĩnh vực: điện\n-power stroke"
-      }
-    ]
-  },
-  {
-    "word": "thì thôi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý đành chấp nhận cái thực tế vừa nêu ra, coi như không có gì cần phải nói tới nữa\nVí dụ:\n- không ăn thì thôi, kệ nó \n - \"Chẳng thà không biết thì thôi, Biết ra mỗi đứa, mỗi nơi thêm buồn.\" (Cdao)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thì thôi - no use insisting"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "if that’s the case, then it can’t be helped (there’s nothing one can do)"
-      }
-    ]
-  },
-  {
-    "word": "thì thùng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng trống đánh nhịp nhàng khoan thai, nghe vẳng lại từ đâu đó\nVí dụ:\n- tiếng trống thì thùng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thì thùng\n- Tiếng trống đánh: Trống chùa ai đánh thì thùng (cd)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thì thùng - beat or roll on the drum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sound of drums"
-      }
-    ]
-  },
-  {
-    "word": "thì sinh công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-effective stroke\n-firing stroke"
-      }
-    ]
-  },
-  {
-    "word": "thì thụp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to kneel and rise repeatedly"
-      }
-    ]
-  },
-  {
-    "word": "thìa khoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drill scoop\n-mud auger"
-      }
-    ]
-  },
-  {
-    "word": "thìa lấy mẫu đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sampling spoon"
-      }
-    ]
-  },
-  {
-    "word": "thì ra vậy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "so that’s it, so that’s what it is, so that’s the way it is"
-      }
-    ]
-  },
-  {
-    "word": "thì thụt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ra vào, lui tới luôn một cách lén lút, vụng trộm, không đàng hoàng\nVí dụ:\n- nó thì thụt ra vào cả buổi"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-induction stroke"
       }
     ]
   },
@@ -806,6 +408,103 @@
     ]
   },
   {
+    "word": "thì chớ kể",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị ý khẳng định với người đối thoại là sẽ không sao tránh được điều không hay như vừa nói đến hoặc như điều đã biết rõ trước đó [hàm ý đe doạ, cảnh cáo]\nVí dụ:\n- làm thế nó mà biết được thì chớ kể"
+      }
+    ]
+  },
+  {
+    "word": "thì thà thì thụt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như thì thụt [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- bọn nó thì thà thì thụt với nhau cả ngày \n - nó thì thà thì thụt ra vào"
+      }
+    ]
+  },
+  {
+    "word": "thì kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-timer"
+      }
+    ]
+  },
+  {
+    "word": "thì vào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in"
+      }
+    ]
+  },
+  {
+    "word": "thì nạp (động cơ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-suction stroke"
+      }
+    ]
+  },
+  {
+    "word": "thìa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đồ dùng thường làm bằng kim loại hoặc bằng nhựa, có cán cầm, dùng để múc thức ăn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thìa\n- d. Dụng cụ có một cái cán nối liền với một phần trũng, dùng để múc thức ăn lỏng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thìa\n*noun\n-spoon\n@Chuyên ngành kinh tế\n-spoon\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-then"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thìa\n* noun\n- spoon"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "spoon, spoonful, handle (on a grenade)"
+      }
+    ]
+  },
+  {
+    "word": "thì ăn trứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-egg-spoon"
+      }
+    ]
+  },
+  {
+    "word": "thì thải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-exhaust stroke"
+      }
+    ]
+  },
+  {
+    "word": "thì sao",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "what about, how about, then what (will happen)?"
+      }
+    ]
+  },
+  {
     "word": "thì nổ",
     "definitions": [
       {
@@ -815,20 +514,235 @@
     ]
   },
   {
-    "word": "thìa vớt váng đập (tràn)",
+    "word": "thìa canh",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-weir skimmer"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thìa lớn, thường dùng để múc canh"
       }
     ]
   },
   {
-    "word": "thì phát động",
+    "word": "thình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng to và rền như tiếng của vật nặng rơi xuống hay tiếng va đập mạnh\nVí dụ:\n- khúc gỗ rơi thình xuống đất \n - đập bàn đánh thình một cái"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thình\n- t. Từ mô phỏng tiếng to và rền như tiếng của vật nặng rơi xuống hay tiếng va đập mạnh vào cửa. Rơi đánh thình một cái. Tiếng đập cửa thình thình."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thình\n*noun\n-bang"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thình\n* noun\n- bang"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bang"
+      }
+    ]
+  },
+  {
+    "word": "thì nạp chậm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-working stroke"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-admission lag"
+      }
+    ]
+  },
+  {
+    "word": "thì (kì) nạp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-induction stroke\n-inlet stroke\n-intake stroke"
+      }
+    ]
+  },
+  {
+    "word": "thìn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[thường viết hoa] kí hiệu thứ năm trong địa chi [lấy rồng làm tượng trưng; sau mão, trước tị], dùng trong phép đếm thời gian cổ truyền của Trung Quốc và một số nước châu Á, trong đó có Việt Nam\nVí dụ:\n- giờ thìn (từ 7 đến 9 giờ sáng) \n - năm Canh Thìn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thìn\n- d. Chữ thứ năm trong hàng chi: Giờ thìn; Năm thìn.\n- t. Nói tính nết thuần và tốt (cũ): Nguyệt Nga khi ấy càng thìn nết na (LVT).\n- đg. Gìn, gìn giữ (cũ): Hết kính hết thìn, bề tiến thoái (Nguyễn Trãi).\n\n@thìn\n- răn, giữ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thìn [thìn]\n-(tử vi) Dragon"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fifth year of the Chinese zodiac (“dragon”)"
+      }
+    ]
+  },
+  {
+    "word": "thìa lìa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái nằm chìa ra ngoài, gây vướng víu"
+      }
+    ]
+  },
+  {
+    "word": "thìa múc đầu thanh truyền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-connecting rod dipper"
+      }
+    ]
+  },
+  {
+    "word": "thìa hớt váng xoáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-vortex skimmer"
+      }
+    ]
+  },
+  {
+    "word": "thì của xuppap",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-valve period"
+      }
+    ]
+  },
+  {
+    "word": "thì lại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "then, on the other hand, in contrast, but, however"
+      }
+    ]
+  },
+  {
+    "word": "thì thùng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng trống đánh nhịp nhàng khoan thai, nghe vẳng lại từ đâu đó\nVí dụ:\n- tiếng trống thì thùng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thì thùng\n- Tiếng trống đánh: Trống chùa ai đánh thì thùng (cd)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thì thùng - beat or roll on the drum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sound of drums"
+      }
+    ]
+  },
+  {
+    "word": "thì thôi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị ý đành chấp nhận cái thực tế vừa nêu ra, coi như không có gì cần phải nói tới nữa\nVí dụ:\n- không ăn thì thôi, kệ nó \n - \"Chẳng thà không biết thì thôi, Biết ra mỗi đứa, mỗi nơi thêm buồn.\" (Cdao)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thì thôi - no use insisting"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "if that’s the case, then it can’t be helped (there’s nothing one can do)"
+      }
+    ]
+  },
+  {
+    "word": "thì thào",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả tiếng nói chuyện với nhau rất nhỏ, nghe tựa như hơi gió thoảng qua tai\nVí dụ:\n- họ thì thào với nhau điều gì \n - nghe có tiếng thì thào"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thì thào\n- đgt. Nói nhỏ, không rõ thành tiếng, nghe lẫn vào trong hơi gió: nghe tiếng thì thào ở cuối lớp  Hai người thì thào với nhau điều gì."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thì thào\n*verb\n-to whisper"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thì thào\n* verb\n- to whisper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to whisper"
+      }
+    ]
+  },
+  {
+    "word": "thìa lấy mẫu đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sampling spoon"
+      }
+    ]
+  },
+  {
+    "word": "thì cũng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "at this time"
+      }
+    ]
+  },
+  {
+    "word": "thì thọt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như thì thụt\nVí dụ:\n- cô ấy thì thọt qua lại, rầm rì với vợ tôi cả buổi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thì thọt\n- đg. (kng.). Như thì thụt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thì thọt\n*verb\n-to sneak in and out"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thì thọt\n* verb\n- to sneak in and out"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to dash in and out, sneak in and out"
+      }
+    ]
+  },
+  {
+    "word": "thì sinh công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-effective stroke\n-firing stroke"
       }
     ]
   },
@@ -846,6 +760,15 @@
     ]
   },
   {
+    "word": "thì giờ là vàng bạc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "time is money"
+      }
+    ]
+  },
+  {
     "word": "thì giờ càng lúc càng hết",
     "definitions": [
       {
@@ -855,38 +778,115 @@
     ]
   },
   {
-    "word": "thì kế",
+    "word": "thìa múc đầu thanh chuyền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-timer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-connecting rod dipper"
       }
     ]
   },
   {
-    "word": "thì thầm vào tai",
+    "word": "thình lình",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to whisper in someone’s ear"
-      }
-    ]
-  },
-  {
-    "word": "thì đạo",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[việc gì diễn ra] một cách hết sức bất ngờ, không thể lường trước được\nVí dụ:\n- cơn giông thình lình ập tới \n - chiếc máy bay thình lình bổ nhào"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thình lình\n- pht. Bỗng nhiên, bất ngờ, không hề biết trước, lường trước: thình lình bị tấn công  trời đang nắng thình lình đổ mưa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thình lình\n*adv\n-suddenly, all of a sudden\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sudden"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thình lình\n* adv\n- suddenly, all of a sudden"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "dateline"
+        "dict_definition": "suddenly, all of a sudden, unexpected"
       }
     ]
   },
   {
-    "word": "thì của xuppap",
+    "word": "thì thà thì thầm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như thì thầm [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- chúng nó thì thà thì thầm với nhau cả đêm \n - nó thì thà thì thầm với chị điều gì"
+      }
+    ]
+  },
+  {
+    "word": "thì giãn nở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-valve period"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-expansion stroke\n@Lĩnh vực: điện\n-power stroke"
+      }
+    ]
+  },
+  {
+    "word": "thình lình, đột xuất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sudden"
+      }
+    ]
+  },
+  {
+    "word": "thì xả (thì thoát)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-exhaust stroke"
+      }
+    ]
+  },
+  {
+    "word": "thì thụt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ra vào, lui tới luôn một cách lén lút, vụng trộm, không đàng hoàng\nVí dụ:\n- nó thì thụt ra vào cả buổi"
+      }
+    ]
+  },
+  {
+    "word": "thì giờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thời gian, về mặt sử dụng có ích cho con người\nVí dụ:\n- có đủ thì giờ chuẩn bị \n - chẳng có thì giờ đâu mà để tâm đến chuyện ấy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thì giờ\n- Thời gian nói về mặt giá trị đối với con người : Dùng thì giờ cho hợp lý ; Bỏ phí thì giờ ; Giết thì giờ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thì giờ\n*noun\n-time"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thì giờ\n* noun\n- time"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "time"
+      }
+    ]
+  },
+  {
+    "word": "thì giờ rảnh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "free time"
       }
     ]
   }

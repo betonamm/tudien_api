@@ -1,28 +1,46 @@
 [
   {
+    "word": "sẽê hay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sẽê hay\n- ph. Rồi sau này liệu tính: Cứ ăn đi rồi sẽ hay."
+      }
+    ]
+  },
+  {
+    "word": "sẽ phải",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will have to"
+      }
+    ]
+  },
+  {
+    "word": "sẽ được dùng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will be used"
+      }
+    ]
+  },
+  {
+    "word": "sẽ không",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will not"
+      }
+    ]
+  },
+  {
     "word": "sẽ không còn",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "will no longer be"
-      }
-    ]
-  },
-  {
-    "word": "sẽ đến ngay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-to arrive"
-      }
-    ]
-  },
-  {
-    "word": "sẽ không thể nào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will not be able to"
       }
     ]
   },
@@ -40,95 +58,20 @@
     ]
   },
   {
-    "word": "sẽ có một ngày",
+    "word": "sẽ làm được",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "a day will come (when)"
+        "dict_definition": "will be able to do"
       }
     ]
   },
   {
-    "word": "sẽ hay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẽ hay\n- trgt Rồi sau này mới biết: Chờ anh ấy về sẽ hay."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẽ hay\n-will see"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẽ hay\n- will see"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will see"
-      }
-    ]
-  },
-  {
-    "word": "sẽ có một ngày nào đó",
+    "word": "sẽ có",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "there will come a day, someday"
-      }
-    ]
-  },
-  {
-    "word": "sẽ có nghĩa là",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will mean that"
-      }
-    ]
-  },
-  {
-    "word": "sẽ là",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will be"
-      }
-    ]
-  },
-  {
-    "word": "sẽ được dùng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will be used"
-      }
-    ]
-  },
-  {
-    "word": "sẽ không như thế nữa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "won’t be like that anymore"
-      }
-    ]
-  },
-  {
-    "word": "sẽ không",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will not"
-      }
-    ]
-  },
-  {
-    "word": "sẽ có nhiều",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will have a lot"
+        "dict_definition": "will have, will be"
       }
     ]
   },
@@ -142,33 +85,11 @@
     ]
   },
   {
-    "word": "sẽ xảy ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-eventual"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will happen, will take place"
-      }
-    ]
-  },
-  {
-    "word": "sẽ phải",
+    "word": "sẽ có nghĩa là",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "will have to"
-      }
-    ]
-  },
-  {
-    "word": "sẽ có",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "will have, will be"
+        "dict_definition": "will mean that"
       }
     ]
   },
@@ -190,6 +111,42 @@
     ]
   },
   {
+    "word": "sẽ không thể nào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will not be able to"
+      }
+    ]
+  },
+  {
+    "word": "sẽ có một ngày nào đó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "there will come a day, someday"
+      }
+    ]
+  },
+  {
+    "word": "sẽ có một ngày",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a day will come (when)"
+      }
+    ]
+  },
+  {
+    "word": "sẽ không như thế nữa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "won’t be like that anymore"
+      }
+    ]
+  },
+  {
     "word": "sẽ tệ hại hơn",
     "definitions": [
       {
@@ -199,20 +156,36 @@
     ]
   },
   {
-    "word": "sẽ làm được",
+    "word": "sẽ xảy ra",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-eventual"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "will be able to do"
+        "dict_definition": "will happen, will take place"
       }
     ]
   },
   {
-    "word": "sẽê hay",
+    "word": "sẽ hay",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẽê hay\n- ph. Rồi sau này liệu tính: Cứ ăn đi rồi sẽ hay."
+        "dict_definition": "@sẽ hay\n- trgt Rồi sau này mới biết: Chờ anh ấy về sẽ hay."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẽ hay\n-will see"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẽ hay\n- will see"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will see"
       }
     ]
   },
@@ -242,6 +215,33 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(future tense marker), shall, will"
+      }
+    ]
+  },
+  {
+    "word": "sẽ là",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will be"
+      }
+    ]
+  },
+  {
+    "word": "sẽ có nhiều",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "will have a lot"
+      }
+    ]
+  },
+  {
+    "word": "sẽ đến ngay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-to arrive"
       }
     ]
   }

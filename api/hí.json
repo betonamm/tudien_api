@@ -1,134 +1,35 @@
 [
   {
-    "word": "híp",
+    "word": "hí họa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "caricature, cartoon, comics"
+      }
+    ]
+  },
+  {
+    "word": "hí hoáy",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái hai mi mắt gần như bị khép lại, không mở to ra được\nVí dụ:\n- mắt híp"
+        "dict_definition": "từ gợi tả dáng vẻ chăm chú làm việc gì luôn tay\nVí dụ:\n- hí hoáy ghi chép \n - hí hoáy chêm lại cái cuốc"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@híp\n- tt. (Mắt) gần như nhắm, hai mi khép lại không mở to ra được: khép híp mắt  cười híp cả mắt."
+        "dict_definition": "@hí hoáy\n- đg. Từ gợi tả dáng vẻ chăm chú làm việc gì luôn tay (thường là việc tỉ mỉ). Hí hoáy gọt bút chì. Hí hoáy ghi chép."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@híp\n*verb\n-to be swollen; to close\n=híp mắt\n+to close the eyes"
+        "dict_definition": "@hí hoáy\n-to be busy with"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@híp\n* verb\n- to be swollen; to close\n=híp mắt+to close the eyes"
-      }
-    ]
-  },
-  {
-    "word": "hí viện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hí viện\n-(từ cũ; nghĩa cũ) playhouse"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hí viện\n- (từ cũ; nghĩa cũ) playhouse"
+        "dict_definition": "@hí hoáy\n- to be busy with"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "theater, playhouse"
-      }
-    ]
-  },
-  {
-    "word": "hí húi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng vẻ hơi cúi xuống, chăm chú làm việc gì\nVí dụ:\n- hí húi ghi chép \n - hí húi cả buổi với chiếc xe đạp hỏng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hí húi\n-Be busy with (at), busy oneself with (at)\n=Lúc nào cô ta cũng hí húi làm bài tập\n+She is always busy with (at) her homework"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hí húi\n- Be busy with (at), busy oneself with (at)\n=Lúc nào cô ta cũng hí húi làm bài tập+She is always busy with (at) her homework"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be busy with (at), busy oneself with (at)"
-      }
-    ]
-  },
-  {
-    "word": "hí hoạ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tranh hài hước hoặc châm biếm\nVí dụ:\n- vẽ hí hoạ \n - bức hí hoạ"
-      }
-    ]
-  },
-  {
-    "word": "hích",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "áp sát một bộ phận cơ thể vào, rồi dùng sức hất hoặc đẩy mạnh\nVí dụ:\n- hích nhẹ khuỷu tay vào sườn bạn \n - nó hích tôi một phát"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hích\n- đg. 1 Áp sát một bộ phận cơ thể vào, rồi dùng lực hất hoặc đẩy mạnh một cái. Hích khuỷu tay vào sườn bạn. Dùng bả vai hích một cái. 2 (id.). Như khích. Hích cho hai bên cãi nhau."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hích\n*verb\n-to jostle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hích\n* verb\n- to jostle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to jostle"
-      }
-    ]
-  },
-  {
-    "word": "hí hủng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "happy, glad, excited"
-      }
-    ]
-  },
-  {
-    "word": "hít hà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xuýt xoa\nVí dụ:\n- bà hít hà khen ngon"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hít hà [hít hà]\n-sniff, snuffle, snived\n-make a hissing sound because one has eaten something peppery hot"
-      }
-    ]
-  },
-  {
-    "word": "híp-pi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@híp-pi [híp pi]\n-hippie;  hippy"
-      }
-    ]
-  },
-  {
-    "word": "híp pi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hippie, hippy"
+        "dict_definition": "to be busy with, absorbed in"
       }
     ]
   },
@@ -167,54 +68,23 @@
     ]
   },
   {
-    "word": "hít một hơi dài",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take a deep breath"
-      }
-    ]
-  },
-  {
-    "word": "hí hửng",
+    "word": "hí húi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[vẻ mặt] vui sướng, thích thú quá mức trước việc đã làm được hoặc tin rằng sẽ làm được\nVí dụ:\n- nó hí hửng ra mặt"
+        "dict_definition": "từ gợi tả dáng vẻ hơi cúi xuống, chăm chú làm việc gì\nVí dụ:\n- hí húi ghi chép \n - hí húi cả buổi với chiếc xe đạp hỏng"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hí hửng\n-Be beside oneself with joy\n=em bé được đồ chơi hí hửng\n+The little boy was beside himself with joy, having been given a toy\n=\n+í ha hí hửng (láy, ý tăng)"
+        "dict_definition": "@hí húi\n-Be busy with (at), busy oneself with (at)\n=Lúc nào cô ta cũng hí húi làm bài tập\n+She is always busy with (at) her homework"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hí hửng\n- Be beside oneself with joy\n=em bé được đồ chơi hí hửng+The little boy was beside himself with joy, having been given a toy\n=Hí ha hí hửng (láy, ý tăng)"
+        "dict_definition": "@hí húi\n- Be busy with (at), busy oneself with (at)\n=Lúc nào cô ta cũng hí húi làm bài tập+She is always busy with (at) her homework"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to leap with joy, be glad, be happy, be excited"
-      }
-    ]
-  },
-  {
-    "word": "hí hí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hí hí\n-Chuckle\n=Cười hí hí tỏ vẻ đắc chí\n+To chuckle out of self-satisfactiona"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hí hí\n- Chuckle\n=Cười hí hí tỏ vẻ đắc chí+To chuckle out of self-satisfactiona"
-      }
-    ]
-  },
-  {
-    "word": "hí đài",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stage"
+        "dict_definition": "be busy with (at), busy oneself with (at)"
       }
     ]
   },
@@ -232,31 +102,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@hí ha hí hửng\n- xem hí hửng (láy)"
-      }
-    ]
-  },
-  {
-    "word": "hí hoáy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng vẻ chăm chú làm việc gì luôn tay\nVí dụ:\n- hí hoáy ghi chép \n - hí hoáy chêm lại cái cuốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hí hoáy\n- đg. Từ gợi tả dáng vẻ chăm chú làm việc gì luôn tay (thường là việc tỉ mỉ). Hí hoáy gọt bút chì. Hí hoáy ghi chép."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hí hoáy\n-to be busy with"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hí hoáy\n- to be busy with"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be busy with, absorbed in"
       }
     ]
   },
@@ -282,15 +127,36 @@
     ]
   },
   {
-    "word": "hí ha hí hoáy",
+    "word": "hí hí",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hí ha hí hoáy\n-xem hí hoáy (láy)"
+        "dict_definition": "@hí hí\n-Chuckle\n=Cười hí hí tỏ vẻ đắc chí\n+To chuckle out of self-satisfactiona"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hí ha hí hoáy\n- xem hí hoáy (láy)"
+        "dict_definition": "@hí hí\n- Chuckle\n=Cười hí hí tỏ vẻ đắc chí+To chuckle out of self-satisfactiona"
+      }
+    ]
+  },
+  {
+    "word": "híp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái hai mi mắt gần như bị khép lại, không mở to ra được\nVí dụ:\n- mắt híp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@híp\n- tt. (Mắt) gần như nhắm, hai mi khép lại không mở to ra được: khép híp mắt  cười híp cả mắt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@híp\n*verb\n-to be swollen; to close\n=híp mắt\n+to close the eyes"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@híp\n* verb\n- to be swollen; to close\n=híp mắt+to close the eyes"
       }
     ]
   },
@@ -304,33 +170,66 @@
     ]
   },
   {
-    "word": "hí họa",
+    "word": "hí hủng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "caricature, cartoon, comics"
+        "dict_definition": "happy, glad, excited"
       }
     ]
   },
   {
-    "word": "hítle",
+    "word": "hí trường",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Hitler"
-      }
-    ]
-  },
-  {
-    "word": "hí hởn",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hí trường\n- tt., cũ Nơi biểu diễn các loại hát nghệ thuật sân khấu; rạp hát."
+      },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hí hửng\nVí dụ:\n- hí hởn mừng thầm"
+        "dict_name": "SPDict",
+        "dict_definition": "@hí trường\n*noun\n-theater; theatre\n-(từ cũ; nghĩa cũ) place of entertainment, playhouse\n-"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hí trường\n* noun\n- theater; theatre\n- (từ cũ; nghĩa cũ) place of entertainment, playhouse\n-"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to leap with joy"
+        "dict_definition": "theater, stage"
+      }
+    ]
+  },
+  {
+    "word": "hí viện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hí viện\n-(từ cũ; nghĩa cũ) playhouse"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hí viện\n- (từ cũ; nghĩa cũ) playhouse"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "theater, playhouse"
+      }
+    ]
+  },
+  {
+    "word": "hí khúc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "các loại kịch hát nói chung, như tuồng, chèo, cải lương, kịch dân ca"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hí khúc [hí khúc]\n-drama (as a literary genre)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "drama (as a literary genre)"
       }
     ]
   },
@@ -360,40 +259,141 @@
     ]
   },
   {
-    "word": "hí trường",
+    "word": "hí hửng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hí trường\n- tt., cũ Nơi biểu diễn các loại hát nghệ thuật sân khấu; rạp hát."
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[vẻ mặt] vui sướng, thích thú quá mức trước việc đã làm được hoặc tin rằng sẽ làm được\nVí dụ:\n- nó hí hửng ra mặt"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hí trường\n*noun\n-theater; theatre\n-(từ cũ; nghĩa cũ) place of entertainment, playhouse\n-"
+        "dict_definition": "@hí hửng\n-Be beside oneself with joy\n=em bé được đồ chơi hí hửng\n+The little boy was beside himself with joy, having been given a toy\n=\n+í ha hí hửng (láy, ý tăng)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hí trường\n* noun\n- theater; theatre\n- (từ cũ; nghĩa cũ) place of entertainment, playhouse\n-"
+        "dict_definition": "@hí hửng\n- Be beside oneself with joy\n=em bé được đồ chơi hí hửng+The little boy was beside himself with joy, having been given a toy\n=Hí ha hí hửng (láy, ý tăng)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "theater, stage"
+        "dict_definition": "to leap with joy, be glad, be happy, be excited"
       }
     ]
   },
   {
-    "word": "hí khúc",
+    "word": "hí đài",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "stage"
+      }
+    ]
+  },
+  {
+    "word": "hítle",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Hitler"
+      }
+    ]
+  },
+  {
+    "word": "híp-pi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@híp-pi [híp pi]\n-hippie;  hippy"
+      }
+    ]
+  },
+  {
+    "word": "hí hởn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "các loại kịch hát nói chung, như tuồng, chèo, cải lương, kịch dân ca"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hí khúc [hí khúc]\n-drama (as a literary genre)"
+        "dict_definition": "xem hí hửng\nVí dụ:\n- hí hởn mừng thầm"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "drama (as a literary genre)"
+        "dict_definition": "to leap with joy"
+      }
+    ]
+  },
+  {
+    "word": "hích",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "áp sát một bộ phận cơ thể vào, rồi dùng sức hất hoặc đẩy mạnh\nVí dụ:\n- hích nhẹ khuỷu tay vào sườn bạn \n - nó hích tôi một phát"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hích\n- đg. 1 Áp sát một bộ phận cơ thể vào, rồi dùng lực hất hoặc đẩy mạnh một cái. Hích khuỷu tay vào sườn bạn. Dùng bả vai hích một cái. 2 (id.). Như khích. Hích cho hai bên cãi nhau."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hích\n*verb\n-to jostle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hích\n* verb\n- to jostle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to jostle"
+      }
+    ]
+  },
+  {
+    "word": "hí ha hí hoáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hí ha hí hoáy\n-xem hí hoáy (láy)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hí ha hí hoáy\n- xem hí hoáy (láy)"
+      }
+    ]
+  },
+  {
+    "word": "hít hà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xuýt xoa\nVí dụ:\n- bà hít hà khen ngon"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hít hà [hít hà]\n-sniff, snuffle, snived\n-make a hissing sound because one has eaten something peppery hot"
+      }
+    ]
+  },
+  {
+    "word": "híp pi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hippie, hippy"
+      }
+    ]
+  },
+  {
+    "word": "hí hoạ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tranh hài hước hoặc châm biếm\nVí dụ:\n- vẽ hí hoạ \n - bức hí hoạ"
+      }
+    ]
+  },
+  {
+    "word": "hít một hơi dài",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take a deep breath"
       }
     ]
   }

@@ -1,5 +1,30 @@
 [
   {
+    "word": "bẽ bàng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hổ thẹn và buồn tủi vì cảm thấy bị người ta chê cười\nVí dụ:\n- \"Bẽ bàng mây sớm đèn khuya, Nửa tình, nửa cảnh như chia tấm lòng.\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bẽ bàng\n- t. Đáng phải lấy làm hổ thẹn vì cảm thấy bị người ta cười chê. Duyên số bẽ bàng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bẽ bàng\n*adj\n-Feeling ashamed, feeling awkward"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bẽ bàng\n* adj\n- Feeling ashamed, feeling awkward"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ashamed, awkward"
+      }
+    ]
+  },
+  {
     "word": "bẽn lẽn",
     "definitions": [
       {
@@ -21,6 +46,19 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "bashful, self-conscious, shy, timid"
+      }
+    ]
+  },
+  {
+    "word": "bẽ mặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cảm thấy bị mất thể diện trước người khác, không còn mặt mũi nào nữa\nVí dụ:\n- mắng cho bẽ mặt \n - bị bẽ mặt một phen"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bẽ mặt [bẽ mặt]\n*động từ\n-như\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-humiliate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-humiliate"
       }
     ]
   },
@@ -50,15 +88,11 @@
     ]
   },
   {
-    "word": "bẽ mặt",
+    "word": "bẽ mạt",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cảm thấy bị mất thể diện trước người khác, không còn mặt mũi nào nữa\nVí dụ:\n- mắng cho bẽ mặt \n - bị bẽ mặt một phen"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bẽ mặt [bẽ mặt]\n*động từ\n-như\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-humiliate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-humiliate"
+        "dict_name": "VNEDICT",
+        "dict_definition": "ashamed"
       }
     ]
   },
@@ -72,40 +106,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "shy, timid, ashamed"
-      }
-    ]
-  },
-  {
-    "word": "bẽ mạt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ashamed"
-      }
-    ]
-  },
-  {
-    "word": "bẽ bàng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hổ thẹn và buồn tủi vì cảm thấy bị người ta chê cười\nVí dụ:\n- \"Bẽ bàng mây sớm đèn khuya, Nửa tình, nửa cảnh như chia tấm lòng.\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bẽ bàng\n- t. Đáng phải lấy làm hổ thẹn vì cảm thấy bị người ta cười chê. Duyên số bẽ bàng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bẽ bàng\n*adj\n-Feeling ashamed, feeling awkward"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bẽ bàng\n* adj\n- Feeling ashamed, feeling awkward"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ashamed, awkward"
       }
     ]
   }

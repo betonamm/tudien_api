@@ -1,27 +1,18 @@
 [
   {
-    "word": "ừ ào",
+    "word": "ừ hữ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ừ đại đi cho qua chuyện, không để ý lắm\nVí dụ:\n- hỏi gì cũng chỉ ừ ào"
+        "dict_definition": "trả lời không rõ ràng, không ra đồng ý cũng không ra từ chối\nVí dụ:\n- ừ hữ cho qua chuyện"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ừ ào - say \"yes\" and not mean it"
+        "dict_definition": "@ừ hữ - answer evasively"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "say \"yes\" and not mean it"
-      }
-    ]
-  },
-  {
-    "word": "ừ è",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to give an evasive answer"
+        "dict_definition": "answer evasively"
       }
     ]
   },
@@ -48,19 +39,28 @@
     ]
   },
   {
-    "word": "ừ hữ",
+    "word": "ừ è",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to give an evasive answer"
+      }
+    ]
+  },
+  {
+    "word": "ừ ào",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trả lời không rõ ràng, không ra đồng ý cũng không ra từ chối\nVí dụ:\n- ừ hữ cho qua chuyện"
+        "dict_definition": "ừ đại đi cho qua chuyện, không để ý lắm\nVí dụ:\n- hỏi gì cũng chỉ ừ ào"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ừ hữ - answer evasively"
+        "dict_definition": "@ừ ào - say \"yes\" and not mean it"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "answer evasively"
+        "dict_definition": "say \"yes\" and not mean it"
       }
     ]
   }

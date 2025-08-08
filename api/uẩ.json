@@ -1,5 +1,40 @@
 [
   {
+    "word": "uẩn súc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@uẩn súc\n*động từ\n-erudite, learned, profound"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "erudite, learned, profound"
+      }
+    ]
+  },
+  {
+    "word": "uẩn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "confused"
+      }
+    ]
+  },
+  {
+    "word": "uẩn tàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@uẩn tàng\n*động từ\n-hoard, collect"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hoard, collect, hold"
+      }
+    ]
+  },
+  {
     "word": "uẩn khúc",
     "definitions": [
       {
@@ -21,41 +56,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "mystery; secret, mysterious"
-      }
-    ]
-  },
-  {
-    "word": "uẩn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "confused"
-      }
-    ]
-  },
-  {
-    "word": "uẩn súc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@uẩn súc\n*động từ\n-erudite, learned, profound"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "erudite, learned, profound"
-      }
-    ]
-  },
-  {
-    "word": "uẩn tàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@uẩn tàng\n*động từ\n-hoard, collect"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hoard, collect, hold"
       }
     ]
   }

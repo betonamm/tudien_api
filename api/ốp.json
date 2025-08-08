@@ -1,10 +1,10 @@
 [
   {
-    "word": "ốp chắn bánh răng",
+    "word": "ốp đá hoa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-wheel guard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marbleize"
       }
     ]
   },
@@ -18,63 +18,6 @@
     ]
   },
   {
-    "word": "ốp lép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ốp lép\n- Cậy quyền thế để đè nén: Bọn cường hào ốp lép nông dân."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ốp lép [ốp lép]\n-to grind down;  to oppress (by taking advantage of one\"s position or authority)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to grind down, oppress"
-      }
-    ]
-  },
-  {
-    "word": "ốp gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coat (with wood)"
-      }
-    ]
-  },
-  {
-    "word": "ốp mặt (xấy dựng công trình ngầm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet out"
-      }
-    ]
-  },
-  {
-    "word": "ốp ván",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-batten\n-box ub\n-boxed-off\n-clad\n-face"
-      }
-    ]
-  },
-  {
-    "word": "ốp lát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lát vật liệu xây dựng như gạch, đá, gỗ, v.v. trên bề mặt\nVí dụ:\n- kĩ thuật ốp lát nền"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ốp lát [ốp lát]\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tiling"
-      }
-    ]
-  },
-  {
     "word": "ốp tường",
     "definitions": [
       {
@@ -84,56 +27,11 @@
     ]
   },
   {
-    "word": "ốp panen",
+    "word": "ốp bằng panen",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-panel"
-      }
-    ]
-  },
-  {
-    "word": "ốp gạch men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line with glazed tiles"
-      }
-    ]
-  },
-  {
-    "word": "ốp gỗ tấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood-panel facing"
-      }
-    ]
-  },
-  {
-    "word": "ốp mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-box ub\n-clad\n-face\n-line\n-veneer\n@Lĩnh vực: xây dựng\n-surfacing"
-      }
-    ]
-  },
-  {
-    "word": "ốp mặt bằng gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-timber"
-      }
-    ]
-  },
-  {
-    "word": "ốp van",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-board"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wainscot panen"
       }
     ]
   },
@@ -147,11 +45,92 @@
     ]
   },
   {
-    "word": "ốp (bằng gạch ốp tường)",
+    "word": "ốp gạch chịu lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tile"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line with fire-proof bricks"
+      }
+    ]
+  },
+  {
+    "word": "ốp tấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pane\n@Lĩnh vực: xây dựng\n-plate"
+      }
+    ]
+  },
+  {
+    "word": "ốp đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coat (with stones)"
+      }
+    ]
+  },
+  {
+    "word": "ốp chắn bánh răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-wheel guard"
+      }
+    ]
+  },
+  {
+    "word": "ốp van",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-board"
+      }
+    ]
+  },
+  {
+    "word": "ốp-lét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ốp-lét [ốp lết]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "ốp mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-box ub\n-clad\n-face\n-line\n-veneer\n@Lĩnh vực: xây dựng\n-surfacing"
+      }
+    ]
+  },
+  {
+    "word": "ốp lết",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "món ăn làm bằng trứng để nguyên lòng trắng, lòng đỏ, rán chín tới\nVí dụ:\n- bánh mì ốp lết (bánh mì ăn với trứng ốp lết)"
+      }
+    ]
+  },
+  {
+    "word": "ốp gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brick-faced\n-brick-veneered"
+      }
+    ]
+  },
+  {
+    "word": "ốp ván",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-batten\n-box ub\n-boxed-off\n-clad\n-face"
       }
     ]
   },
@@ -181,83 +160,11 @@
     ]
   },
   {
-    "word": "ốp đá hoa",
+    "word": "ốp (bằng gạch ốp tường)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marbleize"
-      }
-    ]
-  },
-  {
-    "word": "ốp thanh nẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batten"
-      }
-    ]
-  },
-  {
-    "word": "ốp tấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pane\n@Lĩnh vực: xây dựng\n-plate"
-      }
-    ]
-  },
-  {
-    "word": "ốp xét",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "offset"
-      }
-    ]
-  },
-  {
-    "word": "ốp đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coat (with stones)"
-      }
-    ]
-  },
-  {
-    "word": "ốp gạch chịu lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line with fire-proof bricks"
-      }
-    ]
-  },
-  {
-    "word": "ốp-lét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ốp-lét [ốp lết]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "ốp đá hộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coat (with quarry stones)"
-      }
-    ]
-  },
-  {
-    "word": "ốp lết",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "món ăn làm bằng trứng để nguyên lòng trắng, lòng đỏ, rán chín tới\nVí dụ:\n- bánh mì ốp lết (bánh mì ăn với trứng ốp lết)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tile"
       }
     ]
   },
@@ -271,20 +178,113 @@
     ]
   },
   {
-    "word": "ốp bằng panen",
+    "word": "ốp lép",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ốp lép\n- Cậy quyền thế để đè nén: Bọn cường hào ốp lép nông dân."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wainscot panen"
+        "dict_definition": "@ốp lép [ốp lép]\n-to grind down;  to oppress (by taking advantage of one\"s position or authority)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to grind down, oppress"
       }
     ]
   },
   {
-    "word": "ốp gạch",
+    "word": "ốp mặt (xấy dựng công trình ngầm)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brick-faced\n-brick-veneered"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet out"
+      }
+    ]
+  },
+  {
+    "word": "ốp gỗ tấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood-panel facing"
+      }
+    ]
+  },
+  {
+    "word": "ốp thanh nẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batten"
+      }
+    ]
+  },
+  {
+    "word": "ốp xét",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "offset"
+      }
+    ]
+  },
+  {
+    "word": "ốp gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coat (with wood)"
+      }
+    ]
+  },
+  {
+    "word": "ốp lát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lát vật liệu xây dựng như gạch, đá, gỗ, v.v. trên bề mặt\nVí dụ:\n- kĩ thuật ốp lát nền"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ốp lát [ốp lát]\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tiling"
+      }
+    ]
+  },
+  {
+    "word": "ốp mặt bằng gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-timber"
+      }
+    ]
+  },
+  {
+    "word": "ốp gạch men",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line with glazed tiles"
+      }
+    ]
+  },
+  {
+    "word": "ốp panen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-panel"
+      }
+    ]
+  },
+  {
+    "word": "ốp đá hộc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coat (with quarry stones)"
       }
     ]
   }

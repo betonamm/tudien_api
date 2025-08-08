@@ -1,10 +1,10 @@
 [
   {
-    "word": "sẵn sàng để giao",
+    "word": "sẵn sàng để truyền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ready for delivery"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clear-to-send\n-ready-mixed concrete"
       }
     ]
   },
@@ -18,38 +18,11 @@
     ]
   },
   {
-    "word": "sẵn sàng để dùng",
+    "word": "sẵn sàng để gửi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-available"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Ready To Receive (RTR)\n-Receive Ready (RR)"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng đàm phán",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be prepared to negotiate"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng để dùng ngay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on tap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Clear to send (CS)\n-Clear to send (CTS)\n-Ready To Send (RTS)"
       }
     ]
   },
@@ -67,20 +40,29 @@
     ]
   },
   {
-    "word": "sẵn sàng đưa vào sử dụng",
+    "word": "sẵn sàng cho tin báo tiếp theo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ready to be put into service"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Ready for next Message (RFNM)"
       }
     ]
   },
   {
-    "word": "sẵn sàng hy sinh",
+    "word": "sẵn dùng",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ready to sacrifice (oneself)"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-available (an)"
+      }
+    ]
+  },
+  {
+    "word": "sẵn sàng để dùng ngay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on tap"
       }
     ]
   },
@@ -106,59 +88,7 @@
     ]
   },
   {
-    "word": "sẵn sàng để truyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clear-to-send\n-ready-mixed concrete"
-      }
-    ]
-  },
-  {
-    "word": "sẵn lòng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sẵn sàng làm việc gì đó vì người khác một cách vui vẻ\nVí dụ:\n- sẵn lòng tha thứ \n - sẵn lòng giúp đỡ mọi người"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẵn lòng\n- đgt Vui vẻ làm việc gì: Sẵn lòng giúp bạn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẵn lòng\n*verb\n-be willing to, be prepared to"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẵn lòng\n* verb\n- be willing to, be prepared to"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be willing (to), glad to, prepared to"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng cho sắp chữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ready for operation"
-      }
-    ]
-  },
-  {
-    "word": "sẵn tiền",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ready cash, cash on hand"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng phục vụ",
+    "word": "sẵn sàng đưa vào sử dụng",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -167,11 +97,20 @@
     ]
   },
   {
-    "word": "sẵn dụng mới nhất về chỗ",
+    "word": "sẵn sàng hoạt động",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-last seat availability"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-online\n-ready\n-ready-to-go"
+      }
+    ]
+  },
+  {
+    "word": "sẵn sàng gửi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Ready for sending (RFS)"
       }
     ]
   },
@@ -185,37 +124,81 @@
     ]
   },
   {
-    "word": "sẵn dùng",
+    "word": "sẵn sàng hy sinh",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-available (an)"
+        "dict_name": "VNEDICT",
+        "dict_definition": "ready to sacrifice (oneself)"
       }
     ]
   },
   {
-    "word": "sẵn tay",
+    "word": "sẵn sàng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái có thể sử dụng hoặc hành động được ngay do đã được chuẩn bị đầy đủ\nVí dụ:\n- sẵn sàng chiến đấu \n - \"Thấy nhàn luống tưởng thư phong, Nghe hơi sương sắm áo bông sẵn sàng.\" (CPN)"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẵn tay\n- Ngay gần gtay: Sẵn tay đưa hộ cái điếu."
+        "dict_definition": "@sẵn sàng\n- t. Ở trạng thái có thể sử dụng hoặc hành động được ngay do đã được chuẩn bị đầy đủ. Xe cộ đã sẵn sàng. Sẵn sàng ứng phó với mọi tình hình. Tư thế sẵn sàng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sẵn tay\n-At hand, within reach\n=Sẵn tay đưa cho tôi cuốn sách\n+Please give that book, which is within your reach"
+        "dict_definition": "@sẵn sàng\n*adj\n-ready, prepared willing to\n@Chuyên ngành kỹ thuật\n-online\n-readily\n-ready\n-ReaDY (RDY)\n-stand-by\n-taut"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẵn tay\n- At hand, within reach\n=Sẵn tay đưa cho tôi cuốn sách+Please give that book, which is within your reach"
+        "dict_definition": "@sẵn sàng\n* adj\n- ready, prepared willing to"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ready, prepared, willing to"
       }
     ]
   },
   {
-    "word": "sẵn sàng hoạt động",
+    "word": "sẵn sàng gởi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-online\n-ready\n-ready-to-go"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clear to send (CTS)"
+      }
+    ]
+  },
+  {
+    "word": "sẵn sàng để chụp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-camera-ready"
+      }
+    ]
+  },
+  {
+    "word": "sẵn dụng mới nhất về chỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-last seat availability"
+      }
+    ]
+  },
+  {
+    "word": "sẵn sàng đàm phán",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be prepared to negotiate"
+      }
+    ]
+  },
+  {
+    "word": "sẵn sàng để dùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-available"
       }
     ]
   },
@@ -253,20 +236,89 @@
     ]
   },
   {
-    "word": "sẵn sàng gởi",
+    "word": "sẵn sàng để giao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clear to send (CTS)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ready for delivery"
       }
     ]
   },
   {
-    "word": "sẵn sàng gửi",
+    "word": "sẵn sàng thu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Ready for sending (RFS)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Ready To Receive (RTR)\n-Receive Ready (RR)"
+      }
+    ]
+  },
+  {
+    "word": "sẵn lòng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sẵn sàng làm việc gì đó vì người khác một cách vui vẻ\nVí dụ:\n- sẵn lòng tha thứ \n - sẵn lòng giúp đỡ mọi người"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sẵn lòng\n- đgt Vui vẻ làm việc gì: Sẵn lòng giúp bạn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẵn lòng\n*verb\n-be willing to, be prepared to"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẵn lòng\n* verb\n- be willing to, be prepared to"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be willing (to), glad to, prepared to"
+      }
+    ]
+  },
+  {
+    "word": "sẵn sàng phục vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ready to be put into service"
+      }
+    ]
+  },
+  {
+    "word": "sẵn tay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sẵn tay\n- Ngay gần gtay: Sẵn tay đưa hộ cái điếu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẵn tay\n-At hand, within reach\n=Sẵn tay đưa cho tôi cuốn sách\n+Please give that book, which is within your reach"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẵn tay\n- At hand, within reach\n=Sẵn tay đưa cho tôi cuốn sách+Please give that book, which is within your reach"
+      }
+    ]
+  },
+  {
+    "word": "sẵn sàng cho sắp chữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ready for operation"
+      }
+    ]
+  },
+  {
+    "word": "sẵn tiền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ready cash, cash on hand"
       }
     ]
   },
@@ -276,58 +328,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-bound (for)"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng để chụp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-camera-ready"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng để gửi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Clear to send (CS)\n-Clear to send (CTS)\n-Ready To Send (RTS)"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng cho tin báo tiếp theo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Ready for next Message (RFNM)"
-      }
-    ]
-  },
-  {
-    "word": "sẵn sàng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái có thể sử dụng hoặc hành động được ngay do đã được chuẩn bị đầy đủ\nVí dụ:\n- sẵn sàng chiến đấu \n - \"Thấy nhàn luống tưởng thư phong, Nghe hơi sương sắm áo bông sẵn sàng.\" (CPN)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẵn sàng\n- t. Ở trạng thái có thể sử dụng hoặc hành động được ngay do đã được chuẩn bị đầy đủ. Xe cộ đã sẵn sàng. Sẵn sàng ứng phó với mọi tình hình. Tư thế sẵn sàng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẵn sàng\n*adj\n-ready, prepared willing to\n@Chuyên ngành kỹ thuật\n-online\n-readily\n-ready\n-ReaDY (RDY)\n-stand-by\n-taut"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẵn sàng\n* adj\n- ready, prepared willing to"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ready, prepared, willing to"
       }
     ]
   }

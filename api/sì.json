@@ -1,5 +1,22 @@
 [
   {
+    "word": "sì sụt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sì sụt\n-Sob"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sì sụt\n- Sob"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sob"
+      }
+    ]
+  },
+  {
     "word": "sì",
     "definitions": [
       {
@@ -25,28 +42,32 @@
     ]
   },
   {
-    "word": "sì sụt",
+    "word": "sì sì",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sì sụt\n-Sob"
+        "dict_definition": "@sì sì\n-xem sì (láy)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sì sụt\n- Sob"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sob"
+        "dict_definition": "@sì sì\n- xem sì (láy)"
       }
     ]
   },
   {
-    "word": "sìi sụp",
+    "word": "sình sịch",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sìi sụp\n- ph. Qùi xuống đứng lên liền liền: Lạy sì sụp."
+        "dict_definition": "@sình sịch\n- Tiếng động liên tiếp và đều: Máy chạy sình sịch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sình sịch\n-xem sịch"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sình sịch\n- xem sịch"
       }
     ]
   },
@@ -60,57 +81,11 @@
     ]
   },
   {
-    "word": "sì ke",
+    "word": "sì lờ lầu",
     "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "drug addict"
-      }
-    ]
-  },
-  {
-    "word": "sình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lầy\nVí dụ:\n- lội qua bãi sình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trương\nVí dụ:\n- xác chết đang sình lên"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sình\n- t. Lầy lội : Đất sình.\n- t. Trướng to lên : Bụng sình."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sình\n-danh từ, tính từ mud; marshy, muddy*verb\n-to swell, to distend\n=bụng sình\n+distended stomach"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sình\n- danh từ, tính từ mud; marshy, muddy\n* verb\n- to swell, to distend\n=bụng sình+distended stomach"
-      }
-    ]
-  },
-  {
-    "word": "sì sụp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả động tác cúi xuống ngẩng lên liên tiếp khi vái lạy\nVí dụ:\n- mấy bà sì sụp khấn vái"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng húp liên tiếp thức ăn có chất lỏng\nVí dụ:\n- húp cháo sì sụp"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sì sụp\n-Make many genuflexions\n=Sì sụp lạy\n+to kowtow and genuflect frantically"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sì sụp\n- Make many genuflexions\n=Sì sụp lạy+to kowtow and genuflect frantically"
+        "dict_definition": "@Sì Lờ Lầu\n- (xã) h. Phong Thổ, t. Lai Châu"
       }
     ]
   },
@@ -140,41 +115,66 @@
     ]
   },
   {
-    "word": "sì sì",
+    "word": "sình",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lầy\nVí dụ:\n- lội qua bãi sình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trương\nVí dụ:\n- xác chết đang sình lên"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sình\n- t. Lầy lội : Đất sình.\n- t. Trướng to lên : Bụng sình."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@sì sì\n-xem sì (láy)"
+        "dict_definition": "@sình\n-danh từ, tính từ mud; marshy, muddy*verb\n-to swell, to distend\n=bụng sình\n+distended stomach"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sì sì\n- xem sì (láy)"
+        "dict_definition": "@sình\n- danh từ, tính từ mud; marshy, muddy\n* verb\n- to swell, to distend\n=bụng sình+distended stomach"
       }
     ]
   },
   {
-    "word": "sì lờ lầu",
+    "word": "sìi sụp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sì Lờ Lầu\n- (xã) h. Phong Thổ, t. Lai Châu"
+        "dict_definition": "@sìi sụp\n- ph. Qùi xuống đứng lên liền liền: Lạy sì sụp."
       }
     ]
   },
   {
-    "word": "sình sịch",
+    "word": "sì ke",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sình sịch\n- Tiếng động liên tiếp và đều: Máy chạy sình sịch."
+        "dict_name": "VNEDICT",
+        "dict_definition": "drug addict"
+      }
+    ]
+  },
+  {
+    "word": "sì sụp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả động tác cúi xuống ngẩng lên liên tiếp khi vái lạy\nVí dụ:\n- mấy bà sì sụp khấn vái"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng húp liên tiếp thức ăn có chất lỏng\nVí dụ:\n- húp cháo sì sụp"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sình sịch\n-xem sịch"
+        "dict_definition": "@sì sụp\n-Make many genuflexions\n=Sì sụp lạy\n+to kowtow and genuflect frantically"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sình sịch\n- xem sịch"
+        "dict_definition": "@sì sụp\n- Make many genuflexions\n=Sì sụp lạy+to kowtow and genuflect frantically"
       }
     ]
   }

@@ -1,64 +1,5 @@
 [
   {
-    "word": "rằn mặt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to avoid"
-      }
-    ]
-  },
-  {
-    "word": "rằn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều sọc khác màu\nVí dụ:\n- khăn rằn \n - tôm rằn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rằn\n- t. Có nhiều sọc màu: Vải rằn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rằn\n-(địa phương) Striped\n=Vải rằn\n+Striped cloth"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rằn\n- (địa phương) Striped\n=Vải rằn+Striped cloth"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) colorful, gaudy; (2) to fear, dread"
-      }
-    ]
-  },
-  {
-    "word": "rằng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị điều sắp nêu ra là nội dung thuyết minh điều vừa nói đến\nVí dụ:\n- tin rằng mọi việc sẽ tốt đẹp \n - tưởng rằng được yên, ai ngờ \n - có ý kiến rằng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rằng\n- I. đgt. Nói: chẳng nói chẳng rằng. II. lt. Từ biểu thị nội dung sắp nói là điều làm rõ cho điều vừa nói đến: Tôi tin rằng anh ấy sẽ thực hiện đúng lời hứa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rằng\n-that"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rằng\n- that"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "that; to answer, speak up"
-      }
-    ]
-  },
-  {
     "word": "rằn ri",
     "definitions": [
       {
@@ -105,6 +46,65 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "full moon, 15th day of lunar month"
+      }
+    ]
+  },
+  {
+    "word": "rằng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị điều sắp nêu ra là nội dung thuyết minh điều vừa nói đến\nVí dụ:\n- tin rằng mọi việc sẽ tốt đẹp \n - tưởng rằng được yên, ai ngờ \n - có ý kiến rằng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rằng\n- I. đgt. Nói: chẳng nói chẳng rằng. II. lt. Từ biểu thị nội dung sắp nói là điều làm rõ cho điều vừa nói đến: Tôi tin rằng anh ấy sẽ thực hiện đúng lời hứa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rằng\n-that"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rằng\n- that"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "that; to answer, speak up"
+      }
+    ]
+  },
+  {
+    "word": "rằn mặt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to avoid"
+      }
+    ]
+  },
+  {
+    "word": "rằn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều sọc khác màu\nVí dụ:\n- khăn rằn \n - tôm rằn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rằn\n- t. Có nhiều sọc màu: Vải rằn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rằn\n-(địa phương) Striped\n=Vải rằn\n+Striped cloth"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rằn\n- (địa phương) Striped\n=Vải rằn+Striped cloth"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) colorful, gaudy; (2) to fear, dread"
       }
     ]
   }

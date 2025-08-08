@@ -1,26 +1,18 @@
 [
   {
-    "word": "thộp",
+    "word": "thộp ngực",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tóm giữ lấy bằng một động tác nhanh, gọn và đột ngột\nVí dụ:\n- công an phường đã thộp được tên kẻ cắp"
-      },
-      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thộp\n- đg. Cg. Thộp ngực. Nắm được, bắt được bất thình lình một người (thtục) : Thộp được kẻ cắp."
+        "dict_definition": "@thộp ngực\n- Nh. Thộp."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thộp\n*verb\n-to nab; to snatch; to pinch"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thộp\n* verb\n- to nab; to snatch; to pinch"
+        "dict_definition": "@thộp ngực\n*động từ\n-grab someone by the coat\"s lapel"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to grab, seize, nab, snatch, pinch"
+        "dict_definition": "grab someone by the coat’s lapel"
       }
     ]
   },
@@ -30,19 +22,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to be seized, grabbed, caught (by the neck)"
-      }
-    ]
-  },
-  {
-    "word": "thộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thộc\n- ph. Nói chạy thẳng và nhanh: Chạy thộc vào nhà."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thộc\n*động từ\n-như"
       }
     ]
   },
@@ -68,19 +47,40 @@
     ]
   },
   {
-    "word": "thộp ngực",
+    "word": "thộp",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tóm giữ lấy bằng một động tác nhanh, gọn và đột ngột\nVí dụ:\n- công an phường đã thộp được tên kẻ cắp"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thộp ngực\n- Nh. Thộp."
+        "dict_definition": "@thộp\n- đg. Cg. Thộp ngực. Nắm được, bắt được bất thình lình một người (thtục) : Thộp được kẻ cắp."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thộp ngực\n*động từ\n-grab someone by the coat\"s lapel"
+        "dict_definition": "@thộp\n*verb\n-to nab; to snatch; to pinch"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thộp\n* verb\n- to nab; to snatch; to pinch"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "grab someone by the coat’s lapel"
+        "dict_definition": "to grab, seize, nab, snatch, pinch"
+      }
+    ]
+  },
+  {
+    "word": "thộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thộc\n- ph. Nói chạy thẳng và nhanh: Chạy thộc vào nhà."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thộc\n*động từ\n-như"
       }
     ]
   }

@@ -9,29 +9,51 @@
     ]
   },
   {
-    "word": "đẽo đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-boasting\n-dress\n-hack\n-scab\n-stone dressing"
-      }
-    ]
-  },
-  {
-    "word": "đẽo vuông vắn (gỗ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-square"
-      }
-    ]
-  },
-  {
     "word": "đẽo quanh",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-adz (e)\n-rough-hew"
+      }
+    ]
+  },
+  {
+    "word": "đẽo rìa xờm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-deburr"
+      }
+    ]
+  },
+  {
+    "word": "đẽo bằng rìu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-adze"
+      }
+    ]
+  },
+  {
+    "word": "đẽo khoét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đẽo khoét [đẽo khoét]\n-exploit; squeeze (money)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "exploit, squeeze (money)"
+      }
+    ]
+  },
+  {
+    "word": "đẽo đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-boasting\n-dress\n-hack\n-scab\n-stone dressing"
       }
     ]
   },
@@ -45,11 +67,11 @@
     ]
   },
   {
-    "word": "đẽo rìa xờm",
+    "word": "đẽo vuông vắn (gỗ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-deburr"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-square"
       }
     ]
   },
@@ -83,15 +105,6 @@
     ]
   },
   {
-    "word": "đẽo bằng rìu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-adze"
-      }
-    ]
-  },
-  {
     "word": "đẽo gọt",
     "definitions": [
       {
@@ -105,19 +118,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@đẽo gọt\n- Whittle carefullyat\n=Đẽo gọt một đoạn tre thành cái điếu+To whittle carefully at a bamboo length and make it into hubble-bubble pipe\n-Polish\n=Đẽo gọt câu văn+To polish a sentence"
-      }
-    ]
-  },
-  {
-    "word": "đẽo khoét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đẽo khoét [đẽo khoét]\n-exploit; squeeze (money)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "exploit, squeeze (money)"
       }
     ]
   }

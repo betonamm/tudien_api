@@ -1,52 +1,41 @@
 [
   {
-    "word": "lở lói",
+    "word": "lở băng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lở sâu nhiều chỗ làm cho bề mặt nham nhở [nói khái quát]\nVí dụ:\n- mình mẩy lở lói hết cả \n - mặt đường bị lở lói"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@lở lói [lở lói]\n-ulcer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ulcer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ice fall"
       }
     ]
   },
   {
-    "word": "lở",
+    "word": "lởm khà lởm khởm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nứt vỡ ra và sụt đổ xuống\nVí dụ:\n- miệng ăn núi lở (tng) \n - \"Con sông kia bên lở bên bồi, Bên lở thì đục bên bồi thì trong.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lên mụn có nước và mủ, vỡ ra và lan rộng, gây đau đớn ngứa ngáy khó chịu\nVí dụ:\n- lở đầy người"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lở\n- t. 1. Nứt vỡ ra: Tường lở. 2. Lên mụn, rồi mụn thành mủ vỡ ra, lan rộng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lở [lở]\n-have a skin eruption, rash, eczema\n-crash down, tumble down, collapse, break out, fall down, fall in, crumble, cave in\n@Chuyên ngành kỹ thuật\n-collapse\n-collapsing"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to crumble; to miss, fail, lose"
+        "dict_definition": "như lởm khởm [nhưng ý mức độ nhiều hơn]"
       }
     ]
   },
   {
-    "word": "lởm cha lởm chởm",
+    "word": "lở núi đá",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "avalanche"
+      }
+    ]
+  },
+  {
+    "word": "lở mồm long móng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất lởm chởm, gây cảm giác hơi ghê sợ\nVí dụ:\n- tường cắm mảnh chai lởm cha lởm chởm"
+        "dict_definition": "bệnh dịch ở động vật nhai lại và ở lợn, gây sốt và làm loét ở miệng, ở vú và kẽ móng chân"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lở mồm long móng [lở mồm long móng]\n-xem"
       }
     ]
   },
@@ -76,41 +65,19 @@
     ]
   },
   {
-    "word": "lở tích sườn",
+    "word": "lở láy",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hillwash\n-hillwaste"
-      }
-    ]
-  },
-  {
-    "word": "lở đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-landslide"
-      }
-    ]
-  },
-  {
-    "word": "lở sơn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lở do bị dị ứng với nhựa cây sơn làm cho mặt sưng phù, ngứa ngáy, nổi mụn"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lở sơn\n- Bệnh lở do cơ thể phản ứng với nhựa cây sơn sinh ra."
+        "dict_definition": "@lở láy\n- Bệnh lở nói chung: Lở láy đến phát sốt."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lở sơn [lở sơn]\n-lacquer poisoning"
+        "dict_definition": "@lở láy [lở láy]\n-ulcered, ulcerate, ulcerous"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "lacquer poisoning"
+        "dict_definition": "ulcerate, ulcerous"
       }
     ]
   },
@@ -136,11 +103,67 @@
     ]
   },
   {
-    "word": "lở núi đá",
+    "word": "lởm cha lởm chởm",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất lởm chởm, gây cảm giác hơi ghê sợ\nVí dụ:\n- tường cắm mảnh chai lởm cha lởm chởm"
+      }
+    ]
+  },
+  {
+    "word": "lở tích sườn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hillwash\n-hillwaste"
+      }
+    ]
+  },
+  {
+    "word": "lở lói",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lở sâu nhiều chỗ làm cho bề mặt nham nhở [nói khái quát]\nVí dụ:\n- mình mẩy lở lói hết cả \n - mặt đường bị lở lói"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lở lói [lở lói]\n-ulcer"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "avalanche"
+        "dict_definition": "ulcer"
+      }
+    ]
+  },
+  {
+    "word": "lở sơn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lở do bị dị ứng với nhựa cây sơn làm cho mặt sưng phù, ngứa ngáy, nổi mụn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lở sơn\n- Bệnh lở do cơ thể phản ứng với nhựa cây sơn sinh ra."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lở sơn [lở sơn]\n-lacquer poisoning"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lacquer poisoning"
+      }
+    ]
+  },
+  {
+    "word": "lở tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-colluvial\n-colluvial deposit\n-colluvium\n-scree\n-talus\n-talus pile"
       }
     ]
   },
@@ -162,15 +185,6 @@
     ]
   },
   {
-    "word": "lởm khởm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở tình trạng không tốt, không hay vì gồm nhiều cái, nhiều loại tốt xấu lẫn lộn, không đều, không ra đâu vào đâu\nVí dụ:\n- máy móc lởm khởm \n - ăn nói lởm khởm"
-      }
-    ]
-  },
-  {
     "word": "lở sườn",
     "definitions": [
       {
@@ -180,19 +194,45 @@
     ]
   },
   {
-    "word": "lở láy",
+    "word": "lở",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nứt vỡ ra và sụt đổ xuống\nVí dụ:\n- miệng ăn núi lở (tng) \n - \"Con sông kia bên lở bên bồi, Bên lở thì đục bên bồi thì trong.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lên mụn có nước và mủ, vỡ ra và lan rộng, gây đau đớn ngứa ngáy khó chịu\nVí dụ:\n- lở đầy người"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lở láy\n- Bệnh lở nói chung: Lở láy đến phát sốt."
+        "dict_definition": "@lở\n- t. 1. Nứt vỡ ra: Tường lở. 2. Lên mụn, rồi mụn thành mủ vỡ ra, lan rộng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lở láy [lở láy]\n-ulcered, ulcerate, ulcerous"
+        "dict_definition": "@lở [lở]\n-have a skin eruption, rash, eczema\n-crash down, tumble down, collapse, break out, fall down, fall in, crumble, cave in\n@Chuyên ngành kỹ thuật\n-collapse\n-collapsing"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "ulcerate, ulcerous"
+        "dict_definition": "to crumble; to miss, fail, lose"
+      }
+    ]
+  },
+  {
+    "word": "lởm khởm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở tình trạng không tốt, không hay vì gồm nhiều cái, nhiều loại tốt xấu lẫn lộn, không đều, không ra đâu vào đâu\nVí dụ:\n- máy móc lởm khởm \n - ăn nói lởm khởm"
+      }
+    ]
+  },
+  {
+    "word": "lở đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-landslide"
       }
     ]
   },
@@ -202,46 +242,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@lở đỉnh lấp dòng\n- ý nói sự thề non hẹn bể tan vỡ"
-      }
-    ]
-  },
-  {
-    "word": "lở tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-colluvial\n-colluvial deposit\n-colluvium\n-scree\n-talus\n-talus pile"
-      }
-    ]
-  },
-  {
-    "word": "lởm khà lởm khởm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lởm khởm [nhưng ý mức độ nhiều hơn]"
-      }
-    ]
-  },
-  {
-    "word": "lở băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ice fall"
-      }
-    ]
-  },
-  {
-    "word": "lở mồm long móng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bệnh dịch ở động vật nhai lại và ở lợn, gây sốt và làm loét ở miệng, ở vú và kẽ móng chân"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lở mồm long móng [lở mồm long móng]\n-xem"
       }
     ]
   }

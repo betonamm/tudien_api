@@ -1,55 +1,18 @@
 [
   {
-    "word": "rửa ruột cây đá",
+    "word": "rửng mỡ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-core washing"
-      }
-    ]
-  },
-  {
-    "word": "rửa lọc",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cử chỉ đùa bỡn quá trớn, tựa như là thừa dư sức lực mà không biết làm gì [thường dùng để mắng, chửi]\nVí dụ:\n- mày rửng mỡ cho lắm vào"
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clean"
-      }
-    ]
-  },
-  {
-    "word": "rửa bằng axit",
-    "definitions": [
+        "dict_definition": "@rửng mỡ\n-xem dửng mỡ"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sour crude"
-      }
-    ]
-  },
-  {
-    "word": "rửa sạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-clean"
-      }
-    ]
-  },
-  {
-    "word": "rửa khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas washing"
-      }
-    ]
-  },
-  {
-    "word": "rửa khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dry-clean"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rửng mỡ\n- xem dửng mỡ"
       }
     ]
   },
@@ -63,20 +26,47 @@
     ]
   },
   {
-    "word": "rửa tay",
+    "word": "rửa nhiều đợt",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wash one’s hands"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cascade washing"
       }
     ]
   },
   {
-    "word": "rửi ro thiếu trọng lượng",
+    "word": "rửa giải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-risk of shortage in weight"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-elute\n-elution"
+      }
+    ]
+  },
+  {
+    "word": "rửa hờn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rửa hờn [rửa hờn]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "rửa chén bát",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wash the dishes"
+      }
+    ]
+  },
+  {
+    "word": "rửa nửa người, rửa phần dưới người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-demibain"
       }
     ]
   },
@@ -106,29 +96,28 @@
     ]
   },
   {
-    "word": "rửa trôi được",
+    "word": "rửa bằng dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-washable"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil wash"
       }
     ]
   },
   {
-    "word": "rửa bánh của bộ lọc",
+    "word": "rửa mặn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-filter-cake washing"
-      }
-    ]
-  },
-  {
-    "word": "rửa trôi (đất)",
-    "definitions": [
+        "dict_definition": "@rửa mặn\n-(nông nghiệp) Remove salt from; desalt (rice-fields)"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clear out\n-cut"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rửa mặn\n- (nông nghiệp) Remove salt from; desalt (rice-fields)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "remove salt from, desalt (rice-fields)"
       }
     ]
   },
@@ -150,11 +139,11 @@
     ]
   },
   {
-    "word": "rửa xói",
+    "word": "rửa sạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blow off\n-scour"
+        "dict_definition": "@Chuyên ngành kinh tế\n-clean"
       }
     ]
   },
@@ -172,6 +161,87 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to wash out an insult"
+      }
+    ]
+  },
+  {
+    "word": "rửa không khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air washing"
+      }
+    ]
+  },
+  {
+    "word": "rửa mẫu lõi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-core flushing"
+      }
+    ]
+  },
+  {
+    "word": "rửa khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dry-clean"
+      }
+    ]
+  },
+  {
+    "word": "rửa trôi (đất)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clear out\n-cut"
+      }
+    ]
+  },
+  {
+    "word": "rửa ruột cây đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-core washing"
+      }
+    ]
+  },
+  {
+    "word": "rửa (axit)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-kill"
+      }
+    ]
+  },
+  {
+    "word": "rửa chén",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wash dishes"
+      }
+    ]
+  },
+  {
+    "word": "rửi ro thiếu trọng lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-risk of shortage in weight"
+      }
+    ]
+  },
+  {
+    "word": "rửa xói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blow off\n-scour"
       }
     ]
   },
@@ -201,112 +271,11 @@
     ]
   },
   {
-    "word": "rửa cặn bia (trong thùng lọc)",
+    "word": "rửa bằng tia nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sparge"
-      }
-    ]
-  },
-  {
-    "word": "rửa (axit)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-kill"
-      }
-    ]
-  },
-  {
-    "word": "rửa giải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-elute\n-elution"
-      }
-    ]
-  },
-  {
-    "word": "rửa bằng dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil wash"
-      }
-    ]
-  },
-  {
-    "word": "rửa non",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-underdevelop"
-      }
-    ]
-  },
-  {
-    "word": "rửa mặt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wash one’s face"
-      }
-    ]
-  },
-  {
-    "word": "rửa mặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rửa mặn\n-(nông nghiệp) Remove salt from; desalt (rice-fields)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rửa mặn\n- (nông nghiệp) Remove salt from; desalt (rice-fields)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "remove salt from, desalt (rice-fields)"
-      }
-    ]
-  },
-  {
-    "word": "rửa mẫu lõi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-core flushing"
-      }
-    ]
-  },
-  {
-    "word": "rửa lắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-elutriate"
-      }
-    ]
-  },
-  {
-    "word": "rửa ruột",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rửa ruột\n- Bơm nước vào ruột để tống phân và chất độc ra."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rửa ruột\n-Administer an enema\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-colonicirrigation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rửa ruột\n- Administer an enema"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "administer an enema"
+        "dict_definition": "@Chuyên ngành kinh tế\n-flush"
       }
     ]
   },
@@ -320,20 +289,45 @@
     ]
   },
   {
-    "word": "rửa trôi",
+    "word": "rửa khí",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-wash\n-washable\n-washout"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas washing"
       }
     ]
   },
   {
-    "word": "rửa bằng tia nước",
+    "word": "rửa ảnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dùng một dung dịch hoá học làm cho ảnh đã chụp hiện rõ lên giấy ảnh\nVí dụ:\n- ông ấy đang rửa ảnh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rửa ảnh\n- đgt Dùng một dung dịch chất hóa học để làm hiện hình ảnh đã chụp lên phim, lên giấy: Ban ngày, anh ấy đi chụp phong cảnh, tối về liền rửa ảnh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rửa ảnh\n*verb\n-to develop a film"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rửa ảnh\n* verb\n- to develop a film"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to develop a film, develop photos"
+      }
+    ]
+  },
+  {
+    "word": "rửa lắng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flush"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-elutriate"
       }
     ]
   },
@@ -367,72 +361,11 @@
     ]
   },
   {
-    "word": "rửa nhiều đợt",
+    "word": "rửa bằng kiềm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cascade washing"
-      }
-    ]
-  },
-  {
-    "word": "rửa nửa người, rửa phần dưới người",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-demibain"
-      }
-    ]
-  },
-  {
-    "word": "rửa ảnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng một dung dịch hoá học làm cho ảnh đã chụp hiện rõ lên giấy ảnh\nVí dụ:\n- ông ấy đang rửa ảnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rửa ảnh\n- đgt Dùng một dung dịch chất hóa học để làm hiện hình ảnh đã chụp lên phim, lên giấy: Ban ngày, anh ấy đi chụp phong cảnh, tối về liền rửa ảnh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rửa ảnh\n*verb\n-to develop a film"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rửa ảnh\n* verb\n- to develop a film"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to develop a film, develop photos"
-      }
-    ]
-  },
-  {
-    "word": "rửa chén bát",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wash the dishes"
-      }
-    ]
-  },
-  {
-    "word": "rửa chén",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wash dishes"
-      }
-    ]
-  },
-  {
-    "word": "rửa không khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air washing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-caustic wash"
       }
     ]
   },
@@ -454,37 +387,104 @@
     ]
   },
   {
-    "word": "rửa bằng kiềm",
+    "word": "rửa ruột",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-caustic wash"
-      }
-    ]
-  },
-  {
-    "word": "rửa hờn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rửa hờn [rửa hờn]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "rửng mỡ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cử chỉ đùa bỡn quá trớn, tựa như là thừa dư sức lực mà không biết làm gì [thường dùng để mắng, chửi]\nVí dụ:\n- mày rửng mỡ cho lắm vào"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rửa ruột\n- Bơm nước vào ruột để tống phân và chất độc ra."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rửng mỡ\n-xem dửng mỡ"
+        "dict_definition": "@rửa ruột\n-Administer an enema\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-colonicirrigation"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rửng mỡ\n- xem dửng mỡ"
+        "dict_definition": "@rửa ruột\n- Administer an enema"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "administer an enema"
+      }
+    ]
+  },
+  {
+    "word": "rửa bằng axit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sour crude"
+      }
+    ]
+  },
+  {
+    "word": "rửa mặt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wash one’s face"
+      }
+    ]
+  },
+  {
+    "word": "rửa trôi được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-washable"
+      }
+    ]
+  },
+  {
+    "word": "rửa non",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-underdevelop"
+      }
+    ]
+  },
+  {
+    "word": "rửa bánh của bộ lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-filter-cake washing"
+      }
+    ]
+  },
+  {
+    "word": "rửa lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clean"
+      }
+    ]
+  },
+  {
+    "word": "rửa cặn bia (trong thùng lọc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sparge"
+      }
+    ]
+  },
+  {
+    "word": "rửa trôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-wash\n-washable\n-washout"
+      }
+    ]
+  },
+  {
+    "word": "rửa tay",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wash one’s hands"
       }
     ]
   }

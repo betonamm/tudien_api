@@ -1,27 +1,5 @@
 [
   {
-    "word": "vở diễn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vở diễn [vở diễn]\n-play;  piece"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "play, piece"
-      }
-    ]
-  },
-  {
-    "word": "vởn vơ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lảng vảng, nhởn nhơ đây đó\nVí dụ:\n- hai người lạ đang vởn vơ quanh ngôi biệt thự \n - đàn bướm vởn vơ quanh khóm hoa"
-      }
-    ]
-  },
-  {
     "word": "vở",
     "definitions": [
       {
@@ -56,6 +34,28 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "play"
+      }
+    ]
+  },
+  {
+    "word": "vởn vơ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lảng vảng, nhởn nhơ đây đó\nVí dụ:\n- hai người lạ đang vởn vơ quanh ngôi biệt thự \n - đàn bướm vởn vơ quanh khóm hoa"
+      }
+    ]
+  },
+  {
+    "word": "vở diễn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vở diễn [vở diễn]\n-play;  piece"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "play, piece"
       }
     ]
   }

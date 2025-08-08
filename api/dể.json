@@ -1,23 +1,5 @@
 [
   {
-    "word": "dể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dể [dể]\n-despise, hold in contempt, disdain"
-      }
-    ]
-  },
-  {
-    "word": "dể ám thị",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "suggestible"
-      }
-    ]
-  },
-  {
     "word": "dể ngươi",
     "definitions": [
       {
@@ -39,11 +21,29 @@
     ]
   },
   {
+    "word": "dể ám thị",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "suggestible"
+      }
+    ]
+  },
+  {
     "word": "dể làm gì",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "what for, do what?"
+      }
+    ]
+  },
+  {
+    "word": "dể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dể [dể]\n-despise, hold in contempt, disdain"
       }
     ]
   }

@@ -1,37 +1,31 @@
 [
   {
-    "word": "gõ chẩn trực tiếp",
+    "word": "gõ kiến",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chim cỡ trung bình, màu sặc sỡ, thường dùng mỏ gõ vào thân cây để bắt kiến ăn"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-direct percussion"
+        "dict_definition": "@gõ kiến\n-Woodpecker (chim)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gõ kiến\n- Woodpecker (chim)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "woodpecker"
       }
     ]
   },
   {
-    "word": "gõ (chuông)",
+    "word": "gõ phím",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-toll"
-      }
-    ]
-  },
-  {
-    "word": "gõ búa thị trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hammer\n-hammering the market"
-      }
-    ]
-  },
-  {
-    "word": "gõ url của tệp tin idc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Type the URL of the idc file"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-touch"
       }
     ]
   },
@@ -45,56 +39,11 @@
     ]
   },
   {
-    "word": "gõ (nhịp)",
+    "word": "gõ búa thị trường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tick"
-      }
-    ]
-  },
-  {
-    "word": "gõ lặp tự động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-typematic"
-      }
-    ]
-  },
-  {
-    "word": "gõ supap",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-peening"
-      }
-    ]
-  },
-  {
-    "word": "gõ đập",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hit, smash"
-      }
-    ]
-  },
-  {
-    "word": "gõ chưa bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rough timber"
-      }
-    ]
-  },
-  {
-    "word": "gõ búa tuyên bố vỡ nợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hammer"
+        "dict_definition": "@Chuyên ngành kinh tế\n-hammer\n-hammering the market"
       }
     ]
   },
@@ -112,54 +61,6 @@
     ]
   },
   {
-    "word": "gõ khám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-percussion"
-      }
-    ]
-  },
-  {
-    "word": "gõ nhẹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rap"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to knock lightly"
-      }
-    ]
-  },
-  {
-    "word": "gõ chẩn sâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-deep percussion"
-      }
-    ]
-  },
-  {
-    "word": "gõ đầu trẻ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dạy học cho trẻ nhỏ [hàm ý đùa hoặc không coi trọng]\nVí dụ:\n- làm nghề gõ đầu trẻ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gõ đầu trẻ [gõ đầu trẻ]\n-(nghĩa bóng) to be a teacher"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be a teacher"
-      }
-    ]
-  },
-  {
     "word": "gõ chẩn hai tay",
     "definitions": [
       {
@@ -169,29 +70,74 @@
     ]
   },
   {
-    "word": "gõ gõ",
+    "word": "gõ (nhịp)",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to knock"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tick"
       }
     ]
   },
   {
-    "word": "gõ thử nóc lò",
+    "word": "gõ chưa bào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sound"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rough timber"
       }
     ]
   },
   {
-    "word": "gõ phím",
+    "word": "gõ url của tệp tin idc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-touch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Type the URL of the idc file"
+      }
+    ]
+  },
+  {
+    "word": "gõ chẩn trực tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-direct percussion"
+      }
+    ]
+  },
+  {
+    "word": "gõ búa tuyên bố vỡ nợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hammer"
+      }
+    ]
+  },
+  {
+    "word": "gõ lặp tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-typematic"
+      }
+    ]
+  },
+  {
+    "word": "gõ (chuông)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-toll"
+      }
+    ]
+  },
+  {
+    "word": "gõ supap",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-peening"
       }
     ]
   },
@@ -229,11 +175,55 @@
     ]
   },
   {
-    "word": "gõ gỉ",
+    "word": "gõ đầu trẻ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dạy học cho trẻ nhỏ [hàm ý đùa hoặc không coi trọng]\nVí dụ:\n- làm nghề gõ đầu trẻ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gõ đầu trẻ [gõ đầu trẻ]\n-(nghĩa bóng) to be a teacher"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be a teacher"
+      }
+    ]
+  },
+  {
+    "word": "gõ chẩn sâu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-descaling"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-deep percussion"
+      }
+    ]
+  },
+  {
+    "word": "gõ thử nóc lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sound"
+      }
+    ]
+  },
+  {
+    "word": "gõ khám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-percussion"
+      }
+    ]
+  },
+  {
+    "word": "gõ đập",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hit, smash"
       }
     ]
   },
@@ -256,23 +246,33 @@
     ]
   },
   {
-    "word": "gõ kiến",
+    "word": "gõ nhẹ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chim cỡ trung bình, màu sặc sỡ, thường dùng mỏ gõ vào thân cây để bắt kiến ăn"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@gõ kiến\n-Woodpecker (chim)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gõ kiến\n- Woodpecker (chim)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rap"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "woodpecker"
+        "dict_definition": "to knock lightly"
+      }
+    ]
+  },
+  {
+    "word": "gõ gỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-descaling"
+      }
+    ]
+  },
+  {
+    "word": "gõ gõ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to knock"
       }
     ]
   }

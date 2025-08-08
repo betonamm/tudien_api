@@ -1,5 +1,27 @@
 [
   {
+    "word": "dắt tàu ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pilotage outwards"
+      }
+    ]
+  },
+  {
+    "word": "dắt dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dắt dẫn\n-Guide\n=Dắt dẫn người khách lạ qua xóm\n+To guide a stranger though the hamlet"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dắt dẫn\n- Guide\n=Dắt dẫn người khách lạ qua xóm+To guide a stranger though the hamlet"
+      }
+    ]
+  },
+  {
     "word": "dắt dây",
     "definitions": [
       {
@@ -17,72 +39,24 @@
     ]
   },
   {
+    "word": "dắt bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dắt bóng\n-(thể thao) Dribble\n=Cầu thủ dắt bóng\n+Dribbler"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dắt bóng\n- (thể thao) Dribble\n=Cầu thủ dắt bóng+Dribbler"
+      }
+    ]
+  },
+  {
     "word": "dắt dìu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "như dìu dắt\nVí dụ:\n- thầy đã dìu dắt tôi từ ngày đầu tiên \n - anh dìu dắt tôi vào đảng"
-      }
-    ]
-  },
-  {
-    "word": "dắt cây súng trong bụng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to carry a gun on one’s hip or waist"
-      }
-    ]
-  },
-  {
-    "word": "dắt díu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dắt nhau thành đoàn, thành tốp, trông lôi thôi khổ cực\nVí dụ:\n- bọn trẻ dắt díu nhau ra bờ sông \n - cả gia đình dắt díu nhau về quê"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dắt díu\n- đgt. 1. Kéo nhau đi: Dắt díu đưa nhau đến cửa chiền (HXHương) 2. Rủ rê, lôi kéo: Chúng dắt díu nhau đi nhậu nhẹt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dắt díu\n*verb\n-to go together"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dắt díu\n* verb\n- to go together"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to go together"
-      }
-    ]
-  },
-  {
-    "word": "dắt tàu vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pilotage inwards"
-      }
-    ]
-  },
-  {
-    "word": "dắng cay",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be bitter"
-      }
-    ]
-  },
-  {
-    "word": "dắt cây súng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to carry a gun"
       }
     ]
   },
@@ -125,6 +99,49 @@
     ]
   },
   {
+    "word": "dắt tàu vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pilotage inwards"
+      }
+    ]
+  },
+  {
+    "word": "dắt cây súng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to carry a gun"
+      }
+    ]
+  },
+  {
+    "word": "dắt díu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dắt nhau thành đoàn, thành tốp, trông lôi thôi khổ cực\nVí dụ:\n- bọn trẻ dắt díu nhau ra bờ sông \n - cả gia đình dắt díu nhau về quê"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dắt díu\n- đgt. 1. Kéo nhau đi: Dắt díu đưa nhau đến cửa chiền (HXHương) 2. Rủ rê, lôi kéo: Chúng dắt díu nhau đi nhậu nhẹt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dắt díu\n*verb\n-to go together"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dắt díu\n* verb\n- to go together"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to go together"
+      }
+    ]
+  },
+  {
     "word": "dắt",
     "definitions": [
       {
@@ -150,37 +167,29 @@
     ]
   },
   {
-    "word": "dắt bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dắt bóng\n-(thể thao) Dribble\n=Cầu thủ dắt bóng\n+Dribbler"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dắt bóng\n- (thể thao) Dribble\n=Cầu thủ dắt bóng+Dribbler"
-      }
-    ]
-  },
-  {
-    "word": "dắt dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dắt dẫn\n-Guide\n=Dắt dẫn người khách lạ qua xóm\n+To guide a stranger though the hamlet"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dắt dẫn\n- Guide\n=Dắt dẫn người khách lạ qua xóm+To guide a stranger though the hamlet"
-      }
-    ]
-  },
-  {
-    "word": "dắt ra ngoài",
+    "word": "dắng cay",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to take outside, lead outside"
+        "dict_definition": "to be bitter"
+      }
+    ]
+  },
+  {
+    "word": "dắt cây súng trong bụng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to carry a gun on one’s hip or waist"
+      }
+    ]
+  },
+  {
+    "word": "dắt tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-towage"
       }
     ]
   },
@@ -202,20 +211,11 @@
     ]
   },
   {
-    "word": "dắt tàu ra",
+    "word": "dắt ra ngoài",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pilotage outwards"
-      }
-    ]
-  },
-  {
-    "word": "dắt tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-towage"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take outside, lead outside"
       }
     ]
   }

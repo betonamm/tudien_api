@@ -1,192 +1,162 @@
 [
   {
-    "word": "tôn dạng vảy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-imbricated plate"
-      }
-    ]
-  },
-  {
-    "word": "tôi vôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-slake\n@Chuyên ngành kỹ thuật\n-carburate\n-lime slaking\n-slack\n-slake"
-      }
-    ]
-  },
-  {
-    "word": "tô hiệu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Hiệu\n- (ttnn) h. mai Sơn, t. Sơn La\n- (xã) tên gọi các xã thuộc h. Thường Tín (Hà Tây), h. Bình Gia (Lạng Sơn)"
-      }
-    ]
-  },
-  {
-    "word": "tôpô mạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-strong topology"
-      }
-    ]
-  },
-  {
-    "word": "tông hiến",
+    "word": "tô pô",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "apostolic constitution"
+        "dict_definition": "topology"
       }
     ]
   },
   {
-    "word": "tôn lạnh",
+    "word": "tôi luyện đẳng thời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ice ton\n-refrigeration ton\n-ton"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-isochronal annealing"
       }
     ]
   },
   {
-    "word": "tôn tạo",
+    "word": "tôn trọng nhân quyền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to respect human rights"
+      }
+    ]
+  },
+  {
+    "word": "tôn mỏng (<0,2mm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tagger"
+      }
+    ]
+  },
+  {
+    "word": "tông màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-color tone\n-colour tone"
+      }
+    ]
+  },
+  {
+    "word": "tôn thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet steel"
+      }
+    ]
+  },
+  {
+    "word": "tôn lợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-light sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôi ngu gì",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I would have to be stupid to (do sth), I’m not stupid enough to (do sth)"
+      }
+    ]
+  },
+  {
+    "word": "tô nhượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tô nhượng [tô nhượng]\n*danh từ\n-concession\n@Chuyên ngành kinh tế\n-concession"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "concession"
+      }
+    ]
+  },
+  {
+    "word": "tôn lá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sheet iron\n@Lĩnh vực: điện lạnh\n-sheet steel"
+      }
+    ]
+  },
+  {
+    "word": "tôi bị bẹp lốp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I had a flat tire"
+      }
+    ]
+  },
+  {
+    "word": "tôi cải tiến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-temper"
+      }
+    ]
+  },
+  {
+    "word": "tôi có",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I have"
+      }
+    ]
+  },
+  {
+    "word": "tô nô",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sửa chữa, làm lại những chỗ hư hỏng để bảo tồn một di tích lịch sử\nVí dụ:\n- Chính quyền địa phương đã tôn tạo lại ngôi chùa cổ"
+        "dict_definition": "thùng gỗ lớn, hình trụ, bụng phình, hai mặt đáy được đóng kín, dùng để đựng một số mặt hàng khi chuyên chở\nVí dụ:\n- một tô nô rượu"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôn tạo [tôn tạo]\n*danh từ\n-embellish, embellishment"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "embellish, embellishment"
+        "dict_definition": "@tô nô [tô nô]\n-(từ gốc tiếng Pháp là Tonneau) xem"
       }
     ]
   },
   {
-    "word": "tôn từ tính mềm",
+    "word": "tôi cứng lạnh (kem)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-magnetic (steel) sheet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-harden (ice cream)"
       }
     ]
   },
   {
-    "word": "tôpô vi phân",
+    "word": "tôn gấp mép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-differential topology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flanged sheet"
       }
     ]
   },
   {
-    "word": "tông đản",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tông Đản\n- (? - ?) Danh tướng thời Lí Nhân Tông, tù trưởng địa phương, dân tộc Tày. 10-1075 phó tướng cho Lí Thường Kiệt, có những đóng góp quan trọng trong việc đập tan những căn cứ xuất phát xâm lược Đại Việt của nhà Tống"
-      }
-    ]
-  },
-  {
-    "word": "tô hô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cơ thể] ở trạng thái để phơi bày ra một cách lộ liễu những chỗ cần được che kín\nVí dụ:\n- cởi truồng tô hô"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tô hô\n- Trần truồng và để lộ bộ phận sinh dục."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô hô [tô hô]\n-naked, nude, unclothed, stark naked"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "naked, nude, unclothed"
-      }
-    ]
-  },
-  {
-    "word": "tôn dày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-heavy plates"
-      }
-    ]
-  },
-  {
-    "word": "tôn uốn",
+    "word": "tôi cũng nghĩ như anh",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "corrugated iron"
-      }
-    ]
-  },
-  {
-    "word": "tô tem",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "totem"
-      }
-    ]
-  },
-  {
-    "word": "tô hiến thành",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Hiến Thành\n- (? - ô Diên, nay là Hạ Mỗ, Đan Phượng, Hà Tây - 1179) Hiệu Phi Diên, làm quan triều nhà Lý các đời vua Lý Anh Tông, Lý Cao Tông. ông tài kiêm văn võ, đã cầm quân đánh Thân Lợi, Ngưu Hồng được phong Thái uý, sau đó Thái sư phụ chính. ông điều hành việc nước, khuyến khích sự học, chăm sóc nông trang khiến cho nước được thịnh trị"
-      }
-    ]
-  },
-  {
-    "word": "tô kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economic rent"
-      }
-    ]
-  },
-  {
-    "word": "tông đài tich hợp máy tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Computer Integrated Office (CIO)"
-      }
-    ]
-  },
-  {
-    "word": "tôi cứng tiếp xúc kem",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-contact ice-cream"
-      }
-    ]
-  },
-  {
-    "word": "tông màu sẫm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deep color tone"
+        "dict_definition": "I think like you"
       }
     ]
   },
@@ -200,135 +170,372 @@
     ]
   },
   {
-    "word": "tôpô thẳng",
+    "word": "tôn bọc cao su",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-plane topology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rubber faced steel plate"
       }
     ]
   },
   {
-    "word": "tông hài",
+    "word": "tô xám",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-harmonic tone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-grayed\n-graying"
       }
     ]
   },
   {
-    "word": "tôi đây",
+    "word": "tôi trong không khí",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-air-hardened\n@Lĩnh vực: cơ khí & công trình\n-self-hardening"
+      }
+    ]
+  },
+  {
+    "word": "tông đường",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhà thờ họ; thường dùng để chỉ dòng họ\nVí dụ:\n- nối dõi tông đường"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tông đường\n- Nhà thờ tổ tông. ở đây dùng với nghĩa: \"nối dõi tông đường"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông đường [tông đường]\n*danh từ\n-family temple"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "it’s me, I’m here"
+        "dict_definition": "family temple"
       }
     ]
   },
   {
-    "word": "tôn tấm tráng kẽm nóng",
+    "word": "tôi luyện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho tinh thần, ý chí trải qua những thử thách gay go trong thực tiễn hoạt động và đấu tranh mà trở nên kiên định, vững vàng\nVí dụ:\n- được tôi luyện trong đấu tranh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôi luyện\n- Chịu đựng những khó khăn gian khổ để trở thành cứng rắn, giỏi giang."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôi luyện [tôi luyện]\n*động từ\n-temper, steel, steel onself, temper oneself"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "temper, steel, steel oneself, temper oneself"
+      }
+    ]
+  },
+  {
+    "word": "tôpô đồng nhất hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hot-galvanized sheeting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-identification topology"
       }
     ]
   },
   {
-    "word": "tông chi",
+    "word": "tôn lợp nhà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofing iron"
+      }
+    ]
+  },
+  {
+    "word": "tông rời rạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-discrete tone"
+      }
+    ]
+  },
+  {
+    "word": "tôi đòi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tông chi\n- Ngành trong họ: Tông chi họ hàng."
+        "dict_definition": "@tôi đòi\n- Đầy tớ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tông chi [tông chi]\n*danh từ\n-family tree, descent"
+        "dict_definition": "@tôi đòi [tôi đòi]\n-servant (s)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "family tree, descent"
+        "dict_definition": "servant (s)"
       }
     ]
   },
   {
-    "word": "tôn dày hợp kim nhôm",
+    "word": "tôn trọng (hợp đồng, luật pháp, quyết định, lời hứa...)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aluminium alloy plate"
+        "dict_definition": "@Chuyên ngành kinh tế\n-abide"
       }
     ]
   },
   {
-    "word": "tôn thép mỏng",
+    "word": "tôi không biết",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-light gauge steel\n-sheet steel"
+        "dict_name": "VNEDICT",
+        "dict_definition": "I don’t know"
       }
     ]
   },
   {
-    "word": "tôc độ truyền dữ liệu hiệu quả",
+    "word": "tôn dày (đóng tàu)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-effective data transfer rate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-plate"
       }
     ]
   },
   {
-    "word": "tôn huynh",
+    "word": "tôn cứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôn huynh [tôn huynh]\n*danh từ\n-your elder brother"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigid sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôn sùng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kính trọng đến mức gần như sùng bái\nVí dụ:\n- mọi người tôn sùng anh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn sùng\n- đgt. Tôn kính và đề cao hết mức: tôn sùng đạo Phật  tôn sùng cá nhân  tôn sùng lãnh tụ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn sùng\n*verb\n-to venerate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-deify"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tôn sùng\n* verb\n- to venerate"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "your elder brother"
+        "dict_definition": "to honor, venerate"
       }
     ]
   },
   {
-    "word": "tôn chủ",
+    "word": "tông màu sẫm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôn chủ [tônc hủ]\n*danh từ\n-chief,  lord"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-deep color tone"
+      }
+    ]
+  },
+  {
+    "word": "tôi không phải là",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I am not"
+      }
+    ]
+  },
+  {
+    "word": "tôpô tương thích thứ tự",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-order compatible topology"
+      }
+    ]
+  },
+  {
+    "word": "tôi tớ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôi tớ\n- Người ở dưới quyền sai bảo của người khác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôi tớ\n*noun\n-subordinate, subject"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tôi tớ\n* noun\n- subordinate, subject"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "chief, lord"
+        "dict_definition": "subordinate, subject"
       }
     ]
   },
   {
-    "word": "tôn cán láng",
+    "word": "tôn trọng một điều khoản trong hợp đồng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-calendered sheet"
+        "dict_definition": "@Chuyên ngành kinh tế\n-respect a clause in a contract\n-respect a clause in a contract (to...)"
       }
     ]
   },
   {
-    "word": "tôi e cô ta không đến",
+    "word": "tôn nghiêm",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trang nghiêm, gợi sự coi trọng, tôn kính\nVí dụ:\n- nơi thờ cúng tôn nghiêm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn nghiêm\n- t. (Nơi) uy nghi, trang nghiêm, được mọi người hết sức coi trọng. Nơi thờ cúng tôn nghiêm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn nghiêm\n*adj\n-solemn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tôn nghiêm\n* adj\n- solemn"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "I am afraid she will not come"
+        "dict_definition": "serious, solemn, professional, grave"
       }
     ]
   },
   {
-    "word": "tôn mạ thiếc",
+    "word": "tông liên tục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tin plate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-continuous transport"
+      }
+    ]
+  },
+  {
+    "word": "tôpô mạng điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-topology of circuits"
+      }
+    ]
+  },
+  {
+    "word": "tôn thờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngưỡng mộ, coi trọng đến mức cho là thiêng liêng đối với mình\nVí dụ:\n- tôn thờ thần tượng \n - mọi người tôn thờ anh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn thờ [tôn thờ]\n-to adore;  to idolize;  to worship"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to adore, idolize, worship"
+      }
+    ]
+  },
+  {
+    "word": "tôi cứng ở nhiệt độ dưới 00f (-17, 8oc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sub-zero quenching"
+      }
+    ]
+  },
+  {
+    "word": "tôn thất thuyết",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tôn Thất Thuyết\n- (1835 - Xuân Long, Huế, Thừa Thiên - 1913) Đại thần triều Nguyễn, người đứng đầu phe chủ chiến chống Pháp. 1881, làm Thượng thư bộ Binh, 1883 làm Phụ chính đại thần. Khi vua Kiến Phúc mất, Tôn Thất Thuyết đưa vua Hàm Nghi lên thay. 7-1885 Tôn Thất Thuyết đưa vua Hàm Nghi ra Tân Sở và phát động phong trào Cần Vương kháng Pháp cứu nước. Sau đó lại đưa Hàm Nghi ra miền Hương Khê (Hà Tĩnh). 12-1885 Tôn Thất Thuyết sang Trung Quốc cầu viện nhưng việc không thành, chết tại đó"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Tôn Thất Thuyết\n-Tôn Thất Thuyết (1835-1913) - patriotic general of Nhà Nguyễn (Nguyễn Dynasty) and deputy minister of national defence - was at the head of the pro-war camp. After the unsuccessful attack on the French barracks in the night of July 4th 1885, Tôn Thất Thuyết escorted King Hàm Nghi to Hà Tĩnh where the latter would promulgate Cần Vương+Decree. After having come to China and tried in vain to seek reinforcements, Tôn Thất Thuyết lived in exile there until his death"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@Tôn Thất Thuyết\n- Tôn Thất Thuyết (1835-1913) - patriotic general of Nhà Nguyễn (Nguyễn Dynasty) and deputy minister of national defence - was at the head of the pro-war camp. After the unsuccessful attack on the French barracks in the night of July 4th 1885, Tôn Thất Thuyết escorted King Hàm Nghi to Hà Tĩnh where the latter would promulgate Cần Vương+Decree. After having come to China and tried in vain to seek reinforcements, Tôn Thất Thuyết lived in exile there until his death"
+      }
+    ]
+  },
+  {
+    "word": "tôi cứng (kem)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-harden"
+      }
+    ]
+  },
+  {
+    "word": "tôn trọng một kỳ hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-meet a dead-line\n-meet a deadline (to...)"
+      }
+    ]
+  },
+  {
+    "word": "tông môn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông môn [tông môn]\n*danh từ\n-ancestry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ancestry"
+      }
+    ]
+  },
+  {
+    "word": "tông nói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-speech tone"
+      }
+    ]
+  },
+  {
+    "word": "tông miếu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tôn miếu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông miếu - như"
       }
     ]
   },
@@ -370,80 +577,145 @@
     ]
   },
   {
-    "word": "tôm biển",
+    "word": "tô pô cảm sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sea crayfish"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-induced topology"
       }
     ]
   },
   {
-    "word": "tông đơ",
+    "word": "tô kinh tế",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dụng cụ gồm hai bàn lưỡi sắc chuyển động qua lại đều đặn, dùng để cắt tóc ngắn sát chân"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-economic rent"
+      }
+    ]
+  },
+  {
+    "word": "tôn ông",
+    "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tông đơ\n- Dụng cụ để cắt tóc thành mặt bằng."
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn ông [tôn ông]\n*đại từ nhân xưng\n-Sir"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "hair clippers"
+        "dict_definition": "Sir"
       }
     ]
   },
   {
-    "word": "tôn bọc cao su",
+    "word": "tôn nữ",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rubber faced steel plate"
-      }
-    ]
-  },
-  {
-    "word": "tô son điểm phấn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô son điểm phấn [tô son điểm phấn]\n*thành ngữ\n-to make up\n-to paint or to rouge (the face)"
-      }
-    ]
-  },
-  {
-    "word": "tô xám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-grayed\n-graying"
-      }
-    ]
-  },
-  {
-    "word": "tông tích",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nguồn gốc, lai lịch của một người\nVí dụ:\n- biết rõ tông tích \n - giấu tông tích"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tông tích\n- d. 1 Nguồn gốc, lai lịch của một người. Hỏi cho rõ tông tích, quê quán. Không ai biết tên tuổi, tông tích của ông ta. 2 (id.). Như tung tích (ng. 1). Bị lộ tông tích."
+        "dict_definition": "@tôn nữ\n- Người con gái thuộc dòng họ nhà vua."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tông tích\n*noun\n-origin"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tông tích\n* noun\n- origin"
+        "dict_definition": "@tôn nữ [tôn nữ]\n*danh từ\n-daughter of a royal family"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "origin"
+        "dict_definition": "daughter of a royal family"
+      }
+    ]
+  },
+  {
+    "word": "tôi rèn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôi rèn [tôi rèn]\n*động từ\n-forge, temper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "forge, temper"
+      }
+    ]
+  },
+  {
+    "word": "tô màu được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-colorable\n-colourable"
+      }
+    ]
+  },
+  {
+    "word": "tô vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-fill"
+      }
+    ]
+  },
+  {
+    "word": "tôpô đại số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-algebraic topology"
+      }
+    ]
+  },
+  {
+    "word": "tôn tộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn tộc\n- Họ hàng: Quan hệ tôn tộc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn tộc [tôn tộc]\n*danh từ\n-member of the same family"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "member of the same family"
+      }
+    ]
+  },
+  {
+    "word": "tôm càng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tôm nước ngọt cỡ vừa, có đôi càng dài"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôm càng\n- Loài tôm to, có càng lớn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôm càng [tôm càng]\n*danh từ\n-variety of shrimp, crayfish"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "variety of shrimp, crayfish"
+      }
+    ]
+  },
+  {
+    "word": "tông tộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập hợp những gia đình có chung một ông tổ về bên nội"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông tộc [tông tộc]\n*danh từ\n-family, genealogy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "family, genealogy"
       }
     ]
   },
@@ -477,742 +749,11 @@
     ]
   },
   {
-    "word": "tôn bị biến màu xanh",
+    "word": "tôpô mạch điện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-blued sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôm hùm na-uy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Scampi"
-      }
-    ]
-  },
-  {
-    "word": "tôn mũi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-corrugated iron"
-      }
-    ]
-  },
-  {
-    "word": "tôpô hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-topologized"
-      }
-    ]
-  },
-  {
-    "word": "tông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cán [của một số dụng cụ]\nVí dụ:\n- tông đục"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mảng màu trong hội hoạ, phân biệt được với nhau nhờ sắc độ chủ đạo đậm nhạt, hay nóng lạnh\nVí dụ:\n- dùng tông màu đen, trắng \n - bức tranh thiên về tông màu lạnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giọng hát, thường gồm nhiều loại: giọng trưởng, giọng thứ, giọng cao, giọng trung và giọng trầm\nVí dụ:\n- hát lạc tông, sai nhịp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đâm mạnh vào\nVí dụ:\n- chiếc xe tải tông vào chân cầu vượt \n - hai xe tông nhau"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tông [tông]\n-xem\n-to crash into ...;  to run into ...;  to collide with ...;  to hit\n-to force open\n-(từ gốc tiếng Pháp là Ton) intonation;  tone\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel plate"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ancestor, family, relation"
-      }
-    ]
-  },
-  {
-    "word": "tôn mui xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-roof panel\n-roof stiffener"
-      }
-    ]
-  },
-  {
-    "word": "tôn trọng một kỳ hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-meet a dead-line\n-meet a deadline (to...)"
-      }
-    ]
-  },
-  {
-    "word": "tô đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ground rent"
-      }
-    ]
-  },
-  {
-    "word": "tôn sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-corrugated sheet iron"
-      }
-    ]
-  },
-  {
-    "word": "tôn bit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bitwise"
-      }
-    ]
-  },
-  {
-    "word": "tôn giáo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình thái ý thức xã hội gồm những quan niệm dựa trên cơ sở tin và sùng bái những lực lượng siêu tự nhiên, cho rằng có những lực lượng siêu tự nhiên quyết định số phận con người, con người phải phục tùng và tôn thờ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hệ thống những quan niệm tín ngưỡng một hay những vị thần linh nào đó và những hình thức lễ nghi thể hiện sự sùng bái ấy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn giáo\n- Sự công nhận một sức mạnh coi là thiêng liêng quyết định một hệ thống ý nghĩ tư tưởng của con người về số phận của mình trong và sau cuộc đời hiện tại, do đó quyết định phần nào hệ thống đạo đức, đồng thời thể hiện bằng những tập quán lễ nghi tỏ thái độ tin tưởng và tôn sùng sức mạnh đó."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn giáo\n*noun\n-Religion\n-Besides the traditional religious practices in Vietnam, there are other major religions such as Buddhism, Catholicism, Protestantism, Islam, the Cao Dai sect and the Hoa Hao sect... At present, over 70 percent of the population of Vietnam are either Buddhist or strongly influenced by Buddhist practices. About 10 percent of the population are considered to be catholic. The number of Protestants is estimated at a mere 400,000 Most of the Islamic followers in Vietnam are those of the Cham ethnic minority group living in the central part of the central coast. The number of Islamic followers in Vietnam totals about 50,000. The Cao Dai Church in Tay Ninh is the central point nearby which are located settlements of Cao Dai followers in South Vietnam. The number of followers of this sect is estimated at 2 million. More than 1 million Vietnamese are followers of the Hoa Hao sect. Most of them live in the western part of South Vietnam"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tôn giáo\n* noun\n- Religion\n-Besides the traditional religious practices in Vietnam, there are other major religions such as Buddhism, Catholicism, Protestantism, Islam, the Cao Dai sect and the Hoa Hao sect... At present, over 70 percent of the population of Vietnam are either Buddhist or strongly influenced by Buddhist practices. About 10 percent of the population are considered to be catholic. The number of Protestants is estimated at a mere 400,000 Most of the Islamic followers in Vietnam are those of the Cham ethnic minority group living in the central part of the central coast. The number of Islamic followers in Vietnam totals about 50,000. The Cao Dai Church in Tay Ninh is the central point nearby which are located settlements of Cao Dai followers in South Vietnam. The number of followers of this sect is estimated at 2 million. More than 1 million Vietnamese are followers of the Hoa Hao sect. Most of them live in the western part of South Vietnam"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "religion; religious"
-      }
-    ]
-  },
-  {
-    "word": "tôn tráng kẽm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gavanized iron (sheet)"
-      }
-    ]
-  },
-  {
-    "word": "tông màu nền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-mass tone"
-      }
-    ]
-  },
-  {
-    "word": "tông-đơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tông-đơ [tông-đơ]\n-(từ gốc tiếng Pháp là Tondeuse) hair clippers"
-      }
-    ]
-  },
-  {
-    "word": "tôn mỏng hợp kim nhôm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aluminium alloy sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôn trọng nhân quyền",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to respect human rights"
-      }
-    ]
-  },
-  {
-    "word": "tôi bị bẹp lốp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I had a flat tire"
-      }
-    ]
-  },
-  {
-    "word": "tôn tốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn tốt [tôn tốt]\n*tính từ\n-rather good"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rather good"
-      }
-    ]
-  },
-  {
-    "word": "tô pô cảm sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-induced topology"
-      }
-    ]
-  },
-  {
-    "word": "tô hồng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tô vẽ hoặc trình bày thêm thắt vào, nhằm làm cho tốt đẹp quá sự thật\nVí dụ:\n- tô hồng cuộc sống \n - không tô hồng kết quả"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tô hồng\n- đg. Nói ngoa cho đẹp thêm, hay hơn: Tô hồng những kết quả khá để mọi người lầm tưởng là xuất sắc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô hồng [tô hồng]\n-to paint in bright colours;  to embellish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to paint in bright colors, embellish"
-      }
-    ]
-  },
-  {
-    "word": "tôn thất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn thất\n- Thuộc dòng họ nhà vua."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn thất [tôn thất]\n*v\n-royal family"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "royal family"
-      }
-    ]
-  },
-  {
-    "word": "tô pô",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "topology"
-      }
-    ]
-  },
-  {
-    "word": "tô phở",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bowl of pho"
-      }
-    ]
-  },
-  {
-    "word": "tô danh nghĩa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-peppercorn rent"
-      }
-    ]
-  },
-  {
-    "word": "tôn lợp mái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofing iron"
-      }
-    ]
-  },
-  {
-    "word": "tôi không phải là",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I am not"
-      }
-    ]
-  },
-  {
-    "word": "tôi lo được",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I can take care of it"
-      }
-    ]
-  },
-  {
-    "word": "tôi trong không khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-air-hardened\n@Lĩnh vực: cơ khí & công trình\n-self-hardening"
-      }
-    ]
-  },
-  {
-    "word": "tôm rồng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tôm hùm [ng2]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôm rồng\n- Nh. Tôm hùm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôm rồng [tôm rồng]\n-như"
-      }
-    ]
-  },
-  {
-    "word": "tôi rèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôi rèn [tôi rèn]\n*động từ\n-forge, temper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "forge, temper"
-      }
-    ]
-  },
-  {
-    "word": "tôi mất cuốn sách của tôi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I’ve lost my book"
-      }
-    ]
-  },
-  {
-    "word": "tô giới",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần đất [thường là trong một thành phố] của một nước nửa thuộc địa buộc phải cắt nhường cho một nước đế quốc\nVí dụ:\n- tô giới Pháp \n - tô giới Anh ở Thượng Hải"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tô giới\n- Khu đất mà các đế quốc xưa chiếm của Trung Quốc để cho bọn tư bản của họ đến buôn bán."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô giới [tô giới]\n-như\n@Chuyên ngành kinh tế\n-concession"
-      }
-    ]
-  },
-  {
-    "word": "tôpô đại số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-algebraic topology"
-      }
-    ]
-  },
-  {
-    "word": "tôi tối",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hơi tối, không được sáng sủa\nVí dụ:\n- màu áo hơi tôi tối"
-      }
-    ]
-  },
-  {
-    "word": "tô điểm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho có thêm màu sắc, cho đẹp hơn\nVí dụ:\n- tô điểm mặt mày \n - tiếng hát tô điểm cuộc đời"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tô điểm\n- đgt. Điểm thêm màu sắc, làm cho đẹp hơn: Mùa xuân về, hoa đào, hoa mai tô điểm cho cảnh sắc của đất nước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô điểm\n*verb\n-to embellish, to adorn, to make up"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tô điểm\n* verb\n- to embellish, to adorn, to make up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to embellish, adorn, make up"
-      }
-    ]
-  },
-  {
-    "word": "tôn sư",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn sư\n- Từ để tôn gọi thầy dạy học mình (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn sư [tôn sư]\n*danh từ\n-venerated teacher"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "master, venerated teacher"
-      }
-    ]
-  },
-  {
-    "word": "tôn trọng một điều khoản trong hợp đồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-respect a clause in a contract\n-respect a clause in a contract (to...)"
-      }
-    ]
-  },
-  {
-    "word": "tôn phái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn phái\n- Các phái trong tôn giáo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn phái [tôn phái]\n*danh từ\n-sect"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "branch, sect"
-      }
-    ]
-  },
-  {
-    "word": "tôn bọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cover sheet\n-sheeting"
-      }
-    ]
-  },
-  {
-    "word": "tôn silic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-dynamo sheet\n@Lĩnh vực: điện lạnh\n-magnetic sheet steel"
-      }
-    ]
-  },
-  {
-    "word": "tôpa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-contractor"
-      }
-    ]
-  },
-  {
-    "word": "tôi kí dưới đây, khai rằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-undersigned declare that..."
-      }
-    ]
-  },
-  {
-    "word": "tôi sẽ nói sau",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I'll tell you later"
-      }
-    ]
-  },
-  {
-    "word": "tôi tớ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôi tớ\n- Người ở dưới quyền sai bảo của người khác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôi tớ\n*noun\n-subordinate, subject"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tôi tớ\n* noun\n- subordinate, subject"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "subordinate, subject"
-      }
-    ]
-  },
-  {
-    "word": "tông tổ hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-combination tone"
-      }
-    ]
-  },
-  {
-    "word": "tôn lá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sheet iron\n@Lĩnh vực: điện lạnh\n-sheet steel"
-      }
-    ]
-  },
-  {
-    "word": "tôn nhật (có sơn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-japanned sheet metal"
-      }
-    ]
-  },
-  {
-    "word": "tôn mái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofing iron"
-      }
-    ]
-  },
-  {
-    "word": "tôi cứng kem trong hầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tunnel ice-cream hardening"
-      }
-    ]
-  },
-  {
-    "word": "tôn thất thuyết",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tôn Thất Thuyết\n- (1835 - Xuân Long, Huế, Thừa Thiên - 1913) Đại thần triều Nguyễn, người đứng đầu phe chủ chiến chống Pháp. 1881, làm Thượng thư bộ Binh, 1883 làm Phụ chính đại thần. Khi vua Kiến Phúc mất, Tôn Thất Thuyết đưa vua Hàm Nghi lên thay. 7-1885 Tôn Thất Thuyết đưa vua Hàm Nghi ra Tân Sở và phát động phong trào Cần Vương kháng Pháp cứu nước. Sau đó lại đưa Hàm Nghi ra miền Hương Khê (Hà Tĩnh). 12-1885 Tôn Thất Thuyết sang Trung Quốc cầu viện nhưng việc không thành, chết tại đó"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Tôn Thất Thuyết\n-Tôn Thất Thuyết (1835-1913) - patriotic general of Nhà Nguyễn (Nguyễn Dynasty) and deputy minister of national defence - was at the head of the pro-war camp. After the unsuccessful attack on the French barracks in the night of July 4th 1885, Tôn Thất Thuyết escorted King Hàm Nghi to Hà Tĩnh where the latter would promulgate Cần Vương+Decree. After having come to China and tried in vain to seek reinforcements, Tôn Thất Thuyết lived in exile there until his death"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@Tôn Thất Thuyết\n- Tôn Thất Thuyết (1835-1913) - patriotic general of Nhà Nguyễn (Nguyễn Dynasty) and deputy minister of national defence - was at the head of the pro-war camp. After the unsuccessful attack on the French barracks in the night of July 4th 1885, Tôn Thất Thuyết escorted King Hàm Nghi to Hà Tĩnh where the latter would promulgate Cần Vương+Decree. After having come to China and tried in vain to seek reinforcements, Tôn Thất Thuyết lived in exile there until his death"
-      }
-    ]
-  },
-  {
-    "word": "tông đường",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhà thờ họ; thường dùng để chỉ dòng họ\nVí dụ:\n- nối dõi tông đường"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tông đường\n- Nhà thờ tổ tông. ở đây dùng với nghĩa: \"nối dõi tông đường"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tông đường [tông đường]\n*danh từ\n-family temple"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "family temple"
-      }
-    ]
-  },
-  {
-    "word": "tôn nhiệt ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wet tons"
-      }
-    ]
-  },
-  {
-    "word": "tôi bằng dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-oil-quench"
-      }
-    ]
-  },
-  {
-    "word": "tôn cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigid sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôn cực",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very high"
-      }
-    ]
-  },
-  {
-    "word": "tông miếu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tôn miếu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tông miếu - như"
-      }
-    ]
-  },
-  {
-    "word": "tôi cứng cryo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cryoquenching"
-      }
-    ]
-  },
-  {
-    "word": "tôpô tổ hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-combinatorial topology"
-      }
-    ]
-  },
-  {
-    "word": "tôpô liên kết mạng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interconnection topology"
-      }
-    ]
-  },
-  {
-    "word": "tôn múi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrugated iron\n-corrugated sheet iron\n-corrugated web beam\n-pressed sheet steel\n-undulated sheet iron"
-      }
-    ]
-  },
-  {
-    "word": "tôn vinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tôn lên vị trí, danh hiệu cao quý vì được ngưỡng mộ hoặc vì có năng lực, phẩm chất đặc biệt\nVí dụ:\n- tôn vinh cái đẹp \n - mọi người tôn vinh anh làm chỉ huy"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn vinh [tôn vinh]\n-to respect;  to honour"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to respect, honor"
-      }
-    ]
-  },
-  {
-    "word": "tôn mỏng được tăng cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigid sheets"
-      }
-    ]
-  },
-  {
-    "word": "tôn giáo độc thần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "monotheistic religion"
-      }
-    ]
-  },
-  {
-    "word": "tô màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô màu [tô màu]\n-to colour\n@Chuyên ngành kỹ thuật\n-colour\n-paint\n-tint"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to color"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-topology of circuits"
       }
     ]
   },
@@ -1226,126 +767,138 @@
     ]
   },
   {
-    "word": "tô kim tiềm tàng",
+    "word": "tông màu nền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-implicit rent"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-mass tone"
       }
     ]
   },
   {
-    "word": "tôi tự hỏi",
+    "word": "tôm bạc",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôm bạc [tôm bạc]\n*danh từ\n-white shrimp"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "I wonder"
+        "dict_definition": "white shrimp"
       }
     ]
   },
   {
-    "word": "tôi được",
+    "word": "tôn từ tính mềm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hardenable"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-magnetic (steel) sheet"
       }
     ]
   },
   {
-    "word": "tôpô yếu",
+    "word": "tôn thép mỏng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-weak topology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-light gauge steel\n-sheet steel"
       }
     ]
   },
   {
-    "word": "tôpô mạng",
+    "word": "tông hài",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-network topology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-harmonic tone"
       }
     ]
   },
   {
-    "word": "tôpô mạng điện",
+    "word": "tôpô cảm sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-topology of circuits"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relative topology"
       }
     ]
   },
   {
-    "word": "tô hạp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Hạp\n- (thị trấn) h. Khánh Sơn, t. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "tôn phục",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to honor and respect"
-      }
-    ]
-  },
-  {
-    "word": "tô màu được",
+    "word": "tôi (thép)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-colorable\n-colourable"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-anneal\n-harden\n-temper"
       }
     ]
   },
   {
-    "word": "tôm he",
+    "word": "tông đơ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tôm cỡ lớn, sống thành đàn ở ven biển và vùng nước lợ, thân rộng bản và dẹt, râu ngắn"
+        "dict_definition": "dụng cụ gồm hai bàn lưỡi sắc chuyển động qua lại đều đặn, dùng để cắt tóc ngắn sát chân"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôm he\n- dt. Tôm cỡ trung bình, sống ở nước ven biển và vùng nước lợ, thân rộng bản và dẹp, râu ngắn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôm he\n*noun\n-prawn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tôm he\n* noun\n- prawn"
+        "dict_definition": "@tông đơ\n- Dụng cụ để cắt tóc thành mặt bằng."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "prawn"
+        "dict_definition": "hair clippers"
       }
     ]
   },
   {
-    "word": "tôn lạnh khô",
+    "word": "tôm thẻ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry tons"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tôm biển thuộc họ tôm he, mình hơi dẹp, vỏ hơi vàng"
       }
     ]
   },
   {
-    "word": "tô bóng đen",
+    "word": "tô danh nghĩa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dark shading"
+        "dict_definition": "@Chuyên ngành kinh tế\n-peppercorn rent"
+      }
+    ]
+  },
+  {
+    "word": "tôn ti",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trật tự có trên có dưới [nói về thứ bậc, trật tự trong xã hội]\nVí dụ:\n- giữ gìn tôn ti trật tự"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn ti\n- d. (kết hợp hạn chế, không dùng làm chủ ngữ). Trật tự có trên có dưới (nói về thứ bậc, trật tự, trong xã hội). Xoá bỏ mọi tôn ti đẳng cấp phong kiến. Một xã hội có tôn ti trật tự."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn ti\n*noun\n-hierarchy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hierarchy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tôn ti\n* noun\n- hierarchy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hierarchy"
+      }
+    ]
+  },
+  {
+    "word": "tôpô bông tuyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-token"
       }
     ]
   },
@@ -1383,11 +936,210 @@
     ]
   },
   {
-    "word": "tôpô nón lớp n",
+    "word": "tôpô học sơ đồ mạng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cone of class n"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-network topology"
+      }
+    ]
+  },
+  {
+    "word": "tô mậu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tô Mậu\n- (xã) h. Lục Yên, t. Yên Bái"
+      }
+    ]
+  },
+  {
+    "word": "tông kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tonometer"
+      }
+    ]
+  },
+  {
+    "word": "tôn silic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-dynamo sheet\n@Lĩnh vực: điện lạnh\n-magnetic sheet steel"
+      }
+    ]
+  },
+  {
+    "word": "tôn dợn sóng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "corrugated steel"
+      }
+    ]
+  },
+  {
+    "word": "tôn lợp mái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofing iron"
+      }
+    ]
+  },
+  {
+    "word": "tông chi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tông chi\n- Ngành trong họ: Tông chi họ hàng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông chi [tông chi]\n*danh từ\n-family tree, descent"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "family tree, descent"
+      }
+    ]
+  },
+  {
+    "word": "tôn vinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tôn lên vị trí, danh hiệu cao quý vì được ngưỡng mộ hoặc vì có năng lực, phẩm chất đặc biệt\nVí dụ:\n- tôn vinh cái đẹp \n - mọi người tôn vinh anh làm chỉ huy"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn vinh [tôn vinh]\n-to respect;  to honour"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to respect, honor"
+      }
+    ]
+  },
+  {
+    "word": "tôn lạnh khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dry tons"
+      }
+    ]
+  },
+  {
+    "word": "tôn biến áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-core plate"
+      }
+    ]
+  },
+  {
+    "word": "tôn dày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-heavy plates"
+      }
+    ]
+  },
+  {
+    "word": "tô màu biên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-boundary fill"
+      }
+    ]
+  },
+  {
+    "word": "tôn giáo độc thần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "monotheistic religion"
+      }
+    ]
+  },
+  {
+    "word": "tôpô học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-analysis situs"
+      }
+    ]
+  },
+  {
+    "word": "tôi (bằng) cảm ứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-induction hardening"
+      }
+    ]
+  },
+  {
+    "word": "tôn cực",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very high"
+      }
+    ]
+  },
+  {
+    "word": "tôi bằng dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-oil-quench"
+      }
+    ]
+  },
+  {
+    "word": "tôi e cô ta không đến",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I am afraid she will not come"
+      }
+    ]
+  },
+  {
+    "word": "tôn huynh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn huynh [tôn huynh]\n*danh từ\n-your elder brother"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "your elder brother"
+      }
+    ]
+  },
+  {
+    "word": "tôn tạo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sửa chữa, làm lại những chỗ hư hỏng để bảo tồn một di tích lịch sử\nVí dụ:\n- Chính quyền địa phương đã tôn tạo lại ngôi chùa cổ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn tạo [tôn tạo]\n*danh từ\n-embellish, embellishment"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "embellish, embellishment"
       }
     ]
   },
@@ -1425,189 +1177,78 @@
     ]
   },
   {
-    "word": "tô đất, địa tô (tính theo mẫu anh)",
+    "word": "tôn mỏng hợp kim nhôm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-acreage rent"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aluminium alloy sheet"
       }
     ]
   },
   {
-    "word": "tôn tráng thiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-terne-plate\n-tin plate\n-tinned sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôpô rời rạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-discrete topology"
-      }
-    ]
-  },
-  {
-    "word": "tông tòa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "diocese"
-      }
-    ]
-  },
-  {
-    "word": "tông nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-whole tone"
-      }
-    ]
-  },
-  {
-    "word": "tôn vũ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tôn Vũ\n- Đông Chu liệt quốc: Tôn Vũ, còn gọi là Tôn Tử, là một nhà binh pháp nổi tiếng của Trung Quốc cổ đại, người nươ`c Tề, sống vào cuối thời Xuân Thu (Khoảng thế kỷ thứ 5 trước công nguyên)\n- Tôn Vũ đem sách binh pháp yết kiến vua Ngô là Hạp Lư. Hạp Lư nói: \"Ta đã đọc 13 thiên của ông rồi, nay ông thử áp dụng binh pháp điều khiển quân đội một cách tiểu quy mô có được không ?\" Tôn Vũ đáp: \"Được\". Hạp Lư nói: \"Đem đàn bà ra thí nghiệm có được không ?\" Tôn Vũ đáp: \"Được\". Vua bèn bằng lòng cho gái đẹp trong cung ra, tất cả 180 người, Tôn Vũ chia ra làm 2 đội, lấy hai người phi vua nuông chiều làm đội trưởng, sai tất cả đều cầm giáo. Tôn Vũ ra lệnh nói: Khi ta nói đàng trước thì các người nhìn vào quả tim, nói bên trái thì nhìn tay trái, nói bên phải thì nhìn tay phải, đàng sau thì nhìn đàng sau lưng.\" Sau khi đã đưa ra kỷ luật, Tôn Vũ bèn đặt Phủ Việt, ban lệnh 3 lần, nhắc nhở 5 lượt. Sau đó đánh trống ra lệnh nhìn về bên phải, bọn con gái cười rộ. Tôn Vũ nói: \"Kỷ luật không rõ ràng, nhắc nhở hiệu lệnh không kỹ càng đó là tội của tướng.\" Lại ra lệnh và nhắc nhở 3 lần, 5 lượt rồi đánh trống ra lệnh nhìn về bên trái. Bọn con gái lại cười rộ, Vũ nói: \" Kỷ luật không rõ ràng, nhắc nhở hiệu lệnh không kỹ càng đó là tội của tướng. Nay đã hiểu rõ kỷ luật rồi mà không theo luật là tội của đội trưởng.\" Tôn Vũ muốn chém đầu 2 người đội trưởng. Vua ngô ngồi trên đài xem thấy sắp chém 2 người ái cơ, hoảng hốt vội sai sứ truyền lệnh, nói: \"Quả nhân đã biết cách dùng binh của tướng quân rồi, không có 2 ái cơ ấy thì quả nhân ăn không ngon, xin đừng chém.\" Tôn Vũ nói: Thần đã vâng mệnh lệnh bệ hạ làm tướng, tướng đã ở trong quân thì có khi không theo lệnh vua.\" Bèn sai chém 2 người đội trưởng để thị uy, đem người kế tiếp làm đội trưởng, lại đánh trống chỉ huy. Bọn con gái nhìn bên phải, bên trái, trước sau, quỳ đứng đều nghiêm chỉnh, đúng đắn, không ai dám ho he. Tôn Vũ sai sứ giả báo với vua: \"Binh đã chỉnh tề, bệ hạ có thể dùng nó thế nào cũng được, có thể sai nó dù nhảy vào lửa, vào nước.\" Hạp Lư cho Tôn Vũ làm tướng. Phía Tây quân Ngô phá Sở, đi vào đất Sính, phía Bắc uy hiếp nước Tề, nước Tấn, nổi tiếng chư hầu\n- Bộ Tôn Tử Binh pháp gồm 13 thiên: 1. thủy kế, 2. Tác chiến, 3. Mưu công, 4. Quân hình, 5. Binh thế, 6. Hư thực, 7. Quân tranh, 8. Cửu biến, 9. Hành quân, 10. Địa hình, 11. Tựu địa, . Hỏa công, 13. Dụng gián\n- Tôn Tử Binh pháp là quyển sách gối đầu giường của các nhà quân sự á đông ngày xưa và hiện vẫn còn được nghiên cứu tại các học viện quân sự và còn được ứng dụng trong nhiều lãnh vực khác\n- Thiên Nam Ngữ lục:\n- Kiêm hay thao lược cơ quyền\n- Bội trăm Bạch Khởi, chấp ngàn Tôn Ngô"
-      }
-    ]
-  },
-  {
-    "word": "tôpô đại cương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-general topology"
-      }
-    ]
-  },
-  {
-    "word": "tôm sú",
+    "word": "tôm bông",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tôm biển cỡ lớn, thuộc họ tôm he, vỏ dày màu xám nhạt, phần bụng màu sẫm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôm sú [tôm sú]\n*danh từ\n-sugpo prawn, common tiger prawn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "common tiger prawn"
+        "dict_definition": "ruốc làm bằng tôm, tơi như bông"
       }
     ]
   },
   {
-    "word": "tôpô tập điểm",
+    "word": "tôi cứng tiếp xúc kem",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-point-set topology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-contact ice-cream"
       }
     ]
   },
   {
-    "word": "tô, tiền thuế kinh tế thuần túy",
+    "word": "tôpô mạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pure economic rent"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-strong topology"
       }
     ]
   },
   {
-    "word": "tôi gờ bánh xe",
+    "word": "tôn mũi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-wheel flange hardening"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-corrugated iron"
       }
     ]
   },
   {
-    "word": "tô vũ",
+    "word": "tôn trọng luật pháp",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Vũ\n- Người đời Hán, tự Tử Khanh\n- Hán Thư: Thời Hán Vũ đế, Tô Vũ làm Trung Lang Tướng, Đi sứ Hung Nô, chúa Hung nô là Thiềm Vu bắt Tô Vũ phải hàng phục nhưng Tô Vũ không chịu khuất phục nên bị tống giam vào một cái hang lớn không cho ăn uống gì cả. Tuyết xuống, Tô Vũ lấy tuyết và lông chim mà ăn, sau ông bị bắt đày đi chăn dê ở Bắc hải, nơi không có quan một bóng người, không có lấy một thứ để ăn, Tô Vũ phải đào hang bắt chuột mà ăn. Suốt 19 năm bị đày ở Hung Nô cực khổ như vậy nhưng Tô Vũ vẫn giữ tấmlòng trung với nước, vẫn chống cờ tiết nhà Hán khi đi chăn dê. Đến đời Hán Chiêu Đế, Hung Hán hòa thuận nhau, Thiềm Vu cho Tô Vũ về nước. Thời Hán Nghi Đế, Vũ được phong tước quan Nội Hầu, khi chết được vẽ hình thờ ở Kỳ Lân Các\n- Quốc âm thi tập:\n- Đời Thương khách biết cầu Xem Y Doãn\n- Nhà Hán ai ngờ được Tử Khanh"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-law-abiding"
       }
     ]
   },
   {
-    "word": "tô vào",
+    "word": "tôm sông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-fill"
-      }
-    ]
-  },
-  {
-    "word": "tôi con",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôi con\n- Từ chỉ địa vị của người dưới đối với người trên (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôi con [tôi con]\n-servant, subject"
+        "dict_definition": "@tôm sông [tôm sông]\n*danh từ\n-cray fish, fresh water crayfish\n@Chuyên ngành kinh tế\n-crawfish\n-crayfish\n-crayfish tail"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "servant, subject"
+        "dict_definition": "crayfish, fresh water crayfish"
       }
     ]
   },
   {
-    "word": "tôpô",
+    "word": "tôn nối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-topological"
-      }
-    ]
-  },
-  {
-    "word": "tôi ngay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôi ngay\n- bề tôi trung thành của vua"
-      }
-    ]
-  },
-  {
-    "word": "tôi cao tần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-high-frequency hardening"
-      }
-    ]
-  },
-  {
-    "word": "tôn bị oxi hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-blued sheet"
-      }
-    ]
-  },
-  {
-    "word": "tô khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stencil"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-connection plate"
       }
     ]
   },
@@ -1633,133 +1274,421 @@
     ]
   },
   {
-    "word": "tôn nối",
+    "word": "tô xe",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-connection plate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-shaving (the body)"
       }
     ]
   },
   {
-    "word": "tông nói",
+    "word": "tôn hàn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-speech tone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-welded steel plate"
       }
     ]
   },
   {
-    "word": "tôi cứng ở nhiệt độ dưới 00f (-17, 8oc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sub-zero quenching"
-      }
-    ]
-  },
-  {
-    "word": "tô nhượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô nhượng [tô nhượng]\n*danh từ\n-concession\n@Chuyên ngành kinh tế\n-concession"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "concession"
-      }
-    ]
-  },
-  {
-    "word": "tông tốc",
+    "word": "tô hồng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[nói] liền một mạch hết mọi điều, không suy tính, cân nhắc gì cả\nVí dụ:\n- có gì cũng tông tốc nói ra"
-      }
-    ]
-  },
-  {
-    "word": "tôm càng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tôm nước ngọt cỡ vừa, có đôi càng dài"
+        "dict_definition": "tô vẽ hoặc trình bày thêm thắt vào, nhằm làm cho tốt đẹp quá sự thật\nVí dụ:\n- tô hồng cuộc sống \n - không tô hồng kết quả"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôm càng\n- Loài tôm to, có càng lớn."
+        "dict_definition": "@tô hồng\n- đg. Nói ngoa cho đẹp thêm, hay hơn: Tô hồng những kết quả khá để mọi người lầm tưởng là xuất sắc."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôm càng [tôm càng]\n*danh từ\n-variety of shrimp, crayfish"
+        "dict_definition": "@tô hồng [tô hồng]\n-to paint in bright colours;  to embellish"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "variety of shrimp, crayfish"
+        "dict_definition": "to paint in bright colors, embellish"
       }
     ]
   },
   {
-    "word": "tôi cải tiến",
+    "word": "tôn nồi hơi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-temper"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-boiler plate"
       }
     ]
   },
   {
-    "word": "tôn sùng",
+    "word": "tôpô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-topological"
+      }
+    ]
+  },
+  {
+    "word": "tôpô của một không gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-topology of a space"
+      }
+    ]
+  },
+  {
+    "word": "tôn trưởng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn trưởng\n- Người già cả đáng kính trọng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn trưởng [tôn trưởng]\n*danh từ\n-respect the superiors\n-respected personage\n-head of the family"
+      }
+    ]
+  },
+  {
+    "word": "tôn nhiệt ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-wet tons"
+      }
+    ]
+  },
+  {
+    "word": "tôi con",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôi con\n- Từ chỉ địa vị của người dưới đối với người trên (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôi con [tôi con]\n-servant, subject"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "servant, subject"
+      }
+    ]
+  },
+  {
+    "word": "tôn làm ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tube plate"
+      }
+    ]
+  },
+  {
+    "word": "tôi mất cuốn sách của tôi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I’ve lost my book"
+      }
+    ]
+  },
+  {
+    "word": "tô điểm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kính trọng đến mức gần như sùng bái\nVí dụ:\n- mọi người tôn sùng anh"
+        "dict_definition": "làm cho có thêm màu sắc, cho đẹp hơn\nVí dụ:\n- tô điểm mặt mày \n - tiếng hát tô điểm cuộc đời"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn sùng\n- đgt. Tôn kính và đề cao hết mức: tôn sùng đạo Phật  tôn sùng cá nhân  tôn sùng lãnh tụ."
+        "dict_definition": "@tô điểm\n- đgt. Điểm thêm màu sắc, làm cho đẹp hơn: Mùa xuân về, hoa đào, hoa mai tô điểm cho cảnh sắc của đất nước."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôn sùng\n*verb\n-to venerate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-deify"
+        "dict_definition": "@tô điểm\n*verb\n-to embellish, to adorn, to make up"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tôn sùng\n* verb\n- to venerate"
+        "dict_definition": "@tô điểm\n* verb\n- to embellish, to adorn, to make up"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to honor, venerate"
+        "dict_definition": "to embellish, adorn, make up"
       }
     ]
   },
   {
-    "word": "tôn tẫn",
+    "word": "tôn mạ niken",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nickel plated sheet iron"
+      }
+    ]
+  },
+  {
+    "word": "tôi lo được",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I can take care of it"
+      }
+    ]
+  },
+  {
+    "word": "tôn vừa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-medium plate"
+      }
+    ]
+  },
+  {
+    "word": "tô hô",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cơ thể] ở trạng thái để phơi bày ra một cách lộ liễu những chỗ cần được che kín\nVí dụ:\n- cởi truồng tô hô"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tô hô\n- Trần truồng và để lộ bộ phận sinh dục."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tô hô [tô hô]\n-naked, nude, unclothed, stark naked"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "naked, nude, unclothed"
+      }
+    ]
+  },
+  {
+    "word": "tông bạt",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tôn Tẫn\n- Đông Chu liệt quốc: Tôn Tẫn người nước Tề thời Chiến Quốc, con cháu Tôn Vũ. Trước kia, Tôn Tẫn cùng Bàng Quyên học binh pháp với thầy Quỷ Cốc Tử. Về sau, Bàng Quyên làm tướng nước Ngụy, nhưng vẫn tự cho mình không tài giỏi bằng Tôn Tẫn nên ngầm sai người mời Tôn Tẫn đến rồi mượn pháp thuật mà trị tội: Chặt 2 chân và chạm vào mặt để Tôn Tẫn phải giấu mình không xuất đầu lộ diện được. Sứ giả nước Tề đến đất Lương, Tôn Tẫn mang thân đã bị hình phạt lén gặp thuyết phục sứ giả. Sứ giả nước Tề cho là kỳ lạ bèn mang trộm lên xe đưa về Tề. Tướng Tề là Điền Kỵ phục tài bèn tâu với Uy Vương phong Tôn Tẫn làm thầy, Điền Kỵ làm tướng cùng cầm quân đi đánh Ngụy. Tôn Tẫn làm quân sư ngồi trong xe kín bàn mưu kế. Điền Kỵ theo kế Tôn Tẫn đánh cho Ngụy phải kiệt quệ. 13 năm sau, Ngụy và Triệu đánh Hàn. Hàn cáo cấp với Tề, Tề lại sai Điền Kỵ làm tướng, Tôn Tẫn làm quân sư đi cứu Hàn, tướng Ngụy là Bàng Quyên nghe vậy liền rời bỏ Hàn quay về. Tôn Tẫn nói với Điền Kỵ: \"Quân Ngụy vốn hung tợn và khinh quân Tề, quân Tề mang tiếng khiếp nhược. Người thiện chiến thì nhân cái thế của mình mà lợi dụng. Ngài hãy sai quân Tề vào đất Ngụy làm 10 vạn cái bếp, hôm sau làm 5 vạn cái, lại ngày hôm sau nữa làm 3 vạn cái.\" Bàng Quyên đi được 3 ngày cả mừng nói: Ta vốn biết quân Tề nhát gan, mới vào đất ta 3 ngày mà quân sĩ bỏ trốn đã quá nữa.\", bèn bỏ bộ binh mang Khinh binh, cùng lính tinh nhuệ một ngày đi gấp đôi đường đuổi theo. Tôn Tẫn trù tính họ đi đến đêm thì đến Mã Lăng. Đường Mã Lăng hẹp, hai bên hiểm trở, có thể phục binh, bèn sai người chặt cây to, bôi trắng và viết: \"Bàng Quyên tử vu thử thụ chi hạ\" (Bàng Quyên chết ở dưới gốc cây này)., lại sai một vạn quân Tề giỏi bắn tên nấp ở bên đường, hẹn ban đêm thấy lửa đốt lên thì đều bắn ra. Bàng Quyên quả nhiên đêm ấy đến dưới gốc cây bị đẽo, thấy có chữ viết trên gỗ bôi trắng bèn cho đốt đuốc xem. Đọc hàng chữ chưa xong thì 1 vạn nỏ của quân Tề đền bắn ra. Quân Ngụy trốn chạy tán loạn, Bàng Quyên tự biết mình trí cùng binh bại bèn tự đâm cổ chết. Quan Tề thừa thắng phá ta tất cả quân Ngụy. Từ đó Tôn Tẫn nổi danh trong thiên hạ, đời truyền binh pháp của ông ta"
+        "dict_definition": "@Tông Bạt\n- (xã) h. Ba Vì, h. Hà Tây"
       }
     ]
   },
   {
-    "word": "tông trưởng",
+    "word": "tôi nhức đầu",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-major tone"
+        "dict_name": "VNEDICT",
+        "dict_definition": "my head aches"
       }
     ]
   },
   {
-    "word": "tôn lợp",
+    "word": "tôpô mạng dạng bông tuyết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-light sheet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-snowflake topology"
+      }
+    ]
+  },
+  {
+    "word": "tô bóng đen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dark shading"
+      }
+    ]
+  },
+  {
+    "word": "tôn trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium steel"
+      }
+    ]
+  },
+  {
+    "word": "tôi cứng cryo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cryoquenching"
+      }
+    ]
+  },
+  {
+    "word": "tôm rồng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tôm hùm [ng2]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôm rồng\n- Nh. Tôm hùm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôm rồng [tôm rồng]\n-như"
+      }
+    ]
+  },
+  {
+    "word": "tôpô rời rạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-discrete topology"
+      }
+    ]
+  },
+  {
+    "word": "tôn mỏng được tăng cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigid sheets"
+      }
+    ]
+  },
+  {
+    "word": "tôn bị biến màu xanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-blued sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôi đây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "it’s me, I’m here"
+      }
+    ]
+  },
+  {
+    "word": "tô kim tiềm tàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-implicit rent"
+      }
+    ]
+  },
+  {
+    "word": "tôi mọi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôi mọi\n- Người thấp hèn suốt đời phụng sự người khác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôi mọi [tôi mọi]\n*danh từ\n-servant, slave, bondman, thrall"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "servant, slave, bondman, thrall"
+      }
+    ]
+  },
+  {
+    "word": "tôi cứng được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hardenable"
+      }
+    ]
+  },
+  {
+    "word": "tôn giáo cổ truyền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "traditional religion"
+      }
+    ]
+  },
+  {
+    "word": "tôn múi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrugated iron\n-corrugated sheet iron\n-corrugated web beam\n-pressed sheet steel\n-undulated sheet iron"
+      }
+    ]
+  },
+  {
+    "word": "tôpô nón lớp n",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cone of class n"
+      }
+    ]
+  },
+  {
+    "word": "tô vũ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tô Vũ\n- Người đời Hán, tự Tử Khanh\n- Hán Thư: Thời Hán Vũ đế, Tô Vũ làm Trung Lang Tướng, Đi sứ Hung Nô, chúa Hung nô là Thiềm Vu bắt Tô Vũ phải hàng phục nhưng Tô Vũ không chịu khuất phục nên bị tống giam vào một cái hang lớn không cho ăn uống gì cả. Tuyết xuống, Tô Vũ lấy tuyết và lông chim mà ăn, sau ông bị bắt đày đi chăn dê ở Bắc hải, nơi không có quan một bóng người, không có lấy một thứ để ăn, Tô Vũ phải đào hang bắt chuột mà ăn. Suốt 19 năm bị đày ở Hung Nô cực khổ như vậy nhưng Tô Vũ vẫn giữ tấmlòng trung với nước, vẫn chống cờ tiết nhà Hán khi đi chăn dê. Đến đời Hán Chiêu Đế, Hung Hán hòa thuận nhau, Thiềm Vu cho Tô Vũ về nước. Thời Hán Nghi Đế, Vũ được phong tước quan Nội Hầu, khi chết được vẽ hình thờ ở Kỳ Lân Các\n- Quốc âm thi tập:\n- Đời Thương khách biết cầu Xem Y Doãn\n- Nhà Hán ai ngờ được Tử Khanh"
+      }
+    ]
+  },
+  {
+    "word": "tôn không gỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stainless steel plate\n-stainless steel sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôn nhật (có sơn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-japanned sheet metal"
+      }
+    ]
+  },
+  {
+    "word": "tôpô mạng vòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ring topology"
+      }
+    ]
+  },
+  {
+    "word": "tôi không khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-air-hardened"
+      }
+    ]
+  },
+  {
+    "word": "tôi trong dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-oil hardening\n-oil tempered"
       }
     ]
   },
@@ -1769,15 +1698,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel plate bent in the shape of a torus"
-      }
-    ]
-  },
-  {
-    "word": "tô mày vẽ mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô mày vẽ mặt [tô mày vẽ mặt]\n*thành ngữ\n-to make up one\"s face"
       }
     ]
   },
@@ -1799,29 +1719,29 @@
     ]
   },
   {
-    "word": "tô vẽ băng tin điện",
+    "word": "tôm cua",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-painting the tape"
+        "dict_definition": "@Chuyên ngành kinh tế\n-shellfishes"
       }
     ]
   },
   {
-    "word": "tôn mờ",
+    "word": "tông qua lìn",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-terne-plate"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tông Qua Lìn\n- (xã) h. Phong Thổ, t. Lai Châu"
       }
     ]
   },
   {
-    "word": "tôi (thép)",
+    "word": "tô hiến thành",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-anneal\n-harden\n-temper"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tô Hiến Thành\n- (? - ô Diên, nay là Hạ Mỗ, Đan Phượng, Hà Tây - 1179) Hiệu Phi Diên, làm quan triều nhà Lý các đời vua Lý Anh Tông, Lý Cao Tông. ông tài kiêm văn võ, đã cầm quân đánh Thân Lợi, Ngưu Hồng được phong Thái uý, sau đó Thái sư phụ chính. ông điều hành việc nước, khuyến khích sự học, chăm sóc nông trang khiến cho nước được thịnh trị"
       }
     ]
   },
@@ -1835,58 +1755,29 @@
     ]
   },
   {
-    "word": "tôn xưng",
+    "word": "tôn in hình nổi",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gọi tôn lên một cách kính trọng\nVí dụ:\n- được tôn xưng là bà lớn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn xưng\n- Gọi bằng một danh hiệu tôn kính."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-relief patterned sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôpô liên kết mạng",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôn xưng [tôn xưng]\n*động từ\n-call by a respected name"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interconnection topology"
+      }
+    ]
+  },
+  {
+    "word": "tôn thượng",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "call by a respected name"
-      }
-    ]
-  },
-  {
-    "word": "tông kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tonometer"
-      }
-    ]
-  },
-  {
-    "word": "tô nô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thùng gỗ lớn, hình trụ, bụng phình, hai mặt đáy được đóng kín, dùng để đựng một số mặt hàng khi chuyên chở\nVí dụ:\n- một tô nô rượu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô nô [tô nô]\n-(từ gốc tiếng Pháp là Tonneau) xem"
-      }
-    ]
-  },
-  {
-    "word": "tông môn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tông môn [tông môn]\n*danh từ\n-ancestry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ancestry"
+        "dict_definition": "to respect one’s superiors"
       }
     ]
   },
@@ -1916,127 +1807,24 @@
     ]
   },
   {
-    "word": "tôpô mạng dạng bông tuyết",
+    "word": "tôn tốt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-snowflake topology"
-      }
-    ]
-  },
-  {
-    "word": "tôm cua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shellfishes"
-      }
-    ]
-  },
-  {
-    "word": "tôn định hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôn trọng quyền tiêng tư",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to respect someone’s right to privacy"
-      }
-    ]
-  },
-  {
-    "word": "tôn chi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "branch of a family"
-      }
-    ]
-  },
-  {
-    "word": "tôn trắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tin-plate"
-      }
-    ]
-  },
-  {
-    "word": "tôi đòi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôi đòi\n- Đầy tớ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôi đòi [tôi đòi]\n-servant (s)"
+        "dict_definition": "@tôn tốt [tôn tốt]\n*tính từ\n-rather good"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "servant (s)"
+        "dict_definition": "rather good"
       }
     ]
   },
   {
-    "word": "tôn trọng luật pháp",
+    "word": "tôn kỹ thuật điện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-law-abiding"
-      }
-    ]
-  },
-  {
-    "word": "tôpô của một không gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-topology of a space"
-      }
-    ]
-  },
-  {
-    "word": "tôi trong dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-oil hardening\n-oil tempered"
-      }
-    ]
-  },
-  {
-    "word": "tôm bông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ruốc làm bằng tôm, tơi như bông"
-      }
-    ]
-  },
-  {
-    "word": "tôi cứng (kem)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-harden"
-      }
-    ]
-  },
-  {
-    "word": "tôpô bông tuyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-token"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electric sheet"
       }
     ]
   },
@@ -2050,38 +1838,498 @@
     ]
   },
   {
-    "word": "tôpô mạch điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-topology of circuits"
-      }
-    ]
-  },
-  {
-    "word": "tôn mạ niken",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nickel plated sheet iron"
-      }
-    ]
-  },
-  {
-    "word": "tôn thượng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to respect one’s superiors"
-      }
-    ]
-  },
-  {
-    "word": "tô thức",
+    "word": "tô đông pha",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Thức\n- Hiệu của Tô Đông Pha"
+        "dict_definition": "@Tô Đông Pha\n- Thi nhân đời Đường, hiệu Tô Thức, thường chơi thân với các nhà sư\n- Xem Bóng Hạc Châu Hoàng"
+      }
+    ]
+  },
+  {
+    "word": "tôi cứng ở nhiệt độ dưới 0 độ f (-17, 8 độ c)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-subzero quenching"
+      }
+    ]
+  },
+  {
+    "word": "tôn mỏng cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigid sheets"
+      }
+    ]
+  },
+  {
+    "word": "tôm hùm na-uy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Scampi"
+      }
+    ]
+  },
+  {
+    "word": "tôn mái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofing iron"
+      }
+    ]
+  },
+  {
+    "word": "tôn lót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lining plate"
+      }
+    ]
+  },
+  {
+    "word": "tôn xưng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gọi tôn lên một cách kính trọng\nVí dụ:\n- được tôn xưng là bà lớn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn xưng\n- Gọi bằng một danh hiệu tôn kính."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn xưng [tôn xưng]\n*động từ\n-call by a respected name"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "call by a respected name"
+      }
+    ]
+  },
+  {
+    "word": "tôi ngay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôi ngay\n- bề tôi trung thành của vua"
+      }
+    ]
+  },
+  {
+    "word": "tôn staloy (tên thương mại)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-stalloy"
+      }
+    ]
+  },
+  {
+    "word": "tôi được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hardenable"
+      }
+    ]
+  },
+  {
+    "word": "tôi thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-glass chilling"
+      }
+    ]
+  },
+  {
+    "word": "tôm tép",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tôm và tép [nói khái quát]; thường dùng để ví hạng người bị coi là thấp kém, không có địa vị trong xã hội\nVí dụ:\n- phận tôm tép \n - Sá chi đồi cát vũng lầy, Những loài tôm tép biết ngày nào khôn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôm tép [tôm tép]\n*danh từ\n-shrimps (in general)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shrimp"
+      }
+    ]
+  },
+  {
+    "word": "tôn làm cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bridge pate"
+      }
+    ]
+  },
+  {
+    "word": "tôn mui xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-roof panel\n-roof stiffener"
+      }
+    ]
+  },
+  {
+    "word": "tôpô yếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-weak topology"
+      }
+    ]
+  },
+  {
+    "word": "tô hạp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tô Hạp\n- (thị trấn) h. Khánh Sơn, t. Khánh Hoà"
+      }
+    ]
+  },
+  {
+    "word": "tôi áy náy quá",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I am very anxious"
+      }
+    ]
+  },
+  {
+    "word": "tôi vôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-slake\n@Chuyên ngành kỹ thuật\n-carburate\n-lime slaking\n-slack\n-slake"
+      }
+    ]
+  },
+  {
+    "word": "tôpô tập điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-point-set topology"
+      }
+    ]
+  },
+  {
+    "word": "tông chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reference tone"
+      }
+    ]
+  },
+  {
+    "word": "tôn đài",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn đài\n- tiếng chỉ người cao sang thân mến, đây tức là Lương Tể Tướng"
+      }
+    ]
+  },
+  {
+    "word": "tôn tẫn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tôn Tẫn\n- Đông Chu liệt quốc: Tôn Tẫn người nước Tề thời Chiến Quốc, con cháu Tôn Vũ. Trước kia, Tôn Tẫn cùng Bàng Quyên học binh pháp với thầy Quỷ Cốc Tử. Về sau, Bàng Quyên làm tướng nước Ngụy, nhưng vẫn tự cho mình không tài giỏi bằng Tôn Tẫn nên ngầm sai người mời Tôn Tẫn đến rồi mượn pháp thuật mà trị tội: Chặt 2 chân và chạm vào mặt để Tôn Tẫn phải giấu mình không xuất đầu lộ diện được. Sứ giả nước Tề đến đất Lương, Tôn Tẫn mang thân đã bị hình phạt lén gặp thuyết phục sứ giả. Sứ giả nước Tề cho là kỳ lạ bèn mang trộm lên xe đưa về Tề. Tướng Tề là Điền Kỵ phục tài bèn tâu với Uy Vương phong Tôn Tẫn làm thầy, Điền Kỵ làm tướng cùng cầm quân đi đánh Ngụy. Tôn Tẫn làm quân sư ngồi trong xe kín bàn mưu kế. Điền Kỵ theo kế Tôn Tẫn đánh cho Ngụy phải kiệt quệ. 13 năm sau, Ngụy và Triệu đánh Hàn. Hàn cáo cấp với Tề, Tề lại sai Điền Kỵ làm tướng, Tôn Tẫn làm quân sư đi cứu Hàn, tướng Ngụy là Bàng Quyên nghe vậy liền rời bỏ Hàn quay về. Tôn Tẫn nói với Điền Kỵ: \"Quân Ngụy vốn hung tợn và khinh quân Tề, quân Tề mang tiếng khiếp nhược. Người thiện chiến thì nhân cái thế của mình mà lợi dụng. Ngài hãy sai quân Tề vào đất Ngụy làm 10 vạn cái bếp, hôm sau làm 5 vạn cái, lại ngày hôm sau nữa làm 3 vạn cái.\" Bàng Quyên đi được 3 ngày cả mừng nói: Ta vốn biết quân Tề nhát gan, mới vào đất ta 3 ngày mà quân sĩ bỏ trốn đã quá nữa.\", bèn bỏ bộ binh mang Khinh binh, cùng lính tinh nhuệ một ngày đi gấp đôi đường đuổi theo. Tôn Tẫn trù tính họ đi đến đêm thì đến Mã Lăng. Đường Mã Lăng hẹp, hai bên hiểm trở, có thể phục binh, bèn sai người chặt cây to, bôi trắng và viết: \"Bàng Quyên tử vu thử thụ chi hạ\" (Bàng Quyên chết ở dưới gốc cây này)., lại sai một vạn quân Tề giỏi bắn tên nấp ở bên đường, hẹn ban đêm thấy lửa đốt lên thì đều bắn ra. Bàng Quyên quả nhiên đêm ấy đến dưới gốc cây bị đẽo, thấy có chữ viết trên gỗ bôi trắng bèn cho đốt đuốc xem. Đọc hàng chữ chưa xong thì 1 vạn nỏ của quân Tề đền bắn ra. Quân Ngụy trốn chạy tán loạn, Bàng Quyên tự biết mình trí cùng binh bại bèn tự đâm cổ chết. Quan Tề thừa thắng phá ta tất cả quân Ngụy. Từ đó Tôn Tẫn nổi danh trong thiên hạ, đời truyền binh pháp của ông ta"
+      }
+    ]
+  },
+  {
+    "word": "tôn giáo học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoa học nghiên cứu về tôn giáo và những hiện tượng có liên quan đến tôn giáo"
+      }
+    ]
+  },
+  {
+    "word": "tô quân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tô quân\n- Tô Vũ đời Vũ đế nhà Hán, sang sứ nước Hung Nô bị vua Hung Nô bắt đi chăn dê mười chín năm. Lúc được tha về, nhân dân địa phương cảm lòng trung trực của Tô, lập đền thờ ở núi Hà Lan, nơi Tô đã chăn dê"
+      }
+    ]
+  },
+  {
+    "word": "tôn định hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôn dạng vảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-imbricated plate"
+      }
+    ]
+  },
+  {
+    "word": "tôpô phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-plane topology"
+      }
+    ]
+  },
+  {
+    "word": "tôn phục",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to honor and respect"
+      }
+    ]
+  },
+  {
+    "word": "tông-đơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông-đơ [tông-đơ]\n-(từ gốc tiếng Pháp là Tondeuse) hair clippers"
+      }
+    ]
+  },
+  {
+    "word": "tôm sú",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tôm biển cỡ lớn, thuộc họ tôm he, vỏ dày màu xám nhạt, phần bụng màu sẫm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôm sú [tôm sú]\n*danh từ\n-sugpo prawn, common tiger prawn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "common tiger prawn"
+      }
+    ]
+  },
+  {
+    "word": "tôn trắng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tin-plate"
+      }
+    ]
+  },
+  {
+    "word": "tông đài tich hợp máy tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Computer Integrated Office (CIO)"
+      }
+    ]
+  },
+  {
+    "word": "tô phở",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bowl of pho"
+      }
+    ]
+  },
+  {
+    "word": "tôi gờ bánh xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-wheel flange hardening"
+      }
+    ]
+  },
+  {
+    "word": "tôi cứng kem trong hầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-tunnel ice-cream hardening"
+      }
+    ]
+  },
+  {
+    "word": "tôi tự hỏi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I wonder"
+      }
+    ]
+  },
+  {
+    "word": "tông tốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[nói] liền một mạch hết mọi điều, không suy tính, cân nhắc gì cả\nVí dụ:\n- có gì cũng tông tốc nói ra"
+      }
+    ]
+  },
+  {
+    "word": "tôi biết",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I know"
+      }
+    ]
+  },
+  {
+    "word": "tôn mỏng bọc nhôm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aluminium-coated sheet steel"
+      }
+    ]
+  },
+  {
+    "word": "tôn lượn sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrugated iron\n-corrugated sheet\n-corrugated sheet steel\n-pressed sheet steel\n-undulated sheet iron"
+      }
+    ]
+  },
+  {
+    "word": "tôn bị oxi hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-blued sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôpô vi phân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-differential topology"
+      }
+    ]
+  },
+  {
+    "word": "tông ngạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-total amount"
+      }
+    ]
+  },
+  {
+    "word": "tôpô đại cương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-general topology"
+      }
+    ]
+  },
+  {
+    "word": "tô tem",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "totem"
+      }
+    ]
+  },
+  {
+    "word": "tông đản",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tông Đản\n- (? - ?) Danh tướng thời Lí Nhân Tông, tù trưởng địa phương, dân tộc Tày. 10-1075 phó tướng cho Lí Thường Kiệt, có những đóng góp quan trọng trong việc đập tan những căn cứ xuất phát xâm lược Đại Việt của nhà Tống"
+      }
+    ]
+  },
+  {
+    "word": "tôi kí dưới đây, khai rằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-undersigned declare that..."
+      }
+    ]
+  },
+  {
+    "word": "tôn tráng kẽm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gavanized iron (sheet)"
+      }
+    ]
+  },
+  {
+    "word": "tôn đồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-copper sheet"
+      }
+    ]
+  },
+  {
+    "word": "tông thiệt hại (total loss)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-t.l., t/l"
+      }
+    ]
+  },
+  {
+    "word": "tôn mờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-terne-plate"
+      }
+    ]
+  },
+  {
+    "word": "tôn tẩn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tôn Tẩn\n- bạn học binh pháp với Bàng Quyên, sau bị Quyên hại, chặt hai chân, để gìm tài. Thầy học Quỷ Cốc Tử đã bảo trước cho Tôn Tẩn nhưng ông không đề phòng (không lừa, không lựa chọn)"
       }
     ]
   },
@@ -2107,74 +2355,19 @@
     ]
   },
   {
-    "word": "tôn trọng (hợp đồng, luật pháp, quyết định, lời hứa...)",
+    "word": "tôn miếu",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-abide"
-      }
-    ]
-  },
-  {
-    "word": "tông ngạch",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn miếu\n- Chỗ thờ tổ tiên của nhà vua."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-total amount"
-      }
-    ]
-  },
-  {
-    "word": "tôpô học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-analysis situs"
-      }
-    ]
-  },
-  {
-    "word": "tôpô khoảng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interval topology"
-      }
-    ]
-  },
-  {
-    "word": "tôn đồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-copper sheet"
-      }
-    ]
-  },
-  {
-    "word": "tô đầy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-flood fill"
-      }
-    ]
-  },
-  {
-    "word": "tôi áy náy quá",
-    "definitions": [
+        "dict_definition": "@tôn miếu [tôn miếu]\n*danh từ\n-temple of deceased kings"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "I am very anxious"
-      }
-    ]
-  },
-  {
-    "word": "tông chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reference tone"
+        "dict_definition": "temple of deceased kings"
       }
     ]
   },
@@ -2196,20 +2389,200 @@
     ]
   },
   {
-    "word": "tôpô tương thích thứ tự",
+    "word": "tôn lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-order compatible topology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ice ton\n-refrigeration ton\n-ton"
       }
     ]
   },
   {
-    "word": "tôn kỹ thuật điện",
+    "word": "tôn tấm tráng kẽm nóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electric sheet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hot-galvanized sheeting"
+      }
+    ]
+  },
+  {
+    "word": "tôi cũng xin nói thêm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I would also like to add"
+      }
+    ]
+  },
+  {
+    "word": "tôn tráng thiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-terne-plate\n-tin plate\n-tinned sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôn dày hợp kim nhôm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aluminium alloy plate"
+      }
+    ]
+  },
+  {
+    "word": "tôn mạ thiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tin plate"
+      }
+    ]
+  },
+  {
+    "word": "tô màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tô màu [tô màu]\n-to colour\n@Chuyên ngành kỹ thuật\n-colour\n-paint\n-tint"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to color"
+      }
+    ]
+  },
+  {
+    "word": "tô giới",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần đất [thường là trong một thành phố] của một nước nửa thuộc địa buộc phải cắt nhường cho một nước đế quốc\nVí dụ:\n- tô giới Pháp \n - tô giới Anh ở Thượng Hải"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tô giới\n- Khu đất mà các đế quốc xưa chiếm của Trung Quốc để cho bọn tư bản của họ đến buôn bán."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tô giới [tô giới]\n-như\n@Chuyên ngành kinh tế\n-concession"
+      }
+    ]
+  },
+  {
+    "word": "tông tích",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nguồn gốc, lai lịch của một người\nVí dụ:\n- biết rõ tông tích \n - giấu tông tích"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tông tích\n- d. 1 Nguồn gốc, lai lịch của một người. Hỏi cho rõ tông tích, quê quán. Không ai biết tên tuổi, tông tích của ông ta. 2 (id.). Như tung tích (ng. 1). Bị lộ tông tích."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông tích\n*noun\n-origin"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tông tích\n* noun\n- origin"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "origin"
+      }
+    ]
+  },
+  {
+    "word": "tôn phái",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn phái\n- Các phái trong tôn giáo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn phái [tôn phái]\n*danh từ\n-sect"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "branch, sect"
+      }
+    ]
+  },
+  {
+    "word": "tôi cao tần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-high-frequency hardening"
+      }
+    ]
+  },
+  {
+    "word": "tôi cacbon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-carbonize\n-carburation\n-carburetion\n-carburization\n-carburize"
+      }
+    ]
+  },
+  {
+    "word": "tôm biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sea crayfish"
+      }
+    ]
+  },
+  {
+    "word": "tôn mỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-light sheet\n@Lĩnh vực: xây dựng\n-steel sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôpô hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-topologized"
+      }
+    ]
+  },
+  {
+    "word": "tông hiến",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "apostolic constitution"
+      }
+    ]
+  },
+  {
+    "word": "tông thứ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-minor tone"
+      }
+    ]
+  },
+  {
+    "word": "tôn bit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bitwise"
       }
     ]
   },
@@ -2239,11 +2612,45 @@
     ]
   },
   {
-    "word": "tô quân",
+    "word": "tôm he",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tôm cỡ lớn, sống thành đàn ở ven biển và vùng nước lợ, thân rộng bản và dẹt, râu ngắn"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô quân\n- Tô Vũ đời Vũ đế nhà Hán, sang sứ nước Hung Nô bị vua Hung Nô bắt đi chăn dê mười chín năm. Lúc được tha về, nhân dân địa phương cảm lòng trung trực của Tô, lập đền thờ ở núi Hà Lan, nơi Tô đã chăn dê"
+        "dict_definition": "@tôm he\n- dt. Tôm cỡ trung bình, sống ở nước ven biển và vùng nước lợ, thân rộng bản và dẹp, râu ngắn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôm he\n*noun\n-prawn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tôm he\n* noun\n- prawn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "prawn"
+      }
+    ]
+  },
+  {
+    "word": "tôi (vôi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slake"
+      }
+    ]
+  },
+  {
+    "word": "tô son điểm phấn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tô son điểm phấn [tô son điểm phấn]\n*thành ngữ\n-to make up\n-to paint or to rouge (the face)"
       }
     ]
   },
@@ -2257,38 +2664,252 @@
     ]
   },
   {
-    "word": "tôi nhận những điều kiện của anh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I agree to your conditions"
-      }
-    ]
-  },
-  {
-    "word": "tôn gấp mép",
+    "word": "tôn được tăng cứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flanged sheet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stiffened plate"
       }
     ]
   },
   {
-    "word": "tôi biết",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I know"
-      }
-    ]
-  },
-  {
-    "word": "tôn lót",
+    "word": "tông phức hợp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lining plate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-complex tone"
+      }
+    ]
+  },
+  {
+    "word": "tôpô khoảng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interval topology"
+      }
+    ]
+  },
+  {
+    "word": "tô tức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rent"
+      }
+    ]
+  },
+  {
+    "word": "tôi mặt ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hard-face"
+      }
+    ]
+  },
+  {
+    "word": "tôpô tổ hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-combinatorial topology"
+      }
+    ]
+  },
+  {
+    "word": "tô hiệu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tô Hiệu\n- (ttnn) h. mai Sơn, t. Sơn La\n- (xã) tên gọi các xã thuộc h. Thường Tín (Hà Tây), h. Bình Gia (Lạng Sơn)"
+      }
+    ]
+  },
+  {
+    "word": "tôn giáo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình thái ý thức xã hội gồm những quan niệm dựa trên cơ sở tin và sùng bái những lực lượng siêu tự nhiên, cho rằng có những lực lượng siêu tự nhiên quyết định số phận con người, con người phải phục tùng và tôn thờ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hệ thống những quan niệm tín ngưỡng một hay những vị thần linh nào đó và những hình thức lễ nghi thể hiện sự sùng bái ấy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn giáo\n- Sự công nhận một sức mạnh coi là thiêng liêng quyết định một hệ thống ý nghĩ tư tưởng của con người về số phận của mình trong và sau cuộc đời hiện tại, do đó quyết định phần nào hệ thống đạo đức, đồng thời thể hiện bằng những tập quán lễ nghi tỏ thái độ tin tưởng và tôn sùng sức mạnh đó."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn giáo\n*noun\n-Religion\n-Besides the traditional religious practices in Vietnam, there are other major religions such as Buddhism, Catholicism, Protestantism, Islam, the Cao Dai sect and the Hoa Hao sect... At present, over 70 percent of the population of Vietnam are either Buddhist or strongly influenced by Buddhist practices. About 10 percent of the population are considered to be catholic. The number of Protestants is estimated at a mere 400,000 Most of the Islamic followers in Vietnam are those of the Cham ethnic minority group living in the central part of the central coast. The number of Islamic followers in Vietnam totals about 50,000. The Cao Dai Church in Tay Ninh is the central point nearby which are located settlements of Cao Dai followers in South Vietnam. The number of followers of this sect is estimated at 2 million. More than 1 million Vietnamese are followers of the Hoa Hao sect. Most of them live in the western part of South Vietnam"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tôn giáo\n* noun\n- Religion\n-Besides the traditional religious practices in Vietnam, there are other major religions such as Buddhism, Catholicism, Protestantism, Islam, the Cao Dai sect and the Hoa Hao sect... At present, over 70 percent of the population of Vietnam are either Buddhist or strongly influenced by Buddhist practices. About 10 percent of the population are considered to be catholic. The number of Protestants is estimated at a mere 400,000 Most of the Islamic followers in Vietnam are those of the Cham ethnic minority group living in the central part of the central coast. The number of Islamic followers in Vietnam totals about 50,000. The Cao Dai Church in Tay Ninh is the central point nearby which are located settlements of Cao Dai followers in South Vietnam. The number of followers of this sect is estimated at 2 million. More than 1 million Vietnamese are followers of the Hoa Hao sect. Most of them live in the western part of South Vietnam"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "religion; religious"
+      }
+    ]
+  },
+  {
+    "word": "tôn uốn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "corrugated iron"
+      }
+    ]
+  },
+  {
+    "word": "tôn thất",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn thất\n- Thuộc dòng họ nhà vua."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn thất [tôn thất]\n*v\n-royal family"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "royal family"
+      }
+    ]
+  },
+  {
+    "word": "tôc độ truyền dữ liệu hiệu quả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-effective data transfer rate"
+      }
+    ]
+  },
+  {
+    "word": "tông nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-whole tone"
+      }
+    ]
+  },
+  {
+    "word": "tôn cán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-punching"
+      }
+    ]
+  },
+  {
+    "word": "tông tòa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "diocese"
+      }
+    ]
+  },
+  {
+    "word": "tô vẽ băng tin điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-painting the tape"
+      }
+    ]
+  },
+  {
+    "word": "tôn phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flat steel plate"
+      }
+    ]
+  },
+  {
+    "word": "tôn bọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cover sheet\n-sheeting"
+      }
+    ]
+  },
+  {
+    "word": "tông",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cán [của một số dụng cụ]\nVí dụ:\n- tông đục"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mảng màu trong hội hoạ, phân biệt được với nhau nhờ sắc độ chủ đạo đậm nhạt, hay nóng lạnh\nVí dụ:\n- dùng tông màu đen, trắng \n - bức tranh thiên về tông màu lạnh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "giọng hát, thường gồm nhiều loại: giọng trưởng, giọng thứ, giọng cao, giọng trung và giọng trầm\nVí dụ:\n- hát lạc tông, sai nhịp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đâm mạnh vào\nVí dụ:\n- chiếc xe tải tông vào chân cầu vượt \n - hai xe tông nhau"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tông [tông]\n-xem\n-to crash into ...;  to run into ...;  to collide with ...;  to hit\n-to force open\n-(từ gốc tiếng Pháp là Ton) intonation;  tone\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel plate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ancestor, family, relation"
+      }
+    ]
+  },
+  {
+    "word": "tôi sẽ nói sau",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I'll tell you later"
+      }
+    ]
+  },
+  {
+    "word": "tô đầy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-flood fill"
+      }
+    ]
+  },
+  {
+    "word": "tô thức",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tô Thức\n- Hiệu của Tô Đông Pha"
+      }
+    ]
+  },
+  {
+    "word": "tôn hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tôn hiệu [tôn hiệu]\n*danh từ\n-imperial title"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "imperial title"
       }
     ]
   },
@@ -2326,71 +2947,132 @@
     ]
   },
   {
-    "word": "tôn lượn sóng",
+    "word": "tôpô mạng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrugated iron\n-corrugated sheet\n-corrugated sheet steel\n-pressed sheet steel\n-undulated sheet iron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-network topology"
       }
     ]
   },
   {
-    "word": "tôi (bằng) cảm ứng",
+    "word": "tôi nhận những điều kiện của anh",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-induction hardening"
-      }
-    ]
-  },
-  {
-    "word": "tôn thờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngưỡng mộ, coi trọng đến mức cho là thiêng liêng đối với mình\nVí dụ:\n- tôn thờ thần tượng \n - mọi người tôn thờ anh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn thờ [tôn thờ]\n-to adore;  to idolize;  to worship"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to adore, idolize, worship"
+        "dict_definition": "I agree to your conditions"
       }
     ]
   },
   {
-    "word": "tôn ti",
+    "word": "tô khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stencil"
+      }
+    ]
+  },
+  {
+    "word": "tôi tối",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trật tự có trên có dưới [nói về thứ bậc, trật tự trong xã hội]\nVí dụ:\n- giữ gìn tôn ti trật tự"
-      },
+        "dict_definition": "hơi tối, không được sáng sủa\nVí dụ:\n- màu áo hơi tôi tối"
+      }
+    ]
+  },
+  {
+    "word": "tông trưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-major tone"
+      }
+    ]
+  },
+  {
+    "word": "tôn trọng quyền tiêng tư",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to respect someone’s right to privacy"
+      }
+    ]
+  },
+  {
+    "word": "tô chộn hai màu kiểu gradient",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-two-color gradient fill"
+      }
+    ]
+  },
+  {
+    "word": "tô đất, địa tô (tính theo mẫu anh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-acreage rent"
+      }
+    ]
+  },
+  {
+    "word": "tô đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ground rent"
+      }
+    ]
+  },
+  {
+    "word": "tôpô thẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-plane topology"
+      }
+    ]
+  },
+  {
+    "word": "tô-tem",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn ti\n- d. (kết hợp hạn chế, không dùng làm chủ ngữ). Trật tự có trên có dưới (nói về thứ bậc, trật tự, trong xã hội). Xoá bỏ mọi tôn ti đẳng cấp phong kiến. Một xã hội có tôn ti trật tự."
+        "dict_definition": "@tô-tem\n- d. Động vật hay thực vật người nguyên thủy sùng bái, coi là tổ tiên của thị tộc: Tô-tem của người Việt nguyên thuỷ là con cá sấu. Sùng bái tô tem. Tôn giáo của người nguyên thủy, coi một thứ động vật hay thực vật nào đó là tổ tiên của mình và thờ nó."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôn ti\n*noun\n-hierarchy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hierarchy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tôn ti\n* noun\n- hierarchy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hierarchy"
+        "dict_definition": "@tô-tem [tô tem]\n-(tiếng Pháp gọi là Totem) totem"
       }
     ]
   },
   {
-    "word": "tôi ngu gì",
+    "word": "tôn cán láng",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I would have to be stupid to (do sth), I’m not stupid enough to (do sth)"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-calendered sheet"
+      }
+    ]
+  },
+  {
+    "word": "tôn ti trật tự",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tôn ti trật tự\n- Tổ chức xã hội gồm những cấp bậc rành mạch từ trên xuống."
+      }
+    ]
+  },
+  {
+    "word": "tông tổ hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-combination tone"
       }
     ]
   },
@@ -2404,397 +3086,68 @@
     ]
   },
   {
-    "word": "tô màu biên",
+    "word": "tôpô quỹ đạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-boundary fill"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-orbital topology"
       }
     ]
   },
   {
-    "word": "tôn giáo học",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoa học nghiên cứu về tôn giáo và những hiện tượng có liên quan đến tôn giáo"
-      }
-    ]
-  },
-  {
-    "word": "tôn staloy (tên thương mại)",
+    "word": "tôn chủ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-stalloy"
-      }
-    ]
-  },
-  {
-    "word": "tôi sẽ",
-    "definitions": [
+        "dict_definition": "@tôn chủ [tônc hủ]\n*danh từ\n-chief,  lord"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "I will"
+        "dict_definition": "chief, lord"
       }
     ]
   },
   {
-    "word": "tôi có",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I have"
-      }
-    ]
-  },
-  {
-    "word": "tôn mỏng cứng",
+    "word": "tô, tiền thuế kinh tế thuần túy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigid sheets"
+        "dict_definition": "@Chuyên ngành kinh tế\n-pure economic rent"
       }
     ]
   },
   {
-    "word": "tôn đài",
+    "word": "tô mày vẽ mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tô mày vẽ mặt [tô mày vẽ mặt]\n*thành ngữ\n-to make up one\"s face"
+      }
+    ]
+  },
+  {
+    "word": "tôn sư",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn đài\n- tiếng chỉ người cao sang thân mến, đây tức là Lương Tể Tướng"
-      }
-    ]
-  },
-  {
-    "word": "tôn không gỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stainless steel plate\n-stainless steel sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôpô học sơ đồ mạng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-network topology"
-      }
-    ]
-  },
-  {
-    "word": "tôpô đồng nhất hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-identification topology"
-      }
-    ]
-  },
-  {
-    "word": "tôi (vôi)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slake"
-      }
-    ]
-  },
-  {
-    "word": "tôn cán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-punching"
-      }
-    ]
-  },
-  {
-    "word": "tôn dợn sóng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "corrugated steel"
-      }
-    ]
-  },
-  {
-    "word": "tô mậu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Mậu\n- (xã) h. Lục Yên, t. Yên Bái"
-      }
-    ]
-  },
-  {
-    "word": "tông bạt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tông Bạt\n- (xã) h. Ba Vì, h. Hà Tây"
-      }
-    ]
-  },
-  {
-    "word": "tôm tép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tôm và tép [nói khái quát]; thường dùng để ví hạng người bị coi là thấp kém, không có địa vị trong xã hội\nVí dụ:\n- phận tôm tép \n - Sá chi đồi cát vũng lầy, Những loài tôm tép biết ngày nào khôn."
+        "dict_definition": "@tôn sư\n- Từ để tôn gọi thầy dạy học mình (cũ)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tôm tép [tôm tép]\n*danh từ\n-shrimps (in general)"
+        "dict_definition": "@tôn sư [tôn sư]\n*danh từ\n-venerated teacher"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "shrimp"
+        "dict_definition": "master, venerated teacher"
       }
     ]
   },
   {
-    "word": "tông phức hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-complex tone"
-      }
-    ]
-  },
-  {
-    "word": "tôn biến áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-core plate"
-      }
-    ]
-  },
-  {
-    "word": "tôn được tăng cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stiffened plate"
-      }
-    ]
-  },
-  {
-    "word": "tôpô phẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-plane topology"
-      }
-    ]
-  },
-  {
-    "word": "tôi không biết",
+    "word": "tôn chi",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "I don’t know"
-      }
-    ]
-  },
-  {
-    "word": "tôn giáo cổ truyền",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "traditional religion"
-      }
-    ]
-  },
-  {
-    "word": "tôi mặt ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hard-face"
-      }
-    ]
-  },
-  {
-    "word": "tôn nồi hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-boiler plate"
-      }
-    ]
-  },
-  {
-    "word": "tôm rảo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tôm nhỏ, cùng họ với tôm he, sống ở vùng nước lợ ven biển, thân hẹp và dài"
-      }
-    ]
-  },
-  {
-    "word": "tôn trưởng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn trưởng\n- Người già cả đáng kính trọng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn trưởng [tôn trưởng]\n*danh từ\n-respect the superiors\n-respected personage\n-head of the family"
-      }
-    ]
-  },
-  {
-    "word": "tôi luyện đẳng thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-isochronal annealing"
-      }
-    ]
-  },
-  {
-    "word": "tôn vừa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-medium plate"
-      }
-    ]
-  },
-  {
-    "word": "tôn mỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-light sheet\n@Lĩnh vực: xây dựng\n-steel sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôn tộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn tộc\n- Họ hàng: Quan hệ tôn tộc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn tộc [tôn tộc]\n*danh từ\n-member of the same family"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "member of the same family"
-      }
-    ]
-  },
-  {
-    "word": "tôpô mạng vòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ring topology"
-      }
-    ]
-  },
-  {
-    "word": "tông màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-color tone\n-colour tone"
-      }
-    ]
-  },
-  {
-    "word": "tôi cứng lạnh (kem)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-harden (ice cream)"
-      }
-    ]
-  },
-  {
-    "word": "tông tộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp những gia đình có chung một ông tổ về bên nội"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tông tộc [tông tộc]\n*danh từ\n-family, genealogy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "family, genealogy"
-      }
-    ]
-  },
-  {
-    "word": "tôn nghiêm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trang nghiêm, gợi sự coi trọng, tôn kính\nVí dụ:\n- nơi thờ cúng tôn nghiêm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn nghiêm\n- t. (Nơi) uy nghi, trang nghiêm, được mọi người hết sức coi trọng. Nơi thờ cúng tôn nghiêm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn nghiêm\n*adj\n-solemn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tôn nghiêm\n* adj\n- solemn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "serious, solemn, professional, grave"
-      }
-    ]
-  },
-  {
-    "word": "tôi cứng ở nhiệt độ dưới 0 độ f (-17, 8 độ c)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-subzero quenching"
-      }
-    ]
-  },
-  {
-    "word": "tô tức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rent"
-      }
-    ]
-  },
-  {
-    "word": "tôn lợp nhà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofing iron"
-      }
-    ]
-  },
-  {
-    "word": "tôi nhức đầu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "my head aches"
+        "dict_definition": "branch of a family"
       }
     ]
   },
@@ -2824,245 +3177,47 @@
     ]
   },
   {
-    "word": "tôi cũng nghĩ như anh",
+    "word": "tôi sẽ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "I think like you"
+        "dict_definition": "I will"
       }
     ]
   },
   {
-    "word": "tôn hàn",
+    "word": "tôpa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-welded steel plate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-contractor"
       }
     ]
   },
   {
-    "word": "tô-tem",
+    "word": "tôn sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-corrugated sheet iron"
+      }
+    ]
+  },
+  {
+    "word": "tô múa",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tô-tem\n- d. Động vật hay thực vật người nguyên thủy sùng bái, coi là tổ tiên của thị tộc: Tô-tem của người Việt nguyên thuỷ là con cá sấu. Sùng bái tô tem. Tôn giáo của người nguyên thủy, coi một thứ động vật hay thực vật nào đó là tổ tiên của mình và thờ nó."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tô-tem [tô tem]\n-(tiếng Pháp gọi là Totem) totem"
+        "dict_definition": "@Tô Múa\n- (xã) h. Mộc Châu, t. Sơn La"
       }
     ]
   },
   {
-    "word": "tôi thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-glass chilling"
-      }
-    ]
-  },
-  {
-    "word": "tông thứ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-minor tone"
-      }
-    ]
-  },
-  {
-    "word": "tôn thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sheet steel"
-      }
-    ]
-  },
-  {
-    "word": "tôn tẩn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tôn Tẩn\n- bạn học binh pháp với Bàng Quyên, sau bị Quyên hại, chặt hai chân, để gìm tài. Thầy học Quỷ Cốc Tử đã bảo trước cho Tôn Tẩn nhưng ông không đề phòng (không lừa, không lựa chọn)"
-      }
-    ]
-  },
-  {
-    "word": "tôpô quỹ đạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-orbital topology"
-      }
-    ]
-  },
-  {
-    "word": "tôm thẻ",
+    "word": "tôm rảo",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tôm biển thuộc họ tôm he, mình hơi dẹp, vỏ hơi vàng"
-      }
-    ]
-  },
-  {
-    "word": "tôi mọi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôi mọi\n- Người thấp hèn suốt đời phụng sự người khác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôi mọi [tôi mọi]\n*danh từ\n-servant, slave, bondman, thrall"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "servant, slave, bondman, thrall"
-      }
-    ]
-  },
-  {
-    "word": "tôn in hình nổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-relief patterned sheet"
-      }
-    ]
-  },
-  {
-    "word": "tôpô cảm sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relative topology"
-      }
-    ]
-  },
-  {
-    "word": "tô xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-shaving (the body)"
-      }
-    ]
-  },
-  {
-    "word": "tôn mỏng (<0,2mm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tagger"
-      }
-    ]
-  },
-  {
-    "word": "tôi không khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-air-hardened"
-      }
-    ]
-  },
-  {
-    "word": "tôn nữ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn nữ\n- Người con gái thuộc dòng họ nhà vua."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn nữ [tôn nữ]\n*danh từ\n-daughter of a royal family"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "daughter of a royal family"
-      }
-    ]
-  },
-  {
-    "word": "tôn ông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn ông [tôn ông]\n*đại từ nhân xưng\n-Sir"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Sir"
-      }
-    ]
-  },
-  {
-    "word": "tôi luyện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho tinh thần, ý chí trải qua những thử thách gay go trong thực tiễn hoạt động và đấu tranh mà trở nên kiên định, vững vàng\nVí dụ:\n- được tôi luyện trong đấu tranh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôi luyện\n- Chịu đựng những khó khăn gian khổ để trở thành cứng rắn, giỏi giang."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôi luyện [tôi luyện]\n*động từ\n-temper, steel, steel onself, temper oneself"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "temper, steel, steel oneself, temper oneself"
-      }
-    ]
-  },
-  {
-    "word": "tông thiệt hại (total loss)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-t.l., t/l"
-      }
-    ]
-  },
-  {
-    "word": "tôn làm cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bridge pate"
-      }
-    ]
-  },
-  {
-    "word": "tông liên tục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-continuous transport"
-      }
-    ]
-  },
-  {
-    "word": "tô chộn hai màu kiểu gradient",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-two-color gradient fill"
-      }
-    ]
-  },
-  {
-    "word": "tôn trung bình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-medium steel"
+        "dict_definition": "tôm nhỏ, cùng họ với tôm he, sống ở vùng nước lợ ven biển, thân hẹp và dài"
       }
     ]
   },
@@ -3092,117 +3247,6 @@
     ]
   },
   {
-    "word": "tôn phẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flat steel plate"
-      }
-    ]
-  },
-  {
-    "word": "tôm bạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôm bạc [tôm bạc]\n*danh từ\n-white shrimp"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "white shrimp"
-      }
-    ]
-  },
-  {
-    "word": "tôi cacbon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-carbonize\n-carburation\n-carburetion\n-carburization\n-carburize"
-      }
-    ]
-  },
-  {
-    "word": "tông rời rạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-discrete tone"
-      }
-    ]
-  },
-  {
-    "word": "tôn dày (đóng tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-plate"
-      }
-    ]
-  },
-  {
-    "word": "tô đông pha",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Đông Pha\n- Thi nhân đời Đường, hiệu Tô Thức, thường chơi thân với các nhà sư\n- Xem Bóng Hạc Châu Hoàng"
-      }
-    ]
-  },
-  {
-    "word": "tôi cũng xin nói thêm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I would also like to add"
-      }
-    ]
-  },
-  {
-    "word": "tôm sông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôm sông [tôm sông]\n*danh từ\n-cray fish, fresh water crayfish\n@Chuyên ngành kinh tế\n-crawfish\n-crayfish\n-crayfish tail"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crayfish, fresh water crayfish"
-      }
-    ]
-  },
-  {
-    "word": "tô múa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tô Múa\n- (xã) h. Mộc Châu, t. Sơn La"
-      }
-    ]
-  },
-  {
-    "word": "tôn hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn hiệu [tôn hiệu]\n*danh từ\n-imperial title"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "imperial title"
-      }
-    ]
-  },
-  {
-    "word": "tôi cứng được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hardenable"
-      }
-    ]
-  },
-  {
     "word": "tôm càng xanh",
     "definitions": [
       {
@@ -3212,55 +3256,11 @@
     ]
   },
   {
-    "word": "tôn làm ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-tube plate"
-      }
-    ]
-  },
-  {
-    "word": "tôn ti trật tự",
+    "word": "tôn vũ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn ti trật tự\n- Tổ chức xã hội gồm những cấp bậc rành mạch từ trên xuống."
-      }
-    ]
-  },
-  {
-    "word": "tông qua lìn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tông Qua Lìn\n- (xã) h. Phong Thổ, t. Lai Châu"
-      }
-    ]
-  },
-  {
-    "word": "tôn miếu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tôn miếu\n- Chỗ thờ tổ tiên của nhà vua."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tôn miếu [tôn miếu]\n*danh từ\n-temple of deceased kings"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "temple of deceased kings"
-      }
-    ]
-  },
-  {
-    "word": "tôn mỏng bọc nhôm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-aluminium-coated sheet steel"
+        "dict_definition": "@Tôn Vũ\n- Đông Chu liệt quốc: Tôn Vũ, còn gọi là Tôn Tử, là một nhà binh pháp nổi tiếng của Trung Quốc cổ đại, người nươ`c Tề, sống vào cuối thời Xuân Thu (Khoảng thế kỷ thứ 5 trước công nguyên)\n- Tôn Vũ đem sách binh pháp yết kiến vua Ngô là Hạp Lư. Hạp Lư nói: \"Ta đã đọc 13 thiên của ông rồi, nay ông thử áp dụng binh pháp điều khiển quân đội một cách tiểu quy mô có được không ?\" Tôn Vũ đáp: \"Được\". Hạp Lư nói: \"Đem đàn bà ra thí nghiệm có được không ?\" Tôn Vũ đáp: \"Được\". Vua bèn bằng lòng cho gái đẹp trong cung ra, tất cả 180 người, Tôn Vũ chia ra làm 2 đội, lấy hai người phi vua nuông chiều làm đội trưởng, sai tất cả đều cầm giáo. Tôn Vũ ra lệnh nói: Khi ta nói đàng trước thì các người nhìn vào quả tim, nói bên trái thì nhìn tay trái, nói bên phải thì nhìn tay phải, đàng sau thì nhìn đàng sau lưng.\" Sau khi đã đưa ra kỷ luật, Tôn Vũ bèn đặt Phủ Việt, ban lệnh 3 lần, nhắc nhở 5 lượt. Sau đó đánh trống ra lệnh nhìn về bên phải, bọn con gái cười rộ. Tôn Vũ nói: \"Kỷ luật không rõ ràng, nhắc nhở hiệu lệnh không kỹ càng đó là tội của tướng.\" Lại ra lệnh và nhắc nhở 3 lần, 5 lượt rồi đánh trống ra lệnh nhìn về bên trái. Bọn con gái lại cười rộ, Vũ nói: \" Kỷ luật không rõ ràng, nhắc nhở hiệu lệnh không kỹ càng đó là tội của tướng. Nay đã hiểu rõ kỷ luật rồi mà không theo luật là tội của đội trưởng.\" Tôn Vũ muốn chém đầu 2 người đội trưởng. Vua ngô ngồi trên đài xem thấy sắp chém 2 người ái cơ, hoảng hốt vội sai sứ truyền lệnh, nói: \"Quả nhân đã biết cách dùng binh của tướng quân rồi, không có 2 ái cơ ấy thì quả nhân ăn không ngon, xin đừng chém.\" Tôn Vũ nói: Thần đã vâng mệnh lệnh bệ hạ làm tướng, tướng đã ở trong quân thì có khi không theo lệnh vua.\" Bèn sai chém 2 người đội trưởng để thị uy, đem người kế tiếp làm đội trưởng, lại đánh trống chỉ huy. Bọn con gái nhìn bên phải, bên trái, trước sau, quỳ đứng đều nghiêm chỉnh, đúng đắn, không ai dám ho he. Tôn Vũ sai sứ giả báo với vua: \"Binh đã chỉnh tề, bệ hạ có thể dùng nó thế nào cũng được, có thể sai nó dù nhảy vào lửa, vào nước.\" Hạp Lư cho Tôn Vũ làm tướng. Phía Tây quân Ngô phá Sở, đi vào đất Sính, phía Bắc uy hiếp nước Tề, nước Tấn, nổi tiếng chư hầu\n- Bộ Tôn Tử Binh pháp gồm 13 thiên: 1. thủy kế, 2. Tác chiến, 3. Mưu công, 4. Quân hình, 5. Binh thế, 6. Hư thực, 7. Quân tranh, 8. Cửu biến, 9. Hành quân, 10. Địa hình, 11. Tựu địa, . Hỏa công, 13. Dụng gián\n- Tôn Tử Binh pháp là quyển sách gối đầu giường của các nhà quân sự á đông ngày xưa và hiện vẫn còn được nghiên cứu tại các học viện quân sự và còn được ứng dụng trong nhiều lãnh vực khác\n- Thiên Nam Ngữ lục:\n- Kiêm hay thao lược cơ quyền\n- Bội trăm Bạch Khởi, chấp ngàn Tôn Ngô"
       }
     ]
   }

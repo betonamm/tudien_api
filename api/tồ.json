@@ -1,320 +1,45 @@
 [
   {
-    "word": "tồn đơn hàng chồng chất (quá nhiều)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-heavy backlog"
-      }
-    ]
-  },
-  {
-    "word": "tồn ứ",
+    "word": "tồn khoản",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tồn nhiều đến mức ứ lại, không di chuyển hoặc không giải quyết được\nVí dụ:\n- hàng tồn ứ trong kho"
-      }
-    ]
-  },
-  {
-    "word": "tồng quát",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "general, comprehensive"
-      }
-    ]
-  },
-  {
-    "word": "tồn quỹ sẵn có",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-available balance"
-      }
-    ]
-  },
-  {
-    "word": "tồn khoản kinh phí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-expenditure fund deposit"
-      }
-    ]
-  },
-  {
-    "word": "tồng số vốn đầu tư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-amount of capital invested"
-      }
-    ]
-  },
-  {
-    "word": "tồn cổ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tồn cổ\n- Giữ gìn những di tích xưa."
+        "dict_definition": "số tiền chưa sử dụng thuộc một khoản nào đó, được phản ánh trên sổ sách kế toán\nVí dụ:\n- tồn khoản quỹ tiền mặt"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tồn cổ [tồn cổ]\n*danh từ\n-preserve the antiquities"
+        "dict_definition": "@tồn khoản [tồn khoản]\n*danh từ\n-deposit (in bank)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "conservative, preserving the past"
+        "dict_definition": "(bank) deposit"
       }
     ]
   },
   {
-    "word": "tồn kho quá nhiều",
+    "word": "tồn trữ (vật tư)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overstocks"
+        "dict_definition": "@Chuyên ngành kinh tế\n-stockpiling"
       }
     ]
   },
   {
-    "word": "tồn vong",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tồn tại hay diệt vong, còn hay mất [thường nói về vận mệnh của dân tộc, đất nước]\nVí dụ:\n- sự tồn vong của một dân tộc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tồn vong\n- Sự tồn tại và sự tiêu diệt: Sự tồn vong của dân tộc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tồn vong [tồn vong]\n*động từ\n-exist and perish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to appear and disappear, exist and not exist, be and not be"
-      }
-    ]
-  },
-  {
-    "word": "tồi tệ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tồi, tệ đến mức như không còn có thể nào hơn thế nữa\nVí dụ:\n- sức khoẻ ngày một tồi tệ \n - đối xử tồi tệ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tồi tệ\n- tt. 1. Hết sức kém so với yêu cầu: Tình hình sinh hoạt quá tồi tệ  Kết quả học hành rất tồi tệ  sức khoẻ ngày một tồi tệ. 2. Xấu xa, tệ hại về nhân cách: đối xử với nhau tồi tệ  con người tồi tệ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tồi tệ\n*adj\n-mean, bad"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tồi tệ\n* adj\n- mean, bad"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mean, bad"
-      }
-    ]
-  },
-  {
-    "word": "tồng tộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả lối nói năng có gì cũng đem tuôn ra hết một cách nhanh nhảu, dễ dàng\nVí dụ:\n- có gì nói tồng tộc ra hết \n - khai tồng tộc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như tòng tọc"
-      }
-    ]
-  },
-  {
-    "word": "tồn quĩ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tồn quỹ"
-      }
-    ]
-  },
-  {
-    "word": "tồn tại duy nhất",
+    "word": "tồn kho bình chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unique existence"
+        "dict_definition": "@Chuyên ngành kinh tế\n-buffer stock"
       }
     ]
   },
   {
-    "word": "tồn trữ dự phòng, dự trữ",
+    "word": "tồn kho dự trữ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stockpile"
-      }
-    ]
-  },
-  {
-    "word": "tồn tại lâu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to last long, survive for long"
-      }
-    ]
-  },
-  {
-    "word": "tồn đơn hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-backlog of orders"
-      }
-    ]
-  },
-  {
-    "word": "tồng ngồng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không mặc quần áo, mà trần truồng, để lộ hết các chỗ kín của thân thể ra, trông khó coi\nVí dụ:\n- đứa trẻ đứng tắm tồng ngồng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có vóc dáng như người lớn, không còn bé nhỏ gì nữa [hàm ý chê]\nVí dụ:\n- lớn tồng ngồng rồi mà vẫn chưa biết làm gì"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tồng ngồng\n- Nói dáng trần truồng lồ lộ ra: Lên sáu rồi mà còn ở truồng tồng ngồng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tồng ngồng [tồng ngồng]\n*tính từ\n-large, big\n-stark naked"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "large, big; naked"
-      }
-    ]
-  },
-  {
-    "word": "tồn khoản đảm bảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reserve deposit"
-      }
-    ]
-  },
-  {
-    "word": "tồn kho",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[hàng hoá] còn đọng lại trong kho, chưa được sử dụng hoặc tiêu thụ hết\nVí dụ:\n- hàng tồn kho \n - tiêu thụ nốt số sản phẩm còn tồn kho"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tồn kho\n- Còn lại trong kho : Hàng tồn kho."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tồn kho\n*adj\n-in stock\n@Chuyên ngành kinh tế\n-inventory\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stocking"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tồn kho\n* adj\n- in stock"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "storage, inventory; in stock"
-      }
-    ]
-  },
-  {
-    "word": "tồn thất ngẫu nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loss contingency"
-      }
-    ]
-  },
-  {
-    "word": "tồ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ ra vụng về, khờ khạo, thiếu hẳn sự nhanh nhẹn, linh hoạt, không tương xứng với tuổi hay vóc người\nVí dụ:\n- thằng bé rất tồ \n - càng lớn càng tồ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tồ [tồ]\n-simpleton, simple-minded"
-      }
-    ]
-  },
-  {
-    "word": "tồi tàn trạng từ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in a bad state, in bad condition"
-      }
-    ]
-  },
-  {
-    "word": "tồn tại một ngày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monohemerous"
-      }
-    ]
-  },
-  {
-    "word": "tồn khoản ngắn hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-money at short notice"
-      }
-    ]
-  },
-  {
-    "word": "tồn trữ chữa cháy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-safety bank"
-      }
-    ]
-  },
-  {
-    "word": "tồn tại đồng thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-coexistence\n-to coexist"
-      }
-    ]
-  },
-  {
-    "word": "tồn khoản đặc biệt bổ sung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-supplementary special deposits"
+        "dict_definition": "@Chuyên ngành kinh tế\n-reserve stock"
       }
     ]
   },
@@ -356,46 +81,33 @@
     ]
   },
   {
-    "word": "tồn sinh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to survive"
-      }
-    ]
-  },
-  {
-    "word": "tồn đọng",
+    "word": "tồn giữ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "còn lưu lại, đọng lại, chưa được xử lí, giải quyết\nVí dụ:\n- tồn đọng vốn \n - nợ tồn đọng"
-      },
+        "dict_definition": "còn giữ lại, không để mất đi, hoặc không giao nộp\nVí dụ:\n- ngôi chùa tồn giữ được nhiều di vật cổ"
+      }
+    ]
+  },
+  {
+    "word": "tồn",
+    "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@tồn đọng [tồn đọng]\n-(thương mại) unsold\n-(nghĩa bóng) shortcomings\n@Chuyên ngành kinh tế\n-backlog"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đang còn lại, chưa được giải quyết, xử lí, v.v.\nVí dụ:\n- hàng tồn \n - còn tồn lại nhiều đơn từ chưa giải quyết"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "unsold; shortcomings"
+        "dict_definition": "to exist, remain"
       }
     ]
   },
   {
-    "word": "tồn kho (hàng hóa...)",
+    "word": "tồn cảo",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-store"
-      }
-    ]
-  },
-  {
-    "word": "tồn khoản bảo đảm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reserve deposit"
+        "dict_name": "VNEDICT",
+        "dict_definition": "posthumous writings"
       }
     ]
   },
@@ -429,47 +141,85 @@
     ]
   },
   {
-    "word": "tồn giữ",
+    "word": "tồn khoản đảm bảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-reserve deposit"
+      }
+    ]
+  },
+  {
+    "word": "tồn kho",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "còn giữ lại, không để mất đi, hoặc không giao nộp\nVí dụ:\n- ngôi chùa tồn giữ được nhiều di vật cổ"
+        "dict_definition": "[hàng hoá] còn đọng lại trong kho, chưa được sử dụng hoặc tiêu thụ hết\nVí dụ:\n- hàng tồn kho \n - tiêu thụ nốt số sản phẩm còn tồn kho"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tồn kho\n- Còn lại trong kho : Hàng tồn kho."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồn kho\n*adj\n-in stock\n@Chuyên ngành kinh tế\n-inventory\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stocking"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tồn kho\n* adj\n- in stock"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "storage, inventory; in stock"
       }
     ]
   },
   {
-    "word": "tồn khoản chứng khoán",
+    "word": "tồn tại xã hội",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "toàn bộ nói chung những điều kiện sinh hoạt vật chất của xã hội"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tồn tại xã hội\n- Toàn bộ những điều kiện sinh hoạt vật chất của xã hội: Tồn tại xã hội quyết định ý thức xã hội của con người."
+      }
+    ]
+  },
+  {
+    "word": "tồn đơn hàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stock deposit"
+        "dict_definition": "@Chuyên ngành kinh tế\n-backlog of orders"
       }
     ]
   },
   {
-    "word": "tồn khoản, tiền gửi ngắn hạn",
+    "word": "tồn số đơn hàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-short deposit"
+        "dict_definition": "@Chuyên ngành kinh tế\n-backlog of orders"
       }
     ]
   },
   {
-    "word": "tồn kho trung bình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-average stock"
-      }
-    ]
-  },
-  {
-    "word": "tồn trong kho",
+    "word": "tồn kho (hàng hóa...)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-store"
+      }
+    ]
+  },
+  {
+    "word": "tồn tại một ngày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monohemerous"
       }
     ]
   },
@@ -479,6 +229,46 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-ending inventory"
+      }
+    ]
+  },
+  {
+    "word": "tồn thất ngẫu nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-loss contingency"
+      }
+    ]
+  },
+  {
+    "word": "tồn trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồn trữ [tồn trữ]\n*động từ\n-to store, to keep, to conserve\n@Chuyên ngành kinh tế\n-inventory\n-store"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to keep, preserve, conserve, store"
+      }
+    ]
+  },
+  {
+    "word": "tồn tại duy nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unique existence"
+      }
+    ]
+  },
+  {
+    "word": "tồn khoản bảo đảm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-reserve deposit"
       }
     ]
   },
@@ -496,11 +286,112 @@
     ]
   },
   {
-    "word": "tồn số đơn hàng",
+    "word": "tồn khoản chứng khoán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-backlog of orders"
+        "dict_definition": "@Chuyên ngành kinh tế\n-stock deposit"
+      }
+    ]
+  },
+  {
+    "word": "tồn sinh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to survive"
+      }
+    ]
+  },
+  {
+    "word": "tồn kho trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-average stock"
+      }
+    ]
+  },
+  {
+    "word": "tồng quát",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "general, comprehensive"
+      }
+    ]
+  },
+  {
+    "word": "tồi tàn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quá tồi, đến mức thảm hại\nVí dụ:\n- chiếc xe đạp tồi tàn \n - căn nhà tồi tàn, rách nát"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tồi tàn\n- Xấu lắm: Nhà cửa tồi tàn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồi tàn [tồi tàn]\n*trạng từ\n-in a bad state, in bad condition"
+      }
+    ]
+  },
+  {
+    "word": "tồng số vốn đầu tư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-amount of capital invested"
+      }
+    ]
+  },
+  {
+    "word": "tồn vong",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tồn tại hay diệt vong, còn hay mất [thường nói về vận mệnh của dân tộc, đất nước]\nVí dụ:\n- sự tồn vong của một dân tộc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tồn vong\n- Sự tồn tại và sự tiêu diệt: Sự tồn vong của dân tộc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồn vong [tồn vong]\n*động từ\n-exist and perish"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to appear and disappear, exist and not exist, be and not be"
+      }
+    ]
+  },
+  {
+    "word": "tồn khoản ngắn hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-money at short notice"
+      }
+    ]
+  },
+  {
+    "word": "tồn tại lâu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to last long, survive for long"
+      }
+    ]
+  },
+  {
+    "word": "tồn dư",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "còn lại, thừa lại do chưa được giải quyết, xử lí hết\nVí dụ:\n- tồn dư kinh phí cuối năm"
       }
     ]
   },
@@ -514,11 +405,71 @@
     ]
   },
   {
-    "word": "tồn tích",
+    "word": "tồng ngồng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không mặc quần áo, mà trần truồng, để lộ hết các chỗ kín của thân thể ra, trông khó coi\nVí dụ:\n- đứa trẻ đứng tắm tồng ngồng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có vóc dáng như người lớn, không còn bé nhỏ gì nữa [hàm ý chê]\nVí dụ:\n- lớn tồng ngồng rồi mà vẫn chưa biết làm gì"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tồng ngồng\n- Nói dáng trần truồng lồ lộ ra: Lên sáu rồi mà còn ở truồng tồng ngồng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồng ngồng [tồng ngồng]\n*tính từ\n-large, big\n-stark naked"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to save, savings"
+        "dict_definition": "large, big; naked"
+      }
+    ]
+  },
+  {
+    "word": "tồn trong kho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-store"
+      }
+    ]
+  },
+  {
+    "word": "tồn kho quá nhiều",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-overstocks"
+      }
+    ]
+  },
+  {
+    "word": "tồn trữ chữa cháy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-safety bank"
+      }
+    ]
+  },
+  {
+    "word": "tồn cổ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tồn cổ\n- Giữ gìn những di tích xưa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồn cổ [tồn cổ]\n*danh từ\n-preserve the antiquities"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "conservative, preserving the past"
       }
     ]
   },
@@ -528,6 +479,59 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "stub"
+      }
+    ]
+  },
+  {
+    "word": "tồn khoản kinh phí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-expenditure fund deposit"
+      }
+    ]
+  },
+  {
+    "word": "tồn đơn hàng chồng chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-heavy backlog"
+      }
+    ]
+  },
+  {
+    "word": "tồn lưu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "còn lại do chưa được xử lí hoặc phân giải hết [thường nói về cái độc hại]\nVí dụ:\n- thuốc bảo vệ thực vật tồn lưu trên rau quả"
+      }
+    ]
+  },
+  {
+    "word": "tồn khoản tín thác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trust deposit"
+      }
+    ]
+  },
+  {
+    "word": "tồn đọng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "còn lưu lại, đọng lại, chưa được xử lí, giải quyết\nVí dụ:\n- tồn đọng vốn \n - nợ tồn đọng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồn đọng [tồn đọng]\n-(thương mại) unsold\n-(nghĩa bóng) shortcomings\n@Chuyên ngành kinh tế\n-backlog"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unsold; shortcomings"
       }
     ]
   },
@@ -553,42 +557,92 @@
     ]
   },
   {
-    "word": "tồn lưu",
+    "word": "tồn ứ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "còn lại do chưa được xử lí hoặc phân giải hết [thường nói về cái độc hại]\nVí dụ:\n- thuốc bảo vệ thực vật tồn lưu trên rau quả"
+        "dict_definition": "tồn nhiều đến mức ứ lại, không di chuyển hoặc không giải quyết được\nVí dụ:\n- hàng tồn ứ trong kho"
       }
     ]
   },
   {
-    "word": "tồn kho bình chuẩn",
+    "word": "tồn kho tiêu chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-buffer stock"
+        "dict_definition": "@Chuyên ngành kinh tế\n-model stock"
       }
     ]
   },
   {
-    "word": "tồn trữ",
+    "word": "tồn quỹ sẵn có",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tồn trữ [tồn trữ]\n*động từ\n-to store, to keep, to conserve\n@Chuyên ngành kinh tế\n-inventory\n-store"
-      },
+        "dict_definition": "@Chuyên ngành kinh tế\n-available balance"
+      }
+    ]
+  },
+  {
+    "word": "tồn tại lâu nữa",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to keep, preserve, conserve, store"
+        "dict_definition": "to not last much longer"
       }
     ]
   },
   {
-    "word": "tồn khoản tín thác",
+    "word": "tồn khoản, tiền gửi ngắn hạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trust deposit"
+        "dict_definition": "@Chuyên ngành kinh tế\n-short deposit"
+      }
+    ]
+  },
+  {
+    "word": "tồn quĩ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tồn quỹ"
+      }
+    ]
+  },
+  {
+    "word": "tồn đơn hàng chồng chất (quá nhiều)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-heavy backlog"
+      }
+    ]
+  },
+  {
+    "word": "tồn khố",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "storage"
+      }
+    ]
+  },
+  {
+    "word": "tồn khoản đặc biệt bổ sung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-supplementary special deposits"
+      }
+    ]
+  },
+  {
+    "word": "tồi tàn trạng từ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in a bad state, in bad condition"
       }
     ]
   },
@@ -610,85 +664,6 @@
     ]
   },
   {
-    "word": "tồn dư",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "còn lại, thừa lại do chưa được giải quyết, xử lí hết\nVí dụ:\n- tồn dư kinh phí cuối năm"
-      }
-    ]
-  },
-  {
-    "word": "tồi tàn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quá tồi, đến mức thảm hại\nVí dụ:\n- chiếc xe đạp tồi tàn \n - căn nhà tồi tàn, rách nát"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tồi tàn\n- Xấu lắm: Nhà cửa tồi tàn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tồi tàn [tồi tàn]\n*trạng từ\n-in a bad state, in bad condition"
-      }
-    ]
-  },
-  {
-    "word": "tồn kho dự trữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reserve stock"
-      }
-    ]
-  },
-  {
-    "word": "tồn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đang còn lại, chưa được giải quyết, xử lí, v.v.\nVí dụ:\n- hàng tồn \n - còn tồn lại nhiều đơn từ chưa giải quyết"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to exist, remain"
-      }
-    ]
-  },
-  {
-    "word": "tồn tại xã hội",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "toàn bộ nói chung những điều kiện sinh hoạt vật chất của xã hội"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tồn tại xã hội\n- Toàn bộ những điều kiện sinh hoạt vật chất của xã hội: Tồn tại xã hội quyết định ý thức xã hội của con người."
-      }
-    ]
-  },
-  {
-    "word": "tồn kho tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-model stock"
-      }
-    ]
-  },
-  {
-    "word": "tồn cảo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "posthumous writings"
-      }
-    ]
-  },
-  {
     "word": "tồn mệnh",
     "definitions": [
       {
@@ -698,55 +673,80 @@
     ]
   },
   {
-    "word": "tồn khoản",
+    "word": "tồi tệ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "số tiền chưa sử dụng thuộc một khoản nào đó, được phản ánh trên sổ sách kế toán\nVí dụ:\n- tồn khoản quỹ tiền mặt"
+        "dict_definition": "tồi, tệ đến mức như không còn có thể nào hơn thế nữa\nVí dụ:\n- sức khoẻ ngày một tồi tệ \n - đối xử tồi tệ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tồi tệ\n- tt. 1. Hết sức kém so với yêu cầu: Tình hình sinh hoạt quá tồi tệ  Kết quả học hành rất tồi tệ  sức khoẻ ngày một tồi tệ. 2. Xấu xa, tệ hại về nhân cách: đối xử với nhau tồi tệ  con người tồi tệ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tồn khoản [tồn khoản]\n*danh từ\n-deposit (in bank)"
+        "dict_definition": "@tồi tệ\n*adj\n-mean, bad"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tồi tệ\n* adj\n- mean, bad"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(bank) deposit"
+        "dict_definition": "mean, bad"
       }
     ]
   },
   {
-    "word": "tồn trữ (vật tư)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stockpiling"
-      }
-    ]
-  },
-  {
-    "word": "tồn tại lâu nữa",
+    "word": "tồn tích",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to not last much longer"
+        "dict_definition": "to save, savings"
       }
     ]
   },
   {
-    "word": "tồn đơn hàng chồng chất",
+    "word": "tồ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ ra vụng về, khờ khạo, thiếu hẳn sự nhanh nhẹn, linh hoạt, không tương xứng với tuổi hay vóc người\nVí dụ:\n- thằng bé rất tồ \n - càng lớn càng tồ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tồ [tồ]\n-simpleton, simple-minded"
+      }
+    ]
+  },
+  {
+    "word": "tồn tại đồng thời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-heavy backlog"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-coexistence\n-to coexist"
       }
     ]
   },
   {
-    "word": "tồn khố",
+    "word": "tồn trữ dự phòng, dự trữ",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "storage"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stockpile"
+      }
+    ]
+  },
+  {
+    "word": "tồng tộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả lối nói năng có gì cũng đem tuôn ra hết một cách nhanh nhảu, dễ dàng\nVí dụ:\n- có gì nói tồng tộc ra hết \n - khai tồng tộc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như tòng tọc"
       }
     ]
   }

@@ -1,53 +1,5 @@
 [
   {
-    "word": "chừng độ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mức độ\nVí dụ:\n- ăn tiêu có chừng độ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng được xác định một cách đại khái\nVí dụ:\n- tuổi chừng độ đôi mươi \n - từ đây đến đó chừng độ dăm cây số"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chừng độ [chừng độ]\n-about;  around;  approximately"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "about, around, approximately"
-      }
-    ]
-  },
-  {
-    "word": "chừa bỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chừa bỏ [chừa bỏ]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "chừng minh thư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-character reference"
-      }
-    ]
-  },
-  {
-    "word": "chừa mặt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to avoid"
-      }
-    ]
-  },
-  {
     "word": "chừng nào",
     "definitions": [
       {
@@ -65,27 +17,54 @@
     ]
   },
   {
-    "word": "chừ",
+    "word": "chừng mười",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ten or so"
+      }
+    ]
+  },
+  {
+    "word": "chừng đó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "that time, then"
+      }
+    ]
+  },
+  {
+    "word": "chừng mực",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giờ, bây giờ\nVí dụ:\n- từ sáng tới chừ \n - đi mô chừ?"
+        "dict_definition": "mức độ vừa phải\nVí dụ:\n- ăn tiêu có chừng mực \n - làm gì cũng phải có chừng mực nhất định"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chừ\n- trgt. Từ miền Nam có nghĩa là Bây giờ: Xưa con ta, chừ ra vợ bậu (cd)."
+        "dict_definition": "@chừng mực\n- d. Mức độ vừa phải. Ăn tiêu có chừng mực. Đúng trong một chừng mực nào đó."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chừ\n-Now"
+        "dict_definition": "@chừng mực\n*noun\n-Measure, just measure, moderation\n=ăn tiêu có chừng mực\n+to spend to a just measure\n=đúng trong một chừng mực nào đó\n+right in some measure\n=uống rượu có chừng mực\n+to drink in moderation"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chừ\n- Now"
+        "dict_definition": "@chừng mực\n* noun\n- Measure, just measure, moderation\n=ăn tiêu có chừng mực+to spend to a just measure\n=đúng trong một chừng mực nào đó+right in some measure\n=uống rượu có chừng mực+to drink in moderation"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "now"
+        "dict_definition": "moderate; moderation"
+      }
+    ]
+  },
+  {
+    "word": "chừa khoảng trống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-casting off"
       }
     ]
   },
@@ -111,11 +90,20 @@
     ]
   },
   {
-    "word": "chừng một giờ tôi mới đi",
+    "word": "chừng minh thư",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "I’m not going until about 1:00"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-character reference"
+      }
+    ]
+  },
+  {
+    "word": "chừa bỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chừa bỏ [chừa bỏ]\n-xem"
       }
     ]
   },
@@ -129,20 +117,83 @@
     ]
   },
   {
-    "word": "chừng đó",
+    "word": "chừng một giờ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "that time, then"
+        "dict_definition": "about one o’clock"
       }
     ]
   },
   {
-    "word": "chừa trống",
+    "word": "chừa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bớt lại, dành riêng ra một phần nào đó cho việc khác\nVí dụ:\n- tôi chừa một khoảng trống để lấy lối đi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trừ ra, không động chạm đến, vì kiêng nể hoặc khinh ghét\nVí dụ:\n- chửi tất, không chừa một ai \n - chừa cái mặt nó ra! \n - \"Rằng: Hồng nhan tự thuở xưa, Cái điều bạc mệnh có chừa ai đâu.\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bỏ hẳn không tiếp tục nữa, vì biết là không hay hoặc có hại\nVí dụ:\n- chừa cái tật nói leo \n - đánh chết cái nết không chừa (tng)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chừa\n- 1 đgt. 1. Dành riêng ra một phần: Xây nhà phải chừa lối đi 2. Không đụng chạm đến: Nó trêu mọi người, không chừa một ai; Biết tay ăn mặn thì chừa, đừng trêu mẹ mướp mà xơ có ngày (cd).\n- 2 đgt. 1. Bỏ một thói xấu: Chừa thuốc lá; Đánh cho chết, nết không chừa 2. Không tiếp tục phạm lần nữa: Lần trước bị đau, lần sau thì chừa (tng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chừa\n*verb\n-To leave\n=chừa lối ra vào\n+to leave room for going in and out\n=chừa lề hơi rộng\n+to leave a little too big margin\n-To leave alone, to spare\n=chừa mặt nó ra\n+leave him alone\n=chẳng chừa một ai\n+to spare no one\n-To give up\n=chừa rượu\n+to give up drinking\n=đánh chết nết không chừa\n+The leopard cannot change its spot; What is bred in the bone will come out in the flesh"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chừa\n* verb\n- To leave\n=chừa lối ra vào+to leave room for going in and out\n=chừa lề hơi rộng+to leave a little too big margin\n-To leave alone, to spare\n=chừa mặt nó ra+leave him alone\n=chẳng chừa một ai+to spare no one\n-To give up\n=chừa rượu+to give up drinking\n=đánh chết nết không chừa+The leopard cannot change its spot; What is bred in the bone will come out in the flesh"
+      }
+    ]
+  },
+  {
+    "word": "chừng một chục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-blank"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ten or so"
+      }
+    ]
+  },
+  {
+    "word": "chừng một giờ tôi mới đi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "I’m not going until about 1:00"
+      }
+    ]
+  },
+  {
+    "word": "chừ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "giờ, bây giờ\nVí dụ:\n- từ sáng tới chừ \n - đi mô chừ?"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chừ\n- trgt. Từ miền Nam có nghĩa là Bây giờ: Xưa con ta, chừ ra vợ bậu (cd)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chừ\n-Now"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chừ\n- Now"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "now"
       }
     ]
   },
@@ -180,101 +231,32 @@
     ]
   },
   {
-    "word": "chừng một giờ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "about one o’clock"
-      }
-    ]
-  },
-  {
-    "word": "chừng một chục",
+    "word": "chừa trống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ten or so"
+        "dict_definition": "@Chuyên ngành kinh tế\n-blank"
       }
     ]
   },
   {
-    "word": "chừng gần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "approximately, almost, about"
-      }
-    ]
-  },
-  {
-    "word": "chừng mười",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ten or so"
-      }
-    ]
-  },
-  {
-    "word": "chừa",
+    "word": "chừng độ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bớt lại, dành riêng ra một phần nào đó cho việc khác\nVí dụ:\n- tôi chừa một khoảng trống để lấy lối đi"
+        "dict_definition": "như mức độ\nVí dụ:\n- ăn tiêu có chừng độ"
       },
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trừ ra, không động chạm đến, vì kiêng nể hoặc khinh ghét\nVí dụ:\n- chửi tất, không chừa một ai \n - chừa cái mặt nó ra! \n - \"Rằng: Hồng nhan tự thuở xưa, Cái điều bạc mệnh có chừa ai đâu.\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bỏ hẳn không tiếp tục nữa, vì biết là không hay hoặc có hại\nVí dụ:\n- chừa cái tật nói leo \n - đánh chết cái nết không chừa (tng)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chừa\n- 1 đgt. 1. Dành riêng ra một phần: Xây nhà phải chừa lối đi 2. Không đụng chạm đến: Nó trêu mọi người, không chừa một ai; Biết tay ăn mặn thì chừa, đừng trêu mẹ mướp mà xơ có ngày (cd).\n- 2 đgt. 1. Bỏ một thói xấu: Chừa thuốc lá; Đánh cho chết, nết không chừa 2. Không tiếp tục phạm lần nữa: Lần trước bị đau, lần sau thì chừa (tng)."
+        "dict_definition": "khoảng được xác định một cách đại khái\nVí dụ:\n- tuổi chừng độ đôi mươi \n - từ đây đến đó chừng độ dăm cây số"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chừa\n*verb\n-To leave\n=chừa lối ra vào\n+to leave room for going in and out\n=chừa lề hơi rộng\n+to leave a little too big margin\n-To leave alone, to spare\n=chừa mặt nó ra\n+leave him alone\n=chẳng chừa một ai\n+to spare no one\n-To give up\n=chừa rượu\n+to give up drinking\n=đánh chết nết không chừa\n+The leopard cannot change its spot; What is bred in the bone will come out in the flesh"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chừa\n* verb\n- To leave\n=chừa lối ra vào+to leave room for going in and out\n=chừa lề hơi rộng+to leave a little too big margin\n-To leave alone, to spare\n=chừa mặt nó ra+leave him alone\n=chẳng chừa một ai+to spare no one\n-To give up\n=chừa rượu+to give up drinking\n=đánh chết nết không chừa+The leopard cannot change its spot; What is bred in the bone will come out in the flesh"
-      }
-    ]
-  },
-  {
-    "word": "chừng mực",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mức độ vừa phải\nVí dụ:\n- ăn tiêu có chừng mực \n - làm gì cũng phải có chừng mực nhất định"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chừng mực\n- d. Mức độ vừa phải. Ăn tiêu có chừng mực. Đúng trong một chừng mực nào đó."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chừng mực\n*noun\n-Measure, just measure, moderation\n=ăn tiêu có chừng mực\n+to spend to a just measure\n=đúng trong một chừng mực nào đó\n+right in some measure\n=uống rượu có chừng mực\n+to drink in moderation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chừng mực\n* noun\n- Measure, just measure, moderation\n=ăn tiêu có chừng mực+to spend to a just measure\n=đúng trong một chừng mực nào đó+right in some measure\n=uống rượu có chừng mực+to drink in moderation"
+        "dict_definition": "@chừng độ [chừng độ]\n-about;  around;  approximately"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "moderate; moderation"
-      }
-    ]
-  },
-  {
-    "word": "chừng ấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chừng ấy [chừng ấy]\n-then;  at that time\n-so;  that;  thus;  that amount;  that quantity"
+        "dict_definition": "about, around, approximately"
       }
     ]
   },
@@ -288,11 +270,29 @@
     ]
   },
   {
-    "word": "chừa khoảng trống",
+    "word": "chừng gần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "approximately, almost, about"
+      }
+    ]
+  },
+  {
+    "word": "chừng ấy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-casting off"
+        "dict_definition": "@chừng ấy [chừng ấy]\n-then;  at that time\n-so;  that;  thus;  that amount;  that quantity"
+      }
+    ]
+  },
+  {
+    "word": "chừa mặt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to avoid"
       }
     ]
   }

@@ -1,19 +1,337 @@
 [
   {
-    "word": "cháy bỏng",
+    "word": "cháo (nước) đá tinh thể",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nóng như thiêu như đốt, như bỏng cả da thịt\nVí dụ:\n- trưa hè cháy bỏng \n - nụ hôn cháy bỏng (b)"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry"
       }
     ]
   },
   {
-    "word": "cháy không hoàn toàn (nhiều khói)",
+    "word": "cháy đẳng áp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-smoulder\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-smoulder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant pressure combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant pressure combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháo hoa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cháo nấu bằng hạt gạo nguyên, khi chín nhừ hạt gạo nở to ra, trông như bông hoa"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháo hoa\n-Plain rice gruel, plain rice soup"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháo hoa\n- Plain rice gruel, plain rice soup"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "plain rice gruel, plain rice soup"
+      }
+    ]
+  },
+  {
+    "word": "cháo kiều mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-porridge"
+      }
+    ]
+  },
+  {
+    "word": "chát lỏng được làm lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cooled liquid\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cooled liquid"
+      }
+    ]
+  },
+  {
+    "word": "cháu ruột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháu ruột [cháu ruột]\n*danh từ\n-grandchild, nephew, niece"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nephew, niece (one’s brother’s or sister’s child)"
+      }
+    ]
+  },
+  {
+    "word": "chánh án",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người đứng đầu một toà án\nVí dụ:\n- chánh án toà án nhân dân tối cao"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chánh án\n- dt. Người đứng đầu của một toà án: chánh án toà án nhân dân."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chánh án\n*noun\n-Tribunal president\n=ngồi ghế chánh án\n+to preside over a tribunal\n@Chuyên ngành kinh tế\n-tranch cd"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chánh án\n* noun\n- Tribunal president\n=ngồi ghế chánh án+to preside over a tribunal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "judge"
+      }
+    ]
+  },
+  {
+    "word": "cháy thứ cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-secondary combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-secondary combustion"
+      }
+    ]
+  },
+  {
+    "word": "chán ngán",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không còn thấy thích thú, thiết tha gì nữa, vì đã quá thất vọng\nVí dụ:\n- ông chán ngán cuộc sống bon chen"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán ngán\n-Utterly discontented\n=hắn đã chán ngán cuộc đời của người lính đánh thuê\n+he was utterly discontented with his life as a mercenary\n=tiếng thở dài chán ngán\n+a sigh of utter discontent"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán ngán\n- Utterly discontented\n=hắn đã chán ngán cuộc đời của người lính đánh thuê+he was utterly discontented with his life as a mercenary\n=tiếng thở dài chán ngán+a sigh of utter discontent"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bored, (sick and) tired of, utterly discontented"
+      }
+    ]
+  },
+  {
+    "word": "cháy đẳng tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant volume combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant volume combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháu nội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháu nội\n-Child of one\"s son, paternal grandchild"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháu nội\n- Child of one's son, paternal grandchild"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "child of one’s son, paternal grandchild"
+      }
+    ]
+  },
+  {
+    "word": "chán quá",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "how annoying, how bothersome, what a pain"
+      }
+    ]
+  },
+  {
+    "word": "chánh lộ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chánh Lộ\n- (phường) tx. Quảng Ngãi, t. Quảng Ngãi"
+      }
+    ]
+  },
+  {
+    "word": "chánh an",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chánh An\n- (xã) h. Mang Thít, t. Vĩnh Long"
+      }
+    ]
+  },
+  {
+    "word": "cháy giếng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pit fire\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pit fire"
+      }
+    ]
+  },
+  {
+    "word": "cháo ám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháo ám\n-Fish gruel"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháo ám\n- Fish gruel"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fish gruel"
+      }
+    ]
+  },
+  {
+    "word": "chánh sứ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chánh sứ\n-Chief envoy (of a feudal mission)\n=Nguyễn Du đã từng được cử làm chánh sứ sang Trung Quốc\n+Nguyen Du was once appointed chief envoy to a mission to China\n-như công sứ"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chánh sứ\n- Chief envoy (of a feudal mission)\n=Nguyễn Du đã từng được cử làm chánh sứ sang Trung Quốc+Nguyen Du was once appointed chief envoy to a mission to China\n- như công sứ"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "chief envoy (of a feudal mission)"
+      }
+    ]
+  },
+  {
+    "word": "cháy rụi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to completely burn"
+      }
+    ]
+  },
+  {
+    "word": "cháy được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flammable\n-ignitable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flammable\n-ignitable"
+      }
+    ]
+  },
+  {
+    "word": "cháy tự phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spontaneous combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spontaneous combustion"
+      }
+    ]
+  },
+  {
+    "word": "chách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chách [chách]"
+      }
+    ]
+  },
+  {
+    "word": "cháo ăn liền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-packet soup"
+      }
+    ]
+  },
+  {
+    "word": "chát dính bám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bonding agent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bonding agent"
+      }
+    ]
+  },
+  {
+    "word": "chánh phú hoà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chánh Phú Hoà\n- (xã) h. Bến Cát, t. Bình Dương"
+      }
+    ]
+  },
+  {
+    "word": "chán chết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán chết\n-Boring to death"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán chết\n- Boring to death"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "boring to death"
+      }
+    ]
+  },
+  {
+    "word": "cháy hoàn toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-comburation\n-complete combustion\n-perfect combustion\n@Chuyên ngành kỹ thuật\n-comburation\n-complete combustion\n-perfect combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháy dưới mặt đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-underground fire\n@Chuyên ngành kỹ thuật\n-underground fire"
+      }
+    ]
+  },
+  {
+    "word": "chán đời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán đời\n-To be tired of living"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán đời\n- To be tired of living"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tired of life, tired of living"
       }
     ]
   },
@@ -27,38 +345,67 @@
     ]
   },
   {
-    "word": "cháo ngũ cốc nấu nhừ",
+    "word": "cháu ngoại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cooked cereal"
+        "dict_definition": "@cháu ngoại\n-Child of one\"s daughter, maternal grandchild"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháu ngoại\n- Child of one's daughter, maternal grandchild"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "child of one’s daughter, maternal grandchild"
       }
     ]
   },
   {
-    "word": "chái nhà lưng vòm",
+    "word": "cháy nám",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hipped end\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hipped end"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to burn"
       }
     ]
   },
   {
-    "word": "chái nhà",
+    "word": "chánh tham sự",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hip\n-hip of roof\n-lean-to\n-wing\n@Chuyên ngành kỹ thuật\n-hip\n-hip of roof\n-lean-to\n-wing"
+        "dict_definition": "@Chuyên ngành kinh tế\n-tranch cd"
       }
     ]
   },
   {
-    "word": "cháy tự phát",
+    "word": "cháy thông thường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spontaneous combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spontaneous combustion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal combustion"
+      }
+    ]
+  },
+  {
+    "word": "chát xít",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chát đến mức lưỡi như bị se lại, xít lại, không còn nuốt được\nVí dụ:\n- chuối xanh ăn chát xít"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chát xít\n-Shockingly acrid"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chát xít\n- Shockingly acrid"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shockingly acrid"
       }
     ]
   },
@@ -96,77 +443,44 @@
     ]
   },
   {
-    "word": "cháy túi",
+    "word": "chái",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hết sạch tiền, không còn đồng nào trong túi\nVí dụ:\n- tôi đang cháy túi đây \n - nó đã cháy túi rồi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@cháy túi\n- đg. (thgt.). Hết sạch tiền, cạn túi tiền. Canh bạc cháy túi."
+        "dict_definition": "gian nhỏ lợp một mái tiếp vào đầu hồi, theo lối kiến trúc dân gian"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cháy túi\n-(thông tục) Cleaned out\n=canh bạc cháy túi\n+to be cleaned out in a gambling session\n@Chuyên ngành kinh tế\n-broke"
+        "dict_definition": "@chái\n*noun\n-Lean-to\n=nhà ba gian hai chái\n+a house consisting of three compartments and two lean-tos"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháy túi\n- (thông tục) Cleaned out\n=canh bạc cháy túi+to be cleaned out in a gambling session"
+        "dict_definition": "@chái\n* noun\n- Lean-to\n=nhà ba gian hai chái+a house consisting of three compartments and two lean-tos"
       }
     ]
   },
   {
-    "word": "chái áp tường",
+    "word": "chán nản",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-penthouse\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-penthouse"
-      }
-    ]
-  },
-  {
-    "word": "chánh phủ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "government"
-      }
-    ]
-  },
-  {
-    "word": "cháy tràn ngập toàn bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-total flooding\n@Chuyên ngành kỹ thuật\n-total flooding"
-      }
-    ]
-  },
-  {
-    "word": "chánh mỹ",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cảm thấy rất chán và nản lòng, không còn muốn tiếp tục nữa, không còn thiết gì nữa\nVí dụ:\n- chán nản công việc \n - thất bại nhiều nên cũng thấy chán nản"
+      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chánh Mỹ\n- (xã) tx. Thủ Dầu Một, t. Bình Dương"
-      }
-    ]
-  },
-  {
-    "word": "cháo kiều mạch",
-    "definitions": [
+        "dict_definition": "@chán nản\n- đgt. Ngã lòng, không thiết làm gì: Dù thất bại cũng không chán nản."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-porridge"
-      }
-    ]
-  },
-  {
-    "word": "cháo mì với sữa",
-    "definitions": [
+        "dict_definition": "@chán nản\n*adj\n-Disheartened, dispirited\n=khó khăn chưa mấy mà đã chán nản thì còn làm gì được\n+if one is disheartened by not so many difficulties, nothing can get done"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-frumenty\n-furmenty"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán nản\n* adj\n- Disheartened, dispirited\n=khó khăn chưa mấy mà đã chán nản thì còn làm gì được+if one is disheartened by not so many difficulties, nothing can get done"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "disheartened, dispirited; to discourage, depress"
       }
     ]
   },
@@ -196,109 +510,11 @@
     ]
   },
   {
-    "word": "cháy trụi",
+    "word": "cháy hỏng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cháy trụi [cháy trụi]\n-burn up completely, burn down"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "burn up completely, burn down"
-      }
-    ]
-  },
-  {
-    "word": "chánh trương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người được giáo dân cử ra để giúp linh mục cai quản việc của Công giáo trong một xứ đạo"
-      }
-    ]
-  },
-  {
-    "word": "cháo đá tinh thể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry"
-      }
-    ]
-  },
-  {
-    "word": "chánh sở cứu hỏa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fire chief"
-      }
-    ]
-  },
-  {
-    "word": "chánh tham sự",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tranch cd"
-      }
-    ]
-  },
-  {
-    "word": "chát lỏng được làm lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cooled liquid\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cooled liquid"
-      }
-    ]
-  },
-  {
-    "word": "cháy lan hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fully developed fire\n@Chuyên ngành kỹ thuật\n-fully developed fire"
-      }
-    ]
-  },
-  {
-    "word": "cháy dưới mặt đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-underground fire\n@Chuyên ngành kỹ thuật\n-underground fire"
-      }
-    ]
-  },
-  {
-    "word": "cháy bất thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-abnormal combustion\n@Chuyên ngành kỹ thuật\n-abnormal combustion"
-      }
-    ]
-  },
-  {
-    "word": "cháo quẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháo quẩy\n-Finger - shaped soufle\" batter"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháo quẩy\n- Finger - shaped soufle' batter"
-      }
-    ]
-  },
-  {
-    "word": "chát dính bám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bonding agent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bonding agent"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-burn out\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-burn out"
       }
     ]
   },
@@ -308,182 +524,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "son, male child"
-      }
-    ]
-  },
-  {
-    "word": "chán nhắt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wearisome, monotonous"
-      }
-    ]
-  },
-  {
-    "word": "cháy địa chỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Burned Address (BIA)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Burned Address (BIA)"
-      }
-    ]
-  },
-  {
-    "word": "cháo ám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháo ám\n-Fish gruel"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháo ám\n- Fish gruel"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fish gruel"
-      }
-    ]
-  },
-  {
-    "word": "cháo lòng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cháo nấu bằng gạo với nước luộc lòng lợn, có cho thêm lòng và tiết lợn, ăn kèm gia vị"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "màu trắng đục nhờ nhờ như màu nước cháo lòng, do từ màu trắng vì bẩn mà ngả sang\nVí dụ:\n- chiếc áo màu cháo lòng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháo lòng [cháo lòng]\n*danh từ\n-pig\"s tripes soup\n-dirty, greasy"
-      }
-    ]
-  },
-  {
-    "word": "cháu đích tôn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cháu trai trưởng bên nội\nVí dụ:\n- ông bà đã có cháu đích tôn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháu đích tôn\n-Eldest son of one\"s eldest son"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháu đích tôn\n- Eldest son of one's eldest son"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "eldest son of one’s eldest son"
-      }
-    ]
-  },
-  {
-    "word": "cháy sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ablaze\n-blaze up\n-flaming\n@Chuyên ngành kỹ thuật\n-ablaze\n-blaze up\n-flaming"
-      }
-    ]
-  },
-  {
-    "word": "chán chường",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chán đến mức không còn thiết tha, thích thú gì nữa vì đã quá thất vọng\nVí dụ:\n- vẻ mặt chán chường"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác chán đến mức không còn thiết tha, thích thú gì nữa vì đã quá thất vọng\nVí dụ:\n- Tôi đã chán chường cái cảnh này lắm rồi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán chường\n*adj & verb\n-(To be) embittered, (to be) weary\n=tâm trạng chán chường\n+an embittered heart\n=chán chường cuộc sống cũ\n+to be weary with the life in the old times"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán chường\n* adj & verb\n- (To be) embittered, (to be) weary\n=tâm trạng chán chường+an embittered heart\n=chán chường cuộc sống cũ+to be weary with the life in the old times"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tired of, sick of"
-      }
-    ]
-  },
-  {
-    "word": "chán bứ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán bứ\n-Entirely satiated with"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán bứ\n- Entirely satiated with"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "entirely satiated with"
-      }
-    ]
-  },
-  {
-    "word": "cháy nổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-detonating combustion\n-knocking combustion\n@Chuyên ngành kỹ thuật\n-detonating combustion\n-knocking combustion"
-      }
-    ]
-  },
-  {
-    "word": "chán mớ đời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chán đến mức không chịu nổi, muốn vứt bỏ hết [dùng để tỏ ý bực mình về một việc gì]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán mớ đời [chán mớ đời]\n-what a bore!; what a nuisance!"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "what a bore!, what a nuisance!"
-      }
-    ]
-  },
-  {
-    "word": "cháu dâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháu dâu\n-Wife of one\"s grandson\n-Wife of one\"s nephew"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháu dâu\n- Wife of one's grandson\n-Wife of one's nephew"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wife of one’s grandson-wife of one’s nephew"
-      }
-    ]
-  },
-  {
-    "word": "chán ăn, biếng ăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anorectic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anorectic"
       }
     ]
   },
@@ -521,329 +561,36 @@
     ]
   },
   {
-    "word": "cháy thứ cấp",
+    "word": "cháo quẩy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-secondary combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-secondary combustion"
-      }
-    ]
-  },
-  {
-    "word": "chán chết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán chết\n-Boring to death"
+        "dict_definition": "@cháo quẩy\n-Finger - shaped soufle\" batter"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán chết\n- Boring to death"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "boring to death"
+        "dict_definition": "@cháo quẩy\n- Finger - shaped soufle' batter"
       }
     ]
   },
   {
-    "word": "cháu rể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháu rể\n-Husband of one\"s grandaughter\n-Husband of one\"s niece"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháu rể\n- Husband of one's grandaughter\n-Husband of one's niece"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "husband of one’s granddaughter, husband of one’s niece"
-      }
-    ]
-  },
-  {
-    "word": "cháu ruột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháu ruột [cháu ruột]\n*danh từ\n-grandchild, nephew, niece"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nephew, niece (one’s brother’s or sister’s child)"
-      }
-    ]
-  },
-  {
-    "word": "chán ngắt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hết sức buồn tẻ, nhạt nhẽo, không một chút gì hấp dẫn\nVí dụ:\n- câu chuyện chán ngắt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán ngắt\n-Boring, dull, wearisome, tedious\n=Bài thuyết trình chán ngắt\n+A tedious lecture"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán ngắt\n- Boring, dull, wearisome, tedious\n=Bài thuyết trình chán ngắt+A tedious lecture"
-      }
-    ]
-  },
-  {
-    "word": "cháy không hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-incomplete combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-incomplete combustion"
-      }
-    ]
-  },
-  {
-    "word": "cháy phun",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spray combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spray combustion"
-      }
-    ]
-  },
-  {
-    "word": "cháy nắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháy nắng [cháy nắng]\n-suntanned;  sunburnt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sunburn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sunburn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "suntanned, sunburned"
-      }
-    ]
-  },
-  {
-    "word": "chán vạn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhiều lắm, đến mức không kể hết được\nVí dụ:\n- \"Có tiền chán vạn người hầu, Có bấc có dầu chán vạn người khêu.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chán vạn\n- t. (kng.). (dùng phụ trước d.). Nhiều lắm, đến mức không kể hết được. Còn chán vạn việc phải làm. Có chán vạn nghề trên đời."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán vạn\n-Oodles of, oceans of\n=còn chán vạn việc phải làm\n+there are still oodles of things to do"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán vạn\n- Oodles of, oceans of\n=còn chán vạn việc phải làm+there are still oodles of things to do"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very many"
-      }
-    ]
-  },
-  {
-    "word": "chát xít",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chát đến mức lưỡi như bị se lại, xít lại, không còn nuốt được\nVí dụ:\n- chuối xanh ăn chát xít"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chát xít\n-Shockingly acrid"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chát xít\n- Shockingly acrid"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shockingly acrid"
-      }
-    ]
-  },
-  {
-    "word": "chánh án liên bang",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "federal judge"
-      }
-    ]
-  },
-  {
-    "word": "cháy đốt mồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-fire\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-fire"
-      }
-    ]
-  },
-  {
-    "word": "cháy không có ngọn lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flameless combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flameless combustion"
-      }
-    ]
-  },
-  {
-    "word": "chán ghét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chán và ghét đến mức không thể chịu đựng thêm nữa [thường là với chế độ hoặc tình trạng cuộc sống]\nVí dụ:\n- tôi chán ghét anh \n - chán ghét cuộc sống đơn điệu, tẻ nhạt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chán ghét\n- đgt. Chán và ghét đến mức không muốn chịu đựng nữa mà muốn quay lưng hoặc phản ứng lại: chán ghét cuộc chiến tranh phi nghĩa  chán ghét thói đời đua tranh danh lợi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán ghét\n*verb\n-To dislike, to disrelish"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán ghét\n* verb\n- To dislike, to disrelish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to dislike, hate, be sick of, detest"
-      }
-    ]
-  },
-  {
-    "word": "cháy rực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blaze\n-flaming\n@Chuyên ngành kỹ thuật\n-blaze\n-flaming"
-      }
-    ]
-  },
-  {
-    "word": "chán ngán",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không còn thấy thích thú, thiết tha gì nữa, vì đã quá thất vọng\nVí dụ:\n- ông chán ngán cuộc sống bon chen"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán ngán\n-Utterly discontented\n=hắn đã chán ngán cuộc đời của người lính đánh thuê\n+he was utterly discontented with his life as a mercenary\n=tiếng thở dài chán ngán\n+a sigh of utter discontent"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán ngán\n- Utterly discontented\n=hắn đã chán ngán cuộc đời của người lính đánh thuê+he was utterly discontented with his life as a mercenary\n=tiếng thở dài chán ngán+a sigh of utter discontent"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bored, (sick and) tired of, utterly discontented"
-      }
-    ]
-  },
-  {
-    "word": "cháo ăn liền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-packet soup"
-      }
-    ]
-  },
-  {
-    "word": "cháy đẳng áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant pressure combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant pressure combustion"
-      }
-    ]
-  },
-  {
-    "word": "chát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có vị như vị của chuối xanh\nVí dụ:\n- chuối còn xanh nên chát \n - \"Con cò đậu cọc bờ ao, Ăn sung sung chát, ăn đào đào chua.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng một vật cứng đập mạnh vào một vật cứng khác, nghe chói tai\nVí dụ:\n- đập đánh chát một cái"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng trống chầu trong hát ả đào\nVí dụ:\n- tom tom tom chát"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[âm thanh] to và vang dội mạnh, gây cảm giác rất khó chịu\nVí dụ:\n- tiếng búa đập chát tai \n - nghe chát cả óc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chát\n- 1 tt. Có vị như vị của chuối xanh: Ăn muối còn hơn ăn chuối chát (tng).\n- 2 tht. 1. Tiếng hai vật cứng đập vào nhau: Bỗng nghe thấy tiếng \"chát\" ở tầng dưới 2. Tiếng dùi trống chầu đánh vào tang trống: Tom tom, chát chát."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chát\n-Clang\n=đập đánh chát một cái\n+to hit with a clang\n=tiếng búa đập trên đe nghe chan chát\n+the hammer strikes the anvil with a series of loud clangs*adj\n-Acrid\n=quả chuối xanh chát lè\n+the green banana tastes pretty acrid\n=chuối chát\n+green banana (used as vegetable)\n=rượu chát\n+red grape wine\n=chan chát\n+rather acrid\n-nói về âm thanh) Clanging\n=\n+úng nổ chát tai\n@Chuyên ngành kinh tế\n-acerb\n-austere"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chát\n- Clang\n=đập đánh chát một cái+to hit with a clang\n=tiếng búa đập trên đe nghe chan chát+the hammer strikes the anvil with a series of loud clangs\n* adj\n- Acrid\n=quả chuối xanh chát lè+the green banana tastes pretty acrid\n=chuối chát+green banana (used as vegetable)\n=rượu chát+red grape wine\n=chan chát+rather acrid\n- nói về âm thanh) Clanging\n=súng nổ chát tai"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "acrid, acidy"
-      }
-    ]
-  },
-  {
-    "word": "cháy thành vạ lây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháy thành vạ lây [cháy thành vạ lây]\n-disaster spreads; bystanders get hurt"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "disaster spreads, bystanders get hurt"
-      }
-    ]
-  },
-  {
-    "word": "chánh lộ",
+    "word": "chánh hội",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chánh Lộ\n- (phường) tx. Quảng Ngãi, t. Quảng Ngãi"
-      }
-    ]
-  },
-  {
-    "word": "cháy được",
-    "definitions": [
+        "dict_definition": "@Chánh Hội\n- (xã) h. Mang Thít, t. Vĩnh Long"
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flammable\n-ignitable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flammable\n-ignitable"
-      }
-    ]
-  },
-  {
-    "word": "cháy nhỏ giọt",
-    "definitions": [
+        "dict_definition": "@chánh hội\n-Speaker of the rural assembly (ở Bắc bộ, thời thuộc Pháp)"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-drip"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chánh hội\n- Speaker of the rural assembly (ở Bắc bộ, thời thuộc Pháp)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "speaker of the rural assembly"
       }
     ]
   },
@@ -857,47 +604,86 @@
     ]
   },
   {
-    "word": "cháo lá đa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cháo đổ vào lá đa cuốn lại, cài vào một cái que cắm ở đầu đường, ngày trước dùng để cúng cô hồn, thường trong dịp tết Trung Nguyên, theo đạo Phật"
-      }
-    ]
-  },
-  {
-    "word": "cháu họ",
+    "word": "cháo đá muối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cháu họ [cháu họ]\n*danh từ\n-one\"s cousin\"s children, first cousin once removed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-brine slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-brine slurry"
       }
     ]
   },
   {
-    "word": "cháy giếng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pit fire\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pit fire"
-      }
-    ]
-  },
-  {
-    "word": "cháy dưới hầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gob fire\n@Chuyên ngành kỹ thuật\n-gob fire"
-      }
-    ]
-  },
-  {
-    "word": "chán quá",
+    "word": "chánh án liên bang",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "how annoying, how bothersome, what a pain"
+        "dict_definition": "federal judge"
+      }
+    ]
+  },
+  {
+    "word": "cháy bất thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-abnormal combustion\n@Chuyên ngành kỹ thuật\n-abnormal combustion"
+      }
+    ]
+  },
+  {
+    "word": "chánh trương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người được giáo dân cử ra để giúp linh mục cai quản việc của Công giáo trong một xứ đạo"
+      }
+    ]
+  },
+  {
+    "word": "cháy lộ rõ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fully developed fire\n@Chuyên ngành kỹ thuật\n-fully developed fire"
+      }
+    ]
+  },
+  {
+    "word": "cháu đích tôn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cháu trai trưởng bên nội\nVí dụ:\n- ông bà đã có cháu đích tôn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháu đích tôn\n-Eldest son of one\"s eldest son"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháu đích tôn\n- Eldest son of one's eldest son"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "eldest son of one’s eldest son"
+      }
+    ]
+  },
+  {
+    "word": "chánh tiết",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chánh tiết\n- trinh tiết, ngay thẳng"
+      }
+    ]
+  },
+  {
+    "word": "cháy chậm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slow burning\n-slow combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slow burning\n-slow combustion"
       }
     ]
   },
@@ -955,11 +741,290 @@
     ]
   },
   {
+    "word": "cháy trong không khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-combustion in free air\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-combustion in free air"
+      }
+    ]
+  },
+  {
+    "word": "chán nhắt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wearisome, monotonous"
+      }
+    ]
+  },
+  {
+    "word": "cháu rể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháu rể\n-Husband of one\"s grandaughter\n-Husband of one\"s niece"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháu rể\n- Husband of one's grandaughter\n-Husband of one's niece"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "husband of one’s granddaughter, husband of one’s niece"
+      }
+    ]
+  },
+  {
+    "word": "cháy nhỏ giọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-drip"
+      }
+    ]
+  },
+  {
+    "word": "cháy tràn ngập toàn bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-total flooding\n@Chuyên ngành kỹ thuật\n-total flooding"
+      }
+    ]
+  },
+  {
+    "word": "chán chường",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chán đến mức không còn thiết tha, thích thú gì nữa vì đã quá thất vọng\nVí dụ:\n- vẻ mặt chán chường"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cảm giác chán đến mức không còn thiết tha, thích thú gì nữa vì đã quá thất vọng\nVí dụ:\n- Tôi đã chán chường cái cảnh này lắm rồi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán chường\n*adj & verb\n-(To be) embittered, (to be) weary\n=tâm trạng chán chường\n+an embittered heart\n=chán chường cuộc sống cũ\n+to be weary with the life in the old times"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán chường\n* adj & verb\n- (To be) embittered, (to be) weary\n=tâm trạng chán chường+an embittered heart\n=chán chường cuộc sống cũ+to be weary with the life in the old times"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tired of, sick of"
+      }
+    ]
+  },
+  {
+    "word": "chánh nghĩa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chánh Nghĩa\n- (xã) tx. Thủ Dầu Một, t. Bình Dương"
+      }
+    ]
+  },
+  {
+    "word": "chán bứ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán bứ\n-Entirely satiated with"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán bứ\n- Entirely satiated with"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "entirely satiated with"
+      }
+    ]
+  },
+  {
     "word": "cháo lú",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "món cháo dưới âm phủ cho hồn ma sắp đầu thai ăn để quên đi kiếp trước, theo mê tín"
+      }
+    ]
+  },
+  {
+    "word": "chát béo hỗn hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fat blend"
+      }
+    ]
+  },
+  {
+    "word": "cháu hư tại bà",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "if a child is bad, it is the mother’s fault (proverb)"
+      }
+    ]
+  },
+  {
+    "word": "chánh tổng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chánh tổng\n-Canton chief"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chánh tổng\n- Canton chief"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "canton chief"
+      }
+    ]
+  },
+  {
+    "word": "cháy ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-external combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-external combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháy trụi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháy trụi [cháy trụi]\n-burn up completely, burn down"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "burn up completely, burn down"
+      }
+    ]
+  },
+  {
+    "word": "chánh chủ khảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chánh chủ khảo\n-Chairman of the examiners\" board"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chánh chủ khảo\n- Chairman of the examiners' board"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "chairman of examination board"
+      }
+    ]
+  },
+  {
+    "word": "chát lỏng thực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-true liquid\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-true liquid"
+      }
+    ]
+  },
+  {
+    "word": "cháy bùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháy bùng\n-Blaze up, burst into flame[s]"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháy bùng\n- Blaze up, burst into flame[s]"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to blaze up, burst into flame(s), go up in flames"
+      }
+    ]
+  },
+  {
+    "word": "chán ăn, biếng ăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anorectic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anorectic"
+      }
+    ]
+  },
+  {
+    "word": "cháy sáng cháy rực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-blazing\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-blazing"
+      }
+    ]
+  },
+  {
+    "word": "cháy không hoàn toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-partial combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-partial combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháy không hoàn toàn (nhiều khói)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-smoulder\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-smoulder"
+      }
+    ]
+  },
+  {
+    "word": "cháo ngũ cốc nấu nhừ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cooked cereal"
+      }
+    ]
+  },
+  {
+    "word": "cháy túi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hết sạch tiền, không còn đồng nào trong túi\nVí dụ:\n- tôi đang cháy túi đây \n - nó đã cháy túi rồi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@cháy túi\n- đg. (thgt.). Hết sạch tiền, cạn túi tiền. Canh bạc cháy túi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháy túi\n-(thông tục) Cleaned out\n=canh bạc cháy túi\n+to be cleaned out in a gambling session\n@Chuyên ngành kinh tế\n-broke"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháy túi\n- (thông tục) Cleaned out\n=canh bạc cháy túi+to be cleaned out in a gambling session"
+      }
+    ]
+  },
+  {
+    "word": "chánh sở cứu hỏa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fire chief"
       }
     ]
   },
@@ -973,11 +1038,160 @@
     ]
   },
   {
-    "word": "cháy trong không khí",
+    "word": "chát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có vị như vị của chuối xanh\nVí dụ:\n- chuối còn xanh nên chát \n - \"Con cò đậu cọc bờ ao, Ăn sung sung chát, ăn đào đào chua.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng một vật cứng đập mạnh vào một vật cứng khác, nghe chói tai\nVí dụ:\n- đập đánh chát một cái"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng trống chầu trong hát ả đào\nVí dụ:\n- tom tom tom chát"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[âm thanh] to và vang dội mạnh, gây cảm giác rất khó chịu\nVí dụ:\n- tiếng búa đập chát tai \n - nghe chát cả óc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chát\n- 1 tt. Có vị như vị của chuối xanh: Ăn muối còn hơn ăn chuối chát (tng).\n- 2 tht. 1. Tiếng hai vật cứng đập vào nhau: Bỗng nghe thấy tiếng \"chát\" ở tầng dưới 2. Tiếng dùi trống chầu đánh vào tang trống: Tom tom, chát chát."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chát\n-Clang\n=đập đánh chát một cái\n+to hit with a clang\n=tiếng búa đập trên đe nghe chan chát\n+the hammer strikes the anvil with a series of loud clangs*adj\n-Acrid\n=quả chuối xanh chát lè\n+the green banana tastes pretty acrid\n=chuối chát\n+green banana (used as vegetable)\n=rượu chát\n+red grape wine\n=chan chát\n+rather acrid\n-nói về âm thanh) Clanging\n=\n+úng nổ chát tai\n@Chuyên ngành kinh tế\n-acerb\n-austere"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chát\n- Clang\n=đập đánh chát một cái+to hit with a clang\n=tiếng búa đập trên đe nghe chan chát+the hammer strikes the anvil with a series of loud clangs\n* adj\n- Acrid\n=quả chuối xanh chát lè+the green banana tastes pretty acrid\n=chuối chát+green banana (used as vegetable)\n=rượu chát+red grape wine\n=chan chát+rather acrid\n- nói về âm thanh) Clanging\n=súng nổ chát tai"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "acrid, acidy"
+      }
+    ]
+  },
+  {
+    "word": "chái nhà",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-combustion in free air\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-combustion in free air"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hip\n-hip of roof\n-lean-to\n-wing\n@Chuyên ngành kỹ thuật\n-hip\n-hip of roof\n-lean-to\n-wing"
+      }
+    ]
+  },
+  {
+    "word": "chánh mỹ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chánh Mỹ\n- (xã) tx. Thủ Dầu Một, t. Bình Dương"
+      }
+    ]
+  },
+  {
+    "word": "cháy đen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháy đen\n-Carbonized"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháy đen\n- Carbonized"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "carbonized"
+      }
+    ]
+  },
+  {
+    "word": "chán ghét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chán và ghét đến mức không thể chịu đựng thêm nữa [thường là với chế độ hoặc tình trạng cuộc sống]\nVí dụ:\n- tôi chán ghét anh \n - chán ghét cuộc sống đơn điệu, tẻ nhạt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chán ghét\n- đgt. Chán và ghét đến mức không muốn chịu đựng nữa mà muốn quay lưng hoặc phản ứng lại: chán ghét cuộc chiến tranh phi nghĩa  chán ghét thói đời đua tranh danh lợi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán ghét\n*verb\n-To dislike, to disrelish"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán ghét\n* verb\n- To dislike, to disrelish"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to dislike, hate, be sick of, detest"
+      }
+    ]
+  },
+  {
+    "word": "chát tai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chát tai\n-Ear\n-piercing; strident."
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chát tai\n-Ear\n-piercing; strident."
+      }
+    ]
+  },
+  {
+    "word": "cháy lan hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fully developed fire\n@Chuyên ngành kỹ thuật\n-fully developed fire"
+      }
+    ]
+  },
+  {
+    "word": "chán ăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán ăn\n-Lose appetite\n=Chứng chán ăn\n+Anorexia\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fastidium\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fastidium"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán ăn\n- Lose appetite\n=Chứng chán ăn+Anorexia"
+      }
+    ]
+  },
+  {
+    "word": "chát chúa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[âm thanh] to và vang dội, nghe rất chói tai\nVí dụ:\n- tiếng búa nện chát chúa"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chát chúa [chát chúa]\n-sharp"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sharp"
+      }
+    ]
+  },
+  {
+    "word": "chái nhà kho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tranch cd"
       }
     ]
   },
@@ -991,6 +1205,196 @@
     ]
   },
   {
+    "word": "chái nhà lưng vòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hipped end\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hipped end"
+      }
+    ]
+  },
+  {
+    "word": "cháy tại chỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-in situ combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-in situ combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháy địa chỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Burned Address (BIA)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Burned Address (BIA)"
+      }
+    ]
+  },
+  {
+    "word": "cháo đá tinh thể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry"
+      }
+    ]
+  },
+  {
+    "word": "cháu gái",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "daughter, female child"
+      }
+    ]
+  },
+  {
+    "word": "cháo lá đa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cháo đổ vào lá đa cuốn lại, cài vào một cái que cắm ở đầu đường, ngày trước dùng để cúng cô hồn, thường trong dịp tết Trung Nguyên, theo đạo Phật"
+      }
+    ]
+  },
+  {
+    "word": "cháy trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-internal combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-internal combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháu dâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháu dâu\n-Wife of one\"s grandson\n-Wife of one\"s nephew"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháu dâu\n- Wife of one's grandson\n-Wife of one's nephew"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wife of one’s grandson-wife of one’s nephew"
+      }
+    ]
+  },
+  {
+    "word": "cháy theo tỷ lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stoichiometric combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stoichiometric combustion"
+      }
+    ]
+  },
+  {
+    "word": "chánh thức",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "official"
+      }
+    ]
+  },
+  {
+    "word": "cháy sém",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháy sém\n-Licked up by the flame; singed\n=Bàn là nóng quá sơ mi lại cháy sém rồi\n+The iron is too hot, the shirt has been singed"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháy sém\n- Licked up by the flame; singed\n=Bàn là nóng quá sơ mi lại cháy sém rồi+The iron is too hot, the shirt has been singed"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "licked up by the flame"
+      }
+    ]
+  },
+  {
+    "word": "chán ngắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hết sức buồn tẻ, nhạt nhẽo, không một chút gì hấp dẫn\nVí dụ:\n- câu chuyện chán ngắt"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán ngắt\n-Boring, dull, wearisome, tedious\n=Bài thuyết trình chán ngắt\n+A tedious lecture"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán ngắt\n- Boring, dull, wearisome, tedious\n=Bài thuyết trình chán ngắt+A tedious lecture"
+      }
+    ]
+  },
+  {
+    "word": "cháy không hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-incomplete combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-incomplete combustion"
+      }
+    ]
+  },
+  {
+    "word": "cháo suông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-gruel\n-water gruel"
+      }
+    ]
+  },
+  {
+    "word": "cháo mì với sữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-frumenty\n-furmenty"
+      }
+    ]
+  },
+  {
+    "word": "cháo lão",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cháo cho người ốm [nói khái quát]\nVí dụ:\n- hằng ngày phải lo thuốc men, cháo lão cho ông cụ"
+      }
+    ]
+  },
+  {
+    "word": "cháy đốt mồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-fire\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-fire"
+      }
+    ]
+  },
+  {
+    "word": "cháy nắng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháy nắng [cháy nắng]\n-suntanned;  sunburnt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sunburn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sunburn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "suntanned, sunburned"
+      }
+    ]
+  },
+  {
     "word": "chán mắt",
     "definitions": [
       {
@@ -1000,11 +1404,284 @@
     ]
   },
   {
+    "word": "cháo lòng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cháo nấu bằng gạo với nước luộc lòng lợn, có cho thêm lòng và tiết lợn, ăn kèm gia vị"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "màu trắng đục nhờ nhờ như màu nước cháo lòng, do từ màu trắng vì bẩn mà ngả sang\nVí dụ:\n- chiếc áo màu cháo lòng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháo lòng [cháo lòng]\n*danh từ\n-pig\"s tripes soup\n-dirty, greasy"
+      }
+    ]
+  },
+  {
+    "word": "chán tai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán tai\n-Have one\"s ears jaded by\n=Chúng đã nghe chán tai những lời hứa đó rồi\n+Our ears have been jaded by these promises"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán tai\n- Have one's ears jaded by\n=Chúng đã nghe chán tai những lời hứa đó rồi+Our ears have been jaded by these promises"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "boring to listen to"
+      }
+    ]
+  },
+  {
+    "word": "cháo đá và nước ngọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice fresh water slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice fresh water slurry"
+      }
+    ]
+  },
+  {
+    "word": "cháu chắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cháu và chắt, trong một gia đình, một dòng họ [nói khái quát]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@cháu chắt\n- dt. Thế hệ kế tiếp sau đời con trở đi nói chung: cháu chắt cũng về mừng thọ cụ đông đủ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháu chắt\n*noun\n-Grandchildren and great-grandchildren; posterity"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cháu chắt\n* noun\n- Grandchildren and great-grandchildren; posterity"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "grandchildren and great-grandchildren, posterity"
+      }
+    ]
+  },
+  {
+    "word": "cháy hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-comburation\n-out-burn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-comburation\n-out-burn"
+      }
+    ]
+  },
+  {
+    "word": "cháy bỏng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nóng như thiêu như đốt, như bỏng cả da thịt\nVí dụ:\n- trưa hè cháy bỏng \n - nụ hôn cháy bỏng (b)"
+      }
+    ]
+  },
+  {
+    "word": "cháy thành vạ lây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháy thành vạ lây [cháy thành vạ lây]\n-disaster spreads; bystanders get hurt"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "disaster spreads, bystanders get hurt"
+      }
+    ]
+  },
+  {
+    "word": "chánh phạm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chánh phạm\n*noun\n-principal author of a crime"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chánh phạm\n* noun\n-principal author of a crime"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "principal author of a crime"
+      }
+    ]
+  },
+  {
+    "word": "cháy chợ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[chợ] hết sạch loại hàng nào đó, không còn để bán ra trong khi còn nhiều người muốn mua\nVí dụ:\n- ba mươi Tết, hoa đào cháy chợ"
+      }
+    ]
+  },
+  {
+    "word": "chán phè",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chán đến mức không thể chịu nổi được nữa, vì chẳng thấy có gì hay cả\nVí dụ:\n- nói chuyện với họ chán phè"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán phè\n-Disgusting, ikksome, humdrum\n=Lao vào những việc chán phè\n+To be engaged in humdrum tasks"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán phè\n- Disgusting, ikksome, humdrum\n=Lao vào những việc chán phè+To be engaged in humdrum tasks"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dull, monotonous"
+      }
+    ]
+  },
+  {
+    "word": "chát lè",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chát lắm, như không thể nuốt nổi\nVí dụ:\n- \"Thà rằng ăn nửa quả hồng, Còn hơn ăn cả chùm sung chát lè.\" (Cdao)"
+      }
+    ]
+  },
+  {
+    "word": "chán ngấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán ngấy\n-Be fed up with"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán ngấy\n- Be fed up with"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be fed up with"
+      }
+    ]
+  },
+  {
+    "word": "chán mớ đời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chán đến mức không chịu nổi, muốn vứt bỏ hết [dùng để tỏ ý bực mình về một việc gì]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán mớ đời [chán mớ đời]\n-what a bore!; what a nuisance!"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "what a bore!, what a nuisance!"
+      }
+    ]
+  },
+  {
+    "word": "chán chê",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[làm việc gì] rất nhiều, rất lâu, đến mức chán, không thiết nữa\nVí dụ:\n- ăn một bữa chán chê \n - chờ chán chê mà chẳng thấy ai đến"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán chê\n-More than enough\n=ăn uống chán chê mà không hết\n+we ate more than enough but there was still plenty of food left\n=chờ chán chê mà chẳng thấy anh ta đến\n+we waited longer than enough without seeing him show up"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán chê\n- More than enough\n=ăn uống chán chê mà không hết+we ate more than enough but there was still plenty of food left\n=chờ chán chê mà chẳng thấy anh ta đến+we waited longer than enough without seeing him show up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "satisfied, plentiful"
+      }
+    ]
+  },
+  {
+    "word": "cháy phun",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spray combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-spray combustion"
+      }
+    ]
+  },
+  {
+    "word": "chánh quyền",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "political power, authority, government"
+      }
+    ]
+  },
+  {
+    "word": "cháu họ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cháu họ [cháu họ]\n*danh từ\n-one\"s cousin\"s children, first cousin once removed"
+      }
+    ]
+  },
+  {
+    "word": "cháo ngô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hominy\n-mush\n-samp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-hominy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-hominy"
+      }
+    ]
+  },
+  {
+    "word": "cháo đặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-loblolly"
+      }
+    ]
+  },
+  {
     "word": "cháo đóng gói",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-packet soup"
+      }
+    ]
+  },
+  {
+    "word": "cháy sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ablaze\n-blaze up\n-flaming\n@Chuyên ngành kỹ thuật\n-ablaze\n-blaze up\n-flaming"
+      }
+    ]
+  },
+  {
+    "word": "chái áp tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-penthouse\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-penthouse"
       }
     ]
   },
@@ -1046,198 +1723,20 @@
     ]
   },
   {
-    "word": "cháy ngoài",
+    "word": "cháy dưới hầm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-external combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-external combustion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gob fire\n@Chuyên ngành kỹ thuật\n-gob fire"
       }
     ]
   },
   {
-    "word": "chán ăn",
+    "word": "cháy nổ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chán ăn\n-Lose appetite\n=Chứng chán ăn\n+Anorexia\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fastidium\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fastidium"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán ăn\n- Lose appetite\n=Chứng chán ăn+Anorexia"
-      }
-    ]
-  },
-  {
-    "word": "cháy theo tỷ lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stoichiometric combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stoichiometric combustion"
-      }
-    ]
-  },
-  {
-    "word": "cháo (nước) đá tinh thể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice crystal slurry"
-      }
-    ]
-  },
-  {
-    "word": "chái nhà kho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tranch cd"
-      }
-    ]
-  },
-  {
-    "word": "cháo ngô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hominy\n-mush\n-samp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-hominy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-hominy"
-      }
-    ]
-  },
-  {
-    "word": "chát lỏng thực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-true liquid\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-true liquid"
-      }
-    ]
-  },
-  {
-    "word": "cháo đá muối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-brine slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice-brine slurry"
-      }
-    ]
-  },
-  {
-    "word": "cháu gái",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "daughter, female child"
-      }
-    ]
-  },
-  {
-    "word": "chán nản",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cảm thấy rất chán và nản lòng, không còn muốn tiếp tục nữa, không còn thiết gì nữa\nVí dụ:\n- chán nản công việc \n - thất bại nhiều nên cũng thấy chán nản"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chán nản\n- đgt. Ngã lòng, không thiết làm gì: Dù thất bại cũng không chán nản."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán nản\n*adj\n-Disheartened, dispirited\n=khó khăn chưa mấy mà đã chán nản thì còn làm gì được\n+if one is disheartened by not so many difficulties, nothing can get done"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán nản\n* adj\n- Disheartened, dispirited\n=khó khăn chưa mấy mà đã chán nản thì còn làm gì được+if one is disheartened by not so many difficulties, nothing can get done"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "disheartened, dispirited; to discourage, depress"
-      }
-    ]
-  },
-  {
-    "word": "chánh sứ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chánh sứ\n-Chief envoy (of a feudal mission)\n=Nguyễn Du đã từng được cử làm chánh sứ sang Trung Quốc\n+Nguyen Du was once appointed chief envoy to a mission to China\n-như công sứ"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chánh sứ\n- Chief envoy (of a feudal mission)\n=Nguyễn Du đã từng được cử làm chánh sứ sang Trung Quốc+Nguyen Du was once appointed chief envoy to a mission to China\n- như công sứ"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "chief envoy (of a feudal mission)"
-      }
-    ]
-  },
-  {
-    "word": "chát chúa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[âm thanh] to và vang dội, nghe rất chói tai\nVí dụ:\n- tiếng búa nện chát chúa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chát chúa [chát chúa]\n-sharp"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sharp"
-      }
-    ]
-  },
-  {
-    "word": "cháy bùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháy bùng\n-Blaze up, burst into flame[s]"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháy bùng\n- Blaze up, burst into flame[s]"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to blaze up, burst into flame(s), go up in flames"
-      }
-    ]
-  },
-  {
-    "word": "chán tai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán tai\n-Have one\"s ears jaded by\n=Chúng đã nghe chán tai những lời hứa đó rồi\n+Our ears have been jaded by these promises"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán tai\n- Have one's ears jaded by\n=Chúng đã nghe chán tai những lời hứa đó rồi+Our ears have been jaded by these promises"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "boring to listen to"
-      }
-    ]
-  },
-  {
-    "word": "cháy chậm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slow burning\n-slow combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slow burning\n-slow combustion"
-      }
-    ]
-  },
-  {
-    "word": "cháy đẳng tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant volume combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-constant volume combustion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-detonating combustion\n-knocking combustion\n@Chuyên ngành kỹ thuật\n-detonating combustion\n-knocking combustion"
       }
     ]
   },
@@ -1255,264 +1754,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@chánh văn phòng\n- Chief of the Secretariat\n=chánh văn phòng Bộ nội vụ+the Chief of the Home Ministry Secretariat"
-      }
-    ]
-  },
-  {
-    "word": "cháy đen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháy đen\n-Carbonized"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháy đen\n- Carbonized"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "carbonized"
-      }
-    ]
-  },
-  {
-    "word": "chán phè",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chán đến mức không thể chịu nổi được nữa, vì chẳng thấy có gì hay cả\nVí dụ:\n- nói chuyện với họ chán phè"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán phè\n-Disgusting, ikksome, humdrum\n=Lao vào những việc chán phè\n+To be engaged in humdrum tasks"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán phè\n- Disgusting, ikksome, humdrum\n=Lao vào những việc chán phè+To be engaged in humdrum tasks"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dull, monotonous"
-      }
-    ]
-  },
-  {
-    "word": "cháy lộ rõ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fully developed fire\n@Chuyên ngành kỹ thuật\n-fully developed fire"
-      }
-    ]
-  },
-  {
-    "word": "cháo lão",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cháo cho người ốm [nói khái quát]\nVí dụ:\n- hằng ngày phải lo thuốc men, cháo lão cho ông cụ"
-      }
-    ]
-  },
-  {
-    "word": "chái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gian nhỏ lợp một mái tiếp vào đầu hồi, theo lối kiến trúc dân gian"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chái\n*noun\n-Lean-to\n=nhà ba gian hai chái\n+a house consisting of three compartments and two lean-tos"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chái\n* noun\n- Lean-to\n=nhà ba gian hai chái+a house consisting of three compartments and two lean-tos"
-      }
-    ]
-  },
-  {
-    "word": "chánh tổng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chánh tổng\n-Canton chief"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chánh tổng\n- Canton chief"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "canton chief"
-      }
-    ]
-  },
-  {
-    "word": "chánh án",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người đứng đầu một toà án\nVí dụ:\n- chánh án toà án nhân dân tối cao"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chánh án\n- dt. Người đứng đầu của một toà án: chánh án toà án nhân dân."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chánh án\n*noun\n-Tribunal president\n=ngồi ghế chánh án\n+to preside over a tribunal\n@Chuyên ngành kinh tế\n-tranch cd"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chánh án\n* noun\n- Tribunal president\n=ngồi ghế chánh án+to preside over a tribunal"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "judge"
-      }
-    ]
-  },
-  {
-    "word": "chánh tiết",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chánh tiết\n- trinh tiết, ngay thẳng"
-      }
-    ]
-  },
-  {
-    "word": "cháo đặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loblolly"
-      }
-    ]
-  },
-  {
-    "word": "cháy sém",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháy sém\n-Licked up by the flame; singed\n=Bàn là nóng quá sơ mi lại cháy sém rồi\n+The iron is too hot, the shirt has been singed"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháy sém\n- Licked up by the flame; singed\n=Bàn là nóng quá sơ mi lại cháy sém rồi+The iron is too hot, the shirt has been singed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "licked up by the flame"
-      }
-    ]
-  },
-  {
-    "word": "cháu nội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháu nội\n-Child of one\"s son, paternal grandchild"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháu nội\n- Child of one's son, paternal grandchild"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "child of one’s son, paternal grandchild"
-      }
-    ]
-  },
-  {
-    "word": "cháo suông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-gruel\n-water gruel"
-      }
-    ]
-  },
-  {
-    "word": "chánh chủ khảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chánh chủ khảo\n-Chairman of the examiners\" board"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chánh chủ khảo\n- Chairman of the examiners' board"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "chairman of examination board"
-      }
-    ]
-  },
-  {
-    "word": "cháo hoa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cháo nấu bằng hạt gạo nguyên, khi chín nhừ hạt gạo nở to ra, trông như bông hoa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháo hoa\n-Plain rice gruel, plain rice soup"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháo hoa\n- Plain rice gruel, plain rice soup"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "plain rice gruel, plain rice soup"
-      }
-    ]
-  },
-  {
-    "word": "cháu ngoại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháu ngoại\n-Child of one\"s daughter, maternal grandchild"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháu ngoại\n- Child of one's daughter, maternal grandchild"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "child of one’s daughter, maternal grandchild"
-      }
-    ]
-  },
-  {
-    "word": "cháo đá và nước ngọt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice fresh water slurry\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice fresh water slurry"
-      }
-    ]
-  },
-  {
-    "word": "cháy sáng cháy rực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-blazing\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-blazing"
-      }
-    ]
-  },
-  {
-    "word": "cháy hoàn toàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-comburation\n-complete combustion\n-perfect combustion\n@Chuyên ngành kỹ thuật\n-comburation\n-complete combustion\n-perfect combustion"
       }
     ]
   },
@@ -1538,304 +1779,20 @@
     ]
   },
   {
-    "word": "cháy nám",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to burn"
-      }
-    ]
-  },
-  {
-    "word": "chánh thức",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "official"
-      }
-    ]
-  },
-  {
-    "word": "chánh nghĩa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chánh Nghĩa\n- (xã) tx. Thủ Dầu Một, t. Bình Dương"
-      }
-    ]
-  },
-  {
-    "word": "cháu chắt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cháu và chắt, trong một gia đình, một dòng họ [nói khái quát]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@cháu chắt\n- dt. Thế hệ kế tiếp sau đời con trở đi nói chung: cháu chắt cũng về mừng thọ cụ đông đủ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cháu chắt\n*noun\n-Grandchildren and great-grandchildren; posterity"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cháu chắt\n* noun\n- Grandchildren and great-grandchildren; posterity"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "grandchildren and great-grandchildren, posterity"
-      }
-    ]
-  },
-  {
-    "word": "cháu hư tại bà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "if a child is bad, it is the mother’s fault (proverb)"
-      }
-    ]
-  },
-  {
-    "word": "chánh quyền",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "political power, authority, government"
-      }
-    ]
-  },
-  {
-    "word": "cháy tại chỗ",
+    "word": "cháy rực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-in situ combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-in situ combustion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blaze\n-flaming\n@Chuyên ngành kỹ thuật\n-blaze\n-flaming"
       }
     ]
   },
   {
-    "word": "chánh phú hoà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chánh Phú Hoà\n- (xã) h. Bến Cát, t. Bình Dương"
-      }
-    ]
-  },
-  {
-    "word": "cháy không hoàn toàn",
+    "word": "cháy không có ngọn lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-partial combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-partial combustion"
-      }
-    ]
-  },
-  {
-    "word": "cháy thông thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal combustion"
-      }
-    ]
-  },
-  {
-    "word": "chách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chách [chách]"
-      }
-    ]
-  },
-  {
-    "word": "chánh hội",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chánh Hội\n- (xã) h. Mang Thít, t. Vĩnh Long"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chánh hội\n-Speaker of the rural assembly (ở Bắc bộ, thời thuộc Pháp)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chánh hội\n- Speaker of the rural assembly (ở Bắc bộ, thời thuộc Pháp)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "speaker of the rural assembly"
-      }
-    ]
-  },
-  {
-    "word": "chát tai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chát tai\n-Ear\n-piercing; strident."
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chát tai\n-Ear\n-piercing; strident."
-      }
-    ]
-  },
-  {
-    "word": "chát béo hỗn hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fat blend"
-      }
-    ]
-  },
-  {
-    "word": "chánh an",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chánh An\n- (xã) h. Mang Thít, t. Vĩnh Long"
-      }
-    ]
-  },
-  {
-    "word": "chánh phạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chánh phạm\n*noun\n-principal author of a crime"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chánh phạm\n* noun\n-principal author of a crime"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "principal author of a crime"
-      }
-    ]
-  },
-  {
-    "word": "chán chê",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[làm việc gì] rất nhiều, rất lâu, đến mức chán, không thiết nữa\nVí dụ:\n- ăn một bữa chán chê \n - chờ chán chê mà chẳng thấy ai đến"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán chê\n-More than enough\n=ăn uống chán chê mà không hết\n+we ate more than enough but there was still plenty of food left\n=chờ chán chê mà chẳng thấy anh ta đến\n+we waited longer than enough without seeing him show up"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán chê\n- More than enough\n=ăn uống chán chê mà không hết+we ate more than enough but there was still plenty of food left\n=chờ chán chê mà chẳng thấy anh ta đến+we waited longer than enough without seeing him show up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "satisfied, plentiful"
-      }
-    ]
-  },
-  {
-    "word": "cháy trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-internal combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-internal combustion"
-      }
-    ]
-  },
-  {
-    "word": "cháy hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-comburation\n-out-burn\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-comburation\n-out-burn"
-      }
-    ]
-  },
-  {
-    "word": "cháy chợ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[chợ] hết sạch loại hàng nào đó, không còn để bán ra trong khi còn nhiều người muốn mua\nVí dụ:\n- ba mươi Tết, hoa đào cháy chợ"
-      }
-    ]
-  },
-  {
-    "word": "cháy hỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-burn out\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-burn out"
-      }
-    ]
-  },
-  {
-    "word": "cháy rụi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to completely burn"
-      }
-    ]
-  },
-  {
-    "word": "chán đời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán đời\n-To be tired of living"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán đời\n- To be tired of living"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tired of life, tired of living"
-      }
-    ]
-  },
-  {
-    "word": "cháy nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flash fire\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flash fire"
-      }
-    ]
-  },
-  {
-    "word": "chán ngấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chán ngấy\n-Be fed up with"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chán ngấy\n- Be fed up with"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be fed up with"
-      }
-    ]
-  },
-  {
-    "word": "chát lè",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chát lắm, như không thể nuốt nổi\nVí dụ:\n- \"Thà rằng ăn nửa quả hồng, Còn hơn ăn cả chùm sung chát lè.\" (Cdao)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flameless combustion\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flameless combustion"
       }
     ]
   },
@@ -1849,6 +1806,49 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@chán chưa\n- How annoying!\n=Chán chưa! Xe lại xẹp lốp!+How annoying! The bike's got a flat tyre!"
+      }
+    ]
+  },
+  {
+    "word": "chán vạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhiều lắm, đến mức không kể hết được\nVí dụ:\n- \"Có tiền chán vạn người hầu, Có bấc có dầu chán vạn người khêu.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chán vạn\n- t. (kng.). (dùng phụ trước d.). Nhiều lắm, đến mức không kể hết được. Còn chán vạn việc phải làm. Có chán vạn nghề trên đời."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chán vạn\n-Oodles of, oceans of\n=còn chán vạn việc phải làm\n+there are still oodles of things to do"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chán vạn\n- Oodles of, oceans of\n=còn chán vạn việc phải làm+there are still oodles of things to do"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very many"
+      }
+    ]
+  },
+  {
+    "word": "cháy nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flash fire\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-flash fire"
+      }
+    ]
+  },
+  {
+    "word": "chánh phủ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "government"
       }
     ]
   }

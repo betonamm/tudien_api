@@ -1,0 +1,708 @@
+[
+  {
+    "word": "ngữ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mức được dùng làm chuẩn, được xác định hoặc giới hạn [thường là theo thói quen]\nVí dụ:\n- tiêu pha phải có ngữ \n - chợ có phiên, tiền có ngữ (tng)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng thời gian ước chừng [thường để so sánh]\nVí dụ:\n- ngữ này sang năm là hoàn thành"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "loại, hạng người hoặc vật [hàm ý coi khinh hoặc chê]\nVí dụ:\n- ngữ mày thì làm được gì! \n - mua làm gì cái ngữ ấy!"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đơn vị ngữ pháp trung gian giữa từ và câu\nVí dụ:\n- ngữ danh từ \n - ngữ cố định"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngôn ngữ [của một nước nào đó; nói tắt]\nVí dụ:\n- Việt ngữ \n - Anh ngữ \n - Hán ngữ hiện đại \n - học sinh chuyên ngữ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ\n- d. 1. Chừng mực: Chi tiêu có ngữ. 2. Người thuộc hạng đáng khinh: Ngữ ấy làm ăn gì được."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ\n-Measure, limit, moderation\n=Chỉ tiêu có ngữ\n+To spend within limits\n=Uống rượu có ngữ\n+To drink in moderation\n-Despicable fellow\n=Ngữ ấy thì có làm nên việc gì\n+That despicable fellow is incapable of getting anything done"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ\n- Measure, limit, moderation\n=Chỉ tiêu có ngữ+To spend within limits\n=Uống rượu có ngữ+To drink in moderation\n-Despicable fellow\n=Ngữ ấy thì có làm nên việc gì+That despicable fellow is incapable of getting anything done"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) measure, limit, moderation; (2) despicable fellow"
+      }
+    ]
+  },
+  {
+    "word": "ngữ học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ học\n-(ít dùng) như ngôn ngữ học"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ học\n- (ít dùng) như ngôn ngữ học"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "linguistics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa thao tác",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "operational semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh đặt tên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-naming context"
+      }
+    ]
+  },
+  {
+    "word": "ngữ vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ vị [ngữ vị]\n-morpheme; moneme; glosseme"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "morpheme, moneme, glosseme"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh ứng dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-application context\n@Lĩnh vực: điện tử & viễn thông\n-Application Context (AC)"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa kí hiệu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "denotational semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ hệ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập hợp những ngôn ngữ có cùng một nguồn gốc, họ ngôn ngữ\nVí dụ:\n- tiếng Việt thuộc ngữ hệ Nam Á"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ hệ\n-family (of languages)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ hệ\n- family (of languages)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "family (of languages)"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-picture grammar"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp rút gọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reductive grammar"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp nhạy ngữ cảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-context-sensitive grammar"
+      }
+    ]
+  },
+  {
+    "word": "ngữ tộc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ tộc [ngữ tộc]\n-language family"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "language family"
+      }
+    ]
+  },
+  {
+    "word": "ngữ ngôn học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ ngôn học\n- Nh. Ngôn ngữ học."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ ngôn học\n-như ngôn ngữ học"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ ngôn học\n- như ngôn ngữ học"
+      }
+    ]
+  },
+  {
+    "word": "ngữ âm học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ môn ngôn ngữ học chuyên nghiên cứu ngữ âm của ngôn ngữ\nVí dụ:\n- ngữ âm học thực nghiệm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ âm học\n- Môn học về cách phát âm một ngôn ngữ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ âm học\n-Phonetics\n@Chuyên ngành kỹ thuật\n-phonetics"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ âm học\n- Phonetics"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "phonetics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cảm nhận về ngôn ngữ\nVí dụ:\n- dựa vào ngữ cảm \n - ngữ cảm tinh tế"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa gọi hàm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-function call semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cơ sở dữ liệu quốc gia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-NDL (national database language)"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp phi ngữ cảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-CF grammar\n-CFG (context-free grammar)"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa tiên đề",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "axiomatic semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ điệu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sự diễn biến của cao độ, cường độ, tốc độ âm thanh của một ngữ đoạn lời nói, biểu thị một số ý nghĩa tình thái bổ sung\nVí dụ:\n- ngữ điệu hỏi \n - phát âm không đúng ngữ điệu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ điệu\n- Cách lên hay xuống giọng và ngắt câu phù hợp đến mức nào đó với tình cảm và ý nghĩa cần biểu đạt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ điệu\n-Intonation\n@Chuyên ngành kỹ thuật\n-intonation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ điệu\n- Intonation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "intonation"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa tham chiếu cấu trúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-structure reference semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngững gì",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "whatever, anything"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh truy cập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-access context"
+      }
+    ]
+  },
+  {
+    "word": "ngữ điệu lời nói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-verbal intonation"
+      }
+    ]
+  },
+  {
+    "word": "ngữ khí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tư tưởng, ý chí, thái độ của người sử dụng ngôn ngữ bộc lộ ra qua cách nói, cách viết\nVí dụ:\n- bài thơ có ngữ khí hào hùng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ khí\n-Tone, intonation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ khí\n- Tone, intonation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tone, intonation"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa học truyền tải chung (ibm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Common Transport Semantics (IBM) (CTS)"
+      }
+    ]
+  },
+  {
+    "word": "ngữ đoạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp nhiều yếu tố bất kì làm thành một đơn vị trong chuỗi lời nói\nVí dụ:\n- ''học sinh'', ''góp gió thành bão'' là những ngữ đoạn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp làm thành một đơn vị ngữ pháp, và bản thân đơn vị này là thành tố của một đơn vị ngữ pháp khác ở bậc cao hơn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ đoạn\n- Nhóm từ tạo thành một đơn vị trong nội bộ một câu, có thể là một danh từ phức hợp (đường chim bay), một thành ngữ (hòa cả làng), một nhóm có giá trị danh từ hoặc động từ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ đoạn\n-(ngôn ngữ) Syntagm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ đoạn\n- (ngôn ngữ) Syntagm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "syntagm"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-generative grammar"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp bất ngữ cảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-CF grammar"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ môn ngôn ngữ học chuyên nghiên cứu hình thái và cấu trúc của từ, cấu trúc của câu"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-standard semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "toàn bộ nói chung những đơn vị đứng trước và đứng sau một đơn vị ngôn ngữ đang xét, quy định ý nghĩa và giá trị cụ thể của đơn vị ngôn ngữ đó trong chuỗi lời nói\nVí dụ:\n- mở rộng ngữ cảnh \n - xác định ngữ cảnh vừa đủ để hiểu nghĩa một từ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ cảnh\n- Toàn thể những câu ở trước và ở sau một yếu tố ngôn ngữ (từ, câu...) soi sáng nghĩa cho yếu tố đó: Căn cứ vào ngữ cảnh mà giải thích đoạn văn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ cảnh\n-Context\n@Chuyên ngành kỹ thuật\n-context\n-context-free"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ cảnh\n- Context"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "context"
+      }
+    ]
+  },
+  {
+    "word": "ngữ âm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hệ thống các âm của một ngôn ngữ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ phận của ngôn ngữ liên quan tới các âm, các quy tắc kết hợp âm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngữ âm học [nói tắt]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ âm\n-Phonic\n=Hệ thống ngữ âm\n+Phonic system (of a language)\n@Chuyên ngành kỹ thuật\n-phonetic"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ âm\n- Phonic\n=Hệ thống ngữ âm+Phonic system (of a language)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "phonic"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh trình bày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-presentation context"
+      }
+    ]
+  },
+  {
+    "word": "ngữ ngôn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ ngôn\n- Tiếng nói của một dân tộc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ ngôn [ngữ ngôn]\n-language"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "language"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ môn ngôn ngữ học chuyên nghiên cứu về ngữ nghĩa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ nghĩa học\n- Bộ phận của ngôn ngữ học nghiên cứu những quan hệ của cái biểu hiện với cái được biểu hiện, những biến hóa của nghĩa, những hiện tượng đồng nghĩa và đa nghĩa, cấu trúc của từ vựng... tức nói chung ngôn ngữ về mặt nghĩa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ nghĩa học [ngữ nghĩa học]\n-semantics\n@Chuyên ngành kỹ thuật\n-semantics"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-input semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nghĩa của từ, câu, v.v. trong ngôn ngữ [nói khái quát]\nVí dụ:\n- ngữ nghĩa của từ \n - phân tích ngữ nghĩa của câu thơ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngữ nghĩa học [nói tắt]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semantic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ vị học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ vị học [ngữ vị học]\n-glossematics"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "glossematics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp theo ngữ cảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-context-sensitive grammar"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa học kiến trúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architectural semantics"
+      }
+    ]
+  },
+  {
+    "word": "ngữ vựng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ vựng [ngữ vựng]\n-xem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "vocabulary (of a language)"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh mặc định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-default context"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh truy xuất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-access context"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh tự do",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-context-free"
+      }
+    ]
+  },
+  {
+    "word": "ngữ văn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngôn ngữ học và văn học [nói tổng quát]\nVí dụ:\n- giáo viên ngữ văn \n - sinh viên ngành ngữ văn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xu hướng nghiên cứu một ngôn ngữ chỉ bằng cách dựa vào việc phân tích các văn bản còn lưu truyền lại"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ văn\n- Khoa học nghiên cứu một ngôn ngữ qua việc phân tích có phê phán những văn bản lưu truyền lại bằng thứ tiếng ấy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ văn\n-Philology\n@Chuyên ngành kỹ thuật\n-philological"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ văn\n- Philology"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "philology"
+      }
+    ]
+  },
+  {
+    "word": "ngữ liệu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tư liệu ngôn ngữ được dùng làm căn cứ để nghiên cứu ngôn ngữ\nVí dụ:\n- thu thập ngữ liệu \n - phân tích ngữ liệu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ liệu [ngữ liệu]\n-linguistic data\n-material aspect"
+      }
+    ]
+  },
+  {
+    "word": "ngữ cảnh gốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-root context"
+      }
+    ]
+  },
+  {
+    "word": "ngữ pháp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hệ thống những phương thức và quy tắc cấu tạo từ, cấu tạo câu trong một ngôn ngữ\nVí dụ:\n- nắm vững quy tắc ngữ pháp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "những quy tắc cần theo để nói và viết cho đúng một ngôn ngữ [nói tổng quát]\nVí dụ:\n- viết sai ngữ pháp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngữ pháp học [nói tắt]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ pháp\n- d. 1. Khoa học nghiên cứu qui luật và cấu tạo ngôn ngữ. 2. Môn học dạy phép đặt câu cho đúng khi nói hoặc khi viết."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ngữ pháp\n*noun\n-syntax grammar\n@Chuyên ngành kinh tế\n-modernism\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-grammar\n-syntax"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ngữ pháp\n* noun\n- syntax grammar"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "grammar"
+      }
+    ]
+  },
+  {
+    "word": "ngữ nghĩa học tiên đề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-axiomatic semantics"
+      }
+    ]
+  }
+]

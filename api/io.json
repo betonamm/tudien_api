@@ -1,23 +1,5 @@
 [
   {
-    "word": "ion",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nguyên tử hoặc nhóm nguyên tử bị mất đi hoặc được thêm một hay nhiều electron"
-      }
-    ]
-  },
-  {
-    "word": "iota",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "con chữ thứ chín của bảng chữ cái Hi Lạp [ι, I]"
-      }
-    ]
-  },
-  {
     "word": "iode",
     "definitions": [
       {
@@ -32,6 +14,24 @@
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "biến các phân tử, nguyên tử khí thành các ion"
+      }
+    ]
+  },
+  {
+    "word": "iota",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "con chữ thứ chín của bảng chữ cái Hi Lạp [ι, I]"
+      }
+    ]
+  },
+  {
+    "word": "ion",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nguyên tử hoặc nhóm nguyên tử bị mất đi hoặc được thêm một hay nhiều electron"
       }
     ]
   }

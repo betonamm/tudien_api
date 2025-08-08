@@ -1,53 +1,36 @@
 [
   {
-    "word": "nọc độc của rắn mang bành",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a cobra’s venom"
-      }
-    ]
-  },
-  {
-    "word": "nọc độc",
+    "word": "nọc nạng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chất độc ở một số loài vật; thường dùng để ví cái rất nguy hại về văn hoá, tinh thần\nVí dụ:\n- bị tiêm nhiễm nọc độc từ những văn hoá phẩm đồi truỵ"
-      },
+        "dict_definition": "cọc có hai hoặc ba nhánh [hình giống cái chạc] được cắm xuống đất để chống, đỡ\nVí dụ:\n- cắm nọc nạng để đỡ giàn trầu"
+      }
+    ]
+  },
+  {
+    "word": "nọc cổ",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nọc độc\n- d. 1. Chất độc ở trong miệng một số động vật như rắn, ong.., tiết ra khi cắn hoặc đốt. 2. Sự nguy hại: Nọc độc của chủ nghĩa xét lại và chủ nghĩa giáo điều."
+        "dict_definition": "@nọc cổ\n- Nh. Nọc, ngh. 2: Nọc cổ ra đánh cho một trận."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nọc độc\n-Venom, poison\n=Nọc độc của rắn mang bành\n+A cobra\"s venom\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-venom"
+        "dict_definition": "@nọc cổ\n-như nọc"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nọc độc\n- Venom, poison\n=Nọc độc của rắn mang bành+A cobra's venom"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "venom, poison"
+        "dict_definition": "@nọc cổ\n- như nọc"
       }
     ]
   },
   {
-    "word": "nọc hỗn hợp",
+    "word": "nọc cá độc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-venene"
-      }
-    ]
-  },
-  {
-    "word": "nọc giải độc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anavenin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ichthyosarcotoxin"
       }
     ]
   },
@@ -73,11 +56,24 @@
     ]
   },
   {
-    "word": "nọc cá độc",
+    "word": "nọc rắn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ichthyosarcotoxin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-snake venom"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(snake) venom"
+      }
+    ]
+  },
+  {
+    "word": "nọc độc da cóc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phrynin"
       }
     ]
   },
@@ -103,28 +99,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "that, the other (day); there, over there"
-      }
-    ]
-  },
-  {
-    "word": "nọc độc da cóc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phrynin"
-      }
-    ]
-  },
-  {
-    "word": "nọc rắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-snake venom"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(snake) venom"
       }
     ]
   },
@@ -170,6 +144,15 @@
     ]
   },
   {
+    "word": "nọc giải độc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anavenin"
+      }
+    ]
+  },
+  {
     "word": "nọ kia",
     "definitions": [
       {
@@ -187,28 +170,36 @@
     ]
   },
   {
-    "word": "nọc cổ",
+    "word": "nọc độc của rắn mang bành",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nọc cổ\n- Nh. Nọc, ngh. 2: Nọc cổ ra đánh cho một trận."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nọc cổ\n-như nọc"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nọc cổ\n- như nọc"
+        "dict_name": "VNEDICT",
+        "dict_definition": "a cobra’s venom"
       }
     ]
   },
   {
-    "word": "nọc nạng",
+    "word": "nọc độc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cọc có hai hoặc ba nhánh [hình giống cái chạc] được cắm xuống đất để chống, đỡ\nVí dụ:\n- cắm nọc nạng để đỡ giàn trầu"
+        "dict_definition": "chất độc ở một số loài vật; thường dùng để ví cái rất nguy hại về văn hoá, tinh thần\nVí dụ:\n- bị tiêm nhiễm nọc độc từ những văn hoá phẩm đồi truỵ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nọc độc\n- d. 1. Chất độc ở trong miệng một số động vật như rắn, ong.., tiết ra khi cắn hoặc đốt. 2. Sự nguy hại: Nọc độc của chủ nghĩa xét lại và chủ nghĩa giáo điều."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nọc độc\n-Venom, poison\n=Nọc độc của rắn mang bành\n+A cobra\"s venom\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-venom"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nọc độc\n- Venom, poison\n=Nọc độc của rắn mang bành+A cobra's venom"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "venom, poison"
       }
     ]
   },
@@ -234,6 +225,15 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "neck (flesh of an animal’s neck)"
+      }
+    ]
+  },
+  {
+    "word": "nọc hỗn hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-venene"
       }
     ]
   }

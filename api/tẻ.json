@@ -1,74 +1,10 @@
 [
   {
-    "word": "tẻ nhạt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tẻ và nhạt nhẽo [nói khái quát]\nVí dụ:\n- công việc tẻ nhạt \n - sống một cuộc đời tẻ nhạt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tẻ nhạt [tẻ nhạt]\n-dull;  boring;  monotonous\n@Chuyên ngành kinh tế\n-flat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dull, boring, monotonous"
-      }
-    ]
-  },
-  {
-    "word": "tẻ ngắt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hoàn toàn không có lấy một chút sinh khí, sức lôi cuốn nào, khiến hết sức buồn chán\nVí dụ:\n- câu chuyện tẻ ngắt \n - trời mưa, phố sá tẻ ngắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tẻ ngắt\n- Buồn vì vắng vẻ: Cảnh tẻ ngắt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tẻ ngắt - tedious"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tedious"
-      }
-    ]
-  },
-  {
-    "word": "tẻo teo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tẻo teo\n- Nhỏ bé: Một chiếc thuyền câu bé tẻo teo (Nguyễn Khuyến)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tẻo teo - very small"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very small"
-      }
-    ]
-  },
-  {
     "word": "tẻo tèo teo",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "như tẻo teo [nhưng ý nhấn mạnh hơn]"
-      }
-    ]
-  },
-  {
-    "word": "tẻ lạnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "buồn tẻ tới mức gây cảm giác lạnh lẽo\nVí dụ:\n- đón tiếp tẻ lạnh \n - bầu không khí tẻ lạnh"
       }
     ]
   },
@@ -106,6 +42,70 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "sad"
+      }
+    ]
+  },
+  {
+    "word": "tẻ lạnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "buồn tẻ tới mức gây cảm giác lạnh lẽo\nVí dụ:\n- đón tiếp tẻ lạnh \n - bầu không khí tẻ lạnh"
+      }
+    ]
+  },
+  {
+    "word": "tẻ ngắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hoàn toàn không có lấy một chút sinh khí, sức lôi cuốn nào, khiến hết sức buồn chán\nVí dụ:\n- câu chuyện tẻ ngắt \n - trời mưa, phố sá tẻ ngắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tẻ ngắt\n- Buồn vì vắng vẻ: Cảnh tẻ ngắt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tẻ ngắt - tedious"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tedious"
+      }
+    ]
+  },
+  {
+    "word": "tẻ nhạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tẻ và nhạt nhẽo [nói khái quát]\nVí dụ:\n- công việc tẻ nhạt \n - sống một cuộc đời tẻ nhạt"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tẻ nhạt [tẻ nhạt]\n-dull;  boring;  monotonous\n@Chuyên ngành kinh tế\n-flat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dull, boring, monotonous"
+      }
+    ]
+  },
+  {
+    "word": "tẻo teo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tẻo teo\n- Nhỏ bé: Một chiếc thuyền câu bé tẻo teo (Nguyễn Khuyến)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tẻo teo - very small"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very small"
       }
     ]
   }

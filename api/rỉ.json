@@ -1,28 +1,44 @@
 [
   {
+    "word": "rỉ tai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nói rất khẽ chỉ để cho nhau biết\nVí dụ:\n- rỉ tai một chuyện bí mật \n - rỉ tai nhau nói thầm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rỉ tai\n- Ghé vào tai nói một điều muốn giữ kín: Rỉ tai nhau những chuyện bí mật."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rỉ tai\n-Whisper in someone\"s ear\n=Rì tai nhau những chuyện bí mật\n+To whisper in each other\"s ears secret things"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rỉ tai\n- Whisper in someone's ear\n=Rì tai nhau những chuyện bí mật+To whisper in each other's ears secret things"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to whisper"
+      }
+    ]
+  },
+  {
+    "word": "rỉ dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil exudation\n-oil leak"
+      }
+    ]
+  },
+  {
     "word": "rỉ mắt",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lema"
-      }
-    ]
-  },
-  {
-    "word": "rỉ sét",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to rust, rusty"
-      }
-    ]
-  },
-  {
-    "word": "rỉ nhựa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bleed"
       }
     ]
   },
@@ -48,11 +64,158 @@
     ]
   },
   {
+    "word": "rỉ từng giọt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to drip"
+      }
+    ]
+  },
+  {
+    "word": "rỉa rói",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhiếc móc một cách dai dẳng, làm cho phải đau khổ, day dứt\nVí dụ:\n- mẹ chồng rỉa rói con dâu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rỉa rói\n- Nh. Rỉa ráy: Mẹ chồng rỉa rói con dâu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rỉa rói\n-xem rỉa ráy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rỉa rói\n- xem rỉa ráy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to insult, criticize"
+      }
+    ]
+  },
+  {
+    "word": "rỉ rả",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả những âm thanh không to, không cao, lặp đi lặp lại cách quãng, đều đều và kéo dài như không dứt\nVí dụ:\n- tiếng côn trùng kêu rỉ rả"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rỉ rả\n-Sporadic\n=Mưa rỉ rả suốt đêm\n+It rained sporadically throughout the night"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rỉ rả\n- Sporadic\n=Mưa rỉ rả suốt đêm+It rained sporadically throughout the night"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to rain or talk prolongedly"
+      }
+    ]
+  },
+  {
+    "word": "rỉ mủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gleet"
+      }
+    ]
+  },
+  {
+    "word": "rỉ do mỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-corrosion fatigue"
+      }
+    ]
+  },
+  {
+    "word": "rỉa ráy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rỉa ráy\n- Cg. Rỉa rói. Cắn rứt, nhiếc móc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rỉa ráy\n-Harass with scolding, harass with humiliating remarks"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rỉa ráy\n- Harass with scolding, harass with humiliating remarks"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "harass with scolding, harass with humiliating remarks"
+      }
+    ]
+  },
+  {
+    "word": "rỉa lông",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rỉa lông\n- Nói chim, gà, mổ những sâu bọ ở lông."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rỉa lông [rỉa lông]\n-(of birds) plume"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(of birds) plume"
+      }
+    ]
+  },
+  {
+    "word": "rỉ đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-molasses"
+      }
+    ]
+  },
+  {
+    "word": "rỉ sét",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to rust, rusty"
+      }
+    ]
+  },
+  {
+    "word": "rỉ nhựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bleed"
+      }
+    ]
+  },
+  {
     "word": "rỉ qua",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-infiltrate"
+      }
+    ]
+  },
+  {
+    "word": "rỉ ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ooze\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-seep"
       }
     ]
   },
@@ -86,6 +249,31 @@
     ]
   },
   {
+    "word": "rỉ răng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như hé răng\nVí dụ:\n- \"Tình riêng chưa dám rỉ răng, Tiểu thư trước đã liệu chừng nhủ qua.\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rỉ răng\n- Hé miệng nói khẽ (dùng với ý phủ định)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rỉ răng\n-(thông tục) Wisper a word, breathe a word"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rỉ răng\n- (thông tục) Wisper a word, breathe a word"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "whisper a word, breathe a word"
+      }
+    ]
+  },
+  {
     "word": "rỉ",
     "definitions": [
       {
@@ -115,194 +303,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(1) to rust, rusty; (2) small or gentle repetitions"
-      }
-    ]
-  },
-  {
-    "word": "rỉa rói",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhiếc móc một cách dai dẳng, làm cho phải đau khổ, day dứt\nVí dụ:\n- mẹ chồng rỉa rói con dâu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rỉa rói\n- Nh. Rỉa ráy: Mẹ chồng rỉa rói con dâu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rỉa rói\n-xem rỉa ráy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rỉa rói\n- xem rỉa ráy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to insult, criticize"
-      }
-    ]
-  },
-  {
-    "word": "rỉa ráy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rỉa ráy\n- Cg. Rỉa rói. Cắn rứt, nhiếc móc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rỉa ráy\n-Harass with scolding, harass with humiliating remarks"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rỉa ráy\n- Harass with scolding, harass with humiliating remarks"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "harass with scolding, harass with humiliating remarks"
-      }
-    ]
-  },
-  {
-    "word": "rỉ đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-molasses"
-      }
-    ]
-  },
-  {
-    "word": "rỉ ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ooze\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-seep"
-      }
-    ]
-  },
-  {
-    "word": "rỉ tai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nói rất khẽ chỉ để cho nhau biết\nVí dụ:\n- rỉ tai một chuyện bí mật \n - rỉ tai nhau nói thầm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rỉ tai\n- Ghé vào tai nói một điều muốn giữ kín: Rỉ tai nhau những chuyện bí mật."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rỉ tai\n-Whisper in someone\"s ear\n=Rì tai nhau những chuyện bí mật\n+To whisper in each other\"s ears secret things"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rỉ tai\n- Whisper in someone's ear\n=Rì tai nhau những chuyện bí mật+To whisper in each other's ears secret things"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to whisper"
-      }
-    ]
-  },
-  {
-    "word": "rỉ mủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gleet"
-      }
-    ]
-  },
-  {
-    "word": "rỉ răng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như hé răng\nVí dụ:\n- \"Tình riêng chưa dám rỉ răng, Tiểu thư trước đã liệu chừng nhủ qua.\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rỉ răng\n- Hé miệng nói khẽ (dùng với ý phủ định)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rỉ răng\n-(thông tục) Wisper a word, breathe a word"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rỉ răng\n- (thông tục) Wisper a word, breathe a word"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "whisper a word, breathe a word"
-      }
-    ]
-  },
-  {
-    "word": "rỉ do mỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-corrosion fatigue"
-      }
-    ]
-  },
-  {
-    "word": "rỉ từng giọt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to drip"
-      }
-    ]
-  },
-  {
-    "word": "rỉ dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil exudation\n-oil leak"
-      }
-    ]
-  },
-  {
-    "word": "rỉ rả",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả những âm thanh không to, không cao, lặp đi lặp lại cách quãng, đều đều và kéo dài như không dứt\nVí dụ:\n- tiếng côn trùng kêu rỉ rả"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rỉ rả\n-Sporadic\n=Mưa rỉ rả suốt đêm\n+It rained sporadically throughout the night"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rỉ rả\n- Sporadic\n=Mưa rỉ rả suốt đêm+It rained sporadically throughout the night"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to rain or talk prolongedly"
-      }
-    ]
-  },
-  {
-    "word": "rỉa lông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rỉa lông\n- Nói chim, gà, mổ những sâu bọ ở lông."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rỉa lông [rỉa lông]\n-(of birds) plume"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(of birds) plume"
       }
     ]
   }

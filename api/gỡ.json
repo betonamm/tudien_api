@@ -1,46 +1,10 @@
 [
   {
-    "word": "gỡ bỏ",
+    "word": "gỡ bỏ phần mềm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-remove\n-to deinstall\n-to remove\n-to set apart\n-to take away"
-      }
-    ]
-  },
-  {
-    "word": "gỡ rối, giúp cho ai bằng một khoản vay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tide somebody with a loan\n-tide somebody with a loan (to....)"
-      }
-    ]
-  },
-  {
-    "word": "gỡ đệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-backing bead"
-      }
-    ]
-  },
-  {
-    "word": "gỡ xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bone"
-      }
-    ]
-  },
-  {
-    "word": "gỡ dính ruột tá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-duodenolysis"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-to uninstall software\n-uninstall\n-uninstallation of software"
       }
     ]
   },
@@ -50,15 +14,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Remove Condition"
-      }
-    ]
-  },
-  {
-    "word": "gỡ mẫu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rap"
       }
     ]
   },
@@ -80,20 +35,29 @@
     ]
   },
   {
-    "word": "gỡ bỏ chương trình",
+    "word": "gỡ bỏ tách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-uninstall"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-remove split"
       }
     ]
   },
   {
-    "word": "gỡ bỏ người dùng",
+    "word": "gỡ mất",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to remove, disconnect, take out"
+      }
+    ]
+  },
+  {
+    "word": "gỡ (chùm xơ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Remove User"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-open"
       }
     ]
   },
@@ -119,107 +83,11 @@
     ]
   },
   {
-    "word": "gỡ đầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gỡ đầu\n- Chải tóc cho khỏi rối."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gỡ đầu\n-Comb one\"s hair straight, brush one\"s hair free of tangles"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gỡ đầu\n- Comb one's hair straight, brush one's hair free of tangles"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "comb one’s hair straight, brush one’s hair free of tangles"
-      }
-    ]
-  },
-  {
-    "word": "gỡ rối chương trình",
+    "word": "gỡ bỏ người dùng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-program debugging"
-      }
-    ]
-  },
-  {
-    "word": "gỡ (chùm xơ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-open"
-      }
-    ]
-  },
-  {
-    "word": "gỡ mất",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to remove, disconnect, take out"
-      }
-    ]
-  },
-  {
-    "word": "gỡ nợ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gỡ nợ\n- Trang trải công nợ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gỡ nợ\n-Get clear of one\"s debts"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gỡ nợ\n- Get clear of one's debts"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "get clear of one’s debts"
-      }
-    ]
-  },
-  {
-    "word": "gỡ bỏ hết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-remove all"
-      }
-    ]
-  },
-  {
-    "word": "gỡ vào lối sinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gỡ vào lối sinh\n- gỡ cho khỏi bị tiêu diệt"
-      }
-    ]
-  },
-  {
-    "word": "gỡ rối trực tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-online debug\n-online debugging"
-      }
-    ]
-  },
-  {
-    "word": "gỡ vật đúc (phơi khuôn đúc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Remove User"
       }
     ]
   },
@@ -245,11 +113,20 @@
     ]
   },
   {
-    "word": "gỡ bỏ phần mềm",
+    "word": "gỡ mẫu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-to uninstall software\n-uninstall\n-uninstallation of software"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rap"
+      }
+    ]
+  },
+  {
+    "word": "gỡ bỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-remove\n-to deinstall\n-to remove\n-to set apart\n-to take away"
       }
     ]
   },
@@ -291,11 +168,11 @@
     ]
   },
   {
-    "word": "gỡ ra",
+    "word": "gỡ dính ruột tá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-demount\n-disengage"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-duodenolysis"
       }
     ]
   },
@@ -309,11 +186,134 @@
     ]
   },
   {
-    "word": "gỡ bỏ tách",
+    "word": "gỡ bỏ chương trình",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-remove split"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-uninstall"
+      }
+    ]
+  },
+  {
+    "word": "gỡ rối chương trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-program debugging"
+      }
+    ]
+  },
+  {
+    "word": "gỡ nợ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gỡ nợ\n- Trang trải công nợ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gỡ nợ\n-Get clear of one\"s debts"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gỡ nợ\n- Get clear of one's debts"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "get clear of one’s debts"
+      }
+    ]
+  },
+  {
+    "word": "gỡ vào lối sinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gỡ vào lối sinh\n- gỡ cho khỏi bị tiêu diệt"
+      }
+    ]
+  },
+  {
+    "word": "gỡ xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bone"
+      }
+    ]
+  },
+  {
+    "word": "gỡ đầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gỡ đầu\n- Chải tóc cho khỏi rối."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gỡ đầu\n-Comb one\"s hair straight, brush one\"s hair free of tangles"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gỡ đầu\n- Comb one's hair straight, brush one's hair free of tangles"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "comb one’s hair straight, brush one’s hair free of tangles"
+      }
+    ]
+  },
+  {
+    "word": "gỡ bỏ hết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-remove all"
+      }
+    ]
+  },
+  {
+    "word": "gỡ rối trực tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-online debug\n-online debugging"
+      }
+    ]
+  },
+  {
+    "word": "gỡ ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-demount\n-disengage"
+      }
+    ]
+  },
+  {
+    "word": "gỡ đệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-backing bead"
+      }
+    ]
+  },
+  {
+    "word": "gỡ rối, giúp cho ai bằng một khoản vay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tide somebody with a loan\n-tide somebody with a loan (to....)"
+      }
+    ]
+  },
+  {
+    "word": "gỡ vật đúc (phơi khuôn đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rap"
       }
     ]
   },

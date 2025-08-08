@@ -1,375 +1,83 @@
 [
   {
-    "word": "tết hầu âm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pharyngeal"
-      }
-    ]
-  },
-  {
-    "word": "tếu táo",
+    "word": "tế bào",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ ra quá tếu, không được nghiêm túc\nVí dụ:\n- ăn nói tếu táo \n - tếu táo một lúc cho vui"
-      }
-    ]
-  },
-  {
-    "word": "tế",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cúng dâng lễ vật theo nghi thức trọng thể, thường có đọc bài văn và có chiêng trống\nVí dụ:\n- lễ tế trời \n - lạy như tế sao"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[ngựa hoặc trâu bò] phi nước đại hoặc chạy lồng lên\nVí dụ:\n- tế ngựa như bay \n - trâu tế"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mắng chửi ầm ĩ\nVí dụ:\n- chị ta tế nó một mẻ"
+        "dict_definition": "đơn vị cơ sở của sự sống, cấu tạo nên cơ thể sinh vật, có khả năng trao đổi, sinh trưởng và phân hoá\nVí dụ:\n- tế bào não \n - cấy ghép tế bào \n - gia đình là tế bào của xã hội"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế\n- 1 đgt. 1. Cúng dâng trọng thể, thường đọc văn cúng và có trống chiêng kèm theo: Ngày rằm tháng bảy các họ đều tế  áo tế  văn tế. 2. khng., mỉa Chửi mắng ầm ĩ, tới tấp: bị tế một trận vuốt mặt không kịp.\n- 2 đgt. (Ngựa) chạy nước đại: ngựa tế."
+        "dict_definition": "@tế bào\n- Đơn vị cơ sở cấu tạo nên cơ thể sinh vật."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tế\n*verb\n-to run (ride at full gallop) to sacrifice, to worship"
+        "dict_definition": "@tế bào\n*noun\n-cell\n@Chuyên ngành kinh tế\n-cell\n@Chuyên ngành kỹ thuật\n-cell\n-cellular\n-cellule\n-mesh"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tế\n* verb\n- to run (ride at full gallop) to sacrifice, to worship"
+        "dict_definition": "@tế bào\n* noun\n- cell"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to help, assist; to run (ride at full gallop); to sacrifice, worship"
+        "dict_definition": "cell (biology)"
       }
     ]
   },
   {
-    "word": "tế bào chủ",
+    "word": "tế bào ưa bạc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-host cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-argentaffincelis"
       }
     ]
   },
   {
-    "word": "tế bào phát triển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-budding cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào thần kinh đệm ít gai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oligodendrocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào sắc tố, sắc bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chromocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào kết đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen tissue"
-      }
-    ]
-  },
-  {
-    "word": "tế bào trơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-levicellular"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nón",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cone"
-      }
-    ]
-  },
-  {
-    "word": "tế bào túi, tế bào mang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amphicyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào mầm tạo huyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-haemopoietic stem cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào thần kinh có thể niss kết lưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-arkyochrome"
-      }
-    ]
-  },
-  {
-    "word": "tế bào cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bần",
+    "word": "tế nhuyễn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế bần\n- Cứu giúp người nghèo (cũ)."
+        "dict_definition": "@tế nhuyễn\n- Quần áo có thể đem theo mình được: Đồ tế nhuyễn, của riêng tây (K).\n\n@tế nhuyễn\n- Nhỏ bé, mềm mại, chỉ chung những đồ vàng ngọc quí gái và trang sức, quần áo dễ mang đi"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tế bần [tế bần"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to assist the poor, help the poor"
-      }
-    ]
-  },
-  {
-    "word": "tế bào dinh dưỡng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-trophocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào quang điện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế bào quang điện\n- (lý) Dụng cụ sinh ra một dòng điện khi có ánh sáng rọi vào."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế bào quang điện [tế bào quang điện]\n-electric eye;  photoelectric cell;  photocell\n@Chuyên ngành kỹ thuật\n-cell\n-light cell\n-photo sensor\n-photoelectric cell, photocell\n-photoelectric receptor\n-photoelectric tube\n-photosensitive cell"
+        "dict_definition": "@tế nhuyễn - clothing and jewels (of a woman)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "electric eye, photoelectric cell"
+        "dict_definition": "clothing and jewels (of a woman)"
       }
     ]
   },
   {
-    "word": "tế bào của ống gỗ",
+    "word": "tế bào gốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cellular tube"
-      }
-    ]
-  },
-  {
-    "word": "tế bào tủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-marrow cell"
-      }
-    ]
-  },
-  {
-    "word": "tế điện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế điện\n- tế theo lễ đám tang"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nấm men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-yeast cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào đơn chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monoplast"
-      }
-    ]
-  },
-  {
-    "word": "tết ta",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "Tết Nguyên Đán; phân biệt với Tết tây"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "Tết Nguyên Đán; phân biệt với Tết tây"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tết ta\n- Nh. Nguyên đán."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Tết ta - New Year festival (lunar calendar)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-mother cell\n-parent cell"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "new year festival (lunar calendar)"
+        "dict_definition": "stem cell, immature cell"
       }
     ]
   },
   {
-    "word": "tế bào ngoại mạch",
+    "word": "tế bào ưa oxy to",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pericyte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-megoxycyte"
       }
     ]
   },
   {
-    "word": "tế bào bao schwann",
+    "word": "tế bào rổ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lemmocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bần thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nerve cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào mầm (tế bào sinh dục)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-germ cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào leidig",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Leydig cells"
-      }
-    ]
-  },
-  {
-    "word": "tế bào biến màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-metachromatophil"
-      }
-    ]
-  },
-  {
-    "word": "tế bào hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cell encapsulation\n-conversion into cells"
-      }
-    ]
-  },
-  {
-    "word": "tế bào mủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pyocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nghỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-resting cell"
-      }
-    ]
-  },
-  {
-    "word": "tết tây",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "Tết dương lịch; phân biệt với Tết ta"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "Tết dương lịch; phân biệt với Tết ta"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Tết tây - New Year festival (solar calenddar), Western New Year"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "new year festival (solar calendar), western new year"
-      }
-    ]
-  },
-  {
-    "word": "tế bào thần kinh liên kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-zygoneure"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-basket\n-basket cell"
       }
     ]
   },
@@ -379,63 +87,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cell\n-cellar cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào trứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-egg cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào đích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-target cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào thực vật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vegetable cell"
-      }
-    ]
-  },
-  {
-    "word": "tết nhất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngày tết, về mặt là dịp nghỉ ngơi, vui chơi, sum họp trong một năm [nói khái quát]\nVí dụ:\n- tết nhất đến nơi mà chưa sắm sửa được gì"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tết nhất\n- Ngày tết nói chung."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tết nhất - festivals, hoilidays"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "festivals, holidays"
-      }
-    ]
-  },
-  {
-    "word": "tế bào trung bì phôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mesoblastema"
       }
     ]
   },
@@ -457,234 +108,20 @@
     ]
   },
   {
+    "word": "tế bào szechtman",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Szechtman cell"
+      }
+    ]
+  },
+  {
     "word": "tế bào gan",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hepatocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào khổng lồ ung thư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-physalis"
-      }
-    ]
-  },
-  {
-    "word": "tế bào thùy sau tuyến yên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pituicyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nguyên sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protoplast"
-      }
-    ]
-  },
-  {
-    "word": "tế bào lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-filter cell"
-      }
-    ]
-  },
-  {
-    "word": "tế hầu ngã xe",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tế Hầu ngã xe\n- Xem Lợn Bối Khâu"
-      }
-    ]
-  },
-  {
-    "word": "tế bào trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-columar cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nhân khổng lồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-megakaryocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào allan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Allan cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào có màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pigment cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào xơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cellulofibrous\n-inocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào quang điện, pin quang điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-photo-electric cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào chị em",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sister cell"
-      }
-    ]
-  },
-  {
-    "word": "tế thắng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tế Thắng\n- (xã) h. Nông Cống, t. Thanh Hoá"
-      }
-    ]
-  },
-  {
-    "word": "tế bào bắt hai màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amphocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào sợi nấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mycetocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào gốc hồng cầu, nguyên bào hồng cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-karyoblast"
-      }
-    ]
-  },
-  {
-    "word": "tết dương lịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tết vào đầu năm dương lịch"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tết vào đầu năm dương lịch"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tết dương lịch\n- Ngày đầu năm dương lịch."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Tết dương lịch - Western New Year"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "western new year"
-      }
-    ]
-  },
-  {
-    "word": "tế bào đốm sắc cầu vồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ridocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào becn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-BECN Cell (BN)"
-      }
-    ]
-  },
-  {
-    "word": "tế bào có nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-karyocyte\n-karyota\n-nucleated cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào phôi, nguyên bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blastomere"
-      }
-    ]
-  },
-  {
-    "word": "tế bào thần kinh học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurocytology"
       }
     ]
   },
@@ -698,11 +135,137 @@
     ]
   },
   {
-    "word": "tết thương mại",
+    "word": "tế bào schwann",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trade festival"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Schwann cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào khổng lồ ung thư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-physalis"
+      }
+    ]
+  },
+  {
+    "word": "tế bào dinh dưỡng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-trophocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào tinh bột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-starch cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stem cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào tuyến ức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thymocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào nền, tế bào đáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-basal cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào đặc dị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-idioblast"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thùy sau tuyến yên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pituicyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào sinh dục, tế bào sinh trưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-auxocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào nhân quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photomultiplier cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào nhập liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-input cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào gai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-prickle cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào mang sắc tố đỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-erythrophore"
+      }
+    ]
+  },
+  {
+    "word": "tế bào máu (tiểu thề máu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood cell"
       }
     ]
   },
@@ -716,20 +279,65 @@
     ]
   },
   {
-    "word": "tế bào hấp thụ",
+    "word": "tế bào mưa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-absorption cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-rain cell"
       }
     ]
   },
   {
-    "word": "tế bào rổ",
+    "word": "tế bào mầm (tế bào sinh dục)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-basket\n-basket cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-germ cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào (nhỏ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cellule"
+      }
+    ]
+  },
+  {
+    "word": "tế bào bắt màu camin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-carminophil"
+      }
+    ]
+  },
+  {
+    "word": "tế bào cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào tạo tinh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-androgone"
+      }
+    ]
+  },
+  {
+    "word": "tết hầu âm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pharyngeal"
       }
     ]
   },
@@ -747,63 +355,86 @@
     ]
   },
   {
-    "word": "tế bào đồng loại",
+    "word": "tế bào quang điện",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isocellular"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nhân quang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photomultiplier cell"
-      }
-    ]
-  },
-  {
-    "word": "tết âm lịch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem Tết Nguyên Đán"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem Tết Nguyên Đán"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tết âm lịch\n- Nh. Tết Nguyên đán."
+        "dict_definition": "@tế bào quang điện\n- (lý) Dụng cụ sinh ra một dòng điện khi có ánh sáng rọi vào."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tết âm lịch - Lunar New Year"
+        "dict_definition": "@tế bào quang điện [tế bào quang điện]\n-electric eye;  photoelectric cell;  photocell\n@Chuyên ngành kỹ thuật\n-cell\n-light cell\n-photo sensor\n-photoelectric cell, photocell\n-photoelectric receptor\n-photoelectric tube\n-photosensitive cell"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "lunar new year"
+        "dict_definition": "electric eye, photoelectric cell"
       }
     ]
   },
   {
-    "word": "tế bào mao dẫn",
+    "word": "tế bào có nhân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-capillary cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-karyocyte\n-karyota\n-nucleated cell"
       }
     ]
   },
   {
-    "word": "tế bào không phản chiếu",
+    "word": "tế bào đang phân chia",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-non-reflective cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cleavage cell"
+      }
+    ]
+  },
+  {
+    "word": "tết thương mại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trade festival"
+      }
+    ]
+  },
+  {
+    "word": "tế bào sắc tố, sắc bào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chromocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế tửu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế tửu - offer wine (ancient official title)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "offer wine (ancient official title)"
+      }
+    ]
+  },
+  {
+    "word": "tế liễu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tế Liễu\n- Tên đất ở Thiểm Tây, Trung Quốc, gần kinh thành Hàm Dương của Tần. Đời Hán, đại tướng Chu á Phu đã từng đóng đại bản doanh ở đây"
+      }
+    ]
+  },
+  {
+    "word": "tế bào mỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-adipose cell\n-fat cell\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lipocyte"
       }
     ]
   },
@@ -817,145 +448,38 @@
     ]
   },
   {
-    "word": "tế bào con",
+    "word": "tế bào tạo bổ thể",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-daughter cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-alexocyte"
       }
     ]
   },
   {
-    "word": "tế bào quang điện lớp chặn",
+    "word": "tế bào nghỉ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-barrier layer cell\n-blocking layer cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-resting cell"
       }
     ]
   },
   {
-    "word": "tế bào có sắc tố vàng",
+    "word": "tế bào leidig",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-xanthocyte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Leydig cells"
       }
     ]
   },
   {
-    "word": "tế bào kế",
+    "word": "tế bào khí",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cytometer"
-      }
-    ]
-  },
-  {
-    "word": "tế lợi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tế Lợi\n- (xã) h. Nông Cống, t. Thanh Hoá"
-      }
-    ]
-  },
-  {
-    "word": "tế bào màng ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diaphragm cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào hình sao sợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fibrous astrocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào dị loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heterocellular"
-      }
-    ]
-  },
-  {
-    "word": "tế bào hạch thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ganglioneure"
-      }
-    ]
-  },
-  {
-    "word": "tế bào tạo tinh trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-androgone"
-      }
-    ]
-  },
-  {
-    "word": "tế bào ion nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thermionic cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào hủy ngà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoclast"
-      }
-    ]
-  },
-  {
-    "word": "tế toái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế toái\n- Vụn vặt, phiền phức: Công việc tế toái."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế toái - detail, small matter, triffle, complicated, troublesome"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "detail, small matter, trifle, complicated, troublesome"
-      }
-    ]
-  },
-  {
-    "word": "tế bào có áo ngoại bị tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spheroblast"
-      }
-    ]
-  },
-  {
-    "word": "tế bào khổng lồ, tế bào khổng lồ có thể có một hay nhiều nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-giant cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumocyte"
       }
     ]
   },
@@ -985,437 +509,11 @@
     ]
   },
   {
-    "word": "tế bào xốp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spongiocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào sertoli",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sertolicell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào tinh thể kép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bimorph cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào máu (tiểu thề máu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nhạy quang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-light-sensitive cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào đơn nhân lách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splenocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào - niệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cyturia"
-      }
-    ]
-  },
-  {
-    "word": "tế bào quang dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photoconductive cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào đơn lẻ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monad"
-      }
-    ]
-  },
-  {
-    "word": "tế tác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế tác - stop up, obstruct"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stop up, obstruct"
-      }
-    ]
-  },
-  {
-    "word": "tế bào mưa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-rain cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào bắt màu camin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-carminophil"
-      }
-    ]
-  },
-  {
-    "word": "tế bào tinh thể bragg",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Bragg cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào có đoạn gen phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heterogenote"
-      }
-    ]
-  },
-  {
-    "word": "tế bào ngắt điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-s\n@Lĩnh vực: xây dựng\n-switch-great cell"
-      }
-    ]
-  },
-  {
-    "word": "tếch toác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tếch toác - be wide open"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be wide open"
-      }
-    ]
-  },
-  {
-    "word": "tế bào vách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-parietal cell"
-      }
-    ]
-  },
-  {
     "word": "tế bào khe (tế bào leydig)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Interstitial cells"
-      }
-    ]
-  },
-  {
-    "word": "tế nhuyễn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế nhuyễn\n- Quần áo có thể đem theo mình được: Đồ tế nhuyễn, của riêng tây (K).\n\n@tế nhuyễn\n- Nhỏ bé, mềm mại, chỉ chung những đồ vàng ngọc quí gái và trang sức, quần áo dễ mang đi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế nhuyễn - clothing and jewels (of a woman)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "clothing and jewels (of a woman)"
-      }
-    ]
-  },
-  {
-    "word": "tế bào trần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protoblast"
-      }
-    ]
-  },
-  {
-    "word": "tế bào vi khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bacterial cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào tháp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pyramidal cell"
-      }
-    ]
-  },
-  {
-    "word": "tết nguyên đán",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tết vào đầu năm âm lịch, theo truyền thống của một số dân tộc như Việt Nam, Trung Quốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tết vào đầu năm âm lịch, theo truyền thống của một số dân tộc như Việt Nam, Trung Quốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tết nguyên đán\n- Cg. Tết ta. X. Nguyên đán."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Vietnamese New Year’s festival"
-      }
-    ]
-  },
-  {
-    "word": "tế bào không nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-akaryote"
-      }
-    ]
-  },
-  {
-    "word": "tế bào di chuyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-aletocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào đặc dị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-idioblast"
-      }
-    ]
-  },
-  {
-    "word": "tế bào xương răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cementocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế tửu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế tửu - offer wine (ancient official title)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "offer wine (ancient official title)"
-      }
-    ]
-  },
-  {
-    "word": "tế bào học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế bào học [tế bào học"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cytology"
-      }
-    ]
-  },
-  {
-    "word": "tế bào ưa oxy to",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-megoxycyte"
-      }
-    ]
-  },
-  {
-    "word": "tế thần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to make a gift, sacrifice (to a deity)"
-      }
-    ]
-  },
-  {
-    "word": "tế bào có lớp chặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-barrier-layer cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào sợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fibrocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào quang phát xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photoemissive cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào quang điện trở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-photo-resistance cell\n-photo-resistive cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào đa mức (internet)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Multilevel Cell (Internet) (MLC)"
-      }
-    ]
-  },
-  {
-    "word": "tế liễu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tế Liễu\n- Tên đất ở Thiểm Tây, Trung Quốc, gần kinh thành Hàm Dương của Tần. Đời Hán, đại tướng Chu á Phu đã từng đóng đại bản doanh ở đây"
-      }
-    ]
-  },
-  {
-    "word": "tế bào sinh dục, tế bào sinh trưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-auxocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào phân rã mô mềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sarcolyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào sinh dục nguyên thủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-archigonocyte\n-gonocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nhân ưa màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-karyochrome"
-      }
-    ]
-  },
-  {
-    "word": "tế lễ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm lễ tế [nói khái quát]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế lễ\n- Cúng bái nói chung."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế lễ - sacrifices, offerings, offer sacrifies"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sacrifices, offerings, offer sacrifices"
-      }
-    ]
-  },
-  {
-    "word": "tế bào tuyến ức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thymocyte"
       }
     ]
   },
@@ -1429,97 +527,211 @@
     ]
   },
   {
-    "word": "tế bào",
+    "word": "tế bào thần kinh đệm ít gai",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị cơ sở của sự sống, cấu tạo nên cơ thể sinh vật, có khả năng trao đổi, sinh trưởng và phân hoá\nVí dụ:\n- tế bào não \n - cấy ghép tế bào \n - gia đình là tế bào của xã hội"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế bào\n- Đơn vị cơ sở cấu tạo nên cơ thể sinh vật."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oligodendrocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào mầm trứng",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tế bào\n*noun\n-cell\n@Chuyên ngành kinh tế\n-cell\n@Chuyên ngành kỹ thuật\n-cell\n-cellular\n-cellule\n-mesh"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovigerm"
+      }
+    ]
+  },
+  {
+    "word": "tế bào hủy ngà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoclast"
+      }
+    ]
+  },
+  {
+    "word": "tế bào hốc ung thư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-physaliphore"
+      }
+    ]
+  },
+  {
+    "word": "tế bào quang điện, pin quang điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-photo-electric cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế bào chất\n*noun\n-cytoplasm"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tế bào\n* noun\n- cell"
+        "dict_definition": "@tế bào chất\n* noun\n- cytoplasm"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cell (biology)"
+        "dict_definition": "cytoplasm"
       }
     ]
   },
   {
-    "word": "tế bào mỡ",
+    "word": "tế bào sinh dục nguyên thủy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-adipose cell\n-fat cell\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lipocyte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-archigonocyte\n-gonocyte"
       }
     ]
   },
   {
-    "word": "tế bào đang phân chia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cleavage cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào quang trở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photoresistance cell"
-      }
-    ]
-  },
-  {
-    "word": "tế tiêu",
+    "word": "tế tân",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tế Tiêu\n- (thị trấn) h. Mỹ Đức, t. Hà Tây"
+        "dict_definition": "@Tế Tân\n- (xã) h. Nông Cống, t. Thanh Hoá"
       }
     ]
   },
   {
-    "word": "tế bào thanh dịch",
+    "word": "tế bào tinh thể kép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-serous cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bimorph cell"
       }
     ]
   },
   {
-    "word": "tếch",
+    "word": "tế bào nấm men",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây to, lá mọc đối, cành và mặt dưới của lá có lông hình sao, hoa màu trắng, gỗ màu vàng ngả nâu, rắn và bền, thường dùng để đóng tàu biển"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-yeast cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào trần",
+    "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bỏ đi, chuồn đi\nVí dụ:\n- thằng sở khanh đã tếch mất"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protoblast"
+      }
+    ]
+  },
+  {
+    "word": "tế lợi",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tếch\n- 1 (F. teck) dt. Cây to, cành và mặt dưới của lá có lông hình sao, hoa màu trắng, gỗ màu vàng ngả nâu, rắn và bền: gỗ tếch.\n- 2 dt. Miếng thịt đỏ ở hai bên tai con gà: mào tếch.\n- 3 dt. Phần dưới cái thuyền: nặng bồng nhẹ tếch (tng.).\n- 4 đgt., khng. Bỏ đi, chuồn khỏi nơi nào, do đã quá chán ngán: chẳng thích thì tếch ngay  mới làm được mấy hôm đã tếch rồi."
+        "dict_definition": "@Tế Lợi\n- (xã) h. Nông Cống, t. Thanh Hoá"
+      }
+    ]
+  },
+  {
+    "word": "tế bào biến màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-metachromatophil"
+      }
+    ]
+  },
+  {
+    "word": "tế bào đích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-target cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cell encapsulation\n-conversion into cells"
+      }
+    ]
+  },
+  {
+    "word": "tế bào đồng loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-isocellular"
+      }
+    ]
+  },
+  {
+    "word": "tế bào bắt hai màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amphocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào có sắc tố vàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-xanthocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào có đoạn gen phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heterogenote"
+      }
+    ]
+  },
+  {
+    "word": "tế độ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tế độ\n- đg. Cứu vớt chúng sinh ra khỏi bể khổ, theo đạo Phật. Ra tay tế độ.\n\n@tế độ\n- Cứu vớt"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tếch\n*noun\n-wattle, caruncle"
+        "dict_definition": "@tế độ\n*verb\n-to save, to bless"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tếch\n* noun\n- wattle, caruncle"
+        "dict_definition": "@tế độ\n* verb\n- to save, to bless"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to save, bless"
+      }
+    ]
+  },
+  {
+    "word": "tế bào vách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-parietal cell"
       }
     ]
   },
@@ -1533,56 +745,150 @@
     ]
   },
   {
-    "word": "tế bào yến mạch",
+    "word": "tế bào quang điện xesi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oat cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-caesium cell"
       }
     ]
   },
   {
-    "word": "tế bào hắc tố",
+    "word": "tế bào trung bì phôi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-melanocyte\n-melanophore"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mesoblastema"
       }
     ]
   },
   {
-    "word": "tế bào thần kinh đệm (gốc trung bì)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mesoglia"
-      }
-    ]
-  },
-  {
-    "word": "tế bào gai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-prickle cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào ưa bạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-argentaffincelis"
-      }
-    ]
-  },
-  {
-    "word": "tế nông",
+    "word": "tế tử",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tế Nông\n- (xã) h. Nông Cống, t. Thanh Hoá"
+        "dict_definition": "@tế tử\n- Con rể (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế tử - son-in-law"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "son-in-law"
+      }
+    ]
+  },
+  {
+    "word": "tế bào dị loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-heterocellular"
+      }
+    ]
+  },
+  {
+    "word": "tế bào khổng lồ, tế bào khổng lồ có thể có một hay nhiều nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-giant cell"
+      }
+    ]
+  },
+  {
+    "word": "tết dương lịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tết vào đầu năm dương lịch"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tết vào đầu năm dương lịch"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tết dương lịch\n- Ngày đầu năm dương lịch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Tết dương lịch - Western New Year"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "western new year"
+      }
+    ]
+  },
+  {
+    "word": "tết âm lịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem Tết Nguyên Đán"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem Tết Nguyên Đán"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tết âm lịch\n- Nh. Tết Nguyên đán."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tết âm lịch - Lunar New Year"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lunar new year"
+      }
+    ]
+  },
+  {
+    "word": "tế bào phát triển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-budding cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào gốc hồng cầu, nguyên bào hồng cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-karyoblast"
+      }
+    ]
+  },
+  {
+    "word": "tế bào sợi nấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mycetocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào màng ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diaphragm cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào mủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pyocyte"
       }
     ]
   },
@@ -1624,24 +930,234 @@
     ]
   },
   {
-    "word": "tế điền",
+    "word": "tế tiêu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế điền\n- Ruộng mà hoa lợi được dùng vào việc tế lễ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế điền - sacrificial field (its yield used to be offered as sacrifices)"
+        "dict_definition": "@Tế Tiêu\n- (thị trấn) h. Mỹ Đức, t. Hà Tây"
       }
     ]
   },
   {
-    "word": "tế bào (nhỏ)",
+    "word": "tế bào không phản chiếu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cellule"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-non-reflective cell"
+      }
+    ]
+  },
+  {
+    "word": "tế tác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế tác - stop up, obstruct"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "stop up, obstruct"
+      }
+    ]
+  },
+  {
+    "word": "tế bào (bạch cầu) đa nhân to",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-macropolycyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thần kinh có thể niss kết lưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-arkyochrome"
+      }
+    ]
+  },
+  {
+    "word": "tế bào lục nội sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endogonidium"
+      }
+    ]
+  },
+  {
+    "word": "tế bào gai, hồng cầu gai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acanthocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào ngắt điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-s\n@Lĩnh vực: xây dựng\n-switch-great cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cytometer"
+      }
+    ]
+  },
+  {
+    "word": "tế bào mẹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-brood cell\n-mother cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào hình sao sợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fibrous astrocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào bón, dưỡng bào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mast cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào sợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fibrocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế thần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to make a gift, sacrifice (to a deity)"
+      }
+    ]
+  },
+  {
+    "word": "tế bào chị em",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sister cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào quang phát xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photoemissive cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào tủy lách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pulpar cell"
+      }
+    ]
+  },
+  {
+    "word": "tếu táo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ ra quá tếu, không được nghiêm túc\nVí dụ:\n- ăn nói tếu táo \n - tếu táo một lúc cho vui"
+      }
+    ]
+  },
+  {
+    "word": "tết nguyên đán",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tết vào đầu năm âm lịch, theo truyền thống của một số dân tộc như Việt Nam, Trung Quốc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tết vào đầu năm âm lịch, theo truyền thống của một số dân tộc như Việt Nam, Trung Quốc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tết nguyên đán\n- Cg. Tết ta. X. Nguyên đán."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Vietnamese New Year’s festival"
+      }
+    ]
+  },
+  {
+    "word": "tế bào nguyên sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protoplast"
+      }
+    ]
+  },
+  {
+    "word": "tế bào phần cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hardware cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-filter cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào xương răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cementocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào nhạy quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-light-sensitive cell"
       }
     ]
   },
@@ -1651,6 +1167,330 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-myeloplax"
+      }
+    ]
+  },
+  {
+    "word": "tế bào phân rã mô mềm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sarcolyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào quang điện lớp chặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-barrier layer cell\n-blocking layer cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào có lớp chặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-barrier-layer cell"
+      }
+    ]
+  },
+  {
+    "word": "tế hầu ngã xe",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tế Hầu ngã xe\n- Xem Lợn Bối Khâu"
+      }
+    ]
+  },
+  {
+    "word": "tế bần",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tế bần\n- Cứu giúp người nghèo (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế bần [tế bần"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to assist the poor, help the poor"
+      }
+    ]
+  },
+  {
+    "word": "tếch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây to, lá mọc đối, cành và mặt dưới của lá có lông hình sao, hoa màu trắng, gỗ màu vàng ngả nâu, rắn và bền, thường dùng để đóng tàu biển"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bỏ đi, chuồn đi\nVí dụ:\n- thằng sở khanh đã tếch mất"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tếch\n- 1 (F. teck) dt. Cây to, cành và mặt dưới của lá có lông hình sao, hoa màu trắng, gỗ màu vàng ngả nâu, rắn và bền: gỗ tếch.\n- 2 dt. Miếng thịt đỏ ở hai bên tai con gà: mào tếch.\n- 3 dt. Phần dưới cái thuyền: nặng bồng nhẹ tếch (tng.).\n- 4 đgt., khng. Bỏ đi, chuồn khỏi nơi nào, do đã quá chán ngán: chẳng thích thì tếch ngay  mới làm được mấy hôm đã tếch rồi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tếch\n*noun\n-wattle, caruncle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tếch\n* noun\n- wattle, caruncle"
+      }
+    ]
+  },
+  {
+    "word": "tết ta",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "Tết Nguyên Đán; phân biệt với Tết tây"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "Tết Nguyên Đán; phân biệt với Tết tây"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tết ta\n- Nh. Nguyên đán."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Tết ta - New Year festival (lunar calendar)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "new year festival (lunar calendar)"
+      }
+    ]
+  },
+  {
+    "word": "tế bào trứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-egg cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-columar cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào sertoli",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sertolicell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào có màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pigment cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-daughter cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào lông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hairy cell"
+      }
+    ]
+  },
+  {
+    "word": "tế thắng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Tế Thắng\n- (xã) h. Nông Cống, t. Thanh Hoá"
+      }
+    ]
+  },
+  {
+    "word": "tế bào phôi, nguyên bào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blastomere"
+      }
+    ]
+  },
+  {
+    "word": "tế bào đa mức (internet)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Multilevel Cell (Internet) (MLC)"
+      }
+    ]
+  },
+  {
+    "word": "tế bào không nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-akaryote"
+      }
+    ]
+  },
+  {
+    "word": "tế bào hấp thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-absorption cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào kết đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frozen tissue"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thực vật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vegetable cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thần kinh đệm (gốc trung bì)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mesoglia"
+      }
+    ]
+  },
+  {
+    "word": "tế bào mao dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-capillary cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào hình đài tế bào tiết hình trụ trong biểu mô của đường hô hấp và tiêu hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-goblet cell"
+      }
+    ]
+  },
+  {
+    "word": "tế toái",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tế toái\n- Vụn vặt, phiền phức: Công việc tế toái."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế toái - detail, small matter, triffle, complicated, troublesome"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "detail, small matter, trifle, complicated, troublesome"
+      }
+    ]
+  },
+  {
+    "word": "tế bào bằng silic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-silicon photocell"
+      }
+    ]
+  },
+  {
+    "word": "tế thế",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tế thế\n- Giúp đời : Tài tế thế."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế thế\n*verb\n-to help the world"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tế thế\n* verb\n- to help the world"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to help the world, save the world"
+      }
+    ]
+  },
+  {
+    "word": "tế lễ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm lễ tế [nói khái quát]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tế lễ\n- Cúng bái nói chung."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế lễ - sacrifices, offerings, offer sacrifies"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sacrifices, offerings, offer sacrifices"
+      }
+    ]
+  },
+  {
+    "word": "tế bào đơn nhân lách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splenocyte"
       }
     ]
   },
@@ -1684,20 +1524,169 @@
     ]
   },
   {
-    "word": "tế bào szechtman",
+    "word": "tếch toác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-Szechtman cell"
+        "dict_definition": "@tếch toác - be wide open"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be wide open"
       }
     ]
   },
   {
-    "word": "tế bào purkinje",
+    "word": "tế bào có áo ngoại bị tiêu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-purkinje cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spheroblast"
+      }
+    ]
+  },
+  {
+    "word": "tế điền",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tế điền\n- Ruộng mà hoa lợi được dùng vào việc tế lễ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tế điền - sacrificial field (its yield used to be offered as sacrifices)"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thanh dịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-serous cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào mầm tạo huyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-haemopoietic stem cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào tháp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pyramidal cell"
+      }
+    ]
+  },
+  {
+    "word": "tết nhất",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngày tết, về mặt là dịp nghỉ ngơi, vui chơi, sum họp trong một năm [nói khái quát]\nVí dụ:\n- tết nhất đến nơi mà chưa sắm sửa được gì"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tết nhất\n- Ngày tết nói chung."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tết nhất - festivals, hoilidays"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "festivals, holidays"
+      }
+    ]
+  },
+  {
+    "word": "tế bào ống của gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cellular tube"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thần kinh trụ phân nhánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dendraxon"
+      }
+    ]
+  },
+  {
+    "word": "tế bào chủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-host cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bần thần kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nerve cell"
+      }
+    ]
+  },
+  {
+    "word": "tết tây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "Tết dương lịch; phân biệt với Tết ta"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "Tết dương lịch; phân biệt với Tết ta"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Tết tây - New Year festival (solar calenddar), Western New Year"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "new year festival (solar calendar), western new year"
+      }
+    ]
+  },
+  {
+    "word": "tế bào quang điện trở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-photo-resistance cell\n-photo-resistive cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào xốp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spongiocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào nón",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cone"
       }
     ]
   },
@@ -1711,64 +1700,161 @@
     ]
   },
   {
-    "word": "tế bào quang điện xesi",
+    "word": "tế bào thần kinh liên kết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-caesium cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-zygoneure"
       }
     ]
   },
   {
-    "word": "tế bào nhập liệu",
+    "word": "tế bào đơn lẻ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-input cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monad"
       }
     ]
   },
   {
-    "word": "tế bào phần cứng",
+    "word": "tế",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hardware cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào mang sắc tố đỏ",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cúng dâng lễ vật theo nghi thức trọng thể, thường có đọc bài văn và có chiêng trống\nVí dụ:\n- lễ tế trời \n - lạy như tế sao"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[ngựa hoặc trâu bò] phi nước đại hoặc chạy lồng lên\nVí dụ:\n- tế ngựa như bay \n - trâu tế"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mắng chửi ầm ĩ\nVí dụ:\n- chị ta tế nó một mẻ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tế\n- 1 đgt. 1. Cúng dâng trọng thể, thường đọc văn cúng và có trống chiêng kèm theo: Ngày rằm tháng bảy các họ đều tế  áo tế  văn tế. 2. khng., mỉa Chửi mắng ầm ĩ, tới tấp: bị tế một trận vuốt mặt không kịp.\n- 2 đgt. (Ngựa) chạy nước đại: ngựa tế."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-erythrophore"
-      }
-    ]
-  },
-  {
-    "word": "tế bào chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế bào chất\n*noun\n-cytoplasm"
+        "dict_definition": "@tế\n*verb\n-to run (ride at full gallop) to sacrifice, to worship"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tế bào chất\n* noun\n- cytoplasm"
+        "dict_definition": "@tế\n* verb\n- to run (ride at full gallop) to sacrifice, to worship"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cytoplasm"
+        "dict_definition": "to help, assist; to run (ride at full gallop); to sacrifice, worship"
       }
     ]
   },
   {
-    "word": "tế bào lông",
+    "word": "tế bào ion nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hairy cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thermionic cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào túi, tế bào mang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amphicyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào yến mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oat cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào bao schwann",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lemmocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào hình sao chất nguyên sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protoplasmic astrocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào màng não",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-meningocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào thần kinh học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurocytology"
+      }
+    ]
+  },
+  {
+    "word": "tế bào trơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-levicellular"
+      }
+    ]
+  },
+  {
+    "word": "tế bào quang trở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photoresistance cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào nhân ưa màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-karyochrome"
+      }
+    ]
+  },
+  {
+    "word": "tế bào allan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-Allan cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào của ống gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cellular tube"
       }
     ]
   },
@@ -1790,254 +1876,168 @@
     ]
   },
   {
-    "word": "tế bào hốc ung thư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-physaliphore"
-      }
-    ]
-  },
-  {
-    "word": "tế bào bằng silic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-silicon photocell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào nền, tế bào đáy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-basal cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào ống của gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cellular tube"
-      }
-    ]
-  },
-  {
-    "word": "tế bào gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mother cell\n-parent cell"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stem cell, immature cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào schwann",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Schwann cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào gai, hồng cầu gai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acanthocyte"
-      }
-    ]
-  },
-  {
-    "word": "tế độ",
+    "word": "tế điện",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế độ\n- đg. Cứu vớt chúng sinh ra khỏi bể khổ, theo đạo Phật. Ra tay tế độ.\n\n@tế độ\n- Cứu vớt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế độ\n*verb\n-to save, to bless"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tế độ\n* verb\n- to save, to bless"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to save, bless"
+        "dict_definition": "@tế điện\n- tế theo lễ đám tang"
       }
     ]
   },
   {
-    "word": "tế bào màng não",
+    "word": "tế bào nhân khổng lồ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-meningocyte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-megakaryocyte"
       }
     ]
   },
   {
-    "word": "tế bào mầm trứng",
+    "word": "tế bào học",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ovigerm"
-      }
-    ]
-  },
-  {
-    "word": "tế bào thân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stem cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào bón, dưỡng bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mast cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào mẹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-brood cell\n-mother cell"
-      }
-    ]
-  },
-  {
-    "word": "tế bào tủy lách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pulpar cell"
-      }
-    ]
-  },
-  {
-    "word": "tế tử",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế tử\n- Con rể (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tế tử - son-in-law"
+        "dict_definition": "@tế bào học [tế bào học"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "son-in-law"
+        "dict_definition": "cytology"
       }
     ]
   },
   {
-    "word": "tế bào tinh bột",
+    "word": "tế bào hắc tố",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-starch cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-melanocyte\n-melanophore"
       }
     ]
   },
   {
-    "word": "tế bào thần kinh trụ phân nhánh",
+    "word": "tế bào becn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dendraxon"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-BECN Cell (BN)"
       }
     ]
   },
   {
-    "word": "tế bào lục nội sinh",
+    "word": "tế bào tinh thể bragg",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endogonidium"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Bragg cell"
       }
     ]
   },
   {
-    "word": "tế bào tạo bổ thể",
+    "word": "tế bào đốm sắc cầu vồng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-alexocyte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ridocyte"
       }
     ]
   },
   {
-    "word": "tế bào (bạch cầu) đa nhân to",
+    "word": "tế bào hạch thần kinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-macropolycyte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-ganglioneure"
       }
     ]
   },
   {
-    "word": "tế tân",
+    "word": "tế bào đơn chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monoplast"
+      }
+    ]
+  },
+  {
+    "word": "tế bào tủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-marrow cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào xơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cellulofibrous\n-inocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào ngoại mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pericyte"
+      }
+    ]
+  },
+  {
+    "word": "tế nông",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Tế Tân\n- (xã) h. Nông Cống, t. Thanh Hoá"
+        "dict_definition": "@Tế Nông\n- (xã) h. Nông Cống, t. Thanh Hoá"
       }
     ]
   },
   {
-    "word": "tế bào hình sao chất nguyên sinh",
+    "word": "tế bào - niệu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protoplasmic astrocyte"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cyturia"
       }
     ]
   },
   {
-    "word": "tế thế",
+    "word": "tế bào purkinje",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tế thế\n- Giúp đời : Tài tế thế."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@tế thế\n*verb\n-to help the world"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tế thế\n* verb\n- to help the world"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to help the world, save the world"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-purkinje cell"
       }
     ]
   },
   {
-    "word": "tế bào hình đài tế bào tiết hình trụ trong biểu mô của đường hô hấp và tiêu hóa",
+    "word": "tế bào di chuyền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-goblet cell"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-aletocyte"
+      }
+    ]
+  },
+  {
+    "word": "tế bào quang dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-photoconductive cell"
+      }
+    ]
+  },
+  {
+    "word": "tế bào vi khuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bacterial cell"
       }
     ]
   }

@@ -1,19 +1,28 @@
 [
   {
+    "word": "về phía trục thần kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurad"
+      }
+    ]
+  },
+  {
+    "word": "về phía đường dây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-at the line side"
+      }
+    ]
+  },
+  {
     "word": "về quê thăm họ hàng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to go to one’s native village and visit one’s relatives"
-      }
-    ]
-  },
-  {
-    "word": "về phía công nhân",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "on the part of the workers, on the workers’ side"
       }
     ]
   },
@@ -31,33 +40,29 @@
     ]
   },
   {
-    "word": "về phía tây",
+    "word": "về phía mũi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-west"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-forward"
       }
     ]
   },
   {
-    "word": "về già",
+    "word": "về hướng nào",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@về già [về già]\n-to get old;  to grow old\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-turn old"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to get old, grow old"
+        "dict_definition": "in which direction"
       }
     ]
   },
   {
-    "word": "về phía bắc",
+    "word": "về phía trước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-north\n-northerly"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ahead\n-antergia\n-forth\n-forward\n-straight-ahead"
       }
     ]
   },
@@ -71,252 +76,24 @@
     ]
   },
   {
-    "word": "về phía đông",
+    "word": "về không",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-easterly"
-      }
-    ]
-  },
-  {
-    "word": "về phía sau đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dorsocephalad"
-      }
-    ]
-  },
-  {
-    "word": "về mặt pháp luật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-legal"
-      }
-    ]
-  },
-  {
-    "word": "về mọi mặt của đời sống",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in all aspects of life"
-      }
-    ]
-  },
-  {
-    "word": "về phía mũi tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ahead"
-      }
-    ]
-  },
-  {
-    "word": "về các công cụ tài chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-monetary futures market"
-      }
-    ]
-  },
-  {
-    "word": "về tiền bạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-moneyed"
-      }
-    ]
-  },
-  {
-    "word": "về phía nào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in which direction?"
-      }
-    ]
-  },
-  {
-    "word": "về hướng tây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-western"
-      }
-    ]
-  },
-  {
-    "word": "về việc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "regarding, with regards to"
-      }
-    ]
-  },
-  {
-    "word": "về nhật",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to Japan"
-      }
-    ]
-  },
-  {
-    "word": "về mặt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in the area of, with regards to, as for"
-      }
-    ]
-  },
-  {
-    "word": "về phía mũi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-forward"
-      }
-    ]
-  },
-  {
-    "word": "về phía sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-abaft\n-backward\n-backwards"
-      }
-    ]
-  },
-  {
-    "word": "về mặt khoa học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-scientific"
-      }
-    ]
-  },
-  {
-    "word": "về thông tin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-informative"
-      }
-    ]
-  },
-  {
-    "word": "về mặt thống kê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-statistical"
-      }
-    ]
-  },
-  {
-    "word": "về phía thượng lưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-on the upstream side"
-      }
-    ]
-  },
-  {
-    "word": "về hưu hưởng nửa lương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-retire on half pay (to...)"
-      }
-    ]
-  },
-  {
-    "word": "về số chậm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shift down"
-      }
-    ]
-  },
-  {
-    "word": "về chuyện đó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "about that"
-      }
-    ]
-  },
-  {
-    "word": "về phía khuỷu tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anconad"
-      }
-    ]
-  },
-  {
-    "word": "về vườn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[người có chức vị cao] nghỉ việc về nhà, không còn giữ chức vụ gì nữa [thường dùng với hàm ý châm biếm]\nVí dụ:\n- tham ô nên phải về vườn sớm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@về vườn [về vườn"
+        "dict_definition": "@về không [về không]\n-to come back empty-handed"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to be discharged or dismissed from office, be pensioned"
+        "dict_definition": "to come back empty-handed"
       }
     ]
   },
   {
-    "word": "về trường hợp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in the case of"
-      }
-    ]
-  },
-  {
-    "word": "về gốc",
+    "word": "về phương diện kỹ thuật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-home"
-      }
-    ]
-  },
-  {
-    "word": "vều",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[môi, mặt] sưng, phồng to lên\nVí dụ:\n- mặt mũi sưng vều \n - ngã vều môi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vều - swollen, inflated, puffed up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "swollen, inflated, puffed up"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-on a technical level"
       }
     ]
   },
@@ -330,74 +107,29 @@
     ]
   },
   {
-    "word": "về số châm",
+    "word": "về gốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-shift down"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-home"
       }
     ]
   },
   {
-    "word": "về việc đó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "about that"
-      }
-    ]
-  },
-  {
-    "word": "về mặt (nào đó..)",
+    "word": "về phía bắc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-with regard to"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-north\n-northerly"
       }
     ]
   },
   {
-    "word": "về kép",
+    "word": "về phía hạ lưu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dual homed\n-dual homing"
-      }
-    ]
-  },
-  {
-    "word": "về mặt hiệp bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cogradiently"
-      }
-    ]
-  },
-  {
-    "word": "về phương nam",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-southerly"
-      }
-    ]
-  },
-  {
-    "word": "về phuơng bắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-north"
-      }
-    ]
-  },
-  {
-    "word": "về phía việt nam",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "as for Vietnam, with regards to Vietnam, for Vietnam’s part"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-on the downstream side"
       }
     ]
   },
@@ -415,74 +147,11 @@
     ]
   },
   {
-    "word": "về vấn đề",
+    "word": "về phía sau đầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-with regard to\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-in regard to"
-      }
-    ]
-  },
-  {
-    "word": "về phía bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-on shore\n-shoreward"
-      }
-    ]
-  },
-  {
-    "word": "về nhà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to go home"
-      }
-    ]
-  },
-  {
-    "word": "về phía hạ lưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-on the downstream side"
-      }
-    ]
-  },
-  {
-    "word": "về khía cạnh tần số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-about the frequency"
-      }
-    ]
-  },
-  {
-    "word": "về phía biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-seaward\n-seawards"
-      }
-    ]
-  },
-  {
-    "word": "về phương diện",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "with regards to, regarding"
-      }
-    ]
-  },
-  {
-    "word": "về mặt tâm lý",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "for psychological reasons"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dorsocephalad"
       }
     ]
   },
@@ -492,6 +161,24 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-unilateral"
+      }
+    ]
+  },
+  {
+    "word": "về bản chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-essentially\n-in essence"
+      }
+    ]
+  },
+  {
+    "word": "về phía tây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-west"
       }
     ]
   },
@@ -517,11 +204,100 @@
     ]
   },
   {
+    "word": "về số châm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-shift down"
+      }
+    ]
+  },
+  {
+    "word": "vều",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[môi, mặt] sưng, phồng to lên\nVí dụ:\n- mặt mũi sưng vều \n - ngã vều môi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vều - swollen, inflated, puffed up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "swollen, inflated, puffed up"
+      }
+    ]
+  },
+  {
+    "word": "về phía công nhân",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "on the part of the workers, on the workers’ side"
+      }
+    ]
+  },
+  {
+    "word": "về việc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "regarding, with regards to"
+      }
+    ]
+  },
+  {
+    "word": "về hóa học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chemically"
+      }
+    ]
+  },
+  {
+    "word": "về trường hợp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in the case of"
+      }
+    ]
+  },
+  {
     "word": "về chiều hướng này",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "in this area, in this direction"
+      }
+    ]
+  },
+  {
+    "word": "về phía",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "on the side of, on the part of"
+      }
+    ]
+  },
+  {
+    "word": "về hưu hưởng nửa lương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-retire on half pay (to...)"
+      }
+    ]
+  },
+  {
+    "word": "về mặt (nào đó..)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-with regard to"
       }
     ]
   },
@@ -535,38 +311,92 @@
     ]
   },
   {
-    "word": "về phía gió",
+    "word": "về trước",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-windward"
+        "dict_name": "VNEDICT",
+        "dict_definition": "ago"
       }
     ]
   },
   {
-    "word": "về hướng về biển",
+    "word": "về thông tin",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-seaward"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-informative"
       }
     ]
   },
   {
-    "word": "về thống kê",
+    "word": "về phía mũi tàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-statistically"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ahead"
       }
     ]
   },
   {
-    "word": "về phía trước",
+    "word": "về số chậm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ahead\n-antergia\n-forth\n-forward\n-straight-ahead"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shift down"
+      }
+    ]
+  },
+  {
+    "word": "về số lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-numerical\n-quantitative"
+      }
+    ]
+  },
+  {
+    "word": "về mặt hành chính",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "on the administrative side, from an administrative point of view"
+      }
+    ]
+  },
+  {
+    "word": "về phía biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-seaward\n-seawards"
+      }
+    ]
+  },
+  {
+    "word": "về phuơng bắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-north"
+      }
+    ]
+  },
+  {
+    "word": "về phương diện",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "with regards to, regarding"
+      }
+    ]
+  },
+  {
+    "word": "về nước",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to go home (to one’s own country)"
       }
     ]
   },
@@ -580,11 +410,56 @@
     ]
   },
   {
-    "word": "về phía giữa",
+    "word": "về khía cạnh tần số",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-admedian"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-about the frequency"
+      }
+    ]
+  },
+  {
+    "word": "về vấn đề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-with regard to\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-in regard to"
+      }
+    ]
+  },
+  {
+    "word": "về hướng gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-windward"
+      }
+    ]
+  },
+  {
+    "word": "về phần tôi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "for me, as for my part"
+      }
+    ]
+  },
+  {
+    "word": "về mặt số học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-arithmetically"
+      }
+    ]
+  },
+  {
+    "word": "về nhà",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to go home"
       }
     ]
   },
@@ -602,208 +477,110 @@
     ]
   },
   {
-    "word": "về hướng gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-windward"
-      }
-    ]
-  },
-  {
-    "word": "về sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@về sau [về sau]\n-later on;  afterwards\n-subsequent;  later\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-subsequently"
-      }
-    ]
-  },
-  {
-    "word": "về tôi",
+    "word": "về mọi mặt của đời sống",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "about me"
+        "dict_definition": "in all aspects of life"
       }
     ]
   },
   {
-    "word": "về hướng nào",
+    "word": "về việc đó",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "in which direction"
+        "dict_definition": "about that"
       }
     ]
   },
   {
-    "word": "về không",
+    "word": "về thống kê",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@về không [về không]\n-to come back empty-handed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to come back empty-handed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-statistically"
       }
     ]
   },
   {
-    "word": "về phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@về phần [về phần]\n-as for ...;  as to ...;  as regards ...\n@Chuyên ngành kinh tế\n-regarding"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "as for, as to, as regards, concerning, regarding"
-      }
-    ]
-  },
-  {
-    "word": "về khoa học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-scientific"
-      }
-    ]
-  },
-  {
-    "word": "về trước",
+    "word": "về nhật",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "ago"
+        "dict_definition": "to Japan"
       }
     ]
   },
   {
-    "word": "về mặt hành chính",
+    "word": "về phía giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-admedian"
+      }
+    ]
+  },
+  {
+    "word": "về phía thượng lưu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-on the upstream side"
+      }
+    ]
+  },
+  {
+    "word": "về hướng tây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-western"
+      }
+    ]
+  },
+  {
+    "word": "về các công cụ tài chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-monetary futures market"
+      }
+    ]
+  },
+  {
+    "word": "về mặt pháp luật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-legal"
+      }
+    ]
+  },
+  {
+    "word": "về mặt khoa học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-scientific"
+      }
+    ]
+  },
+  {
+    "word": "về mặt",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "on the administrative side, from an administrative point of view"
+        "dict_definition": "in the area of, with regards to, as for"
       }
     ]
   },
   {
-    "word": "về qua biển",
+    "word": "về tiền bạc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sea return"
-      }
-    ]
-  },
-  {
-    "word": "về mặt số học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-arithmetically"
-      }
-    ]
-  },
-  {
-    "word": "về nước",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to go home (to one’s own country)"
-      }
-    ]
-  },
-  {
-    "word": "về mặt chuyên môn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-professional"
-      }
-    ]
-  },
-  {
-    "word": "về hóa học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chemically"
-      }
-    ]
-  },
-  {
-    "word": "về phần tôi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "for me, as for my part"
-      }
-    ]
-  },
-  {
-    "word": "về phía trục thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurad"
-      }
-    ]
-  },
-  {
-    "word": "về bản chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-essentially\n-in essence"
-      }
-    ]
-  },
-  {
-    "word": "về phía",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "on the side of, on the part of"
-      }
-    ]
-  },
-  {
-    "word": "về số lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-numerical\n-quantitative"
-      }
-    ]
-  },
-  {
-    "word": "về phía đường dây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-at the line side"
-      }
-    ]
-  },
-  {
-    "word": "về phía trái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-on the left"
-      }
-    ]
-  },
-  {
-    "word": "về phương diện kỹ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-on a technical level"
+        "dict_definition": "@Chuyên ngành kinh tế\n-moneyed"
       }
     ]
   },
@@ -853,6 +630,229 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(1) about, concerning, regarding; (2) in, towards; (3) to come back, return, go"
+      }
+    ]
+  },
+  {
+    "word": "về vườn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[người có chức vị cao] nghỉ việc về nhà, không còn giữ chức vụ gì nữa [thường dùng với hàm ý châm biếm]\nVí dụ:\n- tham ô nên phải về vườn sớm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@về vườn [về vườn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be discharged or dismissed from office, be pensioned"
+      }
+    ]
+  },
+  {
+    "word": "về tôi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "about me"
+      }
+    ]
+  },
+  {
+    "word": "về già",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@về già [về già]\n-to get old;  to grow old\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-turn old"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to get old, grow old"
+      }
+    ]
+  },
+  {
+    "word": "về hướng về biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-seaward"
+      }
+    ]
+  },
+  {
+    "word": "về phía việt nam",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "as for Vietnam, with regards to Vietnam, for Vietnam’s part"
+      }
+    ]
+  },
+  {
+    "word": "về phần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@về phần [về phần]\n-as for ...;  as to ...;  as regards ...\n@Chuyên ngành kinh tế\n-regarding"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "as for, as to, as regards, concerning, regarding"
+      }
+    ]
+  },
+  {
+    "word": "về phương nam",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-southerly"
+      }
+    ]
+  },
+  {
+    "word": "về phía khuỷu tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anconad"
+      }
+    ]
+  },
+  {
+    "word": "về mặt chuyên môn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-professional"
+      }
+    ]
+  },
+  {
+    "word": "về mặt thống kê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-statistical"
+      }
+    ]
+  },
+  {
+    "word": "về mặt tâm lý",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "for psychological reasons"
+      }
+    ]
+  },
+  {
+    "word": "về phía đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-easterly"
+      }
+    ]
+  },
+  {
+    "word": "về khoa học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-scientific"
+      }
+    ]
+  },
+  {
+    "word": "về phía bờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-on shore\n-shoreward"
+      }
+    ]
+  },
+  {
+    "word": "về sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@về sau [về sau]\n-later on;  afterwards\n-subsequent;  later\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-subsequently"
+      }
+    ]
+  },
+  {
+    "word": "về phía trái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-on the left"
+      }
+    ]
+  },
+  {
+    "word": "về kép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dual homed\n-dual homing"
+      }
+    ]
+  },
+  {
+    "word": "về phía sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-abaft\n-backward\n-backwards"
+      }
+    ]
+  },
+  {
+    "word": "về chuyện đó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "about that"
+      }
+    ]
+  },
+  {
+    "word": "về mặt hiệp bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cogradiently"
+      }
+    ]
+  },
+  {
+    "word": "về phía nào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in which direction?"
+      }
+    ]
+  },
+  {
+    "word": "về qua biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sea return"
+      }
+    ]
+  },
+  {
+    "word": "về phía gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-windward"
       }
     ]
   }

@@ -1,14 +1,5 @@
 [
   {
-    "word": "mci",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-millicurie"
-      }
-    ]
-  },
-  {
     "word": "mc",
     "definitions": [
       {
@@ -18,6 +9,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-microcoulomb"
+      }
+    ]
+  },
+  {
+    "word": "mci",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-millicurie"
       }
     ]
   }

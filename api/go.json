@@ -1,19 +1,56 @@
 [
   {
-    "word": "goòng lật đáy",
+    "word": "gom",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dồn hết lại một chỗ để làm việc gì hoặc để cho gọn\nVí dụ:\n- gom tiền để mua nhà \n - gom rác"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gom\n- đgt 1. Đưa phần của mình vào với người khác: Gom tiền đi du lịch 2. Góp phần mình trong một cuộc đánh bạc: Đánh tổ tôm cò con, cũng phải gom năm trăm đồng."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hopper wagon"
+        "dict_definition": "@gom\n*verb\n-to gather; to collect\n=gom góp\n+to scrape\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-catch\n@Lĩnh vực: xây dựng\n-tidy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gom\n* verb\n- to gather; to collect\n=gom góp+to scrape"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to gather, assemble together"
       }
     ]
   },
   {
-    "word": "goòng dỡ tải",
+    "word": "goòng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xe nhỏ có bánh sắt chạy trên đường ray, thường dùng ở công trường, hầm mỏ, nhà máy\nVí dụ:\n- đường goòng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "toa tàu hoả nhỏ có lắp động cơ dùng để chở hành khách, hàng hoá trên một đoạn đường sắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@goòng\n- d. Xe nhỏ có bốn bánh sắt chuyển trên đường ray để chở than, quặng, đất."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-car unloader"
+        "dict_definition": "@goòng [goòng]\n-xem\n@Chuyên ngành kỹ thuật\n-buggy\n-car\n-carriage\n-trolley"
+      }
+    ]
+  },
+  {
+    "word": "golf",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "môn thể thao ngoài trời, người chơi dùng cây gậy dài để đánh quả bóng nhỏ vào chín hay mười tám lỗ trên sân cỏ, có tính điểm"
       }
     ]
   },
@@ -27,20 +64,20 @@
     ]
   },
   {
-    "word": "goòng trở (đổ nghiêng được)",
+    "word": "gorilla",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tip car, tip truck"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "loài linh trưởng rất lớn có hình dạng giống như người, cao tới 1,80 mét, sống ở châu Phi."
       }
     ]
   },
   {
-    "word": "goòng tự chạy",
+    "word": "goòng có thùng lật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-self-propelled carriage"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tip box car"
       }
     ]
   },
@@ -54,7 +91,132 @@
     ]
   },
   {
-    "word": "goòng lò",
+    "word": "goòng lật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gunboat\n-jubilee wagon"
+      }
+    ]
+  },
+  {
+    "word": "goòng chở (đổ nghiêng được)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tip car, tip truck"
+      }
+    ]
+  },
+  {
+    "word": "gom thành đống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stock piling"
+      }
+    ]
+  },
+  {
+    "word": "goòng chở người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mancar"
+      }
+    ]
+  },
+  {
+    "word": "goòng treo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overhead carriage\n-ropeway car"
+      }
+    ]
+  },
+  {
+    "word": "goòng đạp chân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Car, Pump"
+      }
+    ]
+  },
+  {
+    "word": "goòng lật đáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hopper wagon"
+      }
+    ]
+  },
+  {
+    "word": "gom các hàng hóa lại (thành công-ten-nơ để gửi đi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-consolidation"
+      }
+    ]
+  },
+  {
+    "word": "goòng thùng lật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-skip wagon\n-tip-up car\n-tip-up wagon"
+      }
+    ]
+  },
+  {
+    "word": "gothic",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phong cách nghệ thuật kiến trúc thời Trung Cổ ở châu Âu, có đặc trưng nổi bật là những vòm cuốn được xây theo hình quả trám"
+      }
+    ]
+  },
+  {
+    "word": "goá bụa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "goá chồng [hoặc đôi khi, goá vợ], về mặt đời sống cô đơn [nói khái quát]\nVí dụ:\n- sống cảnh goá bụa"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@goá bụa\n*adj\n-widow"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@goá bụa\n* adj\n- widow"
+      }
+    ]
+  },
+  {
+    "word": "goòng dỡ tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-car unloader"
+      }
+    ]
+  },
+  {
+    "word": "goá phụ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như quả phụ"
+      }
+    ]
+  },
+  {
+    "word": "goòng thiêu",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -63,11 +225,20 @@
     ]
   },
   {
-    "word": "goòng đường sắt loại lớn",
+    "word": "goòng nhỏ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Car, Trailer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bogie"
+      }
+    ]
+  },
+  {
+    "word": "gođonit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gordonite"
       }
     ]
   },
@@ -97,188 +268,11 @@
     ]
   },
   {
-    "word": "gom thành đơn vị tiêu chuẩn",
+    "word": "gom hàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-unitization"
-      }
-    ]
-  },
-  {
-    "word": "gopher",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gopher"
-      }
-    ]
-  },
-  {
-    "word": "gođonit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gordonite"
-      }
-    ]
-  },
-  {
-    "word": "gom nhặt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gom lại, thu nhặt lại từ nhiều nơi\nVí dụ:\n- bà ấy gom nhặt từng mẩu sắt vụn"
-      }
-    ]
-  },
-  {
-    "word": "goòng nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bogie"
-      }
-    ]
-  },
-  {
-    "word": "gom",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dồn hết lại một chỗ để làm việc gì hoặc để cho gọn\nVí dụ:\n- gom tiền để mua nhà \n - gom rác"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gom\n- đgt 1. Đưa phần của mình vào với người khác: Gom tiền đi du lịch 2. Góp phần mình trong một cuộc đánh bạc: Đánh tổ tôm cò con, cũng phải gom năm trăm đồng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gom\n*verb\n-to gather; to collect\n=gom góp\n+to scrape\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-catch\n@Lĩnh vực: xây dựng\n-tidy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gom\n* verb\n- to gather; to collect\n=gom góp+to scrape"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to gather, assemble together"
-      }
-    ]
-  },
-  {
-    "word": "goòng chở (đổ nghiêng được)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tip car, tip truck"
-      }
-    ]
-  },
-  {
-    "word": "golf",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "môn thể thao ngoài trời, người chơi dùng cây gậy dài để đánh quả bóng nhỏ vào chín hay mười tám lỗ trên sân cỏ, có tính điểm"
-      }
-    ]
-  },
-  {
-    "word": "goòng thùng lật nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-small signal parameter\n-spoil car\n-trolley"
-      }
-    ]
-  },
-  {
-    "word": "goá bụa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "goá chồng [hoặc đôi khi, goá vợ], về mặt đời sống cô đơn [nói khái quát]\nVí dụ:\n- sống cảnh goá bụa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@goá bụa\n*adj\n-widow"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@goá bụa\n* adj\n- widow"
-      }
-    ]
-  },
-  {
-    "word": "gorilla",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "loài linh trưởng rất lớn có hình dạng giống như người, cao tới 1,80 mét, sống ở châu Phi."
-      }
-    ]
-  },
-  {
-    "word": "goòng có động cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-self-propelled carriage"
-      }
-    ]
-  },
-  {
-    "word": "goòng đẩy tay bốn bánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hand car"
-      }
-    ]
-  },
-  {
-    "word": "goòng có thùng lật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tip box car"
-      }
-    ]
-  },
-  {
-    "word": "gom nhóp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như góp nhặt\nVí dụ:\n- bà ấy gom nhóp từng mẩu sắt vụn"
-      }
-    ]
-  },
-  {
-    "word": "goòng một ray",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-monorail carriage"
-      }
-    ]
-  },
-  {
-    "word": "gom các hàng hóa lại (thành công-ten-nơ để gửi đi)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-consolidation"
-      }
-    ]
-  },
-  {
-    "word": "goòng phễu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hopper"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cargo consolidation"
       }
     ]
   },
@@ -292,50 +286,29 @@
     ]
   },
   {
-    "word": "goòng đẩy tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Car, Hand\n-Car, Push\n-push car"
-      }
-    ]
-  },
-  {
-    "word": "gom thành đống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stock piling"
-      }
-    ]
-  },
-  {
-    "word": "goòng",
+    "word": "gom nhóp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xe nhỏ có bánh sắt chạy trên đường ray, thường dùng ở công trường, hầm mỏ, nhà máy\nVí dụ:\n- đường goòng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "toa tàu hoả nhỏ có lắp động cơ dùng để chở hành khách, hàng hoá trên một đoạn đường sắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@goòng\n- d. Xe nhỏ có bốn bánh sắt chuyển trên đường ray để chở than, quặng, đất."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@goòng [goòng]\n-xem\n@Chuyên ngành kỹ thuật\n-buggy\n-car\n-carriage\n-trolley"
+        "dict_definition": "như góp nhặt\nVí dụ:\n- bà ấy gom nhóp từng mẩu sắt vụn"
       }
     ]
   },
   {
-    "word": "goòng thùng lật",
+    "word": "goòng đường sắt loại lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-skip wagon\n-tip-up car\n-tip-up wagon"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Car, Trailer"
+      }
+    ]
+  },
+  {
+    "word": "goòng một ray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-monorail carriage"
       }
     ]
   },
@@ -345,179 +318,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gonardite"
-      }
-    ]
-  },
-  {
-    "word": "goá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có chồng hay vợ đã chết\nVí dụ:\n- goá vợ \n - mẹ goá con côi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@goá\n*adj\n-widowed\n=cô ta còn ở góa\n+She remained a widow\n=góa vợ\n+widower"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@goá\n* adj\n- widowed\n=cô ta còn ở góa+She remained a widow\n=góa vợ+widower"
-      }
-    ]
-  },
-  {
-    "word": "gon",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cỏ dùng để dệt chiếu, đan buồm\nVí dụ:\n- chiếu gon"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gon\n- d. Thứ cỏ dùng để dệt buồm, vỉ, chiếu: Chiếu gon.\n- đg. Vun cho có ngọn: Gon đống thóc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gon\n-Sedge\n=Chiếu gon\n+Sedge mat\n-Heap up\n=Gon đống thóc vào một góc sân\n+To heap up paddy in a corner of the yard"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gon\n- Sedge\n=Chiếu gon+Sedge mat\n-Heap up\n=Gon đống thóc vào một góc sân+To heap up paddy in a corner of the yard"
-      }
-    ]
-  },
-  {
-    "word": "goòng bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-waggon"
-      }
-    ]
-  },
-  {
-    "word": "goòng đạp chân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Car, Pump"
-      }
-    ]
-  },
-  {
-    "word": "goòng hầm lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mine car\n-pit car"
-      }
-    ]
-  },
-  {
-    "word": "goòng chở người",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mancar"
-      }
-    ]
-  },
-  {
-    "word": "gom vào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pack in"
-      }
-    ]
-  },
-  {
-    "word": "goòng rung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vibrocar"
-      }
-    ]
-  },
-  {
-    "word": "gothic",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phong cách nghệ thuật kiến trúc thời Trung Cổ ở châu Âu, có đặc trưng nổi bật là những vòm cuốn được xây theo hình quả trám"
-      }
-    ]
-  },
-  {
-    "word": "goòng mỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-corve\n-mine car\n-pit car"
-      }
-    ]
-  },
-  {
-    "word": "goòng tự lật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tip box car"
-      }
-    ]
-  },
-  {
-    "word": "gom hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cargo consolidation"
-      }
-    ]
-  },
-  {
-    "word": "goòng lật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gunboat\n-jubilee wagon"
-      }
-    ]
-  },
-  {
-    "word": "gom góp lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-accumulate"
-      }
-    ]
-  },
-  {
-    "word": "goá phụ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như quả phụ"
-      }
-    ]
-  },
-  {
-    "word": "goòng treo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overhead carriage\n-ropeway car"
-      }
-    ]
-  },
-  {
-    "word": "goòng thiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-burning car\n-kiln car"
       }
     ]
   },
@@ -547,11 +347,211 @@
     ]
   },
   {
+    "word": "gom vào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pack in"
+      }
+    ]
+  },
+  {
+    "word": "goòng tự chạy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-self-propelled carriage"
+      }
+    ]
+  },
+  {
+    "word": "goòng đẩy tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Car, Hand\n-Car, Push\n-push car"
+      }
+    ]
+  },
+  {
+    "word": "goòng phễu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hopper"
+      }
+    ]
+  },
+  {
+    "word": "goòng mỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-corve\n-mine car\n-pit car"
+      }
+    ]
+  },
+  {
+    "word": "goòng lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-burning car\n-kiln car"
+      }
+    ]
+  },
+  {
+    "word": "gopher",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gopher"
+      }
+    ]
+  },
+  {
+    "word": "goòng có động cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-self-propelled carriage"
+      }
+    ]
+  },
+  {
     "word": "gongarit",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-goongarrite"
+      }
+    ]
+  },
+  {
+    "word": "goòng hầm lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mine car\n-pit car"
+      }
+    ]
+  },
+  {
+    "word": "goòng bằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-waggon"
+      }
+    ]
+  },
+  {
+    "word": "gon",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cỏ dùng để dệt chiếu, đan buồm\nVí dụ:\n- chiếu gon"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gon\n- d. Thứ cỏ dùng để dệt buồm, vỉ, chiếu: Chiếu gon.\n- đg. Vun cho có ngọn: Gon đống thóc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gon\n-Sedge\n=Chiếu gon\n+Sedge mat\n-Heap up\n=Gon đống thóc vào một góc sân\n+To heap up paddy in a corner of the yard"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gon\n- Sedge\n=Chiếu gon+Sedge mat\n-Heap up\n=Gon đống thóc vào một góc sân+To heap up paddy in a corner of the yard"
+      }
+    ]
+  },
+  {
+    "word": "goá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có chồng hay vợ đã chết\nVí dụ:\n- goá vợ \n - mẹ goá con côi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@goá\n*adj\n-widowed\n=cô ta còn ở góa\n+She remained a widow\n=góa vợ\n+widower"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@goá\n* adj\n- widowed\n=cô ta còn ở góa+She remained a widow\n=góa vợ+widower"
+      }
+    ]
+  },
+  {
+    "word": "goòng tự lật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tip box car"
+      }
+    ]
+  },
+  {
+    "word": "gom nhặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gom lại, thu nhặt lại từ nhiều nơi\nVí dụ:\n- bà ấy gom nhặt từng mẩu sắt vụn"
+      }
+    ]
+  },
+  {
+    "word": "goòng đẩy tay bốn bánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-hand car"
+      }
+    ]
+  },
+  {
+    "word": "goòng thùng lật nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-small signal parameter\n-spoil car\n-trolley"
+      }
+    ]
+  },
+  {
+    "word": "goòng trở (đổ nghiêng được)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tip car, tip truck"
+      }
+    ]
+  },
+  {
+    "word": "gom góp lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-accumulate"
+      }
+    ]
+  },
+  {
+    "word": "goòng rung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vibrocar"
+      }
+    ]
+  },
+  {
+    "word": "gom thành đơn vị tiêu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-unitization"
       }
     ]
   }

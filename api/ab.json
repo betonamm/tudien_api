@@ -1,46 +1,10 @@
 [
   {
-    "word": "abculong",
+    "word": "abvon trên centimét",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aC\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aC"
-      }
-    ]
-  },
-  {
-    "word": "abc (bảng chữ cái)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-alphabet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-alphabet"
-      }
-    ]
-  },
-  {
-    "word": "abricotin (rượu mùi)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-abricotine"
-      }
-    ]
-  },
-  {
-    "word": "abampe centimét vuông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aAcm2\n-abampere centimeter squared\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aAcm2\n-abampere centimeter squared"
-      }
-    ]
-  },
-  {
-    "word": "abculong trên centimét vuông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per square centimeter\n-aC/cm2\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per square centimeter\n-aC/cm2"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aV/cm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aV/cm"
       }
     ]
   },
@@ -54,6 +18,15 @@
     ]
   },
   {
+    "word": "abculong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aC\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aC"
+      }
+    ]
+  },
+  {
     "word": "abculong centimét",
     "definitions": [
       {
@@ -63,11 +36,20 @@
     ]
   },
   {
-    "word": "abom",
+    "word": "abculong trên centimét khối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aW\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aW"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per cubic centimeter\n-aC/cm3\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per cubic centimeter\n-aC/cm3"
+      }
+    ]
+  },
+  {
+    "word": "abricotin (rượu mùi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-abricotine"
       }
     ]
   },
@@ -81,15 +63,6 @@
     ]
   },
   {
-    "word": "abvon trên centimét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aV/cm\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aV/cm"
-      }
-    ]
-  },
-  {
     "word": "abietin (dầu cây tùng)",
     "definitions": [
       {
@@ -99,11 +72,38 @@
     ]
   },
   {
-    "word": "abculong trên centimét khối",
+    "word": "abc (bảng chữ cái)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per cubic centimeter\n-aC/cm3\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per cubic centimeter\n-aC/cm3"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-alphabet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-alphabet"
+      }
+    ]
+  },
+  {
+    "word": "abom",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aW\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aW"
+      }
+    ]
+  },
+  {
+    "word": "abculong trên centimét vuông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per square centimeter\n-aC/cm2\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-abcoulomb per square centimeter\n-aC/cm2"
+      }
+    ]
+  },
+  {
+    "word": "abampe centimét vuông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aAcm2\n-abampere centimeter squared\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aAcm2\n-abampere centimeter squared"
       }
     ]
   }

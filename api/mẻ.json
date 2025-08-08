@@ -1,5 +1,59 @@
 [
   {
+    "word": "mẻ liệu (lò)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-load"
+      }
+    ]
+  },
+  {
+    "word": "mẻ (trộn) định lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batch"
+      }
+    ]
+  },
+  {
+    "word": "mẻ nấu đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sugar batch"
+      }
+    ]
+  },
+  {
+    "word": "mẻ nạp nước muối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brine charge"
+      }
+    ]
+  },
+  {
+    "word": "mẻ (giấy)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-batch"
+      }
+    ]
+  },
+  {
+    "word": "mẻ liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-batch\n-charge\n-charging\n-ore and flux\n-top"
+      }
+    ]
+  },
+  {
     "word": "mẻ",
     "definitions": [
       {
@@ -37,47 +91,92 @@
     ]
   },
   {
-    "word": "mẻ nấu đường",
+    "word": "mẻ vữa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sugar batch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batch (of mortar)\n-batch of mortar"
       }
     ]
   },
   {
-    "word": "mẻ liệu (lò)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-load"
-      }
-    ]
-  },
-  {
-    "word": "mẻ nạp chất hấp phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-absorber charge\n-adsorbed charge"
-      }
-    ]
-  },
-  {
-    "word": "mẻ bêtông trộn thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial batch of concrete"
-      }
-    ]
-  },
-  {
-    "word": "mẻ ra nước đá",
+    "word": "mẻ ra đá",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice harvesting"
+      }
+    ]
+  },
+  {
+    "word": "mẻ thu hoạch nước đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice harvesting"
+      }
+    ]
+  },
+  {
+    "word": "mẻ trộn thí nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial batch"
+      }
+    ]
+  },
+  {
+    "word": "mẻ nấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-melting"
+      }
+    ]
+  },
+  {
+    "word": "mẻ thu hoạch đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice harvesting"
+      }
+    ]
+  },
+  {
+    "word": "mẻ trộn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mixture\n@Chuyên ngành kỹ thuật\n-batch\n@Lĩnh vực: xây dựng\n-paste"
+      }
+    ]
+  },
+  {
+    "word": "mẻ ngâm (đay)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-batch"
+      }
+    ]
+  },
+  {
+    "word": "mẻ sứt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nicked"
+      }
+    ]
+  },
+  {
+    "word": "mẻ gạch nung trong lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-furnace burning-in"
       }
     ]
   },
@@ -91,11 +190,74 @@
     ]
   },
   {
+    "word": "mẻ bê tông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-batch\n@Lĩnh vực: xây dựng\n-batch (of concrete)"
+      }
+    ]
+  },
+  {
     "word": "mẻ lưới",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-haul"
+      }
+    ]
+  },
+  {
+    "word": "mẻ ra nước đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice harvesting"
+      }
+    ]
+  },
+  {
+    "word": "mẻ thử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-trial batch"
+      }
+    ]
+  },
+  {
+    "word": "mẻ đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cast\n@Lĩnh vực: cơ khí & công trình\n-strike"
+      }
+    ]
+  },
+  {
+    "word": "mẻ trộn thử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial batch\n-trial mix"
+      }
+    ]
+  },
+  {
+    "word": "mẻ bêtông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batch of concrete\n-batching"
+      }
+    ]
+  },
+  {
+    "word": "mẻ rót (đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-shot"
       }
     ]
   },
@@ -117,110 +279,20 @@
     ]
   },
   {
-    "word": "mẻ nấu",
+    "word": "mẻ (số lượng thu được tại mỏ hoặc mua được ở mỏ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-melting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-take"
       }
     ]
   },
   {
-    "word": "mẻ gạch nung trong lò",
+    "word": "mẻ chính",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-furnace burning-in"
-      }
-    ]
-  },
-  {
-    "word": "mẻ trộn thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial batch\n-trial mix"
-      }
-    ]
-  },
-  {
-    "word": "mẻ nạp nước muối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-brine charge"
-      }
-    ]
-  },
-  {
-    "word": "mẻ thu hoạch nước đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice harvesting"
-      }
-    ]
-  },
-  {
-    "word": "mẻ (giấy)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-batch"
-      }
-    ]
-  },
-  {
-    "word": "mẻ rót (đúc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-shot"
-      }
-    ]
-  },
-  {
-    "word": "mẻ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-batch\n-charge\n-charging\n-ore and flux\n-top"
-      }
-    ]
-  },
-  {
-    "word": "mẻ thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-trial batch"
-      }
-    ]
-  },
-  {
-    "word": "mẻ trộn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mixture\n@Chuyên ngành kỹ thuật\n-batch\n@Lĩnh vực: xây dựng\n-paste"
-      }
-    ]
-  },
-  {
-    "word": "mẻ (lò cao)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-round"
-      }
-    ]
-  },
-  {
-    "word": "mẻ ra đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice harvesting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-master batch"
       }
     ]
   },
@@ -234,60 +306,6 @@
     ]
   },
   {
-    "word": "mẻ bêtông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batch of concrete\n-batching"
-      }
-    ]
-  },
-  {
-    "word": "mẻ vữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batch (of mortar)\n-batch of mortar"
-      }
-    ]
-  },
-  {
-    "word": "mẻ ngâm (đay)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-batch"
-      }
-    ]
-  },
-  {
-    "word": "mẻ đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cast\n@Lĩnh vực: cơ khí & công trình\n-strike"
-      }
-    ]
-  },
-  {
-    "word": "mẻ (số lượng thu được tại mỏ hoặc mua được ở mỏ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-take"
-      }
-    ]
-  },
-  {
-    "word": "mẻ thu hoạch đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice harvesting"
-      }
-    ]
-  },
-  {
     "word": "mẻ ra",
     "definitions": [
       {
@@ -297,11 +315,20 @@
     ]
   },
   {
-    "word": "mẻ sứt",
+    "word": "mẻ bêtông trộn thử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-nicked"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial batch of concrete"
+      }
+    ]
+  },
+  {
+    "word": "mẻ nạp chất hấp phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-absorber charge\n-adsorbed charge"
       }
     ]
   },
@@ -315,38 +342,11 @@
     ]
   },
   {
-    "word": "mẻ trộn thí nghiệm",
+    "word": "mẻ (lò cao)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trial batch"
-      }
-    ]
-  },
-  {
-    "word": "mẻ (trộn) định lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batch"
-      }
-    ]
-  },
-  {
-    "word": "mẻ bê tông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-batch\n@Lĩnh vực: xây dựng\n-batch (of concrete)"
-      }
-    ]
-  },
-  {
-    "word": "mẻ chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-master batch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-round"
       }
     ]
   }

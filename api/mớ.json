@@ -1,176 +1,69 @@
 [
   {
-    "word": "mới thay cũ",
+    "word": "mới vào (ở, nhậm chức)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-new for old"
+        "dict_definition": "@Chuyên ngành kinh tế\n-incoming"
       }
     ]
   },
   {
-    "word": "mớn nước chở nặng",
+    "word": "mớ (hàng hóa)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-deep draft"
+        "dict_definition": "@Chuyên ngành kinh tế\n-lot"
       }
     ]
   },
   {
-    "word": "mới đây",
+    "word": "mớ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cách đây không lâu\nVí dụ:\n- chuyện vừa xảy ra mới đây \n - mới đây tôi còn gặp nó"
+        "dict_definition": "tập hợp gồm một số vật cùng loại được gộp lại thành đơn vị\nVí dụ:\n- mua mớ rau muống \n - mớ tép"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "số lượng tương đối nhiều những vật, những thứ cùng loại [thường bị coi là ít có giá trị] nhưng khác nhau nhiều và ở tình trạng lộn xộn, không có trật tự [hàm ý chê]\nVí dụ:\n- rối như mớ bòng bong \n - đưa ra một mớ lí thuyết \n - cầm theo một mớ giấy tờ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nói mê trong khi ngủ\nVí dụ:\n- ngủ hay mớ"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ mới đây\n- ph. Vừa qua: Mới đây còn gặp."
+        "dict_definition": "@mớ\n- d. Mười vạn: Trăm nghìn vạn mớ để vào đâu (Trần Tế Xương).\n- (đph) đg. Nói mê trong khi ngủ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@mới đây\n-Most recently, lately\n=Mới đây còn khỏe mà nay đã chết rồi\n+He was still in good health most recently but is now dead"
+        "dict_definition": "@mớ\n*noun\n-cot*verb\n-to talk in one\"s sleep\n@Chuyên ngành kinh tế\n-batch\n@Chuyên ngành kỹ thuật\n-bulk\n-bundle\n-lot"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mới đây\n- Most recently, lately\n=Mới đây còn khỏe mà nay đã chết rồi+He was still in good health most recently but is now dead"
+        "dict_definition": "@mớ\n* noun\n- cot\n* verb\n- to talk in one's sleep"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(most) recently, lately"
+        "dict_definition": "(1) to talk in one’s sleep; (2) lot, amount, batch; (3) hundred thousand"
       }
     ]
   },
   {
-    "word": "mới đầu",
+    "word": "mớn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lúc mới bắt đầu\nVí dụ:\n- lúc mới đầu \n - mới đầu thì ngại, sau thành quen"
+        "dict_definition": "khoang tàu thuyền, dùng làm nơi chứa người hoặc hàng hoá khi chuyên chở"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@mới đầu [mới đầu]\n-xem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in the beginning, at first"
-      }
-    ]
-  },
-  {
-    "word": "mớ đường bậc hai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic line complex"
-      }
-    ]
-  },
-  {
-    "word": "mới làm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "new-made"
-      }
-    ]
-  },
-  {
-    "word": "mớn nước sâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-deep draft\n@Chuyên ngành kỹ thuật\n-deep-waterline"
-      }
-    ]
-  },
-  {
-    "word": "mới tới",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to just arrive"
-      }
-    ]
-  },
-  {
-    "word": "mới phải",
-    "definitions": [
-      {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý nhận định về điều đáng lẽ phải được làm hoặc nên làm như thế\nVí dụ:\n- đúng ra anh nên đi mới phải"
-      }
-    ]
-  },
-  {
-    "word": "mớ vô hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-infinite complex"
-      }
-    ]
-  },
-  {
-    "word": "mới chợt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "suddenly"
-      }
-    ]
-  },
-  {
-    "word": "mới toanh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mới tinh\nVí dụ:\n- bộ bàn ghế mới toanh \n - chiếc xe mới toanh"
+        "dict_definition": "mớn nước [nói tắt]\nVí dụ:\n- tàu buộc phải dỡ bớt hàng để giảm mớn trước khi vào cảng"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mới toanh\n- Nh. Mới tinh (thtục): Xe đạp mới toanh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mới toanh\n-(thông tục) Brand-new"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mới toanh\n- (thông tục) Brand-new"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "brand-new"
-      }
-    ]
-  },
-  {
-    "word": "mớ tuyến tính mật tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-osculating linear complex"
-      }
-    ]
-  },
-  {
-    "word": "mớ tuyến tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-linear complex"
-      }
-    ]
-  },
-  {
-    "word": "mới lúc nãy đây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "just a moment ago"
+        "dict_definition": "@mớn\n- d. Chỗ chứa người và hàng trong thuyền: Sao cô ăn nói ỡm ờ, Thuyền anh chật mớn cô chờ làm sao (cd)."
       }
     ]
   },
@@ -184,11 +77,53 @@
     ]
   },
   {
-    "word": "mới sang đây",
+    "word": "mới mẻ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mới hoàn toàn, khác hẳn với những gì trước đó\nVí dụ:\n- cách làm mới mẻ \n - chuyện ấy lâu rồi chứ mới mẻ gì!"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mới mẻ\n- Vừa có hay vừa biết: Tin tức mới mẻ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mới mẻ\n-Fresh\n=Tin tức mới mẻ\n+Fresh news"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mới mẻ\n- Fresh\n=Tin tức mới mẻ+Fresh news"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "new, recent, fresh"
+      }
+    ]
+  },
+  {
+    "word": "mới về",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to just arrive, just get here"
+        "dict_definition": "to just return, just get back"
+      }
+    ]
+  },
+  {
+    "word": "mớm lời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mớm lời\n- Xui người khác nói ra điều mình muốn nói."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mớm lời [mớm lời]\n-to put words into somebody\"s mouth;  to prime somebody about what to say"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to put words into somebody’s mouth, prime somebody about what to say"
       }
     ]
   },
@@ -250,238 +185,11 @@
     ]
   },
   {
-    "word": "mới tinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "còn mới nguyên, chưa hề dùng đến\nVí dụ:\n- bộ quần áo mới tinh \n - trang giấy mới tinh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mới tinh\n- Còn nguyên, chưa dùng đến: Quần áo mới tinh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mới tinh\n-Brand-new\n=Cái xe đạp mới tinh\n+A brand-new bicycle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mới tinh\n- Brand-new\n=Cái xe đạp mới tinh+A brand-new bicycle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "brand-new"
-      }
-    ]
-  },
-  {
-    "word": "mới xuất hiện trong phát triển tâm thần",
+    "word": "mới phát, khởi sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cenopsychic"
-      }
-    ]
-  },
-  {
-    "word": "mớ đối hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex in involution"
-      }
-    ]
-  },
-  {
-    "word": "mới hay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mới hay\n- ph. Cho hay, biết được sau một kinh nghiệm: Mới hay muôn sự tại trời (K)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mới hay\n-như cho hay"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mới hay\n- như cho hay"
-      }
-    ]
-  },
-  {
-    "word": "mớm lời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mớm lời\n- Xui người khác nói ra điều mình muốn nói."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mớm lời [mớm lời]\n-to put words into somebody\"s mouth;  to prime somebody about what to say"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to put words into somebody’s mouth, prime somebody about what to say"
-      }
-    ]
-  },
-  {
-    "word": "mớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mớp\n-(địa phương) xem mắc mớp"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mớp\n- (địa phương) xem mắc mớp"
-      }
-    ]
-  },
-  {
-    "word": "mới nở",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "newborn"
-      }
-    ]
-  },
-  {
-    "word": "mớn nước cạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-light draught"
-      }
-    ]
-  },
-  {
-    "word": "mới rồi, người ta tìm được một ngôi sao mới",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "In most recent days, a new star has been discovered"
-      }
-    ]
-  },
-  {
-    "word": "mới nứt mắt mà đã hút thuốc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to smoke at too young an age"
-      }
-    ]
-  },
-  {
-    "word": "mới mẻ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mới hoàn toàn, khác hẳn với những gì trước đó\nVí dụ:\n- cách làm mới mẻ \n - chuyện ấy lâu rồi chứ mới mẻ gì!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mới mẻ\n- Vừa có hay vừa biết: Tin tức mới mẻ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mới mẻ\n-Fresh\n=Tin tức mới mẻ\n+Fresh news"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mới mẻ\n- Fresh\n=Tin tức mới mẻ+Fresh news"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "new, recent, fresh"
-      }
-    ]
-  },
-  {
-    "word": "mới sinh, sơ sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-newborn"
-      }
-    ]
-  },
-  {
-    "word": "mới cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fresh-ent"
-      }
-    ]
-  },
-  {
-    "word": "mớn nước không tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-light draught\n@Chuyên ngành kỹ thuật\n-light waterline"
-      }
-    ]
-  },
-  {
-    "word": "mới nhom nhem vài câu tiếng nga",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have just a smattering of Russian"
-      }
-    ]
-  },
-  {
-    "word": "mới nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-go-go\n-late-breaking\n-latest\n-newest\n-state-of-the-art"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "newest, latest, most recent"
-      }
-    ]
-  },
-  {
-    "word": "mới ốm dậy nước da nhợt nhạt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to look pale, recovering from and illness"
-      }
-    ]
-  },
-  {
-    "word": "mới về",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to just return, just get back"
-      }
-    ]
-  },
-  {
-    "word": "mới tạo thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-neoformation"
-      }
-    ]
-  },
-  {
-    "word": "mới thành lập",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "newly founded, newly established"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-incipient"
       }
     ]
   },
@@ -495,37 +203,29 @@
     ]
   },
   {
-    "word": "mới coong",
+    "word": "mớ tuyến tính lưỡng tiếp",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mới tinh\nVí dụ:\n- chiếc xe mới coong"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bitangent linear complex"
       }
     ]
   },
   {
-    "word": "mớn nước",
+    "word": "mớ đường cong",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần thân tàu, thuyền chìm trong nước, tính từ đáy tàu, thuyền đến mặt nước"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@mớn nước [mớn nước]\n*danh từ\n-water-line\n@Chuyên ngành kinh tế\n-draught\n-sea gauge (sea-gauge)\n-water-line"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "water-line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex of curves"
       }
     ]
   },
   {
-    "word": "mới sinh",
+    "word": "mớn nước cạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-juvenile\n-nascent"
+        "dict_definition": "@Chuyên ngành kinh tế\n-light draught"
       }
     ]
   },
@@ -555,29 +255,47 @@
     ]
   },
   {
-    "word": "mớ các hình cầu",
+    "word": "mới bắt đầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex of spheres"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-incipient"
       }
     ]
   },
   {
-    "word": "mớị ~ thôi",
+    "word": "mới cắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fresh-ent"
+      }
+    ]
+  },
+  {
+    "word": "mới hiểu",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "just, only"
+        "dict_definition": "to finally understand"
       }
     ]
   },
   {
-    "word": "mới phát, khởi sinh",
+    "word": "mới nứt mắt mà đã hút thuốc",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-incipient"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to smoke at too young an age"
+      }
+    ]
+  },
+  {
+    "word": "mớm trống",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mớm trống\n- Miết cơm vào mặt trống cơm."
       }
     ]
   },
@@ -607,11 +325,135 @@
     ]
   },
   {
-    "word": "mới đến",
+    "word": "mớ cần sa",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to just arrive, have just arrived"
+        "dict_definition": "marijuana stash"
+      }
+    ]
+  },
+  {
+    "word": "mới đây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cách đây không lâu\nVí dụ:\n- chuyện vừa xảy ra mới đây \n - mới đây tôi còn gặp nó"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ mới đây\n- ph. Vừa qua: Mới đây còn gặp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mới đây\n-Most recently, lately\n=Mới đây còn khỏe mà nay đã chết rồi\n+He was still in good health most recently but is now dead"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mới đây\n- Most recently, lately\n=Mới đây còn khỏe mà nay đã chết rồi+He was still in good health most recently but is now dead"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(most) recently, lately"
+      }
+    ]
+  },
+  {
+    "word": "mớ tuyến tính mật tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-osculating linear complex"
+      }
+    ]
+  },
+  {
+    "word": "mớ tuyến tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-linear complex"
+      }
+    ]
+  },
+  {
+    "word": "mới tới",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to just arrive"
+      }
+    ]
+  },
+  {
+    "word": "mớ vô hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-infinite complex"
+      }
+    ]
+  },
+  {
+    "word": "mới chợt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "suddenly"
+      }
+    ]
+  },
+  {
+    "word": "mớ đường tuyến tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-linear line complex"
+      }
+    ]
+  },
+  {
+    "word": "mới tính",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "reconsider, reevaluate"
+      }
+    ]
+  },
+  {
+    "word": "mới lúc nãy đây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "just a moment ago"
+      }
+    ]
+  },
+  {
+    "word": "mới ốm dậy nước da nhợt nhạt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to look pale, recovering from and illness"
+      }
+    ]
+  },
+  {
+    "word": "mớn nước sâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-deep draft\n@Chuyên ngành kỹ thuật\n-deep-waterline"
+      }
+    ]
+  },
+  {
+    "word": "mới đó",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chỉ vừa mới đấy thôi [hàm ý nhanh quá]\nVí dụ:\n- mới đó mà đã hai năm rồi"
       }
     ]
   },
@@ -653,105 +495,71 @@
     ]
   },
   {
-    "word": "mới hiểu",
+    "word": "mới xuất hiện",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to finally understand"
+        "dict_definition": "recently published"
       }
     ]
   },
   {
-    "word": "mớ đường tuyến tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-linear line complex"
-      }
-    ]
-  },
-  {
-    "word": "mới đó",
+    "word": "mới toanh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chỉ vừa mới đấy thôi [hàm ý nhanh quá]\nVí dụ:\n- mới đó mà đã hai năm rồi"
-      }
-    ]
-  },
-  {
-    "word": "mới biên lai",
-    "definitions": [
+        "dict_definition": "như mới tinh\nVí dụ:\n- bộ bàn ghế mới toanh \n - chiếc xe mới toanh"
+      },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to ask for a receipt"
-      }
-    ]
-  },
-  {
-    "word": "mớn nước chở hàng mùa hè (kết cấu tàu thủy)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-summer load waterline"
-      }
-    ]
-  },
-  {
-    "word": "mớ vòng tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex of circles"
-      }
-    ]
-  },
-  {
-    "word": "mớn nước (tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-draft\n-draught"
-      }
-    ]
-  },
-  {
-    "word": "mớ phi xiclic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-acyclic complex"
-      }
-    ]
-  },
-  {
-    "word": "mớ điều hòa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-harmonic complex"
-      }
-    ]
-  },
-  {
-    "word": "mớ (hàng hóa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lot"
-      }
-    ]
-  },
-  {
-    "word": "mớm cung",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng thủ đoạn khéo léo gợi hỏi để lấy lời khai theo ý muốn chủ quan của người hỏi cung"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mới toanh\n- Nh. Mới tinh (thtục): Xe đạp mới toanh."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@mớm cung [mớm cung]\n-xem"
+        "dict_definition": "@mới toanh\n-(thông tục) Brand-new"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mới toanh\n- (thông tục) Brand-new"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "brand-new"
+      }
+    ]
+  },
+  {
+    "word": "mớị ~ thôi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "just, only"
+      }
+    ]
+  },
+  {
+    "word": "mớn nước",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần thân tàu, thuyền chìm trong nước, tính từ đáy tàu, thuyền đến mặt nước"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mớn nước [mớn nước]\n*danh từ\n-water-line\n@Chuyên ngành kinh tế\n-draught\n-sea gauge (sea-gauge)\n-water-line"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "water-line"
+      }
+    ]
+  },
+  {
+    "word": "mới rồi, người ta tìm được một ngôi sao mới",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "In most recent days, a new star has been discovered"
       }
     ]
   },
@@ -765,29 +573,148 @@
     ]
   },
   {
-    "word": "mớ tuyến tính lưỡng tiếp",
+    "word": "mới hay",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mới hay\n- ph. Cho hay, biết được sau một kinh nghiệm: Mới hay muôn sự tại trời (K)."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bitangent linear complex"
+        "dict_definition": "@mới hay\n-như cho hay"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mới hay\n- như cho hay"
       }
     ]
   },
   {
-    "word": "mớ đường cong",
+    "word": "mới sinh, sơ sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex of curves"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-newborn"
       }
     ]
   },
   {
-    "word": "mớn nước có tải",
+    "word": "mớ phi xiclic",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-load draught"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-acyclic complex"
+      }
+    ]
+  },
+  {
+    "word": "mới đầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lúc mới bắt đầu\nVí dụ:\n- lúc mới đầu \n - mới đầu thì ngại, sau thành quen"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mới đầu [mới đầu]\n-xem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in the beginning, at first"
+      }
+    ]
+  },
+  {
+    "word": "mới nở",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "newborn"
+      }
+    ]
+  },
+  {
+    "word": "mớn nước chở nặng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-deep draft"
+      }
+    ]
+  },
+  {
+    "word": "mới coong",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mới tinh\nVí dụ:\n- chiếc xe mới coong"
+      }
+    ]
+  },
+  {
+    "word": "mớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mớp\n-(địa phương) xem mắc mớp"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mớp\n- (địa phương) xem mắc mớp"
+      }
+    ]
+  },
+  {
+    "word": "mớ bậc hai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic complex"
+      }
+    ]
+  },
+  {
+    "word": "mới thành lập",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "newly founded, newly established"
+      }
+    ]
+  },
+  {
+    "word": "mới đến",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to just arrive, have just arrived"
+      }
+    ]
+  },
+  {
+    "word": "mới làm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "new-made"
+      }
+    ]
+  },
+  {
+    "word": "mới thay cũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-new for old"
+      }
+    ]
+  },
+  {
+    "word": "mớm nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sea gauge (sea-gauge)"
       }
     ]
   },
@@ -809,20 +736,38 @@
     ]
   },
   {
-    "word": "mới xuất hiện",
+    "word": "mới sinh",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "recently published"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-juvenile\n-nascent"
       }
     ]
   },
   {
-    "word": "mớm nước",
+    "word": "mớn nước có tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sea gauge (sea-gauge)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-load draught"
+      }
+    ]
+  },
+  {
+    "word": "mới có một đứa thôi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "just one child so far"
+      }
+    ]
+  },
+  {
+    "word": "mớn nước (tàu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-draft\n-draught"
       }
     ]
   },
@@ -848,106 +793,29 @@
     ]
   },
   {
-    "word": "mớ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp gồm một số vật cùng loại được gộp lại thành đơn vị\nVí dụ:\n- mua mớ rau muống \n - mớ tép"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "số lượng tương đối nhiều những vật, những thứ cùng loại [thường bị coi là ít có giá trị] nhưng khác nhau nhiều và ở tình trạng lộn xộn, không có trật tự [hàm ý chê]\nVí dụ:\n- rối như mớ bòng bong \n - đưa ra một mớ lí thuyết \n - cầm theo một mớ giấy tờ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nói mê trong khi ngủ\nVí dụ:\n- ngủ hay mớ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mớ\n- d. Mười vạn: Trăm nghìn vạn mớ để vào đâu (Trần Tế Xương).\n- (đph) đg. Nói mê trong khi ngủ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mớ\n*noun\n-cot*verb\n-to talk in one\"s sleep\n@Chuyên ngành kinh tế\n-batch\n@Chuyên ngành kỹ thuật\n-bulk\n-bundle\n-lot"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mớ\n* noun\n- cot\n* verb\n- to talk in one's sleep"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) to talk in one’s sleep; (2) lot, amount, batch; (3) hundred thousand"
-      }
-    ]
-  },
-  {
-    "word": "mớm trống",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mớm trống\n- Miết cơm vào mặt trống cơm."
-      }
-    ]
-  },
-  {
-    "word": "mới có một đứa thôi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "just one child so far"
-      }
-    ]
-  },
-  {
-    "word": "mới vào (ở, nhậm chức)",
+    "word": "mớn nước chở hàng mùa hè (kết cấu tàu thủy)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-incoming"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-summer load waterline"
       }
     ]
   },
   {
-    "word": "mớ cần sa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "marijuana stash"
-      }
-    ]
-  },
-  {
-    "word": "mớn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoang tàu thuyền, dùng làm nơi chứa người hoặc hàng hoá khi chuyên chở"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mớn nước [nói tắt]\nVí dụ:\n- tàu buộc phải dỡ bớt hàng để giảm mớn trước khi vào cảng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mớn\n- d. Chỗ chứa người và hàng trong thuyền: Sao cô ăn nói ỡm ờ, Thuyền anh chật mớn cô chờ làm sao (cd)."
-      }
-    ]
-  },
-  {
-    "word": "mớ bậc hai",
+    "word": "mớn nước nhẻ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic complex"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-light waterline"
       }
     ]
   },
   {
-    "word": "mới tính",
+    "word": "mới phải",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "reconsider, reevaluate"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị ý nhận định về điều đáng lẽ phải được làm hoặc nên làm như thế\nVí dụ:\n- đúng ra anh nên đi mới phải"
       }
     ]
   },
@@ -961,20 +829,152 @@
     ]
   },
   {
-    "word": "mới bắt đầu",
+    "word": "mới nhom nhem vài câu tiếng nga",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-incipient"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have just a smattering of Russian"
       }
     ]
   },
   {
-    "word": "mớn nước nhẻ",
+    "word": "mớ đường bậc hai",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-light waterline"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quadratic line complex"
+      }
+    ]
+  },
+  {
+    "word": "mới nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-go-go\n-late-breaking\n-latest\n-newest\n-state-of-the-art"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "newest, latest, most recent"
+      }
+    ]
+  },
+  {
+    "word": "mới biên lai",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to ask for a receipt"
+      }
+    ]
+  },
+  {
+    "word": "mới xuất hiện trong phát triển tâm thần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cenopsychic"
+      }
+    ]
+  },
+  {
+    "word": "mớ điều hòa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-harmonic complex"
+      }
+    ]
+  },
+  {
+    "word": "mớn nước không tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-light draught\n@Chuyên ngành kỹ thuật\n-light waterline"
+      }
+    ]
+  },
+  {
+    "word": "mớ các hình cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex of spheres"
+      }
+    ]
+  },
+  {
+    "word": "mớm cung",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dùng thủ đoạn khéo léo gợi hỏi để lấy lời khai theo ý muốn chủ quan của người hỏi cung"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mớm cung [mớm cung]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "mới tạo thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-neoformation"
+      }
+    ]
+  },
+  {
+    "word": "mới tinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "còn mới nguyên, chưa hề dùng đến\nVí dụ:\n- bộ quần áo mới tinh \n - trang giấy mới tinh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mới tinh\n- Còn nguyên, chưa dùng đến: Quần áo mới tinh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mới tinh\n-Brand-new\n=Cái xe đạp mới tinh\n+A brand-new bicycle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mới tinh\n- Brand-new\n=Cái xe đạp mới tinh+A brand-new bicycle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "brand-new"
+      }
+    ]
+  },
+  {
+    "word": "mớ đối hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex in involution"
+      }
+    ]
+  },
+  {
+    "word": "mớ vòng tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-complex of circles"
+      }
+    ]
+  },
+  {
+    "word": "mới sang đây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to just arrive, just get here"
       }
     ]
   }

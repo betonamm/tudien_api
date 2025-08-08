@@ -1,14 +1,5 @@
 [
   {
-    "word": "gps gắn kèm/máy thu quán tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Embedded GPS/Inertial Receiver (EGIR)"
-      }
-    ]
-  },
-  {
     "word": "gps",
     "definitions": [
       {
@@ -18,6 +9,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-global positioning system\n-GPS"
+      }
+    ]
+  },
+  {
+    "word": "gps gắn kèm/máy thu quán tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Embedded GPS/Inertial Receiver (EGIR)"
       }
     ]
   },

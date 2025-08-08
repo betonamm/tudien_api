@@ -1,40 +1,5 @@
 [
   {
-    "word": "ếch ghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-switch diamond"
-      }
-    ]
-  },
-  {
-    "word": "ếch bà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ếch lớn có tiếng kêu rất to"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ếch bà\n- Loài ếch lớn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ếch bà [ếch bà]\n-a lafhe species of frog"
-      }
-    ]
-  },
-  {
-    "word": "ếch ngồi đáy giếng coi trời bằng vung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ếch ngồi đáy giếng coi trời bằng vung [ếch ngồi đáy giếng coi trời bằng vung]\n-the frog at the bottom of the well believes that the sky is as small as the lid of a cooking pot"
-      }
-    ]
-  },
-  {
     "word": "ếch",
     "definitions": [
       {
@@ -81,6 +46,41 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "amphibians"
+      }
+    ]
+  },
+  {
+    "word": "ếch ngồi đáy giếng coi trời bằng vung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ếch ngồi đáy giếng coi trời bằng vung [ếch ngồi đáy giếng coi trời bằng vung]\n-the frog at the bottom of the well believes that the sky is as small as the lid of a cooking pot"
+      }
+    ]
+  },
+  {
+    "word": "ếch bà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ếch lớn có tiếng kêu rất to"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ếch bà\n- Loài ếch lớn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ếch bà [ếch bà]\n-a lafhe species of frog"
+      }
+    ]
+  },
+  {
+    "word": "ếch ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-switch diamond"
       }
     ]
   }

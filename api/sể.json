@@ -1,26 +1,5 @@
 [
   {
-    "word": "sểnh tay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sểnh tay\n- đgt. Lơi tay ra, không để tâm chú ý: mới sểnh tay một chút là hỏng cả nồi xào."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sểnh tay\n*verb\n-to show a little negligence"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sểnh tay\n* verb\n- to show a little negligence"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to show a little negligence"
-      }
-    ]
-  },
-  {
     "word": "sểnh",
     "definitions": [
       {
@@ -50,6 +29,19 @@
     ]
   },
   {
+    "word": "sể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sể\n-xem chổi sể"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sể\n- xem chổi sể"
+      }
+    ]
+  },
+  {
     "word": "sểnh ra",
     "definitions": [
       {
@@ -67,15 +59,23 @@
     ]
   },
   {
-    "word": "sể",
+    "word": "sểnh tay",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sểnh tay\n- đgt. Lơi tay ra, không để tâm chú ý: mới sểnh tay một chút là hỏng cả nồi xào."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@sể\n-xem chổi sể"
+        "dict_definition": "@sểnh tay\n*verb\n-to show a little negligence"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sể\n- xem chổi sể"
+        "dict_definition": "@sểnh tay\n* verb\n- to show a little negligence"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to show a little negligence"
       }
     ]
   }

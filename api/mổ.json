@@ -1,92 +1,10 @@
 [
   {
-    "word": "mổ tử thi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-autopsy"
-      }
-    ]
-  },
-  {
-    "word": "mổ cesar, mổ lấy thai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-partus caesareus"
-      }
-    ]
-  },
-  {
     "word": "mổ thịt",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-kill"
-      }
-    ]
-  },
-  {
-    "word": "mổng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mổng\n- d. Người dắt thầy bói đi: Anh mổng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mổng\n-Blind fortune-teller\"s guide"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mổng\n- Blind fortune-teller's guide"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "blind fortune-teller’s guide"
-      }
-    ]
-  },
-  {
-    "word": "mổ bụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-disembowel"
-      }
-    ]
-  },
-  {
-    "word": "mổ trên nền đàn hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bent on elastic foundation"
-      }
-    ]
-  },
-  {
-    "word": "mổ cò",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ví cách đánh máy chậm, từng chữ một và chỉ bằng một vài ngón tay\nVí dụ:\n- đánh máy theo kiểu mổ cò"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mổ cò\n- Nói người đánh máy chữ chỉ sử dụng hai ngón tay trỏ mà đánh từng chữ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mổ cò\n-(thông tục) Type very slowly with two fingers"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mổ cò\n- (thông tục) Type very slowly with two fingers"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "type very slowly with two fingers"
       }
     ]
   },
@@ -167,6 +85,79 @@
     ]
   },
   {
+    "word": "mổ trên nền đàn hồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bent on elastic foundation"
+      }
+    ]
+  },
+  {
+    "word": "mổ cò",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ví cách đánh máy chậm, từng chữ một và chỉ bằng một vài ngón tay\nVí dụ:\n- đánh máy theo kiểu mổ cò"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mổ cò\n- Nói người đánh máy chữ chỉ sử dụng hai ngón tay trỏ mà đánh từng chữ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mổ cò\n-(thông tục) Type very slowly with two fingers"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mổ cò\n- (thông tục) Type very slowly with two fingers"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "type very slowly with two fingers"
+      }
+    ]
+  },
+  {
+    "word": "mổ cesar, mổ lấy thai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-partus caesareus"
+      }
+    ]
+  },
+  {
+    "word": "mổng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mổng\n- d. Người dắt thầy bói đi: Anh mổng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mổng\n-Blind fortune-teller\"s guide"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mổng\n- Blind fortune-teller's guide"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "blind fortune-teller’s guide"
+      }
+    ]
+  },
+  {
+    "word": "mổ bụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-disembowel"
+      }
+    ]
+  },
+  {
     "word": "mổ tim",
     "definitions": [
       {
@@ -189,6 +180,15 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "make a autopsy"
+      }
+    ]
+  },
+  {
+    "word": "mổ tử thi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-autopsy"
       }
     ]
   }

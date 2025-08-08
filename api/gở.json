@@ -1,381 +1,10 @@
 [
   {
-    "word": "gởi thơ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to send a letter"
-      }
-    ]
-  },
-  {
-    "word": "gởi tin tức đi bằng telex",
+    "word": "gởi trả (qua bưu điện)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-telex information"
-      }
-    ]
-  },
-  {
-    "word": "gởi kèm theo (phong bì và thư)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-enclose"
-      }
-    ]
-  },
-  {
-    "word": "gởi (hàng) bằng tàu thủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ship"
-      }
-    ]
-  },
-  {
-    "word": "gởi một mẫu hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-send a sample (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "gởi hàng lại bằng tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reshipment"
-      }
-    ]
-  },
-  {
-    "word": "gởi đến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-send to"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to send out"
-      }
-    ]
-  },
-  {
-    "word": "gởi chuyển tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-forward"
-      }
-    ]
-  },
-  {
-    "word": "gởi trả về (trại giam) để xử lại (một vụ án)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-remand"
-      }
-    ]
-  },
-  {
-    "word": "gởi đi thanh toán bù trừ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-\"out\" clearing"
-      }
-    ]
-  },
-  {
-    "word": "gởi bằng fax",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fax"
-      }
-    ]
-  },
-  {
-    "word": "gởi gắm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem gửi gắm\nVí dụ:\n- chị gởi gắm cả cuộc đời mình cho anh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gởi gắm\n- (ph.). x. gửi gắm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gởi gắm\n*verb\n-to recommend\n=sự gởi gắm\n+recommendation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gởi gắm\n* verb\n- to recommend\n=sự gởi gắm+recommendation"
-      }
-    ]
-  },
-  {
-    "word": "gởi một gói hàng qua bưu điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-send a parcel by post (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "gởi (đơn đặt hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-place"
-      }
-    ]
-  },
-  {
-    "word": "gởi giá chào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-send offer (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "gởi trở về (hàng hóa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-return"
-      }
-    ]
-  },
-  {
-    "word": "gởi thư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sending mail"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to send a letter"
-      }
-    ]
-  },
-  {
-    "word": "gởi ra sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Send To Back"
-      }
-    ]
-  },
-  {
-    "word": "gởi (thư) ở bưu cục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-post\n-posting"
-      }
-    ]
-  },
-  {
-    "word": "gởi một bức điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-send a telegram (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "gởi đi (một bức thư...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-send off"
-      }
-    ]
-  },
-  {
-    "word": "gởi tiền vào một tài khoản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pay money into an account"
-      }
-    ]
-  },
-  {
-    "word": "gởi lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-red-ink entry\n-redirect"
-      }
-    ]
-  },
-  {
-    "word": "gởi bảo đảm (thư, bưu phẩm...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-register"
-      }
-    ]
-  },
-  {
-    "word": "gởi đơn khiếu nại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lodge a complaint"
-      }
-    ]
-  },
-  {
-    "word": "gởi thư đi (qua đường bưu điện)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-send off the mail (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "gởi qua bưu điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mail\n-post"
-      }
-    ]
-  },
-  {
-    "word": "gởi vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-place"
-      }
-    ]
-  },
-  {
-    "word": "gởi bằng đường xe lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sending by rail"
-      }
-    ]
-  },
-  {
-    "word": "gởi tiền ở ngân hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lodge money in the bank"
-      }
-    ]
-  },
-  {
-    "word": "gởi thư chéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-crosspost"
-      }
-    ]
-  },
-  {
-    "word": "gởi bảo đảm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-register"
-      }
-    ]
-  },
-  {
-    "word": "gởi điện báo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-telegraphic"
-      }
-    ]
-  },
-  {
-    "word": "gởi trả về (trại giam) xử lại (một vụ án)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-remand"
-      }
-    ]
-  },
-  {
-    "word": "gởi ngay theo yêu cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on application"
-      }
-    ]
-  },
-  {
-    "word": "gởi lờ chào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to send (word of) greeting"
-      }
-    ]
-  },
-  {
-    "word": "gởi đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tick out"
-      }
-    ]
-  },
-  {
-    "word": "gởi miễn phí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-send gratis"
-      }
-    ]
-  },
-  {
-    "word": "gởi vào kho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-store"
-      }
-    ]
-  },
-  {
-    "word": "gởi hóa đơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-invoice"
+        "dict_definition": "@Chuyên ngành kinh tế\n-remittance"
       }
     ]
   },
@@ -405,11 +34,346 @@
     ]
   },
   {
+    "word": "gởi đơn khiếu nại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lodge a complaint"
+      }
+    ]
+  },
+  {
+    "word": "gởi vào kho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-store"
+      }
+    ]
+  },
+  {
+    "word": "gởi trát đòi ra tòa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subpoena"
+      }
+    ]
+  },
+  {
+    "word": "gởi giá chào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-send offer (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "gởi thư đi (qua đường bưu điện)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-send off the mail (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "gởi trở về (hàng hóa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-return"
+      }
+    ]
+  },
+  {
+    "word": "gởi tập tin lô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-batch file transmission"
+      }
+    ]
+  },
+  {
+    "word": "gởi trả về (trại giam) để xử lại (một vụ án)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-remand"
+      }
+    ]
+  },
+  {
+    "word": "gởi bán phối hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-joint consignment"
+      }
+    ]
+  },
+  {
+    "word": "gởi thiệp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to send a card"
+      }
+    ]
+  },
+  {
+    "word": "gởi một bức điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-send a telegram (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "gởi bán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on consignment"
+      }
+    ]
+  },
+  {
+    "word": "gởi (thư) ở bưu cục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-post\n-posting"
+      }
+    ]
+  },
+  {
+    "word": "gởi tiền ở ngân hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lodge money in the bank"
+      }
+    ]
+  },
+  {
     "word": "gởi thơ ngang",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cross-post"
+      }
+    ]
+  },
+  {
+    "word": "gởi bảo đảm (thư, bưu phẩm...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-register"
+      }
+    ]
+  },
+  {
+    "word": "gởi bảo đảm một bức thư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-register a letter\n-register a letter (to...)"
+      }
+    ]
+  },
+  {
+    "word": "gởi lờ chào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to send (word of) greeting"
+      }
+    ]
+  },
+  {
+    "word": "gởi đi (một bức thư...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-send off"
+      }
+    ]
+  },
+  {
+    "word": "gởi tin tức đi bằng telex",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-telex information"
+      }
+    ]
+  },
+  {
+    "word": "gởi đi (hàng hóa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-forward"
+      }
+    ]
+  },
+  {
+    "word": "gởi một mẫu hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-send a sample (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "gởi vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-place"
+      }
+    ]
+  },
+  {
+    "word": "gởi bưu điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-posting"
+      }
+    ]
+  },
+  {
+    "word": "gởi điện báo cho cơ quan thẩm quyền chi trả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-telex for authority to pay"
+      }
+    ]
+  },
+  {
+    "word": "gởi miễn phí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-send gratis"
+      }
+    ]
+  },
+  {
+    "word": "gởi ngay theo yêu cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on application"
+      }
+    ]
+  },
+  {
+    "word": "gởi đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tick out"
+      }
+    ]
+  },
+  {
+    "word": "gởi đến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-send to"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to send out"
+      }
+    ]
+  },
+  {
+    "word": "gởi gắm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem gửi gắm\nVí dụ:\n- chị gởi gắm cả cuộc đời mình cho anh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gởi gắm\n- (ph.). x. gửi gắm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gởi gắm\n*verb\n-to recommend\n=sự gởi gắm\n+recommendation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gởi gắm\n* verb\n- to recommend\n=sự gởi gắm+recommendation"
+      }
+    ]
+  },
+  {
+    "word": "gởi tiền cho gia đình ở nước ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-remittance to family overseas"
+      }
+    ]
+  },
+  {
+    "word": "gởi kèm theo (phong bì và thư)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-enclose"
+      }
+    ]
+  },
+  {
+    "word": "gởi (đơn đặt hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-place"
+      }
+    ]
+  },
+  {
+    "word": "gởi tiền ngân khố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-treasury remittance"
+      }
+    ]
+  },
+  {
+    "word": "gởi qua bưu điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mail\n-post"
+      }
+    ]
+  },
+  {
+    "word": "gởi thư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sending mail"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to send a letter"
       }
     ]
   },
@@ -439,29 +403,83 @@
     ]
   },
   {
-    "word": "gởi giấy đòi ra tòa",
+    "word": "gởi hóa đơn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subpoena"
+        "dict_definition": "@Chuyên ngành kinh tế\n-invoice"
       }
     ]
   },
   {
-    "word": "gởi tiền cho gia đình ở nước ngoài",
+    "word": "gởi bằng đường xe lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-remittance to family overseas"
+        "dict_definition": "@Chuyên ngành kinh tế\n-sending by rail"
       }
     ]
   },
   {
-    "word": "gởi tiền ngân khố",
+    "word": "gởi thơ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to send a letter"
+      }
+    ]
+  },
+  {
+    "word": "gởi đi thanh toán bù trừ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-treasury remittance"
+        "dict_definition": "@Chuyên ngành kinh tế\n-\"out\" clearing"
+      }
+    ]
+  },
+  {
+    "word": "gởi ra sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Send To Back"
+      }
+    ]
+  },
+  {
+    "word": "gởi chuyển tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-forward"
+      }
+    ]
+  },
+  {
+    "word": "gởi hàng lại bằng tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-reshipment"
+      }
+    ]
+  },
+  {
+    "word": "gởi (hàng) bằng tàu thủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ship"
+      }
+    ]
+  },
+  {
+    "word": "gởi bảo đảm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-register"
       }
     ]
   },
@@ -475,29 +493,29 @@
     ]
   },
   {
-    "word": "gởi đi (hàng hóa)",
+    "word": "gởi một gói hàng qua bưu điện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-forward"
+        "dict_definition": "@Chuyên ngành kinh tế\n-send a parcel by post (to ...)"
       }
     ]
   },
   {
-    "word": "gởi bán",
+    "word": "gởi trả về (trại giam) xử lại (một vụ án)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on consignment"
+        "dict_definition": "@Chuyên ngành kinh tế\n-remand"
       }
     ]
   },
   {
-    "word": "gởi điện báo cho cơ quan thẩm quyền chi trả",
+    "word": "gởi bằng fax",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-telex for authority to pay"
+        "dict_definition": "@Chuyên ngành kinh tế\n-fax"
       }
     ]
   },
@@ -511,65 +529,47 @@
     ]
   },
   {
-    "word": "gởi bưu điện",
+    "word": "gởi điện báo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-posting"
+        "dict_definition": "@Chuyên ngành kinh tế\n-telegraphic"
       }
     ]
   },
   {
-    "word": "gởi thiệp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to send a card"
-      }
-    ]
-  },
-  {
-    "word": "gởi bảo đảm một bức thư",
+    "word": "gởi thư chéo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-register a letter\n-register a letter (to...)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-crosspost"
       }
     ]
   },
   {
-    "word": "gởi trả (qua bưu điện)",
+    "word": "gởi lại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-remittance"
+        "dict_definition": "@Chuyên ngành kinh tế\n-red-ink entry\n-redirect"
       }
     ]
   },
   {
-    "word": "gởi bán phối hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-joint consignment"
-      }
-    ]
-  },
-  {
-    "word": "gởi tập tin lô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-batch file transmission"
-      }
-    ]
-  },
-  {
-    "word": "gởi trát đòi ra tòa",
+    "word": "gởi giấy đòi ra tòa",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-subpoena"
+      }
+    ]
+  },
+  {
+    "word": "gởi tiền vào một tài khoản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pay money into an account"
       }
     ]
   }

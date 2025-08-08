@@ -1,70 +1,103 @@
 [
   {
-    "word": "sờ rung tâm trương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diastolic thrill"
-      }
-    ]
-  },
-  {
-    "word": "sờ rung tiền tâm thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-presystolic thrill"
-      }
-    ]
-  },
-  {
-    "word": "sờ mó",
+    "word": "sờn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sờ vào [nói khái quát]\nVí dụ:\n- cả ngày không sờ mó đến sách vở"
+        "dict_definition": "bị xơ ra một ít trên bề mặt, có dấu hiệu sắp rách\nVí dụ:\n- áo bị sờn vai \n - sách sờn gáy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái tinh thần, ý chí bị lung lay, dao động trước khó khăn, thử thách\nVí dụ:\n- khó khăn chẳng sờn \n - dù nguy hiểm mấy cũng không sờn"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sờ mó\n- đgt. Sờ nói chung: Chớ sờ mó lung tung mà điện giật đấy!"
+        "dict_definition": "@sờn\n- t. 1. Xơ và sắp rách : Cổ áo sờn. 2. Nao núng, nản lòng : Khó khăn chẳng sờn."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sờ mó\n*verb\n-to touch\n@Chuyên ngành kỹ thuật\n-haptic"
+        "dict_definition": "@sờn\n*adj\n-torn, threadbare*verb\n-to lose heart"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờ mó\n* verb\n- to touch"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to feel, touch"
+        "dict_definition": "@sờn\n* adj\n- torn, threadbare\n* verb\n- to lose heart"
       }
     ]
   },
   {
-    "word": "sờ (thấy) khô",
+    "word": "sờ sợ",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cảm giác hơi sợ\nVí dụ:\n- đi đêm một mình cũng thấy sờ sợ"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-touch-dry"
+        "dict_definition": "@sờ sợ\n-xem sợ (láy)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sờ sợ\n- xem sợ (láy)"
       }
     ]
   },
   {
-    "word": "sờ nắn",
+    "word": "sờn lòng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lung lay, dao động trước khó khăn, thử thách\nVí dụ:\n- nản chí sờn lòng \n - gian khổ không sờn lòng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sờn lòng\n- đg. (thường dùng trong câu có ý phủ định). Lung lay, dao động trước khó khăn, thử thách. Thất bại không sờn lòng."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@sờ nắn\n-Palpate"
+        "dict_definition": "@sờn lòng\n*verb\n-to lose heart"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờ nắn\n- Palpate"
+        "dict_definition": "@sờn lòng\n* verb\n- to lose heart"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "palpate"
+        "dict_definition": "to lose heart"
+      }
+    ]
+  },
+  {
+    "word": "sờ rung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tactil fermitus"
+      }
+    ]
+  },
+  {
+    "word": "sờn chí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sờn chí\n- Nh. Sờn lòng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sờn chí\n-như sờn lòng"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sờn chí\n- như sờn lòng"
+      }
+    ]
+  },
+  {
+    "word": "sờ lên gáy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự nhìn lại chính mình [cũng sẽ thấy cái xấu mà mình tưởng chỉ người khác mới có]\nVí dụ:\n- \"Nói người chẳng nghĩ đến thân, Thử sờ lên gáy xem gần hay xa.\" (Cdao)"
       }
     ]
   },
@@ -119,128 +152,6 @@
     ]
   },
   {
-    "word": "sờ sờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quá rõ ràng, như bày ra trước mắt\nVí dụ:\n- sờ sờ trước mắt mà không thấy \n - sự thật đã sờ sờ ra đấy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sờ sờ\n- tt Rành rành; rõ ràng: Làm chi để tiếng sờ sờ về sau (BCKN); Bao diêm sờ sờ trước mắt mà cứ đi tìm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sờ sờ\n*adj\n-obvious, conspicuous"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờ sờ\n* adj\n- obvious, conspicuous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "obvious, conspicuous"
-      }
-    ]
-  },
-  {
-    "word": "sờm sỡ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sờm sỡ\n- Bông đùa quá trớn đối với phụ nữ: Ăn nói sờm sỡ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sờm sỡ\n-Use too familiar a language (with a woman)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờm sỡ\n- Use too familiar a language (with a woman)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "use too familiar a language (with a woman)"
-      }
-    ]
-  },
-  {
-    "word": "sờ rung phình mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-aneurysmal thrill"
-      }
-    ]
-  },
-  {
-    "word": "sờn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bị xơ ra một ít trên bề mặt, có dấu hiệu sắp rách\nVí dụ:\n- áo bị sờn vai \n - sách sờn gáy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái tinh thần, ý chí bị lung lay, dao động trước khó khăn, thử thách\nVí dụ:\n- khó khăn chẳng sờn \n - dù nguy hiểm mấy cũng không sờn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sờn\n- t. 1. Xơ và sắp rách : Cổ áo sờn. 2. Nao núng, nản lòng : Khó khăn chẳng sờn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sờn\n*adj\n-torn, threadbare*verb\n-to lose heart"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờn\n* adj\n- torn, threadbare\n* verb\n- to lose heart"
-      }
-    ]
-  },
-  {
-    "word": "sờn chí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sờn chí\n- Nh. Sờn lòng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sờn chí\n-như sờn lòng"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờn chí\n- như sờn lòng"
-      }
-    ]
-  },
-  {
-    "word": "sờn lòng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lung lay, dao động trước khó khăn, thử thách\nVí dụ:\n- nản chí sờn lòng \n - gian khổ không sờn lòng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sờn lòng\n- đg. (thường dùng trong câu có ý phủ định). Lung lay, dao động trước khó khăn, thử thách. Thất bại không sờn lòng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sờn lòng\n*verb\n-to lose heart"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờn lòng\n* verb\n- to lose heart"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to lose heart"
-      }
-    ]
-  },
-  {
     "word": "sờ nắn, xúc chẩn",
     "definitions": [
       {
@@ -250,28 +161,63 @@
     ]
   },
   {
-    "word": "sờ sợ",
+    "word": "sờ rung tiền tâm thu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác hơi sợ\nVí dụ:\n- đi đêm một mình cũng thấy sờ sợ"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@sờ sợ\n-xem sợ (láy)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sờ sợ\n- xem sợ (láy)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-presystolic thrill"
       }
     ]
   },
   {
-    "word": "sờ lên gáy",
+    "word": "sờ (thấy) khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-touch-dry"
+      }
+    ]
+  },
+  {
+    "word": "sờ mó",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự nhìn lại chính mình [cũng sẽ thấy cái xấu mà mình tưởng chỉ người khác mới có]\nVí dụ:\n- \"Nói người chẳng nghĩ đến thân, Thử sờ lên gáy xem gần hay xa.\" (Cdao)"
+        "dict_definition": "sờ vào [nói khái quát]\nVí dụ:\n- cả ngày không sờ mó đến sách vở"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sờ mó\n- đgt. Sờ nói chung: Chớ sờ mó lung tung mà điện giật đấy!"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sờ mó\n*verb\n-to touch\n@Chuyên ngành kỹ thuật\n-haptic"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sờ mó\n* verb\n- to touch"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to feel, touch"
+      }
+    ]
+  },
+  {
+    "word": "sờ rung tâm trương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diastolic thrill"
+      }
+    ]
+  },
+  {
+    "word": "sờn gai, nổi da gà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cutis anserina"
       }
     ]
   },
@@ -301,20 +247,74 @@
     ]
   },
   {
-    "word": "sờ rung",
+    "word": "sờ sờ",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quá rõ ràng, như bày ra trước mắt\nVí dụ:\n- sờ sờ trước mắt mà không thấy \n - sự thật đã sờ sờ ra đấy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sờ sờ\n- tt Rành rành; rõ ràng: Làm chi để tiếng sờ sờ về sau (BCKN); Bao diêm sờ sờ trước mắt mà cứ đi tìm."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tactil fermitus"
+        "dict_definition": "@sờ sờ\n*adj\n-obvious, conspicuous"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sờ sờ\n* adj\n- obvious, conspicuous"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "obvious, conspicuous"
       }
     ]
   },
   {
-    "word": "sờn gai, nổi da gà",
+    "word": "sờ rung phình mạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cutis anserina"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-aneurysmal thrill"
+      }
+    ]
+  },
+  {
+    "word": "sờm sỡ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sờm sỡ\n- Bông đùa quá trớn đối với phụ nữ: Ăn nói sờm sỡ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sờm sỡ\n-Use too familiar a language (with a woman)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sờm sỡ\n- Use too familiar a language (with a woman)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "use too familiar a language (with a woman)"
+      }
+    ]
+  },
+  {
+    "word": "sờ nắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sờ nắn\n-Palpate"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sờ nắn\n- Palpate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "palpate"
       }
     ]
   }

@@ -1,451 +1,64 @@
 [
   {
-    "word": "mỏ xiết",
+    "word": "mỏ neo tải trọng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fastening"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-anchor charge"
       }
     ]
   },
   {
-    "word": "mỏ lết (loại thông dụng)",
+    "word": "mỏ cặp kéo căng (dây thép)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-adjustable spanner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tongs"
       }
     ]
   },
   {
-    "word": "mỏ thương phẩm (khai thác)",
+    "word": "mỏ quặng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-commercial field"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mine field\n-ore deposit\n-ore mine"
       }
     ]
   },
   {
-    "word": "mỏ nếch răng",
+    "word": "mỏ đỏ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-girder spanner"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Mỏ đỏ\n- Chỉ Hồ Quý Ly. Vua Trần Nghệ Tôn chiêm bao thấy vua Duệ Tôn về, đọc một bài thơ trong đó có câu: \"Trung hân hữu xích chùy hầu\" (Trong đó duy có tước hầu mỏ đỏ)"
       }
     ]
   },
   {
-    "word": "mỏ hàn cũi",
+    "word": "mỏ hàn độc lập",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crib groyne"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-simple groyne"
       }
     ]
   },
   {
-    "word": "mỏ đồng",
+    "word": "mỏ đồng sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-copper mine\n-cuprite\n-cuprites"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-idiogenites"
       }
     ]
   },
   {
-    "word": "mỏ ẩn",
+    "word": "mỏ đèn ngọn lửa dài",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blind depeter\n@Lĩnh vực: cơ khí & công trình\n-blind deposit"
-      }
-    ]
-  },
-  {
-    "word": "mỏm, bờ, củ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-process"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hít (trong công tơ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-anti-creep flag"
-      }
-    ]
-  },
-  {
-    "word": "mỏ khai thác dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-petroleum workings"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutter\n-cutting blowpipe\n-cutting nozzle\n-cutting torch\n-flame cutter\n-torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt hàn xì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn ôxi-axetilen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxy-acetylene burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏm ngang của đốt sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus transversus vertebrarum"
-      }
-    ]
-  },
-  {
-    "word": "mỏm ngang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-transerve process"
-      }
-    ]
-  },
-  {
-    "word": "mỏ vịt, mỏ vịt âm đạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vaginoscope"
-      }
-    ]
-  },
-  {
-    "word": "mỏm trâm của xương thái dương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-plectrum"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn thổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blowpipe burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏm đá cheo leo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-logan stone"
-      }
-    ]
-  },
-  {
-    "word": "mỏi mắt võng mạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retinal asthenopia"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn vi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-microburner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đèn xì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blowpipe\n-burner\n-torch\n-torch head"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn chống xói",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fending groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá dăm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ballast pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏm đốt sống phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anapophysis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dễ cháy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fiery mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏm hay mấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-apophysis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá lộ thiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-borrow pit\n-stripping"
-      }
-    ]
-  },
-  {
-    "word": "mỏi do ăn mòn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrosion fatigue"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-electric soldering iron\n@Lĩnh vực: cơ khí & công trình\n-electrical solderer"
-      }
-    ]
-  },
-  {
-    "word": "mỏm nhô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outshot"
-      }
-    ]
-  },
-  {
-    "word": "mỏm trâm xương quay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus styloideus radii"
-      }
-    ]
-  },
-  {
-    "word": "mỏ sét mịn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-silt field"
-      }
-    ]
-  },
-  {
-    "word": "mỏ thủy ngân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mercury mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ (khai thác đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá hoa cương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marble quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ amian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asbestos mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ neo cqr",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Danford anchor"
-      }
-    ]
-  },
-  {
-    "word": "mỏ than đáng tin cậy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-known coal deposit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đa tảng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension-stone quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt hình vòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ring burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn chì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-soldering iron"
-      }
-    ]
-  },
-  {
-    "word": "mỏ neo danford",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Danford anchor"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn chìm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-diving groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn (chì)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-soldering gin\n-soldering iron"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn hơi (cấu khí trơ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inert-gas torch for inert-gas welding"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn phun",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-injector burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ (đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn ngang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-diving groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ kim cương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diamond mine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-long-flame burner"
       }
     ]
   },
@@ -471,191 +84,11 @@
     ]
   },
   {
-    "word": "mỏ đèn tròn fletcher",
+    "word": "mỏ cắt bằng ngọn lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Fletcher radial burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-maiden field"
-      }
-    ]
-  },
-  {
-    "word": "mỏm vẹt của xương hàm dưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-temporal process of mandible"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá phiến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slate pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ê tô"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ cặp\n-(kỹ thuật) Vice\n@Chuyên ngành kỹ thuật\n-chuck jaw\n-clamp\n-fastener\n-fastening\n-gripping jaws\n-jaw\n-lip\n-lock-filer clamp\n-vice\n-vice clamp\n-vice or vise\n-vise\n-vise clamp"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ cặp\n- (kỹ thuật) Vice"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "vice"
-      }
-    ]
-  },
-  {
-    "word": "mỏ kẹp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-claw\n-cleat\n-cramp-iron\n-jaw\n-nip\n-nippers"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dầu có giá trị (khai thác) thương mại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commercial oil field"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dầu ngoài khơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-offshore oilfield"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "offshore oil well"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đa rời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension-stone quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt (có) nhánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outlet port burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn chốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stud welding gun"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lộ thiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ lộ thiên [mỏ lộ thiên]\n-open-cast mine\n@Chuyên ngành kỹ thuật\n-borrow pit\n-daylight mine\n-open cast mine\n-open-cut mine\n-pit\n-quarry\n-section\n-strip mine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "open-cast mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏm đá (địa lý)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rock"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn có ngọn lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-neat flame burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏng dinh dính",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mỏng dính [nhưng ý mức độ nhiều hơn]\nVí dụ:\n- tờ giấy mỏng dinh dính"
-      }
-    ]
-  },
-  {
-    "word": "mỏ thương mại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-productive pool"
-      }
-    ]
-  },
-  {
-    "word": "mỏng dính",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mỏng đến mức như không thể mỏng hơn được nữa\nVí dụ:\n- vải mỏng dính \n - cặp môi mỏng dính"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng dính\n- Mỏng lắm: Tờ giấy cuốn thuốc lá mỏng dính."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏng dính\n-Very thin, flimsy\n=Giấy cuốn thuốc lá mỏng dính\n+Very thin cigarette paper"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng dính\n- Very thin, flimsy\n=Giấy cuốn thuốc lá mỏng dính+Very thin cigarette paper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very thin, flimsy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cutting torch\n@Lĩnh vực: vật lý\n-flame-cutting torch"
       }
     ]
   },
@@ -669,449 +102,11 @@
     ]
   },
   {
-    "word": "mỏ quẹt",
+    "word": "mỏ vịt, mỏ vịt âm đạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-distributor arm"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đèn ngọn lửa dài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-long-flame burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt bunsen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Bunsen burner\n-burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cuội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gravel mine\n@Lĩnh vực: cơ khí & công trình\n-gravel pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ vật liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-occurrence"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đất sét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clay pit\n-clay wetting"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn súng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-soldering gun"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá vôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lime pit\n-limestone pit\n-limestone quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp kéo căng (dây thép)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tongs"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đèn hỗn hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-turbulent burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏm cằm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mental protuberance"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt với thiết bị cắt và phần dẫn hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-welding torch (blow pipe) with cutting attachment and guide tractor"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đã hết trữ lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-exhausted mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏng nhẹ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "thin and light"
-      }
-    ]
-  },
-  {
-    "word": "mỏ tầng (đai)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-berm"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn gây bồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bed groyne\n-low level groyne\n-sediment groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn bằng đồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-soldering copper"
-      }
-    ]
-  },
-  {
-    "word": "mỏ trên bờ (biển)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-onshore field"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp của êtô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vice jaw\n-vise jaw"
-      }
-    ]
-  },
-  {
-    "word": "mỏm trước của xương búa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus gracilis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sand pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ kẹp (trong máy khoan)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-drill vice, vise"
-      }
-    ]
-  },
-  {
-    "word": "mỏ than lộ thiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-daylight colliery"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dầu sinh lợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-productive pool"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn độc lập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-simple groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ thạch anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-quartz mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn súng lục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-solder-gun\n-soldering gun"
-      }
-    ]
-  },
-  {
-    "word": "mỏ máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sign-on"
-      }
-    ]
-  },
-  {
-    "word": "mỏi và giòn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fatigue and fracture"
-      }
-    ]
-  },
-  {
-    "word": "mỏi mắt do điều tiết chứng b",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-asthenopia"
-      }
-    ]
-  },
-  {
-    "word": "mỏi mệt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mệt mỏi\nVí dụ:\n- dáng điệu có vẻ mỏi mệt \n - khuôn mặt mỏi mệt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi mệt\n- Mệt nhọc quá."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏi mệt\n-Tired, weary"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi mệt\n- Tired, weary"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tired, weary"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blowpipe\n-burner\n-ignition burner\n-injector nozzle\n-torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ vàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ vàng\n*noun\n-gold-mine\n@Chuyên ngành kinh tế\n-cash cow\n-gold mine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gold mine"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ vàng\n* noun\n-gold-mine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gold mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ êtô rời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-jaw socket"
-      }
-    ]
-  },
-  {
-    "word": "mỏm cụt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stump"
-      }
-    ]
-  },
-  {
-    "word": "mỏ sỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravel quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ khí ngưng tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas condensate pool"
-      }
-    ]
-  },
-  {
-    "word": "mỏ khai thác cao lanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-china clay quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt mồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pilot burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt oxi hiđro",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxyhydrogen torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ kẹp hàn tiếp xúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-contact jaw"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp thợ mộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bench vice"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn (mỏ đốt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-welding torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏm vòm miệng của xương hàm trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus palatinus maxillae"
-      }
-    ]
-  },
-  {
-    "word": "mỏ chưa khai thác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-maiden field"
-      }
-    ]
-  },
-  {
-    "word": "mỏm khuỷu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-anconeal process of ulna\n-olecranon\n-olecranon process"
-      }
-    ]
-  },
-  {
-    "word": "mỏm tim",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-apex cordis"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vaginoscope"
       }
     ]
   },
@@ -1129,154 +124,29 @@
     ]
   },
   {
-    "word": "mỏm đuôi",
+    "word": "mỏ hàn kiểu súng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus caudatus hepatis"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gun burner"
       }
     ]
   },
   {
-    "word": "mỏ cần hàn",
+    "word": "mỏ dừng (trong công tơ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blow pipe nozzle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-stop lug"
       }
     ]
   },
   {
-    "word": "mỏng manh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất mỏng, gây cảm giác không đủ sức chịu đựng\nVí dụ:\n- mặc một chiếc áo mỏng manh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mong manh [ng1]\nVí dụ:\n- hi vọng mỏng manh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng manh\n- t. 1. Rất mỏng: Quần áo mỏng manh. 2. Không chắc chắn, khó thực hiện: Hi vọng mỏng manh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏng manh\n-Very thin\n=Quần áo mỏng manh\n+Very thin clothes\n-Fail, fragile\n=Hy vọng mỏng manh lắm\n+Very frail hopes\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fragile"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng manh\n- Very thin\n=Quần áo mỏng manh+Very thin clothes\n-Fail, fragile\n=Hy vọng mỏng manh lắm+Very frail hopes"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very thin, frail, fragile"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp hàn (hàn đấu nối)",
+    "word": "mỏ tiếp đất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-welding helmet\n-welding jaw"
-      }
-    ]
-  },
-  {
-    "word": "mỏm núi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cusp\n-pike\n-tor"
-      }
-    ]
-  },
-  {
-    "word": "mỏi mòn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như mòn mỏi\nVí dụ:\n- mỏi mòn ngóng trông"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏi mòn [mỏi mòn]\n-wait in desperation"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wait in desperation"
-      }
-    ]
-  },
-  {
-    "word": "mỏm thìa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus cochleariformis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn sông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-river groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần đất hoặc đá nhô cao lên hoặc chìa ra trên một địa hình\nVí dụ:\n- mỏm núi \n - mỏm đồi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏm\n- d. Chỏm đầu của vật gì thò lên trên hay ra ngoài: Mỏm đá; Mỏm núi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏm\n-Top, peak\n=Mỏm đá lởm chởm\n+A rugged rock-top\n=Đứng trên mỏm núi\n+To stand on the peak (top) of a mountain\n-Process (of a bone)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epicondiple"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏm\n- Top, peak\n=Mỏm đá lởm chởm+A rugged rock-top\n=Đứng trên mỏm núi+To stand on the peak (top) of a mountain\n-Process (of a bone)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cape, tip, top, peak; muzzle, snout"
-      }
-    ]
-  },
-  {
-    "word": "mỏ bàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ trầm tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sedimentary depeter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt khí tự nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-neat gas burner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ground lug"
       }
     ]
   },
@@ -1290,361 +160,36 @@
     ]
   },
   {
-    "word": "mỏ cắt bằng ngọn lửa",
+    "word": "mỏ đa tảng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cutting torch\n@Lĩnh vực: vật lý\n-flame-cutting torch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension-stone quarry"
       }
     ]
   },
   {
-    "word": "mỏ hàn ngược dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-upstream groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đèn xì oxyaxetylen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxyacetylene blowpipe"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt đinh tán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rivet cutter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lết điều chỉnh được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-adjustable-end wrench"
-      }
-    ]
-  },
-  {
-    "word": "mỏi mắt cơ vận nhãn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-muscular asthenopia"
-      }
-    ]
-  },
-  {
-    "word": "mỏm đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cape"
-      }
-    ]
-  },
-  {
-    "word": "mỏm trên ròng rọc xương cánh tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal process of humerus"
-      }
-    ]
-  },
-  {
-    "word": "mỏ than nâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brown coal mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-acetylene blowpipe\n-blowpipe\n-burner\n-burner nozzle\n-gas burner\n-soldering blowpipe\n-torch\n-welding blowpipe\n-welding blowpiper"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hầm lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-strip mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ xì cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting blowpipe\n@Lĩnh vực: xây dựng\n-flame cutter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt đậu rót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sprue cutter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt lửa mồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pilot flame burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt dùng khí axetilen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-acetylene burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lết",
+    "word": "mỏng tai",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dụng cụ có bánh răng điều chỉnh để có thể tháo lắp đai ốc, đinh ốc thuộc nhiều cỡ khác nhau"
+        "dict_definition": "hay tò mò nghe ngóng chuyện riêng của người khác [hàm ý coi khinh]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng tai\n- Tò mò, hay nghe ngóng những chuyện kín của người khác."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-adjustable wrench\n-adjusting key\n-multigrip pliers\n-wrench"
+        "dict_definition": "@mỏng tai\n-Eavesdropping"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng tai\n- Eavesdropping"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "monkey-wrench, adjustable wrench"
-      }
-    ]
-  },
-  {
-    "word": "mỏm đậu của xương đe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus lenticularis incudis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lết hai đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-double ended spanner"
-      }
-    ]
-  },
-  {
-    "word": "mỏm khớp đốt sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-zygapophysus"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn oxyxetilen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxyacetylene torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp xiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fastener"
-      }
-    ]
-  },
-  {
-    "word": "mỏi mắt sụn mi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tarsal asthenopia"
-      }
-    ]
-  },
-  {
-    "word": "mỏng thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thin-walled"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn lái dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hockey stick groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏm lồi cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epicondylus"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt axetylen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-acetylene cutter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ xì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn cắt dưới nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underwater cutting blowpipe"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá hoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-marble quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ bitum",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tar pool"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oilfield"
-      }
-    ]
-  },
-  {
-    "word": "mỏ phun kiểu khe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slot burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ chày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rostellum"
-      }
-    ]
-  },
-  {
-    "word": "mỏm băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-glacial horn"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting blowpipe\n-cutting torch\n-flame cutter\n-gas cutter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ than đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-coal mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ thạch cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gypsum mine\n-gypsum quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt một ngọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-single-torch burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ granit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-granite quarry"
+        "dict_definition": "eavesdropping"
       }
     ]
   },
@@ -1662,163 +207,243 @@
     ]
   },
   {
-    "word": "mỏ sét",
+    "word": "mỏm khuỷu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-clay pit\n@Lĩnh vực: xây dựng\n-clay quarry"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-anconeal process of ulna\n-olecranon\n-olecranon process"
       }
     ]
   },
   {
-    "word": "mỏm chó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "muzzle, snout (of a dog)"
-      }
-    ]
-  },
-  {
-    "word": "mỏm cực từ",
+    "word": "mỏ hàn chất rắn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole horn"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sand groyne"
       }
     ]
   },
   {
-    "word": "mỏ cặp máy",
+    "word": "mỏ đốt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-machine vice\n-machine vise"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blowpipe\n-burner\n-ignition burner\n-injector nozzle\n-torch"
       }
     ]
   },
   {
-    "word": "mỏ cắt bằng khí oxiaxetilen",
+    "word": "mỏ thương phẩm (khai thác)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxyacetylene cutting torch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-commercial field"
       }
     ]
   },
   {
-    "word": "mỏ có khí dễ nổ",
+    "word": "mỏ hàn ôxi-axetilen",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fiery mine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxy-acetylene burner"
       }
     ]
   },
   {
-    "word": "mỏm cột",
+    "word": "mỏ khai thác cao lanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pole horn"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-china clay quarry"
       }
     ]
   },
   {
-    "word": "mỏ cắt oxi-axetylen",
+    "word": "mỏ đốt hình vòng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-oxyacetylene cutter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ring burner"
       }
     ]
   },
   {
-    "word": "mỏ đỏ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Mỏ đỏ\n- Chỉ Hồ Quý Ly. Vua Trần Nghệ Tôn chiêm bao thấy vua Duệ Tôn về, đọc một bài thơ trong đó có câu: \"Trung hân hữu xích chùy hầu\" (Trong đó duy có tước hầu mỏ đỏ)"
-      }
-    ]
-  },
-  {
-    "word": "mỏm chũm",
+    "word": "mỏ xì cắt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mastoidprocess"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting blowpipe\n@Lĩnh vực: xây dựng\n-flame cutter"
       }
     ]
   },
   {
-    "word": "mỏ phun khí",
+    "word": "mỏ hàn đồng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas burner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bit\n-brazing blowpipe\n-copper bit\n-iron\n-soldering bit\n-soldering copper\n-soldering iron"
       }
     ]
   },
   {
-    "word": "mỏm hàm (phôi)",
+    "word": "mỏ hít (trong công tơ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-maxiliary process"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-anti-creep flag"
       }
     ]
   },
   {
-    "word": "mỏng tang",
+    "word": "mỏ đèn hỗn hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-turbulent burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ chày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rostellum"
+      }
+    ]
+  },
+  {
+    "word": "mỏ ống thổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nose of blowpipe"
+      }
+    ]
+  },
+  {
+    "word": "mỏ than đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-coal mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ than đáng tin cậy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-known coal deposit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ nếch răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-girder spanner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn phun",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-injector burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt ngọn lửa phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-flat-flame burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ sa khoáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-alluvial deposit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ sỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravel quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn bằng khí oxiaxetilen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxyacetylene torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏng mảnh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất mỏng và nhẹ\nVí dụ:\n- cái áo mỏng tang"
+        "dict_definition": "mỏng và kém độ bền chắc, kém sức chịu đựng trước những tác động bất lợi từ bên ngoài\nVí dụ:\n- thân hình mỏng mảnh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng mảnh\n- t. 1. Dễ vỡ: Cái bát mỏng mảnh. 2. Nh. Mong manh: Hi vọng mỏng mảnh."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@mỏng tang [mỏng tang]\n-(khẩu ngữ) Very thin and light."
+        "dict_definition": "@mỏng mảnh\n-Fragile"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng mảnh\n- Fragile"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "very thin and light"
+        "dict_definition": "fragile"
       }
     ]
   },
   {
-    "word": "mỏm đá",
+    "word": "mỏ cặp bàn thợ mộc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cliff"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-carpenter\"s wooden vise"
       }
     ]
   },
   {
-    "word": "mỏ cặp ống",
+    "word": "mỏ đốt với thiết bị cắt và phần dẫn hướng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pipe vice"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-welding torch (blow pipe) with cutting attachment and guide tractor"
       }
     ]
   },
   {
-    "word": "mỏm ngoài của xương sên",
+    "word": "mỏng vách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus lateralis"
-      }
-    ]
-  },
-  {
-    "word": "mỏm chân bướm, mấu chân bướm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pterygold apophysis"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thin-walled"
       }
     ]
   },
@@ -1852,769 +477,20 @@
     ]
   },
   {
-    "word": "mỏ ác",
+    "word": "mỏ cắt",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xương nối các đầu sườn ở phía trước lồng ngực"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đầu dưới của xương mỏ ác\nVí dụ:\n- thấy đau ở mỏ ác"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thóp ở trẻ em\nVí dụ:\n- che mỏ ác cho bé"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ ác\n- d. 1. Đầu dưới của xương ức. 2. Vùng bụng chung quanh đầu dưới xương ức. 3. (đph). Thóp trán trẻ con."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ ác\n-End of the sternum.\n-(địa phương) Fontanel, fontanelle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ ác\n- End of the sternum.\n-(địa phương) Fontanel, fontanelle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "end of the sternum; fontanel, pit of the stomach"
-      }
-    ]
-  },
-  {
-    "word": "mỏm (vịnh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-horn"
-      }
-    ]
-  },
-  {
-    "word": "mỏ (hầm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mine\n-shaft"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dụng cụ bằng sắt dùng để nung đỏ làm nóng chảy kim loại khi hàn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ hàn\n- Dụng cụ bằng sắt dùng để nung đỏ lên mà hàn thiếc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ hàn\n-Soldering-iron\n@Chuyên ngành kỹ thuật\n-bit\n-blow lamp\n-blow pipe\n-blowtorch\n-burner\n-copper bit\n-iron\n-nozzle\n-retard\n-solderer\n-soldering bit\n-soldering copper\n-soldering gun\n-soldering iron\n-soldering lug\n-soldering tool\n-soldering-iron\n-tip welding\n-torch\n-welding blowpipe\n-welding burner\n-welding gun\n-welding nozzle\n-welding tip\n-welding torch"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ hàn\n- Soldering-iron"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lết mở ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pipe wrench\n-wrench, pipe"
-      }
-    ]
-  },
-  {
-    "word": "mỏm trâm xương trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus styloideus ulnae"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn xì tia lưu huỳnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-jet sulfur burner\n-jet sulphur burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dạng mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-vein depeter\n@Lĩnh vực: cơ khí & công trình\n-vein deposit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dầu hỏa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil field"
-      }
-    ]
-  },
-  {
-    "word": "mỏ kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-metal mine\n@Lĩnh vực: hóa học & vật liệu\n-metalliferous mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas field\n-gas pool\n-gaseous mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt dầu phun khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas atomizing oil burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn bằng khí oxiaxetilen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxyacetylene torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đi kèm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-adjacent field"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn cầm tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hand flame-cutting torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lết đầu dẹt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-monkey wrench"
-      }
-    ]
-  },
-  {
-    "word": "mỏm răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoid process"
-      }
-    ]
-  },
-  {
-    "word": "mỏ sa khoáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-alluvial deposit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn thiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-soldering iron"
-      }
-    ]
-  },
-  {
-    "word": "mỏ thiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stannary\n-tin mine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tin mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dưới biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-submarine mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn xì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-acetylene blowpipe\n-blow pipe\n-gas burner\n-gas ring\n-soldering blowpipe\n-welding blowpipe"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn chất rắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sand groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lếch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-adjustable spanner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn đồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bit\n-brazing blowpipe\n-copper bit\n-iron\n-soldering bit\n-soldering copper\n-soldering iron"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá sét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slate quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-stop lug"
-      }
-    ]
-  },
-  {
-    "word": "mỏm sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus ethmoidalis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt dẹt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flat burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏng tai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hay tò mò nghe ngóng chuyện riêng của người khác [hàm ý coi khinh]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng tai\n- Tò mò, hay nghe ngóng những chuyện kín của người khác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏng tai\n-Eavesdropping"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng tai\n- Eavesdropping"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "eavesdropping"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đèn cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting blowpipe\n@Lĩnh vực: xây dựng\n-flame cutter"
-      }
-    ]
-  },
-  {
-    "word": "mỏm cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole tips"
-      }
-    ]
-  },
-  {
-    "word": "mỏm quạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-temporal process of scapula"
-      }
-    ]
-  },
-  {
-    "word": "mỏ tiếp đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ground lug"
-      }
-    ]
-  },
-  {
-    "word": "mỏm cùng vai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acromion\n-acromion process"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-oilfield (oil field, oil-field)\n@Chuyên ngành kỹ thuật\n-field\n-oil deposit\n-oil mine\n-oil pond\n-oil pool\n-oilfield\n-petroleum deposit\n-pool of petroleum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "oil well"
-      }
-    ]
-  },
-  {
-    "word": "mỏ khai thác lộ thiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-open pit\n-open quarry\n-strip pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ quặng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mine field\n-ore deposit\n-ore mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏm gai đốt sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus spinosusvertebarum\n-spinous process of vertebrae"
-      }
-    ]
-  },
-  {
-    "word": "mỏm gò má",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-malar process"
-      }
-    ]
-  },
-  {
-    "word": "mỏ neo tải trọng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-anchor charge"
-      }
-    ]
-  },
-  {
-    "word": "mỏ neo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vật bằng sắt, nặng, có một hay nhiều mỏ quặp, thả chìm dưới đáy nước để giữ cho tàu thuyền ở yên tại một vị trí nhất định"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ neo\n- dt Dụng cụ bằng sắt nặng có mỏ quặp để thả xuống đáy nước cho tàu thuyền ở yên tại chỗ, khỏi trôi đi: Tàu đến bến, người ta vội bỏ mỏ neo xuống nước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ neo\n*noun\n-anchor. anchor\n@Chuyên ngành kinh tế\n-anchor\n@Chuyên ngành kỹ thuật\n-anchor"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ neo\n* noun\n- anchor. anchor"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "anchor"
-      }
-    ]
-  },
-  {
-    "word": "mỏ chìa khóa 6 cạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-hexagon bit or hex bit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lết đầu vuông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-monkey wrench"
-      }
-    ]
-  },
-  {
-    "word": "mỏm ức (sụn ức)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-xiphoidprecess"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp bàn thợ mộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-carpenter\"s wooden vise"
-      }
-    ]
-  },
-  {
-    "word": "mỏ kẹp lò xo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spring socket"
-      }
-    ]
-  },
-  {
-    "word": "mỏm sót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-baroboo bar"
-      }
-    ]
-  },
-  {
-    "word": "mỏng tanh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quá mỏng, không được như yêu cầu\nVí dụ:\n- vải mỏng tanh \n - tấm liếp mỏng tanh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng tanh\n- Mỏng lắm: Bìa sách mỏng tanh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏng tanh\n*adj\n-very thin"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng tanh\n* adj\n- very thin"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very thin"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá (lộ thiên)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stripping"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn cháy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ignition burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hình túi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-chambered depeter"
-      }
-    ]
-  },
-  {
-    "word": "mỏng vách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thin-walled"
-      }
-    ]
-  },
-  {
-    "word": "mỏ khí thiên nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-natural gas deposit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ (hàn) đầu (giũa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tip"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn ngọn lửa phẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-flat-flame burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ phun dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-burner tip"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt mazut",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oil burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt không khí nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-forced air burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt năng lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-power burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏm vẹt xương trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus coronoideus ulnae"
-      }
-    ]
-  },
-  {
-    "word": "mỏ (dạng) dạng nhánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-channel depeter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đồng sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-idiogenites"
-      }
-    ]
-  },
-  {
-    "word": "mỏ phun",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-injection nozzle\n@Lĩnh vực: điện\n-nozzle"
-      }
-    ]
-  },
-  {
-    "word": "mỏi rời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi rời\n- Nh. Mỏi nhừ."
-      }
-    ]
-  },
-  {
-    "word": "mỏ neo thanh ray",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rail anchor"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đèn hàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-torch head"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn khuếch tán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diffusion burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-beak"
-      }
-    ]
-  },
-  {
-    "word": "mỏm cảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-jugular spine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt bếp ga",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas range burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn xì kiểu vòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ring type gas burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flame cutter\n@Lĩnh vực: xây dựng\n-gas cutter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt dùng khí oxihidro axetilen",
-    "definitions": [
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-acetylene oxy hydrogen cutting torch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutter\n-cutting blowpipe\n-cutting nozzle\n-cutting torch\n-flame cutter\n-torch"
       }
     ]
   },
   {
-    "word": "mỏ cặp (êtô)",
+    "word": "mỏ kẹp hàn tiếp xúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gripping jaws"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-contact jaw"
       }
     ]
   },
@@ -2628,162 +504,11 @@
     ]
   },
   {
-    "word": "mỏi điện môi",
+    "word": "mỏ hàn cắt dưới nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dielectric fatigue"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt dầu nặng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oil burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏi mắt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trạng thái mong chờ đã lâu lắm rồi mà vẫn không thấy đâu\nVí dụ:\n- mỏi mắt chờ đợi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi mắt\n- Ngb. Nói mong chờ từ lâu: Mong chờ mỏi mắt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏi mắt\n-For a weary lonhg time\n=Chờ mỏi mắt mà không thấy đến\n+To wait for someone for a weary long time in vain"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi mắt\n- For a weary lonhg time\n=Chờ mỏi mắt mà không thấy đến+To wait for someone for a weary long time in vain"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "for a very long time"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lưu huỳnh lộ thiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sulphur pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ giật của tường gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-toothing of brick wall"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt dùng khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cát kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sandstone quarry"
-      }
-    ]
-  },
-  {
-    "word": "mỏng mảnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mỏng và kém độ bền chắc, kém sức chịu đựng trước những tác động bất lợi từ bên ngoài\nVí dụ:\n- thân hình mỏng mảnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng mảnh\n- t. 1. Dễ vỡ: Cái bát mỏng mảnh. 2. Nh. Mong manh: Hi vọng mỏng mảnh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏng mảnh\n-Fragile"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng mảnh\n- Fragile"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fragile"
-      }
-    ]
-  },
-  {
-    "word": "mỏ than",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-coal mine\n@Chuyên ngành kỹ thuật\n-coal deposit\n-coal field\n-coal mine\n-coal pit\n-coal works\n-coalfield\n-colliery"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "coal mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏng môi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hay mách lẻo, hay nói trước những lời mà người khác chưa kịp nói [hàm ý coi khinh]\nVí dụ:\n- \"Thế mới đẹp mặt giống mỏng môi! Cứ để người ta đánh, người ta xé nó ra, cho nó chừa cái tính hay hớt!\" (Vũ Thị Thường; 2)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng môi\n- Nói người hay nói hớt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏng môi\n-Table-telling, tale-bearing, peaching"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng môi\n- Table-telling, tale-bearing, peaching"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "table-telling, tale-bearing"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blow-free"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt bằng dầu hỏa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kerosene cutter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underwater cutting blowpipe"
       }
     ]
   },
@@ -2797,92 +522,11 @@
     ]
   },
   {
-    "word": "mỏ balat",
+    "word": "mỏ hàn cắt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ballast pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ phóng điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-rod gap"
-      }
-    ]
-  },
-  {
-    "word": "mỏm răng, mấu răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoid apophysis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lết ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-knee spanner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đã hợp nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-amalgamated mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đầu xa bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-offshore field"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp di động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chop\n-movable jaw"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt (thủy tinh, kính)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-burner block"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt dầu phun khí cơ học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas mechanical atomizing burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ lưu huỳnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sulphur mine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting blowpipe\n-cutting torch\n-flame cutter\n-gas cutter"
       }
     ]
   },
@@ -2896,285 +540,189 @@
     ]
   },
   {
-    "word": "mỏ muối",
+    "word": "mỏ chưa khai thác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-salt deposit\n-salt mine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-maiden field"
       }
     ]
   },
   {
-    "word": "mỏi",
+    "word": "mỏ đất sét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clay pit\n-clay wetting"
+      }
+    ]
+  },
+  {
+    "word": "mỏm ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-transerve process"
+      }
+    ]
+  },
+  {
+    "word": "mỏ có khí dễ nổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fiery mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏm vẹt của xương hàm dưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-temporal process of mandible"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn gây bồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bed groyne\n-low level groyne\n-sediment groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn chống xói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fending groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lưu huỳnh lộ thiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sulphur pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lết điều chỉnh được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-adjustable-end wrench"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt dầu phun khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas atomizing oil burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác gân cốt rão ra, thường do đã làm việc quá lâu và quá sức, như không vận động nổi nữa\nVí dụ:\n- viết mỏi cả tay mới xong \n - mỏi gối chồn chân \n - nói lắm mỏi mồm!"
+        "dict_definition": "phần đất hoặc đá nhô cao lên hoặc chìa ra trên một địa hình\nVí dụ:\n- mỏm núi \n - mỏm đồi"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi\n- t. Cảm thấy thân thể hoặc một phần thân thể không muốn hoặc ít muốn cố gắng sau khi làm việc nhiều hoặc quá sức: Chẻ củi mãi mỏi tay; Đọc sách lâu mỏi mắt."
+        "dict_definition": "@mỏm\n- d. Chỏm đầu của vật gì thò lên trên hay ra ngoài: Mỏm đá; Mỏm núi."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@mỏi\n-Weary, tired\n=Đi mười cây số đã thấy mỏi chân\n+To feel weary in one\"s legs after walking ten kilometres\n-Sickening for some illness, indisposed\n=Hôm nay trời ẩm quá, người thấy mỏi nhừ\n+Toy is very wet, so I am sickening for something\n@Chuyên ngành kỹ thuật\n-fatigue"
+        "dict_definition": "@mỏm\n-Top, peak\n=Mỏm đá lởm chởm\n+A rugged rock-top\n=Đứng trên mỏm núi\n+To stand on the peak (top) of a mountain\n-Process (of a bone)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epicondiple"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi\n- Weary, tired\n=Đi mười cây số đã thấy mỏi chân+To feel weary in one's legs after walking ten kilometres\n-Sickening for some illness, indisposed\n=Hôm nay trời ẩm quá, người thấy mỏi nhừ+Toy is very wet, so I am sickening for something"
+        "dict_definition": "@mỏm\n- Top, peak\n=Mỏm đá lởm chởm+A rugged rock-top\n=Đứng trên mỏm núi+To stand on the peak (top) of a mountain\n-Process (of a bone)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "weary, tired"
+        "dict_definition": "cape, tip, top, peak; muzzle, snout"
       }
     ]
   },
   {
-    "word": "mỏ hàn không ngọn lửa",
+    "word": "mỏm sót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flameless burner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-baroboo bar"
       }
     ]
   },
   {
-    "word": "mỏ lết có răng",
+    "word": "mỏ đốt không khí nén",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-pipe wrench"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-forced air burner"
       }
     ]
   },
   {
-    "word": "mỏ đất",
+    "word": "mỏ dễ cháy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-borrow\n@Lĩnh vực: xây dựng\n-soil bank"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fiery mine"
       }
     ]
   },
   {
-    "word": "mỏi nhừ",
+    "word": "mỏ đầu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏi nhừ\n- Mỏi lắm."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@mỏi nhừ [mỏi nhừ]\n-quite exhausted, dead tired, tired out"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "quite exhausted, dead tired, tired out"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oilfield"
       }
     ]
   },
   {
-    "word": "mỏ hàn gió đá",
+    "word": "mỏm núi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-torch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cusp\n-pike\n-tor"
       }
     ]
   },
   {
-    "word": "mỏ đốt ngọn lửa phẳng",
+    "word": "mỏ neo danford",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-flat-flame burner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Danford anchor"
       }
     ]
   },
   {
-    "word": "mỏ hàn vảy cứng",
+    "word": "mỏ đèn cắt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brazing blowpipe"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting blowpipe\n@Lĩnh vực: xây dựng\n-flame cutter"
       }
     ]
   },
   {
-    "word": "mỏ đốt bay hơi",
+    "word": "mỏ đồng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vaporizing burner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cut stone quarry\n-quarry\n-rock pit\n-stone field\n-stone pit\n-stone quarry\n-stone-pit"
-      }
-    ]
-  },
-  {
-    "word": "mỏ phèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-alum mine"
-      }
-    ]
-  },
-  {
-    "word": "mỏm thanh sụn phễu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus vocalis"
-      }
-    ]
-  },
-  {
-    "word": "mỏ nết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-monkey wrench"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cắt bằng xăng ôxi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxy-gasoline cutting torch"
-      }
-    ]
-  },
-  {
-    "word": "mỏ dừng (trong công tơ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-stop lug"
-      }
-    ]
-  },
-  {
-    "word": "mỏ có múi khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas cap pool"
-      }
-    ]
-  },
-  {
-    "word": "mỏ cặp vạn năng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-universal vise"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn hướng dòng (bằng rọ đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stonemesh groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sea groyne"
-      }
-    ]
-  },
-  {
-    "word": "mỏ vịt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dụng cụ y tế dùng để khám bệnh, có hình giống mỏ con vịt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ vịt\n- Dụng cụ y khoa hình giống mỏ con vịt, dùng để khám âm đạo của phụ nữ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ vịt\n*noun\n-speculum\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-duck bill"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mỏ vịt\n* noun\n- speculum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "speculum"
-      }
-    ]
-  },
-  {
-    "word": "mỏ đốt kiểu xung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-aeropulse"
-      }
-    ]
-  },
-  {
-    "word": "mỏ-lết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mỏ-lết [mỏ lết]\n-(từ gốc tiếng Pháp là Clef à molette) monkey-wrench;  adjustable spanner"
-      }
-    ]
-  },
-  {
-    "word": "mỏ ống thổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nose of blowpipe"
-      }
-    ]
-  },
-  {
-    "word": "mỏ neo rời bờ nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-coastal quick release anchor (CQR anchor)"
-      }
-    ]
-  },
-  {
-    "word": "mỏ phân vỉa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bedded depeter"
-      }
-    ]
-  },
-  {
-    "word": "mỏ hàn hơi mazut",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas-and-black-oil burner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-copper mine\n-cuprite\n-cuprites"
       }
     ]
   },
@@ -3188,33 +736,65 @@
     ]
   },
   {
-    "word": "mỏng mẻo",
+    "word": "mỏ amian",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mỏng mẻo\n- Nh. Mỏng: Cái bìa mỏng mẻo."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@mỏng mẻo [mỏng mẻo]\n-Xem"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asbestos mine"
       }
     ]
   },
   {
-    "word": "mỏ giật",
+    "word": "mỏ đá phiến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-toothing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slate pit"
       }
     ]
   },
   {
-    "word": "mỏ hàn chì, cần hàn",
+    "word": "mỏ đã hợp nhất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-soldering iron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-amalgamated mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn sông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-river groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏm tim",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-apex cordis"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cuội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gravel mine\n@Lĩnh vực: cơ khí & công trình\n-gravel pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏm gò má",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-malar process"
       }
     ]
   },
@@ -3256,20 +836,325 @@
     ]
   },
   {
-    "word": "mỏ hàn vảy",
+    "word": "mỏ lết (loại thông dụng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bar solder\n-bit\n-copper bit\n-iron\n-soldering bit\n-soldering copper\n-soldering iron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-adjustable spanner"
       }
     ]
   },
   {
-    "word": "mỏi nhiệt",
+    "word": "mỏ đốt mazut",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-thermal fatigue"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oil burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt dùng khí oxihidro axetilen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-acetylene oxy hydrogen cutting torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn khuếch tán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diffusion burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ than lộ thiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-daylight colliery"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt hàn xì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏng mẻo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng mẻo\n- Nh. Mỏng: Cái bìa mỏng mẻo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏng mẻo [mỏng mẻo]\n-Xem"
+      }
+    ]
+  },
+  {
+    "word": "mỏm đốt sống phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anapophysis"
+      }
+    ]
+  },
+  {
+    "word": "mỏ dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-oilfield (oil field, oil-field)\n@Chuyên ngành kỹ thuật\n-field\n-oil deposit\n-oil mine\n-oil pond\n-oil pool\n-oilfield\n-petroleum deposit\n-pool of petroleum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "oil well"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-diving groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ muối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-salt deposit\n-salt mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ ẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blind depeter\n@Lĩnh vực: cơ khí & công trình\n-blind deposit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ phun dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-burner tip"
+      }
+    ]
+  },
+  {
+    "word": "mỏm vẹt xương trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus coronoideus ulnae"
+      }
+    ]
+  },
+  {
+    "word": "mỏ thạch cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gypsum mine\n-gypsum quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-borrow\n@Lĩnh vực: xây dựng\n-soil bank"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn xì kiểu vòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ring type gas burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏm hàm (phôi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-maxiliary process"
+      }
+    ]
+  },
+  {
+    "word": "mỏi rời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi rời\n- Nh. Mỏi nhừ."
+      }
+    ]
+  },
+  {
+    "word": "mỏ (dạng) dạng nhánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-channel depeter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ nết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-monkey wrench"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt bằng khí oxiaxetilen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxyacetylene cutting torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-electric soldering iron\n@Lĩnh vực: cơ khí & công trình\n-electrical solderer"
+      }
+    ]
+  },
+  {
+    "word": "mỏ (hàn) đầu (giũa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tip"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn hướng dòng (bằng rọ đá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stonemesh groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ dưới biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-submarine mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn thổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blowpipe burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt lửa mồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pilot flame burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ-lết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ-lết [mỏ lết]\n-(từ gốc tiếng Pháp là Clef à molette) monkey-wrench;  adjustable spanner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ neo cqr",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Danford anchor"
+      }
+    ]
+  },
+  {
+    "word": "mỏ granit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-granite quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏm (vịnh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-horn"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt (thủy tinh, kính)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-burner block"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt khí tự nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-neat gas burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ giật của tường gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-toothing of brick wall"
       }
     ]
   },
@@ -3295,11 +1180,2126 @@
     ]
   },
   {
-    "word": "mỏ hàn kiểu súng",
+    "word": "mỏ lết mở ống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gun burner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pipe wrench\n-wrench, pipe"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-acetylene blowpipe\n-blowpipe\n-burner\n-burner nozzle\n-gas burner\n-soldering blowpipe\n-torch\n-welding blowpipe\n-welding blowpiper"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ê tô"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ cặp\n-(kỹ thuật) Vice\n@Chuyên ngành kỹ thuật\n-chuck jaw\n-clamp\n-fastener\n-fastening\n-gripping jaws\n-jaw\n-lip\n-lock-filer clamp\n-vice\n-vice clamp\n-vice or vise\n-vise\n-vise clamp"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ cặp\n- (kỹ thuật) Vice"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "vice"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt một ngọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-single-torch burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn bằng đồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-soldering copper"
+      }
+    ]
+  },
+  {
+    "word": "mỏ khí ngưng tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas condensate pool"
+      }
+    ]
+  },
+  {
+    "word": "mỏ bàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏ than nâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brown coal mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp vạn năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-universal vise"
+      }
+    ]
+  },
+  {
+    "word": "mỏ êtô rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-jaw socket"
+      }
+    ]
+  },
+  {
+    "word": "mỏ kẹp lò xo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spring socket"
+      }
+    ]
+  },
+  {
+    "word": "mỏ neo rời bờ nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-coastal quick release anchor (CQR anchor)"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn (mỏ đốt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-welding torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏ neo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vật bằng sắt, nặng, có một hay nhiều mỏ quặp, thả chìm dưới đáy nước để giữ cho tàu thuyền ở yên tại một vị trí nhất định"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ neo\n- dt Dụng cụ bằng sắt nặng có mỏ quặp để thả xuống đáy nước cho tàu thuyền ở yên tại chỗ, khỏi trôi đi: Tàu đến bến, người ta vội bỏ mỏ neo xuống nước."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ neo\n*noun\n-anchor. anchor\n@Chuyên ngành kinh tế\n-anchor\n@Chuyên ngành kỹ thuật\n-anchor"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ neo\n* noun\n- anchor. anchor"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "anchor"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lưu huỳnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sulphur mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ vật liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-occurrence"
+      }
+    ]
+  },
+  {
+    "word": "mỏ dầu có giá trị (khai thác) thương mại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commercial oil field"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt oxi-axetylen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-oxyacetylene cutter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ vịt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dụng cụ y tế dùng để khám bệnh, có hình giống mỏ con vịt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ vịt\n- Dụng cụ y khoa hình giống mỏ con vịt, dùng để khám âm đạo của phụ nữ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ vịt\n*noun\n-speculum\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-duck bill"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ vịt\n* noun\n- speculum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "speculum"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flame cutter\n@Lĩnh vực: xây dựng\n-gas cutter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ ác",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xương nối các đầu sườn ở phía trước lồng ngực"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đầu dưới của xương mỏ ác\nVí dụ:\n- thấy đau ở mỏ ác"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thóp ở trẻ em\nVí dụ:\n- che mỏ ác cho bé"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ ác\n- d. 1. Đầu dưới của xương ức. 2. Vùng bụng chung quanh đầu dưới xương ức. 3. (đph). Thóp trán trẻ con."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ ác\n-End of the sternum.\n-(địa phương) Fontanel, fontanelle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ ác\n- End of the sternum.\n-(địa phương) Fontanel, fontanelle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "end of the sternum; fontanel, pit of the stomach"
+      }
+    ]
+  },
+  {
+    "word": "mỏm cùng vai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acromion\n-acromion process"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt mồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pilot burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏm quạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-temporal process of scapula"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn cũi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crib groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đã hết trữ lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-exhausted mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-machine vice\n-machine vise"
+      }
+    ]
+  },
+  {
+    "word": "mỏm khớp đốt sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-zygapophysus"
+      }
+    ]
+  },
+  {
+    "word": "mỏ thiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stannary\n-tin mine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tin mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn chìm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-diving groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏi do ăn mòn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-corrosion fatigue"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đèn hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-torch head"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn súng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-soldering gun"
+      }
+    ]
+  },
+  {
+    "word": "mỏm đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cliff"
+      }
+    ]
+  },
+  {
+    "word": "mỏng thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thin-walled"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp của êtô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vice jaw\n-vise jaw"
+      }
+    ]
+  },
+  {
+    "word": "mỏm đá cheo leo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-logan stone"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lếch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-adjustable spanner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sign-on"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá dăm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ballast pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lết",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dụng cụ có bánh răng điều chỉnh để có thể tháo lắp đai ốc, đinh ốc thuộc nhiều cỡ khác nhau"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-adjustable wrench\n-adjusting key\n-multigrip pliers\n-wrench"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "monkey-wrench, adjustable wrench"
+      }
+    ]
+  },
+  {
+    "word": "mỏ dầu sinh lợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-productive pool"
+      }
+    ]
+  },
+  {
+    "word": "mỏ than",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-coal mine\n@Chuyên ngành kỹ thuật\n-coal deposit\n-coal field\n-coal mine\n-coal pit\n-coal works\n-coalfield\n-colliery"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "coal mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ phun khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn vảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bar solder\n-bit\n-copper bit\n-iron\n-soldering bit\n-soldering copper\n-soldering iron"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lộ thiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ lộ thiên [mỏ lộ thiên]\n-open-cast mine\n@Chuyên ngành kỹ thuật\n-borrow pit\n-daylight mine\n-open cast mine\n-open-cut mine\n-pit\n-quarry\n-section\n-strip mine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "open-cast mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏm trâm xương quay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus styloideus radii"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp thợ mộc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bench vice"
+      }
+    ]
+  },
+  {
+    "word": "mỏ dạng mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-vein depeter\n@Lĩnh vực: cơ khí & công trình\n-vein deposit"
+      }
+    ]
+  },
+  {
+    "word": "mỏi mòn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mòn mỏi\nVí dụ:\n- mỏi mòn ngóng trông"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏi mòn [mỏi mòn]\n-wait in desperation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wait in desperation"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn hơi mazut",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas-and-black-oil burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp hàn (hàn đấu nối)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-welding helmet\n-welding jaw"
+      }
+    ]
+  },
+  {
+    "word": "mỏ (đá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ xì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ thương mại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-productive pool"
+      }
+    ]
+  },
+  {
+    "word": "mỏi điện môi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dielectric fatigue"
+      }
+    ]
+  },
+  {
+    "word": "mỏ trầm tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sedimentary depeter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pipe vice"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá sét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slate quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ phun kiểu khe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-slot burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ kẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-claw\n-cleat\n-cramp-iron\n-jaw\n-nip\n-nippers"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt (có) nhánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outlet port burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt bay hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vaporizing burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn cháy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ignition burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏm cảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-jugular spine"
+      }
+    ]
+  },
+  {
+    "word": "mỏng môi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hay mách lẻo, hay nói trước những lời mà người khác chưa kịp nói [hàm ý coi khinh]\nVí dụ:\n- \"Thế mới đẹp mặt giống mỏng môi! Cứ để người ta đánh, người ta xé nó ra, cho nó chừa cái tính hay hớt!\" (Vũ Thị Thường; 2)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng môi\n- Nói người hay nói hớt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏng môi\n-Table-telling, tale-bearing, peaching"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng môi\n- Table-telling, tale-bearing, peaching"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "table-telling, tale-bearing"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cần hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blow pipe nozzle"
+      }
+    ]
+  },
+  {
+    "word": "mỏng tang",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất mỏng và nhẹ\nVí dụ:\n- cái áo mỏng tang"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏng tang [mỏng tang]\n-(khẩu ngữ) Very thin and light."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very thin and light"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá lộ thiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-borrow pit\n-stripping"
+      }
+    ]
+  },
+  {
+    "word": "mỏ tầng (đai)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-berm"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lết có răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-pipe wrench"
+      }
+    ]
+  },
+  {
+    "word": "mỏm hay mấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-apophysis"
+      }
+    ]
+  },
+  {
+    "word": "mỏi nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-thermal fatigue"
+      }
+    ]
+  },
+  {
+    "word": "mỏi mắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trạng thái mong chờ đã lâu lắm rồi mà vẫn không thấy đâu\nVí dụ:\n- mỏi mắt chờ đợi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi mắt\n- Ngb. Nói mong chờ từ lâu: Mong chờ mỏi mắt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏi mắt\n-For a weary lonhg time\n=Chờ mỏi mắt mà không thấy đến\n+To wait for someone for a weary long time in vain"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi mắt\n- For a weary lonhg time\n=Chờ mỏi mắt mà không thấy đến+To wait for someone for a weary long time in vain"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "for a very long time"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn xì tia lưu huỳnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-jet sulfur burner\n-jet sulphur burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cảm giác gân cốt rão ra, thường do đã làm việc quá lâu và quá sức, như không vận động nổi nữa\nVí dụ:\n- viết mỏi cả tay mới xong \n - mỏi gối chồn chân \n - nói lắm mỏi mồm!"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi\n- t. Cảm thấy thân thể hoặc một phần thân thể không muốn hoặc ít muốn cố gắng sau khi làm việc nhiều hoặc quá sức: Chẻ củi mãi mỏi tay; Đọc sách lâu mỏi mắt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏi\n-Weary, tired\n=Đi mười cây số đã thấy mỏi chân\n+To feel weary in one\"s legs after walking ten kilometres\n-Sickening for some illness, indisposed\n=Hôm nay trời ẩm quá, người thấy mỏi nhừ\n+Toy is very wet, so I am sickening for something\n@Chuyên ngành kỹ thuật\n-fatigue"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi\n- Weary, tired\n=Đi mười cây số đã thấy mỏi chân+To feel weary in one's legs after walking ten kilometres\n-Sickening for some illness, indisposed\n=Hôm nay trời ẩm quá, người thấy mỏi nhừ+Toy is very wet, so I am sickening for something"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "weary, tired"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt đinh tán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rivet cutter"
+      }
+    ]
+  },
+  {
+    "word": "mỏm vòm miệng của xương hàm trên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus palatinus maxillae"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp xiết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fastener"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn chì, cần hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-soldering iron"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt bếp ga",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas range burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏm ngoài của xương sên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus lateralis"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá hoa cương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marble quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏm chũm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mastoidprocess"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt bằng dầu hỏa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-kerosene cutter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ khai thác dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-petroleum workings"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt dùng khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏm băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-glacial horn"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lết đầu vuông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-monkey wrench"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn vi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-microburner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ dầu ngoài khơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-offshore oilfield"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "offshore oil well"
+      }
+    ]
+  },
+  {
+    "word": "mỏi mệt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mệt mỏi\nVí dụ:\n- dáng điệu có vẻ mỏi mệt \n - khuôn mặt mỏi mệt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi mệt\n- Mệt nhọc quá."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏi mệt\n-Tired, weary"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi mệt\n- Tired, weary"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tired, weary"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá (lộ thiên)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stripping"
+      }
+    ]
+  },
+  {
+    "word": "mỏ chìa khóa 6 cạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-hexagon bit or hex bit"
+      }
+    ]
+  },
+  {
+    "word": "mỏm răng, mấu răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoid apophysis"
+      }
+    ]
+  },
+  {
+    "word": "mỏm thìa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus cochleariformis"
+      }
+    ]
+  },
+  {
+    "word": "mỏ bitum",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tar pool"
+      }
+    ]
+  },
+  {
+    "word": "mỏm gai đốt sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus spinosusvertebarum\n-spinous process of vertebrae"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-stop lug"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đèn xì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blowpipe\n-burner\n-torch\n-torch head"
+      }
+    ]
+  },
+  {
+    "word": "mỏm cụt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stump"
+      }
+    ]
+  },
+  {
+    "word": "mỏ phèn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-alum mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-maiden field"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đi kèm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-adjacent field"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn vảy cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brazing blowpipe"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn hơi (cấu khí trơ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inert-gas torch for inert-gas welding"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn ngược dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-upstream groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt dầu phun khí cơ học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas mechanical atomizing burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ xiết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fastening"
+      }
+    ]
+  },
+  {
+    "word": "mỏm chó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "muzzle, snout (of a dog)"
+      }
+    ]
+  },
+  {
+    "word": "mỏm lồi cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epicondylus"
+      }
+    ]
+  },
+  {
+    "word": "mỏ vàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ vàng\n*noun\n-gold-mine\n@Chuyên ngành kinh tế\n-cash cow\n-gold mine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gold mine"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ vàng\n* noun\n-gold-mine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gold mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ sét mịn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-silt field"
+      }
+    ]
+  },
+  {
+    "word": "mỏm sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus ethmoidalis"
+      }
+    ]
+  },
+  {
+    "word": "mỏ thủy ngân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mercury mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ phóng điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-rod gap"
+      }
+    ]
+  },
+  {
+    "word": "mỏm cột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pole horn"
+      }
+    ]
+  },
+  {
+    "word": "mỏm chân bướm, mấu chân bướm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pterygold apophysis"
+      }
+    ]
+  },
+  {
+    "word": "mỏi mắt do điều tiết chứng b",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-asthenopia"
+      }
+    ]
+  },
+  {
+    "word": "mỏ trên bờ (biển)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-onshore field"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt đậu rót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sprue cutter"
+      }
+    ]
+  },
+  {
+    "word": "mỏm răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoid process"
+      }
+    ]
+  },
+  {
+    "word": "mỏi nhừ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏi nhừ\n- Mỏi lắm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏi nhừ [mỏi nhừ]\n-quite exhausted, dead tired, tired out"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "quite exhausted, dead tired, tired out"
+      }
+    ]
+  },
+  {
+    "word": "mỏm thanh sụn phễu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus vocalis"
+      }
+    ]
+  },
+  {
+    "word": "mỏ giật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-toothing"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sea groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cut stone quarry\n-quarry\n-rock pit\n-stone field\n-stone pit\n-stone quarry\n-stone-pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn chốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stud welding gun"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt dẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flat burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt năng lượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-power burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏm cằm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mental protuberance"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá hoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-marble quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn xì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-acetylene blowpipe\n-blow pipe\n-gas burner\n-gas ring\n-soldering blowpipe\n-welding blowpipe"
+      }
+    ]
+  },
+  {
+    "word": "mỏi mắt cơ vận nhãn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-muscular asthenopia"
+      }
+    ]
+  },
+  {
+    "word": "mỏ dầu hỏa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil field"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blow-free"
+      }
+    ]
+  },
+  {
+    "word": "mỏm trên ròng rọc xương cánh tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal process of humerus"
+      }
+    ]
+  },
+  {
+    "word": "mỏm cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole tips"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt bunsen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Bunsen burner\n-burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn không ngọn lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flameless burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hầm lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-strip mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ phun",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-injection nozzle\n@Lĩnh vực: điện\n-nozzle"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đèn tròn fletcher",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Fletcher radial burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ khai thác lộ thiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-open pit\n-open quarry\n-strip pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn ngọn lửa phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-flat-flame burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dụng cụ bằng sắt dùng để nung đỏ làm nóng chảy kim loại khi hàn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ hàn\n- Dụng cụ bằng sắt dùng để nung đỏ lên mà hàn thiếc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏ hàn\n-Soldering-iron\n@Chuyên ngành kỹ thuật\n-bit\n-blow lamp\n-blow pipe\n-blowtorch\n-burner\n-copper bit\n-iron\n-nozzle\n-retard\n-solderer\n-soldering bit\n-soldering copper\n-soldering gun\n-soldering iron\n-soldering lug\n-soldering tool\n-soldering-iron\n-tip welding\n-torch\n-welding blowpipe\n-welding burner\n-welding gun\n-welding nozzle\n-welding tip\n-welding torch"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏ hàn\n- Soldering-iron"
+      }
+    ]
+  },
+  {
+    "word": "mỏ neo thanh ray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rail anchor"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn cầm tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hand flame-cutting torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏm ức (sụn ức)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-xiphoidprecess"
+      }
+    ]
+  },
+  {
+    "word": "mỏ phân vỉa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bedded depeter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt bằng xăng ôxi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxy-gasoline cutting torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏ quẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-distributor arm"
+      }
+    ]
+  },
+  {
+    "word": "mỏ khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas field\n-gas pool\n-gaseous mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-metal mine\n@Lĩnh vực: hóa học & vật liệu\n-metalliferous mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp (êtô)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gripping jaws"
+      }
+    ]
+  },
+  {
+    "word": "mỏm đuôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus caudatus hepatis"
+      }
+    ]
+  },
+  {
+    "word": "mỏ khí thiên nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-natural gas deposit"
+      }
+    ]
+  },
+  {
+    "word": "mỏi mắt sụn mi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tarsal asthenopia"
+      }
+    ]
+  },
+  {
+    "word": "mỏ kim cương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diamond mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt kiểu xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-aeropulse"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hình túi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-chambered depeter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn thiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-soldering iron"
+      }
+    ]
+  },
+  {
+    "word": "mỏm đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cape"
+      }
+    ]
+  },
+  {
+    "word": "mỏ thạch anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-quartz mine"
+      }
+    ]
+  },
+  {
+    "word": "mỏm đá (địa lý)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rock"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn oxyxetilen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxyacetylene torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cát kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sandstone quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-beak"
+      }
+    ]
+  },
+  {
+    "word": "mỏ balat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ballast pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏm trước của xương búa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus gracilis"
+      }
+    ]
+  },
+  {
+    "word": "mỏm nhô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outshot"
+      }
+    ]
+  },
+  {
+    "word": "mỏm, bờ, củ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-process"
+      }
+    ]
+  },
+  {
+    "word": "mỏ có múi khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas cap pool"
+      }
+    ]
+  },
+  {
+    "word": "mỏm trâm của xương thái dương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-plectrum"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt dầu nặng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oil burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏng dinh dính",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mỏng dính [nhưng ý mức độ nhiều hơn]\nVí dụ:\n- tờ giấy mỏng dinh dính"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt oxi hiđro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxyhydrogen torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏm đậu của xương đe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus lenticularis incudis"
+      }
+    ]
+  },
+  {
+    "word": "mỏm ngang của đốt sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus transversus vertebrarum"
+      }
+    ]
+  },
+  {
+    "word": "mỏng manh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất mỏng, gây cảm giác không đủ sức chịu đựng\nVí dụ:\n- mặc một chiếc áo mỏng manh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như mong manh [ng1]\nVí dụ:\n- hi vọng mỏng manh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng manh\n- t. 1. Rất mỏng: Quần áo mỏng manh. 2. Không chắc chắn, khó thực hiện: Hi vọng mỏng manh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏng manh\n-Very thin\n=Quần áo mỏng manh\n+Very thin clothes\n-Fail, fragile\n=Hy vọng mỏng manh lắm\n+Very frail hopes\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fragile"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng manh\n- Very thin\n=Quần áo mỏng manh+Very thin clothes\n-Fail, fragile\n=Hy vọng mỏng manh lắm+Very frail hopes"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very thin, frail, fragile"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lết hai đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-double ended spanner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cặp di động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chop\n-movable jaw"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đèn xì oxyaxetylen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oxyacetylene blowpipe"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cắt axetylen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-acetylene cutter"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn lái dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hockey stick groyne"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đốt dùng khí axetilen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-acetylene burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn gió đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-torch"
+      }
+    ]
+  },
+  {
+    "word": "mỏng tanh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quá mỏng, không được như yêu cầu\nVí dụ:\n- vải mỏng tanh \n - tấm liếp mỏng tanh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng tanh\n- Mỏng lắm: Bìa sách mỏng tanh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏng tanh\n*adj\n-very thin"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng tanh\n* adj\n- very thin"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very thin"
+      }
+    ]
+  },
+  {
+    "word": "mỏ cát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sand pit"
+      }
+    ]
+  },
+  {
+    "word": "mỏng nhẹ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "thin and light"
+      }
+    ]
+  },
+  {
+    "word": "mỏ (khai thác đá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏm trâm xương trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-processus styloideus ulnae"
+      }
+    ]
+  },
+  {
+    "word": "mỏng dính",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mỏng đến mức như không thể mỏng hơn được nữa\nVí dụ:\n- vải mỏng dính \n - cặp môi mỏng dính"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng dính\n- Mỏng lắm: Tờ giấy cuốn thuốc lá mỏng dính."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mỏng dính\n-Very thin, flimsy\n=Giấy cuốn thuốc lá mỏng dính\n+Very thin cigarette paper"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mỏng dính\n- Very thin, flimsy\n=Giấy cuốn thuốc lá mỏng dính+Very thin cigarette paper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very thin, flimsy"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đa rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dimension-stone quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ kẹp (trong máy khoan)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-drill vice, vise"
+      }
+    ]
+  },
+  {
+    "word": "mỏi mắt võng mạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retinal asthenopia"
+      }
+    ]
+  },
+  {
+    "word": "mỏi và giòn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fatigue and fracture"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn chì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-soldering iron"
+      }
+    ]
+  },
+  {
+    "word": "mỏ (hầm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mine\n-shaft"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lết ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-knee spanner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn súng lục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-solder-gun\n-soldering gun"
+      }
+    ]
+  },
+  {
+    "word": "mỏm cực từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole horn"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn (chì)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-soldering gin\n-soldering iron"
+      }
+    ]
+  },
+  {
+    "word": "mỏ hàn có ngọn lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-neat flame burner"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đầu xa bờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-offshore field"
+      }
+    ]
+  },
+  {
+    "word": "mỏ sét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-clay pit\n@Lĩnh vực: xây dựng\n-clay quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ đá vôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lime pit\n-limestone pit\n-limestone quarry"
+      }
+    ]
+  },
+  {
+    "word": "mỏ lết đầu dẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-monkey wrench"
       }
     ]
   }

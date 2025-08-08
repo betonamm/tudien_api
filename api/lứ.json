@@ -1,22 +1,22 @@
 [
   {
-    "word": "lứa tuổi",
+    "word": "lứa đôi",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cặp trai gái, vợ chồng trẻ xứng đôi với nhau\nVí dụ:\n- hạnh phúc lứa đôi \n - \"Xưa nay duyên nợ lứa đôi, Khi nên chẳng lựa cầu Trời mới nên.\" (Cdao)"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lứa tuổi\n- d. Tuổi của những người sinh cùng năm hoặc một thời gian ngắn trước hay sau: Lứa tuổi dậy thì; Lứa tuổi hai mươi lăm đã biết suy nghĩ cân nhắc chín chắn. Tâm lý học lứa tuổi. Tâm lý học nghiên cứu sự phát triển tâm lý và những đặc điểm tâm lý của trẻ em ở các lứa tuổi khác nhau."
+        "dict_definition": "@lứa đôi\n- Nói trai gái tương xứng với nhau: Lứa đôi ai lại đẹp tày Thôi Trương (K)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lứa tuổi\n-Age group\n=Những học sinh cùng lứa tuổi thích chơi với nhau\n+pupils of the same age group like to make friends"
+        "dict_definition": "@lứa đôi\n-như đôi lứa\n=Xứng đôi vừa lứa\n+To make a good couple"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lứa tuổi\n- Age group\n=Những học sinh cùng lứa tuổi thích chơi với nhau+pupils of the same age group like to make friends"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "age category, range"
+        "dict_definition": "@lứa đôi\n- như đôi lứa\n=Xứng đôi vừa lứa+To make a good couple"
       }
     ]
   },
@@ -39,27 +39,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-farrow"
-      }
-    ]
-  },
-  {
-    "word": "lứa đôi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cặp trai gái, vợ chồng trẻ xứng đôi với nhau\nVí dụ:\n- hạnh phúc lứa đôi \n - \"Xưa nay duyên nợ lứa đôi, Khi nên chẳng lựa cầu Trời mới nên.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lứa đôi\n- Nói trai gái tương xứng với nhau: Lứa đôi ai lại đẹp tày Thôi Trương (K)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lứa đôi\n-như đôi lứa\n=Xứng đôi vừa lứa\n+To make a good couple"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lứa đôi\n- như đôi lứa\n=Xứng đôi vừa lứa+To make a good couple"
       }
     ]
   },
@@ -93,6 +72,27 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "class, range"
+      }
+    ]
+  },
+  {
+    "word": "lứa tuổi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lứa tuổi\n- d. Tuổi của những người sinh cùng năm hoặc một thời gian ngắn trước hay sau: Lứa tuổi dậy thì; Lứa tuổi hai mươi lăm đã biết suy nghĩ cân nhắc chín chắn. Tâm lý học lứa tuổi. Tâm lý học nghiên cứu sự phát triển tâm lý và những đặc điểm tâm lý của trẻ em ở các lứa tuổi khác nhau."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lứa tuổi\n-Age group\n=Những học sinh cùng lứa tuổi thích chơi với nhau\n+pupils of the same age group like to make friends"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lứa tuổi\n- Age group\n=Những học sinh cùng lứa tuổi thích chơi với nhau+pupils of the same age group like to make friends"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "age category, range"
       }
     ]
   }

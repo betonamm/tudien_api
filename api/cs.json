@@ -1,19 +1,19 @@
 [
   {
+    "word": "csdl quan hệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relational database\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relational database"
+      }
+    ]
+  },
+  {
     "word": "cs3 (aso4) 2",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-erythrine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-erythrine"
-      }
-    ]
-  },
-  {
-    "word": "csma với sự loại trừ xung đột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CSMA with Collision Elimination (CSMA/CE)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CSMA with Collision Elimination (CSMA/CE)"
       }
     ]
   },
@@ -27,20 +27,20 @@
     ]
   },
   {
-    "word": "csdl quan hệ",
+    "word": "csdl",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relational database\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relational database"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cơ sở dữ liệu [viết tắt]"
       }
     ]
   },
   {
-    "word": "csdl địa lý",
+    "word": "cs nối cuối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geographic database\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geographic database"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Curve to spiral\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Curve to spiral"
       }
     ]
   },
@@ -66,20 +66,20 @@
     ]
   },
   {
-    "word": "cs nối cuối",
+    "word": "csma với sự loại trừ xung đột",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Curve to spiral\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Curve to spiral"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CSMA with Collision Elimination (CSMA/CE)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CSMA with Collision Elimination (CSMA/CE)"
       }
     ]
   },
   {
-    "word": "csdl",
+    "word": "csdl địa lý",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cơ sở dữ liệu [viết tắt]"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geographic database\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geographic database"
       }
     ]
   }

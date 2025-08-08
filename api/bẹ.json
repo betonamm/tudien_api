@@ -1,26 +1,49 @@
 [
   {
-    "word": "bẹt",
+    "word": "bẹp dúm",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[hình khối] có bề mặt rộng, không dày, trông như bị ép xuống\nVí dụ:\n- giày mũi bẹt \n - đập cho bẹt ra \n - đầu bẹt như đầu cá trê"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng như tiếng của vật dẹp mình rơi mạnh xuống đất\nVí dụ:\n- đám vữa rơi bẹt xuống nền \n - ném bẹt đồng xu xuống đất"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@bẹt\n-Flop\n=rơi đánh bẹt một cái\n+to fall with a flop*adj\n-Flat\n=giày mũi bẹt\n+shoes with a flat toecap\n=bàn chân bẹt\n+a flat foot\n=đập bẹt ra\n+to flatten\n-Elongated\n=hình chữ nhật bẹt\n+an elongated rectangle\n@Chuyên ngành kỹ thuật\n-flat\n-flattened\n-oblate\n@Chuyên ngành kỹ thuật\n-flat\n-flattened\n-oblate"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bẹt\n- Flop\n=rơi đánh bẹt một cái+to fall with a flop\n* adj\n- Flat\n=giày mũi bẹt+shoes with a flat toecap\n=bàn chân bẹt+a flat foot\n=đập bẹt ra+to flatten\n-Elongated\n=hình chữ nhật bẹt+an elongated rectangle"
+        "dict_definition": "@bẹp dúm [bẹp dúm]\n-out of shape"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "flattened, squashed, flat, elongated"
+        "dict_definition": "out of shape"
+      }
+    ]
+  },
+  {
+    "word": "bẹp tai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bẹp tai\n-dân bẹp tai Opium addicts"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bẹp tai\n- dân bẹp tai Opium addicts"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be an opium addict"
+      }
+    ]
+  },
+  {
+    "word": "bẹp đầu ray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-batter\n-rail end batter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-batter\n-rail end batter"
+      }
+    ]
+  },
+  {
+    "word": "bẹp đầu ray không trực tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Rail end batter, Secondary"
       }
     ]
   },
@@ -50,11 +73,11 @@
     ]
   },
   {
-    "word": "bẹp đầu ray",
+    "word": "bẹp dí",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-batter\n-rail end batter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-batter\n-rail end batter"
+        "dict_name": "VNEDICT",
+        "dict_definition": "flattened, squashed"
       }
     ]
   },
@@ -88,31 +111,71 @@
     ]
   },
   {
-    "word": "bẹ",
+    "word": "bẹ mèo",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ phận xoà rộng ra ở gốc lá của một số loại cây, thường ôm lấy thân cây\nVí dụ:\n- bẹ ngô \n - bẹ cau \n - bẹ chuối"
+        "dict_definition": "bẹ [cau, chuối] còn non\nVí dụ:\n- cây cau mới có bẹ mèo"
+      }
+    ]
+  },
+  {
+    "word": "bẹt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[hình khối] có bề mặt rộng, không dày, trông như bị ép xuống\nVí dụ:\n- giày mũi bẹt \n - đập cho bẹt ra \n - đầu bẹt như đầu cá trê"
       },
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngô\nVí dụ:\n- cháo bẹ rau măng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bẹ\n- 1 d. Bộ phận xoà rộng ra ở gốc lá của một số loại cây như ngô, chuối, cau, v.v., thường ôm lấy thân cây. Bẹ ngô. Bẹ cau.\n- 2 d. (ph.). Ngô."
+        "dict_definition": "từ mô phỏng tiếng như tiếng của vật dẹp mình rơi mạnh xuống đất\nVí dụ:\n- đám vữa rơi bẹt xuống nền \n - ném bẹt đồng xu xuống đất"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bẹ\n*noun\n-Ocrea\n-Maize, Indian corn"
+        "dict_definition": "@bẹt\n-Flop\n=rơi đánh bẹt một cái\n+to fall with a flop*adj\n-Flat\n=giày mũi bẹt\n+shoes with a flat toecap\n=bàn chân bẹt\n+a flat foot\n=đập bẹt ra\n+to flatten\n-Elongated\n=hình chữ nhật bẹt\n+an elongated rectangle\n@Chuyên ngành kỹ thuật\n-flat\n-flattened\n-oblate\n@Chuyên ngành kỹ thuật\n-flat\n-flattened\n-oblate"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bẹ\n* noun\n- Ocrea\n-Maize, Indian corn"
+        "dict_definition": "@bẹt\n- Flop\n=rơi đánh bẹt một cái+to fall with a flop\n* adj\n- Flat\n=giày mũi bẹt+shoes with a flat toecap\n=bàn chân bẹt+a flat foot\n=đập bẹt ra+to flatten\n-Elongated\n=hình chữ nhật bẹt+an elongated rectangle"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "ocrea-maize, Indian corn; spathe (of areca palm leaf)"
+        "dict_definition": "flattened, squashed, flat, elongated"
+      }
+    ]
+  },
+  {
+    "word": "bẹp rúm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bẹp rúm\n-(cũng viết bẹp dúm) Flattened, deformed"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bẹp rúm\n- (cũng viết bẹp dúm) Flattened, deformed"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "flattened, deformed"
+      }
+    ]
+  },
+  {
+    "word": "bẹt ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flatten\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flatten"
+      }
+    ]
+  },
+  {
+    "word": "bẹ lá (hành)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sheath column"
       }
     ]
   },
@@ -138,103 +201,40 @@
     ]
   },
   {
-    "word": "bẹp dí",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flattened, squashed"
-      }
-    ]
-  },
-  {
-    "word": "bẹt ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flatten\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flatten"
-      }
-    ]
-  },
-  {
-    "word": "bẹp dúm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bẹp dúm [bẹp dúm]\n-out of shape"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "out of shape"
-      }
-    ]
-  },
-  {
-    "word": "bẹp tai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bẹp tai\n-dân bẹp tai Opium addicts"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bẹp tai\n- dân bẹp tai Opium addicts"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be an opium addict"
-      }
-    ]
-  },
-  {
-    "word": "bẹp rúm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bẹp rúm\n-(cũng viết bẹp dúm) Flattened, deformed"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bẹp rúm\n- (cũng viết bẹp dúm) Flattened, deformed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flattened, deformed"
-      }
-    ]
-  },
-  {
-    "word": "bẹp đầu ray không trực tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Rail end batter, Secondary"
-      }
-    ]
-  },
-  {
-    "word": "bẹ lá (hành)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sheath column"
-      }
-    ]
-  },
-  {
-    "word": "bẹ mèo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bẹ [cau, chuối] còn non\nVí dụ:\n- cây cau mới có bẹ mèo"
-      }
-    ]
-  },
-  {
     "word": "bẹn bụng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-inguino-abdominal\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-inguino-abdominal"
+      }
+    ]
+  },
+  {
+    "word": "bẹ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ phận xoà rộng ra ở gốc lá của một số loại cây, thường ôm lấy thân cây\nVí dụ:\n- bẹ ngô \n - bẹ cau \n - bẹ chuối"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngô\nVí dụ:\n- cháo bẹ rau măng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bẹ\n- 1 d. Bộ phận xoà rộng ra ở gốc lá của một số loại cây như ngô, chuối, cau, v.v., thường ôm lấy thân cây. Bẹ ngô. Bẹ cau.\n- 2 d. (ph.). Ngô."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bẹ\n*noun\n-Ocrea\n-Maize, Indian corn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bẹ\n* noun\n- Ocrea\n-Maize, Indian corn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ocrea-maize, Indian corn; spathe (of areca palm leaf)"
       }
     ]
   }

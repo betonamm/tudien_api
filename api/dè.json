@@ -1,39 +1,5 @@
 [
   {
-    "word": "dèn báo trạng thái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-status lamp"
-      }
-    ]
-  },
-  {
-    "word": "dè chừng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chú ý, cẩn thận đề phòng vì lo điều không hay có thể xảy ra\nVí dụ:\n- mắt liếc dè chừng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chú ý chi dùng ở mức tối thiểu, phòng khi túng thiếu\nVí dụ:\n- ăn dè chừng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dè chừng\n-Guard against\n-Foresee the eventuality of"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dè chừng\n- Guard against\n-Foresee the eventuality of"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "guard against-foresee the eventuality of"
-      }
-    ]
-  },
-  {
     "word": "dè dặt thận trọng",
     "definitions": [
       {
@@ -43,61 +9,35 @@
     ]
   },
   {
-    "word": "dè dụm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dè dụm\n-Save (economize) money"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dè dụm\n- Save (economize) money"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "save (economize) money"
-      }
-    ]
-  },
-  {
-    "word": "dè sẻn",
+    "word": "dè",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự hạn chế ở mức tối thiểu trong việc chi dùng\nVí dụ:\n- chi tiêu rất dè sẻn"
+        "dict_definition": "tự hạn chế trong việc chi dùng, chỉ dùng từng ít một\nVí dụ:\n- tiêu dè từng đồng \n - ăn dè"
       },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dè sẻn\n-Be parsimonious"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dè sẻn\n- Be parsimonious"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be parsimonious"
-      }
-    ]
-  },
-  {
-    "word": "dè bỉu",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chê bai, khinh thường người khác bằng lời nói hoặc thái độ thiếu thiện ý\nVí dụ:\n- người đời dè bỉu lão"
+        "dict_definition": "tự hạn chế trong hành động, tránh không đụng đến\nVí dụ:\n- nói năng nên dè miệng \n - chém tre chẳng dè đầu mặt (tng)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "biểu thị ý khẳng định dè dặt về việc đoán trước có điều gì đó không bình thường hoặc không hay\nVí dụ:\n- tôi dè chuyện đó không đúng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dè\n- 1 đgt, trgt. Dùng ít một: Dè tiền để đi nghỉ mát; Ăn dè; Tiêu dè.\n- 2 đgt. Kiêng nể, Không chạm đến: Dè người có tuổi; Chém tre chẳng dè đầu mặt (tng).\n- 3 đgt. Ngờ đâu: Nực cười châu chấu đá xe, tưởng rằng chấu ngã, ai dè xe nghiêng (cd).\n- 4 đgt. Đề phòng: Lúc no phải dè lúc đói."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dè bỉu\n-slight, sneer at"
+        "dict_definition": "@dè\n*verb\n-to stint To eat stintingly To spare; to expect"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dè bỉu\n- slight, sneer at"
+        "dict_definition": "@dè\n* verb\n- to stint To eat stintingly To spare; to expect"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "slight, sneer at"
+        "dict_definition": "(1) moderate, reserved; (2) to take care, spare, (3) to expect, foresee"
       }
     ]
   },
@@ -144,6 +84,31 @@
     ]
   },
   {
+    "word": "dè chừng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chú ý, cẩn thận đề phòng vì lo điều không hay có thể xảy ra\nVí dụ:\n- mắt liếc dè chừng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chú ý chi dùng ở mức tối thiểu, phòng khi túng thiếu\nVí dụ:\n- ăn dè chừng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dè chừng\n-Guard against\n-Foresee the eventuality of"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dè chừng\n- Guard against\n-Foresee the eventuality of"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "guard against-foresee the eventuality of"
+      }
+    ]
+  },
+  {
     "word": "dèn dẹt",
     "definitions": [
       {
@@ -161,35 +126,70 @@
     ]
   },
   {
-    "word": "dè",
+    "word": "dè bỉu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự hạn chế trong việc chi dùng, chỉ dùng từng ít một\nVí dụ:\n- tiêu dè từng đồng \n - ăn dè"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự hạn chế trong hành động, tránh không đụng đến\nVí dụ:\n- nói năng nên dè miệng \n - chém tre chẳng dè đầu mặt (tng)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "biểu thị ý khẳng định dè dặt về việc đoán trước có điều gì đó không bình thường hoặc không hay\nVí dụ:\n- tôi dè chuyện đó không đúng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dè\n- 1 đgt, trgt. Dùng ít một: Dè tiền để đi nghỉ mát; Ăn dè; Tiêu dè.\n- 2 đgt. Kiêng nể, Không chạm đến: Dè người có tuổi; Chém tre chẳng dè đầu mặt (tng).\n- 3 đgt. Ngờ đâu: Nực cười châu chấu đá xe, tưởng rằng chấu ngã, ai dè xe nghiêng (cd).\n- 4 đgt. Đề phòng: Lúc no phải dè lúc đói."
+        "dict_definition": "chê bai, khinh thường người khác bằng lời nói hoặc thái độ thiếu thiện ý\nVí dụ:\n- người đời dè bỉu lão"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dè\n*verb\n-to stint To eat stintingly To spare; to expect"
+        "dict_definition": "@dè bỉu\n-slight, sneer at"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dè\n* verb\n- to stint To eat stintingly To spare; to expect"
+        "dict_definition": "@dè bỉu\n- slight, sneer at"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(1) moderate, reserved; (2) to take care, spare, (3) to expect, foresee"
+        "dict_definition": "slight, sneer at"
+      }
+    ]
+  },
+  {
+    "word": "dè sẻn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự hạn chế ở mức tối thiểu trong việc chi dùng\nVí dụ:\n- chi tiêu rất dè sẻn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dè sẻn\n-Be parsimonious"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dè sẻn\n- Be parsimonious"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be parsimonious"
+      }
+    ]
+  },
+  {
+    "word": "dè dụm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dè dụm\n-Save (economize) money"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dè dụm\n- Save (economize) money"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "save (economize) money"
+      }
+    ]
+  },
+  {
+    "word": "dèn báo trạng thái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-status lamp"
       }
     ]
   },

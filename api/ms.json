@@ -9,6 +9,15 @@
     ]
   },
   {
+    "word": "mss",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Multispectral scanner"
+      }
+    ]
+  },
+  {
     "word": "msc tiếp nhận việc chuyển giao",
     "definitions": [
       {
@@ -27,29 +36,20 @@
     ]
   },
   {
-    "word": "msec",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-millisecond"
-      }
-    ]
-  },
-  {
-    "word": "mss",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Multispectral scanner"
-      }
-    ]
-  },
-  {
     "word": "ms",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-millisecond"
+      }
+    ]
+  },
+  {
+    "word": "msec",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-millisecond"
       }
     ]
   }

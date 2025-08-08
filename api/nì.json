@@ -1,5 +1,22 @@
 [
   {
+    "word": "nì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nì\n-(địa phương) Here\n=Đây nì\n+Here you are; it is here"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nì\n- (địa phương) Here\n=Đây nì+Here you are; it is here"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "here"
+      }
+    ]
+  },
+  {
     "word": "nình nịch",
     "definitions": [
       {
@@ -17,23 +34,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@nình nịch\n- xem nịch (láy)"
-      }
-    ]
-  },
-  {
-    "word": "nì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nì\n-(địa phương) Here\n=Đây nì\n+Here you are; it is here"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nì\n- (địa phương) Here\n=Đây nì+Here you are; it is here"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "here"
       }
     ]
   }

@@ -1,46 +1,55 @@
 [
   {
-    "word": "fomat nóng chảy",
+    "word": "fomat thực vật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-crustless cheese\n-melted cheese\n-process (ed) cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-vegetable cheese"
       }
     ]
   },
   {
-    "word": "fomat quá chín",
+    "word": "fomat từ kem sữa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-old cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-buttermilk cheese"
       }
     ]
   },
   {
-    "word": "fomat nóng chảy thanh trùng",
+    "word": "fomat tươi không béo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pasteurized (blended) cheese\n-pasteurized process cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-crude sour milk curd cheese"
       }
     ]
   },
   {
-    "word": "fomat nghiền cứng",
+    "word": "fomat dạng quả dứa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hard grating cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-pineapple cheese"
       }
     ]
   },
   {
-    "word": "fomat xốp (khuyết tật)",
+    "word": "fomat sữa nguyên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loose chose"
+        "dict_definition": "@Chuyên ngành kinh tế\n-whole milk cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat phồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-gassy cheese"
       }
     ]
   },
@@ -66,155 +75,11 @@
     ]
   },
   {
-    "word": "fomat sữa béo",
+    "word": "fob san hàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-full-cream cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat vụ đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hay cheese"
-      }
-    ]
-  },
-  {
-    "word": "fon (đơn vị cường độ âm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phone"
-      }
-    ]
-  },
-  {
-    "word": "fomat nướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-baker\"s cheese"
-      }
-    ]
-  },
-  {
-    "word": "focmamit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formamide\n-methanamide"
-      }
-    ]
-  },
-  {
-    "word": "format lệnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-instruction format"
-      }
-    ]
-  },
-  {
-    "word": "fomat có bột nhào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-close-textured cheese"
-      }
-    ]
-  },
-  {
-    "word": "fonolit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clinkstone"
-      }
-    ]
-  },
-  {
-    "word": "fomat sữa chua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lastic cheese\n-sour milk cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat bơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cream cheese\n-double-cream cheese"
-      }
-    ]
-  },
-  {
-    "word": "focmanđehyt sunphoxylat",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-formaldehyde sulfoxylate\n-formaldehyde sulphoxylate"
-      }
-    ]
-  },
-  {
-    "word": "fomat với trứng và vụn bánh mì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ramekin"
-      }
-    ]
-  },
-  {
-    "word": "fomalin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formalin"
-      }
-    ]
-  },
-  {
-    "word": "focnacit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fornacite"
-      }
-    ]
-  },
-  {
-    "word": "fomat đặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-leathery cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat lên men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-moulded cheese"
-      }
-    ]
-  },
-  {
-    "word": "folerit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pholerite"
+        "dict_definition": "@Chuyên ngành kinh tế\n-free on board and trimmed (FOB trimmed)"
       }
     ]
   },
@@ -228,308 +93,11 @@
     ]
   },
   {
-    "word": "fomat đông tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-curd rack"
-      }
-    ]
-  },
-  {
-    "word": "fomanđehit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formaldehyde"
-      }
-    ]
-  },
-  {
-    "word": "fomat phồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-gassy cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat lưỡi đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tongue head cheese"
-      }
-    ]
-  },
-  {
-    "word": "fololit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phonolite"
-      }
-    ]
-  },
-  {
-    "word": "forceps",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dụng cụ y tế có dạng cặp, thường dùng để cặp lấy thai trong trường hợp đẻ khó"
-      }
-    ]
-  },
-  {
-    "word": "fomat hun khói",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-smoke-flavoured cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat có mùi sữa tươi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-curdy cheese"
-      }
-    ]
-  },
-  {
     "word": "fomat có chất độn",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-filled cheese"
-      }
-    ]
-  },
-  {
-    "word": "folklor",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "văn học, nghệ thuật và những truyền thống dân gian của một dân tộc [nói tổng quát]"
-      }
-    ]
-  },
-  {
-    "word": "fomat cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-comminuted cheese\n-grated cheese\n-hard cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat có gia vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-spice (d) cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat mỹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-american cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat thuỵ sĩ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Swiss cheese"
-      }
-    ]
-  },
-  {
-    "word": "folođolit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pholidolite"
-      }
-    ]
-  },
-  {
-    "word": "focmanđehyt sunfoxylate",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-formaldehyde sulphoxylate"
-      }
-    ]
-  },
-  {
-    "word": "formaldehyde",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khí không màu, mùi cay, tan trong nước, có tính sát trùng, dùng để chế formol"
-      }
-    ]
-  },
-  {
-    "word": "fob san hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-free on board and trimmed (FOB trimmed)"
-      }
-    ]
-  },
-  {
-    "word": "font",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-font"
-      }
-    ]
-  },
-  {
-    "word": "foxterit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-forsterite"
-      }
-    ]
-  },
-  {
-    "word": "fomat từ sữa nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-full-cream cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat dạng quả dứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pineapple cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat sữa nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-whole milk cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat chưa chín tới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-young cheese"
-      }
-    ]
-  },
-  {
-    "word": "fotgenit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosgenite"
-      }
-    ]
-  },
-  {
-    "word": "fomat thực vật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-vegetable cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat ít béo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lean cheese\n-low fat cheese\n-skim milk cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat đậu nành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-soy cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat nóng chảy có độn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flavoured processed cheese"
-      }
-    ]
-  },
-  {
-    "word": "focmat",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formate"
-      }
-    ]
-  },
-  {
-    "word": "fomat chín tới bị lên men từng phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mould-ripened cheese"
-      }
-    ]
-  },
-  {
-    "word": "fob dưới cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-free on board under tackle"
-      }
-    ]
-  },
-  {
-    "word": "fomat nóng có gia vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-club cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat biến dạng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-moulded cheese"
       }
     ]
   },
@@ -543,254 +111,11 @@
     ]
   },
   {
-    "word": "fomat khối",
+    "word": "fomat chưa chín tới",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loaf cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat cừu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cheese trammel"
-      }
-    ]
-  },
-  {
-    "word": "fomat từ sữa làm đặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rennet cheese"
-      }
-    ]
-  },
-  {
-    "word": "focmanđehyt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formaldehyde"
-      }
-    ]
-  },
-  {
-    "word": "formalđehit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-formaldehyde"
-      }
-    ]
-  },
-  {
-    "word": "focmic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formic"
-      }
-    ]
-  },
-  {
-    "word": "fomat có hàm lượng ẩm thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-low-moisture cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat làm nóng chảy sơ bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pre-cooked cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat hà lan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Dutch cheese"
-      }
-    ]
-  },
-  {
-    "word": "fotari",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phototherapy room"
-      }
-    ]
-  },
-  {
-    "word": "format của địa chỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-address format"
-      }
-    ]
-  },
-  {
-    "word": "fomat chín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-aged cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat từ kem sữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-buttermilk cheese"
-      }
-    ]
-  },
-  {
-    "word": "font chữ màn hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-screen font"
-      }
-    ]
-  },
-  {
-    "word": "fomat tươi không béo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-crude sour milk curd cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomila hóa hydro",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hydroformylation"
-      }
-    ]
-  },
-  {
-    "word": "fomat nửa cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-semi-hard cheese"
-      }
-    ]
-  },
-  {
-    "word": "fonolite",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phonolite"
-      }
-    ]
-  },
-  {
-    "word": "formol",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dung dịch formaldehyde trong nước, dùng để ướp xác, tẩy uế, tổng hợp chất dẻo"
-      }
-    ]
-  },
-  {
-    "word": "fomat tảng lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bulk cheese"
-      }
-    ]
-  },
-  {
-    "word": "fob chở tới đích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-free on board shipment to destination"
-      }
-    ]
-  },
-  {
-    "word": "focmyl",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formyl"
-      }
-    ]
-  },
-  {
-    "word": "fomat béo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-high-fat cheese"
-      }
-    ]
-  },
-  {
-    "word": "fotfat",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosphate"
-      }
-    ]
-  },
-  {
-    "word": "fomat mềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lignified cheese\n-slipper cheese\n-soft cheese\n-surface-ripened cheese"
-      }
-    ]
-  },
-  {
-    "word": "formica",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chất dẻo có khả năng chịu được nhiệt độ cao, được làm thành tấm, dùng để phủ bề mặt của các đồ vật như bàn ghế, giường tủ hoặc bảng viết, v.v."
-      }
-    ]
-  },
-  {
-    "word": "fomat thiên nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-natural cheese"
-      }
-    ]
-  },
-  {
-    "word": "format lại (đĩa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reformat"
+        "dict_definition": "@Chuyên ngành kinh tế\n-young cheese"
       }
     ]
   },
@@ -804,6 +129,33 @@
     ]
   },
   {
+    "word": "font chữ màn hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-screen font"
+      }
+    ]
+  },
+  {
+    "word": "formol",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dung dịch formaldehyde trong nước, dùng để ướp xác, tẩy uế, tổng hợp chất dẻo"
+      }
+    ]
+  },
+  {
+    "word": "focmat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formate"
+      }
+    ]
+  },
+  {
     "word": "fomat nâu",
     "definitions": [
       {
@@ -813,56 +165,11 @@
     ]
   },
   {
-    "word": "fotforit",
+    "word": "formica",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosphorite"
-      }
-    ]
-  },
-  {
-    "word": "folimic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-folinic"
-      }
-    ]
-  },
-  {
-    "word": "fomat từ một loại bơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-single-cream cheese"
-      }
-    ]
-  },
-  {
-    "word": "fomat chín tới trên bề mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-surface-ripened cheese"
-      }
-    ]
-  },
-  {
-    "word": "fob xếp hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-free on board and stowed (FOB stowed)"
-      }
-    ]
-  },
-  {
-    "word": "fomat huyết sâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sage cheese"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chất dẻo có khả năng chịu được nhiệt độ cao, được làm thành tấm, dùng để phủ bề mặt của các đồ vật như bàn ghế, giường tủ hoặc bảng viết, v.v."
       }
     ]
   },
@@ -876,11 +183,38 @@
     ]
   },
   {
-    "word": "fomat đã chín tới",
+    "word": "fotfat",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cured cheese\n-ripened cheese"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosphate"
+      }
+    ]
+  },
+  {
+    "word": "fomat cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-comminuted cheese\n-grated cheese\n-hard cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat hun khói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-smoke-flavoured cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat nóng chảy thanh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pasteurized (blended) cheese\n-pasteurized process cheese"
       }
     ]
   },
@@ -894,74 +228,128 @@
     ]
   },
   {
-    "word": "font chữ viền",
+    "word": "focmanđehyt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-outline font"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formaldehyde"
       }
     ]
   },
   {
-    "word": "fotfat amoni",
+    "word": "fob dưới cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ammonium phosphate"
+        "dict_definition": "@Chuyên ngành kinh tế\n-free on board under tackle"
       }
     ]
   },
   {
-    "word": "fomat tươi",
+    "word": "focmyl",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cake cheese"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formyl"
       }
     ]
   },
   {
-    "word": "fomat có độ ẩm cao",
+    "word": "fomat xốp (khuyết tật)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-high-moisture cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-loose chose"
       }
     ]
   },
   {
-    "word": "foot",
+    "word": "fomat từ một loại bơ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị đo độ dài của các nước Anh - Mĩ, bằng 12 inch, tức 0,3048 mét"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-single-cream cheese"
       }
     ]
   },
   {
-    "word": "focmanđehyt sunfoxylat",
+    "word": "fomat từ sữa nguyên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-formaldehyde sulfoxylate"
+        "dict_definition": "@Chuyên ngành kinh tế\n-full-cream cheese"
       }
     ]
   },
   {
-    "word": "fomat hỗn hợp",
+    "word": "fomat có mùi sữa tươi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-blended cheese\n-cold-pack cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-curdy cheese"
       }
     ]
   },
   {
-    "word": "fomat mặn",
+    "word": "fob xếp hàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pickled cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-free on board and stowed (FOB stowed)"
+      }
+    ]
+  },
+  {
+    "word": "fomat đã chín tới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cured cheese\n-ripened cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat sữa chua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lastic cheese\n-sour milk cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat chín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-aged cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat có bột nhào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-close-textured cheese"
+      }
+    ]
+  },
+  {
+    "word": "fololit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phonolite"
+      }
+    ]
+  },
+  {
+    "word": "fomat lên men",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-moulded cheese"
       }
     ]
   },
@@ -975,6 +363,15 @@
     ]
   },
   {
+    "word": "fomat mỹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-american cheese"
+      }
+    ]
+  },
+  {
     "word": "fomat gói",
     "definitions": [
       {
@@ -984,11 +381,92 @@
     ]
   },
   {
-    "word": "focmalin",
+    "word": "fomat nửa cứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formalin"
+        "dict_definition": "@Chuyên ngành kinh tế\n-semi-hard cheese"
+      }
+    ]
+  },
+  {
+    "word": "format của địa chỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-address format"
+      }
+    ]
+  },
+  {
+    "word": "fotari",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phototherapy room"
+      }
+    ]
+  },
+  {
+    "word": "fotfat amoni",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ammonium phosphate"
+      }
+    ]
+  },
+  {
+    "word": "fonolite",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phonolite"
+      }
+    ]
+  },
+  {
+    "word": "fomat nghiền cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hard grating cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat có gia vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-spice (d) cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat bơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cream cheese\n-double-cream cheese"
+      }
+    ]
+  },
+  {
+    "word": "fotforit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosphorite"
+      }
+    ]
+  },
+  {
+    "word": "focmanđehyt sunfoxylat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-formaldehyde sulfoxylate"
       }
     ]
   },
@@ -1002,6 +480,132 @@
     ]
   },
   {
+    "word": "fomat chín tới trên bề mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-surface-ripened cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat có hàm lượng ẩm thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-low-moisture cheese"
+      }
+    ]
+  },
+  {
+    "word": "focmamit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formamide\n-methanamide"
+      }
+    ]
+  },
+  {
+    "word": "focmanđehyt sunphoxylat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-formaldehyde sulfoxylate\n-formaldehyde sulphoxylate"
+      }
+    ]
+  },
+  {
+    "word": "focmic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formic"
+      }
+    ]
+  },
+  {
+    "word": "foxterit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-forsterite"
+      }
+    ]
+  },
+  {
+    "word": "foot",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đơn vị đo độ dài của các nước Anh - Mĩ, bằng 12 inch, tức 0,3048 mét"
+      }
+    ]
+  },
+  {
+    "word": "fomat tươi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cake cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat lưỡi đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tongue head cheese"
+      }
+    ]
+  },
+  {
+    "word": "fob chở tới đích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-free on board shipment to destination"
+      }
+    ]
+  },
+  {
+    "word": "fomat quá chín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-old cheese"
+      }
+    ]
+  },
+  {
+    "word": "formalđehit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-formaldehyde"
+      }
+    ]
+  },
+  {
+    "word": "fomat hỗn hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-blended cheese\n-cold-pack cheese"
+      }
+    ]
+  },
+  {
+    "word": "focnacit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fornacite"
+      }
+    ]
+  },
+  {
     "word": "fomat có mùi hôi",
     "definitions": [
       {
@@ -1011,29 +615,83 @@
     ]
   },
   {
-    "word": "fob máy bay",
+    "word": "format",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-free on board airport (FOB airport)"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem định dạng"
       }
     ]
   },
   {
-    "word": "fomat rán",
+    "word": "fonolit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fried cheese"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clinkstone"
       }
     ]
   },
   {
-    "word": "focman",
+    "word": "fomat nóng chảy có độn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-formant"
+        "dict_definition": "@Chuyên ngành kinh tế\n-flavoured processed cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat nóng có gia vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-club cheese"
+      }
+    ]
+  },
+  {
+    "word": "formaldehyde",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khí không màu, mùi cay, tan trong nước, có tính sát trùng, dùng để chế formol"
+      }
+    ]
+  },
+  {
+    "word": "format lại (đĩa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reformat"
+      }
+    ]
+  },
+  {
+    "word": "fotgenit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phosgenite"
+      }
+    ]
+  },
+  {
+    "word": "folklor",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "văn học, nghệ thuật và những truyền thống dân gian của một dân tộc [nói tổng quát]"
+      }
+    ]
+  },
+  {
+    "word": "fomat thuỵ sĩ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Swiss cheese"
       }
     ]
   },
@@ -1047,11 +705,353 @@
     ]
   },
   {
-    "word": "format",
+    "word": "focman",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-formant"
+      }
+    ]
+  },
+  {
+    "word": "fomat béo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-high-fat cheese"
+      }
+    ]
+  },
+  {
+    "word": "folerit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pholerite"
+      }
+    ]
+  },
+  {
+    "word": "fomat thiên nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-natural cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat ít béo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lean cheese\n-low fat cheese\n-skim milk cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat mềm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lignified cheese\n-slipper cheese\n-soft cheese\n-surface-ripened cheese"
+      }
+    ]
+  },
+  {
+    "word": "font",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-font"
+      }
+    ]
+  },
+  {
+    "word": "format lệnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-instruction format"
+      }
+    ]
+  },
+  {
+    "word": "fomat chín tới bị lên men từng phần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mould-ripened cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat hà lan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Dutch cheese"
+      }
+    ]
+  },
+  {
+    "word": "forceps",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem định dạng"
+        "dict_definition": "dụng cụ y tế có dạng cặp, thường dùng để cặp lấy thai trong trường hợp đẻ khó"
+      }
+    ]
+  },
+  {
+    "word": "fomat biến dạng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-moulded cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat có độ ẩm cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-high-moisture cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat đặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-leathery cheese"
+      }
+    ]
+  },
+  {
+    "word": "font chữ viền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-outline font"
+      }
+    ]
+  },
+  {
+    "word": "fomat sữa béo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-full-cream cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat tảng lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bulk cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat nướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-baker\"s cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomanđehit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formaldehyde"
+      }
+    ]
+  },
+  {
+    "word": "fomila hóa hydro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hydroformylation"
+      }
+    ]
+  },
+  {
+    "word": "fomat nóng chảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-crustless cheese\n-melted cheese\n-process (ed) cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat với trứng và vụn bánh mì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ramekin"
+      }
+    ]
+  },
+  {
+    "word": "focmanđehyt sunfoxylate",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-formaldehyde sulphoxylate"
+      }
+    ]
+  },
+  {
+    "word": "fomat đậu nành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-soy cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat rán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fried cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat vụ đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hay cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomalin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formalin"
+      }
+    ]
+  },
+  {
+    "word": "fomat huyết sâm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sage cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat từ sữa làm đặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rennet cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat cừu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cheese trammel"
+      }
+    ]
+  },
+  {
+    "word": "fob máy bay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-free on board airport (FOB airport)"
+      }
+    ]
+  },
+  {
+    "word": "folimic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-folinic"
+      }
+    ]
+  },
+  {
+    "word": "folođolit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pholidolite"
+      }
+    ]
+  },
+  {
+    "word": "fomat làm nóng chảy sơ bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pre-cooked cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat đông tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-curd rack"
+      }
+    ]
+  },
+  {
+    "word": "focmalin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-formalin"
+      }
+    ]
+  },
+  {
+    "word": "fon (đơn vị cường độ âm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-phone"
+      }
+    ]
+  },
+  {
+    "word": "fomat khối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-loaf cheese"
+      }
+    ]
+  },
+  {
+    "word": "fomat mặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pickled cheese"
       }
     ]
   }

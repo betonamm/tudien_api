@@ -1,5 +1,30 @@
 [
   {
+    "word": "bặt tăm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như biệt tăm\nVí dụ:\n- đi bặt tăm, không có tin tức gì"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bặt tăm\n- đg. Như biệt tăm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bặt tăm\n-Without sending back any news"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bặt tăm\n- Without sending back any news"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "without sending back any news"
+      }
+    ]
+  },
+  {
     "word": "bặng nhặng",
     "definitions": [
       {
@@ -38,23 +63,15 @@
     ]
   },
   {
-    "word": "bặm",
+    "word": "bặm trợn",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngậm chặt môi lại do phải gắng hết sức ra để làm việc gì\nVí dụ:\n- nó bặm môi suy nghĩ \n - nó bặm môi rất chặt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bặm\n- đgt. Mím lại: Hoài-văn bặm môi vì tức giận (Ng-hồng)."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@bặm\n*verb\n-to bite (one\"s lips)\n=bặm miệng không khóc\n+to bite one\"s lips and hold back one\"s tears"
+        "dict_definition": "@bặm trợn [bặm trợn]\n-audacious"
       },
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bặm\n* verb\n- to bite (one's lips)\n=bặm miệng không khóc+to bite one's lips and hold back one's tears"
+        "dict_name": "VNEDICT",
+        "dict_definition": "audacious"
       }
     ]
   },
@@ -84,15 +101,23 @@
     ]
   },
   {
-    "word": "bặm trợn",
+    "word": "bặm",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@bặm trợn [bặm trợn]\n-audacious"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngậm chặt môi lại do phải gắng hết sức ra để làm việc gì\nVí dụ:\n- nó bặm môi suy nghĩ \n - nó bặm môi rất chặt"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "audacious"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bặm\n- đgt. Mím lại: Hoài-văn bặm môi vì tức giận (Ng-hồng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bặm\n*verb\n-to bite (one\"s lips)\n=bặm miệng không khóc\n+to bite one\"s lips and hold back one\"s tears"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bặm\n* verb\n- to bite (one's lips)\n=bặm miệng không khóc+to bite one's lips and hold back one's tears"
       }
     ]
   },
@@ -110,31 +135,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "news-less, having no news"
-      }
-    ]
-  },
-  {
-    "word": "bặt tăm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như biệt tăm\nVí dụ:\n- đi bặt tăm, không có tin tức gì"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bặt tăm\n- đg. Như biệt tăm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bặt tăm\n-Without sending back any news"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bặt tăm\n- Without sending back any news"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "without sending back any news"
       }
     ]
   }

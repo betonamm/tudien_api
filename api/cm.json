@@ -1,5 +1,23 @@
 [
   {
+    "word": "cmip qua llc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over LLC (CMOL)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over LLC (CMOL)"
+      }
+    ]
+  },
+  {
+    "word": "cmip [giao thức thông tin quản lý chung] qua tcp/ip",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over TCP/IP (CMOT)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over TCP/IP (CMOT)"
+      }
+    ]
+  },
+  {
     "word": "cm",
     "definitions": [
       {
@@ -17,24 +35,6 @@
     ]
   },
   {
-    "word": "cmip [giao thức thông tin quản lý chung] qua tcp/ip",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over TCP/IP (CMOT)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over TCP/IP (CMOT)"
-      }
-    ]
-  },
-  {
-    "word": "cmt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chứng minh thư [viết tắt]"
-      }
-    ]
-  },
-  {
     "word": "cmos điện áp tiêu chuẩn thấp tiêu chuẩn",
     "definitions": [
       {
@@ -44,11 +44,11 @@
     ]
   },
   {
-    "word": "cmip qua llc",
+    "word": "cmt",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over LLC (CMOL)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-CMIP Over LLC (CMOL)"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chứng minh thư [viết tắt]"
       }
     ]
   }

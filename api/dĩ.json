@@ -1,35 +1,27 @@
 [
   {
-    "word": "dĩ vãng",
+    "word": "dĩ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thời đã qua\nVí dụ:\n- thời dĩ vãng \n - chuyện đó đã thuộc về dĩ vãng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@dĩ vãng\n- d. Thời đã qua. Câu chuyện lùi dần vào dĩ vãng."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@dĩ vãng\n*noun\n-the past; former times\n=nhớ lại dĩ vãng\n+to go back to the past"
+        "dict_definition": "@dĩ\n*verb\n-to take, to employ\n=dĩ ân báo oán\n+to return good for evil"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dĩ vãng\n* noun\n- the past; former times\n=nhớ lại dĩ vãng+to go back to the past"
+        "dict_definition": "@dĩ\n* verb\n- to take, to employ\n=dĩ ân báo oán+to return good for evil"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "past, former times"
+        "dict_definition": "to take, employ, use"
       }
     ]
   },
   {
-    "word": "dĩa la bàn",
+    "word": "dĩ nhiên mỗi",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-compass bowl"
+        "dict_name": "VNEDICT",
+        "dict_definition": "obvious(ly), natural(ly)"
       }
     ]
   },
@@ -43,37 +35,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to render or return good for evil"
-      }
-    ]
-  },
-  {
-    "word": "dĩn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bọ rất nhỏ, màu đen, thường sống ở vùng đất cát ven sông, đốt đau và gây ngứa"
-      }
-    ]
-  },
-  {
-    "word": "dĩa compac tương tác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-compact disc-interactive"
-      }
-    ]
-  },
-  {
-    "word": "dĩ hậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dĩ hậu [dĩ hậu]\n-from now on, hereafter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "from now on, hereafter"
       }
     ]
   },
@@ -107,11 +68,92 @@
     ]
   },
   {
-    "word": "dĩ hoà vi quý",
+    "word": "dĩ thượng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dĩ hoà vi quý [dĩ hoà vi quý]\n*tục ngữ\n-a bad compromise is better than a good lawsuit;  a soft answer turns away wrath"
+        "dict_definition": "@dĩ thượng [dĩ thượng]\n-above, heretofore"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "above, heretofore"
+      }
+    ]
+  },
+  {
+    "word": "dĩn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bọ rất nhỏ, màu đen, thường sống ở vùng đất cát ven sông, đốt đau và gây ngứa"
+      }
+    ]
+  },
+  {
+    "word": "dĩ vãng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thời đã qua\nVí dụ:\n- thời dĩ vãng \n - chuyện đó đã thuộc về dĩ vãng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@dĩ vãng\n- d. Thời đã qua. Câu chuyện lùi dần vào dĩ vãng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dĩ vãng\n*noun\n-the past; former times\n=nhớ lại dĩ vãng\n+to go back to the past"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dĩ vãng\n* noun\n- the past; former times\n=nhớ lại dĩ vãng+to go back to the past"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "past, former times"
+      }
+    ]
+  },
+  {
+    "word": "dĩnh ngộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dĩnh ngộ\n-(ít dùng) Bright-looking, intelligen-looking (thường nói về trẻ em)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dĩnh ngộ\n- (ít dùng) Bright-looking, intelligen-looking (thường nói về trẻ em)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bright-looking, intelligent-looking"
+      }
+    ]
+  },
+  {
+    "word": "dĩ hạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dĩ hạ [dĩ hạ]\n-from now on, hereafter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "from now on, hereafter"
+      }
+    ]
+  },
+  {
+    "word": "dĩ hậu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dĩ hậu [dĩ hậu]\n-from now on, hereafter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "from now on, hereafter"
       }
     ]
   },
@@ -146,58 +188,11 @@
     ]
   },
   {
-    "word": "dĩnh ngộ",
+    "word": "dĩ hoà vi quý",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dĩnh ngộ\n-(ít dùng) Bright-looking, intelligen-looking (thường nói về trẻ em)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dĩnh ngộ\n- (ít dùng) Bright-looking, intelligen-looking (thường nói về trẻ em)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bright-looking, intelligent-looking"
-      }
-    ]
-  },
-  {
-    "word": "dĩ nhiên mỗi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "obvious(ly), natural(ly)"
-      }
-    ]
-  },
-  {
-    "word": "dĩ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dĩ\n*verb\n-to take, to employ\n=dĩ ân báo oán\n+to return good for evil"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dĩ\n* verb\n- to take, to employ\n=dĩ ân báo oán+to return good for evil"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take, employ, use"
-      }
-    ]
-  },
-  {
-    "word": "dĩ hạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dĩ hạ [dĩ hạ]\n-from now on, hereafter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "from now on, hereafter"
+        "dict_definition": "@dĩ hoà vi quý [dĩ hoà vi quý]\n*tục ngữ\n-a bad compromise is better than a good lawsuit;  a soft answer turns away wrath"
       }
     ]
   },
@@ -227,6 +222,15 @@
     ]
   },
   {
+    "word": "dĩa la bàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-compass bowl"
+      }
+    ]
+  },
+  {
     "word": "dĩ chí",
     "definitions": [
       {
@@ -240,15 +244,11 @@
     ]
   },
   {
-    "word": "dĩ thượng",
+    "word": "dĩa compac tương tác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dĩ thượng [dĩ thượng]\n-above, heretofore"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "above, heretofore"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-compact disc-interactive"
       }
     ]
   }

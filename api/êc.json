@@ -18,29 +18,20 @@
     ]
   },
   {
+    "word": "êcu có cánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fly screw nut\n-wing screw nut"
+      }
+    ]
+  },
+  {
     "word": "êcu có tai hồng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wing screw nut"
-      }
-    ]
-  },
-  {
-    "word": "êcu công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fastening piece\n-locknut\n-nut lock"
-      }
-    ]
-  },
-  {
-    "word": "êcu cánh bướm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-butterfly nut"
       }
     ]
   },
@@ -54,20 +45,20 @@
     ]
   },
   {
-    "word": "êcu sáu cạnh",
+    "word": "êcu điều chỉnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hexagonal nut"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-adjusting nut"
       }
     ]
   },
   {
-    "word": "êcu kiểu bích",
+    "word": "êcu vặn tăng đơ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flange nut"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-turnbuckle"
       }
     ]
   },
@@ -81,83 +72,11 @@
     ]
   },
   {
-    "word": "êcu tháo không được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fast-on nut"
-      }
-    ]
-  },
-  {
     "word": "êclimet",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-elevation meter"
-      }
-    ]
-  },
-  {
-    "word": "êcu có khía",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-castellated screw nut"
-      }
-    ]
-  },
-  {
-    "word": "êcu đinh vit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-screw cap"
-      }
-    ]
-  },
-  {
-    "word": "êcu có cánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fly screw nut\n-wing screw nut"
-      }
-    ]
-  },
-  {
-    "word": "êcu điều chỉnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-adjusting nut"
-      }
-    ]
-  },
-  {
-    "word": "êcu đầu hình 6 cạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hexagon nut"
-      }
-    ]
-  },
-  {
-    "word": "êcu vuông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-square nut"
-      }
-    ]
-  },
-  {
-    "word": "êcu hãm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-check nut\n-counter nut\n-keeper\n-locknut"
       }
     ]
   },
@@ -171,11 +90,92 @@
     ]
   },
   {
-    "word": "êcu vặn tăng đơ",
+    "word": "êcu đinh vit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-turnbuckle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-screw cap"
+      }
+    ]
+  },
+  {
+    "word": "êcu hãm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-check nut\n-counter nut\n-keeper\n-locknut"
+      }
+    ]
+  },
+  {
+    "word": "êcu kiểu bích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flange nut"
+      }
+    ]
+  },
+  {
+    "word": "êcu cánh bướm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-butterfly nut"
+      }
+    ]
+  },
+  {
+    "word": "êcu có khía",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-castellated screw nut"
+      }
+    ]
+  },
+  {
+    "word": "êcu tháo không được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fast-on nut"
+      }
+    ]
+  },
+  {
+    "word": "êcu sáu cạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hexagonal nut"
+      }
+    ]
+  },
+  {
+    "word": "êcu công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fastening piece\n-locknut\n-nut lock"
+      }
+    ]
+  },
+  {
+    "word": "êcu vuông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-square nut"
+      }
+    ]
+  },
+  {
+    "word": "êcu đầu hình 6 cạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hexagon nut"
       }
     ]
   }

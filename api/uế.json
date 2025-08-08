@@ -1,5 +1,18 @@
 [
   {
+    "word": "uế vật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@uế vật [uế vật]\n-fetid thing;  (nói chung) refuse;  garbage"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dirt, filth, garbage, refuse"
+      }
+    ]
+  },
+  {
     "word": "uế tạp",
     "definitions": [
       {
@@ -17,24 +30,20 @@
     ]
   },
   {
-    "word": "uế vật",
+    "word": "uế dộ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@uế vật [uế vật]\n-fetid thing;  (nói chung) refuse;  garbage"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "dirt, filth, garbage, refuse"
+        "dict_definition": "filthy sight"
       }
     ]
   },
   {
-    "word": "uế",
+    "word": "uế trọc",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "dirt, filth, garbage, trash"
+        "dict_definition": "dirty, filthy"
       }
     ]
   },
@@ -64,20 +73,11 @@
     ]
   },
   {
-    "word": "uế trọc",
+    "word": "uế",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "dirty, filthy"
-      }
-    ]
-  },
-  {
-    "word": "uế dộ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "filthy sight"
+        "dict_definition": "dirt, filth, garbage, trash"
       }
     ]
   },

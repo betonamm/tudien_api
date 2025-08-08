@@ -1,22 +1,5 @@
 [
   {
-    "word": "cõi dương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như cõi trần [phân biệt với cõi âm]\nVí dụ:\n- sống trên cõi dương"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi dương [cõi dương]\n-the land of the living"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the land of the living"
-      }
-    ]
-  },
-  {
     "word": "cõi trần",
     "definitions": [
       {
@@ -34,27 +17,123 @@
     ]
   },
   {
-    "word": "cõi đời",
+    "word": "cõi thế",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thế giới hiện tại, nơi cuộc sống của mỗi con người trải qua với đủ buồn vui, sướng khổ\nVí dụ:\n- từ giã cõi đời"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@cõi đời\n- dt. Thế giới hiện tại (của những người đang sống)."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi thế [cõi thế]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "cõi trên",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cõi đời\n*noun\n-The world"
+        "dict_definition": "@cõi trên\n*noun\n-Fairyland"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cõi đời\n* noun\n-The world"
+        "dict_definition": "@cõi trên\n* noun\n-Fairyland"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "the world"
+        "dict_definition": "fairyland"
+      }
+    ]
+  },
+  {
+    "word": "cõi tục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cõi đời trần tục\nVí dụ:\n- xa lánh cõi tục"
+      }
+    ]
+  },
+  {
+    "word": "cõi tiên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thế giới tưởng tượng, nơi tiên ở, có cảnh đẹp và cuộc sống sung sướng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi tiên [cõi tiên]\n-paradise;  heaven;  dream-land;  dream-world"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "paradise, heaven, dream-land, dream-world"
+      }
+    ]
+  },
+  {
+    "word": "cõi dương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như cõi trần [phân biệt với cõi âm]\nVí dụ:\n- sống trên cõi dương"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi dương [cõi dương]\n-the land of the living"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the land of the living"
+      }
+    ]
+  },
+  {
+    "word": "cõi âm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thế giới của linh hồn người chết; phân biệt với cõi dương\nVí dụ:\n- người cõi âm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi âm [cõi âm]\n-hereafter;  afterlife;  beyond; the world of the dead;  the next world; afterworld"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hereafter, afterlife, beyond, the world of the dead, the next"
+      }
+    ]
+  },
+  {
+    "word": "cõi cô độc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "an isolated area"
+      }
+    ]
+  },
+  {
+    "word": "cõi lòng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nơi chất chứa tình cảm sâu kín của mỗi con người\nVí dụ:\n- tan nát cõi lòng \n - nỗi buồn xâm chiếm cả cõi lòng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi lòng [cõi lòng]\n-heart"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "heart"
+      }
+    ]
+  },
+  {
+    "word": "cõi phàm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi phàm [cõi phàm]\n-xem"
       }
     ]
   },
@@ -93,6 +172,44 @@
     ]
   },
   {
+    "word": "cõi bờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi bờ\n-Xem bờ cõi"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cõi bờ\n- Xem bờ cõi"
+      }
+    ]
+  },
+  {
+    "word": "cõi đời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thế giới hiện tại, nơi cuộc sống của mỗi con người trải qua với đủ buồn vui, sướng khổ\nVí dụ:\n- từ giã cõi đời"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@cõi đời\n- dt. Thế giới hiện tại (của những người đang sống)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cõi đời\n*noun\n-The world"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cõi đời\n* noun\n-The world"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the world"
+      }
+    ]
+  },
+  {
     "word": "cõi",
     "definitions": [
       {
@@ -118,123 +235,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "world, area, extent, country, region"
-      }
-    ]
-  },
-  {
-    "word": "cõi thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi thế [cõi thế]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "cõi âm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thế giới của linh hồn người chết; phân biệt với cõi dương\nVí dụ:\n- người cõi âm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi âm [cõi âm]\n-hereafter;  afterlife;  beyond; the world of the dead;  the next world; afterworld"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hereafter, afterlife, beyond, the world of the dead, the next"
-      }
-    ]
-  },
-  {
-    "word": "cõi cô độc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "an isolated area"
-      }
-    ]
-  },
-  {
-    "word": "cõi trên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi trên\n*noun\n-Fairyland"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cõi trên\n* noun\n-Fairyland"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fairyland"
-      }
-    ]
-  },
-  {
-    "word": "cõi bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi bờ\n-Xem bờ cõi"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cõi bờ\n- Xem bờ cõi"
-      }
-    ]
-  },
-  {
-    "word": "cõi tục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cõi đời trần tục\nVí dụ:\n- xa lánh cõi tục"
-      }
-    ]
-  },
-  {
-    "word": "cõi phàm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi phàm [cõi phàm]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "cõi tiên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thế giới tưởng tượng, nơi tiên ở, có cảnh đẹp và cuộc sống sung sướng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi tiên [cõi tiên]\n-paradise;  heaven;  dream-land;  dream-world"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "paradise, heaven, dream-land, dream-world"
-      }
-    ]
-  },
-  {
-    "word": "cõi lòng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nơi chất chứa tình cảm sâu kín của mỗi con người\nVí dụ:\n- tan nát cõi lòng \n - nỗi buồn xâm chiếm cả cõi lòng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cõi lòng [cõi lòng]\n-heart"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "heart"
       }
     ]
   }

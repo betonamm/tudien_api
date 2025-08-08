@@ -1,14 +1,35 @@
 [
   {
-    "word": "dót",
+    "word": "dóc tổ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dót [dót]\n-stick together"
+        "dict_definition": "@dóc tổ [dóc tổ]\n-bluffer;  humbug"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "stick together"
+        "dict_definition": "bluffer, humbug"
+      }
+    ]
+  },
+  {
+    "word": "dó",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây nhỡ, lá hình bầu dục dài, hoa trắng, vỏ cây dùng làm giấy\nVí dụ:\n- bức tranh trên giấy dó"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dó\n-Rhamnoneuron (cây)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dó\n- Rhamnoneuron (cây)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "paper plant"
       }
     ]
   },
@@ -18,15 +39,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "làm cho thẳng hàng, cho đúng hướng với cái đã chọn làm mốc\nVí dụ:\n- học sinh đang dóng hàng"
-      }
-    ]
-  },
-  {
-    "word": "dóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dóa [dóa]\n-xem"
       }
     ]
   },
@@ -52,6 +64,32 @@
     ]
   },
   {
+    "word": "dón",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dón\n-như vón"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dón\n- như vón"
+      }
+    ]
+  },
+  {
+    "word": "dót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dót [dót]\n-stick together"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "stick together"
+      }
+    ]
+  },
+  {
     "word": "dóng ngang",
     "definitions": [
       {
@@ -61,15 +99,11 @@
     ]
   },
   {
-    "word": "dóc tổ",
+    "word": "dót trục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@dóc tổ [dóc tổ]\n-bluffer;  humbug"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bluffer, humbug"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pin"
       }
     ]
   },
@@ -91,45 +125,11 @@
     ]
   },
   {
-    "word": "dót trục",
+    "word": "dóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pin"
-      }
-    ]
-  },
-  {
-    "word": "dón",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dón\n-như vón"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dón\n- như vón"
-      }
-    ]
-  },
-  {
-    "word": "dó",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây nhỡ, lá hình bầu dục dài, hoa trắng, vỏ cây dùng làm giấy\nVí dụ:\n- bức tranh trên giấy dó"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dó\n-Rhamnoneuron (cây)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dó\n- Rhamnoneuron (cây)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "paper plant"
+        "dict_definition": "@dóa [dóa]\n-xem"
       }
     ]
   }

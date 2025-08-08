@@ -1,5 +1,39 @@
 [
   {
+    "word": "oi ngột",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "oi bức và ngột ngạt, gây cảm giác khó chịu"
+      }
+    ]
+  },
+  {
+    "word": "oi khói",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có mùi hơi hôi như mùi của khói, do bị khói ùa vào nồi khi đun nấu\nVí dụ:\n- cơm bị oi khói"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@oi khói\n- Nói thức ăn thức uống có mùi khói."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@oi khói\n*noun\n-smell of smoke"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@oi khói\n* noun\n- smell of smoke"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "smell of smoke"
+      }
+    ]
+  },
+  {
     "word": "oi",
     "definitions": [
       {
@@ -21,23 +55,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@oi\n* noun\n- creel\n* adj\n- hot and oppressive; sultry"
-      }
-    ]
-  },
-  {
-    "word": "oi nồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@oi nồng\n*adjective\n-sultry"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@oi nồng\n* adjective\n-sultry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sultry"
       }
     ]
   },
@@ -67,11 +84,19 @@
     ]
   },
   {
-    "word": "oi ngột",
+    "word": "oi nồng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "oi bức và ngột ngạt, gây cảm giác khó chịu"
+        "dict_name": "SPDict",
+        "dict_definition": "@oi nồng\n*adjective\n-sultry"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@oi nồng\n* adjective\n-sultry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sultry"
       }
     ]
   },
@@ -118,31 +143,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "waterlogged"
-      }
-    ]
-  },
-  {
-    "word": "oi khói",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có mùi hơi hôi như mùi của khói, do bị khói ùa vào nồi khi đun nấu\nVí dụ:\n- cơm bị oi khói"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@oi khói\n- Nói thức ăn thức uống có mùi khói."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@oi khói\n*noun\n-smell of smoke"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@oi khói\n* noun\n- smell of smoke"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "smell of smoke"
       }
     ]
   }

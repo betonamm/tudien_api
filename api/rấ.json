@@ -1,22 +1,85 @@
 [
   {
-    "word": "rất đỗi",
+    "word": "rất ít khi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very rarely, almost never"
+      }
+    ]
+  },
+  {
+    "word": "rất có thể là",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "it’s very likely that"
+      }
+    ]
+  },
+  {
+    "word": "rấm rứt",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đến mức được đánh giá là hết sức, không thể hơn\nVí dụ:\n- rất đỗi ngạc nhiên \n - một gương mặt rất đỗi quen thuộc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rất đỗi\n- Quá chừng: Rất đỗi lo âu."
+        "dict_definition": "[khóc] nhỏ, khẽ, nhưng kéo dài, mãi không thôi\nVí dụ:\n- khóc rấm rứt"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rất đỗi\n-Extremely, excessively\n=Rất đỗi lo âu\n+To worry excessively"
+        "dict_definition": "@rấm rứt\n-Khóc rấm rứt\n-Weep softly for a long time"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rất đỗi\n- Extremely, excessively\n=Rất đỗi lo âu+To worry excessively"
+        "dict_definition": "@rấm rứt\n- Khóc rấm rứt\n-Weep softly for a long time"
+      }
+    ]
+  },
+  {
+    "word": "rất khó mà tiên đoán",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hard to say, hard to predict"
+      }
+    ]
+  },
+  {
+    "word": "rất có thể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-probable"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "most likely, very likely"
+      }
+    ]
+  },
+  {
+    "word": "rất chi là",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như rất [nhưng nghĩa mạnh hơn]\nVí dụ:\n- rất chi là may mắn \n - sống rất chi là sòng phẳng"
+      }
+    ]
+  },
+  {
+    "word": "rất kỹ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very carefully"
+      }
+    ]
+  },
+  {
+    "word": "rất nhiều lần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very many times, very often"
       }
     ]
   },
@@ -42,198 +105,11 @@
     ]
   },
   {
-    "word": "rất chi là",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như rất [nhưng nghĩa mạnh hơn]\nVí dụ:\n- rất chi là may mắn \n - sống rất chi là sòng phẳng"
-      }
-    ]
-  },
-  {
     "word": "rất cân bằng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-well-balanced"
-      }
-    ]
-  },
-  {
-    "word": "rất mịn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-impalpable"
-      }
-    ]
-  },
-  {
-    "word": "rất dễ xảy ra",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very likely to happen"
-      }
-    ]
-  },
-  {
-    "word": "rất nhiều việc cần phải làm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "much needs to be done"
-      }
-    ]
-  },
-  {
-    "word": "rất có hiệu quả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-strong form efficiency"
-      }
-    ]
-  },
-  {
-    "word": "rất khó mà tiên đoán",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hard to say, hard to predict"
-      }
-    ]
-  },
-  {
-    "word": "rất sâu (biển)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bottomless"
-      }
-    ]
-  },
-  {
-    "word": "rấn bước",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rấn bước\n- Cố đi nhanh lên: Rấn bước đuổi kịp người đi trước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rấn bước\n-xem dấn bước"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rấn bước\n- xem dấn bước"
-      }
-    ]
-  },
-  {
-    "word": "rất bền kéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-high-tensile"
-      }
-    ]
-  },
-  {
-    "word": "rất thích",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to really like"
-      }
-    ]
-  },
-  {
-    "word": "rất tiếc là",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "it’s too bad that, it’s unfortunate that, I’m sorry that"
-      }
-    ]
-  },
-  {
-    "word": "rất lâu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "for a (very) long time"
-      }
-    ]
-  },
-  {
-    "word": "rất nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-midget"
-      }
-    ]
-  },
-  {
-    "word": "rất cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flinty\n@Chuyên ngành kỹ thuật\n-adamantine"
-      }
-    ]
-  },
-  {
-    "word": "rấn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rấn\n- ph. Cố lên, gắng lên: Làm rấn cho xong trước thời hạn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rấn\n-(địa phương) xem dấn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rấn\n- (địa phương) xem dấn"
-      }
-    ]
-  },
-  {
-    "word": "rất quan tâm về",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pay a lot of attention to"
-      }
-    ]
-  },
-  {
-    "word": "rất lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-much more\n-vast, vastly"
-      }
-    ]
-  },
-  {
-    "word": "rất nhiều",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very much, many"
-      }
-    ]
-  },
-  {
-    "word": "rất ít",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very few"
       }
     ]
   },
@@ -267,6 +143,24 @@
     ]
   },
   {
+    "word": "rất thông dụng ở vietnamese",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very common in VN"
+      }
+    ]
+  },
+  {
+    "word": "rất quan trọng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very important"
+      }
+    ]
+  },
+  {
     "word": "rất thường",
     "definitions": [
       {
@@ -276,38 +170,23 @@
     ]
   },
   {
-    "word": "rất hiện đại",
+    "word": "rất đỗi",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đến mức được đánh giá là hết sức, không thể hơn\nVí dụ:\n- rất đỗi ngạc nhiên \n - một gương mặt rất đỗi quen thuộc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rất đỗi\n- Quá chừng: Rất đỗi lo âu."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-up-to-the-minute"
-      }
-    ]
-  },
-  {
-    "word": "rất kỹ",
-    "definitions": [
+        "dict_definition": "@rất đỗi\n-Extremely, excessively\n=Rất đỗi lo âu\n+To worry excessively"
+      },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very carefully"
-      }
-    ]
-  },
-  {
-    "word": "rất hợp thời thượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-up-to-the-minute"
-      }
-    ]
-  },
-  {
-    "word": "rất tiếc không thể ký kết được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-regret"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rất đỗi\n- Extremely, excessively\n=Rất đỗi lo âu+To worry excessively"
       }
     ]
   },
@@ -337,72 +216,131 @@
     ]
   },
   {
-    "word": "rấm bếp",
+    "word": "rất ít",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very few"
+      }
+    ]
+  },
+  {
+    "word": "rất nhiều",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very much, many"
+      }
+    ]
+  },
+  {
+    "word": "rất dễ xảy ra",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very likely to happen"
+      }
+    ]
+  },
+  {
+    "word": "rất gần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ECU (extreme close up)\n-extreme close-up (ECU)"
+      }
+    ]
+  },
+  {
+    "word": "rất hiện đại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-up-to-the-minute"
+      }
+    ]
+  },
+  {
+    "word": "rấn bước",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rấm bếp\n- Giữ lửa bằng cách cho cháy âm ỉ trong bếp: Rấm bếp bằng trấu."
+        "dict_definition": "@rấn bước\n- Cố đi nhanh lên: Rấn bước đuổi kịp người đi trước."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rấm bếp\n-Damp down a fire\n=Nấu ăn xong rấm bếp.\n+To damp down the fire after finishing with the cooking"
+        "dict_definition": "@rấn bước\n-xem dấn bước"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rấm bếp\n- Damp down a fire\n=Nấu ăn xong rấm bếp.+To damp down the fire after finishing with the cooking"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "damp down a fire"
+        "dict_definition": "@rấn bước\n- xem dấn bước"
       }
     ]
   },
   {
-    "word": "rất thừa thãi thời giờ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have a lot of free time"
-      }
-    ]
-  },
-  {
-    "word": "rất tốt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very good, excellent"
-      }
-    ]
-  },
-  {
-    "word": "rất ít khi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very rarely, almost never"
-      }
-    ]
-  },
-  {
-    "word": "rất giàu",
+    "word": "rất tiếc không thể ký kết được",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loaded"
+        "dict_definition": "@Chuyên ngành kinh tế\n-regret"
       }
     ]
   },
   {
-    "word": "rất có thể",
+    "word": "rất khó hiểu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very difficult to understand"
+      }
+    ]
+  },
+  {
+    "word": "rất cứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-probable"
+        "dict_definition": "@Chuyên ngành kinh tế\n-flinty\n@Chuyên ngành kỹ thuật\n-adamantine"
+      }
+    ]
+  },
+  {
+    "word": "rất nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-midget"
+      }
+    ]
+  },
+  {
+    "word": "rất tiếc là",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "it’s too bad that, it’s unfortunate that, I’m sorry that"
+      }
+    ]
+  },
+  {
+    "word": "rất quan tâm về",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pay a lot of attention to"
+      }
+    ]
+  },
+  {
+    "word": "rất tiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-regret"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "most likely, very likely"
+        "dict_definition": "very sorry"
       }
     ]
   },
@@ -432,6 +370,51 @@
     ]
   },
   {
+    "word": "rất lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-much more\n-vast, vastly"
+      }
+    ]
+  },
+  {
+    "word": "rất bền kéo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-high-tensile"
+      }
+    ]
+  },
+  {
+    "word": "rất có hiệu quả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-strong form efficiency"
+      }
+    ]
+  },
+  {
+    "word": "rất mịn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-impalpable"
+      }
+    ]
+  },
+  {
+    "word": "rất tốt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very good, excellent"
+      }
+    ]
+  },
+  {
     "word": "rất đáng quý",
     "definitions": [
       {
@@ -441,11 +424,50 @@
     ]
   },
   {
-    "word": "rất có thể là",
+    "word": "rất thích",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "it’s very likely that"
+        "dict_definition": "to really like"
+      }
+    ]
+  },
+  {
+    "word": "rất nhiều việc cần phải làm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "much needs to be done"
+      }
+    ]
+  },
+  {
+    "word": "rất thính, rất sâu sắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hyperacute"
+      }
+    ]
+  },
+  {
+    "word": "rấm bếp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rấm bếp\n- Giữ lửa bằng cách cho cháy âm ỉ trong bếp: Rấm bếp bằng trấu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rấm bếp\n-Damp down a fire\n=Nấu ăn xong rấm bếp.\n+To damp down the fire after finishing with the cooking"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rấm bếp\n- Damp down a fire\n=Nấu ăn xong rấm bếp.+To damp down the fire after finishing with the cooking"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "damp down a fire"
       }
     ]
   },
@@ -455,6 +477,50 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to be very pleased (to be able to do sth)"
+      }
+    ]
+  },
+  {
+    "word": "rất thừa thãi thời giờ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have a lot of free time"
+      }
+    ]
+  },
+  {
+    "word": "rất hợp thời thượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-up-to-the-minute"
+      }
+    ]
+  },
+  {
+    "word": "rất lâu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "for a (very) long time"
+      }
+    ]
+  },
+  {
+    "word": "rấn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rấn\n- ph. Cố lên, gắng lên: Làm rấn cho xong trước thời hạn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rấn\n-(địa phương) xem dấn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rấn\n- (địa phương) xem dấn"
       }
     ]
   },
@@ -472,51 +538,20 @@
     ]
   },
   {
-    "word": "rất nhiều lần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very many times, very often"
-      }
-    ]
-  },
-  {
-    "word": "rất khó hiểu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very difficult to understand"
-      }
-    ]
-  },
-  {
-    "word": "rất thông dụng ở vietnamese",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very common in VN"
-      }
-    ]
-  },
-  {
-    "word": "rất tiếc",
+    "word": "rất đồng đều",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-regret"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very sorry"
+        "dict_definition": "@Chuyên ngành kinh tế\n-well-balanced"
       }
     ]
   },
   {
-    "word": "rất gần",
+    "word": "rất sâu (biển)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ECU (extreme close up)\n-extreme close-up (ECU)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bottomless"
       }
     ]
   },
@@ -546,46 +581,11 @@
     ]
   },
   {
-    "word": "rất thính, rất sâu sắc",
+    "word": "rất giàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hyperacute"
-      }
-    ]
-  },
-  {
-    "word": "rấm rứt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[khóc] nhỏ, khẽ, nhưng kéo dài, mãi không thôi\nVí dụ:\n- khóc rấm rứt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rấm rứt\n-Khóc rấm rứt\n-Weep softly for a long time"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rấm rứt\n- Khóc rấm rứt\n-Weep softly for a long time"
-      }
-    ]
-  },
-  {
-    "word": "rất quan trọng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very important"
-      }
-    ]
-  },
-  {
-    "word": "rất đồng đều",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-well-balanced"
+        "dict_definition": "@Chuyên ngành kinh tế\n-loaded"
       }
     ]
   }

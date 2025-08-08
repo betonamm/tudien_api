@@ -1,15 +1,15 @@
 [
   {
-    "word": "uất nộ",
+    "word": "uất phẫn",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to control one’s anger"
+        "dict_definition": "indignant"
       }
     ]
   },
   {
-    "word": "uất kết",
+    "word": "uất tắc",
     "definitions": [
       {
         "dict_name": "VNEDICT",
@@ -27,11 +27,54 @@
     ]
   },
   {
+    "word": "uấn cong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-crinkle"
+      }
+    ]
+  },
+  {
     "word": "uất ẩn",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "frustration"
+      }
+    ]
+  },
+  {
+    "word": "uất nộ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to control one’s anger"
+      }
+    ]
+  },
+  {
+    "word": "uất ức",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "uất lắm mà đành chịu, không làm gì được\nVí dụ:\n- chị uất ức vì gia đình chồng cũng nghĩ sai về chị"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@uất ức\n- đgt. Uất đến mức không chịu đựng được, cảm thấy bực tức cao độ vì chưa được hành động: Uất ức quá, người như điên như khùng  Không thể uất ức mãi, phải ra tay hành động ngay."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@uất ức\n*verb\n-to writhe"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@uất ức\n* verb\n- to writhe"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(righteously) indignant"
       }
     ]
   },
@@ -65,20 +108,20 @@
     ]
   },
   {
+    "word": "uất kết",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "frustrated"
+      }
+    ]
+  },
+  {
     "word": "uất nghẹn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "uất lắm, đến mức cảm thấy như nghẹn lên đến cổ, nhưng vẫn phải cố kìm nén lại trong lòng\nVí dụ:\n- giọng nói của anh uất nghẹn"
-      }
-    ]
-  },
-  {
-    "word": "uấn cong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-crinkle"
       }
     ]
   },
@@ -96,49 +139,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "angry, frustrated; to anger, make indignant"
-      }
-    ]
-  },
-  {
-    "word": "uất phẫn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "indignant"
-      }
-    ]
-  },
-  {
-    "word": "uất ức",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "uất lắm mà đành chịu, không làm gì được\nVí dụ:\n- chị uất ức vì gia đình chồng cũng nghĩ sai về chị"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@uất ức\n- đgt. Uất đến mức không chịu đựng được, cảm thấy bực tức cao độ vì chưa được hành động: Uất ức quá, người như điên như khùng  Không thể uất ức mãi, phải ra tay hành động ngay."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@uất ức\n*verb\n-to writhe"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@uất ức\n* verb\n- to writhe"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(righteously) indignant"
-      }
-    ]
-  },
-  {
-    "word": "uất tắc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "frustrated"
       }
     ]
   }

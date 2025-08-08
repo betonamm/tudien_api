@@ -1,39 +1,5 @@
 [
   {
-    "word": "hũm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hõm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hũm\n- d. Vũng nhỏ và nông: Hũm nước ở bãi cỏ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hũm\n-Puddle\n=Hũm nước ở bãi cỏ\n+A puddle on the lawn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hũm\n- Puddle\n=Hũm nước ở bãi cỏ+A puddle on the lawn"
-      }
-    ]
-  },
-  {
-    "word": "hũu sản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hũu sản\n-Propertied, moneyed, belonging to the haves\n=Các tầng lớp hữu sản\n+The moneyed classes, The propertied classes"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hũu sản\n- Propertied, moneyed, belonging to the haves\n=Các tầng lớp hữu sản+The moneyed classes, The propertied classes"
-      }
-    ]
-  },
-  {
     "word": "hũ",
     "definitions": [
       {
@@ -55,6 +21,40 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "jar"
+      }
+    ]
+  },
+  {
+    "word": "hũu sản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hũu sản\n-Propertied, moneyed, belonging to the haves\n=Các tầng lớp hữu sản\n+The moneyed classes, The propertied classes"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hũu sản\n- Propertied, moneyed, belonging to the haves\n=Các tầng lớp hữu sản+The moneyed classes, The propertied classes"
+      }
+    ]
+  },
+  {
+    "word": "hũm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem hõm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hũm\n- d. Vũng nhỏ và nông: Hũm nước ở bãi cỏ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hũm\n-Puddle\n=Hũm nước ở bãi cỏ\n+A puddle on the lawn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hũm\n- Puddle\n=Hũm nước ở bãi cỏ+A puddle on the lawn"
       }
     ]
   }

@@ -1,70 +1,5 @@
 [
   {
-    "word": "xỏ mũi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ví trường hợp sai khiến, điều khiển người khác một cách quá dễ dàng\nVí dụ:\n- bọn chúng xỏ mũi anh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xỏ mũi [xỏ mũi]\n-to lead somebody by the nose ;  to have somebody in one\"s pocket;  to twist somebody round one\"s little finger;  to have somebody on a string;  to boss somebody out"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to lead somebody by the nose, have somebody in one’s"
-      }
-    ]
-  },
-  {
-    "word": "xỏ xiên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nói xỏ một cách bóng gió để tỏ thái độ khinh miệt, đả kích [nói khái quát]\nVí dụ:\n- nó xỏ xiên tôi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xỏ xiên\n*động từ\n-to be a trickster, be a swindler\n-to do an ill or a bad turn"
-      }
-    ]
-  },
-  {
-    "word": "xỏ kim",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to thread a needle"
-      }
-    ]
-  },
-  {
-    "word": "xỏ (dây qua ròng rọc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-reeve"
-      }
-    ]
-  },
-  {
-    "word": "xỏ lá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có tính hay lừa gạt người một cách tai quái, đểu giả, dưới cái vẻ bề ngoài tử tế\nVí dụ:\n- đồ xỏ lá!"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xỏ lá [xỏ lá]\n-knavish;  roguish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "knavish, roguish"
-      }
-    ]
-  },
-  {
     "word": "xỏ",
     "definitions": [
       {
@@ -102,6 +37,54 @@
     ]
   },
   {
+    "word": "xỏ xiên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nói xỏ một cách bóng gió để tỏ thái độ khinh miệt, đả kích [nói khái quát]\nVí dụ:\n- nó xỏ xiên tôi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xỏ xiên\n*động từ\n-to be a trickster, be a swindler\n-to do an ill or a bad turn"
+      }
+    ]
+  },
+  {
+    "word": "xỏ (dây qua ròng rọc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-reeve"
+      }
+    ]
+  },
+  {
+    "word": "xỏ kim",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to thread a needle"
+      }
+    ]
+  },
+  {
+    "word": "xỏ mũi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ví trường hợp sai khiến, điều khiển người khác một cách quá dễ dàng\nVí dụ:\n- bọn chúng xỏ mũi anh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xỏ mũi [xỏ mũi]\n-to lead somebody by the nose ;  to have somebody in one\"s pocket;  to twist somebody round one\"s little finger;  to have somebody on a string;  to boss somebody out"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to lead somebody by the nose, have somebody in one’s"
+      }
+    ]
+  },
+  {
     "word": "xỏ tai",
     "definitions": [
       {
@@ -111,6 +94,23 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "pierce the ears (for earrings)"
+      }
+    ]
+  },
+  {
+    "word": "xỏ lá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có tính hay lừa gạt người một cách tai quái, đểu giả, dưới cái vẻ bề ngoài tử tế\nVí dụ:\n- đồ xỏ lá!"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xỏ lá [xỏ lá]\n-knavish;  roguish"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "knavish, roguish"
       }
     ]
   }

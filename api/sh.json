@@ -1,10 +1,19 @@
 [
   {
-    "word": "showroom",
+    "word": "shop",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cửa hàng trưng bày hàng hoá, thường là ô tô và các mặt hàng điện tử"
+        "dict_definition": "cửa hàng, thường vào loại cao cấp\nVí dụ:\n- shop thời trang"
+      }
+    ]
+  },
+  {
+    "word": "shtt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sở hữu trí tuệ [viết tắt]"
       }
     ]
   },
@@ -27,20 +36,11 @@
     ]
   },
   {
-    "word": "shtt",
+    "word": "showroom",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sở hữu trí tuệ [viết tắt]"
-      }
-    ]
-  },
-  {
-    "word": "shop",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cửa hàng, thường vào loại cao cấp\nVí dụ:\n- shop thời trang"
+        "dict_definition": "cửa hàng trưng bày hàng hoá, thường là ô tô và các mặt hàng điện tử"
       }
     ]
   }

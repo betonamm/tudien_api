@@ -1,167 +1,5 @@
 [
   {
-    "word": "chợ từ mua bán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-marketer"
-      }
-    ]
-  },
-  {
-    "word": "chợ trưa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-noon market"
-      }
-    ]
-  },
-  {
-    "word": "chợ gia súc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stock market"
-      }
-    ]
-  },
-  {
-    "word": "chợ đen (thị trường hàng lậu và dịch vụ bất hợp pháp)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-black market"
-      }
-    ]
-  },
-  {
-    "word": "chợ nhà nông nông thôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-farmer\"s market"
-      }
-    ]
-  },
-  {
-    "word": "chợ xám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-grey market\n-semi-black market"
-      }
-    ]
-  },
-  {
-    "word": "chợ lầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Lầu\n- (thị trấn) h. Bắc Bình, t. Bình Thuận"
-      }
-    ]
-  },
-  {
-    "word": "chợ phiên (chỉ phiên chợ định kỳ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-market-day"
-      }
-    ]
-  },
-  {
-    "word": "chợ bình dân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-folk marker\n@Chuyên ngành kỹ thuật\n-folk marker"
-      }
-    ]
-  },
-  {
-    "word": "chợ (ngoài) trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-outdoor market\n@Chuyên ngành kỹ thuật\n-outdoor market"
-      }
-    ]
-  },
-  {
-    "word": "chợ vàng hai hệ thống-hai giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-two-tier gold mart"
-      }
-    ]
-  },
-  {
-    "word": "chợ đồn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Đồn\n- (huyện) Huyện ở phía tây tỉnh Bắc Kạn. Diện tích 907,7km2. Dân số 52.700 (1997), gồm các dân tộc: Tày, Nùng, Kinh, Sán Chỉ v.v.. Địa hình đồi núi phức tạp, độ dốc lớn, thung lũng hẹp. Rừng và núi đá chiếm 69% diện tích. Núi chính: Sam Sao (1172m), Khao Muông (682m). Sông Phó Đáy chảy qua. Dân cư 78% làm nông nghiệp. Trước 1965 huyện thuộc tỉnh Bắc Kạn, thuộc tỉnh Bắc Thái"
-      }
-    ]
-  },
-  {
-    "word": "chợ gạo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Gạo\n- (huyện) Huyện ở phía đông tỉnh Tiền Giang. Diện tích 235km2. Số dân 192.400 (1997). Địa hình đồng bằng, đất phù sa ngọt chiếm 86,2% diện tích. Sông ngòi, kênh rạch: các sông Tiền, Chợ Gạo, Xuân Hoà, Bảo Định chảy qua. Đường 25 Mỹ Tho-Gò Công chạy qua. Trước 1976, thuộc tỉnh Mỹ Tho, huyện gồm 1 thị trấn Chợ Gạo, 18 xã\n- (thị trấn) h. Chợ Gạo, t. Tiền Giang"
-      }
-    ]
-  },
-  {
-    "word": "chợ bán đồ cũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flea market\n-rag fair"
-      }
-    ]
-  },
-  {
-    "word": "chợ đồ nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fancy fair"
-      }
-    ]
-  },
-  {
-    "word": "chợt nhớ ra",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to suddenly remember"
-      }
-    ]
-  },
-  {
-    "word": "chợ xanh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chợ tạm, thường bán các loại rau quả"
-      }
-    ]
-  },
-  {
-    "word": "chợ điền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Điền\n- Mỏ chì Kẽm ở huyện Chợ Đồn, tỉnh Bắc Kạn. Trữ lượng mỏ khoảng vài triệu tấn. Được khai thác chủ yếu bằng lò giếng. Quặng Chợ Điền được sử dụng để luyện chì, kẽm"
-      }
-    ]
-  },
-  {
     "word": "chợt nhớ đến",
     "definitions": [
       {
@@ -171,50 +9,11 @@
     ]
   },
   {
-    "word": "chợ đen",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nơi mua bán hàng hoá, tiền tệ một cách lén lút, bất hợp pháp với giá cả tuỳ tiện\nVí dụ:\n- giá chợ đen \n - \"Anh Hoàng là một nhà văn, nhưng đồng thời cũng là một tay chợ đen rất tài tình.\" (Nam Cao; 8)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chợ đen\n-Black market\n=giá chợ đen\n+black market prices\n@Chuyên ngành kinh tế\n-black market\n-illicit market\n-parallel market\n@Chuyên ngành kỹ thuật\n-black market\n@Chuyên ngành kỹ thuật\n-black market"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chợ đen\n- Black market\n=giá chợ đen+black market prices"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "black market"
-      }
-    ]
-  },
-  {
-    "word": "chợ nổi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chợ họp một cách tự phát trên mặt sông, mặt nước, các hoạt động mua bán diễn ra trên thuyền, trên xuồng\nVí dụ:\n- chợ nổi vùng đồng bằng sông Cửu Long"
-      }
-    ]
-  },
-  {
-    "word": "chợ bán xe hơi",
+    "word": "chợt nhớ lại",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "automobile, car dealership"
-      }
-    ]
-  },
-  {
-    "word": "chợn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác sợ đến lạnh người khi đứng trước hay nghĩ đến mối nguy hiểm lớn\nVí dụ:\n- tôi chợn người khi nghe người ta kể nhiều về những điều huyền bí ở ngôi làng này"
+        "dict_definition": "to suddenly remember"
       }
     ]
   },
@@ -228,251 +27,11 @@
     ]
   },
   {
-    "word": "chợ rã",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Rã\n- (huyện) Huyện thuộc tỉnh Cao Bằng, từ 6-11-1984 được đổi thành huyện Ba Bể, từ 6-11-1996 thuộc tỉnh Bắc Kạn\n- (thị trấn) h. Ba Bể, t. Bắc Kạn"
-      }
-    ]
-  },
-  {
-    "word": "chợ vàm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Vàm\n- (thị trấn) h. Phú Tân, t. An Giang"
-      }
-    ]
-  },
-  {
-    "word": "chợ bán gia súc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cattle market\n-stock market\n-stockverd"
-      }
-    ]
-  },
-  {
-    "word": "chợp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhắm mắt ngủ trong khoảng thời gian rất ngắn, tựa như vừa mới ngủ đã thức giấc\nVí dụ:\n- tôi đã chợp mắt được một lúc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chợp\n-To have a wink of sleep, to sleep a wink\n=vừa mới chợp được một tí, gà đã gáy\n+he had just a wink of sleep when the cock crowed"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chợp\n- To have a wink of sleep, to sleep a wink\n=vừa mới chợp được một tí, gà đã gáy+he had just a wink of sleep when the cock crowed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to doze off, sleep a wink"
-      }
-    ]
-  },
-  {
-    "word": "chợ chùa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Chùa\n- (thị trấn) h. Nghĩa Hành, t. Quảng Ngãi"
-      }
-    ]
-  },
-  {
-    "word": "chợt nghĩ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to think suddenly"
-      }
-    ]
-  },
-  {
     "word": "chợ trời định kỳ",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-kermess"
-      }
-    ]
-  },
-  {
-    "word": "chợt hiện lên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to appear suddenly"
-      }
-    ]
-  },
-  {
-    "word": "chợ mua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-buyer\"s market\n@Chuyên ngành kỹ thuật\n-buyer\"s market"
-      }
-    ]
-  },
-  {
-    "word": "chợ cóc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chợ nhỏ, chợ tạm, thường họp lại một cách tự phát trong thời gian ngắn, không cố định ở một chỗ"
-      }
-    ]
-  },
-  {
-    "word": "chợt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như sầy\nVí dụ:\n- khoai bị chợt vỏ \n - cam bị chợt vỏ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[xảy ra] thình lình và trong khoảnh khắc\nVí dụ:\n- chợt nhớ lại chuyện cũ \n - trời chợt nắng, chợt mưa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chợt\n- trgt. Bỗng nhiên, thình lình: Chợt nhìn khách lạ như người quen (Tú-mỡ) Anh ấy chợt đến; Đèn chợt tắt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chợt\n*adv\n-Suddenly\n=trời đang nắng chợt có mưa rào\n+it was shining when a sudden shower came\n=chợt nhớ lại chuyện cũ\n+to suddenly remember a past happening"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chợt\n* adv\n- Suddenly\n=trời đang nắng chợt có mưa rào+it was shining when a sudden shower came\n=chợt nhớ lại chuyện cũ+to suddenly remember a past happening"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "suddenly, all of a sudden"
-      }
-    ]
-  },
-  {
-    "word": "chợ búa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chợ [nói khái quát]\nVí dụ:\n- chợ búa vắng teo \n - chỉ làm ruộng chứ có chợ búa gì đâu!"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chợ búa\n-Market"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chợ búa\n- Market"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "market"
-      }
-    ]
-  },
-  {
-    "word": "chợ lao động",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nơi những người muốn bán sức lao động tụ tập để chờ người đến thuê mướn"
-      }
-    ]
-  },
-  {
-    "word": "chợt thấy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to see (something) all of a sudden"
-      }
-    ]
-  },
-  {
-    "word": "chợ (ở các nước đông phương)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bazaar"
-      }
-    ]
-  },
-  {
-    "word": "chợ giời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem chợ trời"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chợ giời [chợ giời]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "chợ từ thiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-kermess"
-      }
-    ]
-  },
-  {
-    "word": "chợp mắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chợp mắt\n-Như chợp\n=cả đêm không sao chợp mắt được\n+not to sleep a wink all night"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chợp mắt\n- Như chợp\n=cả đêm không sao chợp mắt được+not to sleep a wink all night"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sleep a wink"
-      }
-    ]
-  },
-  {
-    "word": "chợ có mái (che)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-covered market\n@Chuyên ngành kỹ thuật\n-covered market"
-      }
-    ]
-  },
-  {
-    "word": "chợ hôm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chợ hôm [chợ hôm]\n-afternoon market"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "afternoon market"
-      }
-    ]
-  },
-  {
-    "word": "chợ lách",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chợ Lách\n- (huyện) Huyện ở phía tây tỉnh Bến Tre. Diện tích 189,6km2. Số dân 135.900 (1997). Địa hình bằng phẳng, đất phù sa màu mỡ, độ cao trung bình 2,6m so với mặt biển. Nước ngọt quanh năm. Có các sông lớn: Cổ Chiên, Mỹ Tho, Hàm Luông chảy dọc địa giới. Dân cư 87% làm nông nghiệp. Giao thông chính đường thuỷ, tỉnh lộ 30 chạy qua. Huyện thuộc tỉnh Bến Tre từ 1890, gồm 1 thị trấn Chợ Lách, 10 xã\n- (thị trấn) h. Chợ Lách, t. Bến Tre"
       }
     ]
   },
@@ -506,28 +65,41 @@
     ]
   },
   {
-    "word": "chợ chiều",
+    "word": "chợ trưa",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chợ về chiều, lúc gần tan; ví cảnh tàn cuộc, rời rạc, không còn ồn ào, sôi nổi\nVí dụ:\n- không khí chợ chiều \n - \"Khi anh gặp chị, thì đôi bên đã là cảnh xế muộn chợ chiều rồi, cho nên cũng dễ dãi mà lấy nhau.\" (Tô Hoài; 29)"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@chợ chiều\n-Market at its closing\n=không khí chợ chiều\n+the atmosphere of a market at its closing\n@Chuyên ngành kinh tế\n-afternoon market"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chợ chiều\n- Market at its closing\n=không khí chợ chiều+the atmosphere of a market at its closing"
+        "dict_definition": "@Chuyên ngành kinh tế\n-noon market"
       }
     ]
   },
   {
-    "word": "chợ người",
+    "word": "chợ có mái (che)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-covered market\n@Chuyên ngành kỹ thuật\n-covered market"
+      }
+    ]
+  },
+  {
+    "word": "chợ phiên",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem chợ lao động"
+        "dict_definition": "chợ họp có ngày nhất định"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chợ phiên\n-Kermis, fair\n@Chuyên ngành kinh tế\n-fair\n-kermis"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chợ phiên\n- Kermis, fair"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a fair"
       }
     ]
   },
@@ -557,11 +129,38 @@
     ]
   },
   {
-    "word": "chợt nhớ lại",
+    "word": "chợt nhớ ra",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to suddenly remember"
+      }
+    ]
+  },
+  {
+    "word": "chợ lao động",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nơi những người muốn bán sức lao động tụ tập để chờ người đến thuê mướn"
+      }
+    ]
+  },
+  {
+    "word": "chợ gạo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Gạo\n- (huyện) Huyện ở phía đông tỉnh Tiền Giang. Diện tích 235km2. Số dân 192.400 (1997). Địa hình đồng bằng, đất phù sa ngọt chiếm 86,2% diện tích. Sông ngòi, kênh rạch: các sông Tiền, Chợ Gạo, Xuân Hoà, Bảo Định chảy qua. Đường 25 Mỹ Tho-Gò Công chạy qua. Trước 1976, thuộc tỉnh Mỹ Tho, huyện gồm 1 thị trấn Chợ Gạo, 18 xã\n- (thị trấn) h. Chợ Gạo, t. Tiền Giang"
+      }
+    ]
+  },
+  {
+    "word": "chợn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cảm giác sợ đến lạnh người khi đứng trước hay nghĩ đến mối nguy hiểm lớn\nVí dụ:\n- tôi chợn người khi nghe người ta kể nhiều về những điều huyền bí ở ngôi làng này"
       }
     ]
   },
@@ -571,6 +170,213 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-international bazaar"
+      }
+    ]
+  },
+  {
+    "word": "chợ đêm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-night market"
+      }
+    ]
+  },
+  {
+    "word": "chợp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhắm mắt ngủ trong khoảng thời gian rất ngắn, tựa như vừa mới ngủ đã thức giấc\nVí dụ:\n- tôi đã chợp mắt được một lúc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chợp\n-To have a wink of sleep, to sleep a wink\n=vừa mới chợp được một tí, gà đã gáy\n+he had just a wink of sleep when the cock crowed"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chợp\n- To have a wink of sleep, to sleep a wink\n=vừa mới chợp được một tí, gà đã gáy+he had just a wink of sleep when the cock crowed"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to doze off, sleep a wink"
+      }
+    ]
+  },
+  {
+    "word": "chợ bán gia súc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cattle market\n-stock market\n-stockverd"
+      }
+    ]
+  },
+  {
+    "word": "chợ lầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Lầu\n- (thị trấn) h. Bắc Bình, t. Bình Thuận"
+      }
+    ]
+  },
+  {
+    "word": "chợ đen",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nơi mua bán hàng hoá, tiền tệ một cách lén lút, bất hợp pháp với giá cả tuỳ tiện\nVí dụ:\n- giá chợ đen \n - \"Anh Hoàng là một nhà văn, nhưng đồng thời cũng là một tay chợ đen rất tài tình.\" (Nam Cao; 8)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chợ đen\n-Black market\n=giá chợ đen\n+black market prices\n@Chuyên ngành kinh tế\n-black market\n-illicit market\n-parallel market\n@Chuyên ngành kỹ thuật\n-black market\n@Chuyên ngành kỹ thuật\n-black market"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chợ đen\n- Black market\n=giá chợ đen+black market prices"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "black market"
+      }
+    ]
+  },
+  {
+    "word": "chợ (ngoài) trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-outdoor market\n@Chuyên ngành kỹ thuật\n-outdoor market"
+      }
+    ]
+  },
+  {
+    "word": "chợ bán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-seller\"s market\n@Chuyên ngành kỹ thuật\n-seller\"s market"
+      }
+    ]
+  },
+  {
+    "word": "chợ bán đồ cũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-flea market\n-rag fair"
+      }
+    ]
+  },
+  {
+    "word": "chợ giời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem chợ trời"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chợ giời [chợ giời]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "chợ từ mua bán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-marketer"
+      }
+    ]
+  },
+  {
+    "word": "chợ lách",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Lách\n- (huyện) Huyện ở phía tây tỉnh Bến Tre. Diện tích 189,6km2. Số dân 135.900 (1997). Địa hình bằng phẳng, đất phù sa màu mỡ, độ cao trung bình 2,6m so với mặt biển. Nước ngọt quanh năm. Có các sông lớn: Cổ Chiên, Mỹ Tho, Hàm Luông chảy dọc địa giới. Dân cư 87% làm nông nghiệp. Giao thông chính đường thuỷ, tỉnh lộ 30 chạy qua. Huyện thuộc tỉnh Bến Tre từ 1890, gồm 1 thị trấn Chợ Lách, 10 xã\n- (thị trấn) h. Chợ Lách, t. Bến Tre"
+      }
+    ]
+  },
+  {
+    "word": "chợ (ở các nước đông phương)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bazaar"
+      }
+    ]
+  },
+  {
+    "word": "chợ cóc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chợ nhỏ, chợ tạm, thường họp lại một cách tự phát trong thời gian ngắn, không cố định ở một chỗ"
+      }
+    ]
+  },
+  {
+    "word": "chợ xám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-grey market\n-semi-black market"
+      }
+    ]
+  },
+  {
+    "word": "chợ nổi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chợ họp một cách tự phát trên mặt sông, mặt nước, các hoạt động mua bán diễn ra trên thuyền, trên xuồng\nVí dụ:\n- chợ nổi vùng đồng bằng sông Cửu Long"
+      }
+    ]
+  },
+  {
+    "word": "chợ nhà nông nông thôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-farmer\"s market"
+      }
+    ]
+  },
+  {
+    "word": "chợ mua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-buyer\"s market\n@Chuyên ngành kỹ thuật\n-buyer\"s market"
+      }
+    ]
+  },
+  {
+    "word": "chợ chiều",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chợ về chiều, lúc gần tan; ví cảnh tàn cuộc, rời rạc, không còn ồn ào, sôi nổi\nVí dụ:\n- không khí chợ chiều \n - \"Khi anh gặp chị, thì đôi bên đã là cảnh xế muộn chợ chiều rồi, cho nên cũng dễ dãi mà lấy nhau.\" (Tô Hoài; 29)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chợ chiều\n-Market at its closing\n=không khí chợ chiều\n+the atmosphere of a market at its closing\n@Chuyên ngành kinh tế\n-afternoon market"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chợ chiều\n- Market at its closing\n=không khí chợ chiều+the atmosphere of a market at its closing"
+      }
+    ]
+  },
+  {
+    "word": "chợ vàng hai hệ thống-hai giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-two-tier gold mart"
       }
     ]
   },
@@ -592,24 +398,6 @@
     ]
   },
   {
-    "word": "chợ đêm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-night market"
-      }
-    ]
-  },
-  {
-    "word": "chợ đông nghịt những người",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the market was densely crowded with people"
-      }
-    ]
-  },
-  {
     "word": "chợ mới",
     "definitions": [
       {
@@ -619,29 +407,50 @@
     ]
   },
   {
-    "word": "chợ trắc nghiệm",
+    "word": "chợ búa",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chợ [nói khái quát]\nVí dụ:\n- chợ búa vắng teo \n - chỉ làm ruộng chứ có chợ búa gì đâu!"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-test market\n@Chuyên ngành kỹ thuật\n-test market"
+        "dict_definition": "@chợ búa\n-Market"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chợ búa\n- Market"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "market"
       }
     ]
   },
   {
-    "word": "chợ bán",
+    "word": "chợ bình dân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-seller\"s market\n@Chuyên ngành kỹ thuật\n-seller\"s market"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-folk marker\n@Chuyên ngành kỹ thuật\n-folk marker"
       }
     ]
   },
   {
-    "word": "chợt nhớ tới",
+    "word": "chợt nghĩ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to suddently remember (sth)"
+        "dict_definition": "to think suddenly"
+      }
+    ]
+  },
+  {
+    "word": "chợ rã",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Rã\n- (huyện) Huyện thuộc tỉnh Cao Bằng, từ 6-11-1984 được đổi thành huyện Ba Bể, từ 6-11-1996 thuộc tỉnh Bắc Kạn\n- (thị trấn) h. Ba Bể, t. Bắc Kạn"
       }
     ]
   },
@@ -655,23 +464,214 @@
     ]
   },
   {
-    "word": "chợ phiên",
+    "word": "chợ xanh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chợ họp có ngày nhất định"
-      },
+        "dict_definition": "chợ tạm, thường bán các loại rau quả"
+      }
+    ]
+  },
+  {
+    "word": "chợ hôm",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chợ phiên\n-Kermis, fair\n@Chuyên ngành kinh tế\n-fair\n-kermis"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chợ phiên\n- Kermis, fair"
+        "dict_definition": "@chợ hôm [chợ hôm]\n-afternoon market"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "a fair"
+        "dict_definition": "afternoon market"
+      }
+    ]
+  },
+  {
+    "word": "chợ phiên (chỉ phiên chợ định kỳ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-market-day"
+      }
+    ]
+  },
+  {
+    "word": "chợ đồ nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fancy fair"
+      }
+    ]
+  },
+  {
+    "word": "chợ gia súc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stock market"
+      }
+    ]
+  },
+  {
+    "word": "chợ trắc nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-test market\n@Chuyên ngành kỹ thuật\n-test market"
+      }
+    ]
+  },
+  {
+    "word": "chợt thấy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to see (something) all of a sudden"
+      }
+    ]
+  },
+  {
+    "word": "chợ đông nghịt những người",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the market was densely crowded with people"
+      }
+    ]
+  },
+  {
+    "word": "chợ đen (thị trường hàng lậu và dịch vụ bất hợp pháp)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-black market"
+      }
+    ]
+  },
+  {
+    "word": "chợ người",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem chợ lao động"
+      }
+    ]
+  },
+  {
+    "word": "chợ điền",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Điền\n- Mỏ chì Kẽm ở huyện Chợ Đồn, tỉnh Bắc Kạn. Trữ lượng mỏ khoảng vài triệu tấn. Được khai thác chủ yếu bằng lò giếng. Quặng Chợ Điền được sử dụng để luyện chì, kẽm"
+      }
+    ]
+  },
+  {
+    "word": "chợp mắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chợp mắt\n-Như chợp\n=cả đêm không sao chợp mắt được\n+not to sleep a wink all night"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chợp mắt\n- Như chợp\n=cả đêm không sao chợp mắt được+not to sleep a wink all night"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sleep a wink"
+      }
+    ]
+  },
+  {
+    "word": "chợ đồn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Đồn\n- (huyện) Huyện ở phía tây tỉnh Bắc Kạn. Diện tích 907,7km2. Dân số 52.700 (1997), gồm các dân tộc: Tày, Nùng, Kinh, Sán Chỉ v.v.. Địa hình đồi núi phức tạp, độ dốc lớn, thung lũng hẹp. Rừng và núi đá chiếm 69% diện tích. Núi chính: Sam Sao (1172m), Khao Muông (682m). Sông Phó Đáy chảy qua. Dân cư 78% làm nông nghiệp. Trước 1965 huyện thuộc tỉnh Bắc Kạn, thuộc tỉnh Bắc Thái"
+      }
+    ]
+  },
+  {
+    "word": "chợ bán xe hơi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "automobile, car dealership"
+      }
+    ]
+  },
+  {
+    "word": "chợ vàm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Vàm\n- (thị trấn) h. Phú Tân, t. An Giang"
+      }
+    ]
+  },
+  {
+    "word": "chợ chùa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chợ Chùa\n- (thị trấn) h. Nghĩa Hành, t. Quảng Ngãi"
+      }
+    ]
+  },
+  {
+    "word": "chợ từ thiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-kermess"
+      }
+    ]
+  },
+  {
+    "word": "chợt hiện lên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to appear suddenly"
+      }
+    ]
+  },
+  {
+    "word": "chợt nhớ tới",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to suddently remember (sth)"
+      }
+    ]
+  },
+  {
+    "word": "chợt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như sầy\nVí dụ:\n- khoai bị chợt vỏ \n - cam bị chợt vỏ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[xảy ra] thình lình và trong khoảnh khắc\nVí dụ:\n- chợt nhớ lại chuyện cũ \n - trời chợt nắng, chợt mưa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chợt\n- trgt. Bỗng nhiên, thình lình: Chợt nhìn khách lạ như người quen (Tú-mỡ) Anh ấy chợt đến; Đèn chợt tắt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chợt\n*adv\n-Suddenly\n=trời đang nắng chợt có mưa rào\n+it was shining when a sudden shower came\n=chợt nhớ lại chuyện cũ\n+to suddenly remember a past happening"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chợt\n* adv\n- Suddenly\n=trời đang nắng chợt có mưa rào+it was shining when a sudden shower came\n=chợt nhớ lại chuyện cũ+to suddenly remember a past happening"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "suddenly, all of a sudden"
       }
     ]
   }

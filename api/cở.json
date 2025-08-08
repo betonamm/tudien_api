@@ -1,116 +1,5 @@
 [
   {
-    "word": "cởi giày ra",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take off one's shoes"
-      }
-    ]
-  },
-  {
-    "word": "cởi ra áo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take off clothes"
-      }
-    ]
-  },
-  {
-    "word": "cởi trần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cởi trần [cởi trần]\n-xem\n-to strip to the waist"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "half naked"
-      }
-    ]
-  },
-  {
-    "word": "cởi ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-disengage\n-disengagement\n-disentangle\n@Chuyên ngành kỹ thuật\n-disengage\n-disengagement\n-disentangle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to unfasten, take off"
-      }
-    ]
-  },
-  {
-    "word": "cởi truồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@cởi truồng [cởi truồng]\n-to take one\"s trousers off"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "naked"
-      }
-    ]
-  },
-  {
-    "word": "cởi trói",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to untie, unbind"
-      }
-    ]
-  },
-  {
-    "word": "cởi chuồng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "naked"
-      }
-    ]
-  },
-  {
-    "word": "cởi quần áo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take off one’s clothes"
-      }
-    ]
-  },
-  {
-    "word": "cởi hết quần áo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take off all of one’s clothes"
-      }
-    ]
-  },
-  {
-    "word": "cởi quần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take off one’s pants, get undressed"
-      }
-    ]
-  },
-  {
-    "word": "cởi, mở, tháo, gỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-unfasten\n@Chuyên ngành kỹ thuật\n-unfasten"
-      }
-    ]
-  },
-  {
     "word": "cởi mở",
     "definitions": [
       {
@@ -149,24 +38,20 @@
     ]
   },
   {
-    "word": "cởi bỏ",
+    "word": "cởi, mở, tháo, gỡ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cởi bỏ [cởi bỏ]\n-to cast off;  to get rid of ..."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cast off, get rid of"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-unfasten\n@Chuyên ngành kỹ thuật\n-unfasten"
       }
     ]
   },
   {
-    "word": "cởi mở kinh tế",
+    "word": "cởi trói",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "economic liberalization"
+        "dict_definition": "to untie, unbind"
       }
     ]
   },
@@ -196,6 +81,121 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to take off, loosen, unfasten, unwrap"
+      }
+    ]
+  },
+  {
+    "word": "cởi bỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cởi bỏ [cởi bỏ]\n-to cast off;  to get rid of ..."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cast off, get rid of"
+      }
+    ]
+  },
+  {
+    "word": "cởi trần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cởi trần [cởi trần]\n-xem\n-to strip to the waist"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "half naked"
+      }
+    ]
+  },
+  {
+    "word": "cởi mở kinh tế",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "economic liberalization"
+      }
+    ]
+  },
+  {
+    "word": "cởi hết quần áo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take off all of one’s clothes"
+      }
+    ]
+  },
+  {
+    "word": "cởi ra áo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take off clothes"
+      }
+    ]
+  },
+  {
+    "word": "cởi giày ra",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take off one's shoes"
+      }
+    ]
+  },
+  {
+    "word": "cởi quần áo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take off one’s clothes"
+      }
+    ]
+  },
+  {
+    "word": "cởi quần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take off one’s pants, get undressed"
+      }
+    ]
+  },
+  {
+    "word": "cởi truồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cởi truồng [cởi truồng]\n-to take one\"s trousers off"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "naked"
+      }
+    ]
+  },
+  {
+    "word": "cởi ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-disengage\n-disengagement\n-disentangle\n@Chuyên ngành kỹ thuật\n-disengage\n-disengagement\n-disentangle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to unfasten, take off"
+      }
+    ]
+  },
+  {
+    "word": "cởi chuồng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "naked"
       }
     ]
   }

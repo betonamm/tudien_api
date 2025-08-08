@@ -1,14 +1,5 @@
 [
   {
-    "word": "kỷ vật",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kỉ vật"
-      }
-    ]
-  },
-  {
     "word": "kỷ nguyên",
     "definitions": [
       {
@@ -30,117 +21,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "era, age, period, epoch"
-      }
-    ]
-  },
-  {
-    "word": "kỷ hà học",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "geometry (as a field of study)"
-      }
-    ]
-  },
-  {
-    "word": "kỷ luật tự giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-self-discipline"
-      }
-    ]
-  },
-  {
-    "word": "kỷ hà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "geometry"
-      }
-    ]
-  },
-  {
-    "word": "kỷ luật ngặt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a strict discipline"
-      }
-    ]
-  },
-  {
-    "word": "kỷ yếu hiệp định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-memorandum of agreement"
-      }
-    ]
-  },
-  {
-    "word": "kỷ yếu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kỉ yếu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@kỷ yếu\n- Ghi chép những điều cốt yếu: Tập kỷ yếu của một hội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@kỷ yếu [kỷ yếu]\n-yearbook\n-summary record\n@Chuyên ngành kinh tế\n-memorandum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bulletin, annals"
-      }
-    ]
-  },
-  {
-    "word": "kỷ lục cao nhất chưa từng có (về giá cả hàng hóa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-all high"
-      }
-    ]
-  },
-  {
-    "word": "kỷ lục tăng trưởng lịch sử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-historical growth record"
-      }
-    ]
-  },
-  {
-    "word": "kỷ yếu hội nghị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-memorandum of meeting"
-      }
-    ]
-  },
-  {
-    "word": "kỷ nguyên của thông tin",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "information age"
-      }
-    ]
-  },
-  {
-    "word": "kỷ niệm 52 năm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to celebrate, commemorate the 52nd anniversary (of something)"
       }
     ]
   },
@@ -170,6 +50,51 @@
     ]
   },
   {
+    "word": "kỷ yếu hội nghị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-memorandum of meeting"
+      }
+    ]
+  },
+  {
+    "word": "kỷ lục cao nhất lịch sử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-record high"
+      }
+    ]
+  },
+  {
+    "word": "kỷ lục tăng trưởng lịch sử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-historical growth record"
+      }
+    ]
+  },
+  {
+    "word": "kỷ lục thấp nhất lịch sử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-record low"
+      }
+    ]
+  },
+  {
+    "word": "kỷ lục chưa từng có",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-all-time record"
+      }
+    ]
+  },
+  {
     "word": "kỷ cương",
     "definitions": [
       {
@@ -195,45 +120,38 @@
     ]
   },
   {
-    "word": "kỷ lược",
+    "word": "kỷ hà học",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to summarize"
+        "dict_definition": "geometry (as a field of study)"
       }
     ]
   },
   {
-    "word": "kỷ niệm",
+    "word": "kỷ yếu hiệp định",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem kỉ niệm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@kỷ niệm\n- I. d. 1. Điều ghi nhớ lại : Những kỷ niệm êm đềm. 2. Vật tặng cho nhau để ghi nhớ : Tặng tập ảnh làm kỷ niệm. II. t. Để ghi nhớ : Lễ kỷ niệm ; Đài kỷ niệm."
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@kỷ niệm\n*noun\n-memory; souvenir; keep sake\n=những kỷ niệm hãy còn nóng hổi\n+Memories still green*verb\n-to commemorate\n=lễ kỷ niệm\n+commemoration"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@kỷ niệm\n* noun\n-memory; souvenir; keep sake\n=những kỷ niệm hãy còn nóng hổi+Memories still green\n* verb\n-to commemorate\n=lễ kỷ niệm+commemoration"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "memory, remembrance, anniversary, reminiscence; to commemorate, remember"
+        "dict_definition": "@Chuyên ngành kinh tế\n-memorandum of agreement"
       }
     ]
   },
   {
-    "word": "kỷ luật nghiêm minh",
+    "word": "kỷ niệm 52 năm",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "strict and clear discipline"
+        "dict_definition": "to celebrate, commemorate the 52nd anniversary (of something)"
+      }
+    ]
+  },
+  {
+    "word": "kỷ hành",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "travel notes"
       }
     ]
   },
@@ -243,33 +161,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@kỷ phần\n- Phần riêng của mình."
-      }
-    ]
-  },
-  {
-    "word": "kỷ lục cao nhất lịch sử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-record high"
-      }
-    ]
-  },
-  {
-    "word": "kỷ luật thu chi quốc tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-balance-of-payments discipline"
-      }
-    ]
-  },
-  {
-    "word": "kỷ lục chưa từng có",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-all-time record"
       }
     ]
   },
@@ -299,38 +190,11 @@
     ]
   },
   {
-    "word": "kỷ tôn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Kỷ Tôn\n- Đời Đông Hán, Kỷ Tôn là tướng của Đông Bình Vương, nói với Vương rằng:\" Thiên hạ đều nói Kỷ Tôn này là dũng, nhưng Kỷ Tôn này có làm được cho Quý An cũng dũng được như mình thì mới gọi là Dũng vậy.\""
-      }
-    ]
-  },
-  {
     "word": "kỷ luật khắt khe",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "strict disciple"
-      }
-    ]
-  },
-  {
-    "word": "kỷ luật báo động hơi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gas discipline"
-      }
-    ]
-  },
-  {
-    "word": "kỷ tín",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Kỷ Tín\n- Tướng của Hán Cao Tổ Lưu Bang, lúc Cao Tổ bị Hạng Vũ vây đánh rất nguy cấp, Kỷ Tín bèn giả làm Hán Cao Tổ ra hàng để đánh lừa Hạng Vũ, nhân thế mà Cao Tổ thoát nạn. Sau Kỷ Tín bị Hạng Vũ thiêu chết"
       }
     ]
   },
@@ -360,20 +224,11 @@
     ]
   },
   {
-    "word": "kỷ hành",
+    "word": "kỷ luật nghiêm minh",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "travel notes"
-      }
-    ]
-  },
-  {
-    "word": "kỷ luật sản xuất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-production discipline"
+        "dict_definition": "strict and clear discipline"
       }
     ]
   },
@@ -387,11 +242,156 @@
     ]
   },
   {
-    "word": "kỷ lục thấp nhất lịch sử",
+    "word": "kỷ lược",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to summarize"
+      }
+    ]
+  },
+  {
+    "word": "kỷ tôn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Kỷ Tôn\n- Đời Đông Hán, Kỷ Tôn là tướng của Đông Bình Vương, nói với Vương rằng:\" Thiên hạ đều nói Kỷ Tôn này là dũng, nhưng Kỷ Tôn này có làm được cho Quý An cũng dũng được như mình thì mới gọi là Dũng vậy.\""
+      }
+    ]
+  },
+  {
+    "word": "kỷ lục cao nhất chưa từng có (về giá cả hàng hóa)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-record low"
+        "dict_definition": "@Chuyên ngành kinh tế\n-all high"
+      }
+    ]
+  },
+  {
+    "word": "kỷ luật ngặt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a strict discipline"
+      }
+    ]
+  },
+  {
+    "word": "kỷ luật báo động hơi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gas discipline"
+      }
+    ]
+  },
+  {
+    "word": "kỷ niệm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem kỉ niệm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@kỷ niệm\n- I. d. 1. Điều ghi nhớ lại : Những kỷ niệm êm đềm. 2. Vật tặng cho nhau để ghi nhớ : Tặng tập ảnh làm kỷ niệm. II. t. Để ghi nhớ : Lễ kỷ niệm ; Đài kỷ niệm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kỷ niệm\n*noun\n-memory; souvenir; keep sake\n=những kỷ niệm hãy còn nóng hổi\n+Memories still green*verb\n-to commemorate\n=lễ kỷ niệm\n+commemoration"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@kỷ niệm\n* noun\n-memory; souvenir; keep sake\n=những kỷ niệm hãy còn nóng hổi+Memories still green\n* verb\n-to commemorate\n=lễ kỷ niệm+commemoration"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "memory, remembrance, anniversary, reminiscence; to commemorate, remember"
+      }
+    ]
+  },
+  {
+    "word": "kỷ luật tự giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-self-discipline"
+      }
+    ]
+  },
+  {
+    "word": "kỷ tín",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Kỷ Tín\n- Tướng của Hán Cao Tổ Lưu Bang, lúc Cao Tổ bị Hạng Vũ vây đánh rất nguy cấp, Kỷ Tín bèn giả làm Hán Cao Tổ ra hàng để đánh lừa Hạng Vũ, nhân thế mà Cao Tổ thoát nạn. Sau Kỷ Tín bị Hạng Vũ thiêu chết"
+      }
+    ]
+  },
+  {
+    "word": "kỷ luật sản xuất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-production discipline"
+      }
+    ]
+  },
+  {
+    "word": "kỷ vật",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem kỉ vật"
+      }
+    ]
+  },
+  {
+    "word": "kỷ luật thu chi quốc tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-balance-of-payments discipline"
+      }
+    ]
+  },
+  {
+    "word": "kỷ nguyên của thông tin",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "information age"
+      }
+    ]
+  },
+  {
+    "word": "kỷ yếu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem kỉ yếu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@kỷ yếu\n- Ghi chép những điều cốt yếu: Tập kỷ yếu của một hội."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@kỷ yếu [kỷ yếu]\n-yearbook\n-summary record\n@Chuyên ngành kinh tế\n-memorandum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bulletin, annals"
+      }
+    ]
+  },
+  {
+    "word": "kỷ hà",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "geometry"
       }
     ]
   }

@@ -1,23 +1,5 @@
 [
   {
-    "word": "vãi đái ra quần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pee in one’s pants"
-      }
-    ]
-  },
-  {
-    "word": "vãi linh hồn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sợ hãi đến mức như mất hết cả tinh thần, hồn vía"
-      }
-    ]
-  },
-  {
     "word": "vãng lai",
     "definitions": [
       {
@@ -43,37 +25,15 @@
     ]
   },
   {
-    "word": "vãn sinh",
+    "word": "vãn duyên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vãn sinh - I (your student), a lateborn"
+        "dict_definition": "@vãn duyên\n*danh từ\n-love (or friendship) late in life, late encounter (in love)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "i (your student), a lateborn"
-      }
-    ]
-  },
-  {
-    "word": "vãn niên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vãn niên - late year\n-old age"
-      }
-    ]
-  },
-  {
-    "word": "vãng cảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vãng cảnh - to visit a site"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to visit a site"
+        "dict_definition": "love (or friendship) late in life, late encounter (in love)"
       }
     ]
   },
@@ -99,45 +59,11 @@
     ]
   },
   {
-    "word": "vãn ca",
+    "word": "vãi ra",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@vãn ca\n*danh từ\n-funeral song"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "funeral song"
-      }
-    ]
-  },
-  {
-    "word": "vãn cảnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đến để ngắm cảnh\nVí dụ:\n- ông đang vãn cảnh chùa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vãn cảnh\n*động từ\n-visit a site"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "visit a site"
-      }
-    ]
-  },
-  {
-    "word": "vãn duyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vãn duyên\n*danh từ\n-love (or friendship) late in life, late encounter (in love)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "love (or friendship) late in life, late encounter (in love)"
+        "dict_definition": "to spill out, spread out"
       }
     ]
   },
@@ -175,6 +101,50 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to spew, spread"
+      }
+    ]
+  },
+  {
+    "word": "vãi linh hồn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sợ hãi đến mức như mất hết cả tinh thần, hồn vía"
+      }
+    ]
+  },
+  {
+    "word": "vãi đái ra quần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pee in one’s pants"
+      }
+    ]
+  },
+  {
+    "word": "vãn sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vãn sinh - I (your student), a lateborn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "i (your student), a lateborn"
+      }
+    ]
+  },
+  {
+    "word": "vãng cảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vãng cảnh - to visit a site"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to visit a site"
       }
     ]
   },
@@ -230,11 +200,19 @@
     ]
   },
   {
-    "word": "vãi ra",
+    "word": "vãn cảnh",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đến để ngắm cảnh\nVí dụ:\n- ông đang vãn cảnh chùa"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vãn cảnh\n*động từ\n-visit a site"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to spill out, spread out"
+        "dict_definition": "visit a site"
       }
     ]
   },
@@ -260,6 +238,28 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to recover, restore"
+      }
+    ]
+  },
+  {
+    "word": "vãn ca",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vãn ca\n*danh từ\n-funeral song"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "funeral song"
+      }
+    ]
+  },
+  {
+    "word": "vãn niên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vãn niên - late year\n-old age"
       }
     ]
   }

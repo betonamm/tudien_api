@@ -1,136 +1,89 @@
 [
   {
-    "word": "răng thẳng ngược",
+    "word": "răng sữa",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "răng mọc ở trẻ con và thú nhỏ, khi lớn lên thì rụng đi và được thay bằng răng khác"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng sữa\n- Răng trẻ con mới mọc, chưa thay."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-straight back tooth"
+        "dict_definition": "@răng sữa\n-Milk-tooth\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-decidous dentition\n-deciduous teeth"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răng sữa\n- Milk-tooth"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "milk-tooth"
       }
     ]
   },
   {
-    "word": "răng bánh xe",
+    "word": "răng nạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wheel tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rake"
       }
     ]
   },
   {
-    "word": "răng chuyển chỗ",
+    "word": "răng miết bóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-migration of tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-burnishing tooth"
       }
     ]
   },
   {
-    "word": "răng lớn",
+    "word": "răng đáy bể tiêu năng (làm nhám)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-coarse series screw"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stilling tooth"
       }
     ]
   },
   {
-    "word": "răng xycloit",
+    "word": "răng sứ, chụp sứ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cycloidal gear teeth\n-cycloidal-profile teeth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-porcelain crown"
       }
     ]
   },
   {
-    "word": "răng của bánh xe",
+    "word": "răng dính liền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cog"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acrodont"
       }
     ]
   },
   {
-    "word": "răng cửa bên",
+    "word": "răng gleason của bánh răng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lateral incisor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Gleason gear teeth"
       }
     ]
   },
   {
-    "word": "răng gầu",
+    "word": "răng thẳng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lip"
-      }
-    ]
-  },
-  {
-    "word": "răng kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dentimeter"
-      }
-    ]
-  },
-  {
-    "word": "răng vát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tapered teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng trên bánh răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-whelp"
-      }
-    ]
-  },
-  {
-    "word": "răng thưa mọc bên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-peridens"
-      }
-    ]
-  },
-  {
-    "word": "răng bốn núm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-quadricuspid"
-      }
-    ]
-  },
-  {
-    "word": "răng bi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ball groove"
-      }
-    ]
-  },
-  {
-    "word": "răng (mộng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tusk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spur teeth\n-straight-tooth"
       }
     ]
   },
@@ -144,129 +97,83 @@
     ]
   },
   {
-    "word": "răng cưa",
+    "word": "răng tháo lắp được",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "những phần nhọn nhô ra một cách đều đặn ở rìa một vật nào đó, trông tựa như răng của lưỡi cưa\nVí dụ:\n- lá răng cưa \n - cắt răng cưa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng cưa\n- Có hình lồi ra lõm vào như răng ở lưỡi cưa: Lá răng cưa. Bánh xe răng cưa. X. Răng, ngh.3."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@răng cưa\n-Serrated\n=Lá răng cưa\n+Serrated leaves\n=Bánh xe răng cưa\n+A cog-wheel\n@Chuyên ngành kỹ thuật\n-aliasing\n-cam\n-castellated\n-indentation\n-prong\n-tooth\n@Lĩnh vực: toán & tin\n-jaggies\n@Lĩnh vực: xây dựng\n-sawtooth"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răng cưa\n- Serrated\n=Lá răng cưa+Serrated leaves\n=Bánh xe răng cưa+A cog-wheel"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-reversible tooth"
       }
     ]
   },
   {
-    "word": "răng không đều",
+    "word": "răng lưỡi khoan",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anisodont"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drill edge"
       }
     ]
   },
   {
-    "word": "răng sứ",
+    "word": "răng lốm đốm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental porcelain"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mottied teeth"
       }
     ]
   },
   {
-    "word": "răng gàu máy đào",
+    "word": "răng bàn cào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-digging bucket teeth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-scarifier teeth\n@Lĩnh vực: cơ khí & công trình\n-scarifier teeth (rake teeth)"
       }
     ]
   },
   {
-    "word": "răng cửa",
+    "word": "răng đúc",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "răng dẹp và sắc ở phía trước hàm, dùng để cắn thức ăn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng cửa\n- d. Răng dẹp và sắc ở phía trước hàm, dùng để cắn thức ăn."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@răng cửa\n-danh từ incisor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anterior teeth\n-incisor"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răng cửa\n- danh từ incisor"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "incisor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roughing tooth"
       }
     ]
   },
   {
-    "word": "răng trên dụng cụ",
+    "word": "răng nhọn đầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-saw tooth"
       }
     ]
   },
   {
-    "word": "răng chó (cá)",
+    "word": "răng cấm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dog\"s teeth"
+        "dict_definition": "@răng cấm [răng cấm]\n-xem"
       }
     ]
   },
   {
-    "word": "răng (cưa)",
+    "word": "răng được hớt lưng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dent\n-dented\n-jag"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-backed-off teeth\n-relieved teeth"
       }
     ]
   },
   {
-    "word": "răng mặt trước lõm",
+    "word": "răng gàu xúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hook tooth\n-hooked tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng (bánh răng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mill-cog\n-tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng ăn khớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-locked teeth\n-mating teeth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bucket lip"
       }
     ]
   },
@@ -296,77 +203,74 @@
     ]
   },
   {
-    "word": "răng cắt của dao chuốt",
+    "word": "răng trên bánh răng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roughing tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-whelp"
       }
     ]
   },
   {
-    "word": "răng to, có răng to",
+    "word": "răng chuyển chỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-macrodontic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-migration of tooth"
       }
     ]
   },
   {
-    "word": "răng tiêu năng",
+    "word": "răng thưa mọc bên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dragon\"s tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-peridens"
       }
     ]
   },
   {
-    "word": "răng bánh răng xycloit",
+    "word": "răng bàn cuốc",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cycloidal gear teeth\n-cycloidal-profile teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng rắc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như rắc [nhưng với ý liên tiếp]\nVí dụ:\n- cành cây gãy răng rắc"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng rắc\n- Tiếng phát ra từ những vật gì giòn khi gãy hoặc sát vào nhau: Tre gãy răng rắc; Bẻ khục kêu răng rắc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răng rắc\n-xem rắc (láy)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răng rắc\n- xem rắc (láy)"
+        "dict_definition": "@răng bàn cuốc\n- Răng cửa quá to ở hàm trên."
       }
     ]
   },
   {
-    "word": "răng khớp xoắn ốc",
+    "word": "răng vát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-helical teeth\n-spiral gearing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tapered teeth"
       }
     ]
   },
   {
-    "word": "răng sứ, chụp sứ",
+    "word": "răng máy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-porcelain crown"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tap pet"
+      }
+    ]
+  },
+  {
+    "word": "răng bốn núm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-quadricuspid"
+      }
+    ]
+  },
+  {
+    "word": "răng bổ đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rock cutting tooth"
       }
     ]
   },
@@ -380,128 +284,20 @@
     ]
   },
   {
-    "word": "răng cải mả",
+    "word": "răng không đều",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng cải mả\n- X. Cải mả."
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anisodont"
       }
     ]
   },
   {
-    "word": "răng gàu",
+    "word": "răng nứu",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bucket tooth\n-lip"
-      }
-    ]
-  },
-  {
-    "word": "răng cửa giữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-central insisor"
-      }
-    ]
-  },
-  {
-    "word": "răng sữa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "răng mọc ở trẻ con và thú nhỏ, khi lớn lên thì rụng đi và được thay bằng răng khác"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng sữa\n- Răng trẻ con mới mọc, chưa thay."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răng sữa\n-Milk-tooth\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-decidous dentition\n-deciduous teeth"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răng sữa\n- Milk-tooth"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "milk-tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng vĩnh viễn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-permanent dentition"
-      }
-    ]
-  },
-  {
-    "word": "răng đối kháng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-antagonist"
-      }
-    ]
-  },
-  {
-    "word": "răm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răm\n- d. Nh. Rau răm: Thịt bò thuôn răm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răm\n-Fragrant khotweed"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răm\n- Fragrant khotweed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fragrant khotweed"
-      }
-    ]
-  },
-  {
-    "word": "răng gàu xúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bucket lip"
-      }
-    ]
-  },
-  {
-    "word": "răn đe",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nói cho biết rõ điều tai hại với mục đích ngăn cấm, kèm theo ý đe doạ\nVí dụ:\n- anh răn đe chúng tôi không được làm bậy"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răn đe\n-Deter\n=Lực lượng răn đe\n+Deterrent forces"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răn đe\n- Deter\n=Lực lượng răn đe+Deterrent forces"
-      }
-    ]
-  },
-  {
-    "word": "răng tam giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fleam tooth\n-stub tooth"
+        "dict_definition": "alveolar-dental"
       }
     ]
   },
@@ -531,38 +327,11 @@
     ]
   },
   {
-    "word": "răng, vấu",
+    "word": "răng bằng sứ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-serration"
-      }
-    ]
-  },
-  {
-    "word": "răng trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pivot teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng cào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rake"
-      }
-    ]
-  },
-  {
-    "word": "răng miết bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-burnishing tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-porcelain tooth"
       }
     ]
   },
@@ -592,11 +361,229 @@
     ]
   },
   {
-    "word": "răng lưỡi khoan",
+    "word": "răng sửa đúng (dao chuốt)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drill edge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-finishing tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng giả",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng giả\n- dt Răng nhân tạo thay răng tự nhiên: Về già nhai bằng răng giả."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răng giả\n*noun\n-false teeth ; artifcial teeth\n@Chuyên ngành kỹ thuật\n-artificial crown\n-artificial dentition\n-artificial denture\n-artificial tooth\n-dental prosthesis"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răng giả\n* noun\n- false teeth ; artifcial teeth"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "false tooth, denture"
+      }
+    ]
+  },
+  {
+    "word": "răng vĩnh viễn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-permanent dentition"
+      }
+    ]
+  },
+  {
+    "word": "răng hàm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "răng lớn, mặt nhai rộng, ở phía trong hàm, dùng để nghiền thức ăn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng hàm\n- Răng lớn, mặt phẳng, mọc ở phía trong hàm, dùng để nghiền thức ăn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răng hàm\n-Molar\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cheek teeth\n-molar"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răng hàm\n- Molar"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "molar"
+      }
+    ]
+  },
+  {
+    "word": "răng hợp kim (mâm đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-light-alloy wheels"
+      }
+    ]
+  },
+  {
+    "word": "răng chó (cá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dog\"s teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng buồng xoắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nose of spiral casing"
+      }
+    ]
+  },
+  {
+    "word": "răng cắt (máng rạch)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cutting teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-serration"
+      }
+    ]
+  },
+  {
+    "word": "răng lưỡi cưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-saw tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng mặt trước hướng kính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-radial tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng sứ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental porcelain"
+      }
+    ]
+  },
+  {
+    "word": "răng gàu máy đào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-digging bucket teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng bánh răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-gear tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng, vấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-serration"
+      }
+    ]
+  },
+  {
+    "word": "răng thô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roughing tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng (về)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dental"
+      }
+    ]
+  },
+  {
+    "word": "răn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chỉ cho những điều sai trái và tác hại của nó để biết mà tránh làm việc xấu\nVí dụ:\n- tự răn mình \n - \"Thưa rằng: Bác mẹ em răn, Làm thân con gái chớ ăn trầu người.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răn\n- đg. Cg. Răn bảo. Nói điều hơn lẽ phải để thúc đẩy làm theo: Đẻ con chẳng dạy chẳng răn, Thà rằng nuôi lợn cho ăn lấy lòng (cd)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răn\n-Admonish\n=Răn con cái\n+To admonish one\"s children"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răn\n- Admonish\n=Răn con cái+To admonish one's children"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to advise, council, warn"
+      }
+    ]
+  },
+  {
+    "word": "răng rắc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như rắc [nhưng với ý liên tiếp]\nVí dụ:\n- cành cây gãy răng rắc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng rắc\n- Tiếng phát ra từ những vật gì giòn khi gãy hoặc sát vào nhau: Tre gãy răng rắc; Bẻ khục kêu răng rắc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răng rắc\n-xem rắc (láy)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răng rắc\n- xem rắc (láy)"
       }
     ]
   },
@@ -634,99 +621,6 @@
     ]
   },
   {
-    "word": "răng cạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shave tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng cửa (ngựa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-nipper"
-      }
-    ]
-  },
-  {
-    "word": "răng đáy bể tiêu năng (làm nhám)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stilling tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng giả",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng giả\n- dt Răng nhân tạo thay răng tự nhiên: Về già nhai bằng răng giả."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răng giả\n*noun\n-false teeth ; artifcial teeth\n@Chuyên ngành kỹ thuật\n-artificial crown\n-artificial dentition\n-artificial denture\n-artificial tooth\n-dental prosthesis"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răng giả\n* noun\n- false teeth ; artifcial teeth"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "false tooth, denture"
-      }
-    ]
-  },
-  {
-    "word": "răng bổ đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rock cutting tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng mặt trước hướng kính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-radial tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng mài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ground teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng đôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-geminate teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng bàn cuốc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng bàn cuốc\n- Răng cửa quá to ở hàm trên."
-      }
-    ]
-  },
-  {
     "word": "răng bánh khía",
     "definitions": [
       {
@@ -736,100 +630,11 @@
     ]
   },
   {
-    "word": "răng gàu máy xúc",
+    "word": "răng lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dipper tooth"
-      }
-    ]
-  },
-  {
-    "word": "răn dạy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "răn và dạy bảo một cách nghiêm khắc cho biết điều hơn lẽ phải\nVí dụ:\n- răn dạy con cái \n - từ khi ba mẹ mất, chị ấy răn dạy các em đủ thứ"
-      }
-    ]
-  },
-  {
-    "word": "răng móc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răng móc\n-Fang (of snake)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răng móc\n- Fang (of snake)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fang (of snake)"
-      }
-    ]
-  },
-  {
-    "word": "răng mọc không đều",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoloxia"
-      }
-    ]
-  },
-  {
-    "word": "răng cấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răng cấm [răng cấm]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "răng cắt máy đánh rạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting bit"
-      }
-    ]
-  },
-  {
-    "word": "răng bộ phận cào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scarifier tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng khía nghiêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flute spiral\n-spiral corrugation spiral"
-      }
-    ]
-  },
-  {
-    "word": "răng (về)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dental"
-      }
-    ]
-  },
-  {
-    "word": "răng nhọn đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-saw tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-coarse series screw"
       }
     ]
   },
@@ -847,188 +652,47 @@
     ]
   },
   {
-    "word": "răng vẩu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng vẩu\n- Răng cửa mọc chìa ra ngoài miệng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răng vẩu [răng vẩu]\n-cũng như\n-buck teeth (projecting top teeth)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-clutch"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "buck teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng được hớt lưng",
+    "word": "răng của bánh xe",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-backed-off teeth\n-relieved teeth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cog"
       }
     ]
   },
   {
-    "word": "răng giữa",
+    "word": "răng cào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mesiodens"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rake"
       }
     ]
   },
   {
-    "word": "răng vùn, răng mọc ngầm",
+    "word": "răng khớp xoắn ốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental inclusion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-helical teeth\n-spiral gearing"
       }
     ]
   },
   {
-    "word": "răng hợp kim (mâm đúc)",
+    "word": "răng bánh răng xycloit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-light-alloy wheels"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cycloidal gear teeth\n-cycloidal-profile teeth"
       }
     ]
   },
   {
-    "word": "răng máy",
+    "word": "răng bộ phận cào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tap pet"
-      }
-    ]
-  },
-  {
-    "word": "răng cong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-helical teeth\n-hypoid teeth"
-      }
-    ]
-  },
-  {
-    "word": "răn reo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhăn nheo"
-      }
-    ]
-  },
-  {
-    "word": "răng ăn ngàm sang số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gearshift teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng cắt (máng rạch)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cutting teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roughing tooth"
-      }
-    ]
-  },
-  {
-    "word": "răn rắn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hơi rắn\nVí dụ:\n- chạm phải một vật răn rắn"
-      }
-    ]
-  },
-  {
-    "word": "răng bằng sứ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-porcelain tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng dao phay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-knife"
-      }
-    ]
-  },
-  {
-    "word": "răng hàm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "răng lớn, mặt nhai rộng, ở phía trong hàm, dùng để nghiền thức ăn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răng hàm\n- Răng lớn, mặt phẳng, mọc ở phía trong hàm, dùng để nghiền thức ăn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răng hàm\n-Molar\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cheek teeth\n-molar"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răng hàm\n- Molar"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "molar"
-      }
-    ]
-  },
-  {
-    "word": "răng tháo lắp được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-reversible tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng thẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spur teeth\n-straight-tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng bánh răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-gear tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scarifier tooth"
       }
     ]
   },
@@ -1042,11 +706,29 @@
     ]
   },
   {
-    "word": "răng nhỏ thân khai",
+    "word": "răng cửa (ngựa)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-involute serrations\n-involute spline"
+        "dict_definition": "@Chuyên ngành kinh tế\n-nipper"
+      }
+    ]
+  },
+  {
+    "word": "răng gàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bucket tooth\n-lip"
+      }
+    ]
+  },
+  {
+    "word": "răng mặt trước lõm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hook tooth\n-hooked tooth"
       }
     ]
   },
@@ -1060,83 +742,19 @@
     ]
   },
   {
-    "word": "răng, răng cưa",
+    "word": "răn đe",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nói cho biết rõ điều tai hại với mục đích ngăn cấm, kèm theo ý đe doạ\nVí dụ:\n- anh răn đe chúng tôi không được làm bậy"
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-indented"
-      }
-    ]
-  },
-  {
-    "word": "răng xoắn (khớp xoắn)",
-    "definitions": [
+        "dict_definition": "@răn đe\n-Deter\n=Lực lượng răn đe\n+Deterrent forces"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spiral toothing"
-      }
-    ]
-  },
-  {
-    "word": "răng (của) bánh răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gear tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng lốm đốm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mottied teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng cong của bánh răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gleason gear teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng nứu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "alveolar-dental"
-      }
-    ]
-  },
-  {
-    "word": "răng nạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rake"
-      }
-    ]
-  },
-  {
-    "word": "răng tam giác đối xứng (cưa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-peg tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng dư (trong nha khoa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-supernumerary"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răn đe\n- Deter\n=Lực lượng răn đe+Deterrent forces"
       }
     ]
   },
@@ -1154,56 +772,56 @@
     ]
   },
   {
-    "word": "răng nhỏ",
+    "word": "răng tam giác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-serration"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fleam tooth\n-stub tooth"
       }
     ]
   },
   {
-    "word": "răng (bánh xe)",
+    "word": "răng trụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-teeth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pivot teeth"
       }
     ]
   },
   {
-    "word": "răng cố định",
+    "word": "răn dạy",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-solid"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "răn và dạy bảo một cách nghiêm khắc cho biết điều hơn lẽ phải\nVí dụ:\n- răn dạy con cái \n - từ khi ba mẹ mất, chị ấy răn dạy các em đủ thứ"
       }
     ]
   },
   {
-    "word": "răng lung lay",
+    "word": "răng (mộng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-wandering of a tooth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tusk"
       }
     ]
   },
   {
-    "word": "răng gleason của bánh răng",
+    "word": "răng cắt máy đánh rạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-Gleason gear teeth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cutting bit"
       }
     ]
   },
   {
-    "word": "răng bàn cào",
+    "word": "răng cải mả",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-scarifier teeth\n@Lĩnh vực: cơ khí & công trình\n-scarifier teeth (rake teeth)"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng cải mả\n- X. Cải mả."
       }
     ]
   },
@@ -1229,90 +847,20 @@
     ]
   },
   {
-    "word": "răng thô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roughing tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng buồng xoắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nose of spiral casing"
-      }
-    ]
-  },
-  {
-    "word": "răng khía",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tooth, teeth"
-      }
-    ]
-  },
-  {
-    "word": "răng dao cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chaser"
-      }
-    ]
-  },
-  {
-    "word": "răn",
+    "word": "răn reo",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chỉ cho những điều sai trái và tác hại của nó để biết mà tránh làm việc xấu\nVí dụ:\n- tự răn mình \n - \"Thưa rằng: Bác mẹ em răn, Làm thân con gái chớ ăn trầu người.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@răn\n- đg. Cg. Răn bảo. Nói điều hơn lẽ phải để thúc đẩy làm theo: Đẻ con chẳng dạy chẳng răn, Thà rằng nuôi lợn cho ăn lấy lòng (cd)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@răn\n-Admonish\n=Răn con cái\n+To admonish one\"s children"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@răn\n- Admonish\n=Răn con cái+To admonish one's children"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to advise, council, warn"
+        "dict_definition": "xem nhăn nheo"
       }
     ]
   },
   {
-    "word": "răng lưỡi cưa",
+    "word": "răn rắn",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-saw tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng sửa đúng (dao chuốt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-finishing tooth"
-      }
-    ]
-  },
-  {
-    "word": "răng dính liền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acrodont"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hơi rắn\nVí dụ:\n- chạm phải một vật răn rắn"
       }
     ]
   },
@@ -1326,11 +874,463 @@
     ]
   },
   {
+    "word": "răng giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mesiodens"
+      }
+    ]
+  },
+  {
+    "word": "răng ăn ngàm sang số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gearshift teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng tiêu năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dragon\"s tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng đối kháng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-antagonist"
+      }
+    ]
+  },
+  {
+    "word": "răng (cưa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dent\n-dented\n-jag"
+      }
+    ]
+  },
+  {
+    "word": "răng dao cắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chaser"
+      }
+    ]
+  },
+  {
+    "word": "răng bi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ball groove"
+      }
+    ]
+  },
+  {
+    "word": "răng lung lay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-wandering of a tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng to, có răng to",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-macrodontic"
+      }
+    ]
+  },
+  {
+    "word": "răng cạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shave tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng cố định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-solid"
+      }
+    ]
+  },
+  {
+    "word": "răng cắt của dao chuốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roughing tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng (của) bánh răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gear tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng vẩu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng vẩu\n- Răng cửa mọc chìa ra ngoài miệng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răng vẩu [răng vẩu]\n-cũng như\n-buck teeth (projecting top teeth)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-clutch"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "buck teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng cưa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "những phần nhọn nhô ra một cách đều đặn ở rìa một vật nào đó, trông tựa như răng của lưỡi cưa\nVí dụ:\n- lá răng cưa \n - cắt răng cưa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng cưa\n- Có hình lồi ra lõm vào như răng ở lưỡi cưa: Lá răng cưa. Bánh xe răng cưa. X. Răng, ngh.3."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răng cưa\n-Serrated\n=Lá răng cưa\n+Serrated leaves\n=Bánh xe răng cưa\n+A cog-wheel\n@Chuyên ngành kỹ thuật\n-aliasing\n-cam\n-castellated\n-indentation\n-prong\n-tooth\n@Lĩnh vực: toán & tin\n-jaggies\n@Lĩnh vực: xây dựng\n-sawtooth"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răng cưa\n- Serrated\n=Lá răng cưa+Serrated leaves\n=Bánh xe răng cưa+A cog-wheel"
+      }
+    ]
+  },
+  {
+    "word": "răng tam giác đối xứng (cưa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-peg tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng vùn, răng mọc ngầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dental inclusion"
+      }
+    ]
+  },
+  {
+    "word": "răng dao phay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-knife"
+      }
+    ]
+  },
+  {
+    "word": "răng trên dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng khía nghiêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-flute spiral\n-spiral corrugation spiral"
+      }
+    ]
+  },
+  {
+    "word": "răng (bánh răng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mill-cog\n-tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng gàu máy xúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dipper tooth"
+      }
+    ]
+  },
+  {
+    "word": "răm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răm\n- d. Nh. Rau răm: Thịt bò thuôn răm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răm\n-Fragrant khotweed"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răm\n- Fragrant khotweed"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fragrant khotweed"
+      }
+    ]
+  },
+  {
+    "word": "răng, răng cưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-indented"
+      }
+    ]
+  },
+  {
+    "word": "răng gầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lip"
+      }
+    ]
+  },
+  {
+    "word": "răng móc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răng móc\n-Fang (of snake)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răng móc\n- Fang (of snake)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fang (of snake)"
+      }
+    ]
+  },
+  {
+    "word": "răng nhỏ thân khai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-involute serrations\n-involute spline"
+      }
+    ]
+  },
+  {
+    "word": "răng thẳng ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-straight back tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng (bánh xe)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng cong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-helical teeth\n-hypoid teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng mọc không đều",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontoloxia"
+      }
+    ]
+  },
+  {
+    "word": "răng xycloit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cycloidal gear teeth\n-cycloidal-profile teeth"
+      }
+    ]
+  },
+  {
     "word": "răng trắng bóc",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "very white teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng dư (trong nha khoa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-supernumerary"
+      }
+    ]
+  },
+  {
+    "word": "răng cửa bên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lateral incisor"
+      }
+    ]
+  },
+  {
+    "word": "răng kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dentimeter"
+      }
+    ]
+  },
+  {
+    "word": "răng khía",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tooth, teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng mài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ground teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng cong của bánh răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gleason gear teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng ăn khớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-locked teeth\n-mating teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng cửa giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-central insisor"
+      }
+    ]
+  },
+  {
+    "word": "răng xoắn (khớp xoắn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spiral toothing"
+      }
+    ]
+  },
+  {
+    "word": "răng bánh xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wheel tooth"
+      }
+    ]
+  },
+  {
+    "word": "răng đôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-geminate teeth"
+      }
+    ]
+  },
+  {
+    "word": "răng cửa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "răng dẹp và sắc ở phía trước hàm, dùng để cắn thức ăn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@răng cửa\n- d. Răng dẹp và sắc ở phía trước hàm, dùng để cắn thức ăn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@răng cửa\n-danh từ incisor\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anterior teeth\n-incisor"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@răng cửa\n- danh từ incisor"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "incisor"
       }
     ]
   }

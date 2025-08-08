@@ -1,10 +1,10 @@
 [
   {
-    "word": "4 đường tròn",
+    "word": "4 kỳ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant gutter (quadgutter)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant gutter (quadgutter)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-stroke\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-stroke"
       }
     ]
   },
@@ -18,29 +18,20 @@
     ]
   },
   {
+    "word": "4 bánh dẫn hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-wheel steering\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-wheel steering"
+      }
+    ]
+  },
+  {
     "word": "4 bánh chủ động",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-wheel drive\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-wheel drive"
-      }
-    ]
-  },
-  {
-    "word": "4 hình tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant"
-      }
-    ]
-  },
-  {
-    "word": "4 máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-four-engined\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-four-engined"
       }
     ]
   },
@@ -54,20 +45,29 @@
     ]
   },
   {
-    "word": "4 kỳ",
+    "word": "4 đường tròn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-stroke\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-stroke"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant gutter (quadgutter)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant gutter (quadgutter)"
       }
     ]
   },
   {
-    "word": "4 bánh dẫn hướng",
+    "word": "4 máy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-wheel steering\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-four-wheel steering"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-four-engined\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-four-engined"
+      }
+    ]
+  },
+  {
+    "word": "4 hình tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrant"
       }
     ]
   }

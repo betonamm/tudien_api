@@ -1,134 +1,5 @@
 [
   {
-    "word": "dời chân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dời chân\n-(cũ, kiểu cách) Leave, go off"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dời chân\n- (cũ, kiểu cách) Leave, go off"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "leave, go off"
-      }
-    ]
-  },
-  {
-    "word": "dời chỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bump\n@Chuyên ngành kỹ thuật\n-dislocation\n-displace\n-displacement\n-move\n-transfer"
-      }
-    ]
-  },
-  {
-    "word": "dời hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-displacement\n-move picture"
-      }
-    ]
-  },
-  {
-    "word": "dời chữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-moving texts"
-      }
-    ]
-  },
-  {
-    "word": "dời đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-removal"
-      }
-    ]
-  },
-  {
-    "word": "dời tệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-moving files"
-      }
-    ]
-  },
-  {
-    "word": "dời sống chính trị",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "political life"
-      }
-    ]
-  },
-  {
-    "word": "dời đồ họa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving graphics"
-      }
-    ]
-  },
-  {
-    "word": "dời khung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving frames"
-      }
-    ]
-  },
-  {
-    "word": "dờn dờn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dờn dờn [dờn dờn]\n-green and lustrous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "green and lustrous"
-      }
-    ]
-  },
-  {
-    "word": "dời đoạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-moving sections"
-      }
-    ]
-  },
-  {
-    "word": "dời biên giới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving borders"
-      }
-    ]
-  },
-  {
-    "word": "dời đổi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thay đổi, không giữ nguyên như cũ\nVí dụ:\n- dời đổi vị trí"
-      }
-    ]
-  },
-  {
     "word": "dời",
     "definitions": [
       {
@@ -154,11 +25,47 @@
     ]
   },
   {
-    "word": "dời xuyên một tài liệu",
+    "word": "dời xuống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving through a document"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-move down"
+      }
+    ]
+  },
+  {
+    "word": "dời khung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving frames"
+      }
+    ]
+  },
+  {
+    "word": "dời hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-displacement\n-move picture"
+      }
+    ]
+  },
+  {
+    "word": "dời chữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-moving texts"
+      }
+    ]
+  },
+  {
+    "word": "dời tệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-moving files"
       }
     ]
   },
@@ -168,6 +75,108 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-transfer a house"
+      }
+    ]
+  },
+  {
+    "word": "dờn dờn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dờn dờn [dờn dờn]\n-green and lustrous"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "green and lustrous"
+      }
+    ]
+  },
+  {
+    "word": "dời chân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dời chân\n-(cũ, kiểu cách) Leave, go off"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dời chân\n- (cũ, kiểu cách) Leave, go off"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "leave, go off"
+      }
+    ]
+  },
+  {
+    "word": "dời sống chính trị",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "political life"
+      }
+    ]
+  },
+  {
+    "word": "dời đổi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thay đổi, không giữ nguyên như cũ\nVí dụ:\n- dời đổi vị trí"
+      }
+    ]
+  },
+  {
+    "word": "dời đồ họa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving graphics"
+      }
+    ]
+  },
+  {
+    "word": "dời giữa hai kính cửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving between panes"
+      }
+    ]
+  },
+  {
+    "word": "dời chỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bump\n@Chuyên ngành kỹ thuật\n-dislocation\n-displace\n-displacement\n-move\n-transfer"
+      }
+    ]
+  },
+  {
+    "word": "dời biên giới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving borders"
+      }
+    ]
+  },
+  {
+    "word": "dời đoạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-moving sections"
+      }
+    ]
+  },
+  {
+    "word": "dời đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-removal"
       }
     ]
   },
@@ -185,20 +194,11 @@
     ]
   },
   {
-    "word": "dời giữa hai kính cửa",
+    "word": "dời xuyên một tài liệu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving between panes"
-      }
-    ]
-  },
-  {
-    "word": "dời xuống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-move down"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-moving through a document"
       }
     ]
   }

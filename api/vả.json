@@ -1,64 +1,221 @@
 [
   {
-    "word": "vảy bong",
+    "word": "vải bông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-forge seale\n-hammer scale"
+        "dict_definition": "@vải bông [vải bông]\n-cotton\n@Chuyên ngành kỹ thuật\n-cotton"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cotton (cloth)"
       }
     ]
   },
   {
-    "word": "vải (lưới) kim loại",
+    "word": "vảy rèn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wire cloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-anvil scale\n-forge scale\n-forge seale\n-forging scale\n-hammer scale\n-hammer slag"
       }
     ]
   },
   {
-    "word": "vải jăcca",
+    "word": "vảy da, cao răng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-jacquard fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scale"
       }
     ]
   },
   {
-    "word": "vải can trong suốt",
+    "word": "vải thưa không dệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-transparent tracing cloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nonwoven scrim"
       }
     ]
   },
   {
-    "word": "vải rèm",
+    "word": "vải lều",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-casement cloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-canvas"
       }
     ]
   },
   {
-    "word": "vải thành phẩm",
+    "word": "vải kĩ thuật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-duck"
       }
     ]
   },
   {
-    "word": "vải phủ để bảo vệ",
+    "word": "vảy (sắt) rèn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crown cover"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-anvil cinder\n-forge cinder"
+      }
+    ]
+  },
+  {
+    "word": "vải làm bao bì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bag-cloth\n-sackcloth"
+      }
+    ]
+  },
+  {
+    "word": "vải sọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-striped fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải nhuộm phẩm điazo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cloth with diazo coating"
+      }
+    ]
+  },
+  {
+    "word": "vải lanh mịn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cambric\n@Lĩnh vực: dệt may\n-crisp"
+      }
+    ]
+  },
+  {
+    "word": "vải dùng trong gia đình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-household textiles"
+      }
+    ]
+  },
+  {
+    "word": "vải ráp vừa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-medium emery closure"
+      }
+    ]
+  },
+  {
+    "word": "vải bao bố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hessian"
+      }
+    ]
+  },
+  {
+    "word": "vải may âu phục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-suiting"
+      }
+    ]
+  },
+  {
+    "word": "vải bạt tẩm dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil canvas\n@Lĩnh vực: xây dựng\n-oiled canvas"
+      }
+    ]
+  },
+  {
+    "word": "vải cacborun",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-carborundum closure"
+      }
+    ]
+  },
+  {
+    "word": "vải may áo sơmi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-shirting"
+      }
+    ]
+  },
+  {
+    "word": "vải có lớp phủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coated fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải chéo nổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-twill"
+      }
+    ]
+  },
+  {
+    "word": "vảy đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-scale"
+      }
+    ]
+  },
+  {
+    "word": "vải lót dầu cách điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-varnished cambric"
+      }
+    ]
+  },
+  {
+    "word": "vảy (cá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-opercle"
+      }
+    ]
+  },
+  {
+    "word": "vải trét (chỗ nối)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oakum"
       }
     ]
   },
@@ -72,6 +229,178 @@
     ]
   },
   {
+    "word": "vảy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mảnh nhỏ và cứng bằng chất sừng hay xương úp lên nhau ở một số động vật có xương sống, có chức năng bảo vệ cơ thể\nVí dụ:\n- vảy ốc \n - vảy cá"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vật mỏng và nhỏ có hình vảy\nVí dụ:\n- mụn đã tróc vảy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vảy\n- 1 dt 1. Mảnh nhỏ và cứng xếp úp lên nhau ở ngoài da một số động vật như cá, tê tê: Đánh vảy cá; Vảy tê tê . 2. Vật trông giống vảy cá: Nốt đậu đã tróc vảy; Mụn đã đóng vảy.\n- 2 đgt 1. Té nước thành những hạt nhỏ: Vảy nước ra sân rồi mới quét để khỏi bốc bụi. 2. Giơ cao rổ rau mới rửa, rồi hất mạnh xuống để nước bắn ra: Vảy rổ rau sống."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vảy\n*noun\n-scale crust, scab operculum\n@Chuyên ngành kinh tế\n-scale\n-spray\n-squama\n@Chuyên ngành kỹ thuật\n-flack\n-flake\n-floss\n-scab\n-scale\n-scales\n-scotch\n-scute\n-slag"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vảy\n* noun\n- scale crust, scab operculum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "scale crust, scab operculum"
+      }
+    ]
+  },
+  {
+    "word": "vảy oxi hóa mỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thin scale"
+      }
+    ]
+  },
+  {
+    "word": "vải vóc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vải để may mặc [nói khái quát]\nVí dụ:\n- lụa là vải vóc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vải vóc\n*danh từ\n-material, cloth, fabric, stuff\n@Chuyên ngành kinh tế\n-mercery\n-yard-goods"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "material, cloth, fabric, stuff"
+      }
+    ]
+  },
+  {
+    "word": "vải làm bao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sacking"
+      }
+    ]
+  },
+  {
+    "word": "vải dày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bolting cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải tráng cao su",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rubberized cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải tẩm sáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oilcloth"
+      }
+    ]
+  },
+  {
+    "word": "vảy ốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vảy ốc\n*danh từ\n-goose-flesh\n-snail shell\"s valve"
+      }
+    ]
+  },
+  {
+    "word": "vải làm đai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-belting\n@Lĩnh vực: dệt may\n-webbing"
+      }
+    ]
+  },
+  {
+    "word": "vải mỏng trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-sheer"
+      }
+    ]
+  },
+  {
+    "word": "vải vân chéo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-twill"
+      }
+    ]
+  },
+  {
+    "word": "vải màn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vải màn [vải màn]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "vải sơn lót sàn nhà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-linoleum"
+      }
+    ]
+  },
+  {
+    "word": "vải jăcca",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-jacquard fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải sơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-linoleum\n-oilcloth"
+      }
+    ]
+  },
+  {
+    "word": "vải khăn trải giường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-width"
+      }
+    ]
+  },
+  {
     "word": "vải dệt kim đan ngang",
     "definitions": [
       {
@@ -81,29 +410,56 @@
     ]
   },
   {
-    "word": "vải làm buồm",
+    "word": "vải làm bao tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sailcloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bag-cloth\n-sackcloth"
       }
     ]
   },
   {
-    "word": "vải lót",
+    "word": "vải nền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bedspread\n-interlining\n-lining fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-backing fabric\n-ground cloth\n-ground fabric"
       }
     ]
   },
   {
-    "word": "vải khổ hẹp",
+    "word": "vải mộc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-narrow fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-plain fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-glass cloth\n@Lĩnh vực: xây dựng\n-glass tissue"
+      }
+    ]
+  },
+  {
+    "word": "vải đi mưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-waterproof fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải kỹ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial textile"
       }
     ]
   },
@@ -121,204 +477,20 @@
     ]
   },
   {
-    "word": "vải làm đai",
+    "word": "vải ráo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-belting\n@Lĩnh vực: dệt may\n-webbing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-emery closure"
       }
     ]
   },
   {
-    "word": "vảy rắn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ophitic"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt hoa nổi",
+    "word": "vảy gỉ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-jacquard fabric"
-      }
-    ]
-  },
-  {
-    "word": "vảy ốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vảy ốc\n*danh từ\n-goose-flesh\n-snail shell\"s valve"
-      }
-    ]
-  },
-  {
-    "word": "vải bọc động cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-engine hood"
-      }
-    ]
-  },
-  {
-    "word": "vải không thấm nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-burlap\n-canvas\n-enamel cloth\n-repellent\n-tarpaulin\n-waterproof cloth\n-waterproof fabric\n-waterproof sheet"
-      }
-    ]
-  },
-  {
-    "word": "vải tẩm nhựa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tarp\n-tarpaulin"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt xen kẽ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-union cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải ngâm tẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-impregnated fabric"
-      }
-    ]
-  },
-  {
-    "word": "vảy cá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vảy cá\n*danh từ\n-fish scales, cataract on eye\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fish scale"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fish scales, cataract on eye"
-      }
-    ]
-  },
-  {
-    "word": "vảy rèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-anvil scale\n-forge scale\n-forge seale\n-forging scale\n-hammer scale\n-hammer slag"
-      }
-    ]
-  },
-  {
-    "word": "vải lót (loại thô)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-backing fabric"
-      }
-    ]
-  },
-  {
-    "word": "vảy da, cao răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scale"
-      }
-    ]
-  },
-  {
-    "word": "vả xuân (quả vả thu hái vào mùa xuân)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-profichi"
-      }
-    ]
-  },
-  {
-    "word": "vải thấm bột nhám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emery cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải sợi kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-wire cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải kiện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vải đã gấp hoặc cuộn thành súc, được bày bán trên thị trường"
-      }
-    ]
-  },
-  {
-    "word": "vải lưới sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bolting cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải mỏng trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-sheer"
-      }
-    ]
-  },
-  {
-    "word": "vải tơ tafeta",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-taffeta"
-      }
-    ]
-  },
-  {
-    "word": "vải can",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tracing cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải sa tanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-satin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rust flake"
       }
     ]
   },
@@ -332,56 +504,353 @@
     ]
   },
   {
-    "word": "vảy hàn cứng",
+    "word": "vải amiăng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brazing metal\n-hard solder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-asbestos fabric"
       }
     ]
   },
   {
-    "word": "vải bố",
+    "word": "vải không nhúng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fabric\n@Lĩnh vực: xây dựng\n-linen"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-undipped fabric"
       }
     ]
   },
   {
-    "word": "vải lau",
+    "word": "vả xuân (quả vả thu hái vào mùa xuân)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cotton waste\n-mop"
+        "dict_definition": "@Chuyên ngành kinh tế\n-profichi"
       }
     ]
   },
   {
-    "word": "vải tẩm sáp",
+    "word": "vải kim loại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oilcloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filter metallic cloth"
       }
     ]
   },
   {
-    "word": "vải cốt lốp",
+    "word": "vải rèm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-carcass"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-casement cloth"
       }
     ]
   },
   {
-    "word": "vải may áo sơmi",
+    "word": "vảy (sơn tranh)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-shirting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scale"
+      }
+    ]
+  },
+  {
+    "word": "vảy xỉ (thủy tinh từ tâm lò)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-slag"
+      }
+    ]
+  },
+  {
+    "word": "vải bao tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sackcloth"
+      }
+    ]
+  },
+  {
+    "word": "vải muxơlin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mull"
+      }
+    ]
+  },
+  {
+    "word": "vải thêu mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sampler"
+      }
+    ]
+  },
+  {
+    "word": "vải sợi dệt lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-filter fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải không thấm nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-burlap\n-canvas\n-enamel cloth\n-repellent\n-tarpaulin\n-waterproof cloth\n-waterproof fabric\n-waterproof sheet"
+      }
+    ]
+  },
+  {
+    "word": "vải popơlin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-poplin"
+      }
+    ]
+  },
+  {
+    "word": "vải can trong suốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-transparent tracing cloth"
+      }
+    ]
+  },
+  {
+    "word": "vảy hoàn thiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-finishing slag"
+      }
+    ]
+  },
+  {
+    "word": "vải can (vẽ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tracing closure"
+      }
+    ]
+  },
+  {
+    "word": "vải lưới sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bolting cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải lưới dệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-woven-wire"
+      }
+    ]
+  },
+  {
+    "word": "vải dệt hoa nổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-jacquard fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải không ngâm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-undipped fabric"
+      }
+    ]
+  },
+  {
+    "word": "vảy thép cán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mill scale\n-roll coating"
+      }
+    ]
+  },
+  {
+    "word": "vảy cán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mill scale"
+      }
+    ]
+  },
+  {
+    "word": "vải sợi thủy tinh dệt kim",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-knitted glass fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải carô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-checks"
+      }
+    ]
+  },
+  {
+    "word": "vảy da",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-squame"
+      }
+    ]
+  },
+  {
+    "word": "vải bố nhám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-canvas emery"
+      }
+    ]
+  },
+  {
+    "word": "vải dệt xen kẽ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-union cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải crếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crepe"
+      }
+    ]
+  },
+  {
+    "word": "vải nhẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-lightweight fabric"
+      }
+    ]
+  },
+  {
+    "word": "vảy hàn đồng thau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brass solder"
+      }
+    ]
+  },
+  {
+    "word": "vải hắc ín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tarp\n-tarpaulin"
+      }
+    ]
+  },
+  {
+    "word": "vải bằng sợi kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wire cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải thô hộ cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-buckram"
+      }
+    ]
+  },
+  {
+    "word": "vải vụn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rag"
+      }
+    ]
+  },
+  {
+    "word": "vải ngâm tẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-impregnated fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải cao su",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rubberized fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải dầu dẫn lưu nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-current-conducting linoleum"
+      }
+    ]
+  },
+  {
+    "word": "vải thấm bột nhám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-emery cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải gai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fabric"
       }
     ]
   },
@@ -395,38 +864,47 @@
     ]
   },
   {
-    "word": "vải đái trong quần",
+    "word": "vải can",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wet oneself, pee one’s pants"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tracing cloth"
       }
     ]
   },
   {
-    "word": "vải thường",
+    "word": "vảy parafin",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-plain fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-white scale"
       }
     ]
   },
   {
-    "word": "vải nhám",
+    "word": "vải sa tanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-abrasive cloth\n-coated abrasive\n-emery cloth\n-emery clothes\n-sand cloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-satin"
       }
     ]
   },
   {
-    "word": "vải không ngâm",
+    "word": "vải có lớp tráng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-undipped fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coated fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải tẩm nhựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tarp\n-tarpaulin"
       }
     ]
   },
@@ -464,42 +942,96 @@
     ]
   },
   {
-    "word": "vải gai",
+    "word": "vải đái ra quần",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fabric"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wet one’s pants, pee in one’s pants"
       }
     ]
   },
   {
-    "word": "vải không dệt",
+    "word": "vải đái",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-nonwovens"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wet oneself, pee one’s pants"
       }
     ]
   },
   {
-    "word": "vảy (sắt) cán",
+    "word": "vải jacquard",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mill cinder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-jacquard fabric"
       }
     ]
   },
   {
-    "word": "vải bông",
+    "word": "vải bao bì",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vải bông [vải bông]\n-cotton\n@Chuyên ngành kỹ thuật\n-cotton"
+        "dict_definition": "@Chuyên ngành kinh tế\n-packing canvas\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hessian\n@Lĩnh vực: hóa học & vật liệu\n-pack cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải bố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fabric\n@Lĩnh vực: xây dựng\n-linen"
+      }
+    ]
+  },
+  {
+    "word": "vải liệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vải liệm [vải liệm"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cotton (cloth)"
+        "dict_definition": "winding-sheet, shroud"
+      }
+    ]
+  },
+  {
+    "word": "vải làm khăn bông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-towelling"
+      }
+    ]
+  },
+  {
+    "word": "vải thành phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải ráp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-abrasive closure\n-abrasive cloth\n-emery cloth\n-sand closure"
+      }
+    ]
+  },
+  {
+    "word": "vải sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-boling fabric\n-filter cloth\n-screen fabric"
       }
     ]
   },
@@ -513,363 +1045,11 @@
     ]
   },
   {
-    "word": "vải tóc (để làm rây)",
+    "word": "vải phần đầu tấm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-haircloth"
-      }
-    ]
-  },
-  {
-    "word": "vải lót dầu cách điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-varnished cambric"
-      }
-    ]
-  },
-  {
-    "word": "vải vân chéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-twill"
-      }
-    ]
-  },
-  {
-    "word": "vải vóc trong nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-home textiles"
-      }
-    ]
-  },
-  {
-    "word": "vải len",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-woollens"
-      }
-    ]
-  },
-  {
-    "word": "vảy thép cán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mill scale\n-roll coating"
-      }
-    ]
-  },
-  {
-    "word": "vải bò",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vải rất dày, chuyên dùng để may quần bò, áo bò"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vải bò\n*danh từ\n-jean"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "jean"
-      }
-    ]
-  },
-  {
-    "word": "vải lanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-linen"
-      }
-    ]
-  },
-  {
-    "word": "vảy cám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scurf"
-      }
-    ]
-  },
-  {
-    "word": "vải lanh mịn tẩm vécni",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-varnished cambric"
-      }
-    ]
-  },
-  {
-    "word": "vản",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "see vạn"
-      }
-    ]
-  },
-  {
-    "word": "vải sọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-striped fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải bạt tẩm nhựa đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tarred canvas"
-      }
-    ]
-  },
-  {
-    "word": "vải tráng cao su",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-rubberized cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải hay lông len anpaca",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-alpaca"
-      }
-    ]
-  },
-  {
-    "word": "vảy mốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-scurf"
-      }
-    ]
-  },
-  {
-    "word": "vảy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mảnh nhỏ và cứng bằng chất sừng hay xương úp lên nhau ở một số động vật có xương sống, có chức năng bảo vệ cơ thể\nVí dụ:\n- vảy ốc \n - vảy cá"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vật mỏng và nhỏ có hình vảy\nVí dụ:\n- mụn đã tróc vảy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vảy\n- 1 dt 1. Mảnh nhỏ và cứng xếp úp lên nhau ở ngoài da một số động vật như cá, tê tê: Đánh vảy cá; Vảy tê tê . 2. Vật trông giống vảy cá: Nốt đậu đã tróc vảy; Mụn đã đóng vảy.\n- 2 đgt 1. Té nước thành những hạt nhỏ: Vảy nước ra sân rồi mới quét để khỏi bốc bụi. 2. Giơ cao rổ rau mới rửa, rồi hất mạnh xuống để nước bắn ra: Vảy rổ rau sống."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vảy\n*noun\n-scale crust, scab operculum\n@Chuyên ngành kinh tế\n-scale\n-spray\n-squama\n@Chuyên ngành kỹ thuật\n-flack\n-flake\n-floss\n-scab\n-scale\n-scales\n-scotch\n-scute\n-slag"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vảy\n* noun\n- scale crust, scab operculum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "scale crust, scab operculum"
-      }
-    ]
-  },
-  {
-    "word": "vải thô hộ cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-buckram"
-      }
-    ]
-  },
-  {
-    "word": "vải nỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-felt"
-      }
-    ]
-  },
-  {
-    "word": "vải dày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bolting cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải sợi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "textile"
-      }
-    ]
-  },
-  {
-    "word": "vảy sắt nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-forge seale\n-forging scale"
-      }
-    ]
-  },
-  {
-    "word": "vải bố nhám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-canvas emery"
-      }
-    ]
-  },
-  {
-    "word": "vải để can vẽ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tracing cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải kỹ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial textile"
-      }
-    ]
-  },
-  {
-    "word": "vảy gỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rust flake"
-      }
-    ]
-  },
-  {
-    "word": "vải trải giường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bad sheet"
-      }
-    ]
-  },
-  {
-    "word": "vảnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem vểnh\nVí dụ:\n- con chó vảnh tai lên nghe ngóng \n - nó vảnh râu lên nhìn"
-      }
-    ]
-  },
-  {
-    "word": "vải khăn trải giường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-width"
-      }
-    ]
-  },
-  {
-    "word": "vải tẩm nhựa đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tarpaulin"
-      }
-    ]
-  },
-  {
-    "word": "vải trét (chỗ nối)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oakum"
-      }
-    ]
-  },
-  {
-    "word": "vảy kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cinder\n-iron scale\n-metal scale\n-scale\n-spangle"
-      }
-    ]
-  },
-  {
-    "word": "vảy parafin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-white scale"
-      }
-    ]
-  },
-  {
-    "word": "vải cách điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-empire closure\n-insulating closure\n@Lĩnh vực: hóa học & vật liệu\n-empire cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải nền lốp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-carcass"
-      }
-    ]
-  },
-  {
-    "word": "vảy oxi hóa mỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-thin scale"
-      }
-    ]
-  },
-  {
-    "word": "vải sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-boling fabric\n-filter cloth\n-screen fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-piece goods"
       }
     ]
   },
@@ -891,227 +1071,87 @@
     ]
   },
   {
-    "word": "vảy hàn",
+    "word": "vải dệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-solder\n-solder metal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fabric\n-web\n-woven fabric\n@Lĩnh vực: hóa học & vật liệu\n-wire cloth"
       }
     ]
   },
   {
-    "word": "vải thủy tinh dính kết",
+    "word": "vải dệt thoi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bonded glass cloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-cloth\n-woven fabric"
       }
     ]
   },
   {
-    "word": "vải ngăn",
+    "word": "vải để lọc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloth partition\n-fabric partition"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-filtering cloth"
       }
     ]
   },
   {
-    "word": "vải thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-glass cloth\n@Lĩnh vực: xây dựng\n-glass tissue"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt sợi pha",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-union cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải may âu phục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-suiting"
-      }
-    ]
-  },
-  {
-    "word": "vải làm bao bì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bag-cloth\n-sackcloth"
-      }
-    ]
-  },
-  {
-    "word": "vải can (vẽ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tracing closure"
-      }
-    ]
-  },
-  {
-    "word": "vải thêu mẫu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sampler"
-      }
-    ]
-  },
-  {
-    "word": "vải buồm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-canvas"
-      }
-    ]
-  },
-  {
-    "word": "vải không nhúng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-undipped fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải thô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-burlap\n-plain fabric\n-power fabric\n-sackcloth"
-      }
-    ]
-  },
-  {
-    "word": "vải xơ len tái sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-shoddy fabrics"
-      }
-    ]
-  },
-  {
-    "word": "vảy da",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-squame"
-      }
-    ]
-  },
-  {
-    "word": "vảy cặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-scale"
-      }
-    ]
-  },
-  {
-    "word": "vải trang sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-furnishing fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải bằng sợi kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wire cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải nhuộm phẩm điazo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cloth with diazo coating"
-      }
-    ]
-  },
-  {
-    "word": "vải ráp mịn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crocus closure\n-crocus cloth"
-      }
-    ]
-  },
-  {
-    "word": "vảy nến",
+    "word": "vảnh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bệnh ngoài da mãn tính, có những nốt tròn và ngứa, có lớp vảy che phủ, thường ở chân tóc"
+        "dict_definition": "xem vểnh\nVí dụ:\n- con chó vảnh tai lên nghe ngóng \n - nó vảnh râu lên nhìn"
       }
     ]
   },
   {
-    "word": "vải kim loại",
+    "word": "vải sô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filter metallic cloth"
+        "dict_definition": "@vải sô [vải sô]\n-coarse homespun fabric (used in mourning)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "coarse homespun fabric (used in mourning)"
       }
     ]
   },
   {
-    "word": "vảy (cá)",
+    "word": "vải lót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-opercle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bedspread\n-interlining\n-lining fabric"
       }
     ]
   },
   {
-    "word": "vải ráo",
+    "word": "vảy kim loại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-emery closure"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cinder\n-iron scale\n-metal scale\n-scale\n-spangle"
       }
     ]
   },
   {
-    "word": "vảy (sơn tranh)",
+    "word": "vải nhám",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scale"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-abrasive cloth\n-coated abrasive\n-emery cloth\n-emery clothes\n-sand cloth"
       }
     ]
   },
   {
-    "word": "vải để gói",
+    "word": "vải thường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-packing sheet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-plain fabric"
       }
     ]
   },
@@ -1125,50 +1165,6 @@
     ]
   },
   {
-    "word": "vảy mại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vảy mại\n*danh từ\n-cataract, film speck (in the eys)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cataract, film speck (in the eye)"
-      }
-    ]
-  },
-  {
-    "word": "vải lưới rây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-screen cloth\n-sieve covering"
-      }
-    ]
-  },
-  {
-    "word": "vải giả da",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hàng chế biến bằng hoá chất có cốt bằng vải, trông giống như da, dùng thay cho da"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mock leather"
-      }
-    ]
-  },
-  {
-    "word": "vải ép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pressure cloth"
-      }
-    ]
-  },
-  {
     "word": "vải phủ",
     "definitions": [
       {
@@ -1178,20 +1174,65 @@
     ]
   },
   {
-    "word": "vải đái ra quần",
+    "word": "vải may bao",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wet one’s pants, pee in one’s pants"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bagging"
       }
     ]
   },
   {
-    "word": "vải tráng mặt",
+    "word": "vải bọc động cơ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coated fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-engine hood"
+      }
+    ]
+  },
+  {
+    "word": "vải rây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-boling fabric\n-bolting cloth\n-filter cloth\n-sieve cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải thô không dệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nonwoven scrim"
+      }
+    ]
+  },
+  {
+    "word": "vải gốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground cloth\n-ground fabric"
+      }
+    ]
+  },
+  {
+    "word": "vảy sắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cinder\n-dross\n-iron scale\n-metal scale\n-scabs\n-scale\n-scoria\n-slag\n-sprue\n-spruexi"
+      }
+    ]
+  },
+  {
+    "word": "vảy cặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-scale"
       }
     ]
   },
@@ -1209,11 +1250,461 @@
     ]
   },
   {
-    "word": "vải nhẻ",
+    "word": "vảy (sắt) cán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-lightweight fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mill cinder"
+      }
+    ]
+  },
+  {
+    "word": "vảy nến",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bệnh ngoài da mãn tính, có những nốt tròn và ngứa, có lớp vảy che phủ, thường ở chân tóc"
+      }
+    ]
+  },
+  {
+    "word": "vải khổ hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-narrow fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải dệt kim tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-circular knitted fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải len",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-woollens"
+      }
+    ]
+  },
+  {
+    "word": "vải xơ len tái sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-shoddy fabrics"
+      }
+    ]
+  },
+  {
+    "word": "vải vóc trong nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-home textiles"
+      }
+    ]
+  },
+  {
+    "word": "vải ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloth partition\n-fabric partition"
+      }
+    ]
+  },
+  {
+    "word": "vải cách điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-empire closure\n-insulating closure\n@Lĩnh vực: hóa học & vật liệu\n-empire cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải tơ tafeta",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-taffeta"
+      }
+    ]
+  },
+  {
+    "word": "vảy mại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vảy mại\n*danh từ\n-cataract, film speck (in the eys)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cataract, film speck (in the eye)"
+      }
+    ]
+  },
+  {
+    "word": "vải dệt thoi thô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-coarse women fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải thiều",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vải có hạt nhỏ, cùi dày và ngọt"
+      }
+    ]
+  },
+  {
+    "word": "vải giả da",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hàng chế biến bằng hoá chất có cốt bằng vải, trông giống như da, dùng thay cho da"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mock leather"
+      }
+    ]
+  },
+  {
+    "word": "vải để can vẽ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tracing cloth"
+      }
+    ]
+  },
+  {
+    "word": "vảy mốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-scurf"
+      }
+    ]
+  },
+  {
+    "word": "vả lại",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị điều sắp nêu ra là thêm một lẽ khẳng định điều muốn nói\nVí dụ:\n- tôi không mua, vả lại cũng chẳng có tiền"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vả lại\n- lt. Thêm vào đó, hơn nữa: Tôi muốn đi công tác đợt này cùng các anh, vả lại nhân chuyến đi tôi ghé thăm nhà luôn thể  Đã muộn rồi, vả lại lại mưa nữa, anh về làm gì cho vất vả."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vả lại\n*adv\n-moreover, in adition"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vả lại\n* adv\n- moreover, in adition"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "and, again, moreover, in addition, subsequently, besides"
+      }
+    ]
+  },
+  {
+    "word": "vảy hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-solder\n-solder metal"
+      }
+    ]
+  },
+  {
+    "word": "vải lưới rây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-screen cloth\n-sieve covering"
+      }
+    ]
+  },
+  {
+    "word": "vải địa kỹ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-engineer fabric\n-filter fabric\n-geotextile fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải cốt lốp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-carcass"
+      }
+    ]
+  },
+  {
+    "word": "vải đánh bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cloth polisher\n@Lĩnh vực: cơ khí & công trình\n-polishing closure"
+      }
+    ]
+  },
+  {
+    "word": "vải để gói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-packing sheet"
+      }
+    ]
+  },
+  {
+    "word": "vải lưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải khổ rộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-sheeting\n-width"
+      }
+    ]
+  },
+  {
+    "word": "vảy hàn cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brazing metal\n-hard solder"
+      }
+    ]
+  },
+  {
+    "word": "vải bố vòm khí nén",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloth of pneumatic shell"
+      }
+    ]
+  },
+  {
+    "word": "vải nỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-felt"
+      }
+    ]
+  },
+  {
+    "word": "vải lanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-linen"
+      }
+    ]
+  },
+  {
+    "word": "vải (lưới) kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wire cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải tráng mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coated fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải hay lông len anpaca",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-alpaca"
+      }
+    ]
+  },
+  {
+    "word": "vải buồm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-canvas"
+      }
+    ]
+  },
+  {
+    "word": "vải bọc áo ngủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-wrapper"
+      }
+    ]
+  },
+  {
+    "word": "vảy cá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vảy cá\n*danh từ\n-fish scales, cataract on eye\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fish scale"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fish scales, cataract on eye"
+      }
+    ]
+  },
+  {
+    "word": "vải bò",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vải rất dày, chuyên dùng để may quần bò, áo bò"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vải bò\n*danh từ\n-jean"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "jean"
+      }
+    ]
+  },
+  {
+    "word": "vải bọc vòm khí nén",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloth of pneumatic shell"
+      }
+    ]
+  },
+  {
+    "word": "vải may mặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-dress materials"
+      }
+    ]
+  },
+  {
+    "word": "vải lanh mịn tẩm vécni",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-varnished cambric"
+      }
+    ]
+  },
+  {
+    "word": "vải thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gauze fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải làm buồm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sailcloth"
+      }
+    ]
+  },
+  {
+    "word": "vải dệt sợi ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-weft"
+      }
+    ]
+  },
+  {
+    "word": "vải lau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cotton waste\n-mop"
+      }
+    ]
+  },
+  {
+    "word": "vảy cám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scurf"
+      }
+    ]
+  },
+  {
+    "word": "vảy sắt nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-forge seale\n-forging scale"
+      }
+    ]
+  },
+  {
+    "word": "vải ép lọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filter-press cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải tóc (để làm rây)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-haircloth"
       }
     ]
   },
@@ -1227,6 +1718,60 @@
     ]
   },
   {
+    "word": "vải không dệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-nonwovens"
+      }
+    ]
+  },
+  {
+    "word": "vải đái trong quần",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wet oneself, pee one’s pants"
+      }
+    ]
+  },
+  {
+    "word": "vản",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "see vạn"
+      }
+    ]
+  },
+  {
+    "word": "vải nhuộm bền màu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dyed cloth of fast colors"
+      }
+    ]
+  },
+  {
+    "word": "vải sợi kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-wire cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải ráp mịn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crocus closure\n-crocus cloth"
+      }
+    ]
+  },
+  {
     "word": "vải đệm",
     "definitions": [
       {
@@ -1236,29 +1781,83 @@
     ]
   },
   {
-    "word": "vải có lớp tráng",
+    "word": "vải công nghiệp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coated fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial textile"
       }
     ]
   },
   {
-    "word": "vải màn",
+    "word": "vải thủy tinh dính kết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vải màn [vải màn]\n-xem"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bonded glass cloth"
       }
     ]
   },
   {
-    "word": "vảy hàn đồng thau",
+    "word": "vải ép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brass solder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-pressure cloth"
+      }
+    ]
+  },
+  {
+    "word": "vải bạt tẩm nhựa đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tarred canvas"
+      }
+    ]
+  },
+  {
+    "word": "vải kiện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vải đã gấp hoặc cuộn thành súc, được bày bán trên thị trường"
+      }
+    ]
+  },
+  {
+    "word": "vải lót (loại thô)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-backing fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải may quần áo bơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-swimsuit fabric"
+      }
+    ]
+  },
+  {
+    "word": "vải phủ để bảo vệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crown cover"
+      }
+    ]
+  },
+  {
+    "word": "vảy rắn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ophitic"
       }
     ]
   },
@@ -1292,123 +1891,38 @@
     ]
   },
   {
-    "word": "vải phần đầu tấm",
+    "word": "vải nền lốp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-piece goods"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-carcass"
       }
     ]
   },
   {
-    "word": "vải may bao",
+    "word": "vải đay thô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bagging"
+        "dict_definition": "@Chuyên ngành kinh tế\n-sack cloth"
       }
     ]
   },
   {
-    "word": "vải làm bao tải",
+    "word": "vảy bong",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bag-cloth\n-sackcloth"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-forge seale\n-hammer scale"
       }
     ]
   },
   {
-    "word": "vải bao bì",
+    "word": "vải cơ bản",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-packing canvas\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hessian\n@Lĩnh vực: hóa học & vật liệu\n-pack cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải sơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-linoleum\n-oilcloth"
-      }
-    ]
-  },
-  {
-    "word": "vải kĩ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-duck"
-      }
-    ]
-  },
-  {
-    "word": "vải sô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vải sô [vải sô]\n-coarse homespun fabric (used in mourning)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "coarse homespun fabric (used in mourning)"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt kim tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-circular knitted fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải cao su",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rubberized fabric"
-      }
-    ]
-  },
-  {
-    "word": "vảy (sắt) rèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-anvil cinder\n-forge cinder"
-      }
-    ]
-  },
-  {
-    "word": "vải lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-filter cloth\n-undercloth\n@Chuyên ngành kỹ thuật\n-boling fabric\n-fabric filter\n-filter (ing) cloth\n-filter closure\n-filter cloth\n-filter fabric\n-filter gauge\n-screen fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải khổ rộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-sheeting\n-width"
-      }
-    ]
-  },
-  {
-    "word": "vải hắc ín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tarp\n-tarpaulin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground cloth\n-ground fabric"
       }
     ]
   },
@@ -1422,128 +1936,11 @@
     ]
   },
   {
-    "word": "vải hoa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "print (on cloth)"
-      }
-    ]
-  },
-  {
-    "word": "vải rây",
+    "word": "vải tẩm nhựa đường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-boling fabric\n-bolting cloth\n-filter cloth\n-sieve cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải bao bố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hessian"
-      }
-    ]
-  },
-  {
-    "word": "vải bao tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sackcloth"
-      }
-    ]
-  },
-  {
-    "word": "vải lưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sieve cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải đi mưa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-waterproof fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải bọc áo ngủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-wrapper"
-      }
-    ]
-  },
-  {
-    "word": "vải cacborun",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-carborundum closure"
-      }
-    ]
-  },
-  {
-    "word": "vải mộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-plain fabric"
-      }
-    ]
-  },
-  {
-    "word": "vảy đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-scale"
-      }
-    ]
-  },
-  {
-    "word": "vải bọc vòm khí nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloth of pneumatic shell"
-      }
-    ]
-  },
-  {
-    "word": "vải ráp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-abrasive closure\n-abrasive cloth\n-emery cloth\n-sand closure"
-      }
-    ]
-  },
-  {
-    "word": "vải để lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-filtering cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải may quần áo bơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-swimsuit fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tarpaulin"
       }
     ]
   },
@@ -1561,199 +1958,29 @@
     ]
   },
   {
-    "word": "vải ráp vừa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-medium emery closure"
-      }
-    ]
-  },
-  {
-    "word": "vải thô không dệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nonwoven scrim"
-      }
-    ]
-  },
-  {
-    "word": "vảy sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cinder\n-dross\n-iron scale\n-metal scale\n-scabs\n-scale\n-scoria\n-slag\n-sprue\n-spruexi"
-      }
-    ]
-  },
-  {
-    "word": "vải đái",
+    "word": "vải hoa",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to wet oneself, pee one’s pants"
+        "dict_definition": "print (on cloth)"
       }
     ]
   },
   {
-    "word": "vải vóc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vải để may mặc [nói khái quát]\nVí dụ:\n- lụa là vải vóc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vải vóc\n*danh từ\n-material, cloth, fabric, stuff\n@Chuyên ngành kinh tế\n-mercery\n-yard-goods"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "material, cloth, fabric, stuff"
-      }
-    ]
-  },
-  {
-    "word": "vảy xỉ (thủy tinh từ tâm lò)",
+    "word": "vải lọc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-slag"
+        "dict_definition": "@Chuyên ngành kinh tế\n-filter cloth\n-undercloth\n@Chuyên ngành kỹ thuật\n-boling fabric\n-fabric filter\n-filter (ing) cloth\n-filter closure\n-filter cloth\n-filter fabric\n-filter gauge\n-screen fabric"
       }
     ]
   },
   {
-    "word": "vải popơlin",
+    "word": "vải dùng để làm bao tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-poplin"
-      }
-    ]
-  },
-  {
-    "word": "vải thưa không dệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nonwoven scrim"
-      }
-    ]
-  },
-  {
-    "word": "vải nhuộm bền màu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dyed cloth of fast colors"
-      }
-    ]
-  },
-  {
-    "word": "vải muxơlin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mull"
-      }
-    ]
-  },
-  {
-    "word": "vải ép lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-filter-press cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fabric\n-web\n-woven fabric\n@Lĩnh vực: hóa học & vật liệu\n-wire cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải bố vòm khí nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cloth of pneumatic shell"
-      }
-    ]
-  },
-  {
-    "word": "vải thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gauze fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải bạt tẩm dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oil canvas\n@Lĩnh vực: xây dựng\n-oiled canvas"
-      }
-    ]
-  },
-  {
-    "word": "vải nền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-backing fabric\n-ground cloth\n-ground fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải vụn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rag"
-      }
-    ]
-  },
-  {
-    "word": "vải lanh mịn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-cambric\n@Lĩnh vực: dệt may\n-crisp"
-      }
-    ]
-  },
-  {
-    "word": "vải dầu dẫn lưu nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-current-conducting linoleum"
-      }
-    ]
-  },
-  {
-    "word": "vải carô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-checks"
-      }
-    ]
-  },
-  {
-    "word": "vải sợi dệt lọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-filter fabric"
+        "dict_definition": "@Chuyên ngành kinh tế\n-sacking"
       }
     ]
   },
@@ -1767,117 +1994,29 @@
     ]
   },
   {
-    "word": "vải may mặc",
+    "word": "vải thô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-dress materials"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-burlap\n-plain fabric\n-power fabric\n-sackcloth"
       }
     ]
   },
   {
-    "word": "vải sợi amian",
+    "word": "vải sợi",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asbestos textile"
-      }
-    ]
-  },
-  {
-    "word": "vả lại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị điều sắp nêu ra là thêm một lẽ khẳng định điều muốn nói\nVí dụ:\n- tôi không mua, vả lại cũng chẳng có tiền"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vả lại\n- lt. Thêm vào đó, hơn nữa: Tôi muốn đi công tác đợt này cùng các anh, vả lại nhân chuyến đi tôi ghé thăm nhà luôn thể  Đã muộn rồi, vả lại lại mưa nữa, anh về làm gì cho vất vả."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vả lại\n*adv\n-moreover, in adition"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vả lại\n* adv\n- moreover, in adition"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "and, again, moreover, in addition, subsequently, besides"
+        "dict_definition": "textile"
       }
     ]
   },
   {
-    "word": "vảy cán",
+    "word": "vải trải giường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mill scale"
-      }
-    ]
-  },
-  {
-    "word": "vải đánh bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cloth polisher\n@Lĩnh vực: cơ khí & công trình\n-polishing closure"
-      }
-    ]
-  },
-  {
-    "word": "vải công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial textile"
-      }
-    ]
-  },
-  {
-    "word": "vải amiăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-asbestos fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải lều",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-canvas"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt thoi thô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-coarse women fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải cơ bản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground cloth\n-ground fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải sơn lót sàn nhà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-linoleum"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bad sheet"
       }
     ]
   },
@@ -1899,168 +2038,29 @@
     ]
   },
   {
-    "word": "vải sợi thủy tinh dệt kim",
+    "word": "vải dệt sợi pha",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-knitted glass fabric"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-union cloth"
       }
     ]
   },
   {
-    "word": "vải lưới dệt",
+    "word": "vải trang sức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-woven-wire"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-furnishing fabric"
       }
     ]
   },
   {
-    "word": "vảy hoàn thiện",
+    "word": "vải sợi amian",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-finishing slag"
-      }
-    ]
-  },
-  {
-    "word": "vải đay thô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sack cloth"
-      }
-    ]
-  },
-  {
-    "word": "vải thiều",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vải có hạt nhỏ, cùi dày và ngọt"
-      }
-    ]
-  },
-  {
-    "word": "vải địa kỹ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-engineer fabric\n-filter fabric\n-geotextile fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải crếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crepe"
-      }
-    ]
-  },
-  {
-    "word": "vải gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground cloth\n-ground fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải làm bao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sacking"
-      }
-    ]
-  },
-  {
-    "word": "vải liệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vải liệm [vải liệm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "winding-sheet, shroud"
-      }
-    ]
-  },
-  {
-    "word": "vải có lớp phủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coated fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải jacquard",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-jacquard fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải dùng để làm bao tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sacking"
-      }
-    ]
-  },
-  {
-    "word": "vải chéo nổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-twill"
-      }
-    ]
-  },
-  {
-    "word": "vải làm khăn bông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-towelling"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt thoi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-cloth\n-woven fabric"
-      }
-    ]
-  },
-  {
-    "word": "vải dệt sợi ngang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-weft"
-      }
-    ]
-  },
-  {
-    "word": "vải dùng trong gia đình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-household textiles"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asbestos textile"
       }
     ]
   }

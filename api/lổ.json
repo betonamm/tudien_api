@@ -1,76 +1,10 @@
 [
   {
-    "word": "lổm nhổm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái lộn xộn, chỗ cao chỗ thấp không đều\nVí dụ:\n- đường rải đá lổm nhổm"
-      }
-    ]
-  },
-  {
     "word": "lổ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@lổ\n- ph. Trần truồng: ở lổ lấy rổ mà che (tng)."
-      }
-    ]
-  },
-  {
-    "word": "lổn ngổn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhiều và hơi ngổn ngang\nVí dụ:\n- chai lọ lổn ngổn dưới sàn \n - sách vở, bút mực lổn ngổn trên bàn"
-      }
-    ]
-  },
-  {
-    "word": "lổn nha lổn nhổn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lổn nhổn [nhưng ý mức độ nhiều hơn]"
-      }
-    ]
-  },
-  {
-    "word": "lổn nhổn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có những khối tròn nhỏ và cứng lẫn vào làm vướng víu, khó chịu\nVí dụ:\n- đống gạch vụn lổn nhổn \n - bột lổn nhổn những cục"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lổn nhổn\n- t. Có nhiều vật nhỏ lẫn vào: Cơm ăn lổn nhổn những sạn và thóc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lổn nhổn [lổn nhổn]\n-to be mixed up with sth"
-      }
-    ]
-  },
-  {
-    "word": "lổng cha lổng chổng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lổng chổng [nhưng ý mức độ nhiều hơn]"
-      }
-    ]
-  },
-  {
-    "word": "lổ đổ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không thuần một màu mà rải rác có những đốm, những vệt khác màu trên bề mặt\nVí dụ:\n- lá xanh, lá vàng lổ đổ trên cây"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không cùng một lúc, một nơi mà rải rác từng ít một\nVí dụ:\n- mọi người lổ đổ kéo đến mỗi lúc một đông \n - lúa chín lổ đổ"
       }
     ]
   },
@@ -96,6 +30,24 @@
     ]
   },
   {
+    "word": "lổm nhổm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái lộn xộn, chỗ cao chỗ thấp không đều\nVí dụ:\n- đường rải đá lổm nhổm"
+      }
+    ]
+  },
+  {
+    "word": "lổng cha lổng chổng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như lổng chổng [nhưng ý mức độ nhiều hơn]"
+      }
+    ]
+  },
+  {
     "word": "lổm ngổm",
     "definitions": [
       {
@@ -105,6 +57,54 @@
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@lổm ngổm\n- Nói bò nghênh ngang, không ra hàng lối: Cua bò lổm ngổm."
+      }
+    ]
+  },
+  {
+    "word": "lổn nha lổn nhổn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như lổn nhổn [nhưng ý mức độ nhiều hơn]"
+      }
+    ]
+  },
+  {
+    "word": "lổ đổ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không thuần một màu mà rải rác có những đốm, những vệt khác màu trên bề mặt\nVí dụ:\n- lá xanh, lá vàng lổ đổ trên cây"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không cùng một lúc, một nơi mà rải rác từng ít một\nVí dụ:\n- mọi người lổ đổ kéo đến mỗi lúc một đông \n - lúa chín lổ đổ"
+      }
+    ]
+  },
+  {
+    "word": "lổn nhổn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có những khối tròn nhỏ và cứng lẫn vào làm vướng víu, khó chịu\nVí dụ:\n- đống gạch vụn lổn nhổn \n - bột lổn nhổn những cục"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lổn nhổn\n- t. Có nhiều vật nhỏ lẫn vào: Cơm ăn lổn nhổn những sạn và thóc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lổn nhổn [lổn nhổn]\n-to be mixed up with sth"
+      }
+    ]
+  },
+  {
+    "word": "lổn ngổn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhiều và hơi ngổn ngang\nVí dụ:\n- chai lọ lổn ngổn dưới sàn \n - sách vở, bút mực lổn ngổn trên bàn"
       }
     ]
   }

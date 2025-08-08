@@ -1,10 +1,10 @@
 [
   {
-    "word": "xã hội học kiến trúc",
+    "word": "xã hội công nghiệp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architectural sociology"
+        "dict_definition": "@Chuyên ngành kinh tế\n-industrial society\n-industrialism"
       }
     ]
   },
@@ -18,72 +18,58 @@
     ]
   },
   {
-    "word": "xã hội hậu tư bản chủ nghĩa",
+    "word": "xã hội tư bản",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-post-capitalist society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội hậu công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-post industrial society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-socialization"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to socialize"
+        "dict_definition": "capitalist society"
       }
     ]
   },
   {
-    "word": "xã tắc",
+    "word": "xã hội học khu vực",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sociology of region"
+      }
+    ]
+  },
+  {
+    "word": "xã hội thương mại hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commercialized society"
+      }
+    ]
+  },
+  {
+    "word": "xã",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đơn vị hành chính cơ sở ở nông thôn, bao gồm một số thôn\nVí dụ:\n- chủ tịch xã \n - xã này có bốn thôn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "uỷ ban nhân dân xã [nói tắt]\nVí dụ:\n- họp ở trên xã \n - bị gọi lên xã"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xã tắc\n- dt (H. tắc: thần đất và thần lúa) Đất nước: Lịch sử Việt-nam là lịch sử xây dựng giang sơn từ hạ lưu sông Hồng đến hạ lưu sông Cửu-long..., là lịch sử xây dựng xã tắc trải ngót nghìn năm Bắc-thuộc (PhVĐồng)."
+        "dict_definition": "@xã\n- dt 1. Đơn vị hành chính cơ sở ở nông thôn, có thể gồm nhiều thôn: Giảm bớt diện xã đói nghèo (PhVKhải); Ngày xưa nhiều xã họp thành một tổng 2. Người đàn ông trong làng có chút chức vị cao hơn người dân thường (cũ): Lúc thì chẳng có một ai, lúc thì ông xã, ông cai đầy nhà (cd)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xã tắc\n*noun\n-land, state"
+        "dict_definition": "@xã\n*noun\n-village"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xã tắc\n* noun\n- land, state"
+        "dict_definition": "@xã\n* noun\n- village"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "land, state"
-      }
-    ]
-  },
-  {
-    "word": "xã hội lãng phí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-waste society"
-      }
-    ]
-  },
-  {
-    "word": "xã viên hợp tác xã",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-member of a co-operative\n-partner"
+        "dict_definition": "village, community"
       }
     ]
   },
@@ -113,6 +99,60 @@
     ]
   },
   {
+    "word": "xã hội nhàn tản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-leisure society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội sinh vật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-biosocial"
+      }
+    ]
+  },
+  {
+    "word": "xã hội đa nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-plurality society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội hám lợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-acquisitive society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội internet/hiệp hội internet",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Internet SOCiety (ISOC)"
+      }
+    ]
+  },
+  {
+    "word": "xã hội hiện đại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "modern society"
+      }
+    ]
+  },
+  {
     "word": "xã đội",
     "definitions": [
       {
@@ -126,11 +166,126 @@
     ]
   },
   {
+    "word": "xã hội không dùng tiền mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cashless society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội công bình",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a just society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội phương tây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-western society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội học công nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-industrial sociology"
+      }
+    ]
+  },
+  {
+    "word": "xã thuyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xã thuyết - như"
+      }
+    ]
+  },
+  {
     "word": "xã hội tập trung",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-mass society"
+      }
+    ]
+  },
+  {
+    "word": "xã thôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xã thôn\n*danh từ\n-commune, hamlet, communal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "commune, hamlet, communal"
+      }
+    ]
+  },
+  {
+    "word": "xã hội học tri thức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sociology of knowledge"
+      }
+    ]
+  },
+  {
+    "word": "xã hội chủ nghĩa hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-socialization"
+      }
+    ]
+  },
+  {
+    "word": "xã tắc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xã tắc\n- dt (H. tắc: thần đất và thần lúa) Đất nước: Lịch sử Việt-nam là lịch sử xây dựng giang sơn từ hạ lưu sông Hồng đến hạ lưu sông Cửu-long..., là lịch sử xây dựng xã tắc trải ngót nghìn năm Bắc-thuộc (PhVĐồng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xã tắc\n*noun\n-land, state"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xã tắc\n* noun\n- land, state"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "land, state"
+      }
+    ]
+  },
+  {
+    "word": "xã viên hợp tác xã",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-member of a co-operative\n-partner"
+      }
+    ]
+  },
+  {
+    "word": "xã hội kỹ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-technological society"
       }
     ]
   },
@@ -148,56 +303,45 @@
     ]
   },
   {
-    "word": "xã hội thương mại hóa",
+    "word": "xã ngang trung tâm khung giá chuyển",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commercialized society"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bogie central cross beam"
       }
     ]
   },
   {
-    "word": "xã hội chín muồi",
+    "word": "xã hội học",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoa học nghiên cứu về quá trình và quy luật phát triển của các hiện tượng trong đời sống xã hội\nVí dụ:\n- nghiên cứu xã hội học"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xã hội học\n- d. Khoa học nghiên cứu về quá trình và quy luật phát triển của các hiện tượng trong đời sống xã hội."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mature society"
+        "dict_definition": "@xã hội học\n*noun\n-sociology\n@Chuyên ngành kinh tế\n-sociology\n@Chuyên ngành kỹ thuật\n-sociology"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xã hội học\n* noun\n- sociology"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sociology"
       }
     ]
   },
   {
-    "word": "xã hội xã hội chủ nghĩa",
+    "word": "xã hội tây phương",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-socialist society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội học khu vực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sociology of region"
-      }
-    ]
-  },
-  {
-    "word": "xã hội, hội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội internet/hiệp hội internet",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Internet SOCiety (ISOC)"
+        "dict_name": "VNEDICT",
+        "dict_definition": "western society"
       }
     ]
   },
@@ -211,6 +355,32 @@
     ]
   },
   {
+    "word": "xã hội hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-socialization"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to socialize"
+      }
+    ]
+  },
+  {
+    "word": "xã viên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thành viên của một hợp tác xã\nVí dụ:\n- họp tổ xã viên \n - bình bầu xã viên xuất sắc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xã viên [xã viên]\n-xem"
+      }
+    ]
+  },
+  {
     "word": "xã thơ",
     "definitions": [
       {
@@ -220,11 +390,47 @@
     ]
   },
   {
-    "word": "xã hội học đô thị",
+    "word": "xã hội học kiến trúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urban sociology\n-urbanistic sociology"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-architectural sociology"
+      }
+    ]
+  },
+  {
+    "word": "xã hội, hội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội doanh lợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-acquisitive society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội tự do",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-permissive society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội thương nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commercial community"
       }
     ]
   },
@@ -246,11 +452,69 @@
     ]
   },
   {
-    "word": "xã hội công nghiệp",
+    "word": "xã hội hậu tư bản chủ nghĩa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-industrial society\n-industrialism"
+        "dict_definition": "@Chuyên ngành kinh tế\n-post-capitalist society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội phúc lợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-welfare recipient"
+      }
+    ]
+  },
+  {
+    "word": "xã trưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xã trưởng\n*danh từ\n-village chief"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "village chief"
+      }
+    ]
+  },
+  {
+    "word": "xã hội loài người",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "human society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội đen",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập hợp những kẻ chuyên làm những việc phi pháp như trộm cướp, buôn lậu, đâm thuê chém mướn, v.v., hoạt động có tổ chức theo băng đảng, phe phái và luật lệ riêng\nVí dụ:\n- bọn xã hội đen \n - triệt phá một băng xã hội đen"
+      }
+    ]
+  },
+  {
+    "word": "xã hội hậu xí nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-post-business society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội thượng lưu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-high society\n-society"
       }
     ]
   },
@@ -288,96 +552,47 @@
     ]
   },
   {
-    "word": "xã hội tây phương",
+    "word": "xã hội hậu công nghiệp",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "western society"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-post industrial society"
       }
     ]
   },
   {
-    "word": "xã hội thương nghiệp",
+    "word": "xã hội thương mại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commercial community"
+        "dict_definition": "@Chuyên ngành kinh tế\n-commercial society\n-mercantile society"
       }
     ]
   },
   {
-    "word": "xã ngang trung tâm khung giá chuyển",
+    "word": "xã hội vĩ đại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bogie central cross beam"
+        "dict_definition": "@Chuyên ngành kinh tế\n-Great Society"
       }
     ]
   },
   {
-    "word": "xã hội hám lợi",
+    "word": "xã hội xã hội chủ nghĩa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-acquisitive society"
+        "dict_definition": "@Chuyên ngành kinh tế\n-socialist society"
       }
     ]
   },
   {
-    "word": "xã trưởng",
+    "word": "xã hội điện tử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xã trưởng\n*danh từ\n-village chief"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "village chief"
-      }
-    ]
-  },
-  {
-    "word": "xã hội học công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-industrial sociology"
-      }
-    ]
-  },
-  {
-    "word": "xã hội thượng lưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-high society\n-society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội học tri thức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sociology of knowledge"
-      }
-    ]
-  },
-  {
-    "word": "xã hội internet",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ISOC (Internet SOCiety)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Internet Society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội nhàn tản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-leisure society"
+        "dict_definition": "@Chuyên ngành kinh tế\n-e-society"
       }
     ]
   },
@@ -415,96 +630,20 @@
     ]
   },
   {
-    "word": "xã hội phúc lợi",
+    "word": "xã hội internet",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-welfare recipient"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ISOC (Internet SOCiety)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Internet Society"
       }
     ]
   },
   {
-    "word": "xã hội tự do",
+    "word": "xã hội học đô thị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-permissive society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội thương mại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commercial society\n-mercantile society"
-      }
-    ]
-  },
-  {
-    "word": "xã viên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thành viên của một hợp tác xã\nVí dụ:\n- họp tổ xã viên \n - bình bầu xã viên xuất sắc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xã viên [xã viên]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "xã hội phương tây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-western society"
-      }
-    ]
-  },
-  {
-    "word": "xã thuyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xã thuyết - như"
-      }
-    ]
-  },
-  {
-    "word": "xã hội chủ nghĩa hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-socialization"
-      }
-    ]
-  },
-  {
-    "word": "xã hội tư bản",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "capitalist society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội sinh vật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-biosocial"
-      }
-    ]
-  },
-  {
-    "word": "xã hội hiện đại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "modern society"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urban sociology\n-urbanistic sociology"
       }
     ]
   },
@@ -534,163 +673,6 @@
     ]
   },
   {
-    "word": "xã hội vĩ đại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Great Society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội doanh lợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-acquisitive society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội không dùng tiền mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cashless society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội đa nguyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plurality society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội loài người",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "human society"
-      }
-    ]
-  },
-  {
-    "word": "xã",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị hành chính cơ sở ở nông thôn, bao gồm một số thôn\nVí dụ:\n- chủ tịch xã \n - xã này có bốn thôn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "uỷ ban nhân dân xã [nói tắt]\nVí dụ:\n- họp ở trên xã \n - bị gọi lên xã"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xã\n- dt 1. Đơn vị hành chính cơ sở ở nông thôn, có thể gồm nhiều thôn: Giảm bớt diện xã đói nghèo (PhVKhải); Ngày xưa nhiều xã họp thành một tổng 2. Người đàn ông trong làng có chút chức vị cao hơn người dân thường (cũ): Lúc thì chẳng có một ai, lúc thì ông xã, ông cai đầy nhà (cd)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xã\n*noun\n-village"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xã\n* noun\n- village"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "village, community"
-      }
-    ]
-  },
-  {
-    "word": "xã thôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xã thôn\n*danh từ\n-commune, hamlet, communal"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "commune, hamlet, communal"
-      }
-    ]
-  },
-  {
-    "word": "xã hội học",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoa học nghiên cứu về quá trình và quy luật phát triển của các hiện tượng trong đời sống xã hội\nVí dụ:\n- nghiên cứu xã hội học"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xã hội học\n- d. Khoa học nghiên cứu về quá trình và quy luật phát triển của các hiện tượng trong đời sống xã hội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xã hội học\n*noun\n-sociology\n@Chuyên ngành kinh tế\n-sociology\n@Chuyên ngành kỹ thuật\n-sociology"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xã hội học\n* noun\n- sociology"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sociology"
-      }
-    ]
-  },
-  {
-    "word": "xã hội công bình",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a just society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội hậu xí nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-post-business society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-e-society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội tiêu thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-consumer society"
-      }
-    ]
-  },
-  {
-    "word": "xã hội đen",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp những kẻ chuyên làm những việc phi pháp như trộm cướp, buôn lậu, đâm thuê chém mướn, v.v., hoạt động có tổ chức theo băng đảng, phe phái và luật lệ riêng\nVí dụ:\n- bọn xã hội đen \n - triệt phá một băng xã hội đen"
-      }
-    ]
-  },
-  {
     "word": "xã hội công nghiệp hóa phương tây",
     "definitions": [
       {
@@ -700,11 +682,29 @@
     ]
   },
   {
-    "word": "xã hội kỹ thuật",
+    "word": "xã hội lãng phí",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-technological society"
+        "dict_definition": "@Chuyên ngành kinh tế\n-waste society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội chín muồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mature society"
+      }
+    ]
+  },
+  {
+    "word": "xã hội tiêu thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-consumer society"
       }
     ]
   }

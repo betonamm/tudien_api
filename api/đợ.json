@@ -1,14 +1,5 @@
 [
   {
-    "word": "đợt cầu thang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flight\n-flight of stairs\n-stairway"
-      }
-    ]
-  },
-  {
     "word": "đợt nóng",
     "definitions": [
       {
@@ -18,47 +9,11 @@
     ]
   },
   {
-    "word": "đợt bột phát nhỏ và ngắn",
+    "word": "đợt lũ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-boomlet"
-      }
-    ]
-  },
-  {
-    "word": "đợn vị xuyên âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-crosstalk unit"
-      }
-    ]
-  },
-  {
-    "word": "đợt hoàn trả nợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bullet"
-      }
-    ]
-  },
-  {
-    "word": "đợt thang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flight (of stair)"
-      }
-    ]
-  },
-  {
-    "word": "đợt bức xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-radiative cascade"
+        "dict_name": "VNEDICT",
+        "dict_definition": "waves of rain"
       }
     ]
   },
@@ -72,49 +27,74 @@
     ]
   },
   {
-    "word": "đợi thời",
+    "word": "đợt thí nghiệm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đợi thời\n-Bide one\"s time"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đợi thời\n- Bide one's time"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bide one’s time"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-testing campaign"
       }
     ]
   },
   {
-    "word": "đợt phát hành nóng",
+    "word": "đợt suy thoái nhỏ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hot issue"
+        "dict_definition": "@Chuyên ngành kinh tế\n-minirecession"
       }
     ]
   },
   {
-    "word": "đợi chờ",
+    "word": "đợt vận động",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chờ đợi\nVí dụ:\n- cô ấy vẫn đợi chờ người yêu"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-drive"
+      }
+    ]
+  },
+  {
+    "word": "đợt (đá xây)",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đợi chờ\n-xem chờ đợi"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đợi chờ\n- xem chờ đợi"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lift"
+      }
+    ]
+  },
+  {
+    "word": "đợt rét ác",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to wait for"
+        "dict_definition": "severe cold spell"
+      }
+    ]
+  },
+  {
+    "word": "đợt phát hành mới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-new issue"
+      }
+    ]
+  },
+  {
+    "word": "đợt hoàn trả nợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bullet"
+      }
+    ]
+  },
+  {
+    "word": "đợt đầu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "initial, first time"
       }
     ]
   },
@@ -128,33 +108,20 @@
     ]
   },
   {
-    "word": "đợt chung",
+    "word": "đợt thử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-generic cascade"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-testing campaign"
       }
     ]
   },
   {
-    "word": "đợt sóng",
+    "word": "đợt sóng biển ngang",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wave train"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wave, stage"
-      }
-    ]
-  },
-  {
-    "word": "đợt dự trữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reserve trench"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-beam sea"
       }
     ]
   },
@@ -180,274 +147,11 @@
     ]
   },
   {
-    "word": "đợt đầu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "initial, first time"
-      }
-    ]
-  },
-  {
-    "word": "đợi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chờ ai hoặc cái gì mà biết hoặc tin là sẽ tới, sẽ có, sẽ xảy ra\nVí dụ:\n- tôi đợi trời tạnh rồi mới đi \n - nó đang đợi mẹ về"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đợi\n- đgt. Chờ với niềm tin là sẽ có kết quả: đợi ngớt mưa hãy đi  đợi ở chỗ hẹn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đợi\n*verb\n-to wait for; to await\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-await"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đợi\n* verb\n- to wait for; to await"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to wait (for), await"
-      }
-    ]
-  },
-  {
-    "word": "đợt sóng dội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hop"
-      }
-    ]
-  },
-  {
-    "word": "đợt bộc phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-boom"
-      }
-    ]
-  },
-  {
-    "word": "đợi tin báo mào đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Wait for Overhead Message (WFOM)"
-      }
-    ]
-  },
-  {
-    "word": "đợt thử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-testing campaign"
-      }
-    ]
-  },
-  {
-    "word": "đợt vận động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-drive"
-      }
-    ]
-  },
-  {
-    "word": "đợt sóng biển ngang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-beam sea"
-      }
-    ]
-  },
-  {
-    "word": "đợt mưa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rainspell"
-      }
-    ]
-  },
-  {
-    "word": "đợt bay thay thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-contingent mission"
-      }
-    ]
-  },
-  {
     "word": "đợt phát hành chuyển đổi",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-conversion issue"
-      }
-    ]
-  },
-  {
-    "word": "đợt công tác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-assignment"
-      }
-    ]
-  },
-  {
-    "word": "đợt vận động tuyển mộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-recruitment drive"
-      }
-    ]
-  },
-  {
-    "word": "đợt suy thoái nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-minirecession"
-      }
-    ]
-  },
-  {
-    "word": "đợt gió giật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gust (of wind)\n-rush (of wind)"
-      }
-    ]
-  },
-  {
-    "word": "đợt vàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-gold chance\n-gold tranch"
-      }
-    ]
-  },
-  {
-    "word": "đợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đợp\n-Snap\n=Chó đợp một miếng vào cẳng\n+The dog snapped at (someone\"s) leg"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đợp\n- Snap\n=Chó đợp một miếng vào cẳng+The dog snapped at (someone's) leg"
-      }
-    ]
-  },
-  {
-    "word": "đợt thí nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-testing campaign"
-      }
-    ]
-  },
-  {
-    "word": "đợt cầu thang thẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-straight flight"
-      }
-    ]
-  },
-  {
-    "word": "đợt phát hành mới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-new issue"
-      }
-    ]
-  },
-  {
-    "word": "đợt (đá xây)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lift"
-      }
-    ]
-  },
-  {
-    "word": "đợt sóng bãi công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-spate of strikes\n-spate or strikes"
-      }
-    ]
-  },
-  {
-    "word": "đợt phát động xuất khẩu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-export drive"
-      }
-    ]
-  },
-  {
-    "word": "đợt electron",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron cascade"
-      }
-    ]
-  },
-  {
-    "word": "đợt đổ bê tông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lift of concrete"
-      }
-    ]
-  },
-  {
-    "word": "đợt điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron cascade"
-      }
-    ]
-  },
-  {
-    "word": "đợt lũ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "waves of rain"
-      }
-    ]
-  },
-  {
-    "word": "đợt rét ác",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "severe cold spell"
       }
     ]
   },
@@ -481,11 +185,11 @@
     ]
   },
   {
-    "word": "đợt gió",
+    "word": "đợt vận động tuyển mộ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blast (of wind)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-recruitment drive"
       }
     ]
   },
@@ -495,6 +199,302 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cold wave"
+      }
+    ]
+  },
+  {
+    "word": "đợt công tác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-assignment"
+      }
+    ]
+  },
+  {
+    "word": "đợt phát động xuất khẩu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-export drive"
+      }
+    ]
+  },
+  {
+    "word": "đợt mưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rainspell"
+      }
+    ]
+  },
+  {
+    "word": "đợn vị xuyên âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-crosstalk unit"
+      }
+    ]
+  },
+  {
+    "word": "đợt dự trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-reserve trench"
+      }
+    ]
+  },
+  {
+    "word": "đợt sóng dội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hop"
+      }
+    ]
+  },
+  {
+    "word": "đợt vàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-gold chance\n-gold tranch"
+      }
+    ]
+  },
+  {
+    "word": "đợt đổ bê tông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lift of concrete"
+      }
+    ]
+  },
+  {
+    "word": "đợt bức xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-radiative cascade"
+      }
+    ]
+  },
+  {
+    "word": "đợt sóng bãi công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-spate of strikes\n-spate or strikes"
+      }
+    ]
+  },
+  {
+    "word": "đợt bột phát nhỏ và ngắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-boomlet"
+      }
+    ]
+  },
+  {
+    "word": "đợi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chờ ai hoặc cái gì mà biết hoặc tin là sẽ tới, sẽ có, sẽ xảy ra\nVí dụ:\n- tôi đợi trời tạnh rồi mới đi \n - nó đang đợi mẹ về"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đợi\n- đgt. Chờ với niềm tin là sẽ có kết quả: đợi ngớt mưa hãy đi  đợi ở chỗ hẹn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đợi\n*verb\n-to wait for; to await\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-await"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đợi\n* verb\n- to wait for; to await"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wait (for), await"
+      }
+    ]
+  },
+  {
+    "word": "đợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đợp\n-Snap\n=Chó đợp một miếng vào cẳng\n+The dog snapped at (someone\"s) leg"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đợp\n- Snap\n=Chó đợp một miếng vào cẳng+The dog snapped at (someone's) leg"
+      }
+    ]
+  },
+  {
+    "word": "đợi thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đợi thời\n-Bide one\"s time"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đợi thời\n- Bide one's time"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bide one’s time"
+      }
+    ]
+  },
+  {
+    "word": "đợt phát hành nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hot issue"
+      }
+    ]
+  },
+  {
+    "word": "đợt sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-wave train"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wave, stage"
+      }
+    ]
+  },
+  {
+    "word": "đợt điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron cascade"
+      }
+    ]
+  },
+  {
+    "word": "đợi tin báo mào đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Wait for Overhead Message (WFOM)"
+      }
+    ]
+  },
+  {
+    "word": "đợt electron",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-electron cascade"
+      }
+    ]
+  },
+  {
+    "word": "đợt cầu thang thẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-straight flight"
+      }
+    ]
+  },
+  {
+    "word": "đợt cầu thang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flight\n-flight of stairs\n-stairway"
+      }
+    ]
+  },
+  {
+    "word": "đợi chờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chờ đợi\nVí dụ:\n- cô ấy vẫn đợi chờ người yêu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đợi chờ\n-xem chờ đợi"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đợi chờ\n- xem chờ đợi"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wait for"
+      }
+    ]
+  },
+  {
+    "word": "đợt bộc phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-boom"
+      }
+    ]
+  },
+  {
+    "word": "đợt gió giật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gust (of wind)\n-rush (of wind)"
+      }
+    ]
+  },
+  {
+    "word": "đợt thang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flight (of stair)"
+      }
+    ]
+  },
+  {
+    "word": "đợt gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blast (of wind)"
+      }
+    ]
+  },
+  {
+    "word": "đợt bay thay thế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-contingent mission"
+      }
+    ]
+  },
+  {
+    "word": "đợt chung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-generic cascade"
       }
     ]
   }

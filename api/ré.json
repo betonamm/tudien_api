@@ -1,47 +1,72 @@
 [
   {
-    "word": "rén",
+    "word": "ré",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "một cách rất nhẹ, rất khẽ, cố giữ để không gây ra tiếng động\nVí dụ:\n- rén bước vào nhà"
+        "dict_definition": "thứ lúa mùa hạt nhỏ, nấu ngon cơm\nVí dụ:\n- cơm gạo ré"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[voi] kêu\nVí dụ:\n- con voi ré lên"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phát ra tiếng kêu to, rít lên đột ngột, nghe chói tai\nVí dụ:\n- ré lên cười \n - đứa bé giật mình, khóc ré lên"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rén\n- đg. Đi nhẹ bằng phần trước bàn chân, không để gót chấm đất: Rén bước trong hành lang bệnh viện."
+        "dict_definition": "@ré\n- đg. Nói voi kêu: Voi ré, ngựa hí inh tai.\n- đg. Nói nắng hay mưa xiên vào, hắt vào: Nắng ré đầu hồi."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rén\n-Walk softly; walk shily\n=\n+en rén (láy, ý tăng)"
+        "dict_definition": "@ré\n-Trumpet\n=Con voi ré\n+The elephant trumpeted\n-Shine obliquely, splash obliquely\n=Nắng ré đầu hiên\n+The sun shone obliquely into the verandah\n=Mưa ré cửa sổ\n+The rain splashed obliquely throught the window"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rén\n- Walk softly; walk shily\n=Ren rén (láy, ý tăng)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to walk softly"
+        "dict_definition": "@ré\n- Trumpet\n=Con voi ré+The elephant trumpeted\n-Shine obliquely, splash obliquely\n=Nắng ré đầu hiên+The sun shone obliquely into the verandah\n=Mưa ré cửa sổ+The rain splashed obliquely throught the window"
       }
     ]
   },
   {
-    "word": "rét đài",
+    "word": "rét buốt",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiết trời rét vào khoảng tháng giêng âm lịch ở miền Bắc Việt Nam"
+        "dict_definition": "rét đến mức như thấm sâu vào tận xương tuỷ\nVí dụ:\n- đêm đông rét buốt"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rét đài\n- Rét về tháng Giêng âm lịch."
+        "dict_definition": "@rét buốt\n- Rét lắm."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rét đài [rét đài]\n-Cold in the first lunar month."
+        "dict_definition": "@rét buốt\n-Piercingly cold"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rét buốt\n- Piercingly cold"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cold in the first lunar month"
+        "dict_definition": "piercingly cold"
+      }
+    ]
+  },
+  {
+    "word": "rét cóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rét cóng\n-Freezing cold"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rét cóng\n- Freezing cold"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "freezing cold"
       }
     ]
   },
@@ -75,128 +100,45 @@
     ]
   },
   {
-    "word": "rét cóng",
+    "word": "rén chiếng",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@rét cóng\n-Freezing cold"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rét cóng\n- Freezing cold"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "freezing cold"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rén chiếng\n- rón rén trình bày"
       }
     ]
   },
   {
-    "word": "rét lộc",
+    "word": "rét đài",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiết trời rét vào khoảng tháng hai âm lịch ở miền Bắc Việt Nam"
+        "dict_definition": "tiết trời rét vào khoảng tháng giêng âm lịch ở miền Bắc Việt Nam"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rét lộc\n- Rét về tháng Hai âm lịch."
+        "dict_definition": "@rét đài\n- Rét về tháng Giêng âm lịch."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rét lộc [rét lộc]\n-Cold in the second lunar month."
+        "dict_definition": "@rét đài [rét đài]\n-Cold in the first lunar month."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cold in the second lunar month"
+        "dict_definition": "cold in the first lunar month"
       }
     ]
   },
   {
-    "word": "réo rắt",
+    "word": "rét như cắt",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[âm thanh, thường là tiếng nhạc] cao và thanh, lúc to lúc nhỏ, lúc nhanh lúc chậm\nVí dụ:\n- tiếng đàn réo rắt \n - \"Con chim khôn chết mệt về mồi, Nó kêu réo rắt ghẹo người tình chung.\" (Cdao)"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@réo rắt\n-xem giéo giắt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@réo rắt\n- xem giéo giắt"
-      }
-    ]
-  },
-  {
-    "word": "réo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kêu, gọi từ xa bằng những tiếng cao giọng, gay gắt, kéo dài\nVí dụ:\n- lũ trẻ réo ầm nhà \n - réo cả tên tục của người ta ra mà chửi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phát ra tiếng nghe như tiếng réo\nVí dụ:\n- còi tàu réo vang \n - chuông điện thoại réo"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@réo\n- đgt. 1. Gọi to với giọng đanh, kéo dài: mới sáng sớm đã đến nhà người ta mà réo. 2. Phát ra âm thanh thành từng hồi kéo dài: chuông điện thoại réo mãi mà chẳng có ai đến cầm máy."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@réo\n*verb\n-to halloo; to call out to"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@réo\n* verb\n- to halloo; to call out to"
+        "dict_definition": "@rét như cắt [rét như cắt]\n-piercing cold"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to halloo, call out to"
-      }
-    ]
-  },
-  {
-    "word": "rét thấu xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rét thấu xương [rét thấu xương]\n-to be frozen to the marrow/to the bone;  to be chilled to the bone/to the marrow"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be frozen to the marrow or to the bone, be"
-      }
-    ]
-  },
-  {
-    "word": "ré",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thứ lúa mùa hạt nhỏ, nấu ngon cơm\nVí dụ:\n- cơm gạo ré"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[voi] kêu\nVí dụ:\n- con voi ré lên"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phát ra tiếng kêu to, rít lên đột ngột, nghe chói tai\nVí dụ:\n- ré lên cười \n - đứa bé giật mình, khóc ré lên"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ré\n- đg. Nói voi kêu: Voi ré, ngựa hí inh tai.\n- đg. Nói nắng hay mưa xiên vào, hắt vào: Nắng ré đầu hồi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ré\n-Trumpet\n=Con voi ré\n+The elephant trumpeted\n-Shine obliquely, splash obliquely\n=Nắng ré đầu hiên\n+The sun shone obliquely into the verandah\n=Mưa ré cửa sổ\n+The rain splashed obliquely throught the window"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ré\n- Trumpet\n=Con voi ré+The elephant trumpeted\n-Shine obliquely, splash obliquely\n=Nắng ré đầu hiên+The sun shone obliquely into the verandah\n=Mưa ré cửa sổ+The rain splashed obliquely throught the window"
+        "dict_definition": "piercing cold"
       }
     ]
   },
@@ -218,19 +160,6 @@
     ]
   },
   {
-    "word": "rét cắt ruột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rét cắt ruột [rét cắt ruột]\n-cold piercing wind"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cold piercing wind"
-      }
-    ]
-  },
-  {
     "word": "rét dài",
     "definitions": [
       {
@@ -244,52 +173,15 @@
     ]
   },
   {
-    "word": "rét mướt",
+    "word": "rét cắt ruột",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rét và có mưa kéo dài [nói khái quát]\nVí dụ:\n- mưa gió rét mướt \n - trời rét mướt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rét mướt\n- Rét nói chung."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@rét mướt\n-Cold (nói khái quát)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rét mướt\n- Cold (nói khái quát)"
+        "dict_definition": "@rét cắt ruột [rét cắt ruột]\n-cold piercing wind"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cold"
-      }
-    ]
-  },
-  {
-    "word": "rét ngọt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rét đậm và khô, cảm thấy như thấm sâu vào cơ thể, rất khó chịu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rét ngọt\n- Nói trời không có gió mà rét thấm vào người."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rét ngọt\n-Biting cold"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rét ngọt\n- Biting cold"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "biting cold"
+        "dict_definition": "cold piercing wind"
       }
     ]
   },
@@ -323,6 +215,69 @@
     ]
   },
   {
+    "word": "rén",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "một cách rất nhẹ, rất khẽ, cố giữ để không gây ra tiếng động\nVí dụ:\n- rén bước vào nhà"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rén\n- đg. Đi nhẹ bằng phần trước bàn chân, không để gót chấm đất: Rén bước trong hành lang bệnh viện."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rén\n-Walk softly; walk shily\n=\n+en rén (láy, ý tăng)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rén\n- Walk softly; walk shily\n=Ren rén (láy, ý tăng)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to walk softly"
+      }
+    ]
+  },
+  {
+    "word": "rét thấu xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rét thấu xương [rét thấu xương]\n-to be frozen to the marrow/to the bone;  to be chilled to the bone/to the marrow"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be frozen to the marrow or to the bone, be"
+      }
+    ]
+  },
+  {
+    "word": "rét mướt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rét và có mưa kéo dài [nói khái quát]\nVí dụ:\n- mưa gió rét mướt \n - trời rét mướt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rét mướt\n- Rét nói chung."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rét mướt\n-Cold (nói khái quát)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rét mướt\n- Cold (nói khái quát)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cold"
+      }
+    ]
+  },
+  {
     "word": "rét căm căm",
     "definitions": [
       {
@@ -340,15 +295,77 @@
     ]
   },
   {
-    "word": "rén bước",
+    "word": "rét ngọt",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rét đậm và khô, cảm thấy như thấm sâu vào cơ thể, rất khó chịu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rét ngọt\n- Nói trời không có gió mà rét thấm vào người."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@rén bước\n-Tiptoe, walk gingerly\n=Rén bước trong hành lang bệnh viện\n+To walk gingerly in the corridor of a hospital"
+        "dict_definition": "@rét ngọt\n-Biting cold"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rén bước\n- Tiptoe, walk gingerly\n=Rén bước trong hành lang bệnh viện+To walk gingerly in the corridor of a hospital"
+        "dict_definition": "@rét ngọt\n- Biting cold"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "biting cold"
+      }
+    ]
+  },
+  {
+    "word": "réo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kêu, gọi từ xa bằng những tiếng cao giọng, gay gắt, kéo dài\nVí dụ:\n- lũ trẻ réo ầm nhà \n - réo cả tên tục của người ta ra mà chửi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phát ra tiếng nghe như tiếng réo\nVí dụ:\n- còi tàu réo vang \n - chuông điện thoại réo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@réo\n- đgt. 1. Gọi to với giọng đanh, kéo dài: mới sáng sớm đã đến nhà người ta mà réo. 2. Phát ra âm thanh thành từng hồi kéo dài: chuông điện thoại réo mãi mà chẳng có ai đến cầm máy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@réo\n*verb\n-to halloo; to call out to"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@réo\n* verb\n- to halloo; to call out to"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to halloo, call out to"
+      }
+    ]
+  },
+  {
+    "word": "rét lộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tiết trời rét vào khoảng tháng hai âm lịch ở miền Bắc Việt Nam"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rét lộc\n- Rét về tháng Hai âm lịch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rét lộc [rét lộc]\n-Cold in the second lunar month."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cold in the second lunar month"
       }
     ]
   },
@@ -362,49 +379,32 @@
     ]
   },
   {
-    "word": "rét như cắt",
+    "word": "rén bước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rét như cắt [rét như cắt]\n-piercing cold"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "piercing cold"
-      }
-    ]
-  },
-  {
-    "word": "rén chiếng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rén chiếng\n- rón rén trình bày"
-      }
-    ]
-  },
-  {
-    "word": "rét buốt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rét đến mức như thấm sâu vào tận xương tuỷ\nVí dụ:\n- đêm đông rét buốt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rét buốt\n- Rét lắm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rét buốt\n-Piercingly cold"
+        "dict_definition": "@rén bước\n-Tiptoe, walk gingerly\n=Rén bước trong hành lang bệnh viện\n+To walk gingerly in the corridor of a hospital"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rét buốt\n- Piercingly cold"
+        "dict_definition": "@rén bước\n- Tiptoe, walk gingerly\n=Rén bước trong hành lang bệnh viện+To walk gingerly in the corridor of a hospital"
+      }
+    ]
+  },
+  {
+    "word": "réo rắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[âm thanh, thường là tiếng nhạc] cao và thanh, lúc to lúc nhỏ, lúc nhanh lúc chậm\nVí dụ:\n- tiếng đàn réo rắt \n - \"Con chim khôn chết mệt về mồi, Nó kêu réo rắt ghẹo người tình chung.\" (Cdao)"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "piercingly cold"
+        "dict_name": "SPDict",
+        "dict_definition": "@réo rắt\n-xem giéo giắt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@réo rắt\n- xem giéo giắt"
       }
     ]
   }

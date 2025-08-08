@@ -1,14 +1,10 @@
 [
   {
-    "word": "đẫy giấc",
+    "word": "đẫm nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đẫy giấc\n-Sleep one\"s fil\n=Thằng bé đã ngủ đẫy giấc\n+The little boy has slept his fill"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đẫy giấc\n- Sleep one's fil\n=Thằng bé đã ngủ đẫy giấc+The little boy has slept his fill"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sodden\n-soggy\n-soppy\n-watery"
       }
     ]
   },
@@ -22,11 +18,11 @@
     ]
   },
   {
-    "word": "đẫy mắt",
+    "word": "đẫm lệ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@đẫy mắt [đẫy mắt]\n-xem"
+        "dict_name": "VNEDICT",
+        "dict_definition": "tear-soaked"
       }
     ]
   },
@@ -48,36 +44,28 @@
     ]
   },
   {
-    "word": "đẫm lệ",
+    "word": "đẫy mắt",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tear-soaked"
+        "dict_name": "SPDict",
+        "dict_definition": "@đẫy mắt [đẫy mắt]\n-xem"
       }
     ]
   },
   {
-    "word": "đẫy",
+    "word": "đẫm máu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có lượng đạt mức tối đa, thoả mãn, đủ yêu cầu\nVí dụ:\n- ăn no đẫy bụng \n - ngủ đẫy mắt \n - đẫy hạt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cơ thể] đầy đặn, hơi béo\nVí dụ:\n- vóc người đã hơi đẫy ra"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đẫy\n- t. 1 Có lượng đạt mức tối đa, thoả mãn đủ yêu cầu. Ăn no đẫy bụng. Ngủ đẫy mắt. Lao động đẫy ngày, đẫy buổi. Bông lúa đẫy hạt. 2 (Cơ thể) đầy đặn, hơi béo. Vóc người đẫy. Dạo này trông đẫy ra."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@đẫy\n*adj\n-fat\n=đẫy đà\n+corpulent;big and fat"
+        "dict_definition": "@đẫm máu\n-Blood-stained\n=Bàn tay đẫm máu\n+Blood-stained hands\n-Bloody, saguinary\n=Sự đàn áp đẫm máu\n+A bloody repression\n=đấm\n+Strike (with one\"s first), punch\n=Đấm vào ngực ai\n+To strike someone \"s chest with one\"s fist\n=Đấm bị bông\n+To deal with a shadow-boxing opponent, to do shadow-boxing (Mỹ)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đẫy\n* adj\n- fat\n=đẫy đà+corpulent;big and fat"
+        "dict_definition": "@đẫm máu\n- Blood-stained\n=Bàn tay đẫm máu+Blood-stained hands\n-Bloody, saguinary\n=Sự đàn áp đẫm máu+A bloody repression\n=đấm+Strike (with one's first), punch\n=Đấm vào ngực ai+To strike someone 's chest with one's fist\n=Đấm bị bông+To deal with a shadow-boxing opponent, to do shadow-boxing (Mỹ)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bloody, blood-soaked"
       }
     ]
   },
@@ -103,6 +91,19 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to be drenched, soaking, wet"
+      }
+    ]
+  },
+  {
+    "word": "đẫy giấc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đẫy giấc\n-Sleep one\"s fil\n=Thằng bé đã ngủ đẫy giấc\n+The little boy has slept his fill"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đẫy giấc\n- Sleep one's fil\n=Thằng bé đã ngủ đẫy giấc+The little boy has slept his fill"
       }
     ]
   },
@@ -137,28 +138,27 @@
     ]
   },
   {
-    "word": "đẫm máu",
+    "word": "đẫy",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có lượng đạt mức tối đa, thoả mãn, đủ yêu cầu\nVí dụ:\n- ăn no đẫy bụng \n - ngủ đẫy mắt \n - đẫy hạt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cơ thể] đầy đặn, hơi béo\nVí dụ:\n- vóc người đã hơi đẫy ra"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đẫy\n- t. 1 Có lượng đạt mức tối đa, thoả mãn đủ yêu cầu. Ăn no đẫy bụng. Ngủ đẫy mắt. Lao động đẫy ngày, đẫy buổi. Bông lúa đẫy hạt. 2 (Cơ thể) đầy đặn, hơi béo. Vóc người đẫy. Dạo này trông đẫy ra."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@đẫm máu\n-Blood-stained\n=Bàn tay đẫm máu\n+Blood-stained hands\n-Bloody, saguinary\n=Sự đàn áp đẫm máu\n+A bloody repression\n=đấm\n+Strike (with one\"s first), punch\n=Đấm vào ngực ai\n+To strike someone \"s chest with one\"s fist\n=Đấm bị bông\n+To deal with a shadow-boxing opponent, to do shadow-boxing (Mỹ)"
+        "dict_definition": "@đẫy\n*adj\n-fat\n=đẫy đà\n+corpulent;big and fat"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đẫm máu\n- Blood-stained\n=Bàn tay đẫm máu+Blood-stained hands\n-Bloody, saguinary\n=Sự đàn áp đẫm máu+A bloody repression\n=đấm+Strike (with one's first), punch\n=Đấm vào ngực ai+To strike someone 's chest with one's fist\n=Đấm bị bông+To deal with a shadow-boxing opponent, to do shadow-boxing (Mỹ)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bloody, blood-soaked"
-      }
-    ]
-  },
-  {
-    "word": "đẫm nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sodden\n-soggy\n-soppy\n-watery"
+        "dict_definition": "@đẫy\n* adj\n- fat\n=đẫy đà+corpulent;big and fat"
       }
     ]
   }

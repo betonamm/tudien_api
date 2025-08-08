@@ -1,86 +1,5 @@
 [
   {
-    "word": "lặng thinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "im lặng không nói gì, không lên tiếng\nVí dụ:\n- lặng thinh không đáp \n - lặng thinh suy nghĩ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặng thinh\n- Im không nói gì."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặng thinh [lặng thinh]\n-to keep one\"s mouth shut;  to hold one\"s tongue"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "silent, quiet; to keep one’s mouth shut, hold one’s tongue"
-      }
-    ]
-  },
-  {
-    "word": "lặng phắc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "im lặng hoàn toàn, đến mức như không có bất cứ sự hoạt động nào\nVí dụ:\n- không gian lặng phắc"
-      }
-    ]
-  },
-  {
-    "word": "lặng lặng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặng lặng\n- Nh. Lẳng lặng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặng lặng [lặng lặng]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "lặc là lặc lè",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặc là lặc lè\n- Nh. Lặc lè."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặc là lặc lè [lặc là lặc lè]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "lặng ngắt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "im lặng hoàn toàn, tuyệt đối\nVí dụ:\n- bốn bề lặng ngắt \n - \"Buồng không lặng ngắt như tờ, Dấu xe ngựa đã rêu lờ mờ xanh.\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặng ngắt\n- Vắng vẻ không có tiếng động : Buồng không lặng ngắt như tờ (K) ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặng ngắt\n*adj\n-dead silence"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lặng ngắt\n* adj\n- dead silence"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "absolutely quiet; dead silence"
-      }
-    ]
-  },
-  {
     "word": "lặng",
     "definitions": [
       {
@@ -110,32 +29,42 @@
     ]
   },
   {
-    "word": "lặp",
+    "word": "lặng câm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhắc lại, tái diễn lại giống y như cái đã có trước\nVí dụ:\n- bài viết có nhiều ý lặp \n - lặp đi lặp lại mãi một câu \n - lịch sử không lặp lại"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặp [lặp]\n-tautology, tautologic (lặp thừa)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "iteration; to repeat"
+        "dict_definition": "im lặng, không nói một lời\nVí dụ:\n- ngồi lặng câm không nói"
       }
     ]
   },
   {
-    "word": "lặt lẹo",
+    "word": "lặng tờ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặt lẹo [lặt lẹo]\n-changeable"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "yên, tĩnh hoàn toàn, không có một chút động\nVí dụ:\n- mặt sông lặng tờ"
+      }
+    ]
+  },
+  {
+    "word": "lặng phắc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "im lặng hoàn toàn, đến mức như không có bất cứ sự hoạt động nào\nVí dụ:\n- không gian lặng phắc"
+      }
+    ]
+  },
+  {
+    "word": "lặng lặng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lặng lặng\n- Nh. Lẳng lặng."
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "changeable"
+        "dict_name": "SPDict",
+        "dict_definition": "@lặng lặng [lặng lặng]\n-xem"
       }
     ]
   },
@@ -161,6 +90,45 @@
     ]
   },
   {
+    "word": "lặp lại (quảng cáo...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-duplication"
+      }
+    ]
+  },
+  {
+    "word": "lặng lờ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[chuyển động] êm nhẹ, từ từ, chậm chạp và lặng lẽ, đến mức như không có một chút tiếng động nào\nVí dụ:\n- dòng nước lặng lờ trôi"
+      }
+    ]
+  },
+  {
+    "word": "lặng yên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như yên lặng\nVí dụ:\n- lặng yên suy nghĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lặng yên\n- Nh. Lặng im."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặng yên [lặng yên]\n-calm;  quiet"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "calm, quiet; to keep quiet"
+      }
+    ]
+  },
+  {
     "word": "lặt",
     "definitions": [
       {
@@ -174,6 +142,100 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@lặt [lặt]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "lặc lè",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả dáng đi nặng nề khó nhọc vì quá béo hoặc phải mang vác quá nặng\nVí dụ:\n- xách lặc lè hai chiếc va li lớn \n - con gấu bước đi lặc lè"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lặc lè\n- Nặng nề, khó nhọc: Gánh ba mươi cân gạo đã thấy lặc lè."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặc lè [lặc lè]\n-to carry something with difficulty\n-to walk with difficulty;  to struggle along"
+      }
+    ]
+  },
+  {
+    "word": "lặng ngắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "im lặng hoàn toàn, tuyệt đối\nVí dụ:\n- bốn bề lặng ngắt \n - \"Buồng không lặng ngắt như tờ, Dấu xe ngựa đã rêu lờ mờ xanh.\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lặng ngắt\n- Vắng vẻ không có tiếng động : Buồng không lặng ngắt như tờ (K) ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặng ngắt\n*adj\n-dead silence"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lặng ngắt\n* adj\n- dead silence"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "absolutely quiet; dead silence"
+      }
+    ]
+  },
+  {
+    "word": "lặng lẽ trôi qua",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pass quietly"
+      }
+    ]
+  },
+  {
+    "word": "lặt và lặt vặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất lặt vặt"
+      }
+    ]
+  },
+  {
+    "word": "lặng người",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lặng người\n- Yên không cử động, vì quá xúc động: Nghe tin mẹ chết lặng người đi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặng người [lặng người]\n-dumbfounded;  petrified;  dumbstruck;  speechless;  mute"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dumbfounded, petrified, dumbstruck, speechless, mute"
+      }
+    ]
+  },
+  {
+    "word": "lặp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhắc lại, tái diễn lại giống y như cái đã có trước\nVí dụ:\n- bài viết có nhiều ý lặp \n - lặp đi lặp lại mãi một câu \n - lịch sử không lặp lại"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặp [lặp]\n-tautology, tautologic (lặp thừa)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "iteration; to repeat"
       }
     ]
   },
@@ -199,88 +261,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "take pains, brave dangers, travel up hill and down dale, go"
-      }
-    ]
-  },
-  {
-    "word": "lặng lẽ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "im lặng, không lên tiếng, không có tiếng động, tiếng ồn\nVí dụ:\n- lặng lẽ khóc \n - sống lặng lẽ như một chiếc bóng \n - dòng sông lặng lẽ trôi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặng lẽ\n- tt. 1. Im lặng, không gây tiếng động, không động đậy: đêm khuya lặng lẽ  cảnh chiều hôm lặng lẽ  Mặt hồ lặng lẽ soi thấu từng sợi mây trắng trên tầng trời (Ma Văn Kháng). 2. Không lên tiếng, không nói năng gì cả: khu rừng lặng lẽ  lặng lẽ ngồi vào bàn  Thuần lặng lẽ đứng dậy (Ma Văn Kháng)  Một vành trăng ngàn năm lặng lẽ (Thế Lữ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặng lẽ\n*adj\n-quiet, silent"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@lặng lẽ\n* adj\n- quiet, silent"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "quiet, silent"
-      }
-    ]
-  },
-  {
-    "word": "lặng lờ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[chuyển động] êm nhẹ, từ từ, chậm chạp và lặng lẽ, đến mức như không có một chút tiếng động nào\nVí dụ:\n- dòng nước lặng lờ trôi"
-      }
-    ]
-  },
-  {
-    "word": "lặp đi lặp lại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to repeat over and over"
-      }
-    ]
-  },
-  {
-    "word": "lặp lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặp lại [lặp lại]\n-to repeat;  to reiterate\n@Chuyên ngành kinh tế\n-repeat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to repeat, reiterate"
-      }
-    ]
-  },
-  {
-    "word": "lặng người",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặng người\n- Yên không cử động, vì quá xúc động: Nghe tin mẹ chết lặng người đi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặng người [lặng người]\n-dumbfounded;  petrified;  dumbstruck;  speechless;  mute"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dumbfounded, petrified, dumbstruck, speechless, mute"
-      }
-    ]
-  },
-  {
-    "word": "lặng lẽ trôi qua",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pass quietly"
       }
     ]
   },
@@ -331,32 +311,62 @@
     ]
   },
   {
-    "word": "lặng yên",
+    "word": "lặp đi lặp lại",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như yên lặng\nVí dụ:\n- lặng yên suy nghĩ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặng yên\n- Nh. Lặng im."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lặng yên [lặng yên]\n-calm;  quiet"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "calm, quiet; to keep quiet"
+        "dict_definition": "to repeat over and over"
       }
     ]
   },
   {
-    "word": "lặng tờ",
+    "word": "lặng lẽ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "yên, tĩnh hoàn toàn, không có một chút động\nVí dụ:\n- mặt sông lặng tờ"
+        "dict_definition": "im lặng, không lên tiếng, không có tiếng động, tiếng ồn\nVí dụ:\n- lặng lẽ khóc \n - sống lặng lẽ như một chiếc bóng \n - dòng sông lặng lẽ trôi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lặng lẽ\n- tt. 1. Im lặng, không gây tiếng động, không động đậy: đêm khuya lặng lẽ  cảnh chiều hôm lặng lẽ  Mặt hồ lặng lẽ soi thấu từng sợi mây trắng trên tầng trời (Ma Văn Kháng). 2. Không lên tiếng, không nói năng gì cả: khu rừng lặng lẽ  lặng lẽ ngồi vào bàn  Thuần lặng lẽ đứng dậy (Ma Văn Kháng)  Một vành trăng ngàn năm lặng lẽ (Thế Lữ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặng lẽ\n*adj\n-quiet, silent"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@lặng lẽ\n* adj\n- quiet, silent"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "quiet, silent"
+      }
+    ]
+  },
+  {
+    "word": "lặp lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặp lại [lặp lại]\n-to repeat;  to reiterate\n@Chuyên ngành kinh tế\n-repeat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to repeat, reiterate"
+      }
+    ]
+  },
+  {
+    "word": "lặt lẹo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặt lẹo [lặt lẹo]\n-changeable"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "changeable"
       }
     ]
   },
@@ -382,11 +392,23 @@
     ]
   },
   {
-    "word": "lặt và lặt vặt",
+    "word": "lặng thinh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất lặt vặt"
+        "dict_definition": "im lặng không nói gì, không lên tiếng\nVí dụ:\n- lặng thinh không đáp \n - lặng thinh suy nghĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lặng thinh\n- Im không nói gì."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lặng thinh [lặng thinh]\n-to keep one\"s mouth shut;  to hold one\"s tongue"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "silent, quiet; to keep one’s mouth shut, hold one’s tongue"
       }
     ]
   },
@@ -400,37 +422,15 @@
     ]
   },
   {
-    "word": "lặp lại (quảng cáo...)",
+    "word": "lặc là lặc lè",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-duplication"
-      }
-    ]
-  },
-  {
-    "word": "lặc lè",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng đi nặng nề khó nhọc vì quá béo hoặc phải mang vác quá nặng\nVí dụ:\n- xách lặc lè hai chiếc va li lớn \n - con gấu bước đi lặc lè"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lặc lè\n- Nặng nề, khó nhọc: Gánh ba mươi cân gạo đã thấy lặc lè."
+        "dict_definition": "@lặc là lặc lè\n- Nh. Lặc lè."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lặc lè [lặc lè]\n-to carry something with difficulty\n-to walk with difficulty;  to struggle along"
-      }
-    ]
-  },
-  {
-    "word": "lặng câm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "im lặng, không nói một lời\nVí dụ:\n- ngồi lặng câm không nói"
+        "dict_definition": "@lặc là lặc lè [lặc là lặc lè]\n-xem"
       }
     ]
   }

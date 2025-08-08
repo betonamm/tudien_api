@@ -9,6 +9,33 @@
     ]
   },
   {
+    "word": "ổn định cuộc sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-to establish oneself"
+      }
+    ]
+  },
+  {
+    "word": "ổn định điện áp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-voltage stabilization"
+      }
+    ]
+  },
+  {
+    "word": "ổn cố",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "stable"
+      }
+    ]
+  },
+  {
     "word": "ổn định kép",
     "definitions": [
       {
@@ -23,6 +50,42 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-temperature-stable\n@Lĩnh vực: điện lạnh\n-thermostatic"
+      }
+    ]
+  },
+  {
+    "word": "ổn định công ăn việc làm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-employment stabilization"
+      }
+    ]
+  },
+  {
+    "word": "ổn đáng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ổn đáng\n- Êm thuận và thỏa đáng: Công việc xếp như thế chưa ổn đáng."
+      }
+    ]
+  },
+  {
+    "word": "ổn định trong phạm vi nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stability in the small"
+      }
+    ]
+  },
+  {
+    "word": "ổn áp điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electronic regulator"
       }
     ]
   },
@@ -45,20 +108,38 @@
     ]
   },
   {
-    "word": "ổn định vòng hở",
+    "word": "ổn định thể tích",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open-loop stable"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-soundness"
       }
     ]
   },
   {
-    "word": "ổn định đất",
+    "word": "ổn định khí đàn hồi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-soil stabilization"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Aeroelastic Stability"
+      }
+    ]
+  },
+  {
+    "word": "ổn định hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stabilize"
+      }
+    ]
+  },
+  {
+    "word": "ổn định tiền tệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-currency stabilization\n-stabilize a currency\n-stabilize a currency (to...)\n-stabilize the currency\n-stabilize the currency (to...)"
       }
     ]
   },
@@ -72,11 +153,54 @@
     ]
   },
   {
-    "word": "ổn đáng",
+    "word": "ổn áp truyền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmission regulator"
+      }
+    ]
+  },
+  {
+    "word": "ổn định giá cả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-price stability"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "price stability"
+      }
+    ]
+  },
+  {
+    "word": "ổn định lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fix"
+      }
+    ]
+  },
+  {
+    "word": "ổn thỏa",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ổn đáng\n- Êm thuận và thỏa đáng: Công việc xếp như thế chưa ổn đáng."
+        "dict_definition": "@ổn thỏa\n- ở một tình trạng khiến mọi người hài lòng: Chuyện xích mích đã dàn xếp ổn thỏa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ổn thỏa\n-Satisfactory to all, to everyone\"s liking, satisfactorily composed\n=Chuyện cải nhau đã dàn xếp ổn thỏa\n+The quarrel has been composed satisfactorily (to everyone\"s liking)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ổn thỏa\n- Satisfactory to all, to everyone's liking, satisfactorily composed\n=Chuyện cải nhau đã dàn xếp ổn thỏa+The quarrel has been composed satisfactorily (to everyone's liking)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "satisfactory to all, to everyone's liking"
       }
     ]
   },
@@ -90,44 +214,11 @@
     ]
   },
   {
-    "word": "ổn",
+    "word": "ổn định nền kinh tế",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "yên, không có gì vướng mắc, không có gì lôi thôi phải giải quyết\nVí dụ:\n- công việc đã tạm ổn \n - nói như vậy là không ổn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ổn\n- t. Êm thuận, không có gì vướng mắc : Chuyện xích mích dàn xếp đã ổn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ổn\n*adj\n-settled; snooth; without a hitch"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ổn\n* adj\n- settled; snooth; without a hitch"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "settled, smooth, without a hitch, stable, peaceful"
-      }
-    ]
-  },
-  {
-    "word": "ổn thoả",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "yên ổn, đâu vào đấy, không còn khúc mắc gì nữa\nVí dụ:\n- mọi việc được thu xếp ổn thoả"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ổn thoả [ổn thoả]\n-amicable;  satisfactory"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "amicable, satisfactory to all, everyone’s liking; to settle peacefully"
+        "dict_definition": "to stabilize an economy"
       }
     ]
   },
@@ -157,11 +248,20 @@
     ]
   },
   {
-    "word": "ổn định tương đối",
+    "word": "ổn định nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-relative stability"
+        "dict_definition": "@Chuyên ngành kinh tế\n-thermostable\n@Chuyên ngành kỹ thuật\n-heat stability\n-heat-stabilized\n-heat-stable\n-temperature stability\n-thermostable"
+      }
+    ]
+  },
+  {
+    "word": "ổn định, vững",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-persistent\n-steady"
       }
     ]
   },
@@ -175,11 +275,65 @@
     ]
   },
   {
-    "word": "ổn định giá chứng khoán",
+    "word": "ổn định tiệm cận",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stabilize a security"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-asymptotically stable"
+      }
+    ]
+  },
+  {
+    "word": "ổn định đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-soil stabilization"
+      }
+    ]
+  },
+  {
+    "word": "ổn định chuẩn tắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normally persistent"
+      }
+    ]
+  },
+  {
+    "word": "ổn nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-thermostatic"
+      }
+    ]
+  },
+  {
+    "word": "ổn định đơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-monostable"
+      }
+    ]
+  },
+  {
+    "word": "ổn định thị trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-peg the market (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "ổn định quá nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-superheat stability"
       }
     ]
   },
@@ -193,6 +347,15 @@
     ]
   },
   {
+    "word": "ổn định hóa tần số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-frequency control"
+      }
+    ]
+  },
+  {
     "word": "ổn định rung",
     "definitions": [
       {
@@ -202,20 +365,28 @@
     ]
   },
   {
-    "word": "ổn định trong phạm vi nhỏ",
+    "word": "ổn thoả",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "yên ổn, đâu vào đấy, không còn khúc mắc gì nữa\nVí dụ:\n- mọi việc được thu xếp ổn thoả"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stability in the small"
+        "dict_definition": "@ổn thoả [ổn thoả]\n-amicable;  satisfactory"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "amicable, satisfactory to all, everyone’s liking; to settle peacefully"
       }
     ]
   },
   {
-    "word": "ổn định, vững",
+    "word": "ổn định đối với luật hợp thành ngoài",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-persistent\n-steady"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable for an exterior composition law"
       }
     ]
   },
@@ -241,6 +412,184 @@
     ]
   },
   {
+    "word": "ổn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "yên, không có gì vướng mắc, không có gì lôi thôi phải giải quyết\nVí dụ:\n- công việc đã tạm ổn \n - nói như vậy là không ổn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ổn\n- t. Êm thuận, không có gì vướng mắc : Chuyện xích mích dàn xếp đã ổn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ổn\n*adj\n-settled; snooth; without a hitch"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ổn\n* adj\n- settled; snooth; without a hitch"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "settled, smooth, without a hitch, stable, peaceful"
+      }
+    ]
+  },
+  {
+    "word": "ổn định, dừng, bền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable"
+      }
+    ]
+  },
+  {
+    "word": "ổn định trung tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-neutral stability"
+      }
+    ]
+  },
+  {
+    "word": "ổn định điện hoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-corona stabilization"
+      }
+    ]
+  },
+  {
+    "word": "ổn định giá trị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stable in value"
+      }
+    ]
+  },
+  {
+    "word": "ổn định giá tiền tệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-monetary stability"
+      }
+    ]
+  },
+  {
+    "word": "ổn định trở kháng động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Dynamic Impedance Stabilization (DIS)"
+      }
+    ]
+  },
+  {
+    "word": "ổn định lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cold stabilization"
+      }
+    ]
+  },
+  {
+    "word": "ổn định tạm thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-temporary stabilization"
+      }
+    ]
+  },
+  {
+    "word": "ổn định vòng hở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-open-loop stable"
+      }
+    ]
+  },
+  {
+    "word": "ổn định giá chứng khoán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stabilize a security"
+      }
+    ]
+  },
+  {
+    "word": "ổn định quá độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-transient stability"
+      }
+    ]
+  },
+  {
+    "word": "ổn định quang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-photostable"
+      }
+    ]
+  },
+  {
+    "word": "ổn định đối với một ánh xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable for a mapping"
+      }
+    ]
+  },
+  {
+    "word": "ổn định tương đối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-relative stability"
+      }
+    ]
+  },
+  {
+    "word": "ổn định trong ánh sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-stable to light"
+      }
+    ]
+  },
+  {
+    "word": "ổn định đối với luật hợp thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable for an interior composition law"
+      }
+    ]
+  },
+  {
+    "word": "ổn định chính sách ngân hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-stabilizing budget policy"
+      }
+    ]
+  },
+  {
     "word": "ổng",
     "definitions": [
       {
@@ -258,360 +607,11 @@
     ]
   },
   {
-    "word": "ổn định tiệm cận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-asymptotically stable"
-      }
-    ]
-  },
-  {
-    "word": "ổn định thể tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-soundness"
-      }
-    ]
-  },
-  {
-    "word": "ổn định điện hoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-corona stabilization"
-      }
-    ]
-  },
-  {
-    "word": "ổn định tạm thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-temporary stabilization"
-      }
-    ]
-  },
-  {
-    "word": "ổn định cuộc sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-to establish oneself"
-      }
-    ]
-  },
-  {
-    "word": "ổn định đối với một ánh xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable for a mapping"
-      }
-    ]
-  },
-  {
-    "word": "ổn định chính sách ngân hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stabilizing budget policy"
-      }
-    ]
-  },
-  {
-    "word": "ổn định trung tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-neutral stability"
-      }
-    ]
-  },
-  {
-    "word": "ổn định đối với luật hợp thành ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable for an exterior composition law"
-      }
-    ]
-  },
-  {
-    "word": "ổn định quang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-photostable"
-      }
-    ]
-  },
-  {
-    "word": "ổn định thị trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-peg the market (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "ổn định đơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-monostable"
-      }
-    ]
-  },
-  {
-    "word": "ổn định giá tiền tệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-monetary stability"
-      }
-    ]
-  },
-  {
-    "word": "ổn định giá trị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-stable in value"
-      }
-    ]
-  },
-  {
-    "word": "ổn định trong ánh sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-stable to light"
-      }
-    ]
-  },
-  {
-    "word": "ổn định hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stabilize"
-      }
-    ]
-  },
-  {
-    "word": "ổn cố",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stable"
-      }
-    ]
-  },
-  {
-    "word": "ổn định quá độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-transient stability"
-      }
-    ]
-  },
-  {
-    "word": "ổn định khí đàn hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Aeroelastic Stability"
-      }
-    ]
-  },
-  {
-    "word": "ổn định, dừng, bền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable"
-      }
-    ]
-  },
-  {
-    "word": "ổn định đối với luật hợp thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-stable for an interior composition law"
-      }
-    ]
-  },
-  {
-    "word": "ổn định quá nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-superheat stability"
-      }
-    ]
-  },
-  {
-    "word": "ổn định giá cả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-price stability"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "price stability"
-      }
-    ]
-  },
-  {
-    "word": "ổn định chuẩn tắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normally persistent"
-      }
-    ]
-  },
-  {
-    "word": "ổn định điện áp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-voltage stabilization"
-      }
-    ]
-  },
-  {
-    "word": "ổn định hóa tần số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-frequency control"
-      }
-    ]
-  },
-  {
-    "word": "ổn định tiền tệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-currency stabilization\n-stabilize a currency\n-stabilize a currency (to...)\n-stabilize the currency\n-stabilize the currency (to...)"
-      }
-    ]
-  },
-  {
-    "word": "ổn định lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fix"
-      }
-    ]
-  },
-  {
-    "word": "ổn áp truyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-transmission regulator"
-      }
-    ]
-  },
-  {
-    "word": "ổn nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-thermostatic"
-      }
-    ]
-  },
-  {
-    "word": "ổn định công ăn việc làm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-employment stabilization"
-      }
-    ]
-  },
-  {
-    "word": "ổn thỏa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ổn thỏa\n- ở một tình trạng khiến mọi người hài lòng: Chuyện xích mích đã dàn xếp ổn thỏa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ổn thỏa\n-Satisfactory to all, to everyone\"s liking, satisfactorily composed\n=Chuyện cải nhau đã dàn xếp ổn thỏa\n+The quarrel has been composed satisfactorily (to everyone\"s liking)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ổn thỏa\n- Satisfactory to all, to everyone's liking, satisfactorily composed\n=Chuyện cải nhau đã dàn xếp ổn thỏa+The quarrel has been composed satisfactorily (to everyone's liking)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "satisfactory to all, to everyone's liking"
-      }
-    ]
-  },
-  {
-    "word": "ổn áp điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-electronic regulator"
-      }
-    ]
-  },
-  {
-    "word": "ổn định nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-thermostable\n@Chuyên ngành kỹ thuật\n-heat stability\n-heat-stabilized\n-heat-stable\n-temperature stability\n-thermostable"
-      }
-    ]
-  },
-  {
-    "word": "ổn định trở kháng động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Dynamic Impedance Stabilization (DIS)"
-      }
-    ]
-  },
-  {
     "word": "ổn nhiệt cryo",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cryostat"
-      }
-    ]
-  },
-  {
-    "word": "ổn định lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cold stabilization"
-      }
-    ]
-  },
-  {
-    "word": "ổn định nền kinh tế",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to stabilize an economy"
       }
     ]
   }

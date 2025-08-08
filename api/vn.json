@@ -1,19 +1,19 @@
 [
   {
-    "word": "vn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Việt Nam"
-      }
-    ]
-  },
-  {
     "word": "vnch",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "Việt Nam Công Hoa"
+      }
+    ]
+  },
+  {
+    "word": "vn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Việt Nam"
       }
     ]
   }

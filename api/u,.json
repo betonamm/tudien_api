@@ -1,19 +1,19 @@
 [
   {
+    "word": "u, xơ cứng móng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scleronychia"
+      }
+    ]
+  },
+  {
     "word": "u, lồi, gờ",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-torus"
-      }
-    ]
-  },
-  {
-    "word": "u,u",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@u,U [u]\n-mum;  mom\n-excrescence;  protuberance;  tumour\n-to inflame;  to swell"
       }
     ]
   },
@@ -27,15 +27,6 @@
     ]
   },
   {
-    "word": "u, khối u",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-omcoma"
-      }
-    ]
-  },
-  {
     "word": "u, lệ",
     "definitions": [
       {
@@ -45,11 +36,20 @@
     ]
   },
   {
-    "word": "u, xơ cứng móng",
+    "word": "u, khối u",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scleronychia"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-omcoma"
+      }
+    ]
+  },
+  {
+    "word": "u,u",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@u,U [u]\n-mum;  mom\n-excrescence;  protuberance;  tumour\n-to inflame;  to swell"
       }
     ]
   }

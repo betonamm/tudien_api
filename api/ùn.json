@@ -17,6 +17,15 @@
     ]
   },
   {
+    "word": "ùn ỉn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "slow (due to being fat)"
+      }
+    ]
+  },
+  {
     "word": "ùn tắc",
     "definitions": [
       {
@@ -30,32 +39,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "jam"
-      }
-    ]
-  },
-  {
-    "word": "ùng oàng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng nổ rền vang, đều đặn và liên tiếp của bom đạn\nVí dụ:\n- tiếng đại bác bắn ùng oàng"
-      }
-    ]
-  },
-  {
-    "word": "ùng ục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng âm thanh trầm đục, phát ra liên tiếp như tiếng nước sôi mạnh hoặc bị khuấy động mạnh trong vật chứa kín\nVí dụ:\n- nước sôi ùng ục"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ùng ục\n*danh từ\n-onomatopoeia for gurgling sound"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "onomatopoeia for gurgling sound"
       }
     ]
   },
@@ -85,11 +68,28 @@
     ]
   },
   {
-    "word": "ùn ỉn",
+    "word": "ùng oàng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng nổ rền vang, đều đặn và liên tiếp của bom đạn\nVí dụ:\n- tiếng đại bác bắn ùng oàng"
+      }
+    ]
+  },
+  {
+    "word": "ùng ục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng âm thanh trầm đục, phát ra liên tiếp như tiếng nước sôi mạnh hoặc bị khuấy động mạnh trong vật chứa kín\nVí dụ:\n- nước sôi ùng ục"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ùng ục\n*danh từ\n-onomatopoeia for gurgling sound"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "slow (due to being fat)"
+        "dict_definition": "onomatopoeia for gurgling sound"
       }
     ]
   }

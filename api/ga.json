@@ -1,19 +1,126 @@
 [
   {
-    "word": "ga giãn nở",
+    "word": "gara để xe",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-expanded gas"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open parking structure"
       }
     ]
   },
   {
-    "word": "ganh đua (với)",
+    "word": "ga lập tàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-vie"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-freight yield\n-marshaling yard\n-yard\n-yark"
+      }
+    ]
+  },
+  {
+    "word": "gara trạm đỗ xe (đường dài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parking garage"
+      }
+    ]
+  },
+  {
+    "word": "gai xương, chồi xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stylosteophyte"
+      }
+    ]
+  },
+  {
+    "word": "gay go",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất gay, do có khó khăn lớn khó khắc phục, trong khi tình hình lại đang đòi hỏi được giải quyết [nói khái quát]\nVí dụ:\n- thử thách gay go \n - tình hình rất gay go"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gay go\n- tt, trgt 1. Rất khó khăn: Những đoạn đường lên dốc gay go (NgĐThi) 2. Quyết liệt: Thời kì đấu tranh gay go, gian khổ bắt đầu (Trg-chinh)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gay go\n*adjective\n-keen; severe; tense\n=tình thế gay_go\n+tense situation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gay go\n* adjective\n-keen; severe; tense\n=tình thế gay_go+tense situation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tense, hard, terrible, desperate"
+      }
+    ]
+  },
+  {
+    "word": "gam",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem gram"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thang âm bảy bậc tự nhiên trong một quãng tám"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thang bậc của màu sắc\nVí dụ:\n- gam màu sáng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gam\n- (lý) d. Đơn vị khối lượng bằng một phần nghìn ki-lô-gam."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gam\n-Gramme\n-Gamut, scale\n@Chuyên ngành kinh tế\n-gram\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gram\n-gram (g)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gam\n- Gramme\n-Gamut, scale"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gram (unit of weight); gamut, scale"
+      }
+    ]
+  },
+  {
+    "word": "ga khí flocacbon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fluorocarbon gas"
+      }
+    ]
+  },
+  {
+    "word": "ga lạnh (ở nhiệt độ thấp)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cold refrigerant gas"
+      }
+    ]
+  },
+  {
+    "word": "gan sành dạ sỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan sành dạ sỏi [gan sành dạ sỏi]\n-unfeeling, hard"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unfeeling, hard"
       }
     ]
   },
@@ -27,36 +134,242 @@
     ]
   },
   {
-    "word": "gan lì",
+    "word": "ga tàu hỏa",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gan đến mức như trơ ra, không còn biết sợ là gì\nVí dụ:\n- thằng bé gan lì"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gan lì\n- tt. Lì lợm, bất chấp mọi nguy hiểm."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@gan lì\n*adj\n-intrepidly calm"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gan lì\n* adj\n- intrepidly calm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "motionless"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-railroad depot\n-railroad station\n-railway depot\n-railway stock\n-station"
       }
     ]
   },
   {
-    "word": "ga-bác-đin",
+    "word": "gang lò thổi bessemer axit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ga-bác-đin [ga-bác-đin]\n-(tiếng Pháp gọi là Gabardine) gabardine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-acid Bessemer pig\n-acid pig"
+      }
+    ]
+  },
+  {
+    "word": "gang graphit dạng tấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-lamellar graphite cast iron"
+      }
+    ]
+  },
+  {
+    "word": "ga cơ sở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-home station"
+      }
+    ]
+  },
+  {
+    "word": "ga tô",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bánh nướng xốp, mềm, làm bằng bột mì đánh lẫn với đường và trứng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ga tô\n- ga-tô (F. gateau) dt. Bánh nướng xốp, mềm làm bằng bột mì đánh lẫn với đường và trứng: bánh ga-tô."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga tô\n*noun\n-cake, gâteau"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ga tô\n* noun\n- cake, gâteau"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cake, gâteau"
+      }
+    ]
+  },
+  {
+    "word": "ga chuyển khổ trục bánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-axle gauge changeover station"
+      }
+    ]
+  },
+  {
+    "word": "galaton",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-galactonic"
+      }
+    ]
+  },
+  {
+    "word": "gali",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ga (gallium)\n-gallium\n-gallium (Ga)"
+      }
+    ]
+  },
+  {
+    "word": "ga-li",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ga-li\n- Nguyên tố kim loại rất hiếm, giống chì."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-li [ga-li]\n-(hoá học) (tiếng Pháp gọi là Gallium) gallium (used in semiconductor technology and as a component of various low-melting alloys)"
+      }
+    ]
+  },
+  {
+    "word": "ga thành phố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-town gas"
+      }
+    ]
+  },
+  {
+    "word": "ga xe điện ngầm kiểu trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pillar-type underground station"
+      }
+    ]
+  },
+  {
+    "word": "ga gửi hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-station of origin"
+      }
+    ]
+  },
+  {
+    "word": "gan (bàn chân)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sole"
+      }
+    ]
+  },
+  {
+    "word": "ga-răng-ti",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-răng-ti [ga-răng-ti]\n-(tiếng Pháp gọi là Garantie) warranty;  guarantee"
+      }
+    ]
+  },
+  {
+    "word": "ga xe điện ngầm lộ thiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open-air underground station"
+      }
+    ]
+  },
+  {
+    "word": "gan đóng đinh, gan của một bệnh nhân bị xơ gan có vẻ như có nhiều núm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hobinail iiver"
+      }
+    ]
+  },
+  {
+    "word": "gabarít trên phương thẳng đứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vertical clearance"
+      }
+    ]
+  },
+  {
+    "word": "gai màng xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-periosteophyte"
+      }
+    ]
+  },
+  {
+    "word": "gai xương bả vai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spine of scapula"
+      }
+    ]
+  },
+  {
+    "word": "ga trực thăng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-helicopter station"
+      }
+    ]
+  },
+  {
+    "word": "gai vụn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tow"
+      }
+    ]
+  },
+  {
+    "word": "ga-men",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ga-men\n- X.Cặp lồng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-men [ga-men]\n-(từ gốc tiếng Pháp là Gamelle) mess kit;  canteen"
+      }
+    ]
+  },
+  {
+    "word": "ga phân đoạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sectionalizing station"
+      }
+    ]
+  },
+  {
+    "word": "ga hàng đi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-forwarding station\n-station of origin"
       }
     ]
   },
@@ -70,74 +383,287 @@
     ]
   },
   {
+    "word": "gang nâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grey cast iron"
+      }
+    ]
+  },
+  {
+    "word": "gay gắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở mức độ cao, gây cảm giác khó chịu hoặc căng thẳng\nVí dụ:\n- nắng gay gắt \n - mâu thuẫn hết sức gay gắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không nhẹ nhàng, không nương nhẹ, dù có làm khó chịu hoặc gây căng thẳng\nVí dụ:\n- phê bình một cách gay gắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gay gắt\n- tt. 1. ở mức độ cao và dữ dội, gây cảm giác căng thẳng, khó chịu: nắng hè gay gắt  đấu tranh gay gắt  nói bằng giọng gay gắt. 2. Mạnh mẽ, thẳng thắn, không nương nhẹ: phê bình gay gắt  đả kích gay gắt  Càng gay gắt điệu, càng tê tái lòng (Truyện Kiều)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gay gắt\n*adjective\n-blazing hot,\n-heated,\n-severe, sharp, critical"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gay gắt\n* adjective\n-blazing hot,\n-heated,\n-severe, sharp, critical"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "blazing hot, heated, severe, sharp, critical"
+      }
+    ]
+  },
+  {
+    "word": "ga không ngưng tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-uncondensed vapour"
+      }
+    ]
+  },
+  {
+    "word": "gara để xe chung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-garage with common hall (for housing vehicles)"
+      }
+    ]
+  },
+  {
+    "word": "gas nghèo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
+      }
+    ]
+  },
+  {
+    "word": "ganh đua (với)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-vie"
+      }
+    ]
+  },
+  {
+    "word": "ga hai tầng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-double deck station"
+      }
+    ]
+  },
+  {
+    "word": "gam nhiệt độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-temperature range"
+      }
+    ]
+  },
+  {
+    "word": "ga xuất phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-origin station"
+      }
+    ]
+  },
+  {
+    "word": "gas hút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-suction gas"
+      }
+    ]
+  },
+  {
+    "word": "gai mắt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chướng mắt, nhìn thấy không thể chịu được\nVí dụ:\n- ăn mặc thì loè loẹt, đến là gai mắt  \n - làm những điều trái tai gai mắt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gai mắt\n- tt. Khó chịu như thế, khi nhìn thấy cảnh lố lăng, không thể chấp nhận: Con gái mà ăn mặc lố lăng gai mắt quá."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gai mắt\n*adj\n-unsightly"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gai mắt\n* adj\n- unsightly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unsightly"
+      }
+    ]
+  },
+  {
+    "word": "ga một chiều",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dead-end station\n-line end station"
+      }
+    ]
+  },
+  {
+    "word": "gan cóc tía",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gan góc, lì lợm, dám đương đầu với những việc gian nan hoặc những thế lực lớn hơn mà không biết sợ hãi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan cóc tía [gan cóc tía]\n-greatly daring"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "greatly daring"
+      }
+    ]
+  },
+  {
+    "word": "ga có kho tà vẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sleeper station"
+      }
+    ]
+  },
+  {
+    "word": "gamma",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "con chữ thứ ba của bảng chữ cái Hi Lạp [γ, Γ]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đơn vị đo khối lượng, bằng một phần triệu của gram [kí hiệu là γ]"
+      }
+    ]
+  },
+  {
+    "word": "gang trắng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gang trắng [gang trắng]\n-white cast iron"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "white cast iron"
+      }
+    ]
+  },
+  {
+    "word": "gai mũi trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nasal spine of maxilla anterior\n-spina nasalis anterior maxillae\n-spine of maxilla"
+      }
+    ]
+  },
+  {
+    "word": "galactoza huyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-galactosemia"
+      }
+    ]
+  },
+  {
+    "word": "ga đầu mối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-junction\n-railhead\n-terminal"
+      }
+    ]
+  },
+  {
+    "word": "ga xép",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ga xe lửa nhỏ, dành cho tàu chậm hay tàu chợ, các tàu tốc hành không đỗ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-flag stop\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-halt\n@Lĩnh vực: giao thông & vận tải\n-through station"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "local station (as opposed to express)"
+      }
+    ]
+  },
+  {
+    "word": "gas nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas\n-hot refrigerant gas"
+      }
+    ]
+  },
+  {
+    "word": "gai mũi sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nasal spine posteriror"
+      }
+    ]
+  },
+  {
+    "word": "gamma đồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gammagram"
+      }
+    ]
+  },
+  {
+    "word": "gaas",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gallium arsenide"
+      }
+    ]
+  },
+  {
     "word": "gara đỗ xe khép kín",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-enclosed parking garage"
-      }
-    ]
-  },
-  {
-    "word": "ga xe điện ngầm nhiều hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multidimensional underground station"
-      }
-    ]
-  },
-  {
-    "word": "ga môi chất lạnh nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-warm refrigerant gas"
-      }
-    ]
-  },
-  {
-    "word": "galông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-gallon"
-      }
-    ]
-  },
-  {
-    "word": "gan bàn tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-palm"
-      }
-    ]
-  },
-  {
-    "word": "ga tránh tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-counter station"
-      }
-    ]
-  },
-  {
-    "word": "galactoza (đường sữa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-galactose"
-      }
-    ]
-  },
-  {
-    "word": "ga-lơ-ri",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-lơ-ri [ga-lơ-ri]\n-(từ gốc tiếng Pháp là Galerie d\"art/de peinture/de tableaux) art gallery;  picture gallery"
       }
     ]
   },
@@ -183,997 +709,11 @@
     ]
   },
   {
-    "word": "ga xếp tà vẹt",
+    "word": "gang hợp kim",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tie station"
-      }
-    ]
-  },
-  {
-    "word": "gamma đồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gammagram"
-      }
-    ]
-  },
-  {
-    "word": "ga li",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gallium"
-      }
-    ]
-  },
-  {
-    "word": "gang thép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cứng cỏi, vững vàng đến mức không gì lay chuyển được [tựa như gang và thép]\nVí dụ:\n- ý chí gang thép"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gang thép\n- Cứng cỏi cương quyết: Chiến sĩ gang thép."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gang thép\n-Iron, ironlike\n=chiến sĩ gang thép\n+an ironlike fighter, an ironside"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gang thép\n- Iron, ironlike\n=chiến sĩ gang thép+an ironlike fighter, an ironside"
-      }
-    ]
-  },
-  {
-    "word": "ga len",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-galena"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "galena"
-      }
-    ]
-  },
-  {
-    "word": "ga a xít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-acid gases"
-      }
-    ]
-  },
-  {
-    "word": "gan vàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gan vàng [gan vàng]\n-heart"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "heart"
-      }
-    ]
-  },
-  {
-    "word": "ga-lông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-lông [ga-lông]\n-(tiếng Pháp gọi là Gallon) gallon\n-(từ gốc tiếng Pháp là Galon) stripe;  chevron"
-      }
-    ]
-  },
-  {
-    "word": "gas được hút vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-incoming gas"
-      }
-    ]
-  },
-  {
-    "word": "gang tấc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng cách rất ngắn, không đáng kể, tựa như chỉ bằng một gang tay [nói khái quát]\nVí dụ:\n- cách nhau gang tấc \n - thoát chết trong gang tấc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gang tấc\n- d. Chỗ gần gụi: Trong gang tấc lại gấp mười quan san (K)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gang tấc\n-Very short distance"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gang tấc\n- Very short distance"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "short, small distance"
-      }
-    ]
-  },
-  {
-    "word": "gay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vặn vòng dây để xoắn chặt mái chèo vào cọc chèo\nVí dụ:\n- gay chèo"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có khó khăn rất khó khắc phục\nVí dụ:\n- tình hình gay lắm! \n - đang lúc bận thế này mà ốm thì gay!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gay\n- đg. Vặn cái vòng dây để néo bơi chèo vào cọc chèo.\n- t. Cg. Gay go. 1. Găng, căng thẳng: Tình hình gay lắm. 2. Rất khó khăn, khó giải quyết: Vấn đề gay quá, cả buổi chiều thảo luận chưa xong.\n\n@gay\n- vặn quai chèo chặt vào cọc chèo"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gay [gay]\n-(cũng nói\n-(cũng nói\n-Crimson (with drink or from exposure to the sun)."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tense, tough, hard, heated"
-      }
-    ]
-  },
-  {
-    "word": "gaoxơmet",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gaussmeter"
-      }
-    ]
-  },
-  {
-    "word": "gang cán đã tôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chilled roll iron"
-      }
-    ]
-  },
-  {
-    "word": "ga ma",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gamma"
-      }
-    ]
-  },
-  {
-    "word": "ga hành khách đầu cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-passenger terminal"
-      }
-    ]
-  },
-  {
-    "word": "ga hàng hóa tàu hỏa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-railroad freight terminal\n-railway freight terminal"
-      }
-    ]
-  },
-  {
-    "word": "gas lạnh (ở nhiệt độ lạnh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cold refrigerant gas"
-      }
-    ]
-  },
-  {
-    "word": "gang giòn nguội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cold-short iron"
-      }
-    ]
-  },
-  {
-    "word": "gang xám cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard cast iron"
-      }
-    ]
-  },
-  {
-    "word": "ga hàng hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-freight depot\n-freight station\n-goods station\n@Chuyên ngành kỹ thuật\n-freight depot\n-freight station\n-freight yard\n-goods depot\n-goods station\n-goods yard"
-      }
-    ]
-  },
-  {
-    "word": "ga đường sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-railroad depot\n-railroad station\n-railway station\n-railway stock\n-station"
-      }
-    ]
-  },
-  {
-    "word": "gay go",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất gay, do có khó khăn lớn khó khắc phục, trong khi tình hình lại đang đòi hỏi được giải quyết [nói khái quát]\nVí dụ:\n- thử thách gay go \n - tình hình rất gay go"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gay go\n- tt, trgt 1. Rất khó khăn: Những đoạn đường lên dốc gay go (NgĐThi) 2. Quyết liệt: Thời kì đấu tranh gay go, gian khổ bắt đầu (Trg-chinh)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gay go\n*adjective\n-keen; severe; tense\n=tình thế gay_go\n+tense situation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gay go\n* adjective\n-keen; severe; tense\n=tình thế gay_go+tense situation"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tense, hard, terrible, desperate"
-      }
-    ]
-  },
-  {
-    "word": "gai mũi trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nasal spine of maxilla anterior\n-spina nasalis anterior maxillae\n-spine of maxilla"
-      }
-    ]
-  },
-  {
-    "word": "gas freon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freon vapour"
-      }
-    ]
-  },
-  {
-    "word": "ga được hút vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-incoming gas"
-      }
-    ]
-  },
-  {
-    "word": "ga cụt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dead-end station\n-line end station\n-terminal"
-      }
-    ]
-  },
-  {
-    "word": "gai vỏ xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tire tread"
-      }
-    ]
-  },
-  {
-    "word": "gaboon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gaboon"
-      }
-    ]
-  },
-  {
-    "word": "gal (10-2m/s2)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gal"
-      }
-    ]
-  },
-  {
-    "word": "gai màng nhỉ lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina tympanica major"
-      }
-    ]
-  },
-  {
-    "word": "gai vụn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tow"
-      }
-    ]
-  },
-  {
-    "word": "ga lăng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[người đàn ông] tỏ ra lịch sự, đôi khi quá đáng, thiếu tự nhiên, đối với phụ nữ\nVí dụ:\n- một chàng trai rất ga lăng"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gentlemanly, gallant"
-      }
-    ]
-  },
-  {
-    "word": "gan sành dạ sỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gan sành dạ sỏi [gan sành dạ sỏi]\n-unfeeling, hard"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unfeeling, hard"
-      }
-    ]
-  },
-  {
-    "word": "gai mũi sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nasal spine posteriror"
-      }
-    ]
-  },
-  {
-    "word": "ga chỗ đường giao nhau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-crossing station"
-      }
-    ]
-  },
-  {
-    "word": "ga lập tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-freight yield\n-marshaling yard\n-yard\n-yark"
-      }
-    ]
-  },
-  {
-    "word": "gai chậu sau dướí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splna iliaca posterin inferior"
-      }
-    ]
-  },
-  {
-    "word": "gau gáu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gau gáu\n- Tiếng nhai một vật giòn: Nhai sụn gau gáu."
-      }
-    ]
-  },
-  {
-    "word": "ga-rô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-rô [ga rô]\n-(từ gốc tiếng Pháp là Garrot) tourniquet"
-      }
-    ]
-  },
-  {
-    "word": "ga chót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-railhead\n-terminal\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminus"
-      }
-    ]
-  },
-  {
-    "word": "ga tàu dừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-stopping station"
-      }
-    ]
-  },
-  {
-    "word": "galaton",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-galactonic"
-      }
-    ]
-  },
-  {
-    "word": "gađolimi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gd (gadolini)"
-      }
-    ]
-  },
-  {
-    "word": "gang xám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-cast iron\n-gray iron\n-gray-cast iron\n-grey-cast iron"
-      }
-    ]
-  },
-  {
-    "word": "ga giải lập tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-classification yard"
-      }
-    ]
-  },
-  {
-    "word": "ga chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central station\n@Lĩnh vực: xây dựng\n-main station"
-      }
-    ]
-  },
-  {
-    "word": "garô xoắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tourniquet"
-      }
-    ]
-  },
-  {
-    "word": "gas dãn nở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-expanded gas"
-      }
-    ]
-  },
-  {
-    "word": "ga cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-arrival station\n-railhead\n-terminal\n@Chuyên ngành kỹ thuật\n-dead-end station\n-line end station\n-terminal\n-terminal station\n-termination\n-terminus"
-      }
-    ]
-  },
-  {
-    "word": "ga xe điện ngầm lộ thiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open-air underground station"
-      }
-    ]
-  },
-  {
-    "word": "ga cập tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-freight yield"
-      }
-    ]
-  },
-  {
-    "word": "gan óc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gan óc [gan óc]\n-heart; soul; feeling"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "heart, soul, feeling"
-      }
-    ]
-  },
-  {
-    "word": "ga-tô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-tô [ga tô]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "gai ngạnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngang bướng, hay gây sự\nVí dụ:\n- tính gai ngạnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gai ngạnh\n- t. Ngang bướng, hay tìm cách gây sự: Tính nết gai ngạnh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gai ngạnh\n-Obstinate and quarrelsome"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gai ngạnh\n- Obstinate and quarrelsome"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "obstinate and quarrelsome"
-      }
-    ]
-  },
-  {
-    "word": "ga tuýt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "free"
-      }
-    ]
-  },
-  {
-    "word": "gam màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gamut"
-      }
-    ]
-  },
-  {
-    "word": "ga lơ ri",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "art gallery, picture gallery"
-      }
-    ]
-  },
-  {
-    "word": "gam trên mét vuông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gsm (grams per square metre)"
-      }
-    ]
-  },
-  {
-    "word": "ga hàng đến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-station of destination"
-      }
-    ]
-  },
-  {
-    "word": "ga chuyển khổ trục bánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-axle gauge changeover station"
-      }
-    ]
-  },
-  {
-    "word": "ga loãng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
-      }
-    ]
-  },
-  {
-    "word": "ga chất hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dispatch station"
-      }
-    ]
-  },
-  {
-    "word": "ga xe lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-railway station\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underground railway station"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "train station"
-      }
-    ]
-  },
-  {
-    "word": "gai ròng rọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-trochlear spine"
-      }
-    ]
-  },
-  {
-    "word": "ga-la",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-la [ga-la]\n-(tiếng Pháp gọi là Gala) gala"
-      }
-    ]
-  },
-  {
-    "word": "ga nhánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-side station\n-side-line station"
-      }
-    ]
-  },
-  {
-    "word": "gamexan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gammexane"
-      }
-    ]
-  },
-  {
-    "word": "ga cơ sở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-home station"
-      }
-    ]
-  },
-  {
-    "word": "ga dồn toa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminal"
-      }
-    ]
-  },
-  {
-    "word": "ga đầu mối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-junction\n-railhead\n-terminal"
-      }
-    ]
-  },
-  {
-    "word": "galont anh (4, 545 l)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-imperial gallon"
-      }
-    ]
-  },
-  {
-    "word": "gabro",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gabbro"
-      }
-    ]
-  },
-  {
-    "word": "gang tomat",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-basic Bessemer pig-iron"
-      }
-    ]
-  },
-  {
-    "word": "gangster",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kẻ tội phạm có vũ trang chuyên thực hiện các hành vi giết chóc, cướp bóc, thanh toán lẫn nhau, có ở một số nước tư bản\nVí dụ:\n- phim gangster (phim có các cảnh đâm chém, giết chóc theo kiểu gangster)"
-      }
-    ]
-  },
-  {
-    "word": "ga-lăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-lăng [ga lăng]\n-(tiếng Pháp gọi là Galant) gentlemanly;   gallant"
-      }
-    ]
-  },
-  {
-    "word": "ga tiếp nhận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-receiving station"
-      }
-    ]
-  },
-  {
-    "word": "gam (khối lượng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-gram in mass"
-      }
-    ]
-  },
-  {
-    "word": "ganh đua",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cố hết sức làm cho mình hơn mọi người trong một hoạt động có nhiều người cùng tham gia, không muốn thấy bất cứ ai hơn hoặc bằng mình\nVí dụ:\n- nó ganh đua với tôi từng tí một"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ganh đua\n- Ra sức giành lấy phần thắng, phần hơn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ganh đua\n*verb\n-to rival; to vie; to compete\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rival"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ganh đua\n* verb\n- to rival; to vie; to compete"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to vie, compete"
-      }
-    ]
-  },
-  {
-    "word": "gabarit dưới cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bridge opening clearance\n-clear headway"
-      }
-    ]
-  },
-  {
-    "word": "gara tách biệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-detached garage"
-      }
-    ]
-  },
-  {
-    "word": "gai sụn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chondrophyte"
-      }
-    ]
-  },
-  {
-    "word": "gai xương bướm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina ossis sphenoidalis"
-      }
-    ]
-  },
-  {
-    "word": "ga-men",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ga-men\n- X.Cặp lồng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-men [ga-men]\n-(từ gốc tiếng Pháp là Gamelle) mess kit;  canteen"
-      }
-    ]
-  },
-  {
-    "word": "gallery",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nơi trưng bày thường xuyên hoặc bán những tác phẩm nghệ thuật"
-      }
-    ]
-  },
-  {
-    "word": "ga hành khách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-passenger station"
-      }
-    ]
-  },
-  {
-    "word": "ga dồn tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-classification yard\n-marshalling yard\n-shunting yard"
-      }
-    ]
-  },
-  {
-    "word": "gam nhạc bảy âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-heptatonic scale"
-      }
-    ]
-  },
-  {
-    "word": "ga-tuýt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-tuýt [ga-túyt]\n-(từ gốc tiếng Pháp là Gratuit) xem"
-      }
-    ]
-  },
-  {
-    "word": "ga phân đoạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sectionalizing station"
-      }
-    ]
-  },
-  {
-    "word": "gai thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neural spine"
-      }
-    ]
-  },
-  {
-    "word": "ga đường ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-manifold"
-      }
-    ]
-  },
-  {
-    "word": "gang trắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gang trắng [gang trắng]\n-white cast iron"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "white cast iron"
-      }
-    ]
-  },
-  {
-    "word": "gai ốc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nốt nhỏ nổi lên ở mặt da khi bị lạnh hay quá sợ hãi\nVí dụ:\n- lạnh sởn gai ốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gai ốc\n- dt Nốt bằng đầu tăm nổi lên ở ngoài da khi bị lạnh hay vì sợ hãi: Mãi tối ra về, gai ốc sởn lên (NgHTưởng)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gai ốc\n*noun\n-goose-flesh"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gai ốc\n* noun\n- goose-flesh"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "goose-flesh"
-      }
-    ]
-  },
-  {
-    "word": "gang graphit dạng tấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-lamellar graphite cast iron"
-      }
-    ]
-  },
-  {
-    "word": "gang đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cast-iron\n@Lĩnh vực: xây dựng\n-foundry pig-iron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-alloy cast iron\n@Lĩnh vực: xây dựng\n-cast iron"
       }
     ]
   },
@@ -1187,125 +727,108 @@
     ]
   },
   {
-    "word": "gan chí mề",
+    "word": "gali asenua",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gan chí mề [gan chí mề]\n-great courage"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "great courage"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gallium arsenide (GaAs)"
       }
     ]
   },
   {
-    "word": "gain",
+    "word": "ga tuýt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "free"
+      }
+    ]
+  },
+  {
+    "word": "gang cốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gain\n-to shorten\n-to record"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coke iron\n-coke pig"
+      }
+    ]
+  },
+  {
+    "word": "gai gốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gai gốc\n-Difficulty, obstacle, hurdle\n=Gặp nhiều gai gốc trên đường đời\n+To meat with many obstacles on one\"s path in life"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gain\n-to shorten\n-to record"
+        "dict_definition": "@gai gốc\n- Difficulty, obstacle, hurdle\n=Gặp nhiều gai gốc trên đường đời+To meat with many obstacles on one's path in life"
       }
     ]
   },
   {
-    "word": "galen",
+    "word": "gai sốt",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-galena"
-      }
-    ]
-  },
-  {
-    "word": "gay cấn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều trở ngại, vướng mắc đến mức như không vượt qua, không thể giải quyết được\nVí dụ:\n- giai đoạn gay cấn \n - vấn đề gay cấn nhất đã được giải quyết \n - tình hình rất gay cấn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều tình tiết lắt léo, giật gân, nhiều xung đột gay gắt gây hấp dẫn, hồi hộp\nVí dụ:\n- những pha gay cấn"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gay cấn\n- t. (hoặc d.). Có nhiều khó khăn, trở ngại, vướng mắc đến mức như không vượt qua được. Vấn đề gay cấn nhất đã giải quyết. Những gay cấn trong cuộc sống."
+        "dict_definition": "@gai sốt\n- t. Bắt đầu cảm thấy khó chịu khi sắp sốt."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gay cấn\n*adjective\n-thorny; ticklish\n=vấn đề gay_cấn\n+thorny matter"
+        "dict_definition": "@gai sốt\n-Begin to feel feverish"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gay cấn\n* adjective\n-thorny; ticklish\n=vấn đề gay_cấn+thorny matter"
+        "dict_definition": "@gai sốt\n- Begin to feel feverish"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "difficult"
+        "dict_definition": "begin to feel feverish"
       }
     ]
   },
   {
-    "word": "gabarit an toàn",
+    "word": "ga hành khách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safety clearance"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-passenger station"
       }
     ]
   },
   {
-    "word": "gara (sửa chữa)",
+    "word": "ga-ra",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ga-ra\n- d. 1. Gian nhà chứa ô-tô 2. Xưởng chữa ô-tô."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-ra [ga ra]\n-(tiếng Pháp gọi là Garage) garage\n@Chuyên ngành kinh tế\n-garage"
+      }
+    ]
+  },
+  {
+    "word": "ga dồn tàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-garage"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-classification yard\n-marshalling yard\n-shunting yard"
       }
     ]
   },
   {
-    "word": "gara (có) sàn dốc",
+    "word": "gan dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-garage with access ramps"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil liver"
       }
     ]
   },
   {
-    "word": "gai lửa (của mặt trời)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spicule"
-      }
-    ]
-  },
-  {
-    "word": "gang cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard iron"
-      }
-    ]
-  },
-  {
-    "word": "gali",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ga (gallium)\n-gallium\n-gallium (Ga)"
-      }
-    ]
-  },
-  {
-    "word": "ga lạnh (ở nhiệt độ thấp)",
+    "word": "gas lạnh (ở nhiệt độ lạnh)",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -1314,160 +837,42 @@
     ]
   },
   {
-    "word": "ga chuyển khổ đường",
+    "word": "gang graphit cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-change of gauge station"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-spheroidal graphite cast iron"
       }
     ]
   },
   {
-    "word": "gas",
+    "word": "gabroit",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khí đốt\nVí dụ:\n- khí gas \n - nạp gas"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gabbroid"
       }
     ]
   },
   {
-    "word": "ga ra",
+    "word": "gaboon",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nhà chứa ô tô, có thể kết hợp sửa chữa nhỏ\nVí dụ:\n- đánh xe vào ga ra"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ga ra\n- x. gara."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gaboon"
+      }
+    ]
+  },
+  {
+    "word": "gan vàng dạ sắt",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ga ra\n*noun\n-garage\n=chủ gara\n+garage keeper"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ga ra\n* noun\n-garage\n=chủ gara+garage keeper"
+        "dict_definition": "@gan vàng dạ sắt [gan vàng dạ sắt]\n-faithful; loyal; constant, as constant as the northern star"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "garage"
-      }
-    ]
-  },
-  {
-    "word": "gan bàn chân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gan bàn chân\n- dt Phần ở dưới và ở giữa bàn chân người: Bị một cái gai đâm vào giữa gan bàn chân."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gan bàn chân\n*noun\n-sole of the foot"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gan bàn chân\n* noun\n-sole of the foot"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sole of the foot"
-      }
-    ]
-  },
-  {
-    "word": "ga xe điện ngầm đặt nông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-low depth underground station"
-      }
-    ]
-  },
-  {
-    "word": "gai mọc từ đốt xương sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acantha"
-      }
-    ]
-  },
-  {
-    "word": "gauxơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gauss\n@Lĩnh vực: toán & tin\n-gaussian"
-      }
-    ]
-  },
-  {
-    "word": "ga nghèo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
-      }
-    ]
-  },
-  {
-    "word": "gang mềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-soft cast iron"
-      }
-    ]
-  },
-  {
-    "word": "ga đầu mối tàu điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tram junction"
-      }
-    ]
-  },
-  {
-    "word": "gam calo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-small calorie"
-      }
-    ]
-  },
-  {
-    "word": "ga ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-moist gas"
-      }
-    ]
-  },
-  {
-    "word": "ga hai tầng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-double deck station"
-      }
-    ]
-  },
-  {
-    "word": "gama",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gamma"
+        "dict_definition": "faithful, loyal, constant, as constant as"
       }
     ]
   },
@@ -1481,137 +886,145 @@
     ]
   },
   {
-    "word": "ga2 (alsia107)",
+    "word": "galactoza (đường sữa)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gelignite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-galactose"
       }
     ]
   },
   {
-    "word": "ganh gổ",
+    "word": "galont anh (4, 545 l)",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ganh gổ\n- đg. Ganh với một ý định xấu."
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ganh gổ\n-Compete with a bad intention"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ganh gổ\n- Compete with a bad intention"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "compete with a bad intention"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-imperial gallon"
       }
     ]
   },
   {
-    "word": "gan cóc tía",
+    "word": "ga cuối",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gan góc, lì lợm, dám đương đầu với những việc gian nan hoặc những thế lực lớn hơn mà không biết sợ hãi"
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gan cóc tía [gan cóc tía]\n-greatly daring"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "greatly daring"
+        "dict_definition": "@Chuyên ngành kinh tế\n-arrival station\n-railhead\n-terminal\n@Chuyên ngành kỹ thuật\n-dead-end station\n-line end station\n-terminal\n-terminal station\n-termination\n-terminus"
       }
     ]
   },
   {
-    "word": "gabardine",
+    "word": "ga quay đầu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hàng dệt dày bằng sợi len hoặc sợi bông theo dạng vân chéo"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-reversing station"
       }
     ]
   },
   {
-    "word": "gan dạ",
+    "word": "gang thỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-blind riser\n-iron pig\n-pig\n-pig iron"
+      }
+    ]
+  },
+  {
+    "word": "gam trưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-major scale"
+      }
+    ]
+  },
+  {
+    "word": "ganh ghét",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có tinh thần không lùi bước trước nguy hiểm, không sợ nguy hiểm\nVí dụ:\n- một chiến sĩ thông minh, gan dạ"
+        "dict_definition": "thấy người ta hơn mình mà sinh ra ghét\nVí dụ:\n- chị ấy ganh ghét với tôi"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gan dạ\n- t. Bạo dạn và nhẫn nại."
+        "dict_definition": "@ganh ghét\n- đg. Thấy người hơn mình mà sinh ra ghét."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gan dạ\n*adj\n-brave, dauntless"
+        "dict_definition": "@ganh ghét\n*verb\n-to envy; to jealous"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gan dạ\n* adj\n- brave, dauntless"
+        "dict_definition": "@ganh ghét\n* verb\n-to envy; to jealous"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "brave, dauntless"
+        "dict_definition": "to envy, be jealous"
       }
     ]
   },
   {
-    "word": "gang bàn chân",
+    "word": "ganh",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ ra khó chịu khi thấy người ta có phần hơn mình\nVí dụ:\n- ganh ăn \n - giới làm ăn ganh với sự thành công của Nam"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cố hết sức để sao cho được hơn người\nVí dụ:\n- nó ganh với bạn về thành tích học tập"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ganh\n- đg. Cố giành lấy phần hơn: Ganh nhau học tập."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pelma\n-sole"
+        "dict_definition": "@ganh\n-Vie, compete\n=ganh nhau học tập\n+to vie with one another in learning"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ganh\n- Vie, compete\n=ganh nhau học tập+to vie with one another in learning"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to compete, vie"
       }
     ]
   },
   {
-    "word": "gara nhiều tầng",
+    "word": "gang đúc cứng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multistorey garage"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard cast iron"
       }
     ]
   },
   {
-    "word": "ga biên giới",
+    "word": "gai răng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-border station\n-frontier station"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontosteophyte"
       }
     ]
   },
   {
-    "word": "gai chậu trước dưới",
+    "word": "gang tay",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-iliac spine anterior inferior\n-spina iliaca anterior"
-      }
-    ]
-  },
-  {
-    "word": "gai màng xương",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gang tay\n- d. Khoảng cách từ đầu ngón tay cái đến đầu ngón tay giữa, khi dang thẳng bàn tay: Sợi dây dài ba gang tay."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-periosteophyte"
-      }
-    ]
-  },
-  {
-    "word": "ga tiết lưu",
-    "definitions": [
+        "dict_definition": "@gang tay\n-Span\n=Sợi dây dài hai gang tay\n+A cord about two spans.\n-(b) Short distance\n=Hai làng cách nhau chưa đầy hai gang tay\n+The two villages are a short distance away from the one another\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-span"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-expanded gas"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gang tay\n- Span\n=Sợi dây dài hai gang tay+A cord about two spans.\n-(b) Short distance\n=Hai làng cách nhau chưa đầy hai gang tay+The two villages are a short distance away from the one another"
       }
     ]
   },
@@ -1657,883 +1070,11 @@
     ]
   },
   {
-    "word": "gan đóng đinh, gan của một bệnh nhân bị xơ gan có vẻ như có nhiều núm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hobinail iiver"
-      }
-    ]
-  },
-  {
-    "word": "gam lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gram force"
-      }
-    ]
-  },
-  {
-    "word": "gang đúc thành đĩa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-disc pig"
-      }
-    ]
-  },
-  {
-    "word": "gas nghèo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
-      }
-    ]
-  },
-  {
-    "word": "gan vàng dạ sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gan vàng dạ sắt [gan vàng dạ sắt]\n-faithful; loyal; constant, as constant as the northern star"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "faithful, loyal, constant, as constant as"
-      }
-    ]
-  },
-  {
-    "word": "ga liên hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-combined station\n-complex terminal"
-      }
-    ]
-  },
-  {
-    "word": "gan góc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ ra có tinh thần dám đương đầu với mọi sự nguy hiểm\nVí dụ:\n- một chiến sĩ gan góc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gan góc\n- t. Tỏ ra có tinh thần dám đương đầu với mọi sự nguy hiểm. Con người gan góc. Gan góc chống cự đến cùng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gan góc\n*adj\n-fearless, intrepid"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gan góc\n* adj\n- fearless, intrepid"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fearless, intrepid"
-      }
-    ]
-  },
-  {
-    "word": "gang pha thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semisteel"
-      }
-    ]
-  },
-  {
-    "word": "gan (bàn chân)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sole"
-      }
-    ]
-  },
-  {
-    "word": "gara để xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open parking structure"
-      }
-    ]
-  },
-  {
-    "word": "ga hàng đi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-forwarding station\n-station of origin"
-      }
-    ]
-  },
-  {
-    "word": "gas ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-humid gas\n-moist gas"
-      }
-    ]
-  },
-  {
-    "word": "gara ô tô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-motorcar garage"
-      }
-    ]
-  },
-  {
-    "word": "gam trên mét vuông (mỹ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-grams per square meter (gsm)"
-      }
-    ]
-  },
-  {
-    "word": "ga lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-generator gas\n-power gas\n-producer gas"
-      }
-    ]
-  },
-  {
-    "word": "gara có thang máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-garage with elevator"
-      }
-    ]
-  },
-  {
-    "word": "ga dọc đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-through station"
-      }
-    ]
-  },
-  {
-    "word": "gang thô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pig iron"
-      }
-    ]
-  },
-  {
-    "word": "gang thỏi cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard pig iron"
-      }
-    ]
-  },
-  {
-    "word": "gai, nhú vị giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gustatomy pore"
-      }
-    ]
-  },
-  {
-    "word": "ga cảng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-harbour station"
-      }
-    ]
-  },
-  {
-    "word": "gara tàu điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tram depot\n-tram of loads"
-      }
-    ]
-  },
-  {
-    "word": "ga đăng ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-home station"
-      }
-    ]
-  },
-  {
-    "word": "galông anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-imperial gallon"
-      }
-    ]
-  },
-  {
     "word": "gai trên lỗ tai ngoài",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-suprameatal spine"
-      }
-    ]
-  },
-  {
-    "word": "ga phá băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defrosting gas"
-      }
-    ]
-  },
-  {
-    "word": "gang hoa râm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mottled iron"
-      }
-    ]
-  },
-  {
-    "word": "gas hút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-suction gas"
-      }
-    ]
-  },
-  {
-    "word": "ganh đua danh lợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rat race"
-      }
-    ]
-  },
-  {
-    "word": "ga bốc dỡ hàng hóa thực phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inedible dock"
-      }
-    ]
-  },
-  {
-    "word": "gai sốt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gai sốt\n- t. Bắt đầu cảm thấy khó chịu khi sắp sốt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gai sốt\n-Begin to feel feverish"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gai sốt\n- Begin to feel feverish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "begin to feel feverish"
-      }
-    ]
-  },
-  {
-    "word": "gan dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil liver"
-      }
-    ]
-  },
-  {
-    "word": "ga rẽ nhánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-branch-off station"
-      }
-    ]
-  },
-  {
-    "word": "gara",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-car port\n-garage"
-      }
-    ]
-  },
-  {
-    "word": "gang kính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spiegel\n@Lĩnh vực: hóa học & vật liệu\n-spiegel iron"
-      }
-    ]
-  },
-  {
-    "word": "gam-ma",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gam-ma\n- Một thứ tia phóng xạ gần giống tia X.\n- d. Đơn vị khối lượng bằng một phần triệu của một gam."
-      }
-    ]
-  },
-  {
-    "word": "gang tay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gang tay\n- d. Khoảng cách từ đầu ngón tay cái đến đầu ngón tay giữa, khi dang thẳng bàn tay: Sợi dây dài ba gang tay."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gang tay\n-Span\n=Sợi dây dài hai gang tay\n+A cord about two spans.\n-(b) Short distance\n=Hai làng cách nhau chưa đầy hai gang tay\n+The two villages are a short distance away from the one another\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-span"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gang tay\n- Span\n=Sợi dây dài hai gang tay+A cord about two spans.\n-(b) Short distance\n=Hai làng cách nhau chưa đầy hai gang tay+The two villages are a short distance away from the one another"
-      }
-    ]
-  },
-  {
-    "word": "ga gửi hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-station of origin"
-      }
-    ]
-  },
-  {
-    "word": "gardient nhiệt độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-temperature gardient"
-      }
-    ]
-  },
-  {
-    "word": "ga hàng không đầu cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-air terminal"
-      }
-    ]
-  },
-  {
-    "word": "ga tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hand throttle"
-      }
-    ]
-  },
-  {
-    "word": "ga-ra",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ga-ra\n- d. 1. Gian nhà chứa ô-tô 2. Xưởng chữa ô-tô."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-ra [ga ra]\n-(tiếng Pháp gọi là Garage) garage\n@Chuyên ngành kinh tế\n-garage"
-      }
-    ]
-  },
-  {
-    "word": "ga tàu điện ngầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-subway station\n-underground railway station\n-underground station"
-      }
-    ]
-  },
-  {
-    "word": "gai trên lỗ tai ngoài, gai henle",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina supra meatum\n-spine of Henle"
-      }
-    ]
-  },
-  {
-    "word": "ga một chiều",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dead-end station\n-line end station"
-      }
-    ]
-  },
-  {
-    "word": "gang hợp kim",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-alloy cast iron\n@Lĩnh vực: xây dựng\n-cast iron"
-      }
-    ]
-  },
-  {
-    "word": "gang mền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-soft cast iron"
-      }
-    ]
-  },
-  {
-    "word": "gang bessemer",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Bessemer pig"
-      }
-    ]
-  },
-  {
-    "word": "ga la",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gala"
-      }
-    ]
-  },
-  {
-    "word": "garnet yttrium nhôm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Yttrium Aluminium Garnet (YAG)"
-      }
-    ]
-  },
-  {
-    "word": "galon mỗi phút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gallon per minute (GPM)"
-      }
-    ]
-  },
-  {
-    "word": "ga xếp toa xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-marshalling yard"
-      }
-    ]
-  },
-  {
-    "word": "ga rô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kĩ thuật thắt chẹn mạch máu, thường bằng dây buộc chặt, tạm thời không cho máu chảy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tourniquet"
-      }
-    ]
-  },
-  {
-    "word": "ga quay đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-reversing station"
-      }
-    ]
-  },
-  {
-    "word": "gai xương, chồi xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-stylosteophyte"
-      }
-    ]
-  },
-  {
-    "word": "gang muối tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mottled iron"
-      }
-    ]
-  },
-  {
-    "word": "ga men",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cà mèn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mess kit, canteen"
-      }
-    ]
-  },
-  {
-    "word": "ga cuối hành lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-baggage terminal"
-      }
-    ]
-  },
-  {
-    "word": "gai gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gai gốc\n-Difficulty, obstacle, hurdle\n=Gặp nhiều gai gốc trên đường đời\n+To meat with many obstacles on one\"s path in life"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gai gốc\n- Difficulty, obstacle, hurdle\n=Gặp nhiều gai gốc trên đường đời+To meat with many obstacles on one's path in life"
-      }
-    ]
-  },
-  {
-    "word": "ga phân loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-marshalling yard"
-      }
-    ]
-  },
-  {
-    "word": "ga lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central station"
-      }
-    ]
-  },
-  {
-    "word": "gabarít trên phương thẳng đứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vertical clearance"
-      }
-    ]
-  },
-  {
-    "word": "gam nhiệt độ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-temperature range"
-      }
-    ]
-  },
-  {
-    "word": "gang lò thổi bazơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-basic Bessemer pig"
-      }
-    ]
-  },
-  {
-    "word": "ga lông anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-imperial gallon"
-      }
-    ]
-  },
-  {
-    "word": "ga tàu hỏa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-railroad depot\n-railroad station\n-railway depot\n-railway stock\n-station"
-      }
-    ]
-  },
-  {
-    "word": "gai góc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gai [nói khái quát]; thường dùng để ví những khó khăn, trở ngại cần phải vượt qua\nVí dụ:\n- bụi cây đầy gai góc \n - gặp nhiều gai góc trên đường đời"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khó tính trong quan hệ, làm cho người khác thấy khó chịu, không muốn gần\nVí dụ:\n- tính tình gai góc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gai góc\n- I d. Gai, cây có gai (nói khái quát), thường dùng để ví những khó khăn, trở ngại phải vượt qua. Rừng cây rậm rạp đầy gai góc. Những gai góc trên đường đời.\n- II t. (id.). 1 Có nhiều khó khăn không dễ vượt qua, không dễ giải quyết. Một vấn đề . 2 Không dễ tính trong quan hệ với người khác, hay làm cho người khác thấy khó chịu. Con người gai góc, không ai muốn gần."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gai góc\n*adj\n-thorny; prichly\n-(hình ảnh) difficulties"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gai góc\n* adj\n- thorny; prichly\n-(hình ảnh) difficulties"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "difficult, thorny"
-      }
-    ]
-  },
-  {
-    "word": "ga-ma",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-ma [gamma]\n-(tiếng Pháp gọi là Gamma)  gamma"
-      }
-    ]
-  },
-  {
-    "word": "gasolin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-gasoline"
-      }
-    ]
-  },
-  {
-    "word": "ga đến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-station of arrival\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-arrival station"
-      }
-    ]
-  },
-  {
-    "word": "ga thông tin tập trung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central information station"
-      }
-    ]
-  },
-  {
-    "word": "ganh tị",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "so tính hơn thiệt và khó chịu khi thấy người ta hơn mình\nVí dụ:\n- chúng nó ganh tị với nhau"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ganh tị\n- đg. So kè hơn thiệt: Ganh tị nhau những quyền lợi vụn vặt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ganh tị\n-Envy\n=Ganh tị nhau những quyền lợi vật chất nhỏ nhen\n+To envy each other petty material advantages"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ganh tị\n- Envy\n=Ganh tị nhau những quyền lợi vật chất nhỏ nhen+To envy each other petty material advantages"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "envious, jealous"
-      }
-    ]
-  },
-  {
-    "word": "ga đường giao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-crossing station\n-junction station"
-      }
-    ]
-  },
-  {
-    "word": "ga gối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminal"
-      }
-    ]
-  },
-  {
-    "word": "gang bàn tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-palma"
-      }
-    ]
-  },
-  {
-    "word": "gađolini",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gadolinum (Gd)"
-      }
-    ]
-  },
-  {
-    "word": "gang nâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grey cast iron"
-      }
-    ]
-  },
-  {
-    "word": "ga xuất phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-origin station"
-      }
-    ]
-  },
-  {
-    "word": "gang thỏi photpho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phosphoric pig iron"
-      }
-    ]
-  },
-  {
-    "word": "ga lông",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gallon"
-      }
-    ]
-  },
-  {
-    "word": "ga quá nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-superheated gas\n-superheated vapour"
-      }
-    ]
-  },
-  {
-    "word": "ga lỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-liquefaction gas\n@Lĩnh vực: điện lạnh\n-liquid gas"
-      }
-    ]
-  },
-  {
-    "word": "ga thành phố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-town gas"
-      }
-    ]
-  },
-  {
-    "word": "gam",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem gram"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thang âm bảy bậc tự nhiên trong một quãng tám"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thang bậc của màu sắc\nVí dụ:\n- gam màu sáng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gam\n- (lý) d. Đơn vị khối lượng bằng một phần nghìn ki-lô-gam."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gam\n-Gramme\n-Gamut, scale\n@Chuyên ngành kinh tế\n-gram\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gram\n-gram (g)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gam\n- Gramme\n-Gamut, scale"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "gram (unit of weight); gamut, scale"
-      }
-    ]
-  },
-  {
-    "word": "galactoza huyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-galactosemia"
       }
     ]
   },
@@ -2547,575 +1088,33 @@
     ]
   },
   {
-    "word": "gang cốc",
+    "word": "gara để xe ở tầng hầm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coke iron\n-coke pig"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-basement parking garage"
       }
     ]
   },
   {
-    "word": "gai xương bả vai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spine of scapula"
-      }
-    ]
-  },
-  {
-    "word": "gang đúc bằng máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-machine-moulded castings"
-      }
-    ]
-  },
-  {
-    "word": "gai cột sống",
+    "word": "gas",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bệnh do ở đốt xương sống mọc ra gai xương nhọn chèn ép vào các tổ chức xung quanh, gây đau"
+        "dict_definition": "khí đốt\nVí dụ:\n- khí gas \n - nạp gas"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spine of vertebra"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gas"
       }
     ]
   },
   {
-    "word": "gara để xe chung",
+    "word": "ga quá nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-garage with common hall (for housing vehicles)"
-      }
-    ]
-  },
-  {
-    "word": "gan suy tim",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cardiac liver"
-      }
-    ]
-  },
-  {
-    "word": "gai civini, mỏm gai chân bướm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-civininus spine"
-      }
-    ]
-  },
-  {
-    "word": "ganh ghét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thấy người ta hơn mình mà sinh ra ghét\nVí dụ:\n- chị ấy ganh ghét với tôi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ganh ghét\n- đg. Thấy người hơn mình mà sinh ra ghét."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ganh ghét\n*verb\n-to envy; to jealous"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ganh ghét\n* verb\n-to envy; to jealous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to envy, be jealous"
-      }
-    ]
-  },
-  {
-    "word": "gas môi chất lạnh nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-warm refrigerant gas"
-      }
-    ]
-  },
-  {
-    "word": "ga hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminal"
-      }
-    ]
-  },
-  {
-    "word": "gang cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nodular cast iron"
-      }
-    ]
-  },
-  {
-    "word": "ga-li",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ga-li\n- Nguyên tố kim loại rất hiếm, giống chì."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-li [ga-li]\n-(hoá học) (tiếng Pháp gọi là Gallium) gallium (used in semiconductor technology and as a component of various low-melting alloys)"
-      }
-    ]
-  },
-  {
-    "word": "gara trạm đỗ xe (đường dài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parking garage"
-      }
-    ]
-  },
-  {
-    "word": "ga điện ngầm kiểu kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-closed-type underground station"
-      }
-    ]
-  },
-  {
-    "word": "gai mắt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chướng mắt, nhìn thấy không thể chịu được\nVí dụ:\n- ăn mặc thì loè loẹt, đến là gai mắt  \n - làm những điều trái tai gai mắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gai mắt\n- tt. Khó chịu như thế, khi nhìn thấy cảnh lố lăng, không thể chấp nhận: Con gái mà ăn mặc lố lăng gai mắt quá."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gai mắt\n*adj\n-unsightly"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gai mắt\n* adj\n- unsightly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unsightly"
-      }
-    ]
-  },
-  {
-    "word": "gara sửa chữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-garage with workshop\n-service station"
-      }
-    ]
-  },
-  {
-    "word": "ga dốc gù",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hump-yard"
-      }
-    ]
-  },
-  {
-    "word": "gas phá băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defrosting gas"
-      }
-    ]
-  },
-  {
-    "word": "gang đã tôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-chilled cast iron"
-      }
-    ]
-  },
-  {
-    "word": "gai răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-odontosteophyte"
-      }
-    ]
-  },
-  {
-    "word": "gauss",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gauss\n@Lĩnh vực: toán & tin\n-gaussian"
-      }
-    ]
-  },
-  {
-    "word": "gara kiểu tháp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parking tower"
-      }
-    ]
-  },
-  {
-    "word": "gan sủi bọt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-foamy liver"
-      }
-    ]
-  },
-  {
-    "word": "gara ôtô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-garage"
-      }
-    ]
-  },
-  {
-    "word": "ga nhận hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-receiving station\n-station of destination"
-      }
-    ]
-  },
-  {
-    "word": "gali asenua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gallium arsenide (GaAs)"
-      }
-    ]
-  },
-  {
-    "word": "gang graphit cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-spheroidal graphite cast iron"
-      }
-    ]
-  },
-  {
-    "word": "ga đầu cuối hàng không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-air terminal"
-      }
-    ]
-  },
-  {
-    "word": "ga bốc dỡ hàng hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dock"
-      }
-    ]
-  },
-  {
-    "word": "ga chuyển tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-change station"
-      }
-    ]
-  },
-  {
-    "word": "gaas",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gallium arsenide"
-      }
-    ]
-  },
-  {
-    "word": "gai dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gai dầu [gai dầu]\n-(cây...) hemp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hemp"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hemp"
-      }
-    ]
-  },
-  {
-    "word": "galông (3,785 lít)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-gallon berry enamel-lined"
-      }
-    ]
-  },
-  {
-    "word": "ga-răng-ti",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga-răng-ti [ga-răng-ti]\n-(tiếng Pháp gọi là Garantie) warranty;  guarantee"
-      }
-    ]
-  },
-  {
-    "word": "ga chất toa (công-ten-nơ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-marshalling yard"
-      }
-    ]
-  },
-  {
-    "word": "ga khí flocacbon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-fluorocarbon gas"
-      }
-    ]
-  },
-  {
-    "word": "gang nung chảy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foundry pig"
-      }
-    ]
-  },
-  {
-    "word": "gang thỏi mềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-soft pig iron"
-      }
-    ]
-  },
-  {
-    "word": "gang thỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-blind riser\n-iron pig\n-pig\n-pig iron"
-      }
-    ]
-  },
-  {
-    "word": "ga hút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-suction gas"
-      }
-    ]
-  },
-  {
-    "word": "ga tô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bánh nướng xốp, mềm, làm bằng bột mì đánh lẫn với đường và trứng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ga tô\n- ga-tô (F. gateau) dt. Bánh nướng xốp, mềm làm bằng bột mì đánh lẫn với đường và trứng: bánh ga-tô."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ga tô\n*noun\n-cake, gâteau"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ga tô\n* noun\n- cake, gâteau"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cake, gâteau"
-      }
-    ]
-  },
-  {
-    "word": "gar",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Gar\n- Tên gọi một nhóm nhỏ của dân tộc M'nông"
-      }
-    ]
-  },
-  {
-    "word": "galena",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sulfur chì thiên nhiên, có tính chất dẫn điện một chiều, thường dùng làm bộ phận tách sóng trong máy thu vô tuyến"
-      }
-    ]
-  },
-  {
-    "word": "ga sân bay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-air terminal"
-      }
-    ]
-  },
-  {
-    "word": "gam trưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-major scale"
-      }
-    ]
-  },
-  {
-    "word": "ga dỡ hàng cuối cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-railhead"
-      }
-    ]
-  },
-  {
-    "word": "gang dẻo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ductile iron\n-malleable cast iron\n-Malleable Iron\n-nodular cast iron"
-      }
-    ]
-  },
-  {
-    "word": "gan nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-microhepatia"
-      }
-    ]
-  },
-  {
-    "word": "ga sinh hoạt (đun nấu , sưởi...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-utility gas"
-      }
-    ]
-  },
-  {
-    "word": "ga đầu mối đường sắt chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-major railroad junction\n-major railway junction"
-      }
-    ]
-  },
-  {
-    "word": "ga xe điện ngầm kiểu cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-column-type underground station"
-      }
-    ]
-  },
-  {
-    "word": "gas nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas\n-hot refrigerant gas"
-      }
-    ]
-  },
-  {
-    "word": "gala",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "buổi hội, ngày hội, có biểu diễn âm nhạc, nghệ thuật, v.v.\nVí dụ:\n- đi xem gala cười"
-      }
-    ]
-  },
-  {
-    "word": "ga-ra (xe hơi)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-depot"
-      }
-    ]
-  },
-  {
-    "word": "gai mũi của xương trán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-frontal spine\n-spina nasalis ossis frontalis"
-      }
-    ]
-  },
-  {
-    "word": "ga không ngưng tụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-uncondensed vapour"
-      }
-    ]
-  },
-  {
-    "word": "gas loãng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-superheated gas\n-superheated vapour"
       }
     ]
   },
@@ -3153,25 +1152,431 @@
     ]
   },
   {
-    "word": "ga xe điện ngầm kiểu trụ",
+    "word": "gan nhỏ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pillar-type underground station"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-microhepatia"
       }
     ]
   },
   {
-    "word": "gabroit",
+    "word": "gam lực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gabbroid"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gram force"
       }
     ]
   },
   {
-    "word": "ga đường nhánh",
+    "word": "ga tránh tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-counter station"
+      }
+    ]
+  },
+  {
+    "word": "gan chí mề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan chí mề [gan chí mề]\n-great courage"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "great courage"
+      }
+    ]
+  },
+  {
+    "word": "ga-bác-đin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-bác-đin [ga-bác-đin]\n-(tiếng Pháp gọi là Gabardine) gabardine"
+      }
+    ]
+  },
+  {
+    "word": "ga lơ ri",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "art gallery, picture gallery"
+      }
+    ]
+  },
+  {
+    "word": "ga men",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cà mèn"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mess kit, canteen"
+      }
+    ]
+  },
+  {
+    "word": "ga sinh hoạt (đun nấu , sưởi...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-utility gas"
+      }
+    ]
+  },
+  {
+    "word": "gay cấn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều trở ngại, vướng mắc đến mức như không vượt qua, không thể giải quyết được\nVí dụ:\n- giai đoạn gay cấn \n - vấn đề gay cấn nhất đã được giải quyết \n - tình hình rất gay cấn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều tình tiết lắt léo, giật gân, nhiều xung đột gay gắt gây hấp dẫn, hồi hộp\nVí dụ:\n- những pha gay cấn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gay cấn\n- t. (hoặc d.). Có nhiều khó khăn, trở ngại, vướng mắc đến mức như không vượt qua được. Vấn đề gay cấn nhất đã giải quyết. Những gay cấn trong cuộc sống."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gay cấn\n*adjective\n-thorny; ticklish\n=vấn đề gay_cấn\n+thorny matter"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gay cấn\n* adjective\n-thorny; ticklish\n=vấn đề gay_cấn+thorny matter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "difficult"
+      }
+    ]
+  },
+  {
+    "word": "ga bốc dỡ hàng hóa thực phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inedible dock"
+      }
+    ]
+  },
+  {
+    "word": "ga bốc dỡ hàng hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dock"
+      }
+    ]
+  },
+  {
+    "word": "ga phân loại tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-shunting yard\n-switching station\n-switchyard"
+      }
+    ]
+  },
+  {
+    "word": "ga dốc gù",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hump-yard"
+      }
+    ]
+  },
+  {
+    "word": "ga tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hand throttle"
+      }
+    ]
+  },
+  {
+    "word": "ga lăng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[người đàn ông] tỏ ra lịch sự, đôi khi quá đáng, thiếu tự nhiên, đối với phụ nữ\nVí dụ:\n- một chàng trai rất ga lăng"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gentlemanly, gallant"
+      }
+    ]
+  },
+  {
+    "word": "gan dạ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có tinh thần không lùi bước trước nguy hiểm, không sợ nguy hiểm\nVí dụ:\n- một chiến sĩ thông minh, gan dạ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gan dạ\n- t. Bạo dạn và nhẫn nại."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan dạ\n*adj\n-brave, dauntless"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gan dạ\n* adj\n- brave, dauntless"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "brave, dauntless"
+      }
+    ]
+  },
+  {
+    "word": "ga-la",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-la [ga-la]\n-(tiếng Pháp gọi là Gala) gala"
+      }
+    ]
+  },
+  {
+    "word": "gan bàn tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-palm"
+      }
+    ]
+  },
+  {
+    "word": "gang giòn nguội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cold-short iron"
+      }
+    ]
+  },
+  {
+    "word": "ga tiết lưu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-expanded gas"
+      }
+    ]
+  },
+  {
+    "word": "gara kiểu tháp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parking tower"
+      }
+    ]
+  },
+  {
+    "word": "ga hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminal"
+      }
+    ]
+  },
+  {
+    "word": "ga gối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminal"
+      }
+    ]
+  },
+  {
+    "word": "gang dẻo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ductile iron\n-malleable cast iron\n-Malleable Iron\n-nodular cast iron"
+      }
+    ]
+  },
+  {
+    "word": "ga đường ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-manifold"
+      }
+    ]
+  },
+  {
+    "word": "gang pha thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-semisteel"
+      }
+    ]
+  },
+  {
+    "word": "ga ra",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nhà chứa ô tô, có thể kết hợp sửa chữa nhỏ\nVí dụ:\n- đánh xe vào ga ra"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ga ra\n- x. gara."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga ra\n*noun\n-garage\n=chủ gara\n+garage keeper"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ga ra\n* noun\n-garage\n=chủ gara+garage keeper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "garage"
+      }
+    ]
+  },
+  {
+    "word": "gađolimi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gd (gadolini)"
+      }
+    ]
+  },
+  {
+    "word": "gang rèn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-force pig"
+      }
+    ]
+  },
+  {
+    "word": "gai thần kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neural spine"
+      }
+    ]
+  },
+  {
+    "word": "ga lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-generator gas\n-power gas\n-producer gas"
+      }
+    ]
+  },
+  {
+    "word": "gabarit an toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-safety clearance"
+      }
+    ]
+  },
+  {
+    "word": "gang xám cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard cast iron"
+      }
+    ]
+  },
+  {
+    "word": "gara",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-car port\n-garage"
+      }
+    ]
+  },
+  {
+    "word": "gala",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "buổi hội, ngày hội, có biểu diễn âm nhạc, nghệ thuật, v.v.\nVí dụ:\n- đi xem gala cười"
+      }
+    ]
+  },
+  {
+    "word": "gan ruột",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ruột gan\nVí dụ:\n- \"Xa em gan ruột như bào, Chưa vui sum họp cớ nào chia phôi.\" (Cdao)"
+      }
+    ]
+  },
+  {
+    "word": "galen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-galena"
+      }
+    ]
+  },
+  {
+    "word": "ga cảng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-harbour station"
+      }
+    ]
+  },
+  {
+    "word": "gabardine",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hàng dệt dày bằng sợi len hoặc sợi bông theo dạng vân chéo"
+      }
+    ]
+  },
+  {
+    "word": "gasolin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-gasoline"
+      }
+    ]
+  },
+  {
+    "word": "ga nhánh",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -3180,49 +1585,274 @@
     ]
   },
   {
-    "word": "ga răng ti",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "warranty, guarantee"
-      }
-    ]
-  },
-  {
-    "word": "gabarit lớn",
+    "word": "gang tomat",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-large size\n-oversize"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-basic Bessemer pig-iron"
       }
     ]
   },
   {
-    "word": "ganh",
+    "word": "ga lông anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-imperial gallon"
+      }
+    ]
+  },
+  {
+    "word": "gang xám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-cast iron\n-gray iron\n-gray-cast iron\n-grey-cast iron"
+      }
+    ]
+  },
+  {
+    "word": "ga giải lập tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-classification yard"
+      }
+    ]
+  },
+  {
+    "word": "ga điện ngầm kiểu kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-closed-type underground station"
+      }
+    ]
+  },
+  {
+    "word": "gai mũi của xương trán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-frontal spine\n-spina nasalis ossis frontalis"
+      }
+    ]
+  },
+  {
+    "word": "ga2 (alsia107)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gelignite"
+      }
+    ]
+  },
+  {
+    "word": "gaoxơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gauss"
+      }
+    ]
+  },
+  {
+    "word": "gara sửa chữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-garage with workshop\n-service station"
+      }
+    ]
+  },
+  {
+    "word": "ga nghèo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
+      }
+    ]
+  },
+  {
+    "word": "gangster",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ ra khó chịu khi thấy người ta có phần hơn mình\nVí dụ:\n- ganh ăn \n - giới làm ăn ganh với sự thành công của Nam"
+        "dict_definition": "kẻ tội phạm có vũ trang chuyên thực hiện các hành vi giết chóc, cướp bóc, thanh toán lẫn nhau, có ở một số nước tư bản\nVí dụ:\n- phim gangster (phim có các cảnh đâm chém, giết chóc theo kiểu gangster)"
+      }
+    ]
+  },
+  {
+    "word": "ga hàng hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-freight depot\n-freight station\n-goods station\n@Chuyên ngành kỹ thuật\n-freight depot\n-freight station\n-freight yard\n-goods depot\n-goods station\n-goods yard"
+      }
+    ]
+  },
+  {
+    "word": "gai chậu trước dưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-iliac spine anterior inferior\n-spina iliaca anterior"
+      }
+    ]
+  },
+  {
+    "word": "ga máy bay lên thẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-helicopter station"
+      }
+    ]
+  },
+  {
+    "word": "ga ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-moist gas"
+      }
+    ]
+  },
+  {
+    "word": "gan vàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan vàng [gan vàng]\n-heart"
       },
       {
+        "dict_name": "VNEDICT",
+        "dict_definition": "heart"
+      }
+    ]
+  },
+  {
+    "word": "gang mềm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-soft cast iron"
+      }
+    ]
+  },
+  {
+    "word": "ga-tuýt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-tuýt [ga-túyt]\n-(từ gốc tiếng Pháp là Gratuit) xem"
+      }
+    ]
+  },
+  {
+    "word": "ga thông tin tập trung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central information station"
+      }
+    ]
+  },
+  {
+    "word": "gau gáu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gau gáu\n- Tiếng nhai một vật giòn: Nhai sụn gau gáu."
+      }
+    ]
+  },
+  {
+    "word": "ga chất toa (công-ten-nơ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-marshalling yard"
+      }
+    ]
+  },
+  {
+    "word": "ga xe điện ngầm đặt nông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-low depth underground station"
+      }
+    ]
+  },
+  {
+    "word": "gang tấc",
+    "definitions": [
+      {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cố hết sức để sao cho được hơn người\nVí dụ:\n- nó ganh với bạn về thành tích học tập"
+        "dict_definition": "khoảng cách rất ngắn, không đáng kể, tựa như chỉ bằng một gang tay [nói khái quát]\nVí dụ:\n- cách nhau gang tấc \n - thoát chết trong gang tấc"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ganh\n- đg. Cố giành lấy phần hơn: Ganh nhau học tập."
+        "dict_definition": "@gang tấc\n- d. Chỗ gần gụi: Trong gang tấc lại gấp mười quan san (K)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ganh\n-Vie, compete\n=ganh nhau học tập\n+to vie with one another in learning"
+        "dict_definition": "@gang tấc\n-Very short distance"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ganh\n- Vie, compete\n=ganh nhau học tập+to vie with one another in learning"
+        "dict_definition": "@gang tấc\n- Very short distance"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to compete, vie"
+        "dict_definition": "short, small distance"
+      }
+    ]
+  },
+  {
+    "word": "gai màng nhỉ lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina tympanica major"
+      }
+    ]
+  },
+  {
+    "word": "ga chỗ đường giao nhau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-crossing station"
+      }
+    ]
+  },
+  {
+    "word": "gang đúc bằng máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-machine-moulded castings"
+      }
+    ]
+  },
+  {
+    "word": "ga hàng hóa tàu hỏa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-railroad freight terminal\n-railway freight terminal"
+      }
+    ]
+  },
+  {
+    "word": "ga-ra (xe hơi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-depot"
       }
     ]
   },
@@ -3236,11 +1866,593 @@
     ]
   },
   {
-    "word": "ga có kho tà vẹt",
+    "word": "gang kính",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sleeper station"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spiegel\n@Lĩnh vực: hóa học & vật liệu\n-spiegel iron"
+      }
+    ]
+  },
+  {
+    "word": "ga phân loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-marshalling yard"
+      }
+    ]
+  },
+  {
+    "word": "gas phá băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defrosting gas"
+      }
+    ]
+  },
+  {
+    "word": "gang bessemer",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Bessemer pig"
+      }
+    ]
+  },
+  {
+    "word": "ga la",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gala"
+      }
+    ]
+  },
+  {
+    "word": "galon mỗi phút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gallon per minute (GPM)"
+      }
+    ]
+  },
+  {
+    "word": "ga dồn toa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminal"
+      }
+    ]
+  },
+  {
+    "word": "ga ma",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gamma"
+      }
+    ]
+  },
+  {
+    "word": "gara có thang máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-garage with elevator"
+      }
+    ]
+  },
+  {
+    "word": "ga đăng ký",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-home station"
+      }
+    ]
+  },
+  {
+    "word": "gam (khối lượng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-gram in mass"
+      }
+    ]
+  },
+  {
+    "word": "gang thỏi cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard pig iron"
+      }
+    ]
+  },
+  {
+    "word": "gai lửa (của mặt trời)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spicule"
+      }
+    ]
+  },
+  {
+    "word": "gang thỏi mềm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-soft pig iron"
+      }
+    ]
+  },
+  {
+    "word": "ga lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central station"
+      }
+    ]
+  },
+  {
+    "word": "gang thép",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cứng cỏi, vững vàng đến mức không gì lay chuyển được [tựa như gang và thép]\nVí dụ:\n- ý chí gang thép"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gang thép\n- Cứng cỏi cương quyết: Chiến sĩ gang thép."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gang thép\n-Iron, ironlike\n=chiến sĩ gang thép\n+an ironlike fighter, an ironside"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gang thép\n- Iron, ironlike\n=chiến sĩ gang thép+an ironlike fighter, an ironside"
+      }
+    ]
+  },
+  {
+    "word": "gam màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gamut"
+      }
+    ]
+  },
+  {
+    "word": "ga xe điện ngầm kiểu cột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-column-type underground station"
+      }
+    ]
+  },
+  {
+    "word": "ga-lăng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-lăng [ga lăng]\n-(tiếng Pháp gọi là Galant) gentlemanly;   gallant"
+      }
+    ]
+  },
+  {
+    "word": "ga chất hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dispatch station"
+      }
+    ]
+  },
+  {
+    "word": "gas được hút vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-incoming gas"
+      }
+    ]
+  },
+  {
+    "word": "gabarit lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-large size\n-oversize"
+      }
+    ]
+  },
+  {
+    "word": "gai ròng rọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-trochlear spine"
+      }
+    ]
+  },
+  {
+    "word": "gal (10-2m/s2)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gal"
+      }
+    ]
+  },
+  {
+    "word": "ga phá băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defrosting gas"
+      }
+    ]
+  },
+  {
+    "word": "ga nhỏ (đường sắt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-way station"
+      }
+    ]
+  },
+  {
+    "word": "gai civini, mỏm gai chân bướm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-civininus spine"
+      }
+    ]
+  },
+  {
+    "word": "gam-ma",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gam-ma\n- Một thứ tia phóng xạ gần giống tia X.\n- d. Đơn vị khối lượng bằng một phần triệu của một gam."
+      }
+    ]
+  },
+  {
+    "word": "ga đầu mối tàu điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tram junction"
+      }
+    ]
+  },
+  {
+    "word": "gai cột sống",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bệnh do ở đốt xương sống mọc ra gai xương nhọn chèn ép vào các tổ chức xung quanh, gây đau"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spine of vertebra"
+      }
+    ]
+  },
+  {
+    "word": "garô xoắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tourniquet"
+      }
+    ]
+  },
+  {
+    "word": "gaoxơmet",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gaussmeter"
+      }
+    ]
+  },
+  {
+    "word": "galông anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-imperial gallon"
+      }
+    ]
+  },
+  {
+    "word": "ga chuyển tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-change station"
+      }
+    ]
+  },
+  {
+    "word": "gan suy tim",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cardiac liver"
+      }
+    ]
+  },
+  {
+    "word": "ga cụt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dead-end station\n-line end station\n-terminal"
+      }
+    ]
+  },
+  {
+    "word": "gai trên lỗ tai ngoài, gai henle",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina supra meatum\n-spine of Henle"
+      }
+    ]
+  },
+  {
+    "word": "ga a xít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-acid gases"
+      }
+    ]
+  },
+  {
+    "word": "ga dỡ hàng cuối cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-railhead"
+      }
+    ]
+  },
+  {
+    "word": "galông (3,785 lít)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-gallon berry enamel-lined"
+      }
+    ]
+  },
+  {
+    "word": "ga tại cảng biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-habour station"
+      }
+    ]
+  },
+  {
+    "word": "ga xếp tà vẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-tie station"
+      }
+    ]
+  },
+  {
+    "word": "ga li",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gallium"
+      }
+    ]
+  },
+  {
+    "word": "ga được hút vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-incoming gas"
+      }
+    ]
+  },
+  {
+    "word": "gara ôtô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-garage"
+      }
+    ]
+  },
+  {
+    "word": "ga trung tâm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central station\n@Lĩnh vực: xây dựng\n-main station"
+      }
+    ]
+  },
+  {
+    "word": "gara (sửa chữa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-garage"
+      }
+    ]
+  },
+  {
+    "word": "ga đầu mối đường sắt chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-major railroad junction\n-major railway junction"
+      }
+    ]
+  },
+  {
+    "word": "ga rẽ nhánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-branch-off station"
+      }
+    ]
+  },
+  {
+    "word": "ga-tô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-tô [ga tô]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "gardient nhiệt độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-temperature gardient"
+      }
+    ]
+  },
+  {
+    "word": "ga lỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-liquefaction gas\n@Lĩnh vực: điện lạnh\n-liquid gas"
+      }
+    ]
+  },
+  {
+    "word": "gauxơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-gauss\n@Lĩnh vực: toán & tin\n-gaussian"
+      }
+    ]
+  },
+  {
+    "word": "ga lông",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "gallon"
+      }
+    ]
+  },
+  {
+    "word": "gai mọc từ đốt xương sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-acantha"
+      }
+    ]
+  },
+  {
+    "word": "garnet yttrium nhôm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Yttrium Aluminium Garnet (YAG)"
+      }
+    ]
+  },
+  {
+    "word": "ga len",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-galena"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "galena"
+      }
+    ]
+  },
+  {
+    "word": "gas freon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freon vapour"
+      }
+    ]
+  },
+  {
+    "word": "gara tàu điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tram depot\n-tram of loads"
+      }
+    ]
+  },
+  {
+    "word": "gara tách biệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-detached garage"
+      }
+    ]
+  },
+  {
+    "word": "gang cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard iron"
+      }
+    ]
+  },
+  {
+    "word": "gam trên mét vuông (mỹ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-grams per square meter (gsm)"
+      }
+    ]
+  },
+  {
+    "word": "gain",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gain\n-to shorten\n-to record"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gain\n-to shorten\n-to record"
       }
     ]
   },
@@ -3254,33 +2466,352 @@
     ]
   },
   {
-    "word": "ga thông qua",
+    "word": "gabarit dưới cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-overtaking station\n-pasing point\n-through station"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bridge opening clearance\n-clear headway"
       }
     ]
   },
   {
-    "word": "ga-len",
+    "word": "gan to",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-megalohepatia"
+      }
+    ]
+  },
+  {
+    "word": "gabro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gabbro"
+      }
+    ]
+  },
+  {
+    "word": "galena",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sulfur chì thiên nhiên, có tính chất dẫn điện một chiều, thường dùng làm bộ phận tách sóng trong máy thu vô tuyến"
+      }
+    ]
+  },
+  {
+    "word": "ga đường giao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-crossing station\n-junction station"
+      }
+    ]
+  },
+  {
+    "word": "gay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vặn vòng dây để xoắn chặt mái chèo vào cọc chèo\nVí dụ:\n- gay chèo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có khó khăn rất khó khắc phục\nVí dụ:\n- tình hình gay lắm! \n - đang lúc bận thế này mà ốm thì gay!"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ga-len\n- (địa) d. Sun-fua chì tự nhiên, màu xám xanh, dẫn điện theo một chiều, dùng để phát hiện sóng điện từ trong một số máy vô tuyến điện."
+        "dict_definition": "@gay\n- đg. Vặn cái vòng dây để néo bơi chèo vào cọc chèo.\n- t. Cg. Gay go. 1. Găng, căng thẳng: Tình hình gay lắm. 2. Rất khó khăn, khó giải quyết: Vấn đề gay quá, cả buổi chiều thảo luận chưa xong.\n\n@gay\n- vặn quai chèo chặt vào cọc chèo"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ga-len [galen]\n-(hoá học) (tiếng Pháp gọi là Galène) galena"
+        "dict_definition": "@gay [gay]\n-(cũng nói\n-(cũng nói\n-Crimson (with drink or from exposure to the sun)."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tense, tough, hard, heated"
       }
     ]
   },
   {
-    "word": "ga phân loại tàu",
+    "word": "gai hông (gai ngồi)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-shunting yard\n-switching station\n-switchyard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina ischiadica"
+      }
+    ]
+  },
+  {
+    "word": "gai sụn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chondrophyte"
+      }
+    ]
+  },
+  {
+    "word": "ga nhận hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-receiving station\n-station of destination"
+      }
+    ]
+  },
+  {
+    "word": "gang bàn tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-palma"
+      }
+    ]
+  },
+  {
+    "word": "ga đầu cuối hàng không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-air terminal"
+      }
+    ]
+  },
+  {
+    "word": "gan bàn chân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gan bàn chân\n- dt Phần ở dưới và ở giữa bàn chân người: Bị một cái gai đâm vào giữa gan bàn chân."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan bàn chân\n*noun\n-sole of the foot"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gan bàn chân\n* noun\n-sole of the foot"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sole of the foot"
+      }
+    ]
+  },
+  {
+    "word": "ga sân bay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-air terminal"
+      }
+    ]
+  },
+  {
+    "word": "gan óc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan óc [gan óc]\n-heart; soul; feeling"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "heart, soul, feeling"
+      }
+    ]
+  },
+  {
+    "word": "ga đường nhánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-side station\n-side-line station"
+      }
+    ]
+  },
+  {
+    "word": "ga chuyển khổ đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-change of gauge station"
+      }
+    ]
+  },
+  {
+    "word": "gang đã tôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-chilled cast iron"
+      }
+    ]
+  },
+  {
+    "word": "ga tàu điện ngầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-subway station\n-underground railway station\n-underground station"
+      }
+    ]
+  },
+  {
+    "word": "ga chót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-railhead\n-terminal\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terminus"
+      }
+    ]
+  },
+  {
+    "word": "ga rô",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kĩ thuật thắt chẹn mạch máu, thường bằng dây buộc chặt, tạm thời không cho máu chảy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tourniquet"
+      }
+    ]
+  },
+  {
+    "word": "gamexan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gammexane"
+      }
+    ]
+  },
+  {
+    "word": "gam calo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-small calorie"
+      }
+    ]
+  },
+  {
+    "word": "ganh tị",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "so tính hơn thiệt và khó chịu khi thấy người ta hơn mình\nVí dụ:\n- chúng nó ganh tị với nhau"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ganh tị\n- đg. So kè hơn thiệt: Ganh tị nhau những quyền lợi vụn vặt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ganh tị\n-Envy\n=Ganh tị nhau những quyền lợi vật chất nhỏ nhen\n+To envy each other petty material advantages"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ganh tị\n- Envy\n=Ganh tị nhau những quyền lợi vật chất nhỏ nhen+To envy each other petty material advantages"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "envious, jealous"
+      }
+    ]
+  },
+  {
+    "word": "gang hoa râm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mottled iron"
+      }
+    ]
+  },
+  {
+    "word": "ga giãn nở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-expanded gas"
+      }
+    ]
+  },
+  {
+    "word": "ga hút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-suction gas"
+      }
+    ]
+  },
+  {
+    "word": "gan gà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "màu vàng hoặc xám vàng, giống như màu gan của gà [thường nói về đất sét]\nVí dụ:\n- đất gan gà"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gan gà\n- Nói màu nâu đỏ: Cái ấm độc ẩm màu gan gà."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan gà [gan gà]\n-Reddish brown."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "reddish brown"
+      }
+    ]
+  },
+  {
+    "word": "gai ốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nốt nhỏ nổi lên ở mặt da khi bị lạnh hay quá sợ hãi\nVí dụ:\n- lạnh sởn gai ốc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gai ốc\n- dt Nốt bằng đầu tăm nổi lên ở ngoài da khi bị lạnh hay vì sợ hãi: Mãi tối ra về, gai ốc sởn lên (NgHTưởng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gai ốc\n*noun\n-goose-flesh"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gai ốc\n* noun\n- goose-flesh"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "goose-flesh"
+      }
+    ]
+  },
+  {
+    "word": "gang đúc thành đĩa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-disc pig"
+      }
+    ]
+  },
+  {
+    "word": "ga-rô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-rô [ga rô]\n-(từ gốc tiếng Pháp là Garrot) tourniquet"
       }
     ]
   },
@@ -3302,11 +2833,123 @@
     ]
   },
   {
-    "word": "gan to",
+    "word": "ga liên hợp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-megalohepatia"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-combined station\n-complex terminal"
+      }
+    ]
+  },
+  {
+    "word": "gara ô tô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-motorcar garage"
+      }
+    ]
+  },
+  {
+    "word": "gara nhiều tầng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multistorey garage"
+      }
+    ]
+  },
+  {
+    "word": "gang bàn chân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pelma\n-sole"
+      }
+    ]
+  },
+  {
+    "word": "gauss",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gauss\n@Lĩnh vực: toán & tin\n-gaussian"
+      }
+    ]
+  },
+  {
+    "word": "gam trên mét vuông (anh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-grams per square metre (gsm)"
+      }
+    ]
+  },
+  {
+    "word": "gang muối tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mottled iron"
+      }
+    ]
+  },
+  {
+    "word": "gas loãng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
+      }
+    ]
+  },
+  {
+    "word": "gas môi chất lạnh nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-warm refrigerant gas"
+      }
+    ]
+  },
+  {
+    "word": "gan sủi bọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-foamy liver"
+      }
+    ]
+  },
+  {
+    "word": "ga xe lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-railway station\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underground railway station"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "train station"
+      }
+    ]
+  },
+  {
+    "word": "gang thô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pig iron"
+      }
+    ]
+  },
+  {
+    "word": "ga môi chất lạnh nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-warm refrigerant gas"
       }
     ]
   },
@@ -3320,79 +2963,520 @@
     ]
   },
   {
-    "word": "gay gắt",
+    "word": "ga biên giới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-border station\n-frontier station"
+      }
+    ]
+  },
+  {
+    "word": "gang mền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-soft cast iron"
+      }
+    ]
+  },
+  {
+    "word": "gang cán đã tôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-chilled roll iron"
+      }
+    ]
+  },
+  {
+    "word": "gam trên mét vuông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gsm (grams per square metre)"
+      }
+    ]
+  },
+  {
+    "word": "ganh đua danh lợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rat race"
+      }
+    ]
+  },
+  {
+    "word": "ga cuối hành lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-baggage terminal"
+      }
+    ]
+  },
+  {
+    "word": "gara (có) sàn dốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-garage with access ramps"
+      }
+    ]
+  },
+  {
+    "word": "gai ngạnh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở mức độ cao, gây cảm giác khó chịu hoặc căng thẳng\nVí dụ:\n- nắng gay gắt \n - mâu thuẫn hết sức gay gắt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không nhẹ nhàng, không nương nhẹ, dù có làm khó chịu hoặc gây căng thẳng\nVí dụ:\n- phê bình một cách gay gắt"
+        "dict_definition": "ngang bướng, hay gây sự\nVí dụ:\n- tính gai ngạnh"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gay gắt\n- tt. 1. ở mức độ cao và dữ dội, gây cảm giác căng thẳng, khó chịu: nắng hè gay gắt  đấu tranh gay gắt  nói bằng giọng gay gắt. 2. Mạnh mẽ, thẳng thắn, không nương nhẹ: phê bình gay gắt  đả kích gay gắt  Càng gay gắt điệu, càng tê tái lòng (Truyện Kiều)."
+        "dict_definition": "@gai ngạnh\n- t. Ngang bướng, hay tìm cách gây sự: Tính nết gai ngạnh."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gay gắt\n*adjective\n-blazing hot,\n-heated,\n-severe, sharp, critical"
+        "dict_definition": "@gai ngạnh\n-Obstinate and quarrelsome"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gay gắt\n* adjective\n-blazing hot,\n-heated,\n-severe, sharp, critical"
+        "dict_definition": "@gai ngạnh\n- Obstinate and quarrelsome"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "blazing hot, heated, severe, sharp, critical"
+        "dict_definition": "obstinate and quarrelsome"
       }
     ]
   },
   {
-    "word": "ga trực thăng",
+    "word": "gađolini",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-helicopter station"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gadolinum (Gd)"
       }
     ]
   },
   {
-    "word": "gamma",
+    "word": "gara ngầm",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "con chữ thứ ba của bảng chữ cái Hi Lạp [γ, Γ]"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underground garage"
+      }
+    ]
+  },
+  {
+    "word": "gang nung chảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foundry pig"
+      }
+    ]
+  },
+  {
+    "word": "ga tàu dừng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-stopping station"
+      }
+    ]
+  },
+  {
+    "word": "ga-lơ-ri",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-lơ-ri [ga-lơ-ri]\n-(từ gốc tiếng Pháp là Galerie d\"art/de peinture/de tableaux) art gallery;  picture gallery"
+      }
+    ]
+  },
+  {
+    "word": "ga-ma",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-ma [gamma]\n-(tiếng Pháp gọi là Gamma)  gamma"
+      }
+    ]
+  },
+  {
+    "word": "ganh gổ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ganh gổ\n- đg. Ganh với một ý định xấu."
       },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị đo khối lượng, bằng một phần triệu của gram [kí hiệu là γ]"
-      }
-    ]
-  },
-  {
-    "word": "gara để xe ở tầng hầm",
-    "definitions": [
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-basement parking garage"
-      }
-    ]
-  },
-  {
-    "word": "ga xép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ga xe lửa nhỏ, dành cho tàu chậm hay tàu chợ, các tàu tốc hành không đỗ"
+        "dict_definition": "@ganh gổ\n-Compete with a bad intention"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flag stop\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-halt\n@Lĩnh vực: giao thông & vận tải\n-through station"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ganh gổ\n- Compete with a bad intention"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "local station (as opposed to express)"
+        "dict_definition": "compete with a bad intention"
+      }
+    ]
+  },
+  {
+    "word": "ga-len",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ga-len\n- (địa) d. Sun-fua chì tự nhiên, màu xám xanh, dẫn điện theo một chiều, dùng để phát hiện sóng điện từ trong một số máy vô tuyến điện."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-len [galen]\n-(hoá học) (tiếng Pháp gọi là Galène) galena"
+      }
+    ]
+  },
+  {
+    "word": "gallery",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nơi trưng bày thường xuyên hoặc bán những tác phẩm nghệ thuật"
+      }
+    ]
+  },
+  {
+    "word": "ga xếp toa xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-marshalling yard"
+      }
+    ]
+  },
+  {
+    "word": "ga cập tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-freight yield"
+      }
+    ]
+  },
+  {
+    "word": "ga loãng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-weak gas"
+      }
+    ]
+  },
+  {
+    "word": "gai xương bướm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina ossis sphenoidalis"
+      }
+    ]
+  },
+  {
+    "word": "galông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-gallon"
+      }
+    ]
+  },
+  {
+    "word": "gan lì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gan đến mức như trơ ra, không còn biết sợ là gì\nVí dụ:\n- thằng bé gan lì"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gan lì\n- tt. Lì lợm, bất chấp mọi nguy hiểm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan lì\n*adj\n-intrepidly calm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gan lì\n* adj\n- intrepidly calm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "motionless"
+      }
+    ]
+  },
+  {
+    "word": "gang đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cast-iron\n@Lĩnh vực: xây dựng\n-foundry pig-iron"
+      }
+    ]
+  },
+  {
+    "word": "ga đường sắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-railroad depot\n-railroad station\n-railway station\n-railway stock\n-station"
+      }
+    ]
+  },
+  {
+    "word": "gai vỏ xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tire tread"
+      }
+    ]
+  },
+  {
+    "word": "gas dãn nở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-expanded gas"
+      }
+    ]
+  },
+  {
+    "word": "ga chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central station\n@Lĩnh vực: xây dựng\n-main station"
+      }
+    ]
+  },
+  {
+    "word": "gai dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gai dầu [gai dầu]\n-(cây...) hemp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hemp"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hemp"
+      }
+    ]
+  },
+  {
+    "word": "gai góc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gai [nói khái quát]; thường dùng để ví những khó khăn, trở ngại cần phải vượt qua\nVí dụ:\n- bụi cây đầy gai góc \n - gặp nhiều gai góc trên đường đời"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khó tính trong quan hệ, làm cho người khác thấy khó chịu, không muốn gần\nVí dụ:\n- tính tình gai góc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gai góc\n- I d. Gai, cây có gai (nói khái quát), thường dùng để ví những khó khăn, trở ngại phải vượt qua. Rừng cây rậm rạp đầy gai góc. Những gai góc trên đường đời.\n- II t. (id.). 1 Có nhiều khó khăn không dễ vượt qua, không dễ giải quyết. Một vấn đề . 2 Không dễ tính trong quan hệ với người khác, hay làm cho người khác thấy khó chịu. Con người gai góc, không ai muốn gần."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gai góc\n*adj\n-thorny; prichly\n-(hình ảnh) difficulties"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gai góc\n* adj\n- thorny; prichly\n-(hình ảnh) difficulties"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "difficult, thorny"
+      }
+    ]
+  },
+  {
+    "word": "gas ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-humid gas\n-moist gas"
+      }
+    ]
+  },
+  {
+    "word": "ga-lông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ga-lông [ga-lông]\n-(tiếng Pháp gọi là Gallon) gallon\n-(từ gốc tiếng Pháp là Galon) stripe;  chevron"
+      }
+    ]
+  },
+  {
+    "word": "gan góc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ ra có tinh thần dám đương đầu với mọi sự nguy hiểm\nVí dụ:\n- một chiến sĩ gan góc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gan góc\n- t. Tỏ ra có tinh thần dám đương đầu với mọi sự nguy hiểm. Con người gan góc. Gan góc chống cự đến cùng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gan góc\n*adj\n-fearless, intrepid"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gan góc\n* adj\n- fearless, intrepid"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fearless, intrepid"
+      }
+    ]
+  },
+  {
+    "word": "ganh đua",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cố hết sức làm cho mình hơn mọi người trong một hoạt động có nhiều người cùng tham gia, không muốn thấy bất cứ ai hơn hoặc bằng mình\nVí dụ:\n- nó ganh đua với tôi từng tí một"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ganh đua\n- Ra sức giành lấy phần thắng, phần hơn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ganh đua\n*verb\n-to rival; to vie; to compete\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rival"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ganh đua\n* verb\n- to rival; to vie; to compete"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to vie, compete"
+      }
+    ]
+  },
+  {
+    "word": "ga tiếp nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-receiving station"
+      }
+    ]
+  },
+  {
+    "word": "gai, nhú vị giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-gustatomy pore"
+      }
+    ]
+  },
+  {
+    "word": "gang cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nodular cast iron"
+      }
+    ]
+  },
+  {
+    "word": "gai chậu sau dướí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splna iliaca posterin inferior"
+      }
+    ]
+  },
+  {
+    "word": "ga đến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-station of arrival\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-arrival station"
+      }
+    ]
+  },
+  {
+    "word": "gang lò thổi bazơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-basic Bessemer pig"
+      }
+    ]
+  },
+  {
+    "word": "ga xe điện ngầm nhiều hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multidimensional underground station"
+      }
+    ]
+  },
+  {
+    "word": "gar",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Gar\n- Tên gọi một nhóm nhỏ của dân tộc M'nông"
+      }
+    ]
+  },
+  {
+    "word": "ga dọc đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-through station"
+      }
+    ]
+  },
+  {
+    "word": "gam nhạc bảy âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-heptatonic scale"
+      }
+    ]
+  },
+  {
+    "word": "gang thỏi photpho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phosphoric pig iron"
+      }
+    ]
+  },
+  {
+    "word": "ga hành khách đầu cuối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-passenger terminal"
       }
     ]
   },
@@ -3438,20 +3522,11 @@
     ]
   },
   {
-    "word": "gam trên mét vuông (anh)",
+    "word": "ga thông qua",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-grams per square metre (gsm)"
-      }
-    ]
-  },
-  {
-    "word": "ga trung tâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-central station\n@Lĩnh vực: xây dựng\n-main station"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-overtaking station\n-pasing point\n-through station"
       }
     ]
   },
@@ -3465,113 +3540,38 @@
     ]
   },
   {
-    "word": "gang đúc cứng",
+    "word": "gama",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-hard cast iron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gamma"
       }
     ]
   },
   {
-    "word": "ga nhỏ (đường sắt)",
+    "word": "ga răng ti",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-way station"
-      }
-    ]
-  },
-  {
-    "word": "gang rèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-force pig"
-      }
-    ]
-  },
-  {
-    "word": "gaoxơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-gauss"
-      }
-    ]
-  },
-  {
-    "word": "gang lò thổi bessemer axit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-acid Bessemer pig\n-acid pig"
-      }
-    ]
-  },
-  {
-    "word": "ga máy bay lên thẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-helicopter station"
-      }
-    ]
-  },
-  {
-    "word": "ga tại cảng biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-habour station"
-      }
-    ]
-  },
-  {
-    "word": "gara ngầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underground garage"
-      }
-    ]
-  },
-  {
-    "word": "gan gà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "màu vàng hoặc xám vàng, giống như màu gan của gà [thường nói về đất sét]\nVí dụ:\n- đất gan gà"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gan gà\n- Nói màu nâu đỏ: Cái ấm độc ẩm màu gan gà."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gan gà [gan gà]\n-Reddish brown."
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "reddish brown"
+        "dict_definition": "warranty, guarantee"
       }
     ]
   },
   {
-    "word": "gan ruột",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ruột gan\nVí dụ:\n- \"Xa em gan ruột như bào, Chưa vui sum họp cớ nào chia phôi.\" (Cdao)"
-      }
-    ]
-  },
-  {
-    "word": "gai hông (gai ngồi)",
+    "word": "ga hàng không đầu cuối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spina ischiadica"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-air terminal"
+      }
+    ]
+  },
+  {
+    "word": "ga hàng đến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-station of destination"
       }
     ]
   }

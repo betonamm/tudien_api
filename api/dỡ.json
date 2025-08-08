@@ -1,19 +1,10 @@
 [
   {
-    "word": "dỡ hàng tại bến tàu",
+    "word": "dỡ xuống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-discharging at wharf"
-      }
-    ]
-  },
-  {
-    "word": "dỡ hàng, trữ hàng và chuyển hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-receiving storage and delivery"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dismount"
       }
     ]
   },
@@ -27,20 +18,20 @@
     ]
   },
   {
-    "word": "dỡ xuống",
+    "word": "dỡ rời từng món",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dismount"
+        "dict_definition": "@Chuyên ngành kinh tế\n-knock-down"
       }
     ]
   },
   {
-    "word": "dỡ giàn giáo",
+    "word": "dỡ dời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-take down scaffolding"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-disassemble\n-strip"
       }
     ]
   },
@@ -54,11 +45,96 @@
     ]
   },
   {
+    "word": "dỡ hàng lên bờ bằng tàu nhỏ chuyển hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lighterage"
+      }
+    ]
+  },
+  {
     "word": "dỡ hàng khỏi tàu (hàng hóa)",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-unship"
+      }
+    ]
+  },
+  {
+    "word": "dỡ chỗ này",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lift here"
+      }
+    ]
+  },
+  {
+    "word": "dỡ hàng lên bờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-debarkation\n-landing"
+      }
+    ]
+  },
+  {
+    "word": "dỡ rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-decompose\n-dismount\n-take down"
+      }
+    ]
+  },
+  {
+    "word": "dỡ hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dỡ hàng [dỡ gàng]\n-unload merchandise\n@Chuyên ngành kinh tế\n-discharge\n-discharge of cargo\n-handle\n-unlisted trading\n-unload\n@Chuyên ngành kỹ thuật\n-discharge\n-transfer\n-unload\n-unloading ramp"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unload merchandise"
+      }
+    ]
+  },
+  {
+    "word": "dỡ thỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-strip"
+      }
+    ]
+  },
+  {
+    "word": "dỡ tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dump\n@Lĩnh vực: xây dựng\n-unload"
+      }
+    ]
+  },
+  {
+    "word": "dỡ hàng tại bên tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-discharge at wharf (to...)"
+      }
+    ]
+  },
+  {
+    "word": "dỡ hàng tại bến tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-discharging at wharf"
       }
     ]
   },
@@ -72,6 +148,51 @@
     ]
   },
   {
+    "word": "dỡ lên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lift"
+      }
+    ]
+  },
+  {
+    "word": "dỡ giàn giáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-take down scaffolding"
+      }
+    ]
+  },
+  {
+    "word": "dỡ ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-knock out"
+      }
+    ]
+  },
+  {
+    "word": "dỡ khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-strip"
+      }
+    ]
+  },
+  {
+    "word": "dỡ thêm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-over landed"
+      }
+    ]
+  },
+  {
     "word": "dỡ nén",
     "definitions": [
       {
@@ -81,20 +202,11 @@
     ]
   },
   {
-    "word": "dỡ tháo",
+    "word": "dỡ được",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-deliver"
-      }
-    ]
-  },
-  {
-    "word": "dỡ hàng lên bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-debarkation\n-landing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-collapsible\n-dismountable"
       }
     ]
   },
@@ -117,15 +229,6 @@
     ]
   },
   {
-    "word": "dỡ hàng lên bờ (từ tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-landing"
-      }
-    ]
-  },
-  {
     "word": "dỡ hàng trên tàu",
     "definitions": [
       {
@@ -135,47 +238,38 @@
     ]
   },
   {
-    "word": "dỡ ra",
+    "word": "dỡ lên bờ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-knock out"
+        "dict_definition": "@Chuyên ngành kinh tế\n-landed"
       }
     ]
   },
   {
-    "word": "dỡ rời",
+    "word": "dỡ tháo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-decompose\n-dismount\n-take down"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-deliver"
       }
     ]
   },
   {
-    "word": "dỡ dời",
+    "word": "dỡ hàng lên bờ (từ tàu)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-disassemble\n-strip"
+        "dict_definition": "@Chuyên ngành kinh tế\n-landing"
       }
     ]
   },
   {
-    "word": "dỡ thêm",
+    "word": "dỡ hàng, trữ hàng và chuyển hàng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-over landed"
-      }
-    ]
-  },
-  {
-    "word": "dỡ thỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-strip"
+        "dict_definition": "@Chuyên ngành kinh tế\n-receiving storage and delivery"
       }
     ]
   },
@@ -206,100 +300,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-strip formwork"
-      }
-    ]
-  },
-  {
-    "word": "dỡ lên bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-landed"
-      }
-    ]
-  },
-  {
-    "word": "dỡ tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dump\n@Lĩnh vực: xây dựng\n-unload"
-      }
-    ]
-  },
-  {
-    "word": "dỡ chỗ này",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lift here"
-      }
-    ]
-  },
-  {
-    "word": "dỡ khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-strip"
-      }
-    ]
-  },
-  {
-    "word": "dỡ rời từng món",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-knock-down"
-      }
-    ]
-  },
-  {
-    "word": "dỡ lên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lift"
-      }
-    ]
-  },
-  {
-    "word": "dỡ hàng lên bờ bằng tàu nhỏ chuyển hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lighterage"
-      }
-    ]
-  },
-  {
-    "word": "dỡ được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-collapsible\n-dismountable"
-      }
-    ]
-  },
-  {
-    "word": "dỡ hàng tại bên tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-discharge at wharf (to...)"
-      }
-    ]
-  },
-  {
-    "word": "dỡ hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dỡ hàng [dỡ gàng]\n-unload merchandise\n@Chuyên ngành kinh tế\n-discharge\n-discharge of cargo\n-handle\n-unlisted trading\n-unload\n@Chuyên ngành kỹ thuật\n-discharge\n-transfer\n-unload\n-unloading ramp"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unload merchandise"
       }
     ]
   }

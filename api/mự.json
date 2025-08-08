@@ -1,64 +1,46 @@
 [
   {
-    "word": "mực tone",
+    "word": "mực nước không đổi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-toner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-constant water level"
       }
     ]
   },
   {
-    "word": "mực đen",
+    "word": "mực nước thượng lưu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-black"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-higher level\n-rise level\n-upstream level"
       }
     ]
   },
   {
-    "word": "mực nước tự nhiên",
+    "word": "mực đóng dấu chất lượng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-natural water level"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-stamp pad ink"
       }
     ]
   },
   {
-    "word": "mực nền",
+    "word": "mực độ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-background ink"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@mực độ\n- Nh. Mức độ."
       }
     ]
   },
   {
-    "word": "mực nước biển trung bình",
+    "word": "mực nước cạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mean sea level\n-mean sea level (msl)"
-      }
-    ]
-  },
-  {
-    "word": "mực nước dưới đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water level"
-      }
-    ]
-  },
-  {
-    "word": "mực nho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-china ink in plates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-low water level\n-low-water stage"
       }
     ]
   },
@@ -76,45 +58,110 @@
     ]
   },
   {
-    "word": "mực nước thượng lưu",
+    "word": "mực nước cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-higher level\n-rise level\n-upstream level"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-high-water level"
       }
     ]
   },
   {
-    "word": "mực thước",
+    "word": "mực nước khi lưu lượng bằng không",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "theo đúng khuôn phép\nVí dụ:\n- lối sống rất mực thước"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-stage of zero flow"
+      }
+    ]
+  },
+  {
+    "word": "mực nước bình phương trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mean square water level"
+      }
+    ]
+  },
+  {
+    "word": "mực khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dry ink"
+      }
+    ]
+  },
+  {
+    "word": "mực cơ sở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-base level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước lũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flood level\n-flood level mark"
+      }
+    ]
+  },
+  {
+    "word": "mựa",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mực thước\n- Mẫu mực, khuôn phép."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mực thước\n-Examplary, model-setting, regular\n=Ăn ở mực thước\n+To behave in a most exemplary way\n@Chuyên ngành kỹ thuật\n-stage"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@mực thước\n- Examplary, model-setting, regular\n=Ăn ở mực thước+To behave in a most exemplary way"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "exemplary, model-setting, regular"
+        "dict_definition": "@mựa\n- ph. Lọ, chớ, đừng (cổ). Chăn dân mựa nữa mất lòng dân (Nguyễn Trãi)."
       }
     ]
   },
   {
-    "word": "mực nước ròng",
+    "word": "mực trải mực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-low tide"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ink coverage"
+      }
+    ]
+  },
+  {
+    "word": "mực sông đầu nguồn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-upper pond level"
+      }
+    ]
+  },
+  {
+    "word": "mực từ tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-magnetic ink"
+      }
+    ]
+  },
+  {
+    "word": "mực dầu (nhớt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-oil level"
+      }
+    ]
+  },
+  {
+    "word": "mực không thể tẩy sạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-indelible ink"
       }
     ]
   },
@@ -128,83 +175,74 @@
     ]
   },
   {
-    "word": "mực không thấm",
+    "word": "mực nước dừng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-waterproof"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-standing water level"
       }
     ]
   },
   {
-    "word": "mực nước so với chân bờ dốc nền đắp",
+    "word": "mực nho",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hydrostatic head with reference to the base of the fill"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-china ink in plates"
       }
     ]
   },
   {
-    "word": "mực máy ghi",
+    "word": "mực nước ròng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ink for recorder\n-recording ink"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-low tide"
       }
     ]
   },
   {
-    "word": "mực tăng của hồ chứa",
+    "word": "mực tầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-surcharged pool"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-china ink\n-drawing inking\n-ink"
       }
     ]
   },
   {
-    "word": "mực vô hình",
+    "word": "mực nước hạ thấp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-drop-out ink"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-draw-down level"
       }
     ]
   },
   {
-    "word": "mực nước dâng",
+    "word": "mực nước dưới đất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-elevation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water level"
       }
     ]
   },
   {
-    "word": "mực nước triều trung bình",
+    "word": "mực in",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-tide level\n-mean-tidal level"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ink\n-letterpress ink\n-paint\n-print ink\n-printer\"s ink"
       }
     ]
   },
   {
-    "word": "mực nước lũ thiết kế",
+    "word": "mực nước thông thuyền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-design flood level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước thường xuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-permanent water level"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-navigable water level\n-navigation flood level"
       }
     ]
   },
@@ -234,6 +272,262 @@
     ]
   },
   {
+    "word": "mực nước treo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-level of suspended water"
+      }
+    ]
+  },
+  {
+    "word": "mực trung bình nước kiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mean low water"
+      }
+    ]
+  },
+  {
+    "word": "mực tone",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-toner"
+      }
+    ]
+  },
+  {
+    "word": "mực tia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-jet ink"
+      }
+    ]
+  },
+  {
+    "word": "mực nước biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sea level (sea-level)\n@Chuyên ngành kỹ thuật\n-grand base level\n-sea level\n-sea-gauge\n-sea-level datum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sea level, ocean level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước kéo thuyền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-haulage level"
+      }
+    ]
+  },
+  {
+    "word": "mực ăn nước (của tàu bè)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sea gauge (sea-gauge)"
+      }
+    ]
+  },
+  {
+    "word": "mực nước hồ chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-banked-up water level\n-storage water level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước dâng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-elevation"
+      }
+    ]
+  },
+  {
+    "word": "mực nước trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mean level\n-MSL-Mean Sea Level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước kênh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-canal water level"
+      }
+    ]
+  },
+  {
+    "word": "mực không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zero level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước so với chân bờ dốc nền đắp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hydrostatic head with reference to the base of the fill"
+      }
+    ]
+  },
+  {
+    "word": "mực nước dòng sông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-stage of river"
+      }
+    ]
+  },
+  {
+    "word": "mực nước tới hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-critical water level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước dâng bình thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-retention level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước đọng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-standing water level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước lũ thiết kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-design flood level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước thấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-low-water stage\n-water shortage"
+      }
+    ]
+  },
+  {
+    "word": "mực máy ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ink for recorder\n-recording ink"
+      }
+    ]
+  },
+  {
+    "word": "mực nước hút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-suction water level"
+      }
+    ]
+  },
+  {
+    "word": "mực anilin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-aniline ink"
+      }
+    ]
+  },
+  {
+    "word": "mực nước triều trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half-tide level\n-mean-tidal level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước biển trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mean sea level\n-mean sea level (msl)"
+      }
+    ]
+  },
+  {
+    "word": "mực anilin nhuộm màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pigmented aniline ink"
+      }
+    ]
+  },
+  {
+    "word": "mực đen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-black"
+      }
+    ]
+  },
+  {
+    "word": "mực nước thấp nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lowest water level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước hạ lưu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-downstream level"
+      }
+    ]
+  },
+  {
     "word": "mực nước thủy lên",
     "definitions": [
       {
@@ -243,11 +537,245 @@
     ]
   },
   {
-    "word": "mực tầu",
+    "word": "mực nước tự nhiên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-china ink\n-drawing inking\n-ink"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-natural water level"
+      }
+    ]
+  },
+  {
+    "word": "mực zero",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zero level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước thủy tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hydrostatic level"
+      }
+    ]
+  },
+  {
+    "word": "mực nửa tông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-halftone ink"
+      }
+    ]
+  },
+  {
+    "word": "mực để chi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ink for recorder"
+      }
+    ]
+  },
+  {
+    "word": "mực nước lũ cao nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flood peak"
+      }
+    ]
+  },
+  {
+    "word": "mực rắn nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-thermosetting ink"
+      }
+    ]
+  },
+  {
+    "word": "mực in nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-small print"
+      }
+    ]
+  },
+  {
+    "word": "mực thỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-china ink in plates"
+      }
+    ]
+  },
+  {
+    "word": "mực áp lực không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-zero head level"
+      }
+    ]
+  },
+  {
+    "word": "mực vô hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-drop-out ink"
+      }
+    ]
+  },
+  {
+    "word": "mực in tự do",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-free toner"
+      }
+    ]
+  },
+  {
+    "word": "mực nền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-background ink"
+      }
+    ]
+  },
+  {
+    "word": "mực nước thường xuyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-permanent water level"
+      }
+    ]
+  },
+  {
+    "word": "mực không phân chiếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-reflective ink"
+      }
+    ]
+  },
+  {
+    "word": "mực bút máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fountain-pen ink"
+      }
+    ]
+  },
+  {
+    "word": "mực nước trong hồ chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-capacity level"
+      }
+    ]
+  },
+  {
+    "word": "mực thủy chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dumpy level"
+      }
+    ]
+  },
+  {
+    "word": "mực để ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recording ink"
+      }
+    ]
+  },
+  {
+    "word": "mực chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-standard inks"
+      }
+    ]
+  },
+  {
+    "word": "mực vẽ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drawing ink\n-ink"
+      }
+    ]
+  },
+  {
+    "word": "mực in bốn màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-four-color process ink\n-four-colour process ink"
+      }
+    ]
+  },
+  {
+    "word": "mực nước ngầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground water level\n-groundwater line\n-groundwater table\n-phreatic level\n-surface of underground\n-water table"
+      }
+    ]
+  },
+  {
+    "word": "mực nước báo động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-warning water level"
+      }
+    ]
+  },
+  {
+    "word": "mực nước tự do",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-free water elevation\n-free water level\n-free water table"
+      }
+    ]
+  },
+  {
+    "word": "mực nước tù",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-standing water level"
+      }
+    ]
+  },
+  {
+    "word": "mực trung bình nước dâng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mean high water"
       }
     ]
   },
@@ -293,595 +821,36 @@
     ]
   },
   {
-    "word": "mực nước thấp nhất",
+    "word": "mực thước",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lowest water level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước kéo thuyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-haulage level"
-      }
-    ]
-  },
-  {
-    "word": "mực sông đầu nguồn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-upper pond level"
-      }
-    ]
-  },
-  {
-    "word": "mực cơ sở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-base level"
-      }
-    ]
-  },
-  {
-    "word": "mực ăn nước (của tàu bè)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sea gauge (sea-gauge)"
-      }
-    ]
-  },
-  {
-    "word": "mực nước treo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-level of suspended water"
-      }
-    ]
-  },
-  {
-    "word": "mực nước lũ cao nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flood peak"
-      }
-    ]
-  },
-  {
-    "word": "mực nước hạ lưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-downstream level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước dừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-standing water level"
-      }
-    ]
-  },
-  {
-    "word": "mực thỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-china ink in plates"
-      }
-    ]
-  },
-  {
-    "word": "mực nước hạ thấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-draw-down level"
-      }
-    ]
-  },
-  {
-    "word": "mực không phân chiếu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-reflective ink"
-      }
-    ]
-  },
-  {
-    "word": "mực in tự do",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-free toner"
-      }
-    ]
-  },
-  {
-    "word": "mực nước kênh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-canal water level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước dâng cao do gió thổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-water level raised by wind"
-      }
-    ]
-  },
-  {
-    "word": "mực nước bình phương trung bình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mean square water level"
-      }
-    ]
-  },
-  {
-    "word": "mực dầu (nhớt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-oil level"
-      }
-    ]
-  },
-  {
-    "word": "mực in bốn màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-four-color process ink\n-four-colour process ink"
-      }
-    ]
-  },
-  {
-    "word": "mực vẽ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drawing ink\n-ink"
-      }
-    ]
-  },
-  {
-    "word": "mực không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zero level"
-      }
-    ]
-  },
-  {
-    "word": "mực đóng dấu chất lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-stamp pad ink"
-      }
-    ]
-  },
-  {
-    "word": "mực trung bình nước kiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mean low water"
-      }
-    ]
-  },
-  {
-    "word": "mực nước ngầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground water level\n-groundwater line\n-groundwater table\n-phreatic level\n-surface of underground\n-water table"
-      }
-    ]
-  },
-  {
-    "word": "mực nước trung bình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mean level\n-MSL-Mean Sea Level"
-      }
-    ]
-  },
-  {
-    "word": "mựa",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "theo đúng khuôn phép\nVí dụ:\n- lối sống rất mực thước"
+      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mựa\n- ph. Lọ, chớ, đừng (cổ). Chăn dân mựa nữa mất lòng dân (Nguyễn Trãi)."
-      }
-    ]
-  },
-  {
-    "word": "mực nước thấp",
-    "definitions": [
+        "dict_definition": "@mực thước\n- Mẫu mực, khuôn phép."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-low-water stage\n-water shortage"
-      }
-    ]
-  },
-  {
-    "word": "mực chuẩn",
-    "definitions": [
+        "dict_definition": "@mực thước\n-Examplary, model-setting, regular\n=Ăn ở mực thước\n+To behave in a most exemplary way\n@Chuyên ngành kỹ thuật\n-stage"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-standard inks"
-      }
-    ]
-  },
-  {
-    "word": "mực nước dâng bình thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-retention level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước hút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-suction water level"
-      }
-    ]
-  },
-  {
-    "word": "mực không thể tẩy sạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-indelible ink"
-      }
-    ]
-  },
-  {
-    "word": "mực từ tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-magnetic ink"
-      }
-    ]
-  },
-  {
-    "word": "mực độ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@mực độ\n- Nh. Mức độ."
-      }
-    ]
-  },
-  {
-    "word": "mực nửa tông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-halftone ink"
-      }
-    ]
-  },
-  {
-    "word": "mực thủy chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dumpy level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước tới hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-critical water level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước lũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flood level\n-flood level mark"
-      }
-    ]
-  },
-  {
-    "word": "mực trung bình nước dâng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mean high water"
-      }
-    ]
-  },
-  {
-    "word": "mực để chi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ink for recorder"
-      }
-    ]
-  },
-  {
-    "word": "mực rắn nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-thermosetting ink"
-      }
-    ]
-  },
-  {
-    "word": "mực nước khi lưu lượng bằng không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-stage of zero flow"
-      }
-    ]
-  },
-  {
-    "word": "mực in",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ink\n-letterpress ink\n-paint\n-print ink\n-printer\"s ink"
-      }
-    ]
-  },
-  {
-    "word": "mực nước tù",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-standing water level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước thông thuyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-navigable water level\n-navigation flood level"
-      }
-    ]
-  },
-  {
-    "word": "mực zero",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zero level"
-      }
-    ]
-  },
-  {
-    "word": "mực bút máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fountain-pen ink"
-      }
-    ]
-  },
-  {
-    "word": "mực nước báo động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-warning water level"
-      }
-    ]
-  },
-  {
-    "word": "mực khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dry ink"
-      }
-    ]
-  },
-  {
-    "word": "mực trải mực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ink coverage"
-      }
-    ]
-  },
-  {
-    "word": "mực in nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-small print"
-      }
-    ]
-  },
-  {
-    "word": "mực ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@mực ống [mực ống]\n-squid"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@mực thước\n- Examplary, model-setting, regular\n=Ăn ở mực thước+To behave in a most exemplary way"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "squid"
+        "dict_definition": "exemplary, model-setting, regular"
       }
     ]
   },
   {
-    "word": "mực nước (kết cấu tàu)",
+    "word": "mực không thấm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-waterplane"
-      }
-    ]
-  },
-  {
-    "word": "mực nước cạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-low water level\n-low-water stage"
-      }
-    ]
-  },
-  {
-    "word": "mực từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-magnetic ink"
-      }
-    ]
-  },
-  {
-    "word": "mực nước thủy tĩnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hydrostatic level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước đọng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-standing water level"
-      }
-    ]
-  },
-  {
-    "word": "mực anilin nhuộm màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pigmented aniline ink"
-      }
-    ]
-  },
-  {
-    "word": "mực nước hồ chứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-banked-up water level\n-storage water level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sea level (sea-level)\n@Chuyên ngành kỹ thuật\n-grand base level\n-sea level\n-sea-gauge\n-sea-level datum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sea level, ocean level"
-      }
-    ]
-  },
-  {
-    "word": "mực anilin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-aniline ink"
-      }
-    ]
-  },
-  {
-    "word": "mực áp lực không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-zero head level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-high-water level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước trong hồ chứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-capacity level"
-      }
-    ]
-  },
-  {
-    "word": "mực nước không đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-constant water level"
-      }
-    ]
-  },
-  {
-    "word": "mực tia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-jet ink"
-      }
-    ]
-  },
-  {
-    "word": "mực để ghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-recording ink"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-waterproof"
       }
     ]
   },
@@ -895,6 +864,24 @@
     ]
   },
   {
+    "word": "mực nước dâng cao do gió thổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-water level raised by wind"
+      }
+    ]
+  },
+  {
+    "word": "mực nước (kết cấu tàu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-waterplane"
+      }
+    ]
+  },
+  {
     "word": "mực nước kiệt",
     "definitions": [
       {
@@ -904,29 +891,42 @@
     ]
   },
   {
-    "word": "mực nước dòng sông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-stage of river"
-      }
-    ]
-  },
-  {
-    "word": "mực nước tự do",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-free water elevation\n-free water level\n-free water table"
-      }
-    ]
-  },
-  {
     "word": "mực nước thấp nhất ghi được",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lowest recorded water level"
+      }
+    ]
+  },
+  {
+    "word": "mực từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-magnetic ink"
+      }
+    ]
+  },
+  {
+    "word": "mực tăng của hồ chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-surcharged pool"
+      }
+    ]
+  },
+  {
+    "word": "mực ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@mực ống [mực ống]\n-squid"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "squid"
       }
     ]
   }

@@ -1,5 +1,32 @@
 [
   {
+    "word": "đẻ lâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-delayed delivery"
+      }
+    ]
+  },
+  {
+    "word": "đẻ cả trai và gái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amphogenic"
+      }
+    ]
+  },
+  {
+    "word": "đẻ dễ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-easy delivery"
+      }
+    ]
+  },
+  {
     "word": "đẻ trứng",
     "definitions": [
       {
@@ -9,40 +36,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to lay an egg"
-      }
-    ]
-  },
-  {
-    "word": "đẻ đái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[phụ nữ] đẻ con [nói khái quát]\nVí dụ:\n- chưa thấy đẻ đái gì"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đẻ đái [đẻ đái]\n-to bear children"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bear children"
-      }
-    ]
-  },
-  {
-    "word": "đẻ rơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đẻ rơi\n-Be delivered on route to hospital, be borrn on route to hospital"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đẻ rơi\n- Be delivered on route to hospital, be borrn on route to hospital"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be born on the way to the hospital"
       }
     ]
   },
@@ -60,20 +53,11 @@
     ]
   },
   {
-    "word": "đẻ khó do thai nhi",
+    "word": "đẻ con so",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fetal dystocia"
-      }
-    ]
-  },
-  {
-    "word": "đẻ đứa con",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to give birth to a child"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-uniparous"
       }
     ]
   },
@@ -119,56 +103,11 @@
     ]
   },
   {
-    "word": "đẻ bình thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-eutocia"
-      }
-    ]
-  },
-  {
-    "word": "đẻ đủ tháng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-delivery at term\n-partus maturus"
-      }
-    ]
-  },
-  {
     "word": "đẻ ngôi mông",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-breech delivery"
-      }
-    ]
-  },
-  {
-    "word": "đẻ lâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-delayed delivery"
-      }
-    ]
-  },
-  {
-    "word": "đẻ nhiều con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-polytocous"
-      }
-    ]
-  },
-  {
-    "word": "đẻ dễ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-easy delivery"
       }
     ]
   },
@@ -182,20 +121,72 @@
     ]
   },
   {
+    "word": "đẻ rơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đẻ rơi\n-Be delivered on route to hospital, be borrn on route to hospital"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đẻ rơi\n- Be delivered on route to hospital, be borrn on route to hospital"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be born on the way to the hospital"
+      }
+    ]
+  },
+  {
+    "word": "đẻ đứa con",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to give birth to a child"
+      }
+    ]
+  },
+  {
+    "word": "đẻ nhiều con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-polytocous"
+      }
+    ]
+  },
+  {
+    "word": "đẻ đái",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[phụ nữ] đẻ con [nói khái quát]\nVí dụ:\n- chưa thấy đẻ đái gì"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đẻ đái [đẻ đái]\n-to bear children"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bear children"
+      }
+    ]
+  },
+  {
+    "word": "đẻ khó do thai nhi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fetal dystocia"
+      }
+    ]
+  },
+  {
     "word": "đẻ một con",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-uniparous"
-      }
-    ]
-  },
-  {
-    "word": "đẻ một lần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monotocous"
       }
     ]
   },
@@ -230,11 +221,20 @@
     ]
   },
   {
-    "word": "đẻ cả trai và gái",
+    "word": "đẻ một lần",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-amphogenic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-monotocous"
+      }
+    ]
+  },
+  {
+    "word": "đẻ bình thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-eutocia"
       }
     ]
   },
@@ -256,11 +256,11 @@
     ]
   },
   {
-    "word": "đẻ con so",
+    "word": "đẻ đủ tháng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-uniparous"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-delivery at term\n-partus maturus"
       }
     ]
   }

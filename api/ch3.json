@@ -1,19 +1,19 @@
 [
   {
-    "word": "ch3ch2ch2ch3",
+    "word": "ch3 (ch2) 12ch3",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diethyl\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diethyl"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetradecane\n-tricosane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetradecane\n-tricosane"
       }
     ]
   },
   {
-    "word": "ch3br",
+    "word": "ch3 (ch2) 3ch2",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-methyl bromide\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-methyl bromide"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal pentane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal pentane"
       }
     ]
   },
@@ -27,6 +27,15 @@
     ]
   },
   {
+    "word": "ch3br",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-methyl bromide\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-methyl bromide"
+      }
+    ]
+  },
+  {
     "word": "ch3 (ch2) ch3",
     "definitions": [
       {
@@ -36,20 +45,47 @@
     ]
   },
   {
-    "word": "ch3c6h5",
+    "word": "ch3",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toluene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toluene"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-methyl\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-methyl"
       }
     ]
   },
   {
-    "word": "ch3ch2ch3",
+    "word": "ch3ch2ch2ch3",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-propane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-propane"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diethyl\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diethyl"
+      }
+    ]
+  },
+  {
+    "word": "ch3ch2c=ch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethylacetylene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethylacetylene"
+      }
+    ]
+  },
+  {
+    "word": "ch3 (ch2) 2ch3",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetracosane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetracosane"
+      }
+    ]
+  },
+  {
+    "word": "ch3ch2oh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethanol\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethanol"
       }
     ]
   },
@@ -59,6 +95,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-propanol\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-propanol"
+      }
+    ]
+  },
+  {
+    "word": "ch3 (ch2) 9",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-decyl radical\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-decyl radical"
       }
     ]
   },
@@ -81,29 +126,11 @@
     ]
   },
   {
-    "word": "ch3ch2c=ch",
+    "word": "ch3ch2ch3",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethylacetylene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethylacetylene"
-      }
-    ]
-  },
-  {
-    "word": "ch3 (ch2) 3ch2",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal pentane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-normal pentane"
-      }
-    ]
-  },
-  {
-    "word": "ch3 (ch2) 12ch3",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetradecane\n-tricosane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetradecane\n-tricosane"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-propane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-propane"
       }
     ]
   },
@@ -117,47 +144,20 @@
     ]
   },
   {
-    "word": "ch3 (ch2) 9",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-decyl radical\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-decyl radical"
-      }
-    ]
-  },
-  {
-    "word": "ch3",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-methyl\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-methyl"
-      }
-    ]
-  },
-  {
-    "word": "ch3ch2oh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethanol\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-ethanol"
-      }
-    ]
-  },
-  {
-    "word": "ch3 (ch2) 2ch3",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetracosane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tetracosane"
-      }
-    ]
-  },
-  {
     "word": "ch3ch3",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dimethyl\n-ethane\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dimethyl\n-ethane"
+      }
+    ]
+  },
+  {
+    "word": "ch3c6h5",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toluene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toluene"
       }
     ]
   }

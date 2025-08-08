@@ -1,32 +1,5 @@
 [
   {
-    "word": "qũy đầu tư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-investment funds"
-      }
-    ]
-  },
-  {
-    "word": "qũy cân bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-equalization fund"
-      }
-    ]
-  },
-  {
-    "word": "qũy trợ cấp tai nạn lao động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-industrial accident fund"
-      }
-    ]
-  },
-  {
     "word": "qũy năng lượng",
     "definitions": [
       {
@@ -36,11 +9,11 @@
     ]
   },
   {
-    "word": "qũy hưu bổng của công nhân viên chức",
+    "word": "qũy bình chuẩn ngoại hối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-employee retirement fund"
+        "dict_definition": "@Chuyên ngành kinh tế\n-exchange equalization fund"
       }
     ]
   },
@@ -54,11 +27,38 @@
     ]
   },
   {
-    "word": "qũy bình chuẩn ngoại hối",
+    "word": "qũy đầu tư",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-exchange equalization fund"
+        "dict_definition": "@Chuyên ngành kinh tế\n-investment funds"
+      }
+    ]
+  },
+  {
+    "word": "qũy hưu bổng của công nhân viên chức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-employee retirement fund"
+      }
+    ]
+  },
+  {
+    "word": "qũy trợ cấp tai nạn lao động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-industrial accident fund"
+      }
+    ]
+  },
+  {
+    "word": "qũy cân bằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-equalization fund"
       }
     ]
   }

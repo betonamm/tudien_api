@@ -1,19 +1,10 @@
 [
   {
-    "word": "cntv (sự) điều chế",
+    "word": "cnt",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-preparation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-preparation"
-      }
-    ]
-  },
-  {
-    "word": "cnh2n-2",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diolefins\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diolefins"
+        "dict_name": "VNEDICT",
+        "dict_definition": "Cộng Hòa Nhân Dân Trung Hoa (People’s Republic of China)"
       }
     ]
   },
@@ -23,15 +14,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-naphthene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-naphthene"
-      }
-    ]
-  },
-  {
-    "word": "cnt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Cộng Hòa Nhân Dân Trung Hoa (People’s Republic of China)"
       }
     ]
   },
@@ -62,6 +44,15 @@
     ]
   },
   {
+    "word": "cnh2n-2",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diolefins\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diolefins"
+      }
+    ]
+  },
+  {
     "word": "cn",
     "definitions": [
       {
@@ -71,6 +62,15 @@
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "công nguyên [viết tắt]\nVí dụ:\n- thế kỉ I tr. CN (trước công nguyên)"
+      }
+    ]
+  },
+  {
+    "word": "cntv (sự) điều chế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-preparation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-preparation"
       }
     ]
   }

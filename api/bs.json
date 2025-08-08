@@ -1,10 +1,10 @@
 [
   {
-    "word": "bsc",
+    "word": "bsm điều hành trạm gốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BSC (binary synchronous communications protocol)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BSC (binary synchronous communications protocol)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Base station management\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Base station management"
       }
     ]
   },
@@ -18,20 +18,20 @@
     ]
   },
   {
-    "word": "bsm điều hành trạm gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Base station management\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-Base station management"
-      }
-    ]
-  },
-  {
     "word": "bsd",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BSD (Berkeley Software Distribution)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BSD (Berkeley Software Distribution)"
+      }
+    ]
+  },
+  {
+    "word": "bsc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BSC (binary synchronous communications protocol)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BSC (binary synchronous communications protocol)"
       }
     ]
   }

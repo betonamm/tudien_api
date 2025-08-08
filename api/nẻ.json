@@ -1,14 +1,5 @@
 [
   {
-    "word": "nẻ, tách, vết nứt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dehiscence"
-      }
-    ]
-  },
-  {
     "word": "nẻ",
     "definitions": [
       {
@@ -38,6 +29,27 @@
     ]
   },
   {
+    "word": "nẻo đường",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nẻo đường\n- Lối đi, đường đi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nẻo đường\n-Way"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nẻo đường\n- Way"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "way"
+      }
+    ]
+  },
+  {
     "word": "nẻo",
     "definitions": [
       {
@@ -63,23 +75,11 @@
     ]
   },
   {
-    "word": "nẻo đường",
+    "word": "nẻ, tách, vết nứt",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nẻo đường\n- Lối đi, đường đi."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@nẻo đường\n-Way"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nẻo đường\n- Way"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "way"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dehiscence"
       }
     ]
   }

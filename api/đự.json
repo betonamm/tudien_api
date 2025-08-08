@@ -1,5 +1,40 @@
 [
   {
+    "word": "đựng (chất lỏng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hold"
+      }
+    ]
+  },
+  {
+    "word": "đực rựa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đàn ông, con trai [hàm ý đùa vui]\nVí dụ:\n- cả lớp toàn là đực rựa"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đực rựa [đực rựa]\n-(tiếng lóng) male"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "male"
+      }
+    ]
+  },
+  {
+    "word": "đực, trống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-male"
+      }
+    ]
+  },
+  {
     "word": "đực mặt",
     "definitions": [
       {
@@ -26,11 +61,27 @@
     ]
   },
   {
-    "word": "đựng (chất lỏng)",
+    "word": "đựng",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chứa vật gì ở bên trong lòng một đồ vật khác\nVí dụ:\n- tủ đựng quần áo \n - thùng đựng nước \n - túi đựng bài kiểm tra"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đựng\n- đg. Chứa ở trong lòng của đồ vật. Đựng nước trong chai. Hòm đựng quần áo. Thiếu đồ đựng."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hold"
+        "dict_definition": "@đựng\n*verb\n-to contain; to hold; to have the capicity for\n@Chuyên ngành kinh tế\n-store\n@Chuyên ngành kỹ thuật\n-contain\n-hold"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đựng\n* verb\n- to contain; to hold; to have the capicity for"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to contain, hold"
       }
     ]
   },
@@ -64,57 +115,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(1) (of animals) male, masculine; (2) stupified, astonished"
-      }
-    ]
-  },
-  {
-    "word": "đực, trống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-male"
-      }
-    ]
-  },
-  {
-    "word": "đực rựa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đàn ông, con trai [hàm ý đùa vui]\nVí dụ:\n- cả lớp toàn là đực rựa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đực rựa [đực rựa]\n-(tiếng lóng) male"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "male"
-      }
-    ]
-  },
-  {
-    "word": "đựng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chứa vật gì ở bên trong lòng một đồ vật khác\nVí dụ:\n- tủ đựng quần áo \n - thùng đựng nước \n - túi đựng bài kiểm tra"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đựng\n- đg. Chứa ở trong lòng của đồ vật. Đựng nước trong chai. Hòm đựng quần áo. Thiếu đồ đựng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đựng\n*verb\n-to contain; to hold; to have the capicity for\n@Chuyên ngành kinh tế\n-store\n@Chuyên ngành kỹ thuật\n-contain\n-hold"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đựng\n* verb\n- to contain; to hold; to have the capicity for"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to contain, hold"
       }
     ]
   }

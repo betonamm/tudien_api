@@ -1,30 +1,5 @@
 [
   {
-    "word": "bựa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vật nhỏ còn sót lại của cái gì, trở thành lớp chất bẩn bám vào một nơi nào đó [thường nói về lớp chất bẩn bám ở chân răng]\nVí dụ:\n- răng đầy bựa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bựa\n- dt. Vật còn sót lại của cái gì, trở thành lớp chất bẩn, kết dính vào nơi nào nó: bựa răng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bựa\n*noun\n-Tartar (ở răng), smegma (ở âm hộ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saburra\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saburra"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bựa\n* noun\n- Tartar (ở răng), smegma (ở âm hộ)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "food (in one’s teeth), tartar (teeth), smegma"
-      }
-    ]
-  },
-  {
     "word": "bự",
     "definitions": [
       {
@@ -54,6 +29,15 @@
     ]
   },
   {
+    "word": "bựa sinh dục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-smegma\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-smegma"
+      }
+    ]
+  },
+  {
     "word": "bực",
     "definitions": [
       {
@@ -79,32 +63,27 @@
     ]
   },
   {
-    "word": "bựng",
+    "word": "bực bội",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ dùng để chỉ từng đơn vị khối to và đặc kết chặt với nhau\nVí dụ:\n- bựng khói \n - bựng lửa"
-      }
-    ]
-  },
-  {
-    "word": "bực mình",
-    "definitions": [
+        "dict_definition": "bực tức, khó chịu vì không vừa ý mà không làm gì được\nVí dụ:\n- anh ấy đang bực bội"
+      },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bực trong lòng, khó chịu trong lòng\nVí dụ:\n- tôi đang bực mình đây \n - anh ấy bực mình lắm"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bực bội\n- đgt. Bực, tức tối, khó chịu, vì không vừa ý mà không làm gì được: Trong người bực bội vô cùng  giọng bực bội."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bực mình\n-Tetchy\n=chờ mãi không thấy, bực mình bỏ về\n+after waiting in vain, he left out of tetchiness"
+        "dict_definition": "@bực bội\n*verb & adj\n-To fret; fretty (nói khái quát)\n=hay ốm đau nên dễ sinh ra bực bội\n+to fret easily because of frequent illness\n=giọng bực bội\n+a fretty tone"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bực mình\n- Tetchy\n=chờ mãi không thấy, bực mình bỏ về+after waiting in vain, he left out of tetchiness"
+        "dict_definition": "@bực bội\n* verb & adj\n-To fret; fretty (nói khái quát)\n=hay ốm đau nên dễ sinh ra bực bội+to fret easily because of frequent illness\n=giọng bực bội+a fretty tone"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "angry, annoyed; to vex, annoy"
+        "dict_definition": "irritated, angry, upset"
       }
     ]
   },
@@ -134,27 +113,57 @@
     ]
   },
   {
-    "word": "bực bội",
+    "word": "bựng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bực tức, khó chịu vì không vừa ý mà không làm gì được\nVí dụ:\n- anh ấy đang bực bội"
+        "dict_definition": "từ dùng để chỉ từng đơn vị khối to và đặc kết chặt với nhau\nVí dụ:\n- bựng khói \n - bựng lửa"
+      }
+    ]
+  },
+  {
+    "word": "bựa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vật nhỏ còn sót lại của cái gì, trở thành lớp chất bẩn bám vào một nơi nào đó [thường nói về lớp chất bẩn bám ở chân răng]\nVí dụ:\n- răng đầy bựa"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bực bội\n- đgt. Bực, tức tối, khó chịu, vì không vừa ý mà không làm gì được: Trong người bực bội vô cùng  giọng bực bội."
+        "dict_definition": "@bựa\n- dt. Vật còn sót lại của cái gì, trở thành lớp chất bẩn, kết dính vào nơi nào nó: bựa răng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bực bội\n*verb & adj\n-To fret; fretty (nói khái quát)\n=hay ốm đau nên dễ sinh ra bực bội\n+to fret easily because of frequent illness\n=giọng bực bội\n+a fretty tone"
+        "dict_definition": "@bựa\n*noun\n-Tartar (ở răng), smegma (ở âm hộ)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saburra\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saburra"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bực bội\n* verb & adj\n-To fret; fretty (nói khái quát)\n=hay ốm đau nên dễ sinh ra bực bội+to fret easily because of frequent illness\n=giọng bực bội+a fretty tone"
+        "dict_definition": "@bựa\n* noun\n- Tartar (ở răng), smegma (ở âm hộ)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "irritated, angry, upset"
+        "dict_definition": "food (in one’s teeth), tartar (teeth), smegma"
+      }
+    ]
+  },
+  {
+    "word": "bực mình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bực trong lòng, khó chịu trong lòng\nVí dụ:\n- tôi đang bực mình đây \n - anh ấy bực mình lắm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bực mình\n-Tetchy\n=chờ mãi không thấy, bực mình bỏ về\n+after waiting in vain, he left out of tetchiness"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bực mình\n- Tetchy\n=chờ mãi không thấy, bực mình bỏ về+after waiting in vain, he left out of tetchiness"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "angry, annoyed; to vex, annoy"
       }
     ]
   },
@@ -194,15 +203,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@bực dọc\n* verb & adj\n- (To be) testy\n=không nén nổi bực dọc, hầm hầm bỏ đi+unable to suppress his testiness, he left with black looks\n=cau mặt lại, tỏ vẻ bực dọc+to frown in a fit of testiness\n=trả lời một cách bực dọc+to answer testily"
-      }
-    ]
-  },
-  {
-    "word": "bựa sinh dục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-smegma\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-smegma"
       }
     ]
   }

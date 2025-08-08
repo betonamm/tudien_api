@@ -1,18 +1,10 @@
 [
   {
-    "word": "gớm chửa",
+    "word": "gớm giếc",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gớm chửa\n- th. Từ biểu thị sự chê bai: Gớm chửa, thằng bé bỏ nhà ra đi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gớm chửa [gớm chửa]\n-How awful! How dreadful!"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "how awful! how dreadful!"
+        "dict_definition": "disgusted, terrified"
       }
     ]
   },
@@ -42,15 +34,6 @@
     ]
   },
   {
-    "word": "gớm giếc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "disgusted, terrified"
-      }
-    ]
-  },
-  {
     "word": "gớm ghê",
     "definitions": [
       {
@@ -68,44 +51,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "frightful, horrible, disgusting"
-      }
-    ]
-  },
-  {
-    "word": "gớm guốc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như gớm ghiếc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gớm guốc\n- Nh. Gớm ghiếc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gớm guốc\n-như gớm"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gớm guốc\n- như gớm"
-      }
-    ]
-  },
-  {
-    "word": "gớm mặt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gớm mặt\n- Khinh ghét, không muốn nhìn: Gớm mặt con người lật lọng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gớm mặt\n-Destest, hate (even the sight of)\n=Gớm mặt con người gian trá\n+How detestable that treachrous person!"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gớm mặt\n- Destest, hate (even the sight of)\n=Gớm mặt con người gian trá+How detestable that treachrous person!"
       }
     ]
   },
@@ -143,6 +88,61 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "awful, disgusting, terrible, horrifying"
+      }
+    ]
+  },
+  {
+    "word": "gớm chửa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gớm chửa\n- th. Từ biểu thị sự chê bai: Gớm chửa, thằng bé bỏ nhà ra đi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gớm chửa [gớm chửa]\n-How awful! How dreadful!"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "how awful! how dreadful!"
+      }
+    ]
+  },
+  {
+    "word": "gớm mặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gớm mặt\n- Khinh ghét, không muốn nhìn: Gớm mặt con người lật lọng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gớm mặt\n-Destest, hate (even the sight of)\n=Gớm mặt con người gian trá\n+How detestable that treachrous person!"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gớm mặt\n- Destest, hate (even the sight of)\n=Gớm mặt con người gian trá+How detestable that treachrous person!"
+      }
+    ]
+  },
+  {
+    "word": "gớm guốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như gớm ghiếc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gớm guốc\n- Nh. Gớm ghiếc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gớm guốc\n-như gớm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gớm guốc\n- như gớm"
       }
     ]
   }

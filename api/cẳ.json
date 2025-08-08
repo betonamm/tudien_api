@@ -1,50 +1,5 @@
 [
   {
-    "word": "cẳng chân có thịt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-clod-on shank"
-      }
-    ]
-  },
-  {
-    "word": "cẳng chân sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hind hock"
-      }
-    ]
-  },
-  {
-    "word": "cẳng bò sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hip"
-      }
-    ]
-  },
-  {
-    "word": "cẳng chân bắt chéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scissor leg\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scissor leg"
-      }
-    ]
-  },
-  {
-    "word": "cẳm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "chin"
-      }
-    ]
-  },
-  {
     "word": "cẳng chân không có thịt",
     "definitions": [
       {
@@ -54,11 +9,59 @@
     ]
   },
   {
+    "word": "cẳng chân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần dưới của chân, từ đầu gối xuống đến cổ chân"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cẳng chân\n-Shank\n=thượng cẳng chân hạ cẳng tay\n+to pummel, to beat up\n@Chuyên ngành kinh tế\n-shin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-shank\n-shin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-shank\n-shin"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cẳng chân\n- Shank\n=thượng cẳng chân hạ cẳng tay+to pummel, to beat up"
+      }
+    ]
+  },
+  {
+    "word": "cẳn nhẳn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@cẳn nhẳn\n-như cằn nhằn"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@cẳn nhẳn\n- như cằn nhằn"
+      }
+    ]
+  },
+  {
+    "word": "cẳng chân tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-round shin"
+      }
+    ]
+  },
+  {
     "word": "cẳng sau",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-haulm"
+      }
+    ]
+  },
+  {
+    "word": "cẳng chân sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hind hock"
       }
     ]
   },
@@ -88,11 +91,29 @@
     ]
   },
   {
-    "word": "cẳng chân trước",
+    "word": "cẳng chân dẹt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hough"
+        "dict_definition": "@Chuyên ngành kinh tế\n-flat shin"
+      }
+    ]
+  },
+  {
+    "word": "cẳng chân bắt chéo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scissor leg\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-scissor leg"
+      }
+    ]
+  },
+  {
+    "word": "cẳng chân có thịt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-clod-on shank"
       }
     ]
   },
@@ -122,42 +143,20 @@
     ]
   },
   {
-    "word": "cẳn nhẳn",
+    "word": "cẳm",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@cẳn nhẳn\n-như cằn nhằn"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cẳn nhẳn\n- như cằn nhằn"
+        "dict_name": "VNEDICT",
+        "dict_definition": "chin"
       }
     ]
   },
   {
-    "word": "cẳng chân đã chế biến",
+    "word": "cẳng chân trước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cow heel"
-      }
-    ]
-  },
-  {
-    "word": "cẳng chân dẹt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flat shin"
-      }
-    ]
-  },
-  {
-    "word": "cẳng chân tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-round shin"
+        "dict_definition": "@Chuyên ngành kinh tế\n-hough"
       }
     ]
   },
@@ -171,19 +170,20 @@
     ]
   },
   {
-    "word": "cẳng chân",
+    "word": "cẳng bò sau",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần dưới của chân, từ đầu gối xuống đến cổ chân"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hip"
+      }
+    ]
+  },
+  {
+    "word": "cẳng chân đã chế biến",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@cẳng chân\n-Shank\n=thượng cẳng chân hạ cẳng tay\n+to pummel, to beat up\n@Chuyên ngành kinh tế\n-shin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-shank\n-shin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-shank\n-shin"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@cẳng chân\n- Shank\n=thượng cẳng chân hạ cẳng tay+to pummel, to beat up"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cow heel"
       }
     ]
   }

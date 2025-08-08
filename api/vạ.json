@@ -1,36 +1,92 @@
 [
   {
-    "word": "vạ vịt",
+    "word": "vạt cỏ mới phạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-swath"
+      }
+    ]
+  },
+  {
+    "word": "vạn thọ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tai vạ bỗng tự đâu đến, một cách không ngờ\nVí dụ:\n- \"Vợ chồng tôi trót nghe nhà ông nghị xui dại, thành ra bị cái vạ vịt.\" (Nguyễn Công Hoan; 11)"
+        "dict_definition": "xem cúc vạn thọ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Thọ\n- (xã) tên gọi các xã thuộc h. Vạn Ninh (Khánh Hoà), h. Đại Từ (Thái Nguyên)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạn thọ\n- 1 dt Loài cúc, hoa có nhiều cánh màu vàng, trồng làm cảnh: Hoa vạn thọ rẻ tiền.\n- 2 tt (H. thọ: sống lâu) Lời chúc mừng vua sống lâu (cũ): Các quan trong triều dâng biểu chúc vua vạn thọ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vạ vịt\n*danh từ\n-unexpected misfortune"
+        "dict_definition": "@vạn thọ\n*noun\n-marigold"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vạn thọ\n* noun\n- marigold"
+      }
+    ]
+  },
+  {
+    "word": "vạn bảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn bảo\n*danh từ\n-(Municipal) pawnshop"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "unexpected misfortune"
+        "dict_definition": "(municipal) pawnshop"
       }
     ]
   },
   {
-    "word": "vạch dòng xe chạy",
+    "word": "vạch phát xạ nhật hoa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic striping"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-coronal emission lines"
       }
     ]
   },
   {
-    "word": "vạch dấu điểm dấu",
+    "word": "vạch ghi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-spot"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-delivery mark"
+      }
+    ]
+  },
+  {
+    "word": "vạn ninh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Ninh\n- (huyện) t. Khánh Hoà\n- (xã) tên gọi các xã thuộc h. Gia Lương (Bắc Ninh), h. Quảng Ninh (Quảng Bình), h. Hải Ninh (Quảng Ninh)"
+      }
+    ]
+  },
+  {
+    "word": "vạm vỡ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có thân hình to lớn, nở nang, rắn chắc, trông rất khoẻ mạnh [thường nói về đàn ông]\nVí dụ:\n- người cao to vạm vỡ \n - cánh tay vạm vỡ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạm vỡ\n*tính từ\n-robust, vigorous, sturdy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "muscular, sturdy, athletic, robust, vigorous"
       }
     ]
   },
@@ -44,11 +100,11 @@
     ]
   },
   {
-    "word": "vạch gốc",
+    "word": "vạn bất đắc dĩ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line original"
+        "dict_definition": "@vạn bất đắc dĩ\n*thành ngữ\n-unwillingly, very reluctantly"
       }
     ]
   },
@@ -62,138 +118,11 @@
     ]
   },
   {
-    "word": "vạch dấu các phần đường",
+    "word": "vạch giới hạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic striping"
-      }
-    ]
-  },
-  {
-    "word": "vạch dấu vòng tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-circumferential mark"
-      }
-    ]
-  },
-  {
-    "word": "vạc dầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vạc đựng dầu đang sôi để thả người có tội vào, thi hành một hình phạt thời phong kiến"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạc dầu\n- dt. Vạc đựng dầu đang đun sôi, dùng để thả người có tội vào, theo một hình phạt thời phong kiến."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạc dầu\n*noun\n-cauldron of oil"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vạc dầu\n* noun\n- cauldron of oil"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cauldron of oil"
-      }
-    ]
-  },
-  {
-    "word": "vạt trung gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-intermediate"
-      }
-    ]
-  },
-  {
-    "word": "vạch cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-cutting line"
-      }
-    ]
-  },
-  {
-    "word": "vạn giã",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Giã\n- (thị trấn) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "vạch d của natri (vật lý nguyên tử)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sodium D-line"
-      }
-    ]
-  },
-  {
-    "word": "vạn phúc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Phúc\n- (xã) tên gọi các xã thuộc h. Thanh Trì (Hà Nội), tx. Hà Đông (Hà Tây), h. Ninh Giang (Hải Dương)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn phúc - ten thousand happinesses"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ten thousand happinesses"
-      }
-    ]
-  },
-  {
-    "word": "vạch đứng, thanh dọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-vertical bar"
-      }
-    ]
-  },
-  {
-    "word": "vạch ngấn của thùng đong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-craze"
-      }
-    ]
-  },
-  {
-    "word": "vạn quốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn quốc - all the nations"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "all the nations"
-      }
-    ]
-  },
-  {
-    "word": "vạc sáu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sextet"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-corner mark\n-demarcate"
       }
     ]
   },
@@ -223,11 +152,118 @@
     ]
   },
   {
-    "word": "vạch cấm",
+    "word": "vạn hạnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Hạnh\n- (? - Cổ Pháp, Bắc Giang - nay thuộc Hà Bắc - 1088) Từ nhỏ đã học thông tam giáo: Nho, Phật, Lão. Năm 21 tuổi đi tu ở chùa Lục Tổ. Tuy xuất gia tu hành ông vẫn lưu tâm đến các biến cố chính trị, xã hội. Thời Tiền Lê, Vạn Hạnh đã từng đóng góp mưu lược chống ngoại xâm và dựng nước với Lê Đại Hành. Cuối đời Tiền Lê, cùng một số triều thần khuông phò Lý Công Uẩn lên ngôi. Nhà lý phong ông làm Quốc sư"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn hạnh - how lucky"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "how lucky"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu lỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-deadline\n@Lĩnh vực: điện lạnh\n-forbinden line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mortise marking"
+      }
+    ]
+  },
+  {
+    "word": "vạch màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-color streaks\n-colour streaks"
+      }
+    ]
+  },
+  {
+    "word": "vạch đồng hồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clock track"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu điểm dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-spot"
+      }
+    ]
+  },
+  {
+    "word": "vạt trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tubed flap"
+      }
+    ]
+  },
+  {
+    "word": "vạch tái hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-recombination line"
+      }
+    ]
+  },
+  {
+    "word": "vạch f",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-F-line"
+      }
+    ]
+  },
+  {
+    "word": "vạt chữ x",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-X beveled\n@Lĩnh vực: xây dựng\n-x bevelled"
+      }
+    ]
+  },
+  {
+    "word": "vạch khe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-slot-line"
+      }
+    ]
+  },
+  {
+    "word": "vạch đảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reversed trace"
+      }
+    ]
+  },
+  {
+    "word": "vạch phân tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-molecular line"
       }
     ]
   },
@@ -241,38 +277,480 @@
     ]
   },
   {
-    "word": "vạch ranh giới",
+    "word": "vạch chót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-baseline or base line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ultimate line"
       }
     ]
   },
   {
-    "word": "vạch ngựa vằn",
+    "word": "vạn toàn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-zebra road marking"
+        "dict_definition": "@vạn toàn - perfectly safe perfect"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "perfectly safe perfect"
       }
     ]
   },
   {
-    "word": "vạch kèm sóng dài",
+    "word": "vạch từ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-long wave satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-magnetic stripe"
       }
     ]
   },
   {
-    "word": "vạch đồng bộ hóa",
+    "word": "vạn thiện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Thiện\n- (xã) h. Nông Cống, t. Thanh Hoá"
+      }
+    ]
+  },
+  {
+    "word": "vạch kẻ kép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-synchronization line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-double rule"
+      }
+    ]
+  },
+  {
+    "word": "vại",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đồ đựng bằng sành, gốm, hình trụ, lòng sâu\nVí dụ:\n- vại nước \n - vại dưa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cốc vại [nói tắt]\nVí dụ:\n- rủ bạn vào quán làm vài vại bia"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vại\n- d. 1 Đồ đựng bằng sành, gốm, hình trụ, lòng sâu. Vại nước. Vại cà. 2 (kng.). Cốc vại (nói tắt). Uống một vại bia."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vại\n*noun\n-jar\n@Chuyên ngành kinh tế\n-jar\n@Chuyên ngành kỹ thuật\n-jar"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vại\n* noun\n- jar"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "jar"
+      }
+    ]
+  },
+  {
+    "word": "vạn năng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều công dụng, có thể dùng với nhiều chức năng khác nhau\nVí dụ:\n- chìa khoá vạn năng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạn năng\n- t. Có nhiều công dụng, có thể dùng vào nhiều việc khác nhau. Dụng cụ vạn năng. Một con người vạn năng (kng.)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn năng\n*adj\n-multipurpose, multipower\n@Chuyên ngành kinh tế\n-all-purpose\n@Chuyên ngành kỹ thuật\n-all-around\n-all-purpose\n-all-round\n-general-purpose\n-general-utility\n-multi (ple) purpose\n-multifunctional\n-multipurpose\n-universal\n-utility"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vạn năng\n* adj\n- multipurpose, multipower"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "multipurpose, multipower"
+      }
+    ]
+  },
+  {
+    "word": "vạt ghép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-flap"
+      }
+    ]
+  },
+  {
+    "word": "vạn mét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-myiametre\n-myriadmetre"
+      }
+    ]
+  },
+  {
+    "word": "vạch siêu bội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hypermultiplet\n-supermultiplet"
+      }
+    ]
+  },
+  {
+    "word": "vạch chỉ dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interpretative trail"
+      }
+    ]
+  },
+  {
+    "word": "vạch cấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-streak"
+      }
+    ]
+  },
+  {
+    "word": "vạc mai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạc mai\n- cái vạc chứa mơ ướp"
+      }
+    ]
+  },
+  {
+    "word": "vạch beta",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beta-peak"
+      }
+    ]
+  },
+  {
+    "word": "vạch tối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dark line"
+      }
+    ]
+  },
+  {
+    "word": "vạch plim-xon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-plimsoll line/mark"
+      }
+    ]
+  },
+  {
+    "word": "vạn kiếp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Kiếp\n- Khu vực sông thương tiếp nối với sông Thái Bình, bắc Phả Lại (Chí Linh, Hải Hưng) 5km, gần những chỗ giao nhau của sông Cầu, sông Thương, sông Đuống, sông Kinh Thày với sông Thái Bình. Vạn Kiếp là căn cứ thuỷ quân, quân cảng lớn thời Lí-Trần. Vạn Kiếp nay là vùng Vạn Yên, Chí Linh, Hải Hưng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn kiếp - ten thousand existences, eternally"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ten thousand existences, eternally"
+      }
+    ]
+  },
+  {
+    "word": "vạn linh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Linh\n- (xã) h. Chi Lăng, t. Lạng Sơn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn linh\n- thuốc chữa mắt đau"
+      }
+    ]
+  },
+  {
+    "word": "vạch ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reversed trace"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu mặt phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plane marking"
+      }
+    ]
+  },
+  {
+    "word": "vạch hấp thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-absorption line"
+      }
+    ]
+  },
+  {
+    "word": "vạn vật học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn vật học [vạn vật học]\n-natural history"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "natural history, natural sciences"
+      }
+    ]
+  },
+  {
+    "word": "vạn kim",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Kim\n- (xã) h. Mỹ Đức, t. Hà Tây"
+      }
+    ]
+  },
+  {
+    "word": "vạch ma",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ghost\n-ghost line"
+      }
+    ]
+  },
+  {
+    "word": "vạch sáu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sextet"
+      }
+    ]
+  },
+  {
+    "word": "vạt con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạt con - small flap"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "small flap"
+      }
+    ]
+  },
+  {
+    "word": "vạch kế hoạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-scheme"
+      }
+    ]
+  },
+  {
+    "word": "vạch phát xạ hyđro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-hydrogen emission line"
+      }
+    ]
+  },
+  {
+    "word": "vạn yên",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Yên\n- (xã) tên gọi các xã thuộc h. Vân Đồn (Quảng Ninh), h. Mê Linh (Vĩnh Phúc)"
+      }
+    ]
+  },
+  {
+    "word": "vạt nước theo tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-wake"
+      }
+    ]
+  },
+  {
+    "word": "vạch ma lyman",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Lyman ghost"
+      }
+    ]
+  },
+  {
+    "word": "vạch tùy tùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-satellite\n-satellite line"
+      }
+    ]
+  },
+  {
+    "word": "vại bơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-firkin"
+      }
+    ]
+  },
+  {
+    "word": "vạc mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạc mặt\n*động từ\n-to break the face (of)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to break the face (of)"
+      }
+    ]
+  },
+  {
+    "word": "vạch chỉ trên mặt đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marking gauge"
+      }
+    ]
+  },
+  {
+    "word": "vạch tải quốc tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-international liquidity line\n-international load line"
+      }
+    ]
+  },
+  {
+    "word": "vạn chài",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làng của những người sống trên sông nước, làm nghề chèo đò, đánh cá, v.v.; cũng dùng để chỉ nghề chài lưới\nVí dụ:\n- dân vạn chài \n - theo nghề vạn chài"
+      }
+    ]
+  },
+  {
+    "word": "vạn đò",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như vạn chài\nVí dụ:\n- xóm vạn đò"
+      }
+    ]
+  },
+  {
+    "word": "vạch ra một đề án",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-law out of a plan"
+      }
+    ]
+  },
+  {
+    "word": "vạch kossel (phổ tia x)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Kossel line"
+      }
+    ]
+  },
+  {
+    "word": "vạc chảo (nấu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cauldron"
+      }
+    ]
+  },
+  {
+    "word": "vạch đầu tiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line original"
+      }
+    ]
+  },
+  {
+    "word": "vạch đường thẳng đứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vertical alignment"
+      }
+    ]
+  },
+  {
+    "word": "vạt da (ghép)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-skin flap"
+      }
+    ]
+  },
+  {
+    "word": "vạch ngấn của thùng đong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-craze"
+      }
+    ]
+  },
+  {
+    "word": "vạch ba",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-triplet"
       }
     ]
   },
@@ -286,60 +764,203 @@
     ]
   },
   {
-    "word": "vạch dao động",
+    "word": "vạn phú",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wiggly trace"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Phú\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
       }
     ]
   },
   {
-    "word": "vạch chia",
+    "word": "vạch không",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-division\n@Lĩnh vực: cơ khí & công trình\n-graduation line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zero line"
       }
     ]
   },
   {
-    "word": "vạch rõ",
+    "word": "vạch cắt",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to point out"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-cutting line"
       }
     ]
   },
   {
-    "word": "vạn năng kế",
+    "word": "vạc sáu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-multimeter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sextet"
       }
     ]
   },
   {
-    "word": "vạn bảo",
+    "word": "vạch kẻ (trên thang đo)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vạn bảo\n*danh từ\n-(Municipal) pawnshop"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-scale line"
+      }
+    ]
+  },
+  {
+    "word": "vạch đơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-singlet"
+      }
+    ]
+  },
+  {
+    "word": "vạn phúc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Phúc\n- (xã) tên gọi các xã thuộc h. Thanh Trì (Hà Nội), tx. Hà Đông (Hà Tây), h. Ninh Giang (Hải Dương)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn phúc - ten thousand happinesses"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(municipal) pawnshop"
+        "dict_definition": "ten thousand happinesses"
       }
     ]
   },
   {
-    "word": "vạch phổ phát xạ",
+    "word": "vạt chữ v",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-emission spectrum line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-V beveled\n@Lĩnh vực: xây dựng\n-V bevelled"
+      }
+    ]
+  },
+  {
+    "word": "vạn hoà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Hoà\n- (xã) tên gọi các xã thuộc tx. Lào Cai (Lào Cai), h. Nông Cống (Thanh Hoá)"
+      }
+    ]
+  },
+  {
+    "word": "vạch đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-trace"
+      }
+    ]
+  },
+  {
+    "word": "vạn bình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Bình\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
+      }
+    ]
+  },
+  {
+    "word": "vạn dân tản, vạn dân y",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạn dân tản, vạn dân y\n- áo và dù của muôn dân, nghĩa là lễ vật của chung nhân dân đem tiễn Mai Bá Cao để tỏ lòng ái mộ"
+      }
+    ]
+  },
+  {
+    "word": "vạn năng rộng (máy phay)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-superuniversal"
+      }
+    ]
+  },
+  {
+    "word": "vạch chỉ tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pointer"
+      }
+    ]
+  },
+  {
+    "word": "vạch đường gây xốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rumble strip"
+      }
+    ]
+  },
+  {
+    "word": "vạn hương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Hương\n- (phường) tx. Đồ Sơn, tp. Hải Phòng"
+      }
+    ]
+  },
+  {
+    "word": "vạn xuân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Xuân\n- Tên nước Việt Nam thời Tiền Lí (544-602). Sau khi lãnh đạo cuộc khởi nghĩa chống quân đô hộ nhà Lương giành độc lập thắng lợi, Lí Bí lên ngôi vua, tự xưng là Nam Việt Đế (Lí Nam Đế), đặt tên nước là Vạn Xuân\n- (xã) h. Thường Xuân, t. Thanh Hoá"
+      }
+    ]
+  },
+  {
+    "word": "vạ miệng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tai vạ do nói năng không thận trọng gây nên\nVí dụ:\n- \"Chuyện triều đình quốc gia, chúng ta biết gì mà bàn bạc cho thêm lời. Nhỡ ra lại vạ miệng thì khốn.\" (Nguyễn Tuân; 11)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạ miệng"
+      }
+    ]
+  },
+  {
+    "word": "vạn long",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Long\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
+      }
+    ]
+  },
+  {
+    "word": "vạch chỉnh định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-calibration mark"
+      }
+    ]
+  },
+  {
+    "word": "vạch thang đo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-graduation mark\n-scale division\n-scale mark"
       }
     ]
   },
@@ -362,11 +983,83 @@
     ]
   },
   {
-    "word": "vạch màu",
+    "word": "vạch d của natri (vật lý nguyên tử)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-color streaks\n-colour streaks"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sodium D-line"
+      }
+    ]
+  },
+  {
+    "word": "vạch một đường elip",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-describe an ellipse"
+      }
+    ]
+  },
+  {
+    "word": "vạn tượng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Vientiane"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu các phần đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic striping"
+      }
+    ]
+  },
+  {
+    "word": "vạch lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-redraw"
+      }
+    ]
+  },
+  {
+    "word": "vạt cỏ phân chia đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-separating lawn"
+      }
+    ]
+  },
+  {
+    "word": "vạn lý trường thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-Chinese Wall\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Great Wall"
+      }
+    ]
+  },
+  {
+    "word": "vạch khắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-graduation line"
+      }
+    ]
+  },
+  {
+    "word": "vạch hấp thu oxy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-oxygen absorption lines"
       }
     ]
   },
@@ -376,6 +1069,340 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-describe"
+      }
+    ]
+  },
+  {
+    "word": "vạch cấy trên thạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-agar streak\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-streak agar"
+      }
+    ]
+  },
+  {
+    "word": "vạch để lấy hành trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lubber\"s line"
+      }
+    ]
+  },
+  {
+    "word": "vạn kiếp tông bí truyền thư",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Kiếp tông bí truyền thư\n- Tác phẩm quân sự của Trần Quốc Tuấn. Theo Đại Việt sử kí toàn thư, ông sưu tập binh pháp các nhà, làm thành Bát quái cửu cung đồ, đặt tên là Vạn Kiếp tông bí truyền thư. Nội dung nay đã thất truyền, chỉ còn bài tựa của Nhân Huệ Vương Trần Khánh Dư"
+      }
+    ]
+  },
+  {
+    "word": "vạch (quang) phổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spectral line\n-spectrum line"
+      }
+    ]
+  },
+  {
+    "word": "vạch phân làn đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic lane mark"
+      }
+    ]
+  },
+  {
+    "word": "vạch trầm tích thung lũng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-valley trailer"
+      }
+    ]
+  },
+  {
+    "word": "vạch hấp thụ sắc nét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sharp absorption line"
+      }
+    ]
+  },
+  {
+    "word": "vạch áo cho người xem lưng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạch áo cho người xem lưng [vạch áo cho người xem lưng]\n-to wash one\"s dirty linen in public"
+      }
+    ]
+  },
+  {
+    "word": "vạn phát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Phát\n- (xã) h. Phổ Yên, t. Thái Nguyên"
+      }
+    ]
+  },
+  {
+    "word": "vạch kẻ đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scribe"
+      }
+    ]
+  },
+  {
+    "word": "vạn tử nhất sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn tử nhất sinh\n*danh từ\n-very dangerous"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very dangerous"
+      }
+    ]
+  },
+  {
+    "word": "vạch mắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạch mắt\n*động từ\n-to open the eyes of somebody"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to open the eyes of somebody"
+      }
+    ]
+  },
+  {
+    "word": "vạch hấp thụ giữa các sao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-interstellar absorption lines"
+      }
+    ]
+  },
+  {
+    "word": "vạn lương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Lương\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
+      }
+    ]
+  },
+  {
+    "word": "vạt trung gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-intermediate"
+      }
+    ]
+  },
+  {
+    "word": "vạch tuyến trên cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-alignment at bridge"
+      }
+    ]
+  },
+  {
+    "word": "vạn giã",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Giã\n- (thị trấn) h. Vạn Ninh, h. Khánh Hoà"
+      }
+    ]
+  },
+  {
+    "word": "vạch phương vị điện tử (rađa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-electronic bearing cursor\n-electronic bearing line"
+      }
+    ]
+  },
+  {
+    "word": "vạn bệnh hồi xuân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn bệnh hồi xuân\n- Sách thuốc của Cung Đình Hiền đời Minh"
+      }
+    ]
+  },
+  {
+    "word": "vạch chỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marking"
+      }
+    ]
+  },
+  {
+    "word": "vạn sự khởi đầu nan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn sự khởi đầu nan [vạn sự khởi đầu nan]\n-it is the first step that costs;   the first step is the hardest"
+      }
+    ]
+  },
+  {
+    "word": "vạch quang phổ đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-telluric line"
+      }
+    ]
+  },
+  {
+    "word": "vạn hưng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Hưng\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
+      }
+    ]
+  },
+  {
+    "word": "vạch ngang giá xuất phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-parity grid"
+      }
+    ]
+  },
+  {
+    "word": "vạn an",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn An\n- (xã) h. Yên Phong, t. Bắc Ninh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn an\n*thành ngữ\n-peace to you ! God bless you !"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hairline\n-locate\n-mark\n-notch\n-plot\n-reference mark\n-scorch\n-scribe\n-snap\n-space\n-to lathe off\n-to set out\n-whitewash"
+      }
+    ]
+  },
+  {
+    "word": "vạch chân không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vacuum line"
+      }
+    ]
+  },
+  {
+    "word": "vạch sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-blip"
+      }
+    ]
+  },
+  {
+    "word": "vạch của dây dọi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-plumb line"
+      }
+    ]
+  },
+  {
+    "word": "vạch đầu dãy (phổ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-leading line"
+      }
+    ]
+  },
+  {
+    "word": "vạn năng kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-multimeter"
+      }
+    ]
+  },
+  {
+    "word": "vạch bội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-composite line\n-multiplet"
+      }
+    ]
+  },
+  {
+    "word": "vạch dòng xe chạy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic striping"
+      }
+    ]
+  },
+  {
+    "word": "vạc dầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vạc đựng dầu đang sôi để thả người có tội vào, thi hành một hình phạt thời phong kiến"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạc dầu\n- dt. Vạc đựng dầu đang đun sôi, dùng để thả người có tội vào, theo một hình phạt thời phong kiến."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạc dầu\n*noun\n-cauldron of oil"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vạc dầu\n* noun\n- cauldron of oil"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cauldron of oil"
       }
     ]
   },
@@ -425,86 +1452,75 @@
     ]
   },
   {
-    "word": "vạn hạnh",
+    "word": "vạch cộng hưởng",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-spike"
+      }
+    ]
+  },
+  {
+    "word": "vạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "số đếm, bằng mười nghìn\nVí dụ:\n- mua một vạn gạch"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "số lượng rất lớn, không xác định được\nVí dụ:\n- đường xa vạn dặm \n - trăm người bán vạn người mua"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làng của những người làm nghề đánh cá, thường ở trên mặt sông\nVí dụ:\n- vạn chài"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ chức gồm những người cùng làm một nghề với nhau\nVí dụ:\n- vạn buôn \n - vạn cấy"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Hạnh\n- (? - Cổ Pháp, Bắc Giang - nay thuộc Hà Bắc - 1088) Từ nhỏ đã học thông tam giáo: Nho, Phật, Lão. Năm 21 tuổi đi tu ở chùa Lục Tổ. Tuy xuất gia tu hành ông vẫn lưu tâm đến các biến cố chính trị, xã hội. Thời Tiền Lê, Vạn Hạnh đã từng đóng góp mưu lược chống ngoại xâm và dựng nước với Lê Đại Hành. Cuối đời Tiền Lê, cùng một số triều thần khuông phò Lý Công Uẩn lên ngôi. Nhà lý phong ông làm Quốc sư"
+        "dict_definition": "@vạn\n- 1 dt Làng của những người thuyền chài, thường ở trên mặt sông: Bà con ở vạn chài lên bộ để bầu cử.\n- 2 st Mười lần nghìn: Một trăm người bán, một vạn người mua (tng); Đảng ta gồm có hàng triệu người, hàng vạn cán bộ (HCM); Nhất bản vạn lợi (tng).\n- 3 tt Thuộc một trong ba loại bài tổ tôm hay bài bất, tức vạn, sách, văn: Tam vạn, tam sách và thất văn là một phu tôm."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vạn hạnh - how lucky"
+        "dict_definition": "@vạn\n*noun\n-ten thousand\n@Chuyên ngành kinh tế\n-combine"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vạn\n* noun\n- ten thousand"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "how lucky"
+        "dict_definition": "ten thousand"
       }
     ]
   },
   {
-    "word": "vạc mặt",
+    "word": "vạch tám",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vạc mặt\n*động từ\n-to break the face (of)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to break the face (of)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-octet"
       }
     ]
   },
   {
-    "word": "vạn thắng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Thắng\n- (phường) tp. Nha Trang, t. Khánh Hoà\n- (xã) tên gọi các xã thuộc h. Ba Vì (Hà Tây), h. Vạn Ninh (Khánh Hoà), h. Nông Cống (Thanh Hoá)"
-      }
-    ]
-  },
-  {
-    "word": "vạch kế hoạch",
+    "word": "vạch mốc đường ống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-scheme"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipeline marker"
       }
     ]
   },
   {
-    "word": "vạn yên",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Yên\n- (xã) tên gọi các xã thuộc h. Vân Đồn (Quảng Ninh), h. Mê Linh (Vĩnh Phúc)"
-      }
-    ]
-  },
-  {
-    "word": "vạt cỏ phân chia đường",
+    "word": "vạch kèm sóng ngắn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-separating lawn"
-      }
-    ]
-  },
-  {
-    "word": "vạch một kế hoạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-get out a plan"
-      }
-    ]
-  },
-  {
-    "word": "vạch thang đo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-graduation mark\n-scale division\n-scale mark"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shortwave satellite"
       }
     ]
   },
@@ -518,6 +1534,410 @@
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "ở trạng thái bạ đâu ngồi [hoặc nằm] đó, gặp đâu hay đó, do không được chú ý, chăm nom đến hoặc do điều kiện vật chất quá thiếu thốn\nVí dụ:\n- nằm vạ vật \n - ngồi vạ vật cả ngày ở sân ga để chờ tàu"
+      }
+    ]
+  },
+  {
+    "word": "vạn khánh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Khánh\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu vòng tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-circumferential mark"
+      }
+    ]
+  },
+  {
+    "word": "vạch kèm sóng dài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-long wave satellite"
+      }
+    ]
+  },
+  {
+    "word": "vạch phát xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-emission line"
+      }
+    ]
+  },
+  {
+    "word": "vạch một kế hoạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-get out a plan"
+      }
+    ]
+  },
+  {
+    "word": "vạ vịt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tai vạ bỗng tự đâu đến, một cách không ngờ\nVí dụ:\n- \"Vợ chồng tôi trót nghe nhà ông nghị xui dại, thành ra bị cái vạ vịt.\" (Nguyễn Công Hoan; 11)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạ vịt\n*danh từ\n-unexpected misfortune"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unexpected misfortune"
+      }
+    ]
+  },
+  {
+    "word": "vạch hấp thu dương khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-oxygen absorption lines"
+      }
+    ]
+  },
+  {
+    "word": "vạn sự",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạn sự\n- dt. Mọi điều, mọi sự: vạn sự như ý  Chúc anh vạn sự tốt lành  vạn sự khởi đầu nan (mọi việc bắt đầu đều khó khăn [nhưng rồi sẽ vượt qua được tất cả])."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn sự\n*noun\n-everything, all things"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vạn sự\n* noun\n- everything, all things"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "everything, all things"
+      }
+    ]
+  },
+  {
+    "word": "vạt liệu bọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foam materials"
+      }
+    ]
+  },
+  {
+    "word": "vạch ranh giới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-baseline or base line"
+      }
+    ]
+  },
+  {
+    "word": "vạch phía",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nick"
+      }
+    ]
+  },
+  {
+    "word": "vạch phức hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-composite line"
+      }
+    ]
+  },
+  {
+    "word": "vạ lây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bị mắc phải tai hoạ một cách oan uổng\nVí dụ:\n- chơi với nó rồi có ngày vạ lây"
+      }
+    ]
+  },
+  {
+    "word": "vạch cấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-deadline\n@Lĩnh vực: điện lạnh\n-forbinden line"
+      }
+    ]
+  },
+  {
+    "word": "vạch chia độ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-division\n-index\n-scale division"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu mặt đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road marking"
+      }
+    ]
+  },
+  {
+    "word": "vạch đọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-reading line"
+      }
+    ]
+  },
+  {
+    "word": "vạch ngựa vằn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-zebra road marking"
+      }
+    ]
+  },
+  {
+    "word": "vạn mai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn mai\n- (xã) h. mai Châu, t. Hoà Bình"
+      }
+    ]
+  },
+  {
+    "word": "vạch đóng đinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail line"
+      }
+    ]
+  },
+  {
+    "word": "vạch fraunhofer",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Fraunhofer line\n@Lĩnh vực: vật lý\n-Fraunhofer lines"
+      }
+    ]
+  },
+  {
+    "word": "vạn vật",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "muôn vật, muôn loài trong tự nhiên [nói khái quát]\nVí dụ:\n- vạn vật hữu linh \n - bóng tối đã bao trùm lên vạn vật"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạn vật\n- d. Mọi vật trong tự nhiên (nói khái quát). Vạn vật biến chuyển không ngừng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn vật\n*noun\n-all things, living beings"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vạn vật\n* noun\n- all things, living beings"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "all things, living beings, nature"
+      }
+    ]
+  },
+  {
+    "word": "vạch hấp thụ phân tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-molecular absorption line"
+      }
+    ]
+  },
+  {
+    "word": "vạch phổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-line\n@Lĩnh vực: vật lý\n-line of spectrum\n@Lĩnh vực: điện tử & viễn thông\n-spectral line"
+      }
+    ]
+  },
+  {
+    "word": "vạch quang phổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-line\n@Lĩnh vực: vật lý\n-line of spectrum\n@Lĩnh vực: hóa học & vật liệu\n-spectral line"
+      }
+    ]
+  },
+  {
+    "word": "vạch chỉ ngày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-date line"
+      }
+    ]
+  },
+  {
+    "word": "vạch mốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-beacon\n-calibration mark\n-punch mark\n-reference mark"
+      }
+    ]
+  },
+  {
+    "word": "vạch đứng, thanh dọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-vertical bar"
+      }
+    ]
+  },
+  {
+    "word": "vạn tuế",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây có thân hình trụ, lá hình lông chim dài, lá con cứng và nhọn đầu, mọc thành vòng, thường trồng làm cảnh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn tuế - cycad\n-long life ... ! ten thousand years, live ten thousand years !"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cycad; long life!"
+      }
+    ]
+  },
+  {
+    "word": "vạch tùy tùng sóng dài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-long wave satellite"
+      }
+    ]
+  },
+  {
+    "word": "vạch tuyến đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-alignment of road\n-pegging out"
+      }
+    ]
+  },
+  {
+    "word": "vạn mỹ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Mỹ\n- (phường) q. Ngô Quyền, tp. Hải Phòng"
+      }
+    ]
+  },
+  {
+    "word": "vạn thắng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Thắng\n- (phường) tp. Nha Trang, t. Khánh Hoà\n- (xã) tên gọi các xã thuộc h. Ba Vì (Hà Tây), h. Vạn Ninh (Khánh Hoà), h. Nông Cống (Thanh Hoá)"
+      }
+    ]
+  },
+  {
+    "word": "vạt cạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-chamfer\n@Lĩnh vực: ô tô\n-chamfered"
+      }
+    ]
+  },
+  {
+    "word": "vạch chia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-division\n@Lĩnh vực: cơ khí & công trình\n-graduation line"
+      }
+    ]
+  },
+  {
+    "word": "vạch rõ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to point out"
+      }
+    ]
+  },
+  {
+    "word": "vạch khí hydro",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-hydrogen line"
+      }
+    ]
+  },
+  {
+    "word": "vạch nhòe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diffuse line"
+      }
+    ]
+  },
+  {
+    "word": "vạn bội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn bội\n*thành ngữ\n-ten thousand times"
+      }
+    ]
+  },
+  {
+    "word": "vạch trầm tích lũng sông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-valley trailer"
       }
     ]
   },
@@ -571,989 +1991,20 @@
     ]
   },
   {
-    "word": "vạt chữ x",
+    "word": "vạch phổ phát xạ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-X beveled\n@Lĩnh vực: xây dựng\n-x bevelled"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-emission spectrum line"
       }
     ]
   },
   {
-    "word": "vạn dậm",
+    "word": "vạch dấu đứt đoạn",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "10,000 miles"
-      }
-    ]
-  },
-  {
-    "word": "vạn xuân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Xuân\n- Tên nước Việt Nam thời Tiền Lí (544-602). Sau khi lãnh đạo cuộc khởi nghĩa chống quân đô hộ nhà Lương giành độc lập thắng lợi, Lí Bí lên ngôi vua, tự xưng là Nam Việt Đế (Lí Nam Đế), đặt tên nước là Vạn Xuân\n- (xã) h. Thường Xuân, t. Thanh Hoá"
-      }
-    ]
-  },
-  {
-    "word": "vạch tuyến trên cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-alignment at bridge"
-      }
-    ]
-  },
-  {
-    "word": "vạn giáo nhất lý",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "all religions are one (Cao Dai)"
-      }
-    ]
-  },
-  {
-    "word": "vạn phát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Phát\n- (xã) h. Phổ Yên, t. Thái Nguyên"
-      }
-    ]
-  },
-  {
-    "word": "vạn tử nhất sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn tử nhất sinh\n*danh từ\n-very dangerous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very dangerous"
-      }
-    ]
-  },
-  {
-    "word": "vạch đầu tiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line original"
-      }
-    ]
-  },
-  {
-    "word": "vạn chài",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làng của những người sống trên sông nước, làm nghề chèo đò, đánh cá, v.v.; cũng dùng để chỉ nghề chài lưới\nVí dụ:\n- dân vạn chài \n - theo nghề vạn chài"
-      }
-    ]
-  },
-  {
-    "word": "vạch của dây dọi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-plumb line"
-      }
-    ]
-  },
-  {
-    "word": "vạch đường gây xốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rumble strip"
-      }
-    ]
-  },
-  {
-    "word": "vạch kẻ kép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-double rule"
-      }
-    ]
-  },
-  {
-    "word": "vạch plim-xon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plimsoll line/mark"
-      }
-    ]
-  },
-  {
-    "word": "vạn mỹ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Mỹ\n- (phường) q. Ngô Quyền, tp. Hải Phòng"
-      }
-    ]
-  },
-  {
-    "word": "vạt yêu sách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-claim"
-      }
-    ]
-  },
-  {
-    "word": "vạn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "số đếm, bằng mười nghìn\nVí dụ:\n- mua một vạn gạch"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "số lượng rất lớn, không xác định được\nVí dụ:\n- đường xa vạn dặm \n - trăm người bán vạn người mua"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làng của những người làm nghề đánh cá, thường ở trên mặt sông\nVí dụ:\n- vạn chài"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ chức gồm những người cùng làm một nghề với nhau\nVí dụ:\n- vạn buôn \n - vạn cấy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạn\n- 1 dt Làng của những người thuyền chài, thường ở trên mặt sông: Bà con ở vạn chài lên bộ để bầu cử.\n- 2 st Mười lần nghìn: Một trăm người bán, một vạn người mua (tng); Đảng ta gồm có hàng triệu người, hàng vạn cán bộ (HCM); Nhất bản vạn lợi (tng).\n- 3 tt Thuộc một trong ba loại bài tổ tôm hay bài bất, tức vạn, sách, văn: Tam vạn, tam sách và thất văn là một phu tôm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn\n*noun\n-ten thousand\n@Chuyên ngành kinh tế\n-combine"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vạn\n* noun\n- ten thousand"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ten thousand"
-      }
-    ]
-  },
-  {
-    "word": "vạch ma",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ghost\n-ghost line"
-      }
-    ]
-  },
-  {
-    "word": "vạch hấp thụ sắc nét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sharp absorption line"
-      }
-    ]
-  },
-  {
-    "word": "vạch (quang) phổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spectral line\n-spectrum line"
-      }
-    ]
-  },
-  {
-    "word": "vại bơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-firkin"
-      }
-    ]
-  },
-  {
-    "word": "vạn sơn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Sơn\n- (phường) tx. Đồ Sơn, tp. Hải Phòng"
-      }
-    ]
-  },
-  {
-    "word": "vạch mốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-beacon\n-calibration mark\n-punch mark\n-reference mark"
-      }
-    ]
-  },
-  {
-    "word": "vạch ngăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-deflector plate"
-      }
-    ]
-  },
-  {
-    "word": "vạch phát xạ hyđro",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-hydrogen emission line"
-      }
-    ]
-  },
-  {
-    "word": "vạch trầm tích lũng sông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-valley trailer"
-      }
-    ]
-  },
-  {
-    "word": "vạch mắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạch mắt\n*động từ\n-to open the eyes of somebody"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to open the eyes of somebody"
-      }
-    ]
-  },
-  {
-    "word": "vạch đôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-doublet"
-      }
-    ]
-  },
-  {
-    "word": "vạn tuế",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây có thân hình trụ, lá hình lông chim dài, lá con cứng và nhọn đầu, mọc thành vòng, thường trồng làm cảnh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn tuế - cycad\n-long life ... ! ten thousand years, live ten thousand years !"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cycad; long life!"
-      }
-    ]
-  },
-  {
-    "word": "vạn bình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Bình\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "vạch cấy trên thạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-agar streak\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-streak agar"
-      }
-    ]
-  },
-  {
-    "word": "vạn an",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn An\n- (xã) h. Yên Phong, t. Bắc Ninh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn an\n*thành ngữ\n-peace to you ! God bless you !"
-      }
-    ]
-  },
-  {
-    "word": "vạch hấp thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-absorption line"
-      }
-    ]
-  },
-  {
-    "word": "vạch hấp thu oxy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-oxygen absorption lines"
-      }
-    ]
-  },
-  {
-    "word": "vạn niên thanh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây thuộc họ ráy, lá luôn luôn xanh tốt, thường trồng trong nước để làm cảnh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn niên thanh - rohdea japonica, evergreen"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rohdea japonica, evergreen"
-      }
-    ]
-  },
-  {
-    "word": "vạch phân tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-molecular line"
-      }
-    ]
-  },
-  {
-    "word": "vạch chân không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vacuum line"
-      }
-    ]
-  },
-  {
-    "word": "vạch dấu trong không gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-space marking"
-      }
-    ]
-  },
-  {
-    "word": "vạ miệng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tai vạ do nói năng không thận trọng gây nên\nVí dụ:\n- \"Chuyện triều đình quốc gia, chúng ta biết gì mà bàn bạc cho thêm lời. Nhỡ ra lại vạ miệng thì khốn.\" (Nguyễn Tuân; 11)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạ miệng"
-      }
-    ]
-  },
-  {
-    "word": "vạch đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-trace"
-      }
-    ]
-  },
-  {
-    "word": "vạch hàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-edge\n-seam\n-weld seam\n-welded body seam\n-welded seam\n-welding seam"
-      }
-    ]
-  },
-  {
-    "word": "vạc chảo (nấu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cauldron"
-      }
-    ]
-  },
-  {
-    "word": "vạch đóng đinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-nail line"
-      }
-    ]
-  },
-  {
-    "word": "vạ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tai hoạ bỗng dưng đến với một người nào đó\nVí dụ:\n- mang vạ \n - tai bay vạ gió (tng)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "điều tội lỗi phải gánh chịu\nVí dụ:\n- đổ vạ cho người khác \n - vạ mồm vạ miệng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạ\n- dt. 1. Tai hoạ ở đâu bỗng dưng đến với người nào: mang vạ vào thân  cháy thành vạ lây  tai bay vạ gió (tng.). 2. Tội lỗi phạm phải: tội tạ vạ lạy  vạ mồm vạ miệng. 3. Hình phạt đối với những người phạm tội ở làng xã thời phong kiến, thường nộp bằng tiền: nộp vạ  phạt vạ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạ\n*noun\n-fine"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vạ\n* noun\n- fine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fine"
-      }
-    ]
-  },
-  {
-    "word": "vạch khe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-slot-line"
-      }
-    ]
-  },
-  {
-    "word": "vạn sự",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạn sự\n- dt. Mọi điều, mọi sự: vạn sự như ý  Chúc anh vạn sự tốt lành  vạn sự khởi đầu nan (mọi việc bắt đầu đều khó khăn [nhưng rồi sẽ vượt qua được tất cả])."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn sự\n*noun\n-everything, all things"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vạn sự\n* noun\n- everything, all things"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "everything, all things"
-      }
-    ]
-  },
-  {
-    "word": "vạch cấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-streak"
-      }
-    ]
-  },
-  {
-    "word": "vạn thọ vô cương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn thọ vô cương - (wishing you, him) endless life"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(wishing you, him) endless life"
-      }
-    ]
-  },
-  {
-    "word": "vạn thạnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Thạnh\n- (phường) tp. Nha Trang, t. Khánh Hoà\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "vạn vật học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn vật học [vạn vật học]\n-natural history"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "natural history, natural sciences"
-      }
-    ]
-  },
-  {
-    "word": "vạch kẻ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-line\n@Lĩnh vực: điện lạnh\n-rule"
-      }
-    ]
-  },
-  {
-    "word": "vạn khánh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Khánh\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "vạch quang phổ đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-telluric line"
-      }
-    ]
-  },
-  {
-    "word": "vạn thiện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Thiện\n- (xã) h. Nông Cống, t. Thanh Hoá"
-      }
-    ]
-  },
-  {
-    "word": "vạt cạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-chamfer\n@Lĩnh vực: ô tô\n-chamfered"
-      }
-    ]
-  },
-  {
-    "word": "vạch nước lũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flood mark\n-high water mark"
-      }
-    ]
-  },
-  {
-    "word": "vạn thọ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem cúc vạn thọ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Thọ\n- (xã) tên gọi các xã thuộc h. Vạn Ninh (Khánh Hoà), h. Đại Từ (Thái Nguyên)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạn thọ\n- 1 dt Loài cúc, hoa có nhiều cánh màu vàng, trồng làm cảnh: Hoa vạn thọ rẻ tiền.\n- 2 tt (H. thọ: sống lâu) Lời chúc mừng vua sống lâu (cũ): Các quan trong triều dâng biểu chúc vua vạn thọ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn thọ\n*noun\n-marigold"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vạn thọ\n* noun\n- marigold"
-      }
-    ]
-  },
-  {
-    "word": "vạch đọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-reading line"
-      }
-    ]
-  },
-  {
-    "word": "vạch quang phổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-line\n@Lĩnh vực: vật lý\n-line of spectrum\n@Lĩnh vực: hóa học & vật liệu\n-spectral line"
-      }
-    ]
-  },
-  {
-    "word": "vạch tối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dark line"
-      }
-    ]
-  },
-  {
-    "word": "vạn tượng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Vientiane"
-      }
-    ]
-  },
-  {
-    "word": "vạn năng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều công dụng, có thể dùng với nhiều chức năng khác nhau\nVí dụ:\n- chìa khoá vạn năng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạn năng\n- t. Có nhiều công dụng, có thể dùng vào nhiều việc khác nhau. Dụng cụ vạn năng. Một con người vạn năng (kng.)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn năng\n*adj\n-multipurpose, multipower\n@Chuyên ngành kinh tế\n-all-purpose\n@Chuyên ngành kỹ thuật\n-all-around\n-all-purpose\n-all-round\n-general-purpose\n-general-utility\n-multi (ple) purpose\n-multifunctional\n-multipurpose\n-universal\n-utility"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vạn năng\n* adj\n- multipurpose, multipower"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "multipurpose, multipower"
-      }
-    ]
-  },
-  {
-    "word": "vạch khắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-graduation line"
-      }
-    ]
-  },
-  {
-    "word": "vạn sự khởi đầu nan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn sự khởi đầu nan [vạn sự khởi đầu nan]\n-it is the first step that costs;   the first step is the hardest"
-      }
-    ]
-  },
-  {
-    "word": "vạch mốc đường ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipeline marker"
-      }
-    ]
-  },
-  {
-    "word": "vạn toàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn toàn - perfectly safe perfect"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "perfectly safe perfect"
-      }
-    ]
-  },
-  {
-    "word": "vạn trạch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Trạch\n- (xã) h. Bố Trạch, t. Quảng Bình"
-      }
-    ]
-  },
-  {
-    "word": "vạch dấu mặt phẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plane marking"
-      }
-    ]
-  },
-  {
-    "word": "vạn hoà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Hoà\n- (xã) tên gọi các xã thuộc tx. Lào Cai (Lào Cai), h. Nông Cống (Thanh Hoá)"
-      }
-    ]
-  },
-  {
-    "word": "vạn ninh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Ninh\n- (huyện) t. Khánh Hoà\n- (xã) tên gọi các xã thuộc h. Gia Lương (Bắc Ninh), h. Quảng Ninh (Quảng Bình), h. Hải Ninh (Quảng Ninh)"
-      }
-    ]
-  },
-  {
-    "word": "vạch hấp thụ phân tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-molecular absorption line"
-      }
-    ]
-  },
-  {
-    "word": "vạch chót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ultimate line"
-      }
-    ]
-  },
-  {
-    "word": "vạch f",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-F-line"
-      }
-    ]
-  },
-  {
-    "word": "vạch tám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-octet"
-      }
-    ]
-  },
-  {
-    "word": "vạn hương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Hương\n- (phường) tx. Đồ Sơn, tp. Hải Phòng"
-      }
-    ]
-  },
-  {
-    "word": "vạch nhòe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-diffuse line"
-      }
-    ]
-  },
-  {
-    "word": "vạn đại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn đại - for ever, eternally, ten thousand centuries"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "eternal, everlasting"
-      }
-    ]
-  },
-  {
-    "word": "vạn hưng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Hưng\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "vạch năm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-quintet"
-      }
-    ]
-  },
-  {
-    "word": "vạn thái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Thái\n- (xã) h. ứng Hoà, t. Hà Tây"
-      }
-    ]
-  },
-  {
-    "word": "vạch đối stokes",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-anti-Stokes line"
-      }
-    ]
-  },
-  {
-    "word": "vạch sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-blip"
-      }
-    ]
-  },
-  {
-    "word": "vạch dấu mặt đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road marking"
-      }
-    ]
-  },
-  {
-    "word": "vạch chỉ dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interpretative trail"
-      }
-    ]
-  },
-  {
-    "word": "vạch ba",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-triplet"
-      }
-    ]
-  },
-  {
-    "word": "vạn điểm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Điểm\n- (xã) h. Thường Tín, t. Hà Tây"
-      }
-    ]
-  },
-  {
-    "word": "vại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ đựng bằng sành, gốm, hình trụ, lòng sâu\nVí dụ:\n- vại nước \n - vại dưa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cốc vại [nói tắt]\nVí dụ:\n- rủ bạn vào quán làm vài vại bia"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vại\n- d. 1 Đồ đựng bằng sành, gốm, hình trụ, lòng sâu. Vại nước. Vại cà. 2 (kng.). Cốc vại (nói tắt). Uống một vại bia."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vại\n*noun\n-jar\n@Chuyên ngành kinh tế\n-jar\n@Chuyên ngành kỹ thuật\n-jar"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vại\n* noun\n- jar"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "jar"
-      }
-    ]
-  },
-  {
-    "word": "vạch chỉ tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pointer"
-      }
-    ]
-  },
-  {
-    "word": "vạn kiếp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Kiếp\n- Khu vực sông thương tiếp nối với sông Thái Bình, bắc Phả Lại (Chí Linh, Hải Hưng) 5km, gần những chỗ giao nhau của sông Cầu, sông Thương, sông Đuống, sông Kinh Thày với sông Thái Bình. Vạn Kiếp là căn cứ thuỷ quân, quân cảng lớn thời Lí-Trần. Vạn Kiếp nay là vùng Vạn Yên, Chí Linh, Hải Hưng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn kiếp - ten thousand existences, eternally"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ten thousand existences, eternally"
-      }
-    ]
-  },
-  {
-    "word": "vạt chữ v",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-V beveled\n@Lĩnh vực: xây dựng\n-V bevelled"
-      }
-    ]
-  },
-  {
-    "word": "vạch áo cho người xem lưng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạch áo cho người xem lưng [vạch áo cho người xem lưng]\n-to wash one\"s dirty linen in public"
-      }
-    ]
-  },
-  {
-    "word": "vạch đồng hồ",
-    "definitions": [
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clock track"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road marking dash line"
       }
     ]
   },
@@ -1563,384 +2014,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic striping"
-      }
-    ]
-  },
-  {
-    "word": "vạch hấp thụ khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-gaseous absorption line"
-      }
-    ]
-  },
-  {
-    "word": "vạch phức hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-composite line"
-      }
-    ]
-  },
-  {
-    "word": "vạch tuyến đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-alignment of road\n-pegging out"
-      }
-    ]
-  },
-  {
-    "word": "vạch cộng hưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-spike"
-      }
-    ]
-  },
-  {
-    "word": "vạch phổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-line\n@Lĩnh vực: vật lý\n-line of spectrum\n@Lĩnh vực: điện tử & viễn thông\n-spectral line"
-      }
-    ]
-  },
-  {
-    "word": "vạt cỏ mới phạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-swath"
-      }
-    ]
-  },
-  {
-    "word": "vạn vật",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "muôn vật, muôn loài trong tự nhiên [nói khái quát]\nVí dụ:\n- vạn vật hữu linh \n - bóng tối đã bao trùm lên vạn vật"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạn vật\n- d. Mọi vật trong tự nhiên (nói khái quát). Vạn vật biến chuyển không ngừng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn vật\n*noun\n-all things, living beings"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vạn vật\n* noun\n- all things, living beings"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "all things, living beings, nature"
-      }
-    ]
-  },
-  {
-    "word": "vạt nước theo tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-wake"
-      }
-    ]
-  },
-  {
-    "word": "vạt con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạt con - small flap"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "small flap"
-      }
-    ]
-  },
-  {
-    "word": "vạch đảo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reversed trace"
-      }
-    ]
-  },
-  {
-    "word": "vạch chỉ trên mặt đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marking gauge"
-      }
-    ]
-  },
-  {
-    "word": "vạn linh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Linh\n- (xã) h. Chi Lăng, t. Lạng Sơn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn linh\n- thuốc chữa mắt đau"
-      }
-    ]
-  },
-  {
-    "word": "vạch đầu dãy (phổ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-leading line"
-      }
-    ]
-  },
-  {
-    "word": "vạch tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-load-line\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-loadline"
-      }
-    ]
-  },
-  {
-    "word": "vạch tùy tùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-satellite\n-satellite line"
-      }
-    ]
-  },
-  {
-    "word": "vạn nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn nhất - in case, just in case, if ever, if bay any chance"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in case, just in case, if ever, if bay any chance"
-      }
-    ]
-  },
-  {
-    "word": "vạch hấp thu dương khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-oxygen absorption lines"
-      }
-    ]
-  },
-  {
-    "word": "vạn đò",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như vạn chài\nVí dụ:\n- xóm vạn đò"
-      }
-    ]
-  },
-  {
-    "word": "vạch phía",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nick"
-      }
-    ]
-  },
-  {
-    "word": "vạn mai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn mai\n- (xã) h. mai Châu, t. Hoà Bình"
-      }
-    ]
-  },
-  {
-    "word": "vạch ngang giá xuất phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-parity grid"
-      }
-    ]
-  },
-  {
-    "word": "vạch dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hairline\n-locate\n-mark\n-notch\n-plot\n-reference mark\n-scorch\n-scribe\n-snap\n-space\n-to lathe off\n-to set out\n-whitewash"
-      }
-    ]
-  },
-  {
-    "word": "vạch chỉ ngày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-date line"
-      }
-    ]
-  },
-  {
-    "word": "vạch ma lyman",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Lyman ghost"
-      }
-    ]
-  },
-  {
-    "word": "vạch tia laze",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser line"
-      }
-    ]
-  },
-  {
-    "word": "vạch đường thẳng đứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vertical alignment"
-      }
-    ]
-  },
-  {
-    "word": "vạch h",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-H-line"
-      }
-    ]
-  },
-  {
-    "word": "vạy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ách\nVí dụ:\n- vạy cày"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạy\n*tính từ\n-curved, bent, crooked, tortous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "curved, bent, crooked, tortous"
-      }
-    ]
-  },
-  {
-    "word": "vạch siêu bội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hypermultiplet\n-supermultiplet"
-      }
-    ]
-  },
-  {
-    "word": "vạch bốn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-quartet"
-      }
-    ]
-  },
-  {
-    "word": "vạn thuỷ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Thuỷ\n- (xã) h. Bắc Sơn, t. Lạng Sơn"
-      }
-    ]
-  },
-  {
-    "word": "vạch kèm sóng ngắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shortwave satellite"
-      }
-    ]
-  },
-  {
-    "word": "vạt trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tubed flap"
-      }
-    ]
-  },
-  {
-    "word": "vạn phú",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Phú\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "vạch tùy tùng sóng dài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-long wave satellite"
-      }
-    ]
-  },
-  {
-    "word": "vạch lông tìm vết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạch lông tìm vết\n*danh từ\n-fault finding*động từ\n-to be a fault finder"
-      }
-    ]
-  },
-  {
-    "word": "vạn kiếp tông bí truyền thư",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Kiếp tông bí truyền thư\n- Tác phẩm quân sự của Trần Quốc Tuấn. Theo Đại Việt sử kí toàn thư, ông sưu tập binh pháp các nhà, làm thành Bát quái cửu cung đồ, đặt tên là Vạn Kiếp tông bí truyền thư. Nội dung nay đã thất truyền, chỉ còn bài tựa của Nhân Huệ Vương Trần Khánh Dư"
-      }
-    ]
-  },
-  {
-    "word": "vạch tải quốc tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-international liquidity line\n-international load line"
       }
     ]
   },
@@ -1982,96 +2055,6 @@
     ]
   },
   {
-    "word": "vạt liệu bọt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foam materials"
-      }
-    ]
-  },
-  {
-    "word": "vạn kim",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Kim\n- (xã) h. Mỹ Đức, t. Hà Tây"
-      }
-    ]
-  },
-  {
-    "word": "vạch trầm tích thung lũng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-valley trailer"
-      }
-    ]
-  },
-  {
-    "word": "vạt áo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "skirt"
-      }
-    ]
-  },
-  {
-    "word": "vạn mét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-myiametre\n-myriadmetre"
-      }
-    ]
-  },
-  {
-    "word": "vạch chỉnh định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-calibration mark"
-      }
-    ]
-  },
-  {
-    "word": "vạch kẻ đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-scribe"
-      }
-    ]
-  },
-  {
-    "word": "vạch dấu đứt đoạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road marking dash line"
-      }
-    ]
-  },
-  {
-    "word": "vạch bội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-composite line\n-multiplet"
-      }
-    ]
-  },
-  {
-    "word": "vạn lương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Lương\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
     "word": "vạch cuối cùng",
     "definitions": [
       {
@@ -2081,190 +2064,33 @@
     ]
   },
   {
-    "word": "vạm vỡ",
+    "word": "vạch hấp thụ khí",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có thân hình to lớn, nở nang, rắn chắc, trông rất khoẻ mạnh [thường nói về đàn ông]\nVí dụ:\n- người cao to vạm vỡ \n - cánh tay vạm vỡ"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-gaseous absorption line"
+      }
+    ]
+  },
+  {
+    "word": "vạn đại",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vạm vỡ\n*tính từ\n-robust, vigorous, sturdy"
+        "dict_definition": "@vạn đại - for ever, eternally, ten thousand centuries"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "muscular, sturdy, athletic, robust, vigorous"
+        "dict_definition": "eternal, everlasting"
       }
     ]
   },
   {
-    "word": "vạch phát xạ nhật hoa",
+    "word": "vạch đồng bộ hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-coronal emission lines"
-      }
-    ]
-  },
-  {
-    "word": "vạch chỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marking"
-      }
-    ]
-  },
-  {
-    "word": "vạch phương vị điện tử (rađa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-electronic bearing cursor\n-electronic bearing line"
-      }
-    ]
-  },
-  {
-    "word": "vạch từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-magnetic stripe"
-      }
-    ]
-  },
-  {
-    "word": "vạc mai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạc mai\n- cái vạc chứa mơ ướp"
-      }
-    ]
-  },
-  {
-    "word": "vạch ra một đề án",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-law out of a plan"
-      }
-    ]
-  },
-  {
-    "word": "vạch fraunhofer",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Fraunhofer line\n@Lĩnh vực: vật lý\n-Fraunhofer lines"
-      }
-    ]
-  },
-  {
-    "word": "vạn dân tản, vạn dân y",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vạn dân tản, vạn dân y\n- áo và dù của muôn dân, nghĩa là lễ vật của chung nhân dân đem tiễn Mai Bá Cao để tỏ lòng ái mộ"
-      }
-    ]
-  },
-  {
-    "word": "vạch ghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-delivery mark"
-      }
-    ]
-  },
-  {
-    "word": "vạch giới hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-corner mark\n-demarcate"
-      }
-    ]
-  },
-  {
-    "word": "vạch để lấy hành trình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lubber\"s line"
-      }
-    ]
-  },
-  {
-    "word": "vạch (phổ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-line"
-      }
-    ]
-  },
-  {
-    "word": "vạch kossel (phổ tia x)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Kossel line"
-      }
-    ]
-  },
-  {
-    "word": "vạn long",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn Long\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
-      }
-    ]
-  },
-  {
-    "word": "vạch đơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-singlet"
-      }
-    ]
-  },
-  {
-    "word": "vạn năng rộng (máy phay)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-superuniversal"
-      }
-    ]
-  },
-  {
-    "word": "vạn lý trường thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Chinese Wall\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Great Wall"
-      }
-    ]
-  },
-  {
-    "word": "vạn bội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vạn bội\n*thành ngữ\n-ten thousand times"
-      }
-    ]
-  },
-  {
-    "word": "vạch kẻ (trên thang đo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-scale line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-synchronization line"
       }
     ]
   },
@@ -2278,110 +2104,157 @@
     ]
   },
   {
-    "word": "vạch tái hợp",
+    "word": "vạch kẻ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-recombination line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-line\n@Lĩnh vực: điện lạnh\n-rule"
       }
     ]
   },
   {
-    "word": "vạch phân làn đường",
+    "word": "vạn thạnh",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic lane mark"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Thạnh\n- (phường) tp. Nha Trang, t. Khánh Hoà\n- (xã) h. Vạn Ninh, h. Khánh Hoà"
       }
     ]
   },
   {
-    "word": "vạch chia độ",
+    "word": "vạch lông tìm vết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-division\n-index\n-scale division"
+        "dict_definition": "@vạch lông tìm vết\n*danh từ\n-fault finding*động từ\n-to be a fault finder"
       }
     ]
   },
   {
-    "word": "vạch phát xạ",
+    "word": "vạch (phổ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-emission line"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-line"
       }
     ]
   },
   {
-    "word": "vạt ghép",
+    "word": "vạn thái",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-flap"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Thái\n- (xã) h. ứng Hoà, t. Hà Tây"
       }
     ]
   },
   {
-    "word": "vạch một đường elip",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-describe an ellipse"
-      }
-    ]
-  },
-  {
-    "word": "vạch không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zero line"
-      }
-    ]
-  },
-  {
-    "word": "vạch lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-redraw"
-      }
-    ]
-  },
-  {
-    "word": "vạch beta",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-beta-peak"
-      }
-    ]
-  },
-  {
-    "word": "vạch hấp thụ giữa các sao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-interstellar absorption lines"
-      }
-    ]
-  },
-  {
-    "word": "vạch ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-reversed trace"
-      }
-    ]
-  },
-  {
-    "word": "vạ lây",
+    "word": "vạ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bị mắc phải tai hoạ một cách oan uổng\nVí dụ:\n- chơi với nó rồi có ngày vạ lây"
+        "dict_definition": "tai hoạ bỗng dưng đến với một người nào đó\nVí dụ:\n- mang vạ \n - tai bay vạ gió (tng)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "điều tội lỗi phải gánh chịu\nVí dụ:\n- đổ vạ cho người khác \n - vạ mồm vạ miệng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vạ\n- dt. 1. Tai hoạ ở đâu bỗng dưng đến với người nào: mang vạ vào thân  cháy thành vạ lây  tai bay vạ gió (tng.). 2. Tội lỗi phạm phải: tội tạ vạ lạy  vạ mồm vạ miệng. 3. Hình phạt đối với những người phạm tội ở làng xã thời phong kiến, thường nộp bằng tiền: nộp vạ  phạt vạ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạ\n*noun\n-fine"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vạ\n* noun\n- fine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fine"
+      }
+    ]
+  },
+  {
+    "word": "vạch dao động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-wiggly trace"
+      }
+    ]
+  },
+  {
+    "word": "vạch tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lay out\n-pegging-out\n-trace\n-tracing"
+      }
+    ]
+  },
+  {
+    "word": "vạn thuỷ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Thuỷ\n- (xã) h. Bắc Sơn, t. Lạng Sơn"
+      }
+    ]
+  },
+  {
+    "word": "vạch h",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-H-line"
+      }
+    ]
+  },
+  {
+    "word": "vạch nước lũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flood mark\n-high water mark"
+      }
+    ]
+  },
+  {
+    "word": "vạn sơn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Sơn\n- (phường) tx. Đồ Sơn, tp. Hải Phòng"
+      }
+    ]
+  },
+  {
+    "word": "vạn giáo nhất lý",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "all religions are one (Cao Dai)"
+      }
+    ]
+  },
+  {
+    "word": "vạch dấu trong không gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-space marking"
+      }
+    ]
+  },
+  {
+    "word": "vạn trạch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Trạch\n- (xã) h. Bố Trạch, t. Quảng Bình"
       }
     ]
   },
@@ -2403,29 +2276,117 @@
     ]
   },
   {
-    "word": "vạch sáu",
+    "word": "vạn điểm",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-sextet"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vạn Điểm\n- (xã) h. Thường Tín, t. Hà Tây"
       }
     ]
   },
   {
-    "word": "vạch tuyến",
+    "word": "vạch bốn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lay out\n-pegging-out\n-trace\n-tracing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-quartet"
       }
     ]
   },
   {
-    "word": "vạn bất đắc dĩ",
+    "word": "vạch gốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vạn bất đắc dĩ\n*thành ngữ\n-unwillingly, very reluctantly"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line original"
+      }
+    ]
+  },
+  {
+    "word": "vạch hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-edge\n-seam\n-weld seam\n-welded body seam\n-welded seam\n-welding seam"
+      }
+    ]
+  },
+  {
+    "word": "vạch đối stokes",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-anti-Stokes line"
+      }
+    ]
+  },
+  {
+    "word": "vạch tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-load-line\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-loadline"
+      }
+    ]
+  },
+  {
+    "word": "vạn dậm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "10,000 miles"
+      }
+    ]
+  },
+  {
+    "word": "vạch tia laze",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-laser line"
+      }
+    ]
+  },
+  {
+    "word": "vạy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ách\nVí dụ:\n- vạy cày"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạy\n*tính từ\n-curved, bent, crooked, tortous"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "curved, bent, crooked, tortous"
+      }
+    ]
+  },
+  {
+    "word": "vạch ngăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-deflector plate"
+      }
+    ]
+  },
+  {
+    "word": "vạn niên thanh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây thuộc họ ráy, lá luôn luôn xanh tốt, thường trồng trong nước để làm cảnh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn niên thanh - rohdea japonica, evergreen"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rohdea japonica, evergreen"
       }
     ]
   },
@@ -2439,38 +2400,77 @@
     ]
   },
   {
-    "word": "vạch khí hydro",
+    "word": "vạn nhất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-hydrogen line"
+        "dict_definition": "@vạn nhất - in case, just in case, if ever, if bay any chance"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in case, just in case, if ever, if bay any chance"
       }
     ]
   },
   {
-    "word": "vạch dấu lỗ",
+    "word": "vạt yêu sách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mortise marking"
+        "dict_definition": "@Chuyên ngành kinh tế\n-claim"
       }
     ]
   },
   {
-    "word": "vạt da (ghép)",
+    "word": "vạch đôi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-skin flap"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-doublet"
       }
     ]
   },
   {
-    "word": "vạn bệnh hồi xuân",
+    "word": "vạt áo",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vạn bệnh hồi xuân\n- Sách thuốc của Cung Đình Hiền đời Minh"
+        "dict_name": "VNEDICT",
+        "dict_definition": "skirt"
+      }
+    ]
+  },
+  {
+    "word": "vạn thọ vô cương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn thọ vô cương - (wishing you, him) endless life"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(wishing you, him) endless life"
+      }
+    ]
+  },
+  {
+    "word": "vạn quốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vạn quốc - all the nations"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "all the nations"
+      }
+    ]
+  },
+  {
+    "word": "vạch năm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-quintet"
       }
     ]
   }

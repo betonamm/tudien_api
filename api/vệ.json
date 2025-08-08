@@ -1,73 +1,302 @@
 [
   {
-    "word": "vệt đen (trên màn hình)",
+    "word": "vệ giới",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shading"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vệ Giới\n- Người đời Tấn, người đẹp văn hay, sống đến 27 tuổi thì mất"
       }
     ]
   },
   {
-    "word": "vệt phanh",
+    "word": "vệ tinh có nhiều đường vào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brake impression"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multiple access satellite"
       }
     ]
   },
   {
-    "word": "vệ tinh phát hiện hạt nhân",
+    "word": "vệt dội tạp rađa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-nuclear detection satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-background return\n-clutter\n-radar clutter"
       }
     ]
   },
   {
-    "word": "vệ tinh siêu đồng bộ",
+    "word": "vệ tinh dừng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-super-synchronous satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-stationary satellite"
       }
     ]
   },
   {
-    "word": "vệt đồng hồ",
+    "word": "vệ tinh địa tĩnh cố định",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-clock track"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-geostationary fixed satellite"
       }
     ]
   },
   {
-    "word": "vệt chảy",
+    "word": "vệt từ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-run (paint run)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-track"
       }
     ]
   },
   {
-    "word": "vệ tinh khí tượng",
+    "word": "vệ tinh tiros được cải tiến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-meteorological satellite\n-weather satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-improved TIROS satellite-ITOS"
       }
     ]
   },
   {
-    "word": "vệ tinh truyền trực tiếp",
+    "word": "vệ tinh thăm dò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-DBS (direct broadcasting satellite)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mission satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh đo vòng cung trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Limb Measurement Satellite (ELMS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt chữ số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-disk track"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh (nhân tạo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sputnik"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh/dịch vụ quảng bá trực tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Direct Broadcast Satellite/Service (DBS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water spotting"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh argos",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ARGOS (satellite)"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ sinh học [vệ sinh học]\n-hygienics\n@Chuyên ngành kinh tế\n-hygiene"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hygienics"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh thiên văn nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-small astronomical satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt đầy đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-full track"
+      }
+    ]
+  },
+  {
+    "word": "vệt đen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-black shading"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nghiên cứu và cấp cứu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-search and rescue satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh truyền lại trực tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-real-time repeater satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt độn tạp do đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ground clutter"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh phát lại trực tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-real-time repeater satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt dội tạp do sóng (ở rađa trên máy bay)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sea clutter\n-sea return"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh môi trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Environmental Satellite (ENVISAT)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh của chương trình thu nhận và xử lý dữ liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Data Acquisition and Processing Program Satellite (DAPP)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh định vị toàn cầu (mạng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Global Positioning Satellite (network) (GPS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt dội tạp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-background return\n-clutter\n-radar clutter"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh hàng hải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-maritime satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh không dừng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-non-stationary satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt tách sợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-crack\n-strip\n-stripe"
+      }
+    ]
+  },
+  {
+    "word": "vệ phòng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to protect"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh thiên văn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-astronomy satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh truyền thông tích cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-active communication satellite"
       }
     ]
   },
@@ -89,78 +318,6 @@
     ]
   },
   {
-    "word": "vệt sáng chói",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bright spot"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền thông trực tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-direct broadcasting satellite (DBS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiên cứu từ trường magsat",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Magsat Magnetic Field Satellite (MMFS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh/dịch vụ quảng bá trực tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Direct Broadcast Satellite/Service (DBS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh công nghệ ứng dụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Application Technology Satellite (ATS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh dùng năng lượng mặt trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Solar Power Satellite (SPS)"
-      }
-    ]
-  },
-  {
-    "word": "vệt tách sợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-crack\n-strip\n-stripe"
-      }
-    ]
-  },
-  {
-    "word": "vệt định thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-clock track\n-timing track"
-      }
-    ]
-  },
-  {
     "word": "vệt dội do sóng (ở rađa trên máy bay)",
     "definitions": [
       {
@@ -170,927 +327,29 @@
     ]
   },
   {
-    "word": "vệt trắng nhiễu âm",
+    "word": "vệ tinh nhiều dải băng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-white noise"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multi-band satellite"
       }
     ]
   },
   {
-    "word": "vệ tinh chuẩn địa tĩnh",
+    "word": "vệ sinh công cộng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-quasi-stationary satellite"
+        "dict_definition": "@Chuyên ngành kinh tế\n-public health"
       }
     ]
   },
   {
-    "word": "vệt từ",
+    "word": "vệt đen mặt trời",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-track"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh trắc địa quay quanh trái đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Geodetic Earth Orbiting Satellite (GEOS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh mặt trăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lunar satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt dội tạp do sóng (ở rađa trên máy bay)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sea clutter\n-sea return"
-      }
-    ]
-  },
-  {
-    "word": "vệt đen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-black shading"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh dừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-stationary satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sea Satellite (SEASAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tống",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to escort; escort, convoy"
-      }
-    ]
-  },
-  {
-    "word": "vệt dội tạp rađa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-background return\n-clutter\n-radar clutter"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh đa dụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-utility satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh quan sát trái đất tiên tiến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Advanced Earth Observing Satellite (ADEOS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh công nghệ tài nguyên trái đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Resources Technology Satellite (ERTS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh quốc phòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-defense satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ binh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quân nhân chuyên làm nhiệm vụ canh gác, hoặc bảo vệ một nhân vật quan trọng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vệ binh\n- dt (H. vệ: giữ gìn, che chở, đi theo; binh: lính) Người lính đi theo một nhân vật để bảo vệ (cũ): Chung quanh vua Quang-trung có một số vệ binh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ binh\n*noun\n-guardsman"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vệ binh\n* noun\n- guardsman"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bodyguard, guard(sman)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền hình trực tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-television direct broadcasting satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền lại trực tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-real-time repeater satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền thông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-communication satellite\n@Chuyên ngành kỹ thuật\n-communication satellite (comsat)\n-communications satellite\n-comsat (communication satellite)\n-CS (Communication Satellite)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh dò tìm từ xa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-remote sensing satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ thân",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to defend oneself"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh quốc gia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-domestic satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt đầy đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-full track"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh viễn thông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-communication satelitte\n@Lĩnh vực: điện\n-communication satellite"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "communications satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt ion hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ionization trace"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh địa tĩnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vệ tinh nhân tạo của Trái Đất, có quỹ đạo nằm trong mặt phẳng xích đạo, có vận tốc góc bằng vận tốc góc của Trái Đất\nVí dụ:\n- phát sóng truyền hình qua vệ tinh địa tĩnh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ tinh địa tĩnh [vệ tinh địa tĩnh]\n-geostationary satellite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-geostationary satellite\n@Lĩnh vực: toán & tin\n-stationary satellite"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "geostationary satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-magnetic master\n-master"
-      }
-    ]
-  },
-  {
-    "word": "vệt rỗ khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-blister"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh áp dụng kỹ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-application technology satellite ATS"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh thiên văn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-astronomy satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền thông đa truy cập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-MACSAT (multiple access communications satellite)\n-multiple-access communications satellite (MACSAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệ uý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ uý [vệ uý]\n-army officer"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiên cứu môi trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Environmental Research Satellite (ERS)"
-      }
-    ]
-  },
-  {
-    "word": "vệt dội tạp do biển (rada)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sea clutter"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nhân tạo mặt trăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lunar artificial satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt rãnh từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-toe"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh mặt trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-solar satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh định vị trí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-position location satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt sâu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-deep scratch"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh quan sát trái đất nhật bản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Japanese Earth Observing Satellite (IEOS)"
-      }
-    ]
-  },
-  {
-    "word": "vệt vỉa (hè)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-kern line"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nhật đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sun-synchronous satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ an",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vệ An\n- (phường) tx. Bắc Ninh, t. Bắc Ninh"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh hệ thống doanh nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-satellite business systems-SBS"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh đo vòng cung trái đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Limb Measurement Satellite (ELMS)"
-      }
-    ]
-  },
-  {
-    "word": "vệt dội tạp do đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-land return\n-terrain echoes"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh tiros được cải tiến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-improved TIROS satellite-ITOS"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh thiên văn nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-small astronomical satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh có nhiều đường vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multiple access satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh chuyển tiếp dữ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Data Relay Satellite (DRS)"
-      }
-    ]
-  },
-  {
-    "word": "vệt sô sợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-stripe"
-      }
-    ]
-  },
-  {
-    "word": "vệ ngư viên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fish warden"
-      }
-    ]
-  },
-  {
-    "word": "vệ đội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ đội - the Guards"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "guard"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh geopause",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-GEOPAUSE satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh gián điệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-spy satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh vận hành-tiros",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-TIROS operation satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh tâm thần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-psychophylaxis"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh tìm kiếm và cứu nạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Search and Rescue Satellite (SARSAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệt khắc rãnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gash\n-groove\n-rabbet\n-slot"
-      }
-    ]
-  },
-  {
-    "word": "vệt mờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ghost\n-ghost line"
-      }
-    ]
-  },
-  {
-    "word": "vệt âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sound track"
-      }
-    ]
-  },
-  {
-    "word": "vệ tính truyền thông-bs",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Broadcast Satellite\n-communication satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh chuyển tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-relay satellite\n-repeater satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh viễn thông cỡ lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-large telecommunication satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh khí tượng meteosat",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-METEOSAT (satellite)"
-      }
-    ]
-  },
-  {
-    "word": "vệt gia công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lay"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh trên quỹ đạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-orbiting satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiên cứu thiên văn bằng tia hồng ngoại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-InfraRed Astronomical Satellite (IRAS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nhỏ phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-piggyback"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh cố định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Fixed Satellite (FS)"
-      }
-    ]
-  },
-  {
-    "word": "vệt đóm trên bề mặt bê tông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blotchy appearance"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh đô thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urban sanitation"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thiên thể quay xung quanh một hành tinh\nVí dụ:\n- Mặt Trăng là vệ tinh của Trái Đất"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cái cùng loại nhưng nhỏ hơn, có chức năng phụ trợ cho cái khác và ở vùng xung quanh cái khác đó\nVí dụ:\n- thành phố vệ tinh \n - các xí nghiệp vệ tinh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vệ tinh\n- dt. 1. Thiên thể nhỏ quay quanh một hành tinh: Mặt Trăng là vệ tinh của Trái Đất. 2. Cái cùng loại nhưng nhỏ hơn và có chức năng phụ trợ: thành phố vệ tinh  xí nghiệp vệ tinh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ tinh\n*noun\n-satellite\n@Chuyên ngành kinh tế\n-satellite\n@Chuyên ngành kỹ thuật\n-satellite\n-satellite network\n-tracking"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vệ tinh\n* noun\n- satellite"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh thí nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-developmental satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh chuyển tải đa chức năng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Multi-functional Transport SATellite (MTSAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh nghề nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-health protection"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh địa tĩnh viễn thông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-telecommunication geostationary satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh di động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-moving satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần đất làm thành rìa, mép\nVí dụ:\n- vệ sông \n - đứng ở vệ đường \n - ngồi bệt xuống vệ cỏ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vệ\n- (sông) ở tỉnh Quảng Ngãi. Dài 91km, diện tích lưu vực 1257km2. Bắt nguồn từ vùng núi Ba Tơ cao 800m chảy theo hướng tây nam-đông bắc đổ ra Biển Đông tại Long Khê"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vệ\n- 1 dt. 1. khng. Vệ quốc quân, nói tắt: anh vệ. 2. Một loại đơn vị quân đội quân từ 300 người đến 5000 người tuỳ theo thời: Vệ trong thị lập cơ ngoài song phi (Truyện Kiều).\n- 2 dt. Rìa, cạnh: vệ đường  vệ hè  vệ sông.\n- (sông) ở tỉnh Quảng Ngãi. Dài 91km, diện tích lưu vực 1257km2. Bắt nguồn từ vùng núi Ba Tơ cao 800m chảy theo hướng tây nam-đông bắc đổ ra Biển Đông tại Long Khê."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ\n*noun\n-edge, side"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vệ\n* noun\n- edge, side"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) edge, side (of a road, etc.); (2) to protect; (3) group of 500 soldiers"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh của hệ thống quan sát trái đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Observing System Satellite (EOS SAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình dài nổi rõ trên bề mặt một vật, do tác động của một vật khác đi qua\nVí dụ:\n- vệt mực \n - vệt đèn pha loang loáng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vệt\n- dt. Vết dài: vệt vôi  vệt máu  thấm những vệt mồ hôi trên má  những vệt ánh đèn pha."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệt\n*noun\n-track, line, streak\n@Chuyên ngành kinh tế\n-streak\n@Chuyên ngành kỹ thuật\n-freak\n-line\n-path\n-smear\n-speck\n-spot\n-streak\n-stria\n-stripe\n-trace\n-track\n-trail"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vệt\n* noun\n- track, line, streak"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "track, line, streak"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh học công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-industrial health"
-      }
-    ]
-  },
-  {
-    "word": "vệt dội tạp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-background return\n-clutter\n-radar clutter"
-      }
-    ]
-  },
-  {
-    "word": "vệt đường siêu âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-hypersonic wake"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh viễn thông đường bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-synchronous communications satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh trắc địa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-geodetic satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt đuôi con trỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pointer trail"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh thông tin thử nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Experimental Communications Satellite (ECS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nội địa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Domestic Satellite (DOMSAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh quan sát trái đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-earth observation satellite\n-Earth Observation Satellite (EOSAT)\n-Earth observation satellite-EOS"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh hàng hải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-maritime satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh phát lại trực tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-real-time repeater satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh công nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-industrial health\n-industrial hygiene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial hygiene"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sunspot"
       }
     ]
   },
@@ -1104,96 +363,29 @@
     ]
   },
   {
-    "word": "vệ tinh đi theo",
+    "word": "vệ sinh tâm thần",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-trailer satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-psychophylaxis"
       }
     ]
   },
   {
-    "word": "vệ tinh có chùm tia hẹp",
+    "word": "vệ tinh quan sát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-spot beams satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-observation satellite"
       }
     ]
   },
   {
-    "word": "vệ tinh seasat",
+    "word": "vệ tinh (tự nhiên)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-EASAT (satellite)"
-      }
-    ]
-  },
-  {
-    "word": "vệt gỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rust mark"
-      }
-    ]
-  },
-  {
-    "word": "vệt nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-hot spot"
-      }
-    ]
-  },
-  {
-    "word": "vệt cát (khuyết tật trên bề mặt bê tông)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sand lines\n-sand streaks"
-      }
-    ]
-  },
-  {
-    "word": "vệt dội tạp do biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sea clutter\n-sea return\n-wave clutter"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-primary satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền thông chủ động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-active communication satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền thông châu âu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-European Communication Satellite (ECS)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ECS (European communications satellites)\n-European Communications Satellites"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-secondary planet"
       }
     ]
   },
@@ -1207,11 +399,96 @@
     ]
   },
   {
-    "word": "vệ tinh argos",
+    "word": "vệ tinh quan sát trái đất nhật bản",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ARGOS (satellite)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Japanese Earth Observing Satellite (IEOS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ đà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ đà [Vệ đà]\n-(tôn giáo) Veda"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "veda"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh phát hiện hạt nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-nuclear detection satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh geopause",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-GEOPAUSE satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh hoa tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-satellite navigator"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh áp dụng kỹ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-application technology satellite ATS"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh geole",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-GEOLE satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh gián điệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-spy satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt vỉa (hè)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-kern line"
+      }
+    ]
+  },
+  {
+    "word": "vệt nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-hot spot"
       }
     ]
   },
@@ -1221,46 +498,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-subpoint track"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-synchronous satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-acropolis"
-      }
-    ]
-  },
-  {
-    "word": "vệt dội biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sea clutter"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ sinh học [vệ sinh học]\n-hygienics\n@Chuyên ngành kinh tế\n-hygiene"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hygienics"
       }
     ]
   },
@@ -1302,437 +539,74 @@
     ]
   },
   {
-    "word": "vệ tinh địa tĩnh cố định",
+    "word": "vệ tinh trắc địa/vật lý địa cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-geostationary fixed satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Geodetic/Geophysical Satellite (GEOSAT)"
       }
     ]
   },
   {
-    "word": "vệt nước",
+    "word": "vệ tinh nghiên cứu thiên văn bằng tia hồng ngoại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water spotting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-InfraRed Astronomical Satellite (IRAS)"
       }
     ]
   },
   {
-    "word": "vệt điện ly hóa",
+    "word": "vệt mờ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ionization trace"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ghost\n-ghost line"
       }
     ]
   },
   {
-    "word": "vệ tinh giám sát môi trường",
+    "word": "vệ sinh lần cuối con thịt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-environment survey satellite"
+        "dict_definition": "@Chuyên ngành kinh tế\n-final trimming"
       }
     ]
   },
   {
-    "word": "vệ tinh thăm dò",
+    "word": "vệ tinh viễn thông cỡ lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mission satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-large telecommunication satellite"
       }
     ]
   },
   {
-    "word": "vệ tinh phát rộng",
+    "word": "vệ tinh nhân tạo mặt trăng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-broadcasting satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lunar artificial satellite"
       }
     ]
   },
   {
-    "word": "vệ tinh quay theo quỹ đạo trái đất",
+    "word": "vệ tinh hệ thống doanh nghiệp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Orbiting Satellite (EOS)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-satellite business systems-SBS"
       }
     ]
   },
   {
-    "word": "vệ tinh không dừng",
+    "word": "vệ tinh mặt trăng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-non-stationary satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh môi trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-environmental hygiene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-environmental sanitation\n-sanitary"
-      }
-    ]
-  },
-  {
-    "word": "vệt cung vòng tròn lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-orthodromic track"
-      }
-    ]
-  },
-  {
-    "word": "vệt sót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-trailer"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiên cứu (khoa học)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-research satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh sử dụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-application satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh thụ động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-passive satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ quốc quân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quân đội bảo vệ tổ quốc chống xâm lược [thường dùng để gọi quân đội nhân dân Việt Nam thời kì đầu sau Cách mạng tháng Tám]\nVí dụ:\n- chiến sĩ vệ quốc quân"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "national guard"
-      }
-    ]
-  },
-  {
-    "word": "vệ ðà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Veda"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiên cứu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mission satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt âm thanh diện tích biến đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-variable area sound track"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh truyền thông tích cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-active communication satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt phóng điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-discharge path"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiên cứu và cấp cứu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-search and rescue satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh (của) sóng mật độ spin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spin density wave satellites"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh quan sát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-observation satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh quan sát tài nguyên trái đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Resources Observation Satellite (EROS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh roentgensatellit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Roentgensatellit Satellite (ROSAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh của chương trình thu nhận và xử lý dữ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Data Acquisition and Processing Program Satellite (DAPP)"
-      }
-    ]
-  },
-  {
-    "word": "vệ sĩ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nhiệm vụ bảo vệ nhân vật quan trọng\nVí dụ:\n- tuyển vệ sĩ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vệ sĩ [vệ sĩ]\n-escort;  bodyguard"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bodyguard"
-      }
-    ]
-  },
-  {
-    "word": "vệ dịch",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "guard"
-      }
-    ]
-  },
-  {
-    "word": "vệt phản xạ từ phông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-background return\n-radar clutter"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh phản xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reflecting satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệt đen mặt trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sunspot"
-      }
-    ]
-  },
-  {
-    "word": "vệ đường",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "side of the road, edge of the road"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh thông tin liên lạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-communication satellite (comsat)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh phần đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sub-synchronous satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ thanh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vệ Thanh\n- Danh tướng đời Hán"
-      }
-    ]
-  },
-  {
-    "word": "vệ úy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "army officer, commander of a vệ (group of 500 men)"
-      }
-    ]
-  },
-  {
-    "word": "vệ giới",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vệ Giới\n- Người đời Tấn, người đẹp văn hay, sống đến 27 tuổi thì mất"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh có quỹ đạo lệch tâm lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Highly Eccentric orbit Satellite (HEOS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiệp dư",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-amateur satellite-AMSAT"
-      }
-    ]
-  },
-  {
-    "word": "vệt âm thanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sour\n-squeeze track"
-      }
-    ]
-  },
-  {
-    "word": "vệ phòng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to protect"
-      }
-    ]
-  },
-  {
-    "word": "vệt xô sợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crack\n-strip"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh (truyền thống) hàng không",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aeronautical earth station"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh môi trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Environmental Satellite (ENVISAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh địa-động laze",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Laser Geo -dynamics Satellite (LAGEOS)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh (nhân tạo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-sputnik"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh nghiên cứu phía trên tầng khí quyển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Upper Atmosphere Research satellite (UARS)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-lunar satellite"
       }
     ]
   },
@@ -1746,101 +620,83 @@
     ]
   },
   {
-    "word": "vệ tinh geole",
+    "word": "vệ tinh thông tin liên lạc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-GEOLE satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-communication satellite (comsat)"
       }
     ]
   },
   {
-    "word": "vệ sinh thú y",
+    "word": "vệt sâu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-veterinary hygiene"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-deep scratch"
       }
     ]
   },
   {
-    "word": "vệt chủ",
+    "word": "vệ tinh truyền thông đa truy cập",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-master"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-MACSAT (multiple access communications satellite)\n-multiple-access communications satellite (MACSAT)"
       }
     ]
   },
   {
-    "word": "vệt ánh sáng",
+    "word": "vệ tinh truyền hình trực tiếp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-light spot"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-television direct broadcasting satellite"
       }
     ]
   },
   {
-    "word": "vệt, vạch (vệt xuất huyết)",
+    "word": "vệ sinh môi trường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vibex"
+        "dict_definition": "@Chuyên ngành kinh tế\n-environmental hygiene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-environmental sanitation\n-sanitary"
       }
     ]
   },
   {
-    "word": "vệt máy hiện sóng",
+    "word": "vệ tinh chuyển tiếp dữ liệu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-oscilloscope trace"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Data Relay Satellite (DRS)"
       }
     ]
   },
   {
-    "word": "vệ tinh dưới đồng bộ",
+    "word": "vệ tinh thí nghiệm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sub-synchronous satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-developmental satellite"
       }
     ]
   },
   {
-    "word": "vệ sinh đo thử quỹ đạo của hải quân",
+    "word": "vệ tinh truyền thông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-MARitime Orbital Test Satellite (MAROTS)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-communication satellite\n@Chuyên ngành kỹ thuật\n-communication satellite (comsat)\n-communications satellite\n-comsat (communication satellite)\n-CS (Communication Satellite)"
       }
     ]
   },
   {
-    "word": "vệt xoắn ốc",
+    "word": "vệ tinh trên quỹ đạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-spiral track"
-      }
-    ]
-  },
-  {
-    "word": "vệt trắng trang in",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-river of white"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh của một hàm tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-satellite of a function\n-satellite of a functor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-orbiting satellite"
       }
     ]
   },
@@ -1854,42 +710,373 @@
     ]
   },
   {
-    "word": "vệ tinh phát thanh thời gian",
+    "word": "vệ tinh đồng bộ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-timing dissemination satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-synchronous satellite"
       }
     ]
   },
   {
-    "word": "vệ sinh công cộng",
+    "word": "vệ tinh cố định",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-public health"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Fixed Satellite (FS)"
       }
     ]
   },
   {
-    "word": "vệ tinh nhiều dải băng",
+    "word": "vệ tinh tìm kiếm và cứu nạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-multi-band satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Search and Rescue Satellite (SARSAT)"
       }
     ]
   },
   {
-    "word": "vệ đà",
+    "word": "vệt đuôi con trỏ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vệ đà [Vệ đà]\n-(tôn giáo) Veda"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pointer trail"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh truyền thông trực tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-direct broadcasting satellite (DBS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt gốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-magnetic master\n-master"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh đa dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-utility satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt dội tạp do biển (rada)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sea clutter"
+      }
+    ]
+  },
+  {
+    "word": "vệt âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-sound track"
+      }
+    ]
+  },
+  {
+    "word": "vệ đường",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "side of the road, edge of the road"
+      }
+    ]
+  },
+  {
+    "word": "vệ uý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ uý [vệ uý]\n-army officer"
+      }
+    ]
+  },
+  {
+    "word": "vệt sáng chói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-bright spot"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh của hệ thống quan sát trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Observing System Satellite (EOS SAT)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh công nghệ ứng dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Application Technology Satellite (ATS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt phóng điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-discharge path"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh chuyển tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-relay satellite\n-repeater satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ thanh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vệ Thanh\n- Danh tướng đời Hán"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh chuyển tải đa chức năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Multi-functional Transport SATellite (MTSAT)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh phản xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-reflecting satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt, vạch (vệt xuất huyết)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vibex"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh có chùm tia hẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-spot beams satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nghiên cứu (khoa học)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-research satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt gia công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lay"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh chuyển tiếp đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-synchronous relay satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh erts",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth resources technology satellite-ERTS"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nhật đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sun-synchronous satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt ánh sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-light spot"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh học công nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-industrial health"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh dò tìm từ xa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-remote sensing satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình dài nổi rõ trên bề mặt một vật, do tác động của một vật khác đi qua\nVí dụ:\n- vệt mực \n - vệt đèn pha loang loáng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vệt\n- dt. Vết dài: vệt vôi  vệt máu  thấm những vệt mồ hôi trên má  những vệt ánh đèn pha."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệt\n*noun\n-track, line, streak\n@Chuyên ngành kinh tế\n-streak\n@Chuyên ngành kỹ thuật\n-freak\n-line\n-path\n-smear\n-speck\n-spot\n-streak\n-stria\n-stripe\n-trace\n-track\n-trail"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vệt\n* noun\n- track, line, streak"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "veda"
+        "dict_definition": "track, line, streak"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh truyền trực tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-DBS (direct broadcasting satellite)"
+      }
+    ]
+  },
+  {
+    "word": "vệ dịch",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "guard"
+      }
+    ]
+  },
+  {
+    "word": "vệt rỗ khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-blister"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh thú y",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-veterinary hygiene"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh định vị trí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-position location satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt âm thanh diện tích biến đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-variable area sound track"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh đo thử quỹ đạo của hải quân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-MARitime Orbital Test Satellite (MAROTS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh địa tĩnh viễn thông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-telecommunication geostationary satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh truyền thông châu âu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-European Communication Satellite (ECS)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ECS (European communications satellites)\n-European Communications Satellites"
       }
     ]
   },
@@ -1903,20 +1090,55 @@
     ]
   },
   {
-    "word": "vệ tinh giám sát",
+    "word": "vệ ngư viên",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-surveillance satellite"
+        "dict_name": "VNEDICT",
+        "dict_definition": "fish warden"
       }
     ]
   },
   {
-    "word": "vệ tinh định vị toàn cầu (mạng)",
+    "word": "vệt sót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Global Positioning Satellite (network) (GPS)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-trailer"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh địa tĩnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vệ tinh nhân tạo của Trái Đất, có quỹ đạo nằm trong mặt phẳng xích đạo, có vận tốc góc bằng vận tốc góc của Trái Đất\nVí dụ:\n- phát sóng truyền hình qua vệ tinh địa tĩnh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ tinh địa tĩnh [vệ tinh địa tĩnh]\n-geostationary satellite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-geostationary satellite\n@Lĩnh vực: toán & tin\n-stationary satellite"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "geostationary satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt bánh xe (mặt gai bánh xe lốp xe)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tread"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh quốc phòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-defense satellite"
       }
     ]
   },
@@ -1934,6 +1156,293 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(man-made, artificial) satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh roentgensatellit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Roentgensatellit Satellite (ROSAT)"
+      }
+    ]
+  },
+  {
+    "word": "vệt rãnh từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-toe"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh đi theo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-trailer satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh (của) sóng mật độ spin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-spin density wave satellites"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh quan sát trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-earth observation satellite\n-Earth Observation Satellite (EOSAT)\n-Earth observation satellite-EOS"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh mặt trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-solar satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh viễn thông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-communication satelitte\n@Lĩnh vực: điện\n-communication satellite"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "communications satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt cát (khuyết tật trên bề mặt bê tông)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sand lines\n-sand streaks"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh dùng năng lượng mặt trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Solar Power Satellite (SPS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh di động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-moving satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt máy hiện sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-oscilloscope trace"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thiên thể quay xung quanh một hành tinh\nVí dụ:\n- Mặt Trăng là vệ tinh của Trái Đất"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cái cùng loại nhưng nhỏ hơn, có chức năng phụ trợ cho cái khác và ở vùng xung quanh cái khác đó\nVí dụ:\n- thành phố vệ tinh \n - các xí nghiệp vệ tinh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vệ tinh\n- dt. 1. Thiên thể nhỏ quay quanh một hành tinh: Mặt Trăng là vệ tinh của Trái Đất. 2. Cái cùng loại nhưng nhỏ hơn và có chức năng phụ trợ: thành phố vệ tinh  xí nghiệp vệ tinh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ tinh\n*noun\n-satellite\n@Chuyên ngành kinh tế\n-satellite\n@Chuyên ngành kỹ thuật\n-satellite\n-satellite network\n-tracking"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vệ tinh\n* noun\n- satellite"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt dội tạp do đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-land return\n-terrain echoes"
+      }
+    ]
+  },
+  {
+    "word": "vệt điện ly hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ionization trace"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-primary satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nghiên cứu từ trường magsat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Magsat Magnetic Field Satellite (MMFS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần đất làm thành rìa, mép\nVí dụ:\n- vệ sông \n - đứng ở vệ đường \n - ngồi bệt xuống vệ cỏ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vệ\n- (sông) ở tỉnh Quảng Ngãi. Dài 91km, diện tích lưu vực 1257km2. Bắt nguồn từ vùng núi Ba Tơ cao 800m chảy theo hướng tây nam-đông bắc đổ ra Biển Đông tại Long Khê"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vệ\n- 1 dt. 1. khng. Vệ quốc quân, nói tắt: anh vệ. 2. Một loại đơn vị quân đội quân từ 300 người đến 5000 người tuỳ theo thời: Vệ trong thị lập cơ ngoài song phi (Truyện Kiều).\n- 2 dt. Rìa, cạnh: vệ đường  vệ hè  vệ sông.\n- (sông) ở tỉnh Quảng Ngãi. Dài 91km, diện tích lưu vực 1257km2. Bắt nguồn từ vùng núi Ba Tơ cao 800m chảy theo hướng tây nam-đông bắc đổ ra Biển Đông tại Long Khê."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ\n*noun\n-edge, side"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vệ\n* noun\n- edge, side"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) edge, side (of a road, etc.); (2) to protect; (3) group of 500 soldiers"
+      }
+    ]
+  },
+  {
+    "word": "vệt định thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-clock track\n-timing track"
+      }
+    ]
+  },
+  {
+    "word": "vệt xô sợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crack\n-strip"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nhỏ phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-piggyback"
+      }
+    ]
+  },
+  {
+    "word": "vệ nông viên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "village guard"
+      }
+    ]
+  },
+  {
+    "word": "vệt sô sợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-stripe"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh phần đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sub-synchronous satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh viễn thông đường bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-synchronous communications satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh vận hành-tiros",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-TIROS operation satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh công nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-industrial health\n-industrial hygiene\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-industrial hygiene"
+      }
+    ]
+  },
+  {
+    "word": "vệt gỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rust mark"
       }
     ]
   },
@@ -1959,6 +1468,15 @@
     ]
   },
   {
+    "word": "vệ tinh giám sát môi trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-environment survey satellite"
+      }
+    ]
+  },
+  {
     "word": "vệ tinh liên lạc",
     "definitions": [
       {
@@ -1968,146 +1486,172 @@
     ]
   },
   {
-    "word": "vệ tinh chuyển tiếp số liệu châu âu",
+    "word": "vệt xoắn ốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-European Data Relay Satellite (EDRS)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-spiral track"
       }
     ]
   },
   {
-    "word": "vệ tinh hoa tiêu",
+    "word": "vệt đóm trên bề mặt bê tông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-satellite navigator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blotchy appearance"
       }
     ]
   },
   {
-    "word": "vệt bánh xe (mặt gai bánh xe lốp xe)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tread"
-      }
-    ]
-  },
-  {
-    "word": "vệt âm thanh đa âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-multiple soundtrack"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh (tự nhiên)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-secondary planet"
-      }
-    ]
-  },
-  {
-    "word": "vệt chữ số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-disk track"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh erts",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth resources technology satellite-ERTS"
-      }
-    ]
-  },
-  {
-    "word": "vệt độn tạp do đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ground clutter"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh trắc địa/vật lý địa cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Geodetic/Geophysical Satellite (GEOSAT)"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh viễn thám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-remote sensing satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ tinh chuyển tiếp đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-synchronous relay satellite"
-      }
-    ]
-  },
-  {
-    "word": "vệ sinh lần cuối con thịt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-final trimming"
-      }
-    ]
-  },
-  {
-    "word": "vệ nông viên",
+    "word": "vệ ðà",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "village guard"
+        "dict_definition": "Veda"
       }
     ]
   },
   {
-    "word": "vệ tinh thứ cấp",
+    "word": "vệ thành",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-subsat"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-acropolis"
       }
     ]
   },
   {
-    "word": "vệ sinh ăn uống",
+    "word": "vệ sĩ",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nhiệm vụ bảo vệ nhân vật quan trọng\nVí dụ:\n- tuyển vệ sĩ"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-food hygiene"
+        "dict_definition": "@vệ sĩ [vệ sĩ]\n-escort;  bodyguard"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bodyguard"
       }
     ]
   },
   {
-    "word": "vệ tinh truyền hình",
+    "word": "vệt âm thanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-television transmission satellite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-television satellite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sour\n-squeeze track"
+      }
+    ]
+  },
+  {
+    "word": "vệ tống",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to escort; escort, convoy"
+      }
+    ]
+  },
+  {
+    "word": "vệt đường siêu âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-hypersonic wake"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Sea Satellite (SEASAT)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh của một hàm tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-satellite of a function\n-satellite of a functor"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh khí tượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-meteorological satellite\n-weather satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh phát thanh thời gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-timing dissemination satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt chủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-master"
+      }
+    ]
+  },
+  {
+    "word": "vệ an",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vệ An\n- (phường) tx. Bắc Ninh, t. Bắc Ninh"
+      }
+    ]
+  },
+  {
+    "word": "vệt phản xạ từ phông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-background return\n-radar clutter"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nghiệp dư",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-amateur satellite-AMSAT"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh nghề nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-health protection"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh khí tượng meteosat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-METEOSAT (satellite)"
       }
     ]
   },
@@ -2121,6 +1665,462 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "cleaner, hygienist"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh sử dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-application satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nghiên cứu phía trên tầng khí quyển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Upper Atmosphere Research satellite (UARS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nội địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Domestic Satellite (DOMSAT)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh quốc gia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-domestic satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh phát rộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-broadcasting satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh ăn uống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-food hygiene"
+      }
+    ]
+  },
+  {
+    "word": "vệ úy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "army officer, commander of a vệ (group of 500 men)"
+      }
+    ]
+  },
+  {
+    "word": "vệt trắng trang in",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-river of white"
+      }
+    ]
+  },
+  {
+    "word": "vệ sinh đô thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-urban sanitation"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nghiên cứu môi trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Environmental Research Satellite (ERS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh thứ cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-subsat"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh trắc địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-geodetic satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ thân",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to defend oneself"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh chuẩn địa tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-quasi-stationary satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh giám sát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-surveillance satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh thụ động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-passive satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh có quỹ đạo lệch tâm lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Highly Eccentric orbit Satellite (HEOS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh địa-động laze",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Laser Geo -dynamics Satellite (LAGEOS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh viễn thám",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-remote sensing satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt đồng hồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-clock track"
+      }
+    ]
+  },
+  {
+    "word": "vệt dội tạp do biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sea clutter\n-sea return\n-wave clutter"
+      }
+    ]
+  },
+  {
+    "word": "vệt âm thanh đa âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-multiple soundtrack"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh siêu đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-super-synchronous satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt chảy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-run (paint run)"
+      }
+    ]
+  },
+  {
+    "word": "vệ quốc quân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quân đội bảo vệ tổ quốc chống xâm lược [thường dùng để gọi quân đội nhân dân Việt Nam thời kì đầu sau Cách mạng tháng Tám]\nVí dụ:\n- chiến sĩ vệ quốc quân"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "national guard"
+      }
+    ]
+  },
+  {
+    "word": "vệt đen (trên màn hình)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-shading"
+      }
+    ]
+  },
+  {
+    "word": "vệt dội biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-sea clutter"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh dưới đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sub-synchronous satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh (truyền thống) hàng không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-aeronautical earth station"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh trắc địa quay quanh trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Geodetic Earth Orbiting Satellite (GEOS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt khắc rãnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gash\n-groove\n-rabbet\n-slot"
+      }
+    ]
+  },
+  {
+    "word": "vệ tính truyền thông-bs",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Broadcast Satellite\n-communication satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt ion hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ionization trace"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh truyền thông chủ động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-active communication satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh quan sát tài nguyên trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Resources Observation Satellite (EROS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh công nghệ tài nguyên trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Resources Technology Satellite (ERTS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh quay theo quỹ đạo trái đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Earth Orbiting Satellite (EOS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt cung vòng tròn lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-orthodromic track"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh nghiên cứu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mission satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh chuyển tiếp số liệu châu âu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-European Data Relay Satellite (EDRS)"
+      }
+    ]
+  },
+  {
+    "word": "vệt trắng nhiễu âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-white noise"
+      }
+    ]
+  },
+  {
+    "word": "vệ binh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quân nhân chuyên làm nhiệm vụ canh gác, hoặc bảo vệ một nhân vật quan trọng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vệ binh\n- dt (H. vệ: giữ gìn, che chở, đi theo; binh: lính) Người lính đi theo một nhân vật để bảo vệ (cũ): Chung quanh vua Quang-trung có một số vệ binh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ binh\n*noun\n-guardsman"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vệ binh\n* noun\n- guardsman"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bodyguard, guard(sman)"
+      }
+    ]
+  },
+  {
+    "word": "vệ đội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vệ đội - the Guards"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "guard"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh quan sát trái đất tiên tiến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Advanced Earth Observing Satellite (ADEOS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh seasat",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-EASAT (satellite)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh thông tin thử nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Experimental Communications Satellite (ECS)"
+      }
+    ]
+  },
+  {
+    "word": "vệ tinh truyền hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-television transmission satellite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-television satellite"
+      }
+    ]
+  },
+  {
+    "word": "vệt phanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brake impression"
       }
     ]
   }

@@ -1,64 +1,26 @@
 [
   {
-    "word": "vờ vĩnh",
+    "word": "vờn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giả vờ [nói khái quát]\nVí dụ:\n- nó vờ vĩnh như không biết"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vờ vĩnh [vờ vĩnh]\n-như"
-      }
-    ]
-  },
-  {
-    "word": "vời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vùng nước rộng ngoài xa trên mặt sông hay mặt biển"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xa lắm\nVí dụ:\n- xa vời \n - \"Những mong cá nước sum vầy, Bao ngờ đôi ngả nước mây cách vời.\" (CPN)"
+        "dict_definition": "lượn qua lại trước một đối tượng nào đó với những động tác tựa như đùa giỡn, sát vào rồi lại xa ra ngay\nVí dụ:\n- con mèo đang vờn chuột \n - con chuồn chuồn vờn trước mặt"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vời\n- khoảng nước rộng, lòng sông"
+        "dict_definition": "@vờn\n- đg. Lượn qua lại trước mặt một đối tượng nào đó với những động tác tựa như đùa giỡn, lúc thì áp vào, chụp lấy, lúc thì buông ra ngay. Mèo vờn chuột. Bướm vờn hoa. Hai đô vật đang vờn nhau."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vời\n*động từ\n-to claim\n-to send for\n-to convoke\n-to summon*tính từ\n-removed, distant, remote"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "distant, remote"
-      }
-    ]
-  },
-  {
-    "word": "vờ vịt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "giả vờ để che giấu điều gì đó [nói khái quát]\nVí dụ:\n- đừng có vờ vịt! \n - \"Bà ấy không rõ vờ vịt hay thật, mà trông có vẻ thiểu não buồn rầu lắm.\" (Bùi Bình Thi; 5)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vờ vịt\n- đg. (kng.). Giả vờ để che giấu điều gì đó, thường là không tốt (nói khái quát). Biết rõ rồi còn hỏi, rõ khéo vờ vịt!"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vờ vịt\n*verb\n-to feign, to pretend"
+        "dict_definition": "@vờn\n*verb\n-to play with to set off, to bring out"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vờ vịt\n* verb\n- to feign, to pretend"
+        "dict_definition": "@vờn\n* verb\n- to play with to set off, to bring out"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to feign, pretend"
+        "dict_definition": "to leap; to play with; to set off; to bring out"
       }
     ]
   },
@@ -92,11 +54,27 @@
     ]
   },
   {
-    "word": "vời phun (nước) chữa cháy tự động",
+    "word": "vờ vịt",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "giả vờ để che giấu điều gì đó [nói khái quát]\nVí dụ:\n- đừng có vờ vịt! \n - \"Bà ấy không rõ vờ vịt hay thật, mà trông có vẻ thiểu não buồn rầu lắm.\" (Bùi Bình Thi; 5)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vờ vịt\n- đg. (kng.). Giả vờ để che giấu điều gì đó, thường là không tốt (nói khái quát). Biết rõ rồi còn hỏi, rõ khéo vờ vịt!"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sprinkler nozzle"
+        "dict_definition": "@vờ vịt\n*verb\n-to feign, to pretend"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vờ vịt\n* verb\n- to feign, to pretend"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to feign, pretend"
       }
     ]
   },
@@ -118,27 +96,49 @@
     ]
   },
   {
-    "word": "vờn",
+    "word": "vời phun (nước) chữa cháy tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sprinkler nozzle"
+      }
+    ]
+  },
+  {
+    "word": "vời",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lượn qua lại trước một đối tượng nào đó với những động tác tựa như đùa giỡn, sát vào rồi lại xa ra ngay\nVí dụ:\n- con mèo đang vờn chuột \n - con chuồn chuồn vờn trước mặt"
+        "dict_definition": "vùng nước rộng ngoài xa trên mặt sông hay mặt biển"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xa lắm\nVí dụ:\n- xa vời \n - \"Những mong cá nước sum vầy, Bao ngờ đôi ngả nước mây cách vời.\" (CPN)"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vờn\n- đg. Lượn qua lại trước mặt một đối tượng nào đó với những động tác tựa như đùa giỡn, lúc thì áp vào, chụp lấy, lúc thì buông ra ngay. Mèo vờn chuột. Bướm vờn hoa. Hai đô vật đang vờn nhau."
+        "dict_definition": "@vời\n- khoảng nước rộng, lòng sông"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vờn\n*verb\n-to play with to set off, to bring out"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vờn\n* verb\n- to play with to set off, to bring out"
+        "dict_definition": "@vời\n*động từ\n-to claim\n-to send for\n-to convoke\n-to summon*tính từ\n-removed, distant, remote"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to leap; to play with; to set off; to bring out"
+        "dict_definition": "distant, remote"
+      }
+    ]
+  },
+  {
+    "word": "vờ vĩnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "giả vờ [nói khái quát]\nVí dụ:\n- nó vờ vĩnh như không biết"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vờ vĩnh [vờ vĩnh]\n-như"
       }
     ]
   }

@@ -1,470 +1,10 @@
 [
   {
-    "word": "sữa nguyên",
+    "word": "sữa thô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-full-cream milk\n-whole milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa bò viêm vú",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mastitis milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đặc (có đường)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-concentrated milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa nhân tạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-artificial milk\n-synthetic milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa nhiễm trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-infected milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa bột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sữa bột [sữa bột]\n-powdered milk;  formula\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-dried milk\n-milk powder"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "powdered milk, formula"
-      }
-    ]
-  },
-  {
-    "word": "sữa khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dried milk\n-dry milk\n-milk solids\n-milk-powder\n-powdered milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-dried milk\n-milk powder"
-      }
-    ]
-  },
-  {
-    "word": "sữa chua",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sữa được kết tủa do một loại men đặc biệt, vị hơi chua"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sữa chua\n- Thức ăn có vị hơi chua, làm bằng sữa đông đặc lại do tiếp xúc với một thứ men lấy từ sữa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "*noun\n-yoghurt\n=Sữa chua vị xoài \n+: Mango-flavoured yoghurt\n=Sữa chua không có hương liệu \n+: Yoghurts with no artificial flavouring\n@Chuyên ngành kinh tế\n-acidified milk\n-sour milk\n-yoghurt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-yogurt"
-      }
-    ]
-  },
-  {
-    "word": "sữa bán đong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loose milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa phân lập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-separated milk\n-skimmed milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-skimmed milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa cô đặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-condensed milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa ong chúa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chất của ong thợ tiết ra để nuôi ong chúa, có nhiều chất dinh dưỡng và chất kháng sinh, dùng làm thuốc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sữa ong chúa [sữa ong chúa]\n-royal jelly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "royal jelly"
-      }
-    ]
-  },
-  {
-    "word": "sữa cừu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ewe\"s milk\n-sheep milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa lạnh đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-frozen milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa biến tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-modified milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa non (của bò mới đẻ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-beestings"
-      }
-    ]
-  },
-  {
-    "word": "sữa khô đã tách bơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-nonfat milk solids\n-serum solids\n-skim solids"
-      }
-    ]
-  },
-  {
-    "word": "sữa hộp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sữa hộp [sữa hộp]\n-canned milk\n@Chuyên ngành kinh tế\n-tinned milk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "canned milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đậu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sữa đậu\n- d. Đồ uống chế bằng đậu nành với nước và nấu với đường."
-      }
-    ]
-  },
-  {
-    "word": "sữa đặc trong thùng lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bulk condensed milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa khô trong thùng lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bulk dry milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa bánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-blockmilk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-first milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa vôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lime\n-lime milk\n-lime white\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lime cream\n@Lĩnh vực: xây dựng\n-milk of lime"
-      }
-    ]
-  },
-  {
-    "word": "sữa đặc có đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sweetened condensed milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đạt chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-standardized milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa khô sấy thăng hoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-freeze-dried milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa nguyên chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rich milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa hạnh nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-almond milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa có mùi lạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tainted milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa có thành phần khoáng biến đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mineral modified milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa lên men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-kuban\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lac fermentum"
-      }
-    ]
-  },
-  {
-    "word": "sữa cho thêm gia vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flavoured milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa tinh bột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mill starch liquor\n-starch milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa có hàm lượng protein cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-protein milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa chua ăn kiêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cultured milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-glacier milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa chua (ngựa)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-koumiss"
-      }
-    ]
-  },
-  {
-    "word": "sữa vô trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sterile milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa khô dạng viên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mill cake"
-      }
-    ]
-  },
-  {
-    "word": "sữa tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-regular milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đông tụ trong thùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-armoured cow"
-      }
-    ]
-  },
-  {
-    "word": "sữa nhớt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-long milk\n-ropy milk\n-slimy milk\n-stringy milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa casein",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-casein milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa uống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-liquid milk\n-market milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa xử lý bảo quản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-preserved milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa nhiễm khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tainted milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa bò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cow milk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(cow’s) milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa làm lạnh đông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-deep-frozen milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-raw milk\n-unpasteurized milk"
       }
     ]
   },
@@ -478,56 +18,128 @@
     ]
   },
   {
-    "word": "sữa xi-măng",
+    "word": "sữa đặc thanh trùng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-laitance"
+        "dict_definition": "@Chuyên ngành kinh tế\n-vaporated milk"
       }
     ]
   },
   {
-    "word": "sữa làm fomat",
+    "word": "sữa lạc đà",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cheese milk\n-milk for cheese"
+        "dict_definition": "@Chuyên ngành kinh tế\n-camel milk"
       }
     ]
   },
   {
-    "word": "sữa khô chở đến nhà máy",
+    "word": "sữa béo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bulk milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-rich milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fat milk"
       }
     ]
   },
   {
-    "word": "sữa nhân hóa",
+    "word": "sữa tươi thanh trùng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-humanized milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-market milk"
       }
     ]
   },
   {
-    "word": "sữa sacarat",
+    "word": "sữa chuyển chua",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-saccharate milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-lapper milk"
       }
     ]
   },
   {
-    "word": "sữa người",
+    "word": "sữa đã làm giàu (bổ sung các chất dinh dưỡng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-humanized milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-enriched milk\n-fortified milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-glacier milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa khô có đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dried sweetened milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa lạnh đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-frozen milk"
+      }
+    ]
+  },
+  {
+    "word": "sữ bảo dưỡng trong túi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bag holder"
+      }
+    ]
+  },
+  {
+    "word": "sữa cũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ripened milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đựng trong hộp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-can milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa trâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-buffalo milk\n-carabao"
+      }
+    ]
+  },
+  {
+    "word": "sữa casein",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-casein milk"
       }
     ]
   },
@@ -550,101 +162,74 @@
     ]
   },
   {
-    "word": "sữa socola",
+    "word": "sữa nhân tạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-chocolate milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-artificial milk\n-synthetic milk"
       }
     ]
   },
   {
-    "word": "sữa thanh trùng",
+    "word": "sữa đặc (có đường)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-autoclaved milk\n-heat-treated milk\n-sterilized milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-concentrated milk"
       }
     ]
   },
   {
-    "word": "sữa chọn lọc từ đàn bò",
+    "word": "sữa tinh bột",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mixed herd milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-mill starch liquor\n-starch milk"
       }
     ]
   },
   {
-    "word": "sữa đông",
+    "word": "sữa bánh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-junket"
+        "dict_definition": "@Chuyên ngành kinh tế\n-blockmilk"
       }
     ]
   },
   {
-    "word": "sữa vắt sớm",
+    "word": "sữa cho thêm gia vị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-morning milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-flavoured milk"
       }
     ]
   },
   {
-    "word": "sữa kế mao dẫn",
+    "word": "sữa chua bungari",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-propeller milk meter"
+        "dict_definition": "@Chuyên ngành kinh tế\n-Bulgarian (sour) milk"
       }
     ]
   },
   {
-    "word": "sữa quỳ (môi trường dinh dưỡng)",
+    "word": "sữa làm fomat",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-litmus milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cheese milk\n-milk for cheese"
       }
     ]
   },
   {
-    "word": "sữa chữa",
+    "word": "sữa lưu huỳnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-to keep in repair"
-      }
-    ]
-  },
-  {
-    "word": "sữa không tươi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ripened milk"
-      }
-    ]
-  },
-  {
-    "word": "sữ bảo dưỡng trong túi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bag holder"
-      }
-    ]
-  },
-  {
-    "word": "sữa tươi mới vắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-freshly drawn milk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-milk of sulphur"
       }
     ]
   },
@@ -658,11 +243,20 @@
     ]
   },
   {
-    "word": "sữa có độ tạp khuẩn cao",
+    "word": "sữa nhiễm axit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-high-count milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-acidophilous milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa socola",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-chocolate milk"
       }
     ]
   },
@@ -692,38 +286,56 @@
     ]
   },
   {
-    "word": "sữa chai đã thanh trùng",
+    "word": "sữa hạnh nhân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bottled pasteurized milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-almond milk"
       }
     ]
   },
   {
-    "word": "sữa dê",
+    "word": "sữa cừu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-goat milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ewe\"s milk\n-sheep milk"
       }
     ]
   },
   {
-    "word": "sữa chua bungari",
+    "word": "sữa pepton hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-Bulgarian (sour) milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-peptonized milk"
       }
     ]
   },
   {
-    "word": "sữa đã chiếu xạ",
+    "word": "sữa xi-măng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-irradiated milk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-laitance"
+      }
+    ]
+  },
+  {
+    "word": "sữa vắt giai đoạn cuối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-late lactation milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đã tách bơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-skim"
       }
     ]
   },
@@ -761,216 +373,69 @@
     ]
   },
   {
-    "word": "sữa đậu nành",
+    "word": "sữa phân lập",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thức ăn lỏng, màu trắng đục như sữa, làm bằng đậu nành xay với nước và đun sôi"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@sữa đậu nành [sữa đậu nành]\n-soya milk\n@Chuyên ngành kinh tế\n-soy milk\n-soya bean milk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "soya milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-separated milk\n-skimmed milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-skimmed milk"
       }
     ]
   },
   {
-    "word": "sữa ôi",
+    "word": "sữa ít đặc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rancid milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-soft curd milk"
       }
     ]
   },
   {
-    "word": "sữa lưu huỳnh",
+    "word": "sữa bò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-milk of sulphur"
-      }
-    ]
-  },
-  {
-    "word": "sữa người, sữa mẹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lac feminnum"
-      }
-    ]
-  },
-  {
-    "word": "sữa tươi thanh trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-market milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa béo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rich milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-fat milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa vắt giai đoạn cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-late lactation milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa non",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-colostrum\n-first milk\n-foremilk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-colostrum"
-      }
-    ]
-  },
-  {
-    "word": "sữa đã thanh trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-finished milk\n-pasteurized milk\n-scalded milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa tươi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sữa bò nguyên chất được tiệt trùng, không qua khâu chế biến"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sữa tươi [sữa tươi]\n-fresh milk\n@Chuyên ngành kinh tế\n-new milk\n-sweet milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cow milk"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "fresh milk"
+        "dict_definition": "(cow’s) milk"
       }
     ]
   },
   {
-    "word": "sữa lạc đà",
+    "word": "sữa cô đặc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-camel milk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-condensed milk"
       }
     ]
   },
   {
-    "word": "sữa nhiễm axit",
+    "word": "sữa nhớt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-acidophilous milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-long milk\n-ropy milk\n-slimy milk\n-stringy milk"
       }
     ]
   },
   {
-    "word": "sữa đông tụ",
+    "word": "sữa có hàm lượng protein cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plant rennet\n-vegetable rennet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-curd"
+        "dict_definition": "@Chuyên ngành kinh tế\n-protein milk"
       }
     ]
   },
   {
-    "word": "sữa đảm bảo",
+    "word": "sữa nhân hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-certified milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-certified milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa có vị muối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-salty milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa tách canxi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-decalcified milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-galactometer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-lactometer"
-      }
-    ]
-  },
-  {
-    "word": "sữa tự nhiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-genuine milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa mạch nha",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-malted milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đựng trong hộp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-can milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa khử lactoza",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-de-lactosed milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa chuyển chua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lapper milk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-humanized milk"
       }
     ]
   },
@@ -984,28 +449,109 @@
     ]
   },
   {
-    "word": "sữa đặc",
+    "word": "sữa đóng hộp cho thêm peroxit hiđrô",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sữa đặc\n- Sữa bò đúc với đường cho sánh lại."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@sữa đặc [sữa đặc]\n-condensed milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-condensed milk"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "condensed milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-perhydrase milk"
       }
     ]
   },
   {
-    "word": "sữa bị rỉ đồng",
+    "word": "sữa ít vi khuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-copper-oxidized milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-low-count milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa vitamin hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-vitaminized milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa nguyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-full-cream milk\n-whole milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa biến tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-modified milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đông tụ trong thùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-armoured cow"
+      }
+    ]
+  },
+  {
+    "word": "sữa ôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rancid milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa có thành phần khoáng biến đổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mineral modified milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa tự nhiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-genuine milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đã chiếu xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-irradiated milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa chua",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sữa được kết tủa do một loại men đặc biệt, vị hơi chua"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sữa chua\n- Thức ăn có vị hơi chua, làm bằng sữa đông đặc lại do tiếp xúc với một thứ men lấy từ sữa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "*noun\n-yoghurt\n=Sữa chua vị xoài \n+: Mango-flavoured yoghurt\n=Sữa chua không có hương liệu \n+: Yoghurts with no artificial flavouring\n@Chuyên ngành kinh tế\n-acidified milk\n-sour milk\n-yoghurt\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-yogurt"
       }
     ]
   },
@@ -1039,83 +585,11 @@
     ]
   },
   {
-    "word": "sữa kế, nhũ kê",
+    "word": "sữa pha loãng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-galactometer"
-      }
-    ]
-  },
-  {
-    "word": "sữa thô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-raw milk\n-unpasteurized milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa chai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bottled milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa ít vi khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-low-count milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đóng hộp cho thêm peroxit hiđrô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-perhydrase milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa pepton hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-peptonized milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa đã làm giàu (bổ sung các chất dinh dưỡng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-enriched milk\n-fortified milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa khô có đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dried sweetened milk"
-      }
-    ]
-  },
-  {
-    "word": "sữa cũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ripened milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-milk and water\n-watered milk"
       }
     ]
   },
@@ -1129,11 +603,162 @@
     ]
   },
   {
-    "word": "sữa trâu",
+    "word": "sữa khô sấy thăng hoa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-buffalo milk\n-carabao"
+        "dict_definition": "@Chuyên ngành kinh tế\n-freeze-dried milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa khử lactoza",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-de-lactosed milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa tươi mới vắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-freshly drawn milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa vô trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sterile milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa nhiễm khuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tainted milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đặc trong thùng lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bulk condensed milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa có vị muối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-salty milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa ong chúa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chất của ong thợ tiết ra để nuôi ong chúa, có nhiều chất dinh dưỡng và chất kháng sinh, dùng làm thuốc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sữa ong chúa [sữa ong chúa]\n-royal jelly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "royal jelly"
+      }
+    ]
+  },
+  {
+    "word": "sữa bột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sữa bột [sữa bột]\n-powdered milk;  formula\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-dried milk\n-milk powder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "powdered milk, formula"
+      }
+    ]
+  },
+  {
+    "word": "sữa người, sữa mẹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lac feminnum"
+      }
+    ]
+  },
+  {
+    "word": "sữa có độ tạp khuẩn cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-high-count milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa hộp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sữa hộp [sữa hộp]\n-canned milk\n@Chuyên ngành kinh tế\n-tinned milk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "canned milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa non (của bò mới đẻ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-beestings"
+      }
+    ]
+  },
+  {
+    "word": "sữa chua ăn kiêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cultured milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa chai đã thanh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bottled pasteurized milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đậu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sữa đậu\n- d. Đồ uống chế bằng đậu nành với nước và nấu với đường."
       }
     ]
   },
@@ -1147,29 +772,207 @@
     ]
   },
   {
-    "word": "sữa pha loãng",
+    "word": "sữa nhiễm trùng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-milk and water\n-watered milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-infected milk"
       }
     ]
   },
   {
-    "word": "sữa ngựa",
+    "word": "sữa sacarat",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mare\"s milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-saccharate milk"
       }
     ]
   },
   {
-    "word": "sữa vitamin hóa",
+    "word": "sữa có mùi lạ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-vitaminized milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-tainted milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đảm bảo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-certified milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-certified milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-first milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa vôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lime\n-lime milk\n-lime white\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lime cream\n@Lĩnh vực: xây dựng\n-milk of lime"
+      }
+    ]
+  },
+  {
+    "word": "sữa đặc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sữa đặc\n- Sữa bò đúc với đường cho sánh lại."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sữa đặc [sữa đặc]\n-condensed milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-condensed milk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "condensed milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa quỳ (môi trường dinh dưỡng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-litmus milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đông tụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-plant rennet\n-vegetable rennet\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-curd"
+      }
+    ]
+  },
+  {
+    "word": "sữa đậu nành",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thức ăn lỏng, màu trắng đục như sữa, làm bằng đậu nành xay với nước và đun sôi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sữa đậu nành [sữa đậu nành]\n-soya milk\n@Chuyên ngành kinh tế\n-soy milk\n-soya bean milk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "soya milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa xử lý bảo quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-preserved milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-humanized milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-galactometer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-lactometer"
+      }
+    ]
+  },
+  {
+    "word": "sữa khô chở đến nhà máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bulk milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa bị rỉ đồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-copper-oxidized milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa kế mao dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-propeller milk meter"
+      }
+    ]
+  },
+  {
+    "word": "sữa dê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-goat milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa kế, nhũ kê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-galactometer"
+      }
+    ]
+  },
+  {
+    "word": "sữa tiêu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-regular milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa khô đã tách bơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-nonfat milk solids\n-serum solids\n-skim solids"
+      }
+    ]
+  },
+  {
+    "word": "sữa làm lạnh đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-deep-frozen milk"
       }
     ]
   },
@@ -1183,29 +986,163 @@
     ]
   },
   {
-    "word": "sữa đặc thanh trùng",
+    "word": "sữa khô trong thùng lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-vaporated milk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-bulk dry milk"
       }
     ]
   },
   {
-    "word": "sữa ít đặc",
+    "word": "sữa tươi",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sữa bò nguyên chất được tiệt trùng, không qua khâu chế biến"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-soft curd milk"
+        "dict_definition": "@sữa tươi [sữa tươi]\n-fresh milk\n@Chuyên ngành kinh tế\n-new milk\n-sweet milk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fresh milk"
       }
     ]
   },
   {
-    "word": "sữa đã tách bơ",
+    "word": "sữa không tươi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-skim"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ripened milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa non",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-colostrum\n-first milk\n-foremilk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-colostrum"
+      }
+    ]
+  },
+  {
+    "word": "sữa thanh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-autoclaved milk\n-heat-treated milk\n-sterilized milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa nguyên chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rich milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa đã thanh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-finished milk\n-pasteurized milk\n-scalded milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa khô dạng viên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mill cake"
+      }
+    ]
+  },
+  {
+    "word": "sữa chai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bottled milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa bán đong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-loose milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa khô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dried milk\n-dry milk\n-milk solids\n-milk-powder\n-powdered milk\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-dried milk\n-milk powder"
+      }
+    ]
+  },
+  {
+    "word": "sữa đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-junket"
+      }
+    ]
+  },
+  {
+    "word": "sữa ngựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mare\"s milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa vắt sớm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-morning milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa lên men",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-kuban\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lac fermentum"
+      }
+    ]
+  },
+  {
+    "word": "sữa mạch nha",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-malted milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa uống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-liquid milk\n-market milk"
       }
     ]
   },
@@ -1215,6 +1152,69 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-designated milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa tách canxi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-decalcified milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa chữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-to keep in repair"
+      }
+    ]
+  },
+  {
+    "word": "sữa đặc có đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sweetened condensed milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa bò viêm vú",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mastitis milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa chọn lọc từ đàn bò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-mixed herd milk"
+      }
+    ]
+  },
+  {
+    "word": "sữa chua (ngựa)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-koumiss"
+      }
+    ]
+  },
+  {
+    "word": "sữa đạt chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-standardized milk"
       }
     ]
   }

@@ -1,51 +1,5 @@
 [
   {
-    "word": "rền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[âm thanh] trầm và vang vọng từng hồi, liên tục\nVí dụ:\n- sấm rền \n - tiếng đại bác nổ rền"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "liên tục, quá lâu hoặc quá nhiều so với bình thường\nVí dụ:\n- mưa rền cả tháng \n - đi chơi rền mấy ngày liền"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[xôi, bánh] rất dẻo và ngon, do được luộc, nấu kĩ\nVí dụ:\n- xôi rền \n - bánh chưng luộc rất rền"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rền\n- t. Dẻo đều: Xôi rền; Bánh chưng rền.\n- t, ph. Liên tiếp từng hồi: Sấm rền; Đi chơi rền. Chẵn rền, lẻ rền. Chẵn liền hoặc lẻ liền mấy ván xóc đĩa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rền\n-Bánh chưng rền\n-Evenly soft sticky rice square cakes\n-In successive salvoes (rounds, peals)\n=Sấm rền\n+Thunder in sucessive peals\n=Súng rền\n+Guns boomed in sucessive salvoes\n=Đi chơi rền\n+To go for successcive rounds of walk"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rền\n- Bánh chưng rền\n-Evenly soft sticky rice square cakes\n-In successive salvoes (rounds, peals)\n=Sấm rền+Thunder in sucessive peals\n=Súng rền+Guns boomed in sucessive salvoes\n=Đi chơi rền+To go for successcive rounds of walk"
-      }
-    ]
-  },
-  {
-    "word": "rều",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rều\n-Drift-wood (on a river in flood)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rều\n- Drift-wood (on a river in flood)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "drift-wood (on a river in flood)"
-      }
-    ]
-  },
-  {
     "word": "rềnh ràng",
     "definitions": [
       {
@@ -55,6 +9,19 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@rềnh ràng\n- (địa phương) xem dềnh dàng"
+      }
+    ]
+  },
+  {
+    "word": "rền rĩ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[kêu la, than khóc] dai dẳng và sầu thảm\nVí dụ:\n- khóc than rền rĩ \n - kêu la rền rĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rền rĩ\n- Than khóc không rứt: Giọng Kiều rền rĩ trướng loan (K)."
       }
     ]
   },
@@ -122,15 +89,48 @@
     ]
   },
   {
-    "word": "rền rĩ",
+    "word": "rều",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rều\n-Drift-wood (on a river in flood)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rều\n- Drift-wood (on a river in flood)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "drift-wood (on a river in flood)"
+      }
+    ]
+  },
+  {
+    "word": "rền",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[kêu la, than khóc] dai dẳng và sầu thảm\nVí dụ:\n- khóc than rền rĩ \n - kêu la rền rĩ"
+        "dict_definition": "[âm thanh] trầm và vang vọng từng hồi, liên tục\nVí dụ:\n- sấm rền \n - tiếng đại bác nổ rền"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "liên tục, quá lâu hoặc quá nhiều so với bình thường\nVí dụ:\n- mưa rền cả tháng \n - đi chơi rền mấy ngày liền"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[xôi, bánh] rất dẻo và ngon, do được luộc, nấu kĩ\nVí dụ:\n- xôi rền \n - bánh chưng luộc rất rền"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rền rĩ\n- Than khóc không rứt: Giọng Kiều rền rĩ trướng loan (K)."
+        "dict_definition": "@rền\n- t. Dẻo đều: Xôi rền; Bánh chưng rền.\n- t, ph. Liên tiếp từng hồi: Sấm rền; Đi chơi rền. Chẵn rền, lẻ rền. Chẵn liền hoặc lẻ liền mấy ván xóc đĩa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rền\n-Bánh chưng rền\n-Evenly soft sticky rice square cakes\n-In successive salvoes (rounds, peals)\n=Sấm rền\n+Thunder in sucessive peals\n=Súng rền\n+Guns boomed in sucessive salvoes\n=Đi chơi rền\n+To go for successcive rounds of walk"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rền\n- Bánh chưng rền\n-Evenly soft sticky rice square cakes\n-In successive salvoes (rounds, peals)\n=Sấm rền+Thunder in sucessive peals\n=Súng rền+Guns boomed in sucessive salvoes\n=Đi chơi rền+To go for successcive rounds of walk"
       }
     ]
   }

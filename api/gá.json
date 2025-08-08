@@ -1,87 +1,382 @@
 [
   {
-    "word": "gánh nặng xã hội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-social burden"
-      }
-    ]
-  },
-  {
-    "word": "gái già",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái già\n- d. Từ người đàn bà đứng tuổi tự xưng một cách mỉa mai hoặc hài hước: Lấy chồng thì gái già này xin van (Nguyễn Khuyến)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái già [gái già]\n-spinster;  old maid;  bachelor girl;  maiden aunt"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "spinster, old maid, bachelor girl, maiden aunt"
-      }
-    ]
-  },
-  {
-    "word": "gáo đo gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-cupanemometer"
-      }
-    ]
-  },
-  {
-    "word": "gán",
+    "word": "gái",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đưa hiện vật để trừ nợ\nVí dụ:\n- gán chiếc xe cho bọn chủ nợ"
+        "dict_definition": "người thuộc nữ giới [thường là còn ít tuổi; nói khái quát]; phân biệt với trai\nVí dụ:\n- con trai, con gái \n - bác gái \n - trai tài gái sắc"
       },
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cho là của người nào đó cái mà thực ra người ấy không có\nVí dụ:\n- người ta gán cho gã đủ thứ tội \n - các bạn gán biệt danh tia chớp cho nó"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ghép đôi trai gái với nhau\nVí dụ:\n- bà ấy gán cô cháu của mình cho anh"
+        "dict_definition": "người phụ nữ [hàm ý coi khinh]\nVí dụ:\n- mang tiền cho gái \n - mê gái \n - theo gái"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gán\n- đg. 1. Coi là của một người một điều xấu mà người ấy không có: Gán cho bạn ý định chia rẽ anh em. 2. Trả thay cho tiền nợ: Năm đồng không trả được, đành phải gán đôi dép. 3. Ghép trai gái với nhau trái với ý muốn của họ: ép tình mới gán cho người thổ quan (K)."
+        "dict_definition": "@gái\n- d. 1 Người thuộc nữ tính (thường nói về người còn ít tuổi; nói khái quát). Không phân biệt già, trẻ, gái, trai. Người bạn gái. Bác gái. Họ nhà gái (bên phía cô dâu). Sinh được một gái (kng.). 2 (kng.). Người phụ nữ (hàm ý coi khinh). Mê gái. Gái nhảy*. Gái già."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gán\n*verb\n-to foist\n@Chuyên ngành kỹ thuật\n-allocate\n-ascribe\n-assign\n-assignment\n-binding\n-tally\n-translate"
+        "dict_definition": "@gái\n*noun\n-girl\n=gái đẹp\n+pretty girl"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gán\n* verb\n-to foist"
+        "dict_definition": "@gái\n* noun\n-girl\n= gái đẹp+pretty girl"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(1) assignment; (2) to foist"
+        "dict_definition": "female (as opposed to male)"
       }
     ]
   },
   {
-    "word": "gá kẹp",
+    "word": "gáo rót có cán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-clamp\n-clip"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bulkl ladle"
       }
     ]
   },
   {
-    "word": "gán kênh động",
+    "word": "gái gọi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gái mại dâm, thường nhận yêu cầu phục vụ khách qua đường dây đã được tổ chức [thường bằng điện thoại]\nVí dụ:\n- một tú bà chuyên cung cấp gái gọi cao cấp"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "-call girl"
+      }
+    ]
+  },
+  {
+    "word": "gái tơ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái tơ\n- dt. Người con gái mới lớn lên, chưa có quan hệ với đàn ông."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái tơ\n*noun\n-young girl; girl under age"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gái tơ\n* noun\n-young girl; girl under age"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "young girl, girl under age"
+      }
+    ]
+  },
+  {
+    "word": "gánh cuối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Dynamic Channel Assignment (DCA)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-termination"
+      }
+    ]
+  },
+  {
+    "word": "gánh phá hủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-destruct charge"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng gián tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-overhead burden"
+      }
+    ]
+  },
+  {
+    "word": "gá lắp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gá lắp [gá lắp]\n-contrivance, appliance"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "contrivance, appliance"
+      }
+    ]
+  },
+  {
+    "word": "gán cho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-impute"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be attributed to"
+      }
+    ]
+  },
+  {
+    "word": "gán cho (tội phí...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-impute"
+      }
+    ]
+  },
+  {
+    "word": "gái giang hồ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như gái điếm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái giang hồ\n- dt Người phụ nữ không chồng con, không nhà cửa, thả lỏng cuộc đời: Gái giang hồ gặp trai tứ chiếng (tng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái giang hồ\n*noun\n-demi-mondaine"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gái giang hồ\n* noun\n-demi-mondaine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "prostitute, whore"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng công nợ (của cá nhân, công ty, nhà nước ...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-burden of debt"
+      }
+    ]
+  },
+  {
+    "word": "gáy tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coping"
+      }
+    ]
+  },
+  {
+    "word": "gáo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây to cùng họ với cà phê, thân thẳng, lá rộng, gỗ màu ngà, nhẹ, thường dùng làm guốc và tiện các đồ dùng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vật dùng để múc chất lỏng, có cán cầm; cũng dùng để chỉ lượng chất lỏng đựng trong đó\nVí dụ:\n- gáo nhựa \n - xin một gáo nước"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gáo\n- 1 dt. Đồ dùng để múc chất lỏng, thường có hình chỏm cầu, cán dài: gáo múc nước  gáo đong dầu  gáo dừa  gáo nước lửa thành (tng.)  gáo dài hơn chuôi (tng.)  Một chĩnh đôi gáo (tng.).\n- 2 dt. Cây mọc rải rác trong rừng thứ sinh hoặc trồng lấy bóng mát ở thành phố, thân thẳng hình trụ, tán hình chóp, lá hình trái xoan thuôn hay hình trứng nhọn đầu mặt trên bóng nâu đậm, mặt dưới nâu sáng, gỗ màu trắng, dùng xây dựng hoặc đóng đồ dùng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gáo\n*noun\n-dipper\n=gáo dừa\n+dipper made of coconut shell\n@Chuyên ngành kỹ thuật\n-bail\n-bowl\n-bucket\n-ladle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gáo\n* noun\n-dipper\n= gáo dừa+dipper made of coconut shell"
+      }
+    ]
+  },
+  {
+    "word": "gán yêu cầu truy nhập scpc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-SCPC Access Demand Assignment"
+      }
+    ]
+  },
+  {
+    "word": "gác chuông",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tầng gác để treo chuông ở các nhà chùa, nhà thờ lớn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác chuông\n- dt. Lầu cao trong nhà chùa, nhà thờ, dùng để treo chuông."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác chuông\n*noun\n-bell-tower; churchtower; steeple\n@Chuyên ngành kỹ thuật\n-belt turret\n-campanile\n-steeple\n-tower"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gác chuông\n* noun\n-bell-tower; churchtower; steeple"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bell-tower, church tower, steeple"
+      }
+    ]
+  },
+  {
+    "word": "gá ở kích thước chính xác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-to set to exact size"
+      }
+    ]
+  },
+  {
+    "word": "gá thổ đổ hồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gá thổ đổ hồ [gá thổ đổ hồ]\n-keep a bawdy house and a gambling-house"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "keep a bawdy house and a gambling-house"
+      }
+    ]
+  },
+  {
+    "word": "gác-điêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác-điêng [gác-điêng]\n-(từ gốc tiếng Pháp là Gardien de prison) prison warder;  prison guard"
+      }
+    ]
+  },
+  {
+    "word": "gái đĩ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái đĩ\n- Nh. Gái điếm. Gái đĩ già mồm. Nói người đã phạm lỗi mà lại lớn tiếng lấp liếm đi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái đĩ [gái đĩ]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "gáo mực mỡ lợn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-swimmer"
+      }
+    ]
+  },
+  {
+    "word": "gánh trong giờ cao điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-busy hour load-BHL"
+      }
+    ]
+  },
+  {
+    "word": "gá kẹp tác dụng nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-quick acting clamp"
+      }
+    ]
+  },
+  {
+    "word": "gái bán dâm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(female) prostitute"
+      }
+    ]
+  },
+  {
+    "word": "gán nợ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gán nợ\n- Nộp đồ vật thay cho tiền nợ: Gán nợ cái bút máy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gán nợ [gán nợ]\n-Give (something) as payment of a debt."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "give (something) as payment of a debt"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng công việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-work load"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng thuế má",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tax burden"
+      }
+    ]
+  },
+  {
+    "word": "gánh vác",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gánh lấy việc khó khăn, nặng nề [nói khái quát]\nVí dụ:\n- gánh vác nhiều trọng trách \n - gánh vác cho cả gia đình \n - gánh vác trách nhiệm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gánh vác\n- đg. Đảm nhận một công việc: Gánh vác việc nước."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gánh vác [gánh vác]\n-to take charge of ...;   to assume the responsibility for ...;  to shoulder\n@Chuyên ngành kinh tế\n-assume\n-contribution\n-contributory\n-take up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take charge of ~, assume the responsibility for"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng ô nhiễm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-pollution burden"
       }
     ]
   },
@@ -91,6 +386,178 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-burden\n-expense burden"
+      }
+    ]
+  },
+  {
+    "word": "gác bỏ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gạt sang một bên, không để ý tới nữa\nVí dụ:\n- gác bỏ chuyện cũ \n - gác bỏ mọi toan tính đời thường"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác bỏ\n- đg. Để sang một bên, không để ý tới. Gác bỏ chuyện cũ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác bỏ\n*verb\n-to put away, to give up"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gác bỏ\n* verb\n-to put away, to give up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to put away, give up"
+      }
+    ]
+  },
+  {
+    "word": "gác máy (điện thoại)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hang up\n-hang up (to...)"
+      }
+    ]
+  },
+  {
+    "word": "gánh chịu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "buộc phải nhận lấy điều không hay hoặc thiệt hại về mình\nVí dụ:\n- bà đã gánh chịu không biết bao nhiêu nỗi bất hạnh \n - gánh chịu mọi khổ đau"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gánh chịu [gánh chịu]\n-to bear; to incur; to shoulder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bear, incur, shoulder"
+      }
+    ]
+  },
+  {
+    "word": "gáy phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flat back"
+      }
+    ]
+  },
+  {
+    "word": "gái bao",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gái mại dâm được khách chu cấp toàn bộ khoản tiền cần thiết [theo thoả thuận] để chỉ phục vụ riêng trong một thời gian nhất định"
+      }
+    ]
+  },
+  {
+    "word": "gá kẹp nhiều đòn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-multiple lever clamp"
+      }
+    ]
+  },
+  {
+    "word": "gán ghép",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gán vào một cách gượng ép\nVí dụ:\n- chúng nó gán ghép cho chị mọi điều xấu xa tội lỗi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ghép đôi trai gái với nhau để vui đùa\nVí dụ:\n- bà ta gán ghép anh với cô cháu của mình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gán ghép\n- đg. 1. Chia cho, giao cho, đưa vào một cách miễn cưỡng, ép uổng. 2. Ghép trai gái với nhau để chế giễu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gán ghép [gán ghép]\n-Allot arbitrarily, force to take, coerce into accepting.\n-Pair a boy and girl for fun."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "allot arbitrarily, force to take, coerce into accepting"
+      }
+    ]
+  },
+  {
+    "word": "gán theo tên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-assignment by name"
+      }
+    ]
+  },
+  {
+    "word": "gái điếm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người phụ nữ làm nghề mại dâm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái điếm\n- dt. Người con gái làm nghề mại dâm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái điếm\n*noun\n-prostitute; whore; courtesan"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gái điếm\n* noun\n-prostitute; whore; courtesan"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(female) prostitute"
+      }
+    ]
+  },
+  {
+    "word": "gá kẹp thủy lực kiểu đòn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hydraulic toggle clamp"
+      }
+    ]
+  },
+  {
+    "word": "gánh gia đình nhẹ nhõm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "light family responsibilities"
+      }
+    ]
+  },
+  {
+    "word": "gá tiếng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gá tiếng\n- đg. Lấy danh nghĩa gì để mưu một việc riêng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gá tiếng [gá tiếng]\n-promise; use a subterfuge"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "promise, use a subterfuge"
       }
     ]
   },
@@ -112,6 +579,109 @@
     ]
   },
   {
+    "word": "gánh nặng chi phí của xưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-factory burden"
+      }
+    ]
+  },
+  {
+    "word": "gá kẹp khí nén",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pneumatic clamp"
+      }
+    ]
+  },
+  {
+    "word": "gác thượng (cung điện)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-solar"
+      }
+    ]
+  },
+  {
+    "word": "gáo hớt bọt (đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-skim bob"
+      }
+    ]
+  },
+  {
+    "word": "gác ngục",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "prison guard, to guard a prison"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-economic burden"
+      }
+    ]
+  },
+  {
+    "word": "gá kẹp kiểu đòn bẩy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-lever-type clamp"
+      }
+    ]
+  },
+  {
+    "word": "gái sề",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái sề\n- Người đàn bà đã đẻ nhiều lần (nói một cách hài hước)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái sề [gái sề]\n-multiparous matron"
+      }
+    ]
+  },
+  {
+    "word": "gáo múc ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tap ladle\n-tapping ladle"
+      }
+    ]
+  },
+  {
+    "word": "gác-đê-nan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác-đê-nan [gác-đê-nan]\n-(y học) (từ gốc tiếng Pháp là Gardénal) phenobarbitone; phenobarbital"
+      }
+    ]
+  },
+  {
+    "word": "gái có chồng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "married girl, married woman"
+      }
+    ]
+  },
+  {
     "word": "gá kẹp xoay",
     "definitions": [
       {
@@ -121,46 +691,373 @@
     ]
   },
   {
-    "word": "gánh nặng thuế má",
+    "word": "gáo rót ra",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tax burden"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tap ladle\n-tapping ladle"
       }
     ]
   },
   {
-    "word": "gái bán dâm",
+    "word": "gác thượng",
     "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tầng gác cao nhất của một ngôi nhà nhiều tầng\nVí dụ:\n- gian thờ ở trên gác thượng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như sân thượng\nVí dụ:\n- lên gác thượng hóng mát"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác thượng\n- Gác cao nhất của một ngôi nhà có nhiều tầng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác thượng [gác thượng]\n-Top floor, top storey (of a multi-storeyed building).\n@Chuyên ngành kỹ thuật\n-attic\n-attic floor\n-garret\n-loft\n-mansard\n-veranda (h)"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(female) prostitute"
+        "dict_definition": "top floor, top storey (of a multi-storied building)"
       }
     ]
   },
   {
-    "word": "gáo rót có cán",
+    "word": "gánh nặng cầm cố",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bulkl ladle"
+        "dict_definition": "@Chuyên ngành kinh tế\n-encumbrance"
       }
     ]
   },
   {
-    "word": "gán nợ",
+    "word": "gán tội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gán tội [gán tội]\n-shift the blame (on)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shift the blame (on)"
+      }
+    ]
+  },
+  {
+    "word": "gánh gồng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như gồng gánh\nVí dụ:\n- “Tha hương cố quốc ngại ngùng, Lấy ai san sẻ gánh gồng đường xa.” (Trần Tuấn Khải; 4)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gánh gồng\n- đg. Gánh nói chung, ngh. 1."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gánh gồng [gánh gồng]\n-Carry by means of a shoulder pole (nói khái quát)."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "carry by means of a shoulder pole"
+      }
+    ]
+  },
+  {
+    "word": "gá kẹp đánh bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-polishing clamp"
+      }
+    ]
+  },
+  {
+    "word": "gán địa chỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-address"
+      }
+    ]
+  },
+  {
+    "word": "gáy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần phía sau cổ người\nVí dụ:\n- rợn tóc gáy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần ngoài bìa của quyển sách, chỗ các trang giấy và hai trang bìa được đính lại với nhau\nVí dụ:\n- gáy sách"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[gà trống, một số loài chim, và dế] phát ra những tiếng làm thành chuỗi âm thanh cao thấp, liên tiếp, nhịp nhàng\nVí dụ:\n- dế gáy \n - chú gà đang gáy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gáy\n- 1 d. 1 Phần phía sau cổ người. Tóc gáy. 2 Phần của quyển sách dày, chỗ các trang giấy và hai trang bìa được đính lại với nhau. Quyển sách bìa cứng, gáy da.\n- 2 đg. (Gà, một số loài chim, và dế) phát ra những tiếng làm thành chuỗi âm thanh cao thấp, liên tiếp, nhịp nhàng. Gà gáy sáng. Dế gáy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gáy\n*noun\n-pape; scauff of the neck*verb\n-to crom; to coo; to chirp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-back\n-heel"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gáy\n* noun\n-pape; scauff of the neck\n* verb\n-to crom; to coo; to chirp"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nape, back of neck"
+      }
+    ]
+  },
+  {
+    "word": "gáy sách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gáy sách\n*noun\n-back of a book\n@Chuyên ngành kinh tế\n-back\n@Chuyên ngành kỹ thuật\n-back\n-shelfback\n-spine"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gáy sách\n* noun\n-back of a book"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "back of a book"
+      }
+    ]
+  },
+  {
+    "word": "gánh quy ước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-conventional load"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng xã hội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-social burden"
+      }
+    ]
+  },
+  {
+    "word": "gác mái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-attic"
+      }
+    ]
+  },
+  {
+    "word": "gá kẹp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-clamp\n-clip"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng thuế khóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-burden of taxation"
+      }
+    ]
+  },
+  {
+    "word": "gán các chức năng phím",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-key assignment\n-key assignments"
+      }
+    ]
+  },
+  {
+    "word": "gá bạc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gán nợ\n- Nộp đồ vật thay cho tiền nợ: Gán nợ cái bút máy."
+        "dict_definition": "@gá bạc\n- Cg. Gá chứa. Chứa cờ bạc để lấy hồ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gán nợ [gán nợ]\n-Give (something) as payment of a debt."
+        "dict_definition": "@gá bạc [gá bạc]\n-Run a gambling-den."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "give (something) as payment of a debt"
+        "dict_definition": "to run a casino, gambling den"
+      }
+    ]
+  },
+  {
+    "word": "gán ( buýt ) atm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ATM (bus) Attachment (ATA)"
+      }
+    ]
+  },
+  {
+    "word": "gác máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-halt\n-hang up (vs)\n-hang-up\n-on-hook"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hang up the phone"
+      }
+    ]
+  },
+  {
+    "word": "gánh trách nhiệm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bear, shoulder a responsibility"
+      }
+    ]
+  },
+  {
+    "word": "gái goá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái goá [gái goá]\n-widow"
+      }
+    ]
+  },
+  {
+    "word": "gác phôn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hang up the phone"
+      }
+    ]
+  },
+  {
+    "word": "gáo hớt váng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-skim bob"
+      }
+    ]
+  },
+  {
+    "word": "gánh kênh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-channel loading"
+      }
+    ]
+  },
+  {
+    "word": "gánh quy ước trên kênh truyền hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-conventional loading of a television channel"
+      }
+    ]
+  },
+  {
+    "word": "gáo múc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-scoop\n@Lĩnh vực: hóa học & vật liệu\n-scoop shovel"
+      }
+    ]
+  },
+  {
+    "word": "gánh nén (ép) trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-longitudinal compressive load"
+      }
+    ]
+  },
+  {
+    "word": "gác ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-transversal"
+      }
+    ]
+  },
+  {
+    "word": "gá nghĩa vợ chồng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to get married"
+      }
+    ]
+  },
+  {
+    "word": "gán kênh và truy nhập ưu tiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Dynamic Channel Assignment (DCA)"
+      }
+    ]
+  },
+  {
+    "word": "gái hóa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái hóa\n- Cg. Gái góa. Người đàn bà chết chồng."
+      }
+    ]
+  },
+  {
+    "word": "gác xép",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gác lửng nhỏ, thường để chứa đồ đạc\nVí dụ:\n- ngủ trên gác xép"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác xép\n- Gác nhỏ phụ vào gác khác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác xép\n*noun\n-garret, annic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-entresol\n@Lĩnh vực: cơ khí & công trình\n-loft"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gác xép\n* noun\n-garret, annic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "attic"
       }
     ]
   },
@@ -206,238 +1103,15 @@
     ]
   },
   {
-    "word": "gáy, phần sau cổ",
+    "word": "gác núi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nucha"
-      }
-    ]
-  },
-  {
-    "word": "gáo múc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-scoop\n@Lĩnh vực: hóa học & vật liệu\n-scoop shovel"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng công nợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-burden of debt"
-      }
-    ]
-  },
-  {
-    "word": "gáo rót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ladle"
-      }
-    ]
-  },
-  {
-    "word": "gáo múc xỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-skimmer scoop"
-      }
-    ]
-  },
-  {
-    "word": "gáy tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coping"
-      }
-    ]
-  },
-  {
-    "word": "gánh quy ước trên kênh truyền hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-conventional loading of a television channel"
-      }
-    ]
-  },
-  {
-    "word": "gác kinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác kinh\n- cái gác viết kinh"
-      }
-    ]
-  },
-  {
-    "word": "gán hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-projection"
-      }
-    ]
-  },
-  {
-    "word": "gái gọi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gái mại dâm, thường nhận yêu cầu phục vụ khách qua đường dây đã được tổ chức [thường bằng điện thoại]\nVí dụ:\n- một tú bà chuyên cung cấp gái gọi cao cấp"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "-call girl"
-      }
-    ]
-  },
-  {
-    "word": "gác đằng vương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Gác Đằng Vương\n- Gác Đằng Vương do Đằng Vương Nguyên Anh cho xây dựng trên sông Chương Giang. Xem Duyên Đằng gió đưa"
-      }
-    ]
-  },
-  {
-    "word": "gái có chồng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "married girl, married woman"
-      }
-    ]
-  },
-  {
-    "word": "gái mãi dâm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "prostitute (female)"
-      }
-    ]
-  },
-  {
-    "word": "gánh xiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "-Xem đoàn xiếc"
-      }
-    ]
-  },
-  {
-    "word": "gánh liên tục của cáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous loading"
-      }
-    ]
-  },
-  {
-    "word": "gác mỏ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác mỏ\n- Không còn có gì để ăn (thtục)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác mỏ [gác mỏ]\n-(thông tục) Have nothing more to eat, run out of food."
+        "dict_definition": "@gác núi [gác núi]\n-Descend (go down) mountain-low (of setting sun)."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "have nothing more to eat, run out of food"
-      }
-    ]
-  },
-  {
-    "word": "gác-đa-vu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác-đa-vu [gác-đa-vu]\n-(từ gốc tiếng Pháp là Garde-à-vous!) xem"
-      }
-    ]
-  },
-  {
-    "word": "gá lời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gá lời [gá lời]\n-promise"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "promise"
-      }
-    ]
-  },
-  {
-    "word": "gáo hớt bọt (đúc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-skim bob"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gánh nặng [gánh nặng]\n-weight;  burden;  load\n@Chuyên ngành kinh tế\n-liability"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "weight, burden, load"
-      }
-    ]
-  },
-  {
-    "word": "gánh có ích khoa học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scientific payload"
-      }
-    ]
-  },
-  {
-    "word": "gá nghĩa vợ chồng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to get married"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng è cổ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a load of back-bending weight"
-      }
-    ]
-  },
-  {
-    "word": "gác máy (điện thoại)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hang up\n-hang up (to...)"
+        "dict_definition": "descend (go down) mountain-low (of setting sun)"
       }
     ]
   },
@@ -447,749 +1121,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bosom (-piece)"
-      }
-    ]
-  },
-  {
-    "word": "gán cho (tội phí...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-impute"
-      }
-    ]
-  },
-  {
-    "word": "gác bút",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác bút\n- d. Đồ dùng để đặt bút lên khi không viết nữa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác bút [gác bút]\n-Put away one\"s pen."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "put away one’s pen"
-      }
-    ]
-  },
-  {
-    "word": "gác thượng (cung điện)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-solar"
-      }
-    ]
-  },
-  {
-    "word": "gái tân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái tân\n- Người con gái còn trinh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái tân [gái tân]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "gán giá trị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-assign"
-      }
-    ]
-  },
-  {
-    "word": "gáy mạ vàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gilt edges"
-      }
-    ]
-  },
-  {
-    "word": "gác chuông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tầng gác để treo chuông ở các nhà chùa, nhà thờ lớn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác chuông\n- dt. Lầu cao trong nhà chùa, nhà thờ, dùng để treo chuông."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác chuông\n*noun\n-bell-tower; churchtower; steeple\n@Chuyên ngành kỹ thuật\n-belt turret\n-campanile\n-steeple\n-tower"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gác chuông\n* noun\n-bell-tower; churchtower; steeple"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bell-tower, church tower, steeple"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng gián tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overhead burden"
-      }
-    ]
-  },
-  {
-    "word": "gá bạc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gá bạc\n- Cg. Gá chứa. Chứa cờ bạc để lấy hồ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gá bạc [gá bạc]\n-Run a gambling-den."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to run a casino, gambling den"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng tài chính",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a financial burden"
-      }
-    ]
-  },
-  {
-    "word": "gái hóa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái hóa\n- Cg. Gái góa. Người đàn bà chết chồng."
-      }
-    ]
-  },
-  {
-    "word": "gác-dan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác-dan [gác dan]\n-(từ gốc tiếng Pháp là Gardien) doorkeeper;  doorman;  gatekeeper;  porter"
-      }
-    ]
-  },
-  {
-    "word": "gái trinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái trinh [gái trinh]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "gán chức năng cho phím",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-key assign"
-      }
-    ]
-  },
-  {
-    "word": "gánh vác",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gánh lấy việc khó khăn, nặng nề [nói khái quát]\nVí dụ:\n- gánh vác nhiều trọng trách \n - gánh vác cho cả gia đình \n - gánh vác trách nhiệm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gánh vác\n- đg. Đảm nhận một công việc: Gánh vác việc nước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gánh vác [gánh vác]\n-to take charge of ...;   to assume the responsibility for ...;  to shoulder\n@Chuyên ngành kinh tế\n-assume\n-contribution\n-contributory\n-take up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take charge of ~, assume the responsibility for"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng thuế khóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-burden of taxation"
-      }
-    ]
-  },
-  {
-    "word": "gác mái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-attic"
-      }
-    ]
-  },
-  {
-    "word": "gác thượng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tầng gác cao nhất của một ngôi nhà nhiều tầng\nVí dụ:\n- gian thờ ở trên gác thượng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như sân thượng\nVí dụ:\n- lên gác thượng hóng mát"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác thượng\n- Gác cao nhất của một ngôi nhà có nhiều tầng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác thượng [gác thượng]\n-Top floor, top storey (of a multi-storeyed building).\n@Chuyên ngành kỹ thuật\n-attic\n-attic floor\n-garret\n-loft\n-mansard\n-veranda (h)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "top floor, top storey (of a multi-storied building)"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economic burden"
-      }
-    ]
-  },
-  {
-    "word": "gái giang hồ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như gái điếm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái giang hồ\n- dt Người phụ nữ không chồng con, không nhà cửa, thả lỏng cuộc đời: Gái giang hồ gặp trai tứ chiếng (tng)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái giang hồ\n*noun\n-demi-mondaine"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gái giang hồ\n* noun\n-demi-mondaine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "prostitute, whore"
-      }
-    ]
-  },
-  {
-    "word": "gán yêu cầu truy nhập scpc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-SCPC Access Demand Assignment"
-      }
-    ]
-  },
-  {
-    "word": "gánh phá hủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-destruct charge"
-      }
-    ]
-  },
-  {
-    "word": "gáo múc ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tap ladle\n-tapping ladle"
-      }
-    ]
-  },
-  {
-    "word": "gái sề",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái sề\n- Người đàn bà đã đẻ nhiều lần (nói một cách hài hước)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái sề [gái sề]\n-multiparous matron"
-      }
-    ]
-  },
-  {
-    "word": "gáy gở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gáy gở [gáy gở]\n-the crowing of a chicken (esp. a cock) at an unusual time (considered a bad omen)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the crowing of a chicken (esp. a cock) at an unusual time"
-      }
-    ]
-  },
-  {
-    "word": "gá kẹp kiểu đòn bẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-lever-type clamp"
-      }
-    ]
-  },
-  {
-    "word": "gác dan",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác dan\n- gác-dan (F. gardien) dt., cũ Người canh gác cửa ra vào ở nha sở hoặc hãng buôn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác dan\n*noun\n-watchman, guardian"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gác dan\n* noun\n-watchman, guardian"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "watchman, guardian"
-      }
-    ]
-  },
-  {
-    "word": "gác phôn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hang up the phone"
-      }
-    ]
-  },
-  {
-    "word": "gá thổ đổ hồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gá thổ đổ hồ [gá thổ đổ hồ]\n-keep a bawdy house and a gambling-house"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "keep a bawdy house and a gambling-house"
-      }
-    ]
-  },
-  {
-    "word": "gác lửng để ở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dwelling half-storey"
-      }
-    ]
-  },
-  {
-    "word": "gái bán hoa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gái mại dâm [lối nói tránh]"
-      }
-    ]
-  },
-  {
-    "word": "gác chuông đồng hồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chapel"
-      }
-    ]
-  },
-  {
-    "word": "gái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người thuộc nữ giới [thường là còn ít tuổi; nói khái quát]; phân biệt với trai\nVí dụ:\n- con trai, con gái \n - bác gái \n - trai tài gái sắc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người phụ nữ [hàm ý coi khinh]\nVí dụ:\n- mang tiền cho gái \n - mê gái \n - theo gái"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái\n- d. 1 Người thuộc nữ tính (thường nói về người còn ít tuổi; nói khái quát). Không phân biệt già, trẻ, gái, trai. Người bạn gái. Bác gái. Họ nhà gái (bên phía cô dâu). Sinh được một gái (kng.). 2 (kng.). Người phụ nữ (hàm ý coi khinh). Mê gái. Gái nhảy*. Gái già."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái\n*noun\n-girl\n=gái đẹp\n+pretty girl"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gái\n* noun\n-girl\n= gái đẹp+pretty girl"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "female (as opposed to male)"
-      }
-    ]
-  },
-  {
-    "word": "gán ghép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gán vào một cách gượng ép\nVí dụ:\n- chúng nó gán ghép cho chị mọi điều xấu xa tội lỗi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ghép đôi trai gái với nhau để vui đùa\nVí dụ:\n- bà ta gán ghép anh với cô cháu của mình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gán ghép\n- đg. 1. Chia cho, giao cho, đưa vào một cách miễn cưỡng, ép uổng. 2. Ghép trai gái với nhau để chế giễu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gán ghép [gán ghép]\n-Allot arbitrarily, force to take, coerce into accepting.\n-Pair a boy and girl for fun."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "allot arbitrarily, force to take, coerce into accepting"
-      }
-    ]
-  },
-  {
-    "word": "gác đường vẽ mặt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Gác Đường vẽ mặt\n- Tích vua Thái Tông nhà Đường dựng gác Lăng Yên vẽ tượng những bầy tôi công thần (Lăng Yên là Lăng cao vượt từng mây khói.)"
-      }
-    ]
-  },
-  {
-    "word": "gán địa chỉ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-address"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng chi phí của xưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-factory burden"
-      }
-    ]
-  },
-  {
-    "word": "gán kênh và truy nhập ưu tiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Dynamic Channel Assignment (DCA)"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng công nợ (của cá nhân, công ty, nhà nước ...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-burden of debt"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng cầm cố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-encumbrance"
-      }
-    ]
-  },
-  {
-    "word": "gá ở kích thước chính xác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-to set to exact size"
-      }
-    ]
-  },
-  {
-    "word": "gánh trách nhiệm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bear, shoulder a responsibility"
-      }
-    ]
-  },
-  {
-    "word": "gác bỏ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gạt sang một bên, không để ý tới nữa\nVí dụ:\n- gác bỏ chuyện cũ \n - gác bỏ mọi toan tính đời thường"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác bỏ\n- đg. Để sang một bên, không để ý tới. Gác bỏ chuyện cũ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác bỏ\n*verb\n-to put away, to give up"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gác bỏ\n* verb\n-to put away, to give up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to put away, give up"
-      }
-    ]
-  },
-  {
-    "word": "gái góa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái góa\n- Nh. Gái hóa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái góa\n*noun\n-widow"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gái góa\n* noun\n-widow"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "widow"
-      }
-    ]
-  },
-  {
-    "word": "gán theo tên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-assignment by name"
-      }
-    ]
-  },
-  {
-    "word": "gác chắn thường đóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-normally closed barriers\n-on-call barrier"
-      }
-    ]
-  },
-  {
-    "word": "gánh trong giờ cao điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-busy hour load-BHL"
-      }
-    ]
-  },
-  {
-    "word": "gán lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-reassign\n-reassigning\n-reassignment"
-      }
-    ]
-  },
-  {
-    "word": "gá kẹp đánh bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-polishing clamp"
-      }
-    ]
-  },
-  {
-    "word": "gá tiếng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gá tiếng\n- đg. Lấy danh nghĩa gì để mưu một việc riêng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gá tiếng [gá tiếng]\n-promise; use a subterfuge"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "promise, use a subterfuge"
-      }
-    ]
-  },
-  {
-    "word": "gái đĩ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái đĩ\n- Nh. Gái điếm. Gái đĩ già mồm. Nói người đã phạm lỗi mà lại lớn tiếng lấp liếm đi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái đĩ [gái đĩ]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "gá kẹp thủy lực kiểu đòn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hydraulic toggle clamp"
-      }
-    ]
-  },
-  {
-    "word": "gáo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây to cùng họ với cà phê, thân thẳng, lá rộng, gỗ màu ngà, nhẹ, thường dùng làm guốc và tiện các đồ dùng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vật dùng để múc chất lỏng, có cán cầm; cũng dùng để chỉ lượng chất lỏng đựng trong đó\nVí dụ:\n- gáo nhựa \n - xin một gáo nước"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gáo\n- 1 dt. Đồ dùng để múc chất lỏng, thường có hình chỏm cầu, cán dài: gáo múc nước  gáo đong dầu  gáo dừa  gáo nước lửa thành (tng.)  gáo dài hơn chuôi (tng.)  Một chĩnh đôi gáo (tng.).\n- 2 dt. Cây mọc rải rác trong rừng thứ sinh hoặc trồng lấy bóng mát ở thành phố, thân thẳng hình trụ, tán hình chóp, lá hình trái xoan thuôn hay hình trứng nhọn đầu mặt trên bóng nâu đậm, mặt dưới nâu sáng, gỗ màu trắng, dùng xây dựng hoặc đóng đồ dùng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gáo\n*noun\n-dipper\n=gáo dừa\n+dipper made of coconut shell\n@Chuyên ngành kỹ thuật\n-bail\n-bowl\n-bucket\n-ladle"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gáo\n* noun\n-dipper\n= gáo dừa+dipper made of coconut shell"
-      }
-    ]
-  },
-  {
-    "word": "gáy sách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gáy sách\n*noun\n-back of a book\n@Chuyên ngành kinh tế\n-back\n@Chuyên ngành kỹ thuật\n-back\n-shelfback\n-spine"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gáy sách\n* noun\n-back of a book"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "back of a book"
-      }
-    ]
-  },
-  {
-    "word": "gá nghĩa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gá nghĩa\n- đg. Kết bạn với nhau: Gá nghĩa anh em."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gá nghĩa [gá nghiã]\n-To strike up a friendship with (someone), make friends with"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to strike up a friendship with (someone), make friends"
-      }
-    ]
-  },
-  {
-    "word": "gáo rót ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tap ladle\n-tapping ladle"
-      }
-    ]
-  },
-  {
-    "word": "gáo hớt váng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-skim bob"
-      }
-    ]
-  },
-  {
-    "word": "gán các gói không đồng bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Asymmetric Allocation of Packets (ASAP)"
-      }
-    ]
-  },
-  {
-    "word": "gái goá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái goá [gái goá]\n-widow"
       }
     ]
   },
@@ -1215,96 +1146,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "mezzanine"
-      }
-    ]
-  },
-  {
-    "word": "gá kẹp chốt cài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-catch"
-      }
-    ]
-  },
-  {
-    "word": "gáo dài hơn chuôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gáo dài hơn chuôi [gáo dài hơn chuôi]\n-impractical, unrealistic"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "impractical, unrealistic"
-      }
-    ]
-  },
-  {
-    "word": "gán tội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gán tội [gán tội]\n-shift the blame (on)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shift the blame (on)"
-      }
-    ]
-  },
-  {
-    "word": "gác ngang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-transversal"
-      }
-    ]
-  },
-  {
-    "word": "gáy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần phía sau cổ người\nVí dụ:\n- rợn tóc gáy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần ngoài bìa của quyển sách, chỗ các trang giấy và hai trang bìa được đính lại với nhau\nVí dụ:\n- gáy sách"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[gà trống, một số loài chim, và dế] phát ra những tiếng làm thành chuỗi âm thanh cao thấp, liên tiếp, nhịp nhàng\nVí dụ:\n- dế gáy \n - chú gà đang gáy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gáy\n- 1 d. 1 Phần phía sau cổ người. Tóc gáy. 2 Phần của quyển sách dày, chỗ các trang giấy và hai trang bìa được đính lại với nhau. Quyển sách bìa cứng, gáy da.\n- 2 đg. (Gà, một số loài chim, và dế) phát ra những tiếng làm thành chuỗi âm thanh cao thấp, liên tiếp, nhịp nhàng. Gà gáy sáng. Dế gáy."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gáy\n*noun\n-pape; scauff of the neck*verb\n-to crom; to coo; to chirp\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-back\n-heel"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gáy\n* noun\n-pape; scauff of the neck\n* verb\n-to crom; to coo; to chirp"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nape, back of neck"
-      }
-    ]
-  },
-  {
-    "word": "gá lắp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gá lắp [gá lắp]\n-contrivance, appliance"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "contrivance, appliance"
       }
     ]
   },
@@ -1350,45 +1191,15 @@
     ]
   },
   {
-    "word": "gáo nâng",
+    "word": "gáy gở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-elevator bucket"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng nợ nần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-debt burden"
-      }
-    ]
-  },
-  {
-    "word": "gái điếm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người phụ nữ làm nghề mại dâm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái điếm\n- dt. Người con gái làm nghề mại dâm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái điếm\n*noun\n-prostitute; whore; courtesan"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gái điếm\n* noun\n-prostitute; whore; courtesan"
+        "dict_definition": "@gáy gở [gáy gở]\n-the crowing of a chicken (esp. a cock) at an unusual time (considered a bad omen)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(female) prostitute"
+        "dict_definition": "the crowing of a chicken (esp. a cock) at an unusual time"
       }
     ]
   },
@@ -1434,179 +1245,50 @@
     ]
   },
   {
-    "word": "gác ngục",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "prison guard, to guard a prison"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng ô nhiễm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-pollution burden"
-      }
-    ]
-  },
-  {
-    "word": "gác xếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mezzanine floor\n-mezzanine story"
-      }
-    ]
-  },
-  {
-    "word": "gánh cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-termination"
-      }
-    ]
-  },
-  {
-    "word": "gán các chức năng phím",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-key assignment\n-key assignments"
-      }
-    ]
-  },
-  {
-    "word": "gán cho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-impute"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be attributed to"
-      }
-    ]
-  },
-  {
-    "word": "gá chứa",
+    "word": "gái góa",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gá chứa\n- Nh. Gá bạc."
+        "dict_definition": "@gái góa\n- Nh. Gái hóa."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gá chứa [gá chứa]\n-như\n-run a gambling den"
-      }
-    ]
-  },
-  {
-    "word": "gác máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-halt\n-hang up (vs)\n-hang-up\n-on-hook"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hang up the phone"
-      }
-    ]
-  },
-  {
-    "word": "gánh kênh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-channel loading"
-      }
-    ]
-  },
-  {
-    "word": "gác tối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blind store (e) y"
-      }
-    ]
-  },
-  {
-    "word": "gánh gia đình nhẹ nhõm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "light family responsibilities"
-      }
-    ]
-  },
-  {
-    "word": "gánh có ích phụ tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-payload capability"
-      }
-    ]
-  },
-  {
-    "word": "gáo múc dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil dipper\n-oil scoop"
-      }
-    ]
-  },
-  {
-    "word": "gác-đê-nan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác-đê-nan [gác-đê-nan]\n-(y học) (từ gốc tiếng Pháp là Gardénal) phenobarbitone; phenobarbital"
-      }
-    ]
-  },
-  {
-    "word": "gáo mực mỡ lợn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-swimmer"
-      }
-    ]
-  },
-  {
-    "word": "gánh hát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gánh hát\n- dt Đoàn diễn viên tuồng hay chèo đi biểu diễn nơi này nơi khác: Làng vào đám, có mời một gánh hát chèo đến diễn hai đêm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gánh hát\n*noun\n-troupe; theatre company"
+        "dict_definition": "@gái góa\n*noun\n-widow"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gánh hát\n* noun\n-troupe; theatre company"
+        "dict_definition": "@gái góa\n* noun\n-widow"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "troupe, theatre company"
+        "dict_definition": "widow"
       }
     ]
   },
   {
-    "word": "gá kẹp tác dụng nhanh",
+    "word": "gán giá trị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-quick acting clamp"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-assign"
+      }
+    ]
+  },
+  {
+    "word": "gán lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-reassign\n-reassigning\n-reassignment"
+      }
+    ]
+  },
+  {
+    "word": "gái mãi dâm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "prostitute (female)"
       }
     ]
   },
@@ -1616,113 +1298,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-half storey"
-      }
-    ]
-  },
-  {
-    "word": "gác xép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gác lửng nhỏ, thường để chứa đồ đạc\nVí dụ:\n- ngủ trên gác xép"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác xép\n- Gác nhỏ phụ vào gác khác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác xép\n*noun\n-garret, annic\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-entresol\n@Lĩnh vực: cơ khí & công trình\n-loft"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gác xép\n* noun\n-garret, annic"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "attic"
-      }
-    ]
-  },
-  {
-    "word": "gánh nén (ép) trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-longitudinal compressive load"
-      }
-    ]
-  },
-  {
-    "word": "gánh quy ước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-conventional load"
-      }
-    ]
-  },
-  {
-    "word": "gái bao",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gái mại dâm được khách chu cấp toàn bộ khoản tiền cần thiết [theo thoả thuận] để chỉ phục vụ riêng trong một thời gian nhất định"
-      }
-    ]
-  },
-  {
-    "word": "gác bếp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gác bếp\n- t. 1. Cái giá ở trên bếp để chứa đồ vật cho khỏi mọt.2. Bỏ đi, không dùng đến nữa: Những bàn ghế ọp ẹp này thì gác bếp thôi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác bếp [gác bếp]\n-Smoking-shelf (over a cooking fire, stove...).\n-Throw away."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "smoking-shelf (over a cooking fire, stove), throw away"
-      }
-    ]
-  },
-  {
-    "word": "gánh chịu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "buộc phải nhận lấy điều không hay hoặc thiệt hại về mình\nVí dụ:\n- bà đã gánh chịu không biết bao nhiêu nỗi bất hạnh \n - gánh chịu mọi khổ đau"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gánh chịu [gánh chịu]\n-to bear; to incur; to shoulder"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bear, incur, shoulder"
-      }
-    ]
-  },
-  {
-    "word": "gái tơ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gái tơ\n- dt. Người con gái mới lớn lên, chưa có quan hệ với đàn ông."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gái tơ\n*noun\n-young girl; girl under age"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gái tơ\n* noun\n-young girl; girl under age"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "young girl, girl under age"
       }
     ]
   },
@@ -1752,11 +1327,87 @@
     ]
   },
   {
-    "word": "gán ( buýt ) atm",
+    "word": "gác chót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-ATM (bus) Attachment (ATA)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-topmost store"
+      }
+    ]
+  },
+  {
+    "word": "gái tân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái tân\n- Người con gái còn trinh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái tân [gái tân]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng tài chính",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a financial burden"
+      }
+    ]
+  },
+  {
+    "word": "gác đường vẽ mặt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Gác Đường vẽ mặt\n- Tích vua Thái Tông nhà Đường dựng gác Lăng Yên vẽ tượng những bầy tôi công thần (Lăng Yên là Lăng cao vượt từng mây khói.)"
+      }
+    ]
+  },
+  {
+    "word": "gáo rót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ladle"
+      }
+    ]
+  },
+  {
+    "word": "gáo múc xỉ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-skimmer scoop"
+      }
+    ]
+  },
+  {
+    "word": "gác-dan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác-dan [gác dan]\n-(từ gốc tiếng Pháp là Gardien) doorkeeper;  doorman;  gatekeeper;  porter"
+      }
+    ]
+  },
+  {
+    "word": "gác xếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mezzanine floor\n-mezzanine story"
+      }
+    ]
+  },
+  {
+    "word": "gán các gói không đồng bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Asymmetric Allocation of Packets (ASAP)"
       }
     ]
   },
@@ -1770,67 +1421,54 @@
     ]
   },
   {
-    "word": "gác núi",
+    "word": "gánh thuần trở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gác núi [gác núi]\n-Descend (go down) mountain-low (of setting sun)."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "descend (go down) mountain-low (of setting sun)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-resistive load"
       }
     ]
   },
   {
-    "word": "gáo lấy mẫu",
+    "word": "gánh nặng công nợ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scoop\n-spoon sampler"
+        "dict_definition": "@Chuyên ngành kinh tế\n-burden of debt"
       }
     ]
   },
   {
-    "word": "gánh gồng",
+    "word": "gác mỏ",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như gồng gánh\nVí dụ:\n- “Tha hương cố quốc ngại ngùng, Lấy ai san sẻ gánh gồng đường xa.” (Trần Tuấn Khải; 4)"
-      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gánh gồng\n- đg. Gánh nói chung, ngh. 1."
+        "dict_definition": "@gác mỏ\n- Không còn có gì để ăn (thtục)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gánh gồng [gánh gồng]\n-Carry by means of a shoulder pole (nói khái quát)."
+        "dict_definition": "@gác mỏ [gác mỏ]\n-(thông tục) Have nothing more to eat, run out of food."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "carry by means of a shoulder pole"
+        "dict_definition": "have nothing more to eat, run out of food"
       }
     ]
   },
   {
-    "word": "gác tía",
+    "word": "gái già",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gái già\n- d. Từ người đàn bà đứng tuổi tự xưng một cách mỉa mai hoặc hài hước: Lấy chồng thì gái già này xin van (Nguyễn Khuyến)."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@gác tía [gác tía]\n-imperial palace"
+        "dict_definition": "@gái già [gái già]\n-spinster;  old maid;  bachelor girl;  maiden aunt"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "imperial palace"
-      }
-    ]
-  },
-  {
-    "word": "gác-điêng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gác-điêng [gác-điêng]\n-(từ gốc tiếng Pháp là Gardien de prison) prison warder;  prison guard"
+        "dict_definition": "spinster, old maid, bachelor girl, maiden aunt"
       }
     ]
   },
@@ -1844,47 +1482,38 @@
     ]
   },
   {
-    "word": "gánh có ích (của vệ tinh)",
+    "word": "gác chuông đồng hồ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-payload"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-chapel"
       }
     ]
   },
   {
-    "word": "gá kẹp nhiều đòn",
+    "word": "gá kẹp chốt cài",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-multiple lever clamp"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-catch"
       }
     ]
   },
   {
-    "word": "gáy phẳng",
+    "word": "gánh có ích khoa học",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flat back"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-scientific payload"
       }
     ]
   },
   {
-    "word": "gá kẹp khí nén",
+    "word": "gánh liên tục của cáp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pneumatic clamp"
-      }
-    ]
-  },
-  {
-    "word": "gánh nặng công việc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-work load"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-continuous loading"
       }
     ]
   },
@@ -1902,20 +1531,391 @@
     ]
   },
   {
-    "word": "gánh thuần trở",
+    "word": "gác kinh",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-resistive load"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác kinh\n- cái gác viết kinh"
       }
     ]
   },
   {
-    "word": "gác chót",
+    "word": "gán kênh động",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-topmost store"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Dynamic Channel Assignment (DCA)"
+      }
+    ]
+  },
+  {
+    "word": "gán chức năng cho phím",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-key assign"
+      }
+    ]
+  },
+  {
+    "word": "gánh hát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gánh hát\n- dt Đoàn diễn viên tuồng hay chèo đi biểu diễn nơi này nơi khác: Làng vào đám, có mời một gánh hát chèo đến diễn hai đêm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gánh hát\n*noun\n-troupe; theatre company"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gánh hát\n* noun\n-troupe; theatre company"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "troupe, theatre company"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng è cổ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a load of back-bending weight"
+      }
+    ]
+  },
+  {
+    "word": "gánh xiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "-Xem đoàn xiếc"
+      }
+    ]
+  },
+  {
+    "word": "gác dan",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác dan\n- gác-dan (F. gardien) dt., cũ Người canh gác cửa ra vào ở nha sở hoặc hãng buôn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác dan\n*noun\n-watchman, guardian"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gác dan\n* noun\n-watchman, guardian"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "watchman, guardian"
+      }
+    ]
+  },
+  {
+    "word": "gác bếp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác bếp\n- t. 1. Cái giá ở trên bếp để chứa đồ vật cho khỏi mọt.2. Bỏ đi, không dùng đến nữa: Những bàn ghế ọp ẹp này thì gác bếp thôi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác bếp [gác bếp]\n-Smoking-shelf (over a cooking fire, stove...).\n-Throw away."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "smoking-shelf (over a cooking fire, stove), throw away"
+      }
+    ]
+  },
+  {
+    "word": "gánh có ích phụ tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-payload capability"
+      }
+    ]
+  },
+  {
+    "word": "gác đằng vương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Gác Đằng Vương\n- Gác Đằng Vương do Đằng Vương Nguyên Anh cho xây dựng trên sông Chương Giang. Xem Duyên Đằng gió đưa"
+      }
+    ]
+  },
+  {
+    "word": "gá chứa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gá chứa\n- Nh. Gá bạc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gá chứa [gá chứa]\n-như\n-run a gambling den"
+      }
+    ]
+  },
+  {
+    "word": "gáy mạ vàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gilt edges"
+      }
+    ]
+  },
+  {
+    "word": "gác tía",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác tía [gác tía]\n-imperial palace"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "imperial palace"
+      }
+    ]
+  },
+  {
+    "word": "gáo lấy mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scoop\n-spoon sampler"
+      }
+    ]
+  },
+  {
+    "word": "gáo đo gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: đo lường & điều khiển\n-cupanemometer"
+      }
+    ]
+  },
+  {
+    "word": "gáo dài hơn chuôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gáo dài hơn chuôi [gáo dài hơn chuôi]\n-impractical, unrealistic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "impractical, unrealistic"
+      }
+    ]
+  },
+  {
+    "word": "gáy, phần sau cổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nucha"
+      }
+    ]
+  },
+  {
+    "word": "gánh có ích (của vệ tinh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-payload"
+      }
+    ]
+  },
+  {
+    "word": "gá lời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gá lời [gá lời]\n-promise"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "promise"
+      }
+    ]
+  },
+  {
+    "word": "gác tối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blind store (e) y"
+      }
+    ]
+  },
+  {
+    "word": "gác-đa-vu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác-đa-vu [gác-đa-vu]\n-(từ gốc tiếng Pháp là Garde-à-vous!) xem"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng nợ nần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-debt burden"
+      }
+    ]
+  },
+  {
+    "word": "gác lửng để ở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dwelling half-storey"
+      }
+    ]
+  },
+  {
+    "word": "gái bán hoa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gái mại dâm [lối nói tránh]"
+      }
+    ]
+  },
+  {
+    "word": "gán",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đưa hiện vật để trừ nợ\nVí dụ:\n- gán chiếc xe cho bọn chủ nợ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cho là của người nào đó cái mà thực ra người ấy không có\nVí dụ:\n- người ta gán cho gã đủ thứ tội \n - các bạn gán biệt danh tia chớp cho nó"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ghép đôi trai gái với nhau\nVí dụ:\n- bà ấy gán cô cháu của mình cho anh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gán\n- đg. 1. Coi là của một người một điều xấu mà người ấy không có: Gán cho bạn ý định chia rẽ anh em. 2. Trả thay cho tiền nợ: Năm đồng không trả được, đành phải gán đôi dép. 3. Ghép trai gái với nhau trái với ý muốn của họ: ép tình mới gán cho người thổ quan (K)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gán\n*verb\n-to foist\n@Chuyên ngành kỹ thuật\n-allocate\n-ascribe\n-assign\n-assignment\n-binding\n-tally\n-translate"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gán\n* verb\n-to foist"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) assignment; (2) to foist"
+      }
+    ]
+  },
+  {
+    "word": "gác chắn thường đóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-normally closed barriers\n-on-call barrier"
+      }
+    ]
+  },
+  {
+    "word": "gán hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-projection"
+      }
+    ]
+  },
+  {
+    "word": "gái trinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gái trinh [gái trinh]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "gáo múc dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil dipper\n-oil scoop"
+      }
+    ]
+  },
+  {
+    "word": "gánh nặng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gánh nặng [gánh nặng]\n-weight;  burden;  load\n@Chuyên ngành kinh tế\n-liability"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "weight, burden, load"
+      }
+    ]
+  },
+  {
+    "word": "gá nghĩa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gá nghĩa\n- đg. Kết bạn với nhau: Gá nghĩa anh em."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gá nghĩa [gá nghiã]\n-To strike up a friendship with (someone), make friends with"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to strike up a friendship with (someone), make friends"
+      }
+    ]
+  },
+  {
+    "word": "gáo nâng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-elevator bucket"
+      }
+    ]
+  },
+  {
+    "word": "gác bút",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gác bút\n- d. Đồ dùng để đặt bút lên khi không viết nữa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gác bút [gác bút]\n-Put away one\"s pen."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "put away one’s pen"
       }
     ]
   }

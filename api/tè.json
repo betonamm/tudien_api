@@ -1,5 +1,18 @@
 [
   {
+    "word": "tè tè",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tè tè - sound of running water, urinate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sound of running water, urinate"
+      }
+    ]
+  },
+  {
     "word": "tèm lem",
     "definitions": [
       {
@@ -21,28 +34,27 @@
     ]
   },
   {
-    "word": "tèm hem",
+    "word": "tè he",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cách ngồi] gập đầu gối lại, hai chân xếp quặt ra đằng sau\nVí dụ:\n- ngồi xếp tè he"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[ngồi] bệt xuống, hai chân duỗi thẳng và dạng ra [thường hàm ý chê bai]"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tèm hem\n- Nh. Tèm lem."
+        "dict_definition": "@tè he\n- Nói ngồi gập đầu gối, xếp hai chân ra đằng sau: Ngồi tè he."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tèm hem"
-      }
-    ]
-  },
-  {
-    "word": "tè tè",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tè tè - sound of running water, urinate"
+        "dict_definition": "@tè he - sit on the floor with one\"s legs apart"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "sound of running water, urinate"
+        "dict_definition": "sit on the floor with one’s legs apart"
       }
     ]
   },
@@ -76,45 +88,33 @@
     ]
   },
   {
-    "word": "tèn tẹt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tèn tẹt - flattened, reduce (a swolling)\n-be reduced, subside\n-collapse (of a balloon etc.)"
-      }
-    ]
-  },
-  {
-    "word": "tè he",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cách ngồi] gập đầu gối lại, hai chân xếp quặt ra đằng sau\nVí dụ:\n- ngồi xếp tè he"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[ngồi] bệt xuống, hai chân duỗi thẳng và dạng ra [thường hàm ý chê bai]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tè he\n- Nói ngồi gập đầu gối, xếp hai chân ra đằng sau: Ngồi tè he."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tè he - sit on the floor with one\"s legs apart"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sit on the floor with one’s legs apart"
-      }
-    ]
-  },
-  {
     "word": "tèm nhèm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@tèm nhèm\n- Luộm thuộm: Ăn mặc tèm nhèm."
+      }
+    ]
+  },
+  {
+    "word": "tèm hem",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tèm hem\n- Nh. Tèm lem."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tèm hem"
+      }
+    ]
+  },
+  {
+    "word": "tèn tẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tèn tẹt - flattened, reduce (a swolling)\n-be reduced, subside\n-collapse (of a balloon etc.)"
       }
     ]
   }

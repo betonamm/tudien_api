@@ -1,37 +1,102 @@
 [
   {
-    "word": "hình thức tài khoản kép của bảng tổng kết tài sản",
+    "word": "hình mẫu và kiểu cách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-double account form of balance sheet"
+        "dict_definition": "@Chuyên ngành kinh tế\n-pattern"
       }
     ]
   },
   {
-    "word": "hình thái (biến động của) phí tổn",
+    "word": "hình mạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cost behavior"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh vệ tinh",
-    "definitions": [
+        "dict_definition": "@hình mạo [hình mạo]\n-face, appearance, countenance"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "satellite image"
+        "dict_definition": "face, appearance, countenance"
       }
     ]
   },
   {
-    "word": "hình trái tiền mặt",
+    "word": "hình thành vốn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-heart"
+        "dict_definition": "@Chuyên ngành kinh tế\n-capital accumulation"
+      }
+    ]
+  },
+  {
+    "word": "hì hụi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả dáng vẻ cặm cụi làm việc gì một cách khó nhọc, kiên nhẫn\nVí dụ:\n- hì hụi đào xới"
+      }
+    ]
+  },
+  {
+    "word": "hình đồng dạng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình đồng dạng [hình đồng dạng]\n-similar shapes"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "similar shapes"
+      }
+    ]
+  },
+  {
+    "word": "hình thức tiền lương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-wage form"
+      }
+    ]
+  },
+  {
+    "word": "hình xuyến",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khối được tạo ra do quay một mặt tròn quanh một trục nằm trong mặt phẳng của nó và không cắt nó"
+      }
+    ]
+  },
+  {
+    "word": "hình thức kế toán phí tổn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-type of cost accounting"
+      }
+    ]
+  },
+  {
+    "word": "hình tượng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sự phản ánh hiện thực một cách khái quát bằng nghệ thuật dưới hình thức những hiện tượng cụ thể, sinh động, điển hình, nhận thức trực tiếp bằng cảm tính\nVí dụ:\n- hình tượng văn học"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình tượng\n-Image, simile\n=văn phong giàu hình tượng\n+A style rich in images (simile)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình tượng\n- Image, simile\n=văn phong giàu hình tượng+A style rich in images (simile)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "image, likeness, icon, figure"
       }
     ]
   },
@@ -49,243 +114,86 @@
     ]
   },
   {
-    "word": "hình tròn",
+    "word": "hình sao sáu góc (ký mã hiệu xếp chở hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-solomon\"s seal"
+      }
+    ]
+  },
+  {
+    "word": "hình nộm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần mặt phẳng giới hạn bởi một đường tròn"
+        "dict_definition": "hình người giả, thường được làm vật để tượng trưng, thay thế cho một kẻ xấu\nVí dụ:\n- đốt hình nộm"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình tròn\n-Circle"
+        "dict_definition": "@hình nộm\n-Effigy, dummy\n=Đốt hình nộm\n+To burn somebody ion effigy"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình tròn\n- Circle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "circle"
+        "dict_definition": "@hình nộm\n- Effigy, dummy\n=Đốt hình nộm+To burn somebody ion effigy"
       }
     ]
   },
   {
-    "word": "hình nổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình nổi\n-Relief\n=Bản đồ hình nổi\n+A relief map"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình nổi\n- Relief\n=Bản đồ hình nổi+A relief map"
-      }
-    ]
-  },
-  {
-    "word": "hình cầu phân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần hình cầu nằm giữa hai mặt phẳng song song"
-      }
-    ]
-  },
-  {
-    "word": "hình thế",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình dáng mặt đất\nVí dụ:\n- hình thế non sông \n - chọn chỗ có hình thế đẹp để xây nhà"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tình hình chính trị hoặc quân sự có những nét đặc biệt nào đó\nVí dụ:\n- hình thế chiến tranh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình thế\n-Complexion, general aspect\n=Một chiến thắng đã thay đổi hình thể chiến tranh\n+A victory that changed the complexion of the war\n-Topography, terrain\n=Hình thể sông núi\n+River and mountain topography"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình thế\n- Complexion, general aspect\n=Một chiến thắng đã thay đổi hình thể chiến tranh+A victory that changed the complexion of the war\n-Topography, terrain\n=Hình thể sông núi+River and mountain topography"
-      }
-    ]
-  },
-  {
-    "word": "hì hà hì hục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như hì hục [nhưng ý mức độ nhiều hơn]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hì hà hì hục\n-Be absorbed in, be engrossed in, be wrapped up in\n=Hì hục cuốc đất xới cỏ suốt ngày ngoài vườn\n+To be absorbed in hoeing and weeding the whole day in the garden\n=\n+ì hà hì hục (láy, ý tăng)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hì hà hì hục\n- Be absorbed in, be engrossed in, be wrapped up in\n=Hì hục cuốc đất xới cỏ suốt ngày ngoài vườn+To be absorbed in hoeing and weeding the whole day in the garden\n=Hì hà hì hục (láy, ý tăng)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be absorbed in, be engrossed in, be wrapped up in"
-      }
-    ]
-  },
-  {
-    "word": "hình thức bề ngoài",
+    "word": "hình người",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "external dimensions"
+        "dict_definition": "outline or image of a person, silhouette"
       }
     ]
   },
   {
-    "word": "hình thái",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "toàn thể nói chung những gì thuộc về cái bên ngoài, có thể quan sát được của sự vật\nVí dụ:\n- hình thái địa lí \n - hình thái kinh tế - xã hội"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình thức biểu hiện ra\nVí dụ:\n- văn nghệ là một hình thái ý thức xã hội"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình thái [hình thái]\n-form;  complexion"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "form, complexion"
-      }
-    ]
-  },
-  {
-    "word": "hình xuyến",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khối được tạo ra do quay một mặt tròn quanh một trục nằm trong mặt phẳng của nó và không cắt nó"
-      }
-    ]
-  },
-  {
-    "word": "hình cụ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ dùng để tra tấn, xử phạt các tội nhân, như gông cùm, kìm kẹp, máy chém, v.v."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình cụ [hình cụ]\n-(từ cũ; nghĩa cũ) Instruments of stature."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "instruments of stature"
-      }
-    ]
-  },
-  {
-    "word": "hình nhân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình người bằng giấy, dùng để cúng rồi đốt đi, theo mê tín\nVí dụ:\n- đốt hình nhân \n - hình nhân thế mạng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình nhân\n-Paper and bamboo pupet (to be burned on worship)\n@Chuyên ngành kinh tế\n-dummy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình nhân\n- Paper and bamboo pupet (to be burned on worship)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "paper and bamboo puppet (to be burned on worship)"
-      }
-    ]
-  },
-  {
-    "word": "hình thức quảng cáo ngoài nhà thời xưa",
+    "word": "hình lục giác",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ancient form of outdoor advertising"
+        "dict_definition": "@Chuyên ngành kinh tế\n-hexagon"
       }
     ]
   },
   {
-    "word": "hình tam giác đều",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "equilateral triangle"
-      }
-    ]
-  },
-  {
-    "word": "hình hàng rào: #",
+    "word": "hình chữ vạn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-diamond with crossed ends"
+        "dict_definition": "@Chuyên ngành kinh tế\n-swastika"
       }
     ]
   },
   {
-    "word": "hình nón",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khối được tạo nên do cắt một mặt nón bởi một mặt phẳng không đi qua đỉnh của nó"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình nón\n-Cone\n@Chuyên ngành kinh tế\n-cone"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình nón\n- Cone"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cone"
-      }
-    ]
-  },
-  {
-    "word": "hình nhi thượng",
+    "word": "hình thức bảng cân đối kế toán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình nhi thượng [hình nhi thượng]\n-abstract, spirit"
+        "dict_definition": "@Chuyên ngành kinh tế\n-account form\n-account form (account model)"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh mặt hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-line image"
+      }
+    ]
+  },
+  {
+    "word": "hình tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình tích [hình tích]\n-trace, imprint."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "abstract, spirit"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh khiêu dâm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pornographic pictures"
-      }
-    ]
-  },
-  {
-    "word": "hình quạt tròn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần hình tròn được giới hạn bởi hai bán kính"
+        "dict_definition": "trace, imprint"
       }
     ]
   },
@@ -316,38 +224,117 @@
     ]
   },
   {
-    "word": "hình sao sáu góc",
+    "word": "hình vẽ",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-solomon\"s seal"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập hợp các đường nét, mảng màu theo những nguyên tắc hội hoạ nhất định trên mặt phẳng, phản ánh hình dạng một vật thể nào đó trong tự nhiên"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "figure, diagram, picture, illustration"
       }
     ]
   },
   {
-    "word": "hình thức cấm làm thêm giờ",
+    "word": "hình nón",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khối được tạo nên do cắt một mặt nón bởi một mặt phẳng không đi qua đỉnh của nó"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overtime ban"
+        "dict_definition": "@hình nón\n-Cone\n@Chuyên ngành kinh tế\n-cone"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình nón\n- Cone"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cone"
       }
     ]
   },
   {
-    "word": "hình nhiễu",
+    "word": "hình bình hành",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tứ giác có hai cặp cạnh song song [thường được hiểu là không có góc vuông và hai cạnh kề không bằng nhau]"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ghost"
+        "dict_definition": "@hình bình hành [hình bình hành]\n-parallelogram; ellipsoidal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "parallelogram, ellipsoidal"
       }
     ]
   },
   {
-    "word": "hình thức truyền thống của kế toán",
+    "word": "hình dung",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tưởng tượng ra trong trí một cách khá rõ nét\nVí dụ:\n- hình dung lại nét mặt của người bạn cũ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hình dung\n- I. dt. Hình thức bên ngoài của con người: Hình dung chải chuốt áo quần bảnh bao. II. đgt. Tưởng tượng ra trong trí một cách khá rõ nét: hình dung ra khuôn mặt của người đồng chí đã hi sinh  không thể hình dung nổi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình dung\n*noun\n-appearance*verb\n-to figure; to imagine\n@Chuyên ngành kinh tế\n-image"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình dung\n* noun\n- appearance\n* verb\n- to figure; to imagine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to picture, visualize"
+      }
+    ]
+  },
+  {
+    "word": "hình nhân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình người bằng giấy, dùng để cúng rồi đốt đi, theo mê tín\nVí dụ:\n- đốt hình nhân \n - hình nhân thế mạng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình nhân\n-Paper and bamboo pupet (to be burned on worship)\n@Chuyên ngành kinh tế\n-dummy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình nhân\n- Paper and bamboo pupet (to be burned on worship)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "paper and bamboo puppet (to be burned on worship)"
+      }
+    ]
+  },
+  {
+    "word": "hình tam giác giao thoa (a) (ký mã hiệu chở hàng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-historical-cost accounting"
+        "dict_definition": "@Chuyên ngành kinh tế\n-crossed triangles"
+      }
+    ]
+  },
+  {
+    "word": "hình dạng cũ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "former appearance"
       }
     ]
   },
@@ -385,41 +372,200 @@
     ]
   },
   {
-    "word": "hình thù",
+    "word": "hì hà hì hục",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình dạng cụ thể và riêng biệt\nVí dụ:\n- hình thù kì dị \n - bức tượng trông chẳng ra hình thù gì"
+        "dict_definition": "như hì hục [nhưng ý mức độ nhiều hơn]"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình thù\n-(thường nghĩa xấu) như hình dạng\n=Nặn pho tượng chẳng ra hình thù gì cả\n+To carve a formless statue\n@Chuyên ngành kinh tế\n-shape"
+        "dict_definition": "@hì hà hì hục\n-Be absorbed in, be engrossed in, be wrapped up in\n=Hì hục cuốc đất xới cỏ suốt ngày ngoài vườn\n+To be absorbed in hoeing and weeding the whole day in the garden\n=\n+ì hà hì hục (láy, ý tăng)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình thù\n- (thường nghĩa xấu) như hình dạng\n=Nặn pho tượng chẳng ra hình thù gì cả+To carve a formless statue"
+        "dict_definition": "@hì hà hì hục\n- Be absorbed in, be engrossed in, be wrapped up in\n=Hì hục cuốc đất xới cỏ suốt ngày ngoài vườn+To be absorbed in hoeing and weeding the whole day in the garden\n=Hì hà hì hục (láy, ý tăng)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be absorbed in, be engrossed in, be wrapped up in"
       }
     ]
   },
   {
-    "word": "hình dáng miếng bơ",
+    "word": "hì hục",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ gợi tả dáng vẻ cặm cụi làm việc gì một cách vất vả\nVí dụ:\n- nó hì hục làm cả buổi \n - hì hục từ sáng đến chiều"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-butter mould"
+        "dict_definition": "@hì hục [hì hục]\n-with zeal, zealously; give oneself up to, surrender oneself wholly; take a great interest in something"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "with zeal, zealously, give oneself up to, surrender oneself"
       }
     ]
   },
   {
-    "word": "hình thức hoá",
+    "word": "hình thức chi tiết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình thức hoá\n-Formalize"
+        "dict_definition": "@Chuyên ngành kinh tế\n-long form"
+      }
+    ]
+  },
+  {
+    "word": "hình lập phương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình hộp có sáu mặt đều là hình vuông"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình lập phương\n-Cube"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình thức hoá\n- Formalize"
+        "dict_definition": "@hình lập phương\n- Cube"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cube"
+      }
+    ]
+  },
+  {
+    "word": "hình mẫu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cái dùng làm mẫu để phỏng theo, noi theo\nVí dụ:\n- đưa ra hình mẫu loại máy tính bỏ túi \n - làm theo đúng hình mẫu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình mẫu\n-Model"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình mẫu\n- Model"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "model"
+      }
+    ]
+  },
+  {
+    "word": "hình bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình bộ [hình bộ]\n-(từ cũ; nghĩa cũ) Ministry of Justice"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ministry of justice"
+      }
+    ]
+  },
+  {
+    "word": "hình khổ sai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hard labour"
+      }
+    ]
+  },
+  {
+    "word": "hình thức truyền thống của kế toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-historical-cost accounting"
+      }
+    ]
+  },
+  {
+    "word": "hình thức nhu cầu đảo ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inverse demand pattern"
+      }
+    ]
+  },
+  {
+    "word": "hình chóp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đa diện có một mặt [mặt đáy] là một đa giác, còn các mặt khác [mặt bên] đều là các tam giác có cùng chung một đỉnh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình chóp [hình chóp]\n-Pyramid."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pyramid"
+      }
+    ]
+  },
+  {
+    "word": "hình vuông",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình chữ nhật có hai cạnh kề bằng nhau [do đó có bốn cạnh bằng nhau]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình vuông [hình vuông]\n-Square.\n@Chuyên ngành kinh tế\n-square"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "square"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh sản phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-product image"
+      }
+    ]
+  },
+  {
+    "word": "hình thức chủ nghiã",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thức chủ nghiã\n-Formalistic"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình thức chủ nghiã\n- Formalistic"
+      }
+    ]
+  },
+  {
+    "word": "hình nổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình nổi\n-Relief\n=Bản đồ hình nổi\n+A relief map"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình nổi\n- Relief\n=Bản đồ hình nổi+A relief map"
       }
     ]
   },
@@ -441,98 +587,11 @@
     ]
   },
   {
-    "word": "hình vẽ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp các đường nét, mảng màu theo những nguyên tắc hội hoạ nhất định trên mặt phẳng, phản ánh hình dạng một vật thể nào đó trong tự nhiên"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "figure, diagram, picture, illustration"
-      }
-    ]
-  },
-  {
-    "word": "hình thức bảng cân đối kế toán",
+    "word": "hình thức tài khoản kép của bảng tổng kết tài sản",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-account form\n-account form (account model)"
-      }
-    ]
-  },
-  {
-    "word": "hình thức được phát hành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-release form"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh cửa hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-store image"
-      }
-    ]
-  },
-  {
-    "word": "hình thang",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tứ giác lồi có hai cạnh song song [gọi là hai đáy; thường chỉ trường hợp hai cạnh song song này không bằng nhau]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình thang\n-Trapezium\n@Chuyên ngành kinh tế\n-trapezoid"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình thang\n- Trapezium"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "trapezium"
-      }
-    ]
-  },
-  {
-    "word": "hình thành",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nảy sinh và bắt đầu tồn tại như một thực thể\nVí dụ:\n- một nếp sống mới đang dần được hình thành"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình thành [hình thành]\n-to take form/shape;  to come into being"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take form or shape, come into being"
-      }
-    ]
-  },
-  {
-    "word": "hình khổ sai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hard labour"
-      }
-    ]
-  },
-  {
-    "word": "hì hụi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng vẻ cặm cụi làm việc gì một cách khó nhọc, kiên nhẫn\nVí dụ:\n- hì hụi đào xới"
+        "dict_definition": "@Chuyên ngành kinh tế\n-double account form of balance sheet"
       }
     ]
   },
@@ -562,6 +621,186 @@
     ]
   },
   {
+    "word": "hình thành",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nảy sinh và bắt đầu tồn tại như một thực thể\nVí dụ:\n- một nếp sống mới đang dần được hình thành"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thành [hình thành]\n-to take form/shape;  to come into being"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take form or shape, come into being"
+      }
+    ]
+  },
+  {
+    "word": "hình học giải tích",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngành toán học nghiên cứu các đối tượng hình học bằng công cụ của đại số, dựa trên cơ sở phương pháp toạ độ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình học giải tích [hình học giải tích]\n-coordinate geometry;  analytic geometry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "coordinate geometry, analytic"
+      }
+    ]
+  },
+  {
+    "word": "hình phẳng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình nằm trọn trong một mặt phẳng"
+      }
+    ]
+  },
+  {
+    "word": "hì hụp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lặn xuống rồi lại ngoi lên nhiều lần"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hì hụp [hì hụp]\n-swim up and down"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "swim up and down"
+      }
+    ]
+  },
+  {
+    "word": "hình dáng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình của một vật làm thành vẻ riêng bên ngoài của nó\nVí dụ:\n- hình dáng tiều tuỵ \n - hình dáng ngôi nhà"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hình dáng\n- dt Vẻ bề ngoài: Anh ấy có hình dáng vạm vỡ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình dáng\n*noun\n-figure, stature\n@Chuyên ngành kinh tế\n-conformation\n-figure\n-form\n-mould"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình dáng\n* noun\n- figure, stature"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "figure, stature"
+      }
+    ]
+  },
+  {
+    "word": "hình thức tính trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pro forma"
+      }
+    ]
+  },
+  {
+    "word": "hình thái học",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoa học nghiên cứu về hình dạng bên ngoài của sinh vật"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ môn ngôn ngữ học chuyên nghiên cứu về cấu tạo từ và những biến đổi về hình thức của từ trong câu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thái học [hình thái học]\n-morphology"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "morphology"
+      }
+    ]
+  },
+  {
+    "word": "hình hài",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thân thể con người"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình hài\n-Body, physical being"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình hài\n- Body, physical being"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "body, physical being"
+      }
+    ]
+  },
+  {
+    "word": "hình tượng công ty",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-company image"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh trong sách báo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-artwork"
+      }
+    ]
+  },
+  {
+    "word": "hình cụ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đồ dùng để tra tấn, xử phạt các tội nhân, như gông cùm, kìm kẹp, máy chém, v.v."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình cụ [hình cụ]\n-(từ cũ; nghĩa cũ) Instruments of stature."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "instruments of stature"
+      }
+    ]
+  },
+  {
+    "word": "hình thức tài khoản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-account form"
+      }
+    ]
+  },
+  {
     "word": "hì hì",
     "definitions": [
       {
@@ -571,28 +810,161 @@
     ]
   },
   {
-    "word": "hình pháp",
+    "word": "hình học euclid",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình pháp [hình pháp]\n-penal"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình học dựa trên tiên đề Euclid về đường song song, thừa nhận rằng qua một điểm ở ngoài một đường thẳng cho trước, chỉ kẻ được duy nhất một đường thẳng song song với đường thẳng đã cho"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "penal"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình học dựa trên tiên đề Euclid về đường song song, thừa nhận rằng qua một điểm ở ngoài một đường thẳng cho trước, chỉ kẻ được duy nhất một đường thẳng song song với đường thẳng đã cho"
       }
     ]
   },
   {
-    "word": "hình dong",
+    "word": "hình họa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình dong\n-(từ cũ; nghĩa cũ) apperance, outward look\n=Hình dung chải chuốt\n+A wellgroomed appearance, a spruce appearance\n-See in one\"s mind\"s eye, imagine, picture to oneself\n=Không cần giàu trí tưởng tượng cũng hình dung được cuộc sống phong phú trong xã hội tương lai\n+It does not take a very rich imagination to picture to oneself what llife in the future society of mankind will be like"
+        "dict_definition": "@hình họa\n-Drawing"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình dong\n- (từ cũ; nghĩa cũ) apperance, outward look\n=Hình dung chải chuốt+A wellgroomed appearance, a spruce appearance\n-See in one's mind's eye, imagine, picture to oneself\n=Không cần giàu trí tưởng tượng cũng hình dung được cuộc sống phong phú trong xã hội tương lai+It does not take a very rich imagination to picture to oneself what llife in the future society of mankind will be like"
+        "dict_definition": "@hình họa\n- Drawing"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "drawing"
+      }
+    ]
+  },
+  {
+    "word": "hình hươu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Hình Hươu\n- Sử ký: Triệu Cao muốn làm phản nhưng sợ các quan không nghe nên trước tiên phải thử. Y dâng Nhị Thế (Vua Tần) một con hươu mà bảo đó là con ngựa, Nhị Thế cười nói: \"Thừa tướng lầm đấy chứ, sao gọi con hươu là con ngựa ?\" Nhị Thế hỏi các quan xung quanh. Mọi người sợ phải im lặng. Có người nói là ngựa để vừa lòng Triệu Cao, cũng có người nói là hươu. Nhân đấy, Cao để ý những người nào nói là hươu để dùng pháp luật trị tội"
+      }
+    ]
+  },
+  {
+    "word": "hình thức bề ngoài",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "external dimensions"
+      }
+    ]
+  },
+  {
+    "word": "hình vành khăn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần mặt phẳng nằm giữa hai đường tròn phân biệt cùng tâm"
+      }
+    ]
+  },
+  {
+    "word": "hình chữ chi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-zigzag"
+      }
+    ]
+  },
+  {
+    "word": "hình trái xoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-oval"
+      }
+    ]
+  },
+  {
+    "word": "hình vành cung",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "crescent-shaped"
+      }
+    ]
+  },
+  {
+    "word": "hình bánh kem xốp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-wafer plate"
+      }
+    ]
+  },
+  {
+    "word": "hình thức hoá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thức hoá\n-Formalize"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình thức hoá\n- Formalize"
+      }
+    ]
+  },
+  {
+    "word": "hình chữ nhật",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình bình hành có một góc là góc vuông [do đó bốn góc là góc vuông]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình chữ nhật [hình chữ nhật]\n-rectangle\n@Chuyên ngành kinh tế\n-rectangle"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rectangle"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh khiêu dâm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pornographic pictures"
+      }
+    ]
+  },
+  {
+    "word": "hình dáng thỏi socola",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-chocolate mould"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh trung thực và xác đáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-true and fair view"
+      }
+    ]
+  },
+  {
+    "word": "hình thức cấm làm thêm giờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-overtime ban"
       }
     ]
   },
@@ -618,177 +990,80 @@
     ]
   },
   {
-    "word": "hình như",
+    "word": "hình chóp cụt",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý phỏng đoán một cách dè dặt, dựa trên những gì trực tiếp cảm thấy được\nVí dụ:\n- trông quen quen, hình như đã gặp ở đâu rồi \n - hình như anh ấy bị ốm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hình như\n- Tổ hợp biểu thị ý phỏng đoán một cách dè dặt, dựa trên những gì trực tiếp cảm thấy được; dường như. Trông quen quen, hình như đã có gặp."
+        "dict_definition": "khối tạo nên do cắt cụt một hình chóp bằng một mặt phẳng song song với mặt đáy và không đi qua đỉnh"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình như\n*verb\n-to seem ; to appear"
+        "dict_definition": "@hình chóp cụt [hình chóp cụt]\n-frustum (of pyramid)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "frustum (of pyramid)"
+      }
+    ]
+  },
+  {
+    "word": "hình sao sáu góc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-solomon\"s seal"
+      }
+    ]
+  },
+  {
+    "word": "hình vị",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đơn vị ngôn ngữ nhỏ nhất có nghĩa\nVí dụ:\n- từ ''cô giáo'' có hai hình vị"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình vị [hình vị]\n-(ngôn ngữ học) morpheme"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "morpheme"
+      }
+    ]
+  },
+  {
+    "word": "hình thức chủ nghĩa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có tính chất của chủ nghĩa hình thức, theo chủ nghĩa hình thức"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "formalistic"
+      }
+    ]
+  },
+  {
+    "word": "hình dong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình dong\n-(từ cũ; nghĩa cũ) apperance, outward look\n=Hình dung chải chuốt\n+A wellgroomed appearance, a spruce appearance\n-See in one\"s mind\"s eye, imagine, picture to oneself\n=Không cần giàu trí tưởng tượng cũng hình dung được cuộc sống phong phú trong xã hội tương lai\n+It does not take a very rich imagination to picture to oneself what llife in the future society of mankind will be like"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình như\n* verb\n- to seem ; to appear"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to seem, appear; it seems, seemingly"
+        "dict_definition": "@hình dong\n- (từ cũ; nghĩa cũ) apperance, outward look\n=Hình dung chải chuốt+A wellgroomed appearance, a spruce appearance\n-See in one's mind's eye, imagine, picture to oneself\n=Không cần giàu trí tưởng tượng cũng hình dung được cuộc sống phong phú trong xã hội tương lai+It does not take a very rich imagination to picture to oneself what llife in the future society of mankind will be like"
       }
     ]
   },
   {
-    "word": "hình bình hành",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tứ giác có hai cặp cạnh song song [thường được hiểu là không có góc vuông và hai cạnh kề không bằng nhau]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình bình hành [hình bình hành]\n-parallelogram; ellipsoidal"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "parallelogram, ellipsoidal"
-      }
-    ]
-  },
-  {
-    "word": "hình chìm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình hoa văn nhìn thấy khi soi giấy qua ánh sáng"
-      }
-    ]
-  },
-  {
-    "word": "hình trụ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khối tạo nên do cắt một mặt trụ bằng hai mặt phẳng song song"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình trụ\n-Cylinder\n@Chuyên ngành kinh tế\n-cylinder\n-settling drum"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình trụ\n- Cylinder"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cylinder"
-      }
-    ]
-  },
-  {
-    "word": "hình viên phân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần của hình tròn giới hạn bởi một cung và dây cung của nó"
-      }
-    ]
-  },
-  {
-    "word": "hình phạt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình thức trừng trị tương xứng dành cho kẻ phạm tội\nVí dụ:\n- khung hình phạt"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình phạt\n-Punishment, penalty\n=Hình phạt xứng đáng với tội\n+A punishment suitable to thr offence\n@Chuyên ngành kinh tế\n-penalty"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình phạt\n- Punishment, penalty\n=Hình phạt xứng đáng với tội+A punishment suitable to thr offence"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "penalty"
-      }
-    ]
-  },
-  {
-    "word": "hình thang (ký mã hiệu xếp chở hàng)",
+    "word": "hình hàng rào: #",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trapezoid"
-      }
-    ]
-  },
-  {
-    "word": "hình tượng công ty",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-company image"
-      }
-    ]
-  },
-  {
-    "word": "hình tròn xoay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình được tạo ra bằng cách cho một hình quay quanh một trục cố định"
-      }
-    ]
-  },
-  {
-    "word": "hình thể",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "toàn thể nói chung những đường nét bên ngoài\nVí dụ:\n- tập luyện để có hình thể đẹp"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hình thể\n- dt. Hình dáng bên ngoài nói chung: Cô gái có hình thể cân đối  hình thể khúc khuỷu của bờ biển."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình thể\n*noun\n-form; figue; conformation; likeness"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình thể\n* noun\n- form; figue; conformation; likeness"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "form, figure, likeness, composition"
-      }
-    ]
-  },
-  {
-    "word": "hình sự",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "việc trừng trị những tội xâm phạm nghiêm trọng đến an ninh quốc gia, trật tự xã hội [nói khái quát]\nVí dụ:\n- bộ luật hình sự \n - án hình sự \n - tội phạm hình sự"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình sự\n-(từ cũ; nghĩa cũ) Criminnal affairs"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình sự\n- (từ cũ; nghĩa cũ) Criminnal affairs"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "criminal affairs"
+        "dict_definition": "@Chuyên ngành kinh tế\n-diamond with crossed ends"
       }
     ]
   },
@@ -830,128 +1105,11 @@
     ]
   },
   {
-    "word": "hình chóp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đa diện có một mặt [mặt đáy] là một đa giác, còn các mặt khác [mặt bên] đều là các tam giác có cùng chung một đỉnh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình chóp [hình chóp]\n-Pyramid."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pyramid"
-      }
-    ]
-  },
-  {
-    "word": "hình thức phát hành",
+    "word": "hình trái tiền mặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-release form"
-      }
-    ]
-  },
-  {
-    "word": "hình vẽ chi tiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-detailed drawing"
-      }
-    ]
-  },
-  {
-    "word": "hình nhi thượng học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình nhi thượng học\n-(từ cũ; nghĩa cũ) Metaphysics"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình nhi thượng học\n- (từ cũ; nghĩa cũ) Metaphysics"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "metaphysics"
-      }
-    ]
-  },
-  {
-    "word": "hình thái giá trị giản đơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-simple form of value"
-      }
-    ]
-  },
-  {
-    "word": "hình học hoạ hình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ môn hình học nghiên cứu các phương pháp biểu diễn các hình không gian trên mặt phẳng và giải các bài toán không gian trên mặt phẳng nhờ các phép biểu diễn đó"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình học hoạ hình [hình học hoạ hình]\n-descriptive geometry"
-      }
-    ]
-  },
-  {
-    "word": "hình bầu dục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình trông giống như hình quả trứng gà\nVí dụ:\n- đĩa hình bầu dục \n - hồ nước xây theo hình bầu dục"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tên gọi thông thường của ellipse"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình bầu dục [hình bầu dục]\n-oval"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "oval"
-      }
-    ]
-  },
-  {
-    "word": "hình sao sáu góc (ký mã hiệu xếp chở hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-solomon\"s seal"
-      }
-    ]
-  },
-  {
-    "word": "hình mầu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "color picture, image"
-      }
-    ]
-  },
-  {
-    "word": "hình học euclid",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình học dựa trên tiên đề Euclid về đường song song, thừa nhận rằng qua một điểm ở ngoài một đường thẳng cho trước, chỉ kẻ được duy nhất một đường thẳng song song với đường thẳng đã cho"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình học dựa trên tiên đề Euclid về đường song song, thừa nhận rằng qua một điểm ở ngoài một đường thẳng cho trước, chỉ kẻ được duy nhất một đường thẳng song song với đường thẳng đã cho"
+        "dict_definition": "@Chuyên ngành kinh tế\n-heart"
       }
     ]
   },
@@ -977,217 +1135,6 @@
     ]
   },
   {
-    "word": "hình thức hóa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "formalize"
-      }
-    ]
-  },
-  {
-    "word": "hình hoạ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thể loại hội hoạ, vẽ một vật có thực trước mắt; phân biệt với tranh"
-      }
-    ]
-  },
-  {
-    "word": "hình nộm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình người giả, thường được làm vật để tượng trưng, thay thế cho một kẻ xấu\nVí dụ:\n- đốt hình nộm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình nộm\n-Effigy, dummy\n=Đốt hình nộm\n+To burn somebody ion effigy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình nộm\n- Effigy, dummy\n=Đốt hình nộm+To burn somebody ion effigy"
-      }
-    ]
-  },
-  {
-    "word": "hình mẫu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cái dùng làm mẫu để phỏng theo, noi theo\nVí dụ:\n- đưa ra hình mẫu loại máy tính bỏ túi \n - làm theo đúng hình mẫu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình mẫu\n-Model"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình mẫu\n- Model"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "model"
-      }
-    ]
-  },
-  {
-    "word": "hình họa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình họa\n-Drawing"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình họa\n- Drawing"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "drawing"
-      }
-    ]
-  },
-  {
-    "word": "hình thái tư tưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ideology"
-      }
-    ]
-  },
-  {
-    "word": "hình dung",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tưởng tượng ra trong trí một cách khá rõ nét\nVí dụ:\n- hình dung lại nét mặt của người bạn cũ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hình dung\n- I. dt. Hình thức bên ngoài của con người: Hình dung chải chuốt áo quần bảnh bao. II. đgt. Tưởng tượng ra trong trí một cách khá rõ nét: hình dung ra khuôn mặt của người đồng chí đã hi sinh  không thể hình dung nổi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình dung\n*noun\n-appearance*verb\n-to figure; to imagine\n@Chuyên ngành kinh tế\n-image"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình dung\n* noun\n- appearance\n* verb\n- to figure; to imagine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to picture, visualize"
-      }
-    ]
-  },
-  {
-    "word": "hình vẽ trên bánh kem",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-piping"
-      }
-    ]
-  },
-  {
-    "word": "hình dáng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình của một vật làm thành vẻ riêng bên ngoài của nó\nVí dụ:\n- hình dáng tiều tuỵ \n - hình dáng ngôi nhà"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hình dáng\n- dt Vẻ bề ngoài: Anh ấy có hình dáng vạm vỡ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình dáng\n*noun\n-figure, stature\n@Chuyên ngành kinh tế\n-conformation\n-figure\n-form\n-mould"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình dáng\n* noun\n- figure, stature"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "figure, stature"
-      }
-    ]
-  },
-  {
-    "word": "hình dạng của một vật",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the form of an object"
-      }
-    ]
-  },
-  {
-    "word": "hình dạng cũ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "former appearance"
-      }
-    ]
-  },
-  {
-    "word": "hình hài",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thân thể con người"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình hài\n-Body, physical being"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình hài\n- Body, physical being"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "body, physical being"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh nhãn hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-brand image\n-public image"
-      }
-    ]
-  },
-  {
-    "word": "hình thức kế toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-account form (account model)"
-      }
-    ]
-  },
-  {
-    "word": "hình tam giác",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem tam giác"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình tam giác [hình tam giác]\n-triangle\n-triangular\n@Chuyên ngành kinh tế\n-triangle"
-      }
-    ]
-  },
-  {
     "word": "hình thoi",
     "definitions": [
       {
@@ -1205,156 +1152,11 @@
     ]
   },
   {
-    "word": "hình ảnh sản phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-product image"
-      }
-    ]
-  },
-  {
-    "word": "hình thức tính trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pro forma"
-      }
-    ]
-  },
-  {
-    "word": "hình thức tài khoản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-account form"
-      }
-    ]
-  },
-  {
-    "word": "hình tam giác giao thoa (a) (ký mã hiệu chở hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-crossed triangles"
-      }
-    ]
-  },
-  {
-    "word": "hình chữ vạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-swastika"
-      }
-    ]
-  },
-  {
-    "word": "hình sao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-star"
-      }
-    ]
-  },
-  {
-    "word": "hình cầu",
+    "word": "hình quạt tròn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần không gian giới hạn bởi một mặt cầu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình cầu [hình cầu]\n-Sphere."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sphere"
-      }
-    ]
-  },
-  {
-    "word": "hình thành vốn ròng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-net capital formation"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh trong sách báo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-artwork"
-      }
-    ]
-  },
-  {
-    "word": "hình hươu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Hình Hươu\n- Sử ký: Triệu Cao muốn làm phản nhưng sợ các quan không nghe nên trước tiên phải thử. Y dâng Nhị Thế (Vua Tần) một con hươu mà bảo đó là con ngựa, Nhị Thế cười nói: \"Thừa tướng lầm đấy chứ, sao gọi con hươu là con ngựa ?\" Nhị Thế hỏi các quan xung quanh. Mọi người sợ phải im lặng. Có người nói là ngựa để vừa lòng Triệu Cao, cũng có người nói là hươu. Nhân đấy, Cao để ý những người nào nói là hươu để dùng pháp luật trị tội"
-      }
-    ]
-  },
-  {
-    "word": "hình tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình tích [hình tích]\n-trace, imprint."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "trace, imprint"
-      }
-    ]
-  },
-  {
-    "word": "hì hụp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lặn xuống rồi lại ngoi lên nhiều lần"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hì hụp [hì hụp]\n-swim up and down"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "swim up and down"
-      }
-    ]
-  },
-  {
-    "word": "hình bóng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình ảnh không rõ nét\nVí dụ:\n- hình bóng tuổi thơ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình bóng [hình bóng]\n-Silhouette."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "silhouette"
-      }
-    ]
-  },
-  {
-    "word": "hình tượng (nhãn hiệu) của công ty",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-corporate image"
+        "dict_definition": "phần hình tròn được giới hạn bởi hai bán kính"
       }
     ]
   },
@@ -1368,179 +1170,107 @@
     ]
   },
   {
-    "word": "hình chóp cụt",
+    "word": "hình thang (ký mã hiệu xếp chở hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trapezoid"
+      }
+    ]
+  },
+  {
+    "word": "hình dáng miếng bơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-butter mould"
+      }
+    ]
+  },
+  {
+    "word": "hình hoạ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khối tạo nên do cắt cụt một hình chóp bằng một mặt phẳng song song với mặt đáy và không đi qua đỉnh"
+        "dict_definition": "thể loại hội hoạ, vẽ một vật có thực trước mắt; phân biệt với tranh"
+      }
+    ]
+  },
+  {
+    "word": "hình bầu dục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình trông giống như hình quả trứng gà\nVí dụ:\n- đĩa hình bầu dục \n - hồ nước xây theo hình bầu dục"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tên gọi thông thường của ellipse"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình chóp cụt [hình chóp cụt]\n-frustum (of pyramid)"
+        "dict_definition": "@hình bầu dục [hình bầu dục]\n-oval"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "frustum (of pyramid)"
+        "dict_definition": "oval"
       }
     ]
   },
   {
-    "word": "hình học phẳng",
+    "word": "hình thức được phát hành",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ môn hình học nghiên cứu các tính chất của các hình nằm trong cùng một mặt phẳng"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@hình học phẳng [hình học phẳng]\n-plane geometry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "plane geometry"
+        "dict_definition": "@Chuyên ngành kinh tế\n-release form"
       }
     ]
   },
   {
-    "word": "hình học không gian",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ môn hình học nghiên cứu các tính chất của các hình trong không gian"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình học không gian [hình học không gian]\n-three-dimensional geometry;  solid geometry"
-      }
-    ]
-  },
-  {
-    "word": "hình vuông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình chữ nhật có hai cạnh kề bằng nhau [do đó có bốn cạnh bằng nhau]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình vuông [hình vuông]\n-Square.\n@Chuyên ngành kinh tế\n-square"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "square"
-      }
-    ]
-  },
-  {
-    "word": "hình bánh kem xốp",
+    "word": "hình trạng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-wafer plate"
-      }
-    ]
-  },
-  {
-    "word": "hình chiếu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình thu được từ một hình khác qua phép chiếu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình chiếu [hình chiếu]\n-projection"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "projection"
-      }
-    ]
-  },
-  {
-    "word": "hình lập phương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình hộp có sáu mặt đều là hình vuông"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình lập phương\n-Cube"
+        "dict_definition": "@hình trạng\n-Outward aspect (of things)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình lập phương\n- Cube"
+        "dict_definition": "@hình trạng\n- Outward aspect (of things)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "cube"
+        "dict_definition": "outward aspect (of things)"
       }
     ]
   },
   {
-    "word": "hình phẳng",
+    "word": "hình nhi thượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình nhi thượng [hình nhi thượng]\n-abstract, spirit"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "abstract, spirit"
+      }
+    ]
+  },
+  {
+    "word": "hình viên phân",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình nằm trọn trong một mặt phẳng"
+        "dict_definition": "phần của hình tròn giới hạn bởi một cung và dây cung của nó"
       }
     ]
   },
   {
-    "word": "hình thành vốn",
+    "word": "hình vẽ chi tiết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-capital accumulation"
-      }
-    ]
-  },
-  {
-    "word": "hì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng cười phát ra đằng mũi\nVí dụ:\n- cười hì hì"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hì\n-Hee-haw\n=Chợt nghe tiếng hì ở đâu\n+To suddenly hear a hee-haw from somewhere\n=\n+ì hì (láy, ý liên tiếp)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hì\n- Hee-haw\n=Chợt nghe tiếng hì ở đâu+To suddenly hear a hee-haw from somewhere\n=Hì hì (láy, ý liên tiếp)"
-      }
-    ]
-  },
-  {
-    "word": "hình thức bệnh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "symptom (of an illness, disease)"
-      }
-    ]
-  },
-  {
-    "word": "hình bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình bộ [hình bộ]\n-(từ cũ; nghĩa cũ) Ministry of Justice"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ministry of justice"
-      }
-    ]
-  },
-  {
-    "word": "hình dáng thỏi socola",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-chocolate mould"
+        "dict_definition": "@Chuyên ngành kinh tế\n-detailed drawing"
       }
     ]
   },
@@ -1562,421 +1292,50 @@
     ]
   },
   {
-    "word": "hình thái kinh tế - xã hội",
+    "word": "hình tượng (nhãn hiệu) của công ty",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-corporate image"
+      }
+    ]
+  },
+  {
+    "word": "hình thái tư tưởng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ideology"
+      }
+    ]
+  },
+  {
+    "word": "hình tam giác đều",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "equilateral triangle"
+      }
+    ]
+  },
+  {
+    "word": "hình sự",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kiểu xã hội ở một giai đoạn nhất định trong quá trình phát triển của lịch sử, có một chế độ kinh tế nhất định và kiến trúc thượng tầng thích ứng với chế độ kinh tế ấy"
-      }
-    ]
-  },
-  {
-    "word": "hình đồng dạng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình đồng dạng [hình đồng dạng]\n-similar shapes"
+        "dict_definition": "việc trừng trị những tội xâm phạm nghiêm trọng đến an ninh quốc gia, trật tự xã hội [nói khái quát]\nVí dụ:\n- bộ luật hình sự \n - án hình sự \n - tội phạm hình sự"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "similar shapes"
-      }
-    ]
-  },
-  {
-    "word": "hình thức chủ nghiã",
-    "definitions": [
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@hình thức chủ nghiã\n-Formalistic"
+        "dict_definition": "@hình sự\n-(từ cũ; nghĩa cũ) Criminnal affairs"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình thức chủ nghiã\n- Formalistic"
-      }
-    ]
-  },
-  {
-    "word": "hì hục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả dáng vẻ cặm cụi làm việc gì một cách vất vả\nVí dụ:\n- nó hì hục làm cả buổi \n - hì hục từ sáng đến chiều"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hì hục [hì hục]\n-with zeal, zealously; give oneself up to, surrender oneself wholly; take a great interest in something"
+        "dict_definition": "@hình sự\n- (từ cũ; nghĩa cũ) Criminnal affairs"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "with zeal, zealously, give oneself up to, surrender oneself"
-      }
-    ]
-  },
-  {
-    "word": "hình mẫu và kiểu cách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pattern"
-      }
-    ]
-  },
-  {
-    "word": "hình cảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình cảnh [hình cảnh]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "hình khỏa thân",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nude pictures"
-      }
-    ]
-  },
-  {
-    "word": "hình chữ thập (+)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cross"
-      }
-    ]
-  },
-  {
-    "word": "hình chữ chi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-zigzag"
-      }
-    ]
-  },
-  {
-    "word": "hình vành khăn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần mặt phẳng nằm giữa hai đường tròn phân biệt cùng tâm"
-      }
-    ]
-  },
-  {
-    "word": "hình hột xoàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-diamond"
-      }
-    ]
-  },
-  {
-    "word": "hình khối",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đường và mặt bao quanh một vật, tạo nên hình dạng một vật thể nào đó"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình khối [hình khối]\n-cube"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cube"
-      }
-    ]
-  },
-  {
-    "word": "hình hộp chữ nhật",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình hộp có tất cả các mặt là hình chữ nhật"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình hộp chữ nhật [hình hộp chữ nhật]\n-rectangular parallelepiped"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rectangular parallelepiped"
-      }
-    ]
-  },
-  {
-    "word": "hình người",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "outline or image of a person, silhouette"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh mặt hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-line image"
-      }
-    ]
-  },
-  {
-    "word": "hình vị",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị ngôn ngữ nhỏ nhất có nghĩa\nVí dụ:\n- từ ''cô giáo'' có hai hình vị"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình vị [hình vị]\n-(ngôn ngữ học) morpheme"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "morpheme"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh lưu động",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "moving pictures"
-      }
-    ]
-  },
-  {
-    "word": "hình dung từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình dung từ\n-(từ cũ; nghĩa cũ) (như tính từ) Adjective"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình dung từ\n- (từ cũ; nghĩa cũ) (như tính từ) Adjective"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "adjective"
-      }
-    ]
-  },
-  {
-    "word": "hình thức sổ chi thu hàng ngày (của bảng quyết toán)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-running account\n-running account form"
-      }
-    ]
-  },
-  {
-    "word": "hình thức tiền lương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-wage form"
-      }
-    ]
-  },
-  {
-    "word": "hình lục giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hexagon"
-      }
-    ]
-  },
-  {
-    "word": "hình mạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình mạo [hình mạo]\n-face, appearance, countenance"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "face, appearance, countenance"
-      }
-    ]
-  },
-  {
-    "word": "hình thức nhu cầu đảo ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inverse demand pattern"
-      }
-    ]
-  },
-  {
-    "word": "hình trái xoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-oval"
-      }
-    ]
-  },
-  {
-    "word": "hình luật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình luật\n-Penal laws\n@Chuyên ngành kinh tế\n-criminal law"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình luật\n- Penal laws"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "penal code, criminal law"
-      }
-    ]
-  },
-  {
-    "word": "hình thái vô danh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bearer form"
-      }
-    ]
-  },
-  {
-    "word": "hình vành cung",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crescent-shaped"
-      }
-    ]
-  },
-  {
-    "word": "hình tượng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sự phản ánh hiện thực một cách khái quát bằng nghệ thuật dưới hình thức những hiện tượng cụ thể, sinh động, điển hình, nhận thức trực tiếp bằng cảm tính\nVí dụ:\n- hình tượng văn học"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình tượng\n-Image, simile\n=văn phong giàu hình tượng\n+A style rich in images (simile)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình tượng\n- Image, simile\n=văn phong giàu hình tượng+A style rich in images (simile)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "image, likeness, icon, figure"
-      }
-    ]
-  },
-  {
-    "word": "hình chữ nhật",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình bình hành có một góc là góc vuông [do đó bốn góc là góc vuông]"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình chữ nhật [hình chữ nhật]\n-rectangle\n@Chuyên ngành kinh tế\n-rectangle"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rectangle"
-      }
-    ]
-  },
-  {
-    "word": "hình nhi hạ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngành triết học chuyên nghiên cứu những vật cụ thể, có hình dạng; phân biệt với hình nhi thượng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình nhi hạ [hình nhi hạ]\n-concrete; matter, substance"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "concrete, matter, substance"
-      }
-    ]
-  },
-  {
-    "word": "hình vẽ quảng cáo trên thân xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dash sign"
-      }
-    ]
-  },
-  {
-    "word": "hình thái học",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoa học nghiên cứu về hình dạng bên ngoài của sinh vật"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bộ môn ngôn ngữ học chuyên nghiên cứu về cấu tạo từ và những biến đổi về hình thức của từ trong câu"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình thái học [hình thái học]\n-morphology"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "morphology"
-      }
-    ]
-  },
-  {
-    "word": "hình thức chủ nghĩa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có tính chất của chủ nghĩa hình thức, theo chủ nghĩa hình thức"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "formalistic"
-      }
-    ]
-  },
-  {
-    "word": "hình ảnh trung thực và xác đáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-true and fair view"
-      }
-    ]
-  },
-  {
-    "word": "hình thức kế toán phí tổn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-type of cost accounting"
+        "dict_definition": "criminal affairs"
       }
     ]
   },
@@ -1990,80 +1349,140 @@
     ]
   },
   {
-    "word": "hình học họa hình",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "descriptive geometry"
-      }
-    ]
-  },
-  {
-    "word": "hình thức chi tiết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-long form"
-      }
-    ]
-  },
-  {
-    "word": "hình học giải tích",
+    "word": "hình cầu phân",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngành toán học nghiên cứu các đối tượng hình học bằng công cụ của đại số, dựa trên cơ sở phương pháp toạ độ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình học giải tích [hình học giải tích]\n-coordinate geometry;  analytic geometry"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "coordinate geometry, analytic"
+        "dict_definition": "phần hình cầu nằm giữa hai mặt phẳng song song"
       }
     ]
   },
   {
-    "word": "hình đối xứng",
+    "word": "hình chữ thập (+)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hình đối xứng [hình đối xứng]\n-symmetrical figure"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "symmetrical figure"
+        "dict_definition": "@Chuyên ngành kinh tế\n-cross"
       }
     ]
   },
   {
-    "word": "hình án",
+    "word": "hì",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@hình án [hình án]\n-criminal case"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng cười phát ra đằng mũi\nVí dụ:\n- cười hì hì"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "criminal case"
-      }
-    ]
-  },
-  {
-    "word": "hình trạng",
-    "definitions": [
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@hình trạng\n-Outward aspect (of things)"
+        "dict_definition": "@hì\n-Hee-haw\n=Chợt nghe tiếng hì ở đâu\n+To suddenly hear a hee-haw from somewhere\n=\n+ì hì (láy, ý liên tiếp)"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hình trạng\n- Outward aspect (of things)"
+        "dict_definition": "@hì\n- Hee-haw\n=Chợt nghe tiếng hì ở đâu+To suddenly hear a hee-haw from somewhere\n=Hì hì (láy, ý liên tiếp)"
+      }
+    ]
+  },
+  {
+    "word": "hình thái giá trị giản đơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-simple form of value"
+      }
+    ]
+  },
+  {
+    "word": "hình mầu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "color picture, image"
+      }
+    ]
+  },
+  {
+    "word": "hình tròn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần mặt phẳng giới hạn bởi một đường tròn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình tròn\n-Circle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình tròn\n- Circle"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "outward aspect (of things)"
+        "dict_definition": "circle"
+      }
+    ]
+  },
+  {
+    "word": "hình tam giác",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem tam giác"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình tam giác [hình tam giác]\n-triangle\n-triangular\n@Chuyên ngành kinh tế\n-triangle"
+      }
+    ]
+  },
+  {
+    "word": "hình thế",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình dáng mặt đất\nVí dụ:\n- hình thế non sông \n - chọn chỗ có hình thế đẹp để xây nhà"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tình hình chính trị hoặc quân sự có những nét đặc biệt nào đó\nVí dụ:\n- hình thế chiến tranh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thế\n-Complexion, general aspect\n=Một chiến thắng đã thay đổi hình thể chiến tranh\n+A victory that changed the complexion of the war\n-Topography, terrain\n=Hình thể sông núi\n+River and mountain topography"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình thế\n- Complexion, general aspect\n=Một chiến thắng đã thay đổi hình thể chiến tranh+A victory that changed the complexion of the war\n-Topography, terrain\n=Hình thể sông núi+River and mountain topography"
+      }
+    ]
+  },
+  {
+    "word": "hình thái kinh tế - xã hội",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kiểu xã hội ở một giai đoạn nhất định trong quá trình phát triển của lịch sử, có một chế độ kinh tế nhất định và kiến trúc thượng tầng thích ứng với chế độ kinh tế ấy"
+      }
+    ]
+  },
+  {
+    "word": "hình thái",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "toàn thể nói chung những gì thuộc về cái bên ngoài, có thể quan sát được của sự vật\nVí dụ:\n- hình thái địa lí \n - hình thái kinh tế - xã hội"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình thức biểu hiện ra\nVí dụ:\n- văn nghệ là một hình thái ý thức xã hội"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thái [hình thái]\n-form;  complexion"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "form, complexion"
       }
     ]
   },
@@ -2093,11 +1512,592 @@
     ]
   },
   {
+    "word": "hình nhi hạ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngành triết học chuyên nghiên cứu những vật cụ thể, có hình dạng; phân biệt với hình nhi thượng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình nhi hạ [hình nhi hạ]\n-concrete; matter, substance"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "concrete, matter, substance"
+      }
+    ]
+  },
+  {
+    "word": "hình trụ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khối tạo nên do cắt một mặt trụ bằng hai mặt phẳng song song"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình trụ\n-Cylinder\n@Chuyên ngành kinh tế\n-cylinder\n-settling drum"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình trụ\n- Cylinder"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cylinder"
+      }
+    ]
+  },
+  {
+    "word": "hình sao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-star"
+      }
+    ]
+  },
+  {
+    "word": "hình khỏa thân",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nude pictures"
+      }
+    ]
+  },
+  {
+    "word": "hình hộp chữ nhật",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình hộp có tất cả các mặt là hình chữ nhật"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình hộp chữ nhật [hình hộp chữ nhật]\n-rectangular parallelepiped"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rectangular parallelepiped"
+      }
+    ]
+  },
+  {
+    "word": "hình thức hóa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "formalize"
+      }
+    ]
+  },
+  {
+    "word": "hình thức bệnh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "symptom (of an illness, disease)"
+      }
+    ]
+  },
+  {
+    "word": "hình hột xoàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-diamond"
+      }
+    ]
+  },
+  {
+    "word": "hình học họa hình",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "descriptive geometry"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh cửa hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-store image"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh nhãn hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-brand image\n-public image"
+      }
+    ]
+  },
+  {
+    "word": "hình bóng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình ảnh không rõ nét\nVí dụ:\n- hình bóng tuổi thơ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình bóng [hình bóng]\n-Silhouette."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "silhouette"
+      }
+    ]
+  },
+  {
+    "word": "hình luật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình luật\n-Penal laws\n@Chuyên ngành kinh tế\n-criminal law"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình luật\n- Penal laws"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "penal code, criminal law"
+      }
+    ]
+  },
+  {
+    "word": "hình nhiễu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ghost"
+      }
+    ]
+  },
+  {
+    "word": "hình chìm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình hoa văn nhìn thấy khi soi giấy qua ánh sáng"
+      }
+    ]
+  },
+  {
+    "word": "hình thang",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tứ giác lồi có hai cạnh song song [gọi là hai đáy; thường chỉ trường hợp hai cạnh song song này không bằng nhau]"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thang\n-Trapezium\n@Chuyên ngành kinh tế\n-trapezoid"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình thang\n- Trapezium"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "trapezium"
+      }
+    ]
+  },
+  {
+    "word": "hình thái (biến động của) phí tổn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cost behavior"
+      }
+    ]
+  },
+  {
+    "word": "hình học phẳng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ môn hình học nghiên cứu các tính chất của các hình nằm trong cùng một mặt phẳng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình học phẳng [hình học phẳng]\n-plane geometry"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "plane geometry"
+      }
+    ]
+  },
+  {
+    "word": "hình vẽ quảng cáo trên thân xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dash sign"
+      }
+    ]
+  },
+  {
+    "word": "hình học không gian",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ môn hình học nghiên cứu các tính chất của các hình trong không gian"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình học không gian [hình học không gian]\n-three-dimensional geometry;  solid geometry"
+      }
+    ]
+  },
+  {
+    "word": "hình thái vô danh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bearer form"
+      }
+    ]
+  },
+  {
+    "word": "hình tròn xoay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình được tạo ra bằng cách cho một hình quay quanh một trục cố định"
+      }
+    ]
+  },
+  {
+    "word": "hình pháp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình pháp [hình pháp]\n-penal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "penal"
+      }
+    ]
+  },
+  {
+    "word": "hình thể",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "toàn thể nói chung những đường nét bên ngoài\nVí dụ:\n- tập luyện để có hình thể đẹp"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hình thể\n- dt. Hình dáng bên ngoài nói chung: Cô gái có hình thể cân đối  hình thể khúc khuỷu của bờ biển."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thể\n*noun\n-form; figue; conformation; likeness"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình thể\n* noun\n- form; figue; conformation; likeness"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "form, figure, likeness, composition"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh vệ tinh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "satellite image"
+      }
+    ]
+  },
+  {
+    "word": "hình thức kế toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-account form (account model)"
+      }
+    ]
+  },
+  {
+    "word": "hình thức sổ chi thu hàng ngày (của bảng quyết toán)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-running account\n-running account form"
+      }
+    ]
+  },
+  {
+    "word": "hình ảnh lưu động",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "moving pictures"
+      }
+    ]
+  },
+  {
+    "word": "hình cảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình cảnh [hình cảnh]\n-xem"
+      }
+    ]
+  },
+  {
     "word": "hình trang trí bằng socola",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-chocolate figure"
+      }
+    ]
+  },
+  {
+    "word": "hình như",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị ý phỏng đoán một cách dè dặt, dựa trên những gì trực tiếp cảm thấy được\nVí dụ:\n- trông quen quen, hình như đã gặp ở đâu rồi \n - hình như anh ấy bị ốm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hình như\n- Tổ hợp biểu thị ý phỏng đoán một cách dè dặt, dựa trên những gì trực tiếp cảm thấy được; dường như. Trông quen quen, hình như đã có gặp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình như\n*verb\n-to seem ; to appear"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình như\n* verb\n- to seem ; to appear"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to seem, appear; it seems, seemingly"
+      }
+    ]
+  },
+  {
+    "word": "hình học hoạ hình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bộ môn hình học nghiên cứu các phương pháp biểu diễn các hình không gian trên mặt phẳng và giải các bài toán không gian trên mặt phẳng nhờ các phép biểu diễn đó"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình học hoạ hình [hình học hoạ hình]\n-descriptive geometry"
+      }
+    ]
+  },
+  {
+    "word": "hình dung từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình dung từ\n-(từ cũ; nghĩa cũ) (như tính từ) Adjective"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình dung từ\n- (từ cũ; nghĩa cũ) (như tính từ) Adjective"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "adjective"
+      }
+    ]
+  },
+  {
+    "word": "hình phạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình thức trừng trị tương xứng dành cho kẻ phạm tội\nVí dụ:\n- khung hình phạt"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình phạt\n-Punishment, penalty\n=Hình phạt xứng đáng với tội\n+A punishment suitable to thr offence\n@Chuyên ngành kinh tế\n-penalty"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình phạt\n- Punishment, penalty\n=Hình phạt xứng đáng với tội+A punishment suitable to thr offence"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "penalty"
+      }
+    ]
+  },
+  {
+    "word": "hình thù",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình dạng cụ thể và riêng biệt\nVí dụ:\n- hình thù kì dị \n - bức tượng trông chẳng ra hình thù gì"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình thù\n-(thường nghĩa xấu) như hình dạng\n=Nặn pho tượng chẳng ra hình thù gì cả\n+To carve a formless statue\n@Chuyên ngành kinh tế\n-shape"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình thù\n- (thường nghĩa xấu) như hình dạng\n=Nặn pho tượng chẳng ra hình thù gì cả+To carve a formless statue"
+      }
+    ]
+  },
+  {
+    "word": "hình đối xứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình đối xứng [hình đối xứng]\n-symmetrical figure"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "symmetrical figure"
+      }
+    ]
+  },
+  {
+    "word": "hình thành vốn ròng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-net capital formation"
+      }
+    ]
+  },
+  {
+    "word": "hình nhi thượng học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình nhi thượng học\n-(từ cũ; nghĩa cũ) Metaphysics"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hình nhi thượng học\n- (từ cũ; nghĩa cũ) Metaphysics"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "metaphysics"
+      }
+    ]
+  },
+  {
+    "word": "hình dạng của một vật",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the form of an object"
+      }
+    ]
+  },
+  {
+    "word": "hình cầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần không gian giới hạn bởi một mặt cầu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình cầu [hình cầu]\n-Sphere."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sphere"
+      }
+    ]
+  },
+  {
+    "word": "hình khối",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đường và mặt bao quanh một vật, tạo nên hình dạng một vật thể nào đó"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình khối [hình khối]\n-cube"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cube"
+      }
+    ]
+  },
+  {
+    "word": "hình án",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình án [hình án]\n-criminal case"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "criminal case"
+      }
+    ]
+  },
+  {
+    "word": "hình thức phát hành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-release form"
+      }
+    ]
+  },
+  {
+    "word": "hình chiếu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình thu được từ một hình khác qua phép chiếu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hình chiếu [hình chiếu]\n-projection"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "projection"
+      }
+    ]
+  },
+  {
+    "word": "hình thức quảng cáo ngoài nhà thời xưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ancient form of outdoor advertising"
+      }
+    ]
+  },
+  {
+    "word": "hình vẽ trên bánh kem",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-piping"
       }
     ]
   }

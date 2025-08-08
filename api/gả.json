@@ -1,52 +1,5 @@
 [
   {
-    "word": "gả chồng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gả chồng\n- Nh. Gả: Gả chồng cho con gái."
-      }
-    ]
-  },
-  {
-    "word": "gảy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hất đi hoặc hất lên bằng đầu ngón tay hay bằng đầu của một vật hình que\nVí dụ:\n- gảy con sâu bám trên cành hoa \n - gảy bàn tính"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm nẩy dây đàn cho rung lên thành tiếng, bằng động tác gảy liên tiếp\nVí dụ:\n- anh ấy đang gảy đàn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gảy\n- đg. 1. Hắt đi bằng đầu ngón tay. 2. Bới và đảo lộn lên: Gảy rơm. 3. Làm nảy dây đàn để rung lên thành âm thanh: Gảy đàn nguyệt. Đàn gảy tai trâu. Cái đẹp, cái hay truyền thụ cho những kẻ không có khả năng thưởng thức, sử dụng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gảy [gảy]\n-Flip of.\n-Poke and turn upside down.\n-Play, pluck."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flip of, poke and turn upside down, play, pluck"
-      }
-    ]
-  },
-  {
-    "word": "gảy gót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gảy gót [gảy gót]\n-peck at"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "peck at"
-      }
-    ]
-  },
-  {
     "word": "gả bán",
     "definitions": [
       {
@@ -68,24 +21,19 @@
     ]
   },
   {
-    "word": "gảy móng tay",
+    "word": "gảy đàn",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gảy móng tay\n- Làm được một cách dễ dàng nhanh chóng: Việc như thế thì gảy móng tay cũng xong."
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gảy móng tay [gảy móng tay]\n-("
-      }
-    ]
-  },
-  {
-    "word": "gảnh",
-    "definitions": [
+        "dict_definition": "@gảy đàn\n*verb\n-to twang"
+      },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem ghểnh"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gảy đàn\n* verb\n-to twang"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to twang"
       }
     ]
   },
@@ -115,19 +63,71 @@
     ]
   },
   {
-    "word": "gảy đàn",
+    "word": "gảy gót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gảy đàn\n*verb\n-to twang"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gảy đàn\n* verb\n-to twang"
+        "dict_definition": "@gảy gót [gảy gót]\n-peck at"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to twang"
+        "dict_definition": "peck at"
+      }
+    ]
+  },
+  {
+    "word": "gảy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hất đi hoặc hất lên bằng đầu ngón tay hay bằng đầu của một vật hình que\nVí dụ:\n- gảy con sâu bám trên cành hoa \n - gảy bàn tính"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm nẩy dây đàn cho rung lên thành tiếng, bằng động tác gảy liên tiếp\nVí dụ:\n- anh ấy đang gảy đàn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gảy\n- đg. 1. Hắt đi bằng đầu ngón tay. 2. Bới và đảo lộn lên: Gảy rơm. 3. Làm nảy dây đàn để rung lên thành âm thanh: Gảy đàn nguyệt. Đàn gảy tai trâu. Cái đẹp, cái hay truyền thụ cho những kẻ không có khả năng thưởng thức, sử dụng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gảy [gảy]\n-Flip of.\n-Poke and turn upside down.\n-Play, pluck."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "flip of, poke and turn upside down, play, pluck"
+      }
+    ]
+  },
+  {
+    "word": "gảy móng tay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gảy móng tay\n- Làm được một cách dễ dàng nhanh chóng: Việc như thế thì gảy móng tay cũng xong."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gảy móng tay [gảy móng tay]\n-("
+      }
+    ]
+  },
+  {
+    "word": "gảnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem ghểnh"
+      }
+    ]
+  },
+  {
+    "word": "gả chồng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gả chồng\n- Nh. Gả: Gả chồng cho con gái."
       }
     ]
   }

@@ -1,86 +1,5 @@
 [
   {
-    "word": "sẩy thai hoàn toàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-complete abortion"
-      }
-    ]
-  },
-  {
-    "word": "sẩn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẩn\n- t. (hoặc d.). (id.). Mẩn. Sẩn ngứa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẩn\n*adj\n-pustular coarse"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẩn\n* adj\n- pustular coarse"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pustular coarse"
-      }
-    ]
-  },
-  {
-    "word": "sẩy vẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẩy vẩy\n-(thông tục) Take a lot of hard work\n=Còn sẩy vẩy mới xong\n+It\"ll take a lot of hard work before the work can be finished off"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẩy vẩy\n- (thông tục) Take a lot of hard work\n=Còn sẩy vẩy mới xong+It'll take a lot of hard work before the work can be finished off"
-      }
-    ]
-  },
-  {
-    "word": "sẩy tay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẩy tay\n- đgt Lỡ đánh rơi: Sẩy tay làm vỡ cả bộ ấm chén."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẩy tay\n*verb\n-to drop ley attention"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẩy tay\n* verb\n- to drop ley attention"
-      }
-    ]
-  },
-  {
-    "word": "sẩy miệng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẩy miệng\n- Để rơi mất miếng ăn khi vừa đến miệng.\n- Lỡ lời: Vô ý nói sẩy miệng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sẩy miệng\n-Make a slip of the tongue"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẩy miệng\n- Make a slip of the tongue"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "make a slip of the tongue"
-      }
-    ]
-  },
-  {
     "word": "sẩm tối",
     "definitions": [
       {
@@ -102,11 +21,71 @@
     ]
   },
   {
+    "word": "sẩm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[khoảng thời gian] bắt đầu tối, không còn trông rõ mọi vật nữa\nVí dụ:\n- đi từ lúc sẩm tối"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẩm\n-Dusk*Syn\n-Sẩm_tối\n=Đến sẩm tối hãy lên đèn\n+To light up only at dusk\n=Sâm sẩm (láy)\n+Nightfall"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẩm\n- Dusk\n#Syn\n- Sẩm_tối\n=Đến sẩm tối hãy lên đèn+To light up only at dusk\n=Sâm sẩm (láy)+Nightfall"
+      }
+    ]
+  },
+  {
     "word": "sẩy thai tai nạn",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-accidental abortion"
+      }
+    ]
+  },
+  {
+    "word": "sẩy vẩy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẩy vẩy\n-(thông tục) Take a lot of hard work\n=Còn sẩy vẩy mới xong\n+It\"ll take a lot of hard work before the work can be finished off"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẩy vẩy\n- (thông tục) Take a lot of hard work\n=Còn sẩy vẩy mới xong+It'll take a lot of hard work before the work can be finished off"
+      }
+    ]
+  },
+  {
+    "word": "sẩy chân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sẩy chân\n- đgt. Bước lỡ chân bị hẫng không kịp giữ lại: sẩy chân ngã xuống ao  sẩy chân bước xuống hố."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẩy chân\n*verb\n-to take a false step; to trip"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẩy chân\n* verb\n- to take a false step; to trip"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take a false step, trip"
+      }
+    ]
+  },
+  {
+    "word": "sẩn ngứa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pustules"
       }
     ]
   },
@@ -148,11 +127,23 @@
     ]
   },
   {
-    "word": "sẩn ngứa",
+    "word": "sẩn",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sẩn\n- t. (hoặc d.). (id.). Mẩn. Sẩn ngứa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sẩn\n*adj\n-pustular coarse"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sẩn\n* adj\n- pustular coarse"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "pustules"
+        "dict_definition": "pustular coarse"
       }
     ]
   },
@@ -182,40 +173,49 @@
     ]
   },
   {
-    "word": "sẩm",
+    "word": "sẩy miệng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[khoảng thời gian] bắt đầu tối, không còn trông rõ mọi vật nữa\nVí dụ:\n- đi từ lúc sẩm tối"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sẩy miệng\n- Để rơi mất miếng ăn khi vừa đến miệng.\n- Lỡ lời: Vô ý nói sẩy miệng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sẩm\n-Dusk*Syn\n-Sẩm_tối\n=Đến sẩm tối hãy lên đèn\n+To light up only at dusk\n=Sâm sẩm (láy)\n+Nightfall"
+        "dict_definition": "@sẩy miệng\n-Make a slip of the tongue"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẩm\n- Dusk\n#Syn\n- Sẩm_tối\n=Đến sẩm tối hãy lên đèn+To light up only at dusk\n=Sâm sẩm (láy)+Nightfall"
+        "dict_definition": "@sẩy miệng\n- Make a slip of the tongue"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "make a slip of the tongue"
       }
     ]
   },
   {
-    "word": "sẩy chân",
+    "word": "sẩy tay",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sẩy chân\n- đgt. Bước lỡ chân bị hẫng không kịp giữ lại: sẩy chân ngã xuống ao  sẩy chân bước xuống hố."
+        "dict_definition": "@sẩy tay\n- đgt Lỡ đánh rơi: Sẩy tay làm vỡ cả bộ ấm chén."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sẩy chân\n*verb\n-to take a false step; to trip"
+        "dict_definition": "@sẩy tay\n*verb\n-to drop ley attention"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sẩy chân\n* verb\n- to take a false step; to trip"
-      },
+        "dict_definition": "@sẩy tay\n* verb\n- to drop ley attention"
+      }
+    ]
+  },
+  {
+    "word": "sẩy thai hoàn toàn",
+    "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take a false step, trip"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-complete abortion"
       }
     ]
   }

@@ -13,20 +13,20 @@
     ]
   },
   {
-    "word": "chở nhiên liệu",
+    "word": "chở bằng máy bay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tanker\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tanker"
+        "dict_definition": "@Chuyên ngành kinh tế\n-air-freight"
       }
     ]
   },
   {
-    "word": "chở ngay khi có dịp",
+    "word": "chở bằng tàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by first opportunity"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ship\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ship"
       }
     ]
   },
@@ -40,60 +40,245 @@
     ]
   },
   {
-    "word": "chở hàng bằng công-ten-nơ",
+    "word": "chở bằng thuyền",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-containerizing"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-barge\n@Chuyên ngành kỹ thuật\n-barge"
       }
     ]
   },
   {
-    "word": "chở vào",
+    "word": "chở lậu (rượu, vũ khí...)",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to transport to, take (sb) to"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-run"
       }
     ]
   },
   {
-    "word": "chở ngay (trong ngày)",
+    "word": "chở quặng có thùng lật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-prompt shipment"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tripping car\n@Chuyên ngành kỹ thuật\n-tripping car"
       }
     ]
   },
   {
-    "word": "chở hàng",
+    "word": "chở nguyên khối (không vô bao)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loading"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to transport good, merchandise"
+        "dict_definition": "@Chuyên ngành kinh tế\n-load in bulk"
       }
     ]
   },
   {
-    "word": "chở bằng con đường rẻ nhất",
+    "word": "chở hàng bằng xe tải",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by cheapest route"
+        "dict_definition": "@Chuyên ngành kinh tế\n-team\n-transport goods by truck (to...)"
       }
     ]
   },
   {
-    "word": "chở bằng đường thủy",
+    "word": "chở vượt mức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-waterborne\n@Chuyên ngành kỹ thuật\n-waterborne"
+        "dict_definition": "@Chuyên ngành kinh tế\n-overload"
+      }
+    ]
+  },
+  {
+    "word": "chở nhiều lần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by instalments"
+      }
+    ]
+  },
+  {
+    "word": "chở tới nơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-delivered"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng xe tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-truck"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng xe hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-carborne"
+      }
+    ]
+  },
+  {
+    "word": "chở nhiên liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tanker\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tanker"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng chiếc tàu khởi hành sớm nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by first available vessel"
+      }
+    ]
+  },
+  {
+    "word": "chở xá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bulk transport"
+      }
+    ]
+  },
+  {
+    "word": "chở hàng bằng đường sắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-transport goods by rail"
+      }
+    ]
+  },
+  {
+    "word": "chở từ gốc sản xuất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment from point of origin"
+      }
+    ]
+  },
+  {
+    "word": "chở hàng sàn cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-high-loader"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng đường xe lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-per rail"
+      }
+    ]
+  },
+  {
+    "word": "chở chưa đủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-underload"
+      }
+    ]
+  },
+  {
+    "word": "chở suốt, liên vận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-through cargo"
+      }
+    ]
+  },
+  {
+    "word": "chở kháng ghim",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-blocked impedance\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-blocked impedance"
+      }
+    ]
+  },
+  {
+    "word": "chở thành nhiều chuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by instalments"
+      }
+    ]
+  },
+  {
+    "word": "chở axit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-acid loading\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-acid loading"
+      }
+    ]
+  },
+  {
+    "word": "chở thuyền đẩy sào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-punt\n@Chuyên ngành kỹ thuật\n-punt"
+      }
+    ]
+  },
+  {
+    "word": "chở mễ cốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-load grain"
+      }
+    ]
+  },
+  {
+    "word": "chở tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on-carriage"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng chiếc (tàu) đầu tiên có sẵn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by first available vessel"
+      }
+    ]
+  },
+  {
+    "word": "chở (hàng) bằng tàu thủy, đường thủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ship"
       }
     ]
   },
@@ -111,74 +296,65 @@
     ]
   },
   {
-    "word": "chở bằng thuyền",
+    "word": "chở dầu sạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-barge\n@Chuyên ngành kỹ thuật\n-barge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-clean oil vessel\n@Chuyên ngành kỹ thuật\n-clean oil vessel"
       }
     ]
   },
   {
-    "word": "chở xá",
+    "word": "chở hàng hóa",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bulk transport"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to transport good, merchandise"
       }
     ]
   },
   {
-    "word": "chở bằng chiếc (tàu) đầu tiên có sẵn",
+    "word": "chở bằng đường thủy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by first available vessel"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-waterborne\n@Chuyên ngành kỹ thuật\n-waterborne"
       }
     ]
   },
   {
-    "word": "chở hàng hỗn hợp",
+    "word": "chở vào",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-composite shipment"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to transport to, take (sb) to"
       }
     ]
   },
   {
-    "word": "chở (hàng) bằng tàu thủy, đường thủy",
+    "word": "chở (tàu)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ship"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-convoy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-convoy"
       }
     ]
   },
   {
-    "word": "chở thuyền đẩy sào",
+    "word": "chở lầm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-punt\n@Chuyên ngành kỹ thuật\n-punt"
+        "dict_definition": "@Chuyên ngành kinh tế\n-miscarriage"
       }
     ]
   },
   {
-    "word": "chở axit",
+    "word": "chở càng sớm càng tốt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-acid loading\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: môi trường\n-acid loading"
-      }
-    ]
-  },
-  {
-    "word": "chở củi về rừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chở củi về rừng [chở củi về rừng]\n*tục ngữ\n-to carry coals to Newcastle;  to send owls to Athens"
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by earliest opportunity"
       }
     ]
   },
@@ -217,51 +393,6 @@
     ]
   },
   {
-    "word": "chở tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on-carriage"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng máy bay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-air-freight"
-      }
-    ]
-  },
-  {
-    "word": "chở hàng sàn cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-high-loader"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng đường sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipped by rail"
-      }
-    ]
-  },
-  {
-    "word": "chở vào nhà thương",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take (sb) to the hospital"
-      }
-    ]
-  },
-  {
     "word": "chở hàng lạnh",
     "definitions": [
       {
@@ -271,155 +402,11 @@
     ]
   },
   {
-    "word": "chở theo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bring along, carry along"
-      }
-    ]
-  },
-  {
-    "word": "chở hàng hóa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to transport good, merchandise"
-      }
-    ]
-  },
-  {
-    "word": "chở hàng bằng con đường rẻ nhất",
+    "word": "chở hàng từng phần",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by cheapest route"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng xe hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-carborne"
-      }
-    ]
-  },
-  {
-    "word": "chở (hàng đến) thẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-direct shipment"
-      }
-    ]
-  },
-  {
-    "word": "chở thêm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overcharge"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng đường xe lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-per rail"
-      }
-    ]
-  },
-  {
-    "word": "chở vào bệnh viện",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take someone to the hospital"
-      }
-    ]
-  },
-  {
-    "word": "chở lầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-miscarriage"
-      }
-    ]
-  },
-  {
-    "word": "chở hàng trên boong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipped on deck"
-      }
-    ]
-  },
-  {
-    "word": "chở suốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-direct traffic\n-through carriage"
-      }
-    ]
-  },
-  {
-    "word": "chở quặng có thùng lật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tripping car\n@Chuyên ngành kỹ thuật\n-tripping car"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng tàu thủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-by steamship\n-per ss (steamship)"
-      }
-    ]
-  },
-  {
-    "word": "chở lậu (rượu, vũ khí...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-run"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng xe tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-truck"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng đường biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-seaborne (sea-borne)\n@Chuyên ngành kỹ thuật\n-seaborne\n@Chuyên ngành kỹ thuật\n-seaborne"
-      }
-    ]
-  },
-  {
-    "word": "chở hàng bằng xe tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-team\n-transport goods by truck (to...)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-partial shipment"
       }
     ]
   },
@@ -433,38 +420,56 @@
     ]
   },
   {
-    "word": "chở dưới dạng hàng rời",
+    "word": "chở (hàng đến) thẳng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-in bulk"
+        "dict_definition": "@Chuyên ngành kinh tế\n-direct shipment"
       }
     ]
   },
   {
-    "word": "chở về",
+    "word": "chở vào nhà thương",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to carry home"
+        "dict_definition": "to take (sb) to the hospital"
       }
     ]
   },
   {
-    "word": "chở hàng và chở khách",
+    "word": "chở củi về rừng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-estate car"
+        "dict_definition": "@chở củi về rừng [chở củi về rừng]\n*tục ngữ\n-to carry coals to Newcastle;  to send owls to Athens"
       }
     ]
   },
   {
-    "word": "chở từ gốc sản xuất",
+    "word": "chở bằng đường sắt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment from point of origin"
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipped by rail"
+      }
+    ]
+  },
+  {
+    "word": "chở ngay (trong ngày)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-prompt shipment"
+      }
+    ]
+  },
+  {
+    "word": "chở thêm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-overcharge"
       }
     ]
   },
@@ -478,6 +483,127 @@
     ]
   },
   {
+    "word": "chở hàng hỗn hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-composite shipment"
+      }
+    ]
+  },
+  {
+    "word": "chở theo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bring along, carry along"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng tàu thủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-by steamship\n-per ss (steamship)"
+      }
+    ]
+  },
+  {
+    "word": "chở hàng trên boong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipped on deck"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng đường biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-seaborne (sea-borne)\n@Chuyên ngành kỹ thuật\n-seaborne\n@Chuyên ngành kỹ thuật\n-seaborne"
+      }
+    ]
+  },
+  {
+    "word": "chở vào bệnh viện",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take someone to the hospital"
+      }
+    ]
+  },
+  {
+    "word": "chở ngay khi có dịp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by first opportunity"
+      }
+    ]
+  },
+  {
+    "word": "chở bằng con đường rẻ nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by cheapest route"
+      }
+    ]
+  },
+  {
+    "word": "chở về",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to carry home"
+      }
+    ]
+  },
+  {
+    "word": "chở dưới dạng hàng rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-in bulk"
+      }
+    ]
+  },
+  {
+    "word": "chở hàng và chở khách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-estate car"
+      }
+    ]
+  },
+  {
+    "word": "chở hàng một phần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-partial load"
+      }
+    ]
+  },
+  {
+    "word": "chở hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-loading"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to transport good, merchandise"
+      }
+    ]
+  },
+  {
     "word": "chở hàng loạt lớn",
     "definitions": [
       {
@@ -487,47 +613,11 @@
     ]
   },
   {
-    "word": "chở hàng bằng đường sắt",
+    "word": "chở suốt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-transport goods by rail"
-      }
-    ]
-  },
-  {
-    "word": "chở càng sớm càng tốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by earliest opportunity"
-      }
-    ]
-  },
-  {
-    "word": "chở kháng ghim",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-blocked impedance\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-blocked impedance"
-      }
-    ]
-  },
-  {
-    "word": "chở nhiều lần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by instalments"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng chiếc tàu khởi hành sớm nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by first available vessel"
+        "dict_definition": "@Chuyên ngành kinh tế\n-direct traffic\n-through carriage"
       }
     ]
   },
@@ -537,15 +627,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-less than container load"
-      }
-    ]
-  },
-  {
-    "word": "chở tới nơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-delivered"
       }
     ]
   },
@@ -563,74 +644,20 @@
     ]
   },
   {
-    "word": "chở suốt, liên vận",
+    "word": "chở hàng bằng công-ten-nơ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-through cargo"
+        "dict_definition": "@Chuyên ngành kinh tế\n-containerizing"
       }
     ]
   },
   {
-    "word": "chở dầu sạch",
+    "word": "chở hàng bằng con đường rẻ nhất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-clean oil vessel\n@Chuyên ngành kỹ thuật\n-clean oil vessel"
-      }
-    ]
-  },
-  {
-    "word": "chở thành nhiều chuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by instalments"
-      }
-    ]
-  },
-  {
-    "word": "chở nguyên khối (không vô bao)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-load in bulk"
-      }
-    ]
-  },
-  {
-    "word": "chở bằng tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ship\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-ship"
-      }
-    ]
-  },
-  {
-    "word": "chở hàng một phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-partial load"
-      }
-    ]
-  },
-  {
-    "word": "chở vượt mức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overload"
-      }
-    ]
-  },
-  {
-    "word": "chở mễ cốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-load grain"
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipment by cheapest route"
       }
     ]
   },
@@ -640,33 +667,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to smuggle"
-      }
-    ]
-  },
-  {
-    "word": "chở hàng từng phần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-partial shipment"
-      }
-    ]
-  },
-  {
-    "word": "chở (tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-convoy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-convoy"
-      }
-    ]
-  },
-  {
-    "word": "chở chưa đủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-underload"
       }
     ]
   }

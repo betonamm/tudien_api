@@ -1,65 +1,5 @@
 [
   {
-    "word": "sỉnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sỉnh\n- đg. Lớn dần lên: Con lợn dạo này đã sỉnh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sỉnh\n-Grow up gradually\n=Con lợn đã sỉnh\n+The pig has grown up"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sỉnh\n- Grow up gradually\n=Con lợn đã sỉnh+The pig has grown up"
-      }
-    ]
-  },
-  {
-    "word": "sỉ nhục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho phải thấy nhục nhã, phải thấy hổ thẹn\nVí dụ:\n- hắn sỉ nhục chị trước đám đông"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xấu xa, nhục nhã, đáng hổ thẹn\nVí dụ:\n- làm điều sỉ nhục"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sỉ nhục\n- I t. Xấu xa, nhục nhã, đáng hổ thẹn. Làm những điều sỉ nhục. Không biết sỉ nhục.\n- II đg. Làm cho phải thấy nhục nhã. Bị  trước đám đông. Những lời sỉ nhục."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sỉ nhục\n*verb\n-to play (someone) down, to dishonour*adj\n-ignominous, ignoble; dishourable"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sỉ nhục\n* verb\n- to play (someone) down, to dishonour\n* adj\n- ignominous, ignoble; dishourable"
-      }
-    ]
-  },
-  {
-    "word": "sỉ âm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dental"
-      }
-    ]
-  },
-  {
-    "word": "sỉ vả",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to insult, dishonor"
-      }
-    ]
-  },
-  {
     "word": "sỉ",
     "definitions": [
       {
@@ -89,11 +29,11 @@
     ]
   },
   {
-    "word": "sỉa chân",
+    "word": "sỉ vả",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sỉa chân\n- Bệnh chân phù to của phụ nữ có mang."
+        "dict_name": "VNEDICT",
+        "dict_definition": "to insult, dishonor"
       }
     ]
   },
@@ -119,6 +59,66 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "pregnant woman’s oedma of the legs; to slip, stumble"
+      }
+    ]
+  },
+  {
+    "word": "sỉa chân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sỉa chân\n- Bệnh chân phù to của phụ nữ có mang."
+      }
+    ]
+  },
+  {
+    "word": "sỉ âm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dental"
+      }
+    ]
+  },
+  {
+    "word": "sỉ nhục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho phải thấy nhục nhã, phải thấy hổ thẹn\nVí dụ:\n- hắn sỉ nhục chị trước đám đông"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xấu xa, nhục nhã, đáng hổ thẹn\nVí dụ:\n- làm điều sỉ nhục"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sỉ nhục\n- I t. Xấu xa, nhục nhã, đáng hổ thẹn. Làm những điều sỉ nhục. Không biết sỉ nhục.\n- II đg. Làm cho phải thấy nhục nhã. Bị  trước đám đông. Những lời sỉ nhục."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sỉ nhục\n*verb\n-to play (someone) down, to dishonour*adj\n-ignominous, ignoble; dishourable"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sỉ nhục\n* verb\n- to play (someone) down, to dishonour\n* adj\n- ignominous, ignoble; dishourable"
+      }
+    ]
+  },
+  {
+    "word": "sỉnh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sỉnh\n- đg. Lớn dần lên: Con lợn dạo này đã sỉnh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sỉnh\n-Grow up gradually\n=Con lợn đã sỉnh\n+The pig has grown up"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sỉnh\n- Grow up gradually\n=Con lợn đã sỉnh+The pig has grown up"
       }
     ]
   }

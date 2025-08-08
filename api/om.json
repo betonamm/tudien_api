@@ -1,14 +1,10 @@
 [
   {
-    "word": "om xương",
+    "word": "omega",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@om xương\n-Đánh om xương\n-To give a sound beating"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@om xương\n- Đánh om xương\n-To give a sound beating"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "con chữ thứ hai mươi bốn (cuối cùng) của bảng chữ cái Hi Lạp [ω, Ω]"
       }
     ]
   },
@@ -22,6 +18,19 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "ohmmeter"
+      }
+    ]
+  },
+  {
+    "word": "om om",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@om om [om om]\n-be very dark (tối om om)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be very dark"
       }
     ]
   },
@@ -67,15 +76,6 @@
     ]
   },
   {
-    "word": "omíc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ohmic"
-      }
-    ]
-  },
-  {
     "word": "om sòm",
     "definitions": [
       {
@@ -101,24 +101,20 @@
     ]
   },
   {
-    "word": "omega",
+    "word": "omíc",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "con chữ thứ hai mươi bốn (cuối cùng) của bảng chữ cái Hi Lạp [ω, Ω]"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-ohmic"
       }
     ]
   },
   {
-    "word": "om om",
+    "word": "om cá",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@om om [om om]\n-be very dark (tối om om)"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "be very dark"
+        "dict_definition": "to simmer fish"
       }
     ]
   },
@@ -132,11 +128,15 @@
     ]
   },
   {
-    "word": "om cá",
+    "word": "om xương",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to simmer fish"
+        "dict_name": "SPDict",
+        "dict_definition": "@om xương\n-Đánh om xương\n-To give a sound beating"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@om xương\n- Đánh om xương\n-To give a sound beating"
       }
     ]
   }

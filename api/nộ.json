@@ -1,442 +1,108 @@
 [
   {
-    "word": "nội năng riêng",
+    "word": "nội lực va chạm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-specific internal energy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-shock stress"
       }
     ]
   },
   {
-    "word": "nội kết",
+    "word": "nội dung dữ kiện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-endocrine"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-data content"
       }
     ]
   },
   {
-    "word": "nội dung hàng trữ",
+    "word": "nội hiện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-content of inventory"
-      }
-    ]
-  },
-  {
-    "word": "nội quy công xưởng, nhà máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-works regulations"
-      }
-    ]
-  },
-  {
-    "word": "nội lực (lực nội tại)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-net effort"
-      }
-    ]
-  },
-  {
-    "word": "nội hôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội hôn\n-Endogemy"
+        "dict_definition": "@nội hiện\n-(triết học) Interiorize"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội hôn\n- Endogemy"
+        "dict_definition": "@nội hiện\n- (triết học) Interiorize"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "endogemy"
+        "dict_definition": "interiorize"
       }
     ]
   },
   {
-    "word": "nội thất xe",
+    "word": "nội lực kéo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-interior"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tensile resistance"
       }
     ]
   },
   {
-    "word": "nội tạng",
+    "word": "nội ứng học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-residual stress"
+      }
+    ]
+  },
+  {
+    "word": "nội đường",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội tạng\n- X. Phủ tạng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội tạng\n-Innards, viscera\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-visceral"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội tạng\n- Innards, viscera"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "innards, viscera"
+        "dict_definition": "@nội đường\n- nhà trong, tư thất, đối với công đường nơi làm việc quan"
       }
     ]
   },
   {
-    "word": "nội lực động đất",
+    "word": "nội hồng cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-earthquake stress"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-erythrocytic"
       }
     ]
   },
   {
-    "word": "nội chất",
+    "word": "nội soi trực - kết tràng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội chất [nội chất]\n-endoplasm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endoplasm"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-proctocolonoscopy"
       }
     ]
   },
   {
-    "word": "nội ô",
+    "word": "nội dung thỉnh cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội ô [nội ô]\n-xem"
+        "dict_definition": "@Chuyên ngành kinh tế\n-appeal element"
       }
     ]
   },
   {
-    "word": "nội di cư (của noãn)",
+    "word": "nộp các giấy chứng nhận thanh toán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal transmigration"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Application for Certificates of Payment"
       }
     ]
   },
   {
-    "word": "nội độc tố",
+    "word": "nội dung thông tin thô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội độc tố\n-(y học) Endotoxin\n@Chuyên ngành kinh tế\n-endotoxin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endo-antitoscin\n-endotoxin"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội độc tố\n- (y học) Endotoxin"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endotoxin"
-      }
-    ]
-  },
-  {
-    "word": "nội dung vận đơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-contents of bill of lading"
-      }
-    ]
-  },
-  {
-    "word": "nội quy chỗ làm việc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-workplace regulations"
-      }
-    ]
-  },
-  {
-    "word": "nội tình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tình hình, tình trạng bên trong [của một nước, một tổ chức, v.v.]\nVí dụ:\n- nội tình sự việc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội tình\n-Internal situation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội tình\n- Internal situation"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "internal situation"
-      }
-    ]
-  },
-  {
-    "word": "nội giám",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội giám [nội giám]\n-cũng như\n-eunuch"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "eunuch"
-      }
-    ]
-  },
-  {
-    "word": "nội quan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội quan [nội quan]\n-(tâm lý) Introspection.\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-introspection"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "introspection"
-      }
-    ]
-  },
-  {
-    "word": "nội tiết",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nội tiết tố [nói tắt]\nVí dụ:\n- rối loạn nội tiết"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[tuyến của cơ thể] có chất được tiết ra ngấm thẳng vào máu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội tiết\n- t. Nói các tuyến trực tiếp sản một chất cho máu.như tuyến thượng thận, tuyến giáp trạng..."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội tiết\n*adjective\n-endocrical\n@Chuyên ngành kỹ thuật\n-endocrine\n-incretion\n-incretory\n-internal secretion"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội tiết\n* adjective\n-endocrical"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endocrical"
-      }
-    ]
-  },
-  {
-    "word": "nội suy tiếng nói số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-digital speech interpolation"
-      }
-    ]
-  },
-  {
-    "word": "nội san",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập san chỉ để lưu hành trong nội bộ\nVí dụ:\n- tờ nội san kinh tế"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội san\n- Tập san chỉ lưu hành trong nội bộ một đoàn thể, cơ quan..."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội san [nội san]\n-Intramural magazine; internal journal"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "intramural magazine, internal journal"
-      }
-    ]
-  },
-  {
-    "word": "nội giãn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal sense"
-      }
-    ]
-  },
-  {
-    "word": "nội dung truyền tin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trans information content"
-      }
-    ]
-  },
-  {
-    "word": "nội năng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội năng\n-Internal energy\n@Chuyên ngành kỹ thuật\n-inner [intrinsic] energy\n-inner energy\n-internal energy\n-intrinsic energy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội năng\n- Internal energy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "internal energy"
-      }
-    ]
-  },
-  {
-    "word": "nội thất hoàn thiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-finished interior"
-      }
-    ]
-  },
-  {
-    "word": "nội chuyển lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-entropy"
-      }
-    ]
-  },
-  {
-    "word": "nội trở bình điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-battery resistance"
-      }
-    ]
-  },
-  {
-    "word": "nội tâm thần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intrapsychic"
-      }
-    ]
-  },
-  {
-    "word": "nội lực",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lực sinh ra trong nội bộ đối tượng được xét; phân biệt với ngoại lực\nVí dụ:\n- phát huy nội lực \n - một con người có nội lực phi thường"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội lực\n-Internal force\n@Chuyên ngành kỹ thuật\n-effort\n-force\n-inner forces\n-internal energy\n-internal force\n-internal forces"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội lực\n- Internal force"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "internal force"
-      }
-    ]
-  },
-  {
-    "word": "nội compact",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypocompact"
-      }
-    ]
-  },
-  {
-    "word": "nội trochoit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypotrochoid"
-      }
-    ]
-  },
-  {
-    "word": "nội quy đường sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-railway schedule"
-      }
-    ]
-  },
-  {
-    "word": "nội động",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[động từ] không đòi hỏi phải có bổ ngữ đối tượng trực tiếp để cho nghĩa được đầy đủ; phân biệt với ngoại động\nVí dụ:\n- ''ngủ'', ''đi'', ''chạy'' là những động từ nội động"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội động\n- (tính) Tính chất của động từ không chuyển hành động do chủ ngữ thực hiện đến một bổ ngữ nào: Trong câu:\"Cái bánh xe quay\", \"quay\" có tính nội động."
-      }
-    ]
-  },
-  {
-    "word": "nội soi học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-endoscopy"
-      }
-    ]
-  },
-  {
-    "word": "nộp tên kẻ cắp cho công an",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to give up a thief to the police"
-      }
-    ]
-  },
-  {
-    "word": "nội nhật ngày hôm nay",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "within today"
-      }
-    ]
-  },
-  {
-    "word": "nộp báo cáo kế toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-filling of accounts"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gross information content"
       }
     ]
   },
@@ -462,528 +128,167 @@
     ]
   },
   {
-    "word": "nội y",
+    "word": "nội nhật",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "y phục mặc bên trong; quần áo lót"
-      }
-    ]
-  },
-  {
-    "word": "nội ma sát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-internal friction"
-      }
-    ]
-  },
-  {
-    "word": "nội tướng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội tướng\n- d. 1. Vợ (cũ). 2. Bộ trưởng bộ nội vụ trong nội các Nhật Bản."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội tướng\n-(cũ) Wife, lady of the house"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội tướng\n- (cũ) Wife, lady of the house"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wife, lady of the house"
-      }
-    ]
-  },
-  {
-    "word": "nội thuộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lệ thuộc vào một nước lớn [tự coi mình là trung tâm]\nVí dụ:\n- chiến thắng Bạch Đằng năm 938 đã chấm dứt hơn nghìn năm nội thuộc phương Bắc"
+        "dict_definition": "nội trong thời gian một ngày\nVí dụ:\n- nội nhật hôm nay phải xong việc"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội thuộc\n- t. Nói một nước bị coi là ở ngoài rìa biên giới và chịu sự đô hộ của một nước lớn tự coi là trung tâm (cũ): Xưa kia, Việt Nam và Triều Tiên nội thuộc Trung Quốc."
+        "dict_definition": "@nội nhật\n- Trong vòng một ngày nào dó: Nội nhật hôm nay."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội thuộc [nội thuộc]\n-(cũ) Be under foreign domination.\n-depandent (on); be ruled by China; be under Chinese rule"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be under foreign domination, dependent (on)"
-      }
-    ]
-  },
-  {
-    "word": "nội địa hoá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho trở thành hoặc mang nhiều yếu tố, tính chất nội địa"
-      }
-    ]
-  },
-  {
-    "word": "nội tại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có ở ngay bên trong bản thân sự vật\nVí dụ:\n- nguyên nhân nội tại \n - mâu thuẫn nội tại"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội tại\n- ở bên trong sự vật: Nguyên nhân nội tại."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội tại\n-Immanent, inherent\n=Nguyên nhân nội tại\n+An immanent cause\n@Chuyên ngành kỹ thuật\n-intrinsic\n-intrinsical"
+        "dict_definition": "@nội nhật\n-Within a day\n=Nội nhật ngày hôm nay\n+Within today\n@Chuyên ngành kinh tế\n-intraday"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội tại\n- Immanent, inherent\n=Nguyên nhân nội tại+An immanent cause"
+        "dict_definition": "@nội nhật\n- Within a day\n=Nội nhật ngày hôm nay+Within today"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "immanent, inherent"
+        "dict_definition": "within a day"
       }
     ]
   },
   {
-    "word": "nội bạch huyết",
+    "word": "nộp vào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endolymph"
+        "dict_definition": "@Chuyên ngành kinh tế\n-lodgement"
       }
     ]
   },
   {
-    "word": "nội xâm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lực lượng phản động, tiêu cực trong nước đang phá hoại, làm suy yếu đất nước, được coi là nguy hiểm như một thứ giặc\nVí dụ:\n- nạn nội xâm \n - ngăn ngừa hoạ nội xâm"
-      }
-    ]
-  },
-  {
-    "word": "nội cân bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-homeostasis"
-      }
-    ]
-  },
-  {
-    "word": "nội mô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội mô [nội mô]\n-endothelium\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endothellum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endothelium"
-      }
-    ]
-  },
-  {
-    "word": "nội cỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội cỏ [nội cỏ]\n-meadow; lawn; grasspot"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "meadow, lawn"
-      }
-    ]
-  },
-  {
-    "word": "nội mạc tử cung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocervise\n-endometrium"
-      }
-    ]
-  },
-  {
-    "word": "nội bào tương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoplasm"
-      }
-    ]
-  },
-  {
-    "word": "nội dịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội dịch [nội dịch]\n-endolymph\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-housekeeping"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endolymph"
-      }
-    ]
-  },
-  {
-    "word": "nội thần",
+    "word": "nội động từ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội thần\n- quan hầu trong nội cung nhà vua như thị vệ, nội giám, hoạn quan"
-      }
-    ]
-  },
-  {
-    "word": "nội vùng",
-    "definitions": [
+        "dict_definition": "@nội động từ\n- dt (H. động: không đứng yên; từ: lời) Động từ không dùng với tân ngữ, trái với ngoại động từ: Khi nói Đi ra phố, thì Đi là nội động từ, nhưng khi nói Đi con xe, thì Đi là ngoại động từ."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-local"
-      }
-    ]
-  },
-  {
-    "word": "nội tiêu tố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endolysin"
-      }
-    ]
-  },
-  {
-    "word": "nội hải",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the Inland Sea (of Japan)"
-      }
-    ]
-  },
-  {
-    "word": "nội tạng, tạng phủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-viscus"
-      }
-    ]
-  },
-  {
-    "word": "nội ký sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội ký sinh\n-(sinh vật) Endoparasite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoparasite"
+        "dict_definition": "@nội động từ\n*noun\n-intransitive verb"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội ký sinh\n- (sinh vật) Endoparasite"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endoparasite"
+        "dict_definition": "@nội động từ\n* noun\n- intransitive verb"
       }
     ]
   },
   {
-    "word": "nội biến",
+    "word": "nội duyên hải",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tình hình có biến bên trong một nước, một tổ chức\nVí dụ:\n- trong nước có nội biến \n - dẹp yên nội biến"
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội biến\n-Internal trouble"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội biến\n- Internal trouble"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "internal trouble"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-infralittoral"
       }
     ]
   },
   {
-    "word": "nội tỉnh",
+    "word": "nội thành",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khu vực bên trong tỉnh; phân biệt với ngoại tỉnh\nVí dụ:\n- bến xe nội tỉnh \n - cước điện thoại nội tỉnh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội tỉnh\n-(tâm) Introspection"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội tỉnh\n- (tâm) Introspection"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "introspection"
-      }
-    ]
-  },
-  {
-    "word": "nội địa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phần đất trong lục địa ở xa biển\nVí dụ:\n- tiến sâu vào nội địa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trong nước, được làm ra để tiêu thụ trong nước, không phải hàng nhập khẩu và cũng không phải để xuất khẩu\nVí dụ:\n- ti vi nội địa \n - nước hoa nội địa \n - hàng nội địa"
+        "dict_definition": "khu vực bên trong thành phố; phân biệt với ngoại thành\nVí dụ:\n- các quận nội thành \n - sống trong nội thành"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội địa\n- I. dt. Phần đất liền ở xa biển và xa biên giới: nằm sâu trong nội địa. II. tt. ở trong nước, do trong nước sản xuất, không phải được nhập khẩu vào và cũng không phải để xuất khẩu: hàng nội địa  ti vi nội địa."
+        "dict_definition": "@nội thành\n- Khu vực chính, ở giữa một thành phố, trái với ngoại thành."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội địa\n*noun\n-inland; interior\n@Chuyên ngành kinh tế\n-hinterland\n-home industry\n-indigenous\n@Chuyên ngành kỹ thuật\n-domestic\n-domestic supply\n-hinterland\n-inland\n-inner land"
+        "dict_definition": "@nội thành\n-A city\"s inlying areas, urban areas\n=Nội thành Hà Nội\n+Hanoi urban areas, Hanoi proper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interior of a city\n-intramural"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội địa\n* noun\n- inland; interior"
+        "dict_definition": "@nội thành\n- A city's inlying areas, urban areas\n=Nội thành Hà Nội+Hanoi urban areas, Hanoi proper"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "inland, interior, domestic"
+        "dict_definition": "a city’s inner areas, urban areas; inside a city"
       }
     ]
   },
   {
-    "word": "nội dung thư điện tử",
+    "word": "nội động vật ký sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electronic mail message"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-entozoen"
       }
     ]
   },
   {
-    "word": "nội soi",
+    "word": "nội nhiễm độc",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phương pháp đưa một ống nhỏ vào bên trong cơ thể, qua đó có thể quan sát hay chụp ảnh cơ quan bệnh lí bằng một máy ảnh đặt ở đầu ống phía ngoài, cũng có thể cắt một mảnh nhỏ để chẩn đoán tế bào hay thực hiện phẫu thuật qua ống này\nVí dụ:\n- mổ nội soi \n - chẩn đoán bằng phương pháp nội soi"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endointoxication"
+      }
+    ]
+  },
+  {
+    "word": "nội thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội thị\n-(cũ) Court sevant"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoscopy"
-      }
-    ]
-  },
-  {
-    "word": "nội lực ở vòm",
-    "definitions": [
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội thị\n- (cũ) Court sevant"
+      },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-arch stress"
+        "dict_name": "VNEDICT",
+        "dict_definition": "court servant"
       }
     ]
   },
   {
-    "word": "nội ký sinh trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-entorganism"
-      }
-    ]
-  },
-  {
-    "word": "nội tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-in-house line\n-in-line"
-      }
-    ]
-  },
-  {
-    "word": "nội suy tiếng nói có chỉ định thời gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Time Assignment Speech Interpolation (TASI)"
-      }
-    ]
-  },
-  {
-    "word": "nội bì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-endoderm\n-hypoblast\n-intradermal"
-      }
-    ]
-  },
-  {
-    "word": "nộ nạt",
+    "word": "nội thôn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nộ nạt\n- Dọa cho sợ: Nộ nạt trẻ con."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nộ nạt\n-Intimidate\n=Làm gì mà cứ nộ nạt trẻ thế?\n+Why intimidate children?"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nộ nạt\n- Intimidate\n=Làm gì mà cứ nộ nạt trẻ thế?+Why intimidate children?"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "intimidate"
+        "dict_definition": "@Nội Thôn\n- (xã) h. Hà Quảng, t. Cao Bằng"
       }
     ]
   },
   {
-    "word": "nội hình",
+    "word": "nội tạng nhỏ bé",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endomorphic\n-endomorphy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splanchnomicria"
       }
     ]
   },
   {
-    "word": "nội ký sinh trùng thực vật",
+    "word": "nội lực (lực nội tại)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endophytic parasite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-net effort"
       }
     ]
   },
   {
-    "word": "nội ứng suất",
+    "word": "nội compact",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-internal stress"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypocompact"
       }
     ]
   },
   {
-    "word": "nội dung dịch vụ",
+    "word": "nội lực tối đa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-service content"
-      }
-    ]
-  },
-  {
-    "word": "nội ngoại khoa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-medicochirugical"
-      }
-    ]
-  },
-  {
-    "word": "nội suy dạng sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Waveform Interpolation (WI)"
-      }
-    ]
-  },
-  {
-    "word": "nội tệ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiền của một nước, trong quan hệ với người nước ấy; phân biệt với ngoại tệ\nVí dụ:\n- đồng nội tệ \n - thanh toán bằng nội tệ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-domestic currency\n-domestics currency\n-local currency"
-      }
-    ]
-  },
-  {
-    "word": "nội tỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inherent vice\n-vice propre"
-      }
-    ]
-  },
-  {
-    "word": "nộp đơn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to hand in a request, give up, hand over, submit an application, register one’s name (for something)"
-      }
-    ]
-  },
-  {
-    "word": "nội tạng, bộ lòng, thu hoạch (quả, chè), vặt lông (gia cầm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pluck"
-      }
-    ]
-  },
-  {
-    "word": "nội vụ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "công việc thuộc lĩnh vực chính trị trong một nước\nVí dụ:\n- bộ nội vụ \n - nhân viên nội vụ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cách sắp xếp nơi ăn ở, cách ăn mặc, sắp xếp thì giờ sinh hoạt, v.v. của quân nhân trong doanh trại [nói tổng quát]\nVí dụ:\n- nội vụ gọn gàng \n - kiểm tra nội vụ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "diễn biến bên trong của vụ việc\nVí dụ:\n- điều tra để làm rõ nội vụ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội vụ\n- dt (H. vụ: việc) Công việc hành chính và an ninh trong nước: Các cán bộ công an thuộc bộ Nội vụ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội vụ\n*noun\n-home affairs"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội vụ\n* noun\n- home affairs"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "domestic affairs, home affairs"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ultimate stress"
       }
     ]
   },
@@ -997,78 +302,58 @@
     ]
   },
   {
-    "word": "nội nhiệt",
+    "word": "nội trung bì",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-internal heat\n@Lĩnh vực: y học\n-lnternal heat"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endomesoderm"
       }
     ]
   },
   {
-    "word": "nội trocoit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypotrochoid"
-      }
-    ]
-  },
-  {
-    "word": "nội dung, đề tài (quyển sách...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-matter"
-      }
-    ]
-  },
-  {
-    "word": "nội ứng suất trong ray",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-internal stress in the rail"
-      }
-    ]
-  },
-  {
-    "word": "nội dung quảng cáo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-contents of advertisements"
-      }
-    ]
-  },
-  {
-    "word": "nội năng theo mol",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-molar internal energy"
-      }
-    ]
-  },
-  {
-    "word": "nội hạt",
+    "word": "nội qui",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khu vực bên trong một tỉnh hoặc một nước\nVí dụ:\n- mạng viễn thông nội hạt \n - cước cuộc gọi nội hạt \n - di dân nội hạt"
+        "dict_definition": "xem nội quy"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-local"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội qui\n- Luật lệ thi hành ở bên trong một tổ chức, một cơ quan: Nội qui thư viện."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rules, regulations"
       }
     ]
   },
   {
-    "word": "nội dung analog",
+    "word": "nội đồng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khu vực bên trong cánh đồng\nVí dụ:\n- hệ thống kênh mương nội đồng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội đồng\n-Interior field"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội đồng\n- Interior field"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "interior field"
+      }
+    ]
+  },
+  {
+    "word": "nội thất ô tô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-analog environment"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-interior of car"
       }
     ]
   },
@@ -1090,38 +375,266 @@
     ]
   },
   {
-    "word": "nội cân bằng biểu sinh",
+    "word": "nội đao",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epigenetic homeostasis"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội đao\n- Quân đao phủ, chuyên việc chém người"
       }
     ]
   },
   {
-    "word": "nội dung thông tin liên kết",
+    "word": "nội di cư (của noãn)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-join information content"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal transmigration"
       }
     ]
   },
   {
-    "word": "nộp các giấy chứng nhận thanh toán",
+    "word": "nội dung thiết kế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Application for Certificates of Payment"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-design content"
       }
     ]
   },
   {
-    "word": "nội phân tử",
+    "word": "nội hình",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intramolecular\n-intramoleculir"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endomorphic\n-endomorphy"
+      }
+    ]
+  },
+  {
+    "word": "nội dung chủ yếu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-subject matter"
+      }
+    ]
+  },
+  {
+    "word": "nộp đơn xin",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to turn in or submit an application"
+      }
+    ]
+  },
+  {
+    "word": "nội nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội nhập\n-(tâm lý) Introjection"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội nhập\n- (tâm lý) Introjection"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "introjection"
+      }
+    ]
+  },
+  {
+    "word": "nội phản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội phản [nội phản]\n-Traitor, betrayor."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "traitor"
+      }
+    ]
+  },
+  {
+    "word": "nội cảm thụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-interoceptive\n-interoceptor"
+      }
+    ]
+  },
+  {
+    "word": "nội năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội năng\n-Internal energy\n@Chuyên ngành kỹ thuật\n-inner [intrinsic] energy\n-inner energy\n-internal energy\n-intrinsic energy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội năng\n- Internal energy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "internal energy"
+      }
+    ]
+  },
+  {
+    "word": "nội dung ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-image content"
+      }
+    ]
+  },
+  {
+    "word": "nội dung thông điệp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "contents of a message, message or letter body"
+      }
+    ]
+  },
+  {
+    "word": "nội dung phục vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-service content"
+      }
+    ]
+  },
+  {
+    "word": "nội khóa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội khóa\n- nội khoá dt. Môn học hoặc hoạt động giáo dục trong chương trình chính thức và học tập tại nhà trường; phân biệt ngoại khoá: kết hợp giữa nội khoá và ngoại khoá."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội khóa\n*noun\n-curriculum"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội khóa\n* noun\n- curriculum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "curriculum"
+      }
+    ]
+  },
+  {
+    "word": "nội các ma",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shadow cabinet"
+      }
+    ]
+  },
+  {
+    "word": "nội dung bằng phát minh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-patent specification"
+      }
+    ]
+  },
+  {
+    "word": "nội dung thông tin trung bình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-average information content\n-mean information content"
+      }
+    ]
+  },
+  {
+    "word": "nội cân bằng sinh lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-physiological homeostasis"
+      }
+    ]
+  },
+  {
+    "word": "nội hô hấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal respiration"
+      }
+    ]
+  },
+  {
+    "word": "nội khí quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endotracheal"
+      }
+    ]
+  },
+  {
+    "word": "nội dung thư điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-electronic mail message"
+      }
+    ]
+  },
+  {
+    "word": "nội lực động đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-earthquake stress"
+      }
+    ]
+  },
+  {
+    "word": "nội dịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội dịch [nội dịch]\n-endolymph\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-housekeeping"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endolymph"
+      }
+    ]
+  },
+  {
+    "word": "nội hàm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập hợp tất cả các thuộc tính chung của các đối tượng được phản ánh trong một khái niệm; phân biệt với ngoại diên\nVí dụ:\n- nội hàm khái niệm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội hàm\n- Toàn thể những tính chất bao gồm trong một khái niệm: Nội hàm của khái niệm \"xe\" là: phương tiện vận chuyển trên bộ, thường chạy bằng bánh; Nội hàm của khái niệm \"ô-tô\" là nội hàm của khái niệm \"xe\" cộng thêm nội hàm: chạy bằng xăng cháy trong động cơ nổ trên bốn bánh hoặc nhiều hơn (X. Ngoại diên)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội hàm\n-(triết học) Connotation, comprehension"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội hàm\n- (triết học) Connotation, comprehension"
       }
     ]
   },
@@ -1159,819 +672,60 @@
     ]
   },
   {
-    "word": "nội hàm",
+    "word": "nội bạch huyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endolymph"
+      }
+    ]
+  },
+  {
+    "word": "nội tiết học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội tiết học [nội tiết học]\n-endocrinology\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocrinology"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endocrinology"
+      }
+    ]
+  },
+  {
+    "word": "nội ký sinh trùng động vật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-entozoic parasite"
+      }
+    ]
+  },
+  {
+    "word": "nội chuyển lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-entropy"
+      }
+    ]
+  },
+  {
+    "word": "nội thất hoàn thiện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-finished interior"
+      }
+    ]
+  },
+  {
+    "word": "nội địa hoá",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp tất cả các thuộc tính chung của các đối tượng được phản ánh trong một khái niệm; phân biệt với ngoại diên\nVí dụ:\n- nội hàm khái niệm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội hàm\n- Toàn thể những tính chất bao gồm trong một khái niệm: Nội hàm của khái niệm \"xe\" là: phương tiện vận chuyển trên bộ, thường chạy bằng bánh; Nội hàm của khái niệm \"ô-tô\" là nội hàm của khái niệm \"xe\" cộng thêm nội hàm: chạy bằng xăng cháy trong động cơ nổ trên bốn bánh hoặc nhiều hơn (X. Ngoại diên)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội hàm\n-(triết học) Connotation, comprehension"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội hàm\n- (triết học) Connotation, comprehension"
-      }
-    ]
-  },
-  {
-    "word": "nộ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nộ\n- (đph) d. Nh. Nỏ: Dùng nộ bắn chim.\n- đg. Dọa: Nộ trẻ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nộ\n-(địa phương) như nỏ Cross-bow, arbalest\n-Intimidate\n=Nộ trẻ con\n+To intimidate children"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nộ\n- (địa phương) như nỏ Cross-bow, arbalest\n-Intimidate\n=Nộ trẻ con+To intimidate children"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cross-bow, arbalest; to intimidate"
-      }
-    ]
-  },
-  {
-    "word": "nội dung hợp đồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-contract contents\n-treat contents\n-treaty contents"
-      }
-    ]
-  },
-  {
-    "word": "nội dung quyết định",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-decision content"
-      }
-    ]
-  },
-  {
-    "word": "nội âm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sidetone"
-      }
-    ]
-  },
-  {
-    "word": "nội tiết bình thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-normocrinic"
-      }
-    ]
-  },
-  {
-    "word": "nội áp suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-internal pressure"
-      }
-    ]
-  },
-  {
-    "word": "nột",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bí, cùng đường\nVí dụ:\n- đuổi nột đến sau lưng \n - nột quá, phải liều mạng"
-      }
-    ]
-  },
-  {
-    "word": "nội cảm thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-interoceptive\n-interoceptor"
-      }
-    ]
-  },
-  {
-    "word": "nội giao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội giao [nội giao]\n-endogamous\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endogamy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endogamous"
-      }
-    ]
-  },
-  {
-    "word": "nộp thừa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overpayment"
-      }
-    ]
-  },
-  {
-    "word": "nội công",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thuật rèn luyện khả năng chịu đựng của các cơ quan bên trong thân thể; phân biệt với ngoại công\nVí dụ:\n- nội công thâm hậu \n - vận nội công"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội công\n- Sự đánh phá từ bên trong ra, do lực lượng đã bố trí được ở bên trong phối hợp với sức tấn công ở bên ngoài : Khi bộ đội đến công đồn thì ngụy binh ở đó làm nội công."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội công\n*noun\n-inner force; strangth"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội công\n* noun\n- inner force; strangth"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "inner force, strength"
-      }
-    ]
-  },
-  {
-    "word": "nội tạng nhỏ bé",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-splanchnomicria"
-      }
-    ]
-  },
-  {
-    "word": "nội lực kéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tensile resistance"
-      }
-    ]
-  },
-  {
-    "word": "nội qui",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nội quy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội qui\n- Luật lệ thi hành ở bên trong một tổ chức, một cơ quan: Nội qui thư viện."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rules, regulations"
-      }
-    ]
-  },
-  {
-    "word": "nộp hóa đơn để thanh toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-represent"
-      }
-    ]
-  },
-  {
-    "word": "nội cảm giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal sensation"
-      }
-    ]
-  },
-  {
-    "word": "nội thành",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khu vực bên trong thành phố; phân biệt với ngoại thành\nVí dụ:\n- các quận nội thành \n - sống trong nội thành"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội thành\n- Khu vực chính, ở giữa một thành phố, trái với ngoại thành."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội thành\n-A city\"s inlying areas, urban areas\n=Nội thành Hà Nội\n+Hanoi urban areas, Hanoi proper\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interior of a city\n-intramural"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội thành\n- A city's inlying areas, urban areas\n=Nội thành Hà Nội+Hanoi urban areas, Hanoi proper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a city’s inner areas, urban areas; inside a city"
-      }
-    ]
-  },
-  {
-    "word": "nội dung (của một văn kiện...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-tenor"
-      }
-    ]
-  },
-  {
-    "word": "nội dung dữ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data content"
-      }
-    ]
-  },
-  {
-    "word": "nội động từ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội động từ\n- dt (H. động: không đứng yên; từ: lời) Động từ không dùng với tân ngữ, trái với ngoại động từ: Khi nói Đi ra phố, thì Đi là nội động từ, nhưng khi nói Đi con xe, thì Đi là ngoại động từ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội động từ\n*noun\n-intransitive verb"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội động từ\n* noun\n- intransitive verb"
-      }
-    ]
-  },
-  {
-    "word": "nội lực do hoạt tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-live-load stress"
-      }
-    ]
-  },
-  {
-    "word": "nội quy cơ quan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-office regulations"
-      }
-    ]
-  },
-  {
-    "word": "nội đồng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khu vực bên trong cánh đồng\nVí dụ:\n- hệ thống kênh mương nội đồng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội đồng\n-Interior field"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội đồng\n- Interior field"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "interior field"
-      }
-    ]
-  },
-  {
-    "word": "nộp phạt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pay a fine"
-      }
-    ]
-  },
-  {
-    "word": "nộp vào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lodgement"
-      }
-    ]
-  },
-  {
-    "word": "nội sinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "được sinh ra từ bên trong bản thân sự vật, đối tượng được nói đến; phân biệt với ngoại sinh\nVí dụ:\n- năng lực nội sinh \n - yếu tố nội sinh"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội sinh [nội sinh]\n-(sinh vật, địa lý) Endogenous.\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-endogen\n@Lĩnh vực: y học\n-endogenous"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endogenous"
-      }
-    ]
-  },
-  {
-    "word": "nội hệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-endogenous"
-      }
-    ]
-  },
-  {
-    "word": "nội hồng cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-erythrocytic"
-      }
-    ]
-  },
-  {
-    "word": "nội dung nhớ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-memory content"
-      }
-    ]
-  },
-  {
-    "word": "nội bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội bào\n-(sinh vật) Intracelluler\n@Chuyên ngành kinh tế\n-intracellular\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-intra-cellular\n@Lĩnh vực: y học\n-intracelular"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội bào\n- (sinh vật) Intracelluler"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "intracelluler"
-      }
-    ]
-  },
-  {
-    "word": "nội thất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ đạc, các loại tiện nghi và cách bài trí, làm thành phía bên trong của một ngôi nhà [nói tổng quát]; phân biệt với ngoại thất\nVí dụ:\n- mua sắm nội thất \n - trang trí nội thất"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội thất\n-Interior\n=Trang trí nội thất\n+Interior decorations\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interior\n-interior of a building"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội thất\n- Interior\n=Trang trí nội thất+Interior decorations"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "inside (a house), indoors, interior"
-      }
-    ]
-  },
-  {
-    "word": "nội tủy mạc (bên trong não tủy của dây cột sống)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intrathecal"
-      }
-    ]
-  },
-  {
-    "word": "nội dung bằng số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-digital environment"
-      }
-    ]
-  },
-  {
-    "word": "nội xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-inject\n@Lĩnh vực: toán & tin\n-injective"
-      }
-    ]
-  },
-  {
-    "word": "nội khóa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội khóa\n- nội khoá dt. Môn học hoặc hoạt động giáo dục trong chương trình chính thức và học tập tại nhà trường; phân biệt ngoại khoá: kết hợp giữa nội khoá và ngoại khoá."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội khóa\n*noun\n-curriculum"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội khóa\n* noun\n- curriculum"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "curriculum"
-      }
-    ]
-  },
-  {
-    "word": "nội soi dạ dày bơm khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumogastroscopy"
-      }
-    ]
-  },
-  {
-    "word": "nội ứng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người từ trong hàng ngũ đối phương hoạt động phối hợp với lực lượng bên ngoài để đánh phá\nVí dụ:\n- cơ sở nội ứng \n - làm nội ứng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội ứng\n- Người được bố trí trong một cơ quan của địch để làm nội công."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội ứng\n-Fifth columnish, Trojan horse"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội ứng\n- Fifth columnish, Trojan horse"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fifth columnist, Trojan horse"
-      }
-    ]
-  },
-  {
-    "word": "nộp đơn xin",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to turn in or submit an application"
-      }
-    ]
-  },
-  {
-    "word": "nội thành hà nội",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Hanoi urban areas, Hanoi proper"
-      }
-    ]
-  },
-  {
-    "word": "nộp mình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nộp mình [nộp mình]\n-to surrender  ;  to present oneself;  to give oneself up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to surrender, present oneself, give oneself up"
-      }
-    ]
-  },
-  {
-    "word": "nội tế bào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-endocellular"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "intracellular"
-      }
-    ]
-  },
-  {
-    "word": "nộp thuế hải quan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-clear through customs"
-      }
-    ]
-  },
-  {
-    "word": "nội dung thông điệp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "contents of a message, message or letter body"
-      }
-    ]
-  },
-  {
-    "word": "nội chiến",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sự xung đột vũ trang giữa các miền hoặc các lực lượng xã hội bên trong một nước\nVí dụ:\n- cuộc nội chiến"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội chiến\n- dt. Chiến tranh giữa các giai cấp hoặc lực lượng xã hội đối kháng trong một nước."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội chiến\n*noun\n-civilwar\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil war"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội chiến\n* noun\n- civilwar"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "civil war"
-      }
-    ]
-  },
-  {
-    "word": "nội mô mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vascular endothellum"
-      }
-    ]
-  },
-  {
-    "word": "nội dung khả thi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-executable content"
-      }
-    ]
-  },
-  {
-    "word": "nội cân bằng sinh lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-physiological homeostasis"
-      }
-    ]
-  },
-  {
-    "word": "nội dung tài liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-document body"
-      }
-    ]
-  },
-  {
-    "word": "nộ trẻ con",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to intimidate children"
-      }
-    ]
-  },
-  {
-    "word": "nội lực chống xoắn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-torsional resistance"
-      }
-    ]
-  },
-  {
-    "word": "nội quy (của một tổ chức)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ethics"
-      }
-    ]
-  },
-  {
-    "word": "nội khí quản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endotracheal"
-      }
-    ]
-  },
-  {
-    "word": "nội trung bì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endomesoderm"
-      }
-    ]
-  },
-  {
-    "word": "nội cân bằng phát triển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-development homeostasis"
-      }
-    ]
-  },
-  {
-    "word": "nội trở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-internal resistance"
-      }
-    ]
-  },
-  {
-    "word": "nội duyên hải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-infralittoral"
-      }
-    ]
-  },
-  {
-    "word": "nội xicloit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypocycloid"
-      }
-    ]
-  },
-  {
-    "word": "nội bộ, bên trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Internal (INT)"
-      }
-    ]
-  },
-  {
-    "word": "nội tinh thể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intracrystalline"
-      }
-    ]
-  },
-  {
-    "word": "nội thôn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nội Thôn\n- (xã) h. Hà Quảng, t. Cao Bằng"
-      }
-    ]
-  },
-  {
-    "word": "nội đao",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội đao\n- Quân đao phủ, chuyên việc chém người"
-      }
-    ]
-  },
-  {
-    "word": "nội nhũ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội nhũ [nội nhũ]\n-(thực vật) Endoderm.\n@Chuyên ngành kinh tế\n-endosperm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endoderm"
-      }
-    ]
-  },
-  {
-    "word": "nội nhiễm độc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endointoxication"
-      }
-    ]
-  },
-  {
-    "word": "nội mông",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Inner Mongolia"
-      }
-    ]
-  },
-  {
-    "word": "nội gián",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người ở trong một tổ chức làm gián điệp cho đối phương, hoặc kẻ địch được cài vào trong nội bộ để hoạt động phá hoại\nVí dụ:\n- trong tổ chức có nội gián \n - cài người làm nội gián"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội gián\n- Kẻ do thám của địch chui vào các đoàn thể cách mạng để phá hoại."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội gián\n*noun\n-planted spy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội gián\n* noun\n- planted spy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "planted spy"
-      }
-    ]
-  },
-  {
-    "word": "nội ngoại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội ngoại\n-Parernal side and maternal side"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội ngoại\n- Parernal side and maternal side"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "paternal side and maternal side"
-      }
-    ]
-  },
-  {
-    "word": "nội chiến nam bắc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the American Civil War"
-      }
-    ]
-  },
-  {
-    "word": "nội đô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nội thành [của thủ đô hoặc thành phố lớn]\nVí dụ:\n- sống ở vùng nội đô \n - mở rộng giao thông vùng nội đô"
+        "dict_definition": "làm cho trở thành hoặc mang nhiều yếu tố, tính chất nội địa"
       }
     ]
   },
@@ -2001,45 +755,120 @@
     ]
   },
   {
-    "word": "nội địa (xe)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-domestic"
-      }
-    ]
-  },
-  {
-    "word": "nộ khí",
+    "word": "nội thuộc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khí sắc giận dữ\nVí dụ:\n- mặt đầy nộ khí"
+        "dict_definition": "lệ thuộc vào một nước lớn [tự coi mình là trung tâm]\nVí dụ:\n- chiến thắng Bạch Đằng năm 938 đã chấm dứt hơn nghìn năm nội thuộc phương Bắc"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nộ khí\n- Cơn tức giận. Nộ khí xung thiên. Cơn tức giận ghê gớm."
+        "dict_definition": "@nội thuộc\n- t. Nói một nước bị coi là ở ngoài rìa biên giới và chịu sự đô hộ của một nước lớn tự coi là trung tâm (cũ): Xưa kia, Việt Nam và Triều Tiên nội thuộc Trung Quốc."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nộ khí\n-Fit of anger\n=Nộ khí xung thiên\n+A towering rage"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nộ khí\n- Fit of anger\n=Nộ khí xung thiên+A towering rage"
+        "dict_definition": "@nội thuộc [nội thuộc]\n-(cũ) Be under foreign domination.\n-depandent (on); be ruled by China; be under Chinese rule"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "fit of anger"
+        "dict_definition": "be under foreign domination, dependent (on)"
       }
     ]
   },
   {
-    "word": "nộ lệ",
+    "word": "nội y",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "y phục mặc bên trong; quần áo lót"
+      }
+    ]
+  },
+  {
+    "word": "nội cỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội cỏ [nội cỏ]\n-meadow; lawn; grasspot"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "meadow, lawn"
+      }
+    ]
+  },
+  {
+    "word": "nội mô thần kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoneurium"
+      }
+    ]
+  },
+  {
+    "word": "nội quy công xưởng, nhà máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-works regulations"
+      }
+    ]
+  },
+  {
+    "word": "nội tướng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội tướng\n- d. 1. Vợ (cũ). 2. Bộ trưởng bộ nội vụ trong nội các Nhật Bản."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội tướng\n-(cũ) Wife, lady of the house"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội tướng\n- (cũ) Wife, lady of the house"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wife, lady of the house"
+      }
+    ]
+  },
+  {
+    "word": "nội năng theo mol",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-molar internal energy"
+      }
+    ]
+  },
+  {
+    "word": "nội bài",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "slave"
+        "dict_definition": "(airport in Hanoi)"
+      }
+    ]
+  },
+  {
+    "word": "nội nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-internal heat\n@Lĩnh vực: y học\n-lnternal heat"
+      }
+    ]
+  },
+  {
+    "word": "nộ khí xung thiên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a towering rage"
       }
     ]
   },
@@ -2053,81 +882,71 @@
     ]
   },
   {
-    "word": "nội dung dữ kiện",
+    "word": "nội dung hợp đồng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-data content"
+        "dict_definition": "@Chuyên ngành kinh tế\n-contract contents\n-treat contents\n-treaty contents"
       }
     ]
   },
   {
-    "word": "nội tiếp được",
+    "word": "nội dung trả về",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-inscribable"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-content-returned\n-return of content"
       }
     ]
   },
   {
-    "word": "nội dung phán quyết của trọng tài",
+    "word": "nội hấp thu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-content of the award"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal absorption"
       }
     ]
   },
   {
-    "word": "nội ngẫu",
+    "word": "nộ trẻ con",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-internal moment"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to intimidate children"
       }
     ]
   },
   {
-    "word": "nội chính",
+    "word": "nội vụ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lĩnh vực hoạt động của nhà nước, bao gồm việc quản lí trật tự trị an, quân sự, kinh tế, văn hoá\nVí dụ:\n- cơ quan nội chính"
+        "dict_definition": "công việc thuộc lĩnh vực chính trị trong một nước\nVí dụ:\n- bộ nội vụ \n - nhân viên nội vụ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cách sắp xếp nơi ăn ở, cách ăn mặc, sắp xếp thì giờ sinh hoạt, v.v. của quân nhân trong doanh trại [nói tổng quát]\nVí dụ:\n- nội vụ gọn gàng \n - kiểm tra nội vụ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "diễn biến bên trong của vụ việc\nVí dụ:\n- điều tra để làm rõ nội vụ"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội chính\n- dt (H. chính: việc quốc gia) Việc sửa trị trong nước: Về các ngành khác, như kinh tế, tài chính, nội chính, văn hoá, xã hội, ta cũng tiến bộ không ngừng (HCM)."
+        "dict_definition": "@nội vụ\n- dt (H. vụ: việc) Công việc hành chính và an ninh trong nước: Các cán bộ công an thuộc bộ Nội vụ."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội chính\n-domestic policy; domestic administration"
+        "dict_definition": "@nội vụ\n*noun\n-home affairs"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội chính\n- domestic policy; domestic administration"
+        "dict_definition": "@nội vụ\n* noun\n- home affairs"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "domestic policy, domestic administration"
-      }
-    ]
-  },
-  {
-    "word": "nội suy tiếng nói kỹ thuật số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Digital Speech Interpolation (DSI)"
-      }
-    ]
-  },
-  {
-    "word": "nội chuyển nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-entropy"
+        "dict_definition": "domestic affairs, home affairs"
       }
     ]
   },
@@ -2141,45 +960,587 @@
     ]
   },
   {
-    "word": "nộp",
+    "word": "nội mô mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vascular endothellum"
+      }
+    ]
+  },
+  {
+    "word": "nội hệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-endogenous"
+      }
+    ]
+  },
+  {
+    "word": "nội tỉnh",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đưa cho người có trách nhiệm thu giữ\nVí dụ:\n- nộp đơn cho toà \n - nộp học phí \n - nộp thuế"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nộp\n- đg. Giao, đưa cho chính quyền, cho người trên: Nộp bài; Nộp đơn."
+        "dict_definition": "khu vực bên trong tỉnh; phân biệt với ngoại tỉnh\nVí dụ:\n- bến xe nội tỉnh \n - cước điện thoại nội tỉnh"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nộp\n-hand in, pay\n=Nộp đơn\n+To hand in a request\n=Nộp thuế\n+To pay one\"s taxes. give up\n=Nộp tên kẻ cắp cho công an\n+To give up a thief to the poli\n@Chuyên ngành kinh tế\n-lodge\n-pay\n-play\n-present"
+        "dict_definition": "@nội tỉnh\n-(tâm) Introspection"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nộp\n- hand in, pay\n=Nộp đơn+To hand in a request\n=Nộp thuế+To pay one's taxes. give up\n=Nộp tên kẻ cắp cho công an+To give up a thief to the poli"
+        "dict_definition": "@nội tỉnh\n- (tâm) Introspection"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(1) to submit, hand over, turn in, deliver, pay (a fine); (2) see nạp"
+        "dict_definition": "introspection"
       }
     ]
   },
   {
-    "word": "nội soi trực - kết tràng",
+    "word": "nội hạt nhân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-proctocolonoscopy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intranuclear"
       }
     ]
   },
   {
-    "word": "nội dung hoàn chỉnh",
+    "word": "nội dòng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-contents intact"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-in-line"
+      }
+    ]
+  },
+  {
+    "word": "nội ký sinh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-entorganism"
+      }
+    ]
+  },
+  {
+    "word": "nội xicloit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypocycloid"
+      }
+    ]
+  },
+  {
+    "word": "nội dung thông tin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-information content\n@Chuyên ngành kỹ thuật\n-information content"
+      }
+    ]
+  },
+  {
+    "word": "nội mông",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Inner Mongolia"
+      }
+    ]
+  },
+  {
+    "word": "nội suy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-interpolate\n-interpolation"
+      }
+    ]
+  },
+  {
+    "word": "nộp báo cáo kế toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-filling of accounts"
+      }
+    ]
+  },
+  {
+    "word": "nội lực",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lực sinh ra trong nội bộ đối tượng được xét; phân biệt với ngoại lực\nVí dụ:\n- phát huy nội lực \n - một con người có nội lực phi thường"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội lực\n-Internal force\n@Chuyên ngành kỹ thuật\n-effort\n-force\n-inner forces\n-internal energy\n-internal force\n-internal forces"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội lực\n- Internal force"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "internal force"
+      }
+    ]
+  },
+  {
+    "word": "nội âm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sidetone"
+      }
+    ]
+  },
+  {
+    "word": "nội cân bằng kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-economic homeostasis"
+      }
+    ]
+  },
+  {
+    "word": "nội áp suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-internal pressure"
+      }
+    ]
+  },
+  {
+    "word": "nội chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội chất [nội chất]\n-endoplasm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endoplasm"
+      }
+    ]
+  },
+  {
+    "word": "nội suy tiếng nói có chỉ định thời gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Time Assignment Speech Interpolation (TASI)"
+      }
+    ]
+  },
+  {
+    "word": "nội kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-endocrine"
+      }
+    ]
+  },
+  {
+    "word": "nội bộ, bên trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Internal (INT)"
+      }
+    ]
+  },
+  {
+    "word": "nội các",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hội đồng chính phủ, theo cách gọi ở một số nước\nVí dụ:\n- nội các chính phủ \n - cải tổ nội các"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội các\n- d. Tên gọi hội đồng chính phủ ở một số nước. Cải tổ nội các."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội các\n*noun\n-cabinet\n@Chuyên ngành kinh tế\n-government\n-ministry"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội các\n* noun\n- cabinet"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cabinet (government)"
+      }
+    ]
+  },
+  {
+    "word": "nộp giấy chứng nhận thanh toán cuối cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Application for Final Certificate of Payment"
+      }
+    ]
+  },
+  {
+    "word": "nội tâm thần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intrapsychic"
+      }
+    ]
+  },
+  {
+    "word": "nội ban",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enanthema"
+      }
+    ]
+  },
+  {
+    "word": "nội dung, đề tài (quyển sách...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-matter"
+      }
+    ]
+  },
+  {
+    "word": "nội quan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội quan [nội quan]\n-(tâm lý) Introspection.\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-introspection"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "introspection"
+      }
+    ]
+  },
+  {
+    "word": "nội lực hoạt tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-live-load stress"
+      }
+    ]
+  },
+  {
+    "word": "nội tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-in-house line\n-in-line"
+      }
+    ]
+  },
+  {
+    "word": "nội dung thi hành được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-executable content"
+      }
+    ]
+  },
+  {
+    "word": "nội ô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội ô [nội ô]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "nội thất xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-interior"
+      }
+    ]
+  },
+  {
+    "word": "nội mạc, màng nội mạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intima"
+      }
+    ]
+  },
+  {
+    "word": "nội tân dịch",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endolymph"
+      }
+    ]
+  },
+  {
+    "word": "nội dung khả thi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-executable content"
+      }
+    ]
+  },
+  {
+    "word": "nội địa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phần đất trong lục địa ở xa biển\nVí dụ:\n- tiến sâu vào nội địa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trong nước, được làm ra để tiêu thụ trong nước, không phải hàng nhập khẩu và cũng không phải để xuất khẩu\nVí dụ:\n- ti vi nội địa \n - nước hoa nội địa \n - hàng nội địa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội địa\n- I. dt. Phần đất liền ở xa biển và xa biên giới: nằm sâu trong nội địa. II. tt. ở trong nước, do trong nước sản xuất, không phải được nhập khẩu vào và cũng không phải để xuất khẩu: hàng nội địa  ti vi nội địa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội địa\n*noun\n-inland; interior\n@Chuyên ngành kinh tế\n-hinterland\n-home industry\n-indigenous\n@Chuyên ngành kỹ thuật\n-domestic\n-domestic supply\n-hinterland\n-inland\n-inner land"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội địa\n* noun\n- inland; interior"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "inland, interior, domestic"
+      }
+    ]
+  },
+  {
+    "word": "nội tạng, tạng phủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-viscus"
+      }
+    ]
+  },
+  {
+    "word": "nộp mình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nộp mình [nộp mình]\n-to surrender  ;  to present oneself;  to give oneself up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to surrender, present oneself, give oneself up"
+      }
+    ]
+  },
+  {
+    "word": "nội dung (của một văn kiện...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-tenor"
+      }
+    ]
+  },
+  {
+    "word": "nội chuyển nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-entropy"
+      }
+    ]
+  },
+  {
+    "word": "nội biến",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tình hình có biến bên trong một nước, một tổ chức\nVí dụ:\n- trong nước có nội biến \n - dẹp yên nội biến"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội biến\n-Internal trouble"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội biến\n- Internal trouble"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "internal trouble"
+      }
+    ]
+  },
+  {
+    "word": "nội ngẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-internal moment"
+      }
+    ]
+  },
+  {
+    "word": "nội ứng suất trong ray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-internal stress in the rail"
+      }
+    ]
+  },
+  {
+    "word": "nội dung thông tin liên kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-join information content"
+      }
+    ]
+  },
+  {
+    "word": "nộp phạt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pay a fine"
+      }
+    ]
+  },
+  {
+    "word": "nội trị",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội trị\n- Việc chính trị, trị an trong nội bộ một nước."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội trị\n-Home affairs, home administration, home policy, internal affairs,internal policy, internal administration"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội trị\n- Home affairs, home administration, home policy, internal affairs,internal policy, internal administration"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "home affairs, home administration, home policy, internal"
+      }
+    ]
+  },
+  {
+    "word": "nội dung quyết định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-decision content"
+      }
+    ]
+  },
+  {
+    "word": "nội tình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tình hình, tình trạng bên trong [của một nước, một tổ chức, v.v.]\nVí dụ:\n- nội tình sự việc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội tình\n-Internal situation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội tình\n- Internal situation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "internal situation"
+      }
+    ]
+  },
+  {
+    "word": "nội dung bằng số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-digital environment"
+      }
+    ]
+  },
+  {
+    "word": "nội dung vận đơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-contents of bill of lading"
+      }
+    ]
+  },
+  {
+    "word": "nội suy dạng sóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Waveform Interpolation (WI)"
+      }
+    ]
+  },
+  {
+    "word": "nội suy tiếng nói kỹ thuật số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Digital Speech Interpolation (DSI)"
+      }
+    ]
+  },
+  {
+    "word": "nội thanh quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endolarynse"
+      }
+    ]
+  },
+  {
+    "word": "nội thành hà nội",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Hanoi urban areas, Hanoi proper"
+      }
+    ]
+  },
+  {
+    "word": "nội thẩm thấu kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endosmometer"
       }
     ]
   },
@@ -2193,11 +1554,156 @@
     ]
   },
   {
-    "word": "nội soi màng phổi",
+    "word": "nội tiết bình thường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pleuroscopy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-normocrinic"
+      }
+    ]
+  },
+  {
+    "word": "nội thất",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đồ đạc, các loại tiện nghi và cách bài trí, làm thành phía bên trong của một ngôi nhà [nói tổng quát]; phân biệt với ngoại thất\nVí dụ:\n- mua sắm nội thất \n - trang trí nội thất"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội thất\n-Interior\n=Trang trí nội thất\n+Interior decorations\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interior\n-interior of a building"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội thất\n- Interior\n=Trang trí nội thất+Interior decorations"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "inside (a house), indoors, interior"
+      }
+    ]
+  },
+  {
+    "word": "nội hôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội hôn\n-Endogemy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội hôn\n- Endogemy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endogemy"
+      }
+    ]
+  },
+  {
+    "word": "nội dung kế hoạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-programme element"
+      }
+    ]
+  },
+  {
+    "word": "nội cung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội cung\n-Harem"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội cung\n- Harem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "harem"
+      }
+    ]
+  },
+  {
+    "word": "nột",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bí, cùng đường\nVí dụ:\n- đuổi nột đến sau lưng \n - nột quá, phải liều mạng"
+      }
+    ]
+  },
+  {
+    "word": "nội tế bào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-endocellular"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "intracellular"
+      }
+    ]
+  },
+  {
+    "word": "nộm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hình nộm [nói tắt]\nVí dụ:\n- con nộm rơm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "món ăn làm bằng rau hoặc củ, quả thái nhỏ, trộn với dấm, đường, vừng, lạc và các gia vị khác\nVí dụ:\n- nộm hoa chuối \n - nộm ngó sen"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nộm\n- d. Món đồ ăn gồm rau luộc, đu đủ sống thái nhỏ... trộn với vừng, lạc... có thêm chanh hoặc giấm và ớt.\n- d. Hình nhân bằng giấy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nộm\n-Sweet and sour grated salad\n-Nom is a combination of a variety of fresh vegetables, considered to be salad in Western countries. The main ingredients include grated pieces of turnip, cabbage or papaya and slices of cucumber with grated boiled lean pork. Other auxiliary ingredients are grated carrot, slices of hot chilly and broken roasted groundnuts. These are used to make the dish more colourful. All are mixed thoroughly before being soaked in vinegar, sugar, garlic, hot chilly and seasoned with salt. The mixture of ingredients is put into a dish before being covered with some spicy vegetables. To try a mouthful of Nom is to enjoy a combination of all the tastes, including sour, hot, sweet, salty and fragrant. The dish helps digest at meal and party times. It can become an addictive aid to assist the real connoisseur to enjoy more food"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nộm\n- Sweet and sour grated salad\n-Nom is a combination of a variety of fresh vegetables, considered to be salad in Western countries. The main ingredients include grated pieces of turnip, cabbage or papaya and slices of cucumber with grated boiled lean pork. Other auxiliary ingredients are grated carrot, slices of hot chilly and broken roasted groundnuts. These are used to make the dish more colourful. All are mixed thoroughly before being soaked in vinegar, sugar, garlic, hot chilly and seasoned with salt. The mixture of ingredients is put into a dish before being covered with some spicy vegetables. To try a mouthful of Nom is to enjoy a combination of all the tastes, including sour, hot, sweet, salty and fragrant. The dish helps digest at meal and party times. It can become an addictive aid to assist the real connoisseur to enjoy more food"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sweet and sour grated salad"
+      }
+    ]
+  },
+  {
+    "word": "nộ lệ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "slave"
+      }
+    ]
+  },
+  {
+    "word": "nội tạng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội tạng\n- X. Phủ tạng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội tạng\n-Innards, viscera\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-visceral"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội tạng\n- Innards, viscera"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "innards, viscera"
       }
     ]
   },
@@ -2227,6 +1733,67 @@
     ]
   },
   {
+    "word": "nội phân tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intramolecular\n-intramoleculir"
+      }
+    ]
+  },
+  {
+    "word": "nội mạc cổ tử cung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocervical"
+      }
+    ]
+  },
+  {
+    "word": "nội ứng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người từ trong hàng ngũ đối phương hoạt động phối hợp với lực lượng bên ngoài để đánh phá\nVí dụ:\n- cơ sở nội ứng \n - làm nội ứng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội ứng\n- Người được bố trí trong một cơ quan của địch để làm nội công."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội ứng\n-Fifth columnish, Trojan horse"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội ứng\n- Fifth columnish, Trojan horse"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fifth columnist, Trojan horse"
+      }
+    ]
+  },
+  {
+    "word": "nội dung phán quyết của trọng tài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-content of the award"
+      }
+    ]
+  },
+  {
+    "word": "nội dung tài liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-document body"
+      }
+    ]
+  },
+  {
     "word": "nội tâm",
     "definitions": [
       {
@@ -2252,85 +1819,535 @@
     ]
   },
   {
-    "word": "nội dung",
+    "word": "nội tại",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mặt bên trong của sự vật, cái được hình thức chứa đựng hoặc biểu hiện\nVí dụ:\n- nội dung tác phẩm \n - có sự hài hoà giữa nội dung và hình thức"
+        "dict_definition": "có ở ngay bên trong bản thân sự vật\nVí dụ:\n- nguyên nhân nội tại \n - mâu thuẫn nội tại"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội dung\n- d. Mặt bên trong của sự vật, cái được hình thức chứa đựng hoặc biểu hiện. Nội dung của tác phẩm."
+        "dict_definition": "@nội tại\n- ở bên trong sự vật: Nguyên nhân nội tại."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội dung\n*noun\n-tenor ; terms\n@Chuyên ngành kinh tế\n-content\n-matter\n@Chuyên ngành kỹ thuật\n-content\n-contents\n-matter\n-substance"
+        "dict_definition": "@nội tại\n-Immanent, inherent\n=Nguyên nhân nội tại\n+An immanent cause\n@Chuyên ngành kỹ thuật\n-intrinsic\n-intrinsical"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội dung\n* noun\n- tenor ; terms"
+        "dict_definition": "@nội tại\n- Immanent, inherent\n=Nguyên nhân nội tại+An immanent cause"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "subject, contents (of a speech, document); platform, purport, context"
+        "dict_definition": "immanent, inherent"
       }
     ]
   },
   {
-    "word": "nội sụn",
+    "word": "nội soi học",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endochondral"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-endoscopy"
       }
     ]
   },
   {
-    "word": "nội phản",
+    "word": "nội hóa",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội hóa\n- nội hoá d. (cũ). Hàng nội."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@nội phản [nội phản]\n-Traitor, betrayor."
+        "dict_definition": "@nội hóa\n*noun\n-home made; locally made"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội hóa\n* noun\n- home made; locally made"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "traitor"
+        "dict_definition": "home-made, home-grown, locally made; local goods"
       }
     ]
   },
   {
-    "word": "nội thất ô tô",
+    "word": "nội dung tệp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-interior of car"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-file contents"
       }
     ]
   },
   {
-    "word": "nội tâm mạc",
+    "word": "nội dung những dữ kiện",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocardium"
+        "dict_name": "VNEDICT",
+        "dict_definition": "contents of data"
       }
     ]
   },
   {
-    "word": "nội dung chủ yếu",
+    "word": "nội mô giác mạc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subject matter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-corneal endothellum"
       }
     ]
   },
   {
-    "word": "nội thanh quản",
+    "word": "nội quy (của một tổ chức)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endolarynse"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ethics"
+      }
+    ]
+  },
+  {
+    "word": "nội bào tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endogonidium\n-endospore"
+      }
+    ]
+  },
+  {
+    "word": "nội nguyên tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intra-atomic"
+      }
+    ]
+  },
+  {
+    "word": "nội nhật ngày hôm nay",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "within today"
+      }
+    ]
+  },
+  {
+    "word": "nội thương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "việc buôn bán bên trong một nước [nói khái quát]; phân biệt với ngoại thương\nVí dụ:\n- buôn bán nội thương"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội thương\n- 1 dt (H. thương: buôn bán) Việc buôn bán ở trong nước: Các cửa hàng mậu dịch đều thuộc ngành nội thương.\n- 2 tt (H. thương: tổn hại) Nói những bệnh có thể điều trị bằng phương pháp nội khoa, không dùng phương pháp mổ xẻ: Nhiều vị thuốc Nam chữa khỏi những bệnh nội thương."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội thương\n-internal disease\n@Chuyên ngành kinh tế\n-domestic trade\n-home trade\n-inland trade\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-home trade"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội thương\n- internal disease"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "internal disease"
+      }
+    ]
+  },
+  {
+    "word": "nội dung hàng trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-content of inventory"
+      }
+    ]
+  },
+  {
+    "word": "nội bộ đảng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "within the party"
+      }
+    ]
+  },
+  {
+    "word": "nột nửa vòng tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-half cycle"
+      }
+    ]
+  },
+  {
+    "word": "nộp cheo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nộp cheo [nộp cheo]\n-pay for the marriage certificate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pay for the marriage certificate"
+      }
+    ]
+  },
+  {
+    "word": "nội ngoại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội ngoại\n-Parernal side and maternal side"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội ngoại\n- Parernal side and maternal side"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "paternal side and maternal side"
+      }
+    ]
+  },
+  {
+    "word": "nội họa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội họa\n- Tình trạng chiến tranh và rối loạn bên trong một nước."
+      }
+    ]
+  },
+  {
+    "word": "nội sinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "được sinh ra từ bên trong bản thân sự vật, đối tượng được nói đến; phân biệt với ngoại sinh\nVí dụ:\n- năng lực nội sinh \n - yếu tố nội sinh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội sinh [nội sinh]\n-(sinh vật, địa lý) Endogenous.\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-endogen\n@Lĩnh vực: y học\n-endogenous"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endogenous"
+      }
+    ]
+  },
+  {
+    "word": "nội quy cơ quan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-office regulations"
+      }
+    ]
+  },
+  {
+    "word": "nội nhân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội nhân\n- Từ cũ dùng để chỉ vợ mình khi nói với người khác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội nhân\n-(cũ) My wife, my old woman (thông tục)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội nhân\n- (cũ) My wife, my old woman (thông tục)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "my wife, my old woman"
+      }
+    ]
+  },
+  {
+    "word": "nội dung quảng cáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-contents of advertisements"
+      }
+    ]
+  },
+  {
+    "word": "nội dung và chỉ mục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-contents and index"
+      }
+    ]
+  },
+  {
+    "word": "nội địa (xe)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-domestic"
+      }
+    ]
+  },
+  {
+    "word": "nội xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-inject\n@Lĩnh vực: toán & tin\n-injective"
+      }
+    ]
+  },
+  {
+    "word": "nội dung hình ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-picture content"
+      }
+    ]
+  },
+  {
+    "word": "nội quy chỗ làm việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-workplace regulations"
+      }
+    ]
+  },
+  {
+    "word": "nội gián",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người ở trong một tổ chức làm gián điệp cho đối phương, hoặc kẻ địch được cài vào trong nội bộ để hoạt động phá hoại\nVí dụ:\n- trong tổ chức có nội gián \n - cài người làm nội gián"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội gián\n- Kẻ do thám của địch chui vào các đoàn thể cách mạng để phá hoại."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội gián\n*noun\n-planted spy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội gián\n* noun\n- planted spy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "planted spy"
+      }
+    ]
+  },
+  {
+    "word": "nội tiêu tố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endolysin"
+      }
+    ]
+  },
+  {
+    "word": "nội hạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khu vực bên trong một tỉnh hoặc một nước\nVí dụ:\n- mạng viễn thông nội hạt \n - cước cuộc gọi nội hạt \n - di dân nội hạt"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-local"
+      }
+    ]
+  },
+  {
+    "word": "nội lực chống xoắn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-torsional resistance"
+      }
+    ]
+  },
+  {
+    "word": "nộp đơn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hand in a request, give up, hand over, submit an application, register one’s name (for something)"
+      }
+    ]
+  },
+  {
+    "word": "nội kinh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nội kinh\n- Pho sách thuốc rất cổ (Gồm bộ Tố vấn và bộ Linh Khu hợp lại) dạy về nguyên lý cơ bản và phép châm cứu của Đông y"
+      }
+    ]
+  },
+  {
+    "word": "nội cân bằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-homeostasis"
+      }
+    ]
+  },
+  {
+    "word": "nội mạc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endo-"
+      }
+    ]
+  },
+  {
+    "word": "nội lực ở vòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-arch stress"
+      }
+    ]
+  },
+  {
+    "word": "nộp thuế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pay tax\n-pay tax (to ...)\n-payment of duty\n-payment of tax\n-rate paying\n-tax payment\n@Chuyên ngành kỹ thuật\n-taxes"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pay one’s taxes"
+      }
+    ]
+  },
+  {
+    "word": "nộp hóa đơn để thanh toán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-represent"
+      }
+    ]
+  },
+  {
+    "word": "nội cảm giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal sensation"
+      }
+    ]
+  },
+  {
+    "word": "nội công",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thuật rèn luyện khả năng chịu đựng của các cơ quan bên trong thân thể; phân biệt với ngoại công\nVí dụ:\n- nội công thâm hậu \n - vận nội công"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội công\n- Sự đánh phá từ bên trong ra, do lực lượng đã bố trí được ở bên trong phối hợp với sức tấn công ở bên ngoài : Khi bộ đội đến công đồn thì ngụy binh ở đó làm nội công."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội công\n*noun\n-inner force; strangth"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội công\n* noun\n- inner force; strangth"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "inner force, strength"
+      }
+    ]
+  },
+  {
+    "word": "nội duệ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nội Duệ\n- (xã) h. Tiên Sơn, t. Bắc Ninh"
+      }
+    ]
+  },
+  {
+    "word": "nội soi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phương pháp đưa một ống nhỏ vào bên trong cơ thể, qua đó có thể quan sát hay chụp ảnh cơ quan bệnh lí bằng một máy ảnh đặt ở đầu ống phía ngoài, cũng có thể cắt một mảnh nhỏ để chẩn đoán tế bào hay thực hiện phẫu thuật qua ống này\nVí dụ:\n- mổ nội soi \n - chẩn đoán bằng phương pháp nội soi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoscopy"
+      }
+    ]
+  },
+  {
+    "word": "nội thần",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội thần\n- quan hầu trong nội cung nhà vua như thị vệ, nội giám, hoạn quan"
+      }
+    ]
+  },
+  {
+    "word": "nội ký sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội ký sinh\n-(sinh vật) Endoparasite\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoparasite"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội ký sinh\n- (sinh vật) Endoparasite"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endoparasite"
+      }
+    ]
+  },
+  {
+    "word": "nội ứng suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-internal stress"
+      }
+    ]
+  },
+  {
+    "word": "nộp tiền (vào)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-paying in"
       }
     ]
   },
@@ -2376,6 +2393,323 @@
     ]
   },
   {
+    "word": "nộp (tiền, thuế...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pay"
+      }
+    ]
+  },
+  {
+    "word": "nội hải",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the Inland Sea (of Japan)"
+      }
+    ]
+  },
+  {
+    "word": "nội cốt mạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endosteum"
+      }
+    ]
+  },
+  {
+    "word": "nội quy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "những điều quy định để bảo đảm trật tự và kỉ luật trong một tập thể, một cơ quan [nói tổng quát]\nVí dụ:\n- chấp hành nội quy của nhà trường \n - vi phạm nội quy"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội quy\n-Intramural regulations\n@Chuyên ngành kinh tế\n-bylaws\n-interpolation\n-regulations\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-regulations\n-rules"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội quy\n- Intramural regulations"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "regulation, by-law"
+      }
+    ]
+  },
+  {
+    "word": "nội khoá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "môn học hoặc hoạt động giáo dục trong chương trình chính thức; phân biệt với ngoại khoá\nVí dụ:\n- giờ nội khoá"
+      }
+    ]
+  },
+  {
+    "word": "nội ký sinh trùng thực vật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endophytic parasite"
+      }
+    ]
+  },
+  {
+    "word": "nội dung dữ liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data content"
+      }
+    ]
+  },
+  {
+    "word": "nội bào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội bào\n-(sinh vật) Intracelluler\n@Chuyên ngành kinh tế\n-intracellular\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-intra-cellular\n@Lĩnh vực: y học\n-intracelular"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội bào\n- (sinh vật) Intracelluler"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "intracelluler"
+      }
+    ]
+  },
+  {
+    "word": "nộp lại (kinh phí thặng dư)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-surrender"
+      }
+    ]
+  },
+  {
+    "word": "nội tỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inherent vice\n-vice propre"
+      }
+    ]
+  },
+  {
+    "word": "nội lực do hoạt tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-live-load stress"
+      }
+    ]
+  },
+  {
+    "word": "nội măcma",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-intramagmatic"
+      }
+    ]
+  },
+  {
+    "word": "nội doanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-home trade"
+      }
+    ]
+  },
+  {
+    "word": "nội soi dạ dày bơm khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumogastroscopy"
+      }
+    ]
+  },
+  {
+    "word": "nội mô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội mô [nội mô]\n-endothelium\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endothellum"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endothelium"
+      }
+    ]
+  },
+  {
+    "word": "nội trở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-internal resistance"
+      }
+    ]
+  },
+  {
+    "word": "nội tủy mạc (bên trong não tủy của dây cột sống)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intrathecal"
+      }
+    ]
+  },
+  {
+    "word": "nội ma sát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-internal friction"
+      }
+    ]
+  },
+  {
+    "word": "nội suy tuyến tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interpolate linearly\n-to interpolate linearly\n@Lĩnh vực: đo lường & điều khiển\n-linear interpolation"
+      }
+    ]
+  },
+  {
+    "word": "nội ngoại khoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-medicochirugical"
+      }
+    ]
+  },
+  {
+    "word": "nội tiếp được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-inscribable"
+      }
+    ]
+  },
+  {
+    "word": "nội mạc động mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endarterium"
+      }
+    ]
+  },
+  {
+    "word": "nội tinh thể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intracrystalline"
+      }
+    ]
+  },
+  {
+    "word": "nội bào tương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoplasm"
+      }
+    ]
+  },
+  {
+    "word": "nội dung nhớ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-memory content"
+      }
+    ]
+  },
+  {
+    "word": "nội san",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập san chỉ để lưu hành trong nội bộ\nVí dụ:\n- tờ nội san kinh tế"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội san\n- Tập san chỉ lưu hành trong nội bộ một đoàn thể, cơ quan..."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội san [nội san]\n-Intramural magazine; internal journal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "intramural magazine, internal journal"
+      }
+    ]
+  },
+  {
+    "word": "nội soi màng phổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pleuroscopy"
+      }
+    ]
+  },
+  {
+    "word": "nội đô",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nội thành [của thủ đô hoặc thành phố lớn]\nVí dụ:\n- sống ở vùng nội đô \n - mở rộng giao thông vùng nội đô"
+      }
+    ]
+  },
+  {
+    "word": "nội tiết",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nội tiết tố [nói tắt]\nVí dụ:\n- rối loạn nội tiết"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[tuyến của cơ thể] có chất được tiết ra ngấm thẳng vào máu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội tiết\n- t. Nói các tuyến trực tiếp sản một chất cho máu.như tuyến thượng thận, tuyến giáp trạng..."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội tiết\n*adjective\n-endocrical\n@Chuyên ngành kỹ thuật\n-endocrine\n-incretion\n-incretory\n-internal secretion"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội tiết\n* adjective\n-endocrical"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endocrical"
+      }
+    ]
+  },
+  {
     "word": "nội hàng",
     "definitions": [
       {
@@ -2385,11 +2719,258 @@
     ]
   },
   {
-    "word": "nội dung tệp",
+    "word": "nội chính",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lĩnh vực hoạt động của nhà nước, bao gồm việc quản lí trật tự trị an, quân sự, kinh tế, văn hoá\nVí dụ:\n- cơ quan nội chính"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội chính\n- dt (H. chính: việc quốc gia) Việc sửa trị trong nước: Về các ngành khác, như kinh tế, tài chính, nội chính, văn hoá, xã hội, ta cũng tiến bộ không ngừng (HCM)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội chính\n-domestic policy; domestic administration"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội chính\n- domestic policy; domestic administration"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "domestic policy, domestic administration"
+      }
+    ]
+  },
+  {
+    "word": "nội giao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-file contents"
+        "dict_definition": "@nội giao [nội giao]\n-endogamous\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endogamy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endogamous"
+      }
+    ]
+  },
+  {
+    "word": "nội giãn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal sense"
+      }
+    ]
+  },
+  {
+    "word": "nội dung",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mặt bên trong của sự vật, cái được hình thức chứa đựng hoặc biểu hiện\nVí dụ:\n- nội dung tác phẩm \n - có sự hài hoà giữa nội dung và hình thức"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội dung\n- d. Mặt bên trong của sự vật, cái được hình thức chứa đựng hoặc biểu hiện. Nội dung của tác phẩm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội dung\n*noun\n-tenor ; terms\n@Chuyên ngành kinh tế\n-content\n-matter\n@Chuyên ngành kỹ thuật\n-content\n-contents\n-matter\n-substance"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội dung\n* noun\n- tenor ; terms"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "subject, contents (of a speech, document); platform, purport, context"
+      }
+    ]
+  },
+  {
+    "word": "nộp đơn từ chức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hand in one\"s resignation"
+      }
+    ]
+  },
+  {
+    "word": "nội hoàng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Nội Hoàng\n- (xã) h. Yên Dũng, t. Bắc Giang"
+      }
+    ]
+  },
+  {
+    "word": "nội trochoit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypotrochoid"
+      }
+    ]
+  },
+  {
+    "word": "nội cân bằng biểu sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epigenetic homeostasis"
+      }
+    ]
+  },
+  {
+    "word": "nội nhũ hạt ngô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cornlet"
+      }
+    ]
+  },
+  {
+    "word": "nội mạc tử cung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocervise\n-endometrium"
+      }
+    ]
+  },
+  {
+    "word": "nộp thừa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-overpayment"
+      }
+    ]
+  },
+  {
+    "word": "nộ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nộ\n- (đph) d. Nh. Nỏ: Dùng nộ bắn chim.\n- đg. Dọa: Nộ trẻ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nộ\n-(địa phương) như nỏ Cross-bow, arbalest\n-Intimidate\n=Nộ trẻ con\n+To intimidate children"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nộ\n- (địa phương) như nỏ Cross-bow, arbalest\n-Intimidate\n=Nộ trẻ con+To intimidate children"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cross-bow, arbalest; to intimidate"
+      }
+    ]
+  },
+  {
+    "word": "nội cân bằng phát triển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-development homeostasis"
+      }
+    ]
+  },
+  {
+    "word": "nội chiến nam bắc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the American Civil War"
+      }
+    ]
+  },
+  {
+    "word": "nội độc tố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội độc tố\n-(y học) Endotoxin\n@Chuyên ngành kinh tế\n-endotoxin\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endo-antitoscin\n-endotoxin"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội độc tố\n- (y học) Endotoxin"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endotoxin"
+      }
+    ]
+  },
+  {
+    "word": "nộ nạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nộ nạt\n- Dọa cho sợ: Nộ nạt trẻ con."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nộ nạt\n-Intimidate\n=Làm gì mà cứ nộ nạt trẻ thế?\n+Why intimidate children?"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nộ nạt\n- Intimidate\n=Làm gì mà cứ nộ nạt trẻ thế?+Why intimidate children?"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "intimidate"
+      }
+    ]
+  },
+  {
+    "word": "nội tộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "họ nội; phân biệt với ngoại tộc\nVí dụ:\n- họ hàng nội tộc \n - bà con nội tộc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội tộc [nội tộc]\n-Paternal relations."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "paternal relations"
+      }
+    ]
+  },
+  {
+    "word": "nội bì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-endoderm\n-hypoblast\n-intradermal"
+      }
+    ]
+  },
+  {
+    "word": "nội sụn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endochondral"
+      }
+    ]
+  },
+  {
+    "word": "nội dung hoàn chỉnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-contents intact"
       }
     ]
   },
@@ -2415,579 +2996,11 @@
     ]
   },
   {
-    "word": "nội dung phục vụ",
+    "word": "nội vùng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-service content"
-      }
-    ]
-  },
-  {
-    "word": "nội dung những dữ kiện",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "contents of data"
-      }
-    ]
-  },
-  {
-    "word": "nội họa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội họa\n- Tình trạng chiến tranh và rối loạn bên trong một nước."
-      }
-    ]
-  },
-  {
-    "word": "nội tịch",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "registered (in a town)"
-      }
-    ]
-  },
-  {
-    "word": "nội mô giác mạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-corneal endothellum"
-      }
-    ]
-  },
-  {
-    "word": "nội hóa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội hóa\n- nội hoá d. (cũ). Hàng nội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội hóa\n*noun\n-home made; locally made"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội hóa\n* noun\n- home made; locally made"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "home-made, home-grown, locally made; local goods"
-      }
-    ]
-  },
-  {
-    "word": "nội tiết tố ruột non",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enterocrinin"
-      }
-    ]
-  },
-  {
-    "word": "nội kinh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nội kinh\n- Pho sách thuốc rất cổ (Gồm bộ Tố vấn và bộ Linh Khu hợp lại) dạy về nguyên lý cơ bản và phép châm cứu của Đông y"
-      }
-    ]
-  },
-  {
-    "word": "nội măcma",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-intramagmatic"
-      }
-    ]
-  },
-  {
-    "word": "nội nguyên tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intra-atomic"
-      }
-    ]
-  },
-  {
-    "word": "nội cung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội cung\n-Harem"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội cung\n- Harem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "harem"
-      }
-    ]
-  },
-  {
-    "word": "nội nhũ hạt ngô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cornlet"
-      }
-    ]
-  },
-  {
-    "word": "nội thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội thị\n-(cũ) Court sevant"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội thị\n- (cũ) Court sevant"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "court servant"
-      }
-    ]
-  },
-  {
-    "word": "nội đường",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội đường\n- nhà trong, tư thất, đối với công đường nơi làm việc quan"
-      }
-    ]
-  },
-  {
-    "word": "nội quy an toàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-factory safety regulation\n-safety code\n-safety instruction\n-safety regulation\n-safety regulations\n-safety requirement"
-      }
-    ]
-  },
-  {
-    "word": "nội bài",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(airport in Hanoi)"
-      }
-    ]
-  },
-  {
-    "word": "nội dung bằng phát minh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-patent specification"
-      }
-    ]
-  },
-  {
-    "word": "nội hấp thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal absorption"
-      }
-    ]
-  },
-  {
-    "word": "nội lực hoạt tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-live-load stress"
-      }
-    ]
-  },
-  {
-    "word": "nộ khí xung thiên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a towering rage"
-      }
-    ]
-  },
-  {
-    "word": "nội mạc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endo-"
-      }
-    ]
-  },
-  {
-    "word": "nội dung kế hoạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-programme element"
-      }
-    ]
-  },
-  {
-    "word": "nội duệ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nội Duệ\n- (xã) h. Tiên Sơn, t. Bắc Ninh"
-      }
-    ]
-  },
-  {
-    "word": "nội mạc cổ tử cung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocervical"
-      }
-    ]
-  },
-  {
-    "word": "nội mạc động mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endarterium"
-      }
-    ]
-  },
-  {
-    "word": "nội suy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-interpolate\n-interpolation"
-      }
-    ]
-  },
-  {
-    "word": "nội các",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hội đồng chính phủ, theo cách gọi ở một số nước\nVí dụ:\n- nội các chính phủ \n - cải tổ nội các"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội các\n- d. Tên gọi hội đồng chính phủ ở một số nước. Cải tổ nội các."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội các\n*noun\n-cabinet\n@Chuyên ngành kinh tế\n-government\n-ministry"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội các\n* noun\n- cabinet"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cabinet (government)"
-      }
-    ]
-  },
-  {
-    "word": "nội dung thỉnh cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-appeal element"
-      }
-    ]
-  },
-  {
-    "word": "nội thương",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "việc buôn bán bên trong một nước [nói khái quát]; phân biệt với ngoại thương\nVí dụ:\n- buôn bán nội thương"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội thương\n- 1 dt (H. thương: buôn bán) Việc buôn bán ở trong nước: Các cửa hàng mậu dịch đều thuộc ngành nội thương.\n- 2 tt (H. thương: tổn hại) Nói những bệnh có thể điều trị bằng phương pháp nội khoa, không dùng phương pháp mổ xẻ: Nhiều vị thuốc Nam chữa khỏi những bệnh nội thương."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội thương\n-internal disease\n@Chuyên ngành kinh tế\n-domestic trade\n-home trade\n-inland trade\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-home trade"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội thương\n- internal disease"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "internal disease"
-      }
-    ]
-  },
-  {
-    "word": "nội dung điện tử hoàn toàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-total electron content"
-      }
-    ]
-  },
-  {
-    "word": "nội lực va chạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-shock stress"
-      }
-    ]
-  },
-  {
-    "word": "nội khoa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem khoa nội\nVí dụ:\n- bác sĩ nội khoa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội khoa\n- Khoa chữa bệnh không dùng phương pháp mổ xẻ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội khoa\n-Internal medicine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal medicine"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội khoa\n- Internal medicine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "internal medicine"
-      }
-    ]
-  },
-  {
-    "word": "nội cân bằng kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-economic homeostasis"
-      }
-    ]
-  },
-  {
-    "word": "nội tân dịch",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endolymph"
-      }
-    ]
-  },
-  {
-    "word": "nội hạt nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-intranuclear"
-      }
-    ]
-  },
-  {
-    "word": "nộm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hình nộm [nói tắt]\nVí dụ:\n- con nộm rơm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "món ăn làm bằng rau hoặc củ, quả thái nhỏ, trộn với dấm, đường, vừng, lạc và các gia vị khác\nVí dụ:\n- nộm hoa chuối \n - nộm ngó sen"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nộm\n- d. Món đồ ăn gồm rau luộc, đu đủ sống thái nhỏ... trộn với vừng, lạc... có thêm chanh hoặc giấm và ớt.\n- d. Hình nhân bằng giấy."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nộm\n-Sweet and sour grated salad\n-Nom is a combination of a variety of fresh vegetables, considered to be salad in Western countries. The main ingredients include grated pieces of turnip, cabbage or papaya and slices of cucumber with grated boiled lean pork. Other auxiliary ingredients are grated carrot, slices of hot chilly and broken roasted groundnuts. These are used to make the dish more colourful. All are mixed thoroughly before being soaked in vinegar, sugar, garlic, hot chilly and seasoned with salt. The mixture of ingredients is put into a dish before being covered with some spicy vegetables. To try a mouthful of Nom is to enjoy a combination of all the tastes, including sour, hot, sweet, salty and fragrant. The dish helps digest at meal and party times. It can become an addictive aid to assist the real connoisseur to enjoy more food"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nộm\n- Sweet and sour grated salad\n-Nom is a combination of a variety of fresh vegetables, considered to be salad in Western countries. The main ingredients include grated pieces of turnip, cabbage or papaya and slices of cucumber with grated boiled lean pork. Other auxiliary ingredients are grated carrot, slices of hot chilly and broken roasted groundnuts. These are used to make the dish more colourful. All are mixed thoroughly before being soaked in vinegar, sugar, garlic, hot chilly and seasoned with salt. The mixture of ingredients is put into a dish before being covered with some spicy vegetables. To try a mouthful of Nom is to enjoy a combination of all the tastes, including sour, hot, sweet, salty and fragrant. The dish helps digest at meal and party times. It can become an addictive aid to assist the real connoisseur to enjoy more food"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sweet and sour grated salad"
-      }
-    ]
-  },
-  {
-    "word": "nội hô hấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal respiration"
-      }
-    ]
-  },
-  {
-    "word": "nội mạc, màng nội mạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intima"
-      }
-    ]
-  },
-  {
-    "word": "nộp cheo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nộp cheo [nộp cheo]\n-pay for the marriage certificate"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pay for the marriage certificate"
-      }
-    ]
-  },
-  {
-    "word": "nột nửa vòng tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-half cycle"
-      }
-    ]
-  },
-  {
-    "word": "nội suy tuyến tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-interpolate linearly\n-to interpolate linearly\n@Lĩnh vực: đo lường & điều khiển\n-linear interpolation"
-      }
-    ]
-  },
-  {
-    "word": "nội lực tối đa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ultimate stress"
-      }
-    ]
-  },
-  {
-    "word": "nội khoá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "môn học hoặc hoạt động giáo dục trong chương trình chính thức; phân biệt với ngoại khoá\nVí dụ:\n- giờ nội khoá"
-      }
-    ]
-  },
-  {
-    "word": "nộp đơn từ chức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hand in one\"s resignation"
-      }
-    ]
-  },
-  {
-    "word": "nội bào tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endogonidium\n-endospore"
-      }
-    ]
-  },
-  {
-    "word": "nộp giấy chứng nhận thanh toán cuối cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Application for Final Certificate of Payment"
-      }
-    ]
-  },
-  {
-    "word": "nội dung hình ảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-picture content"
-      }
-    ]
-  },
-  {
-    "word": "nội các ma",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shadow cabinet"
-      }
-    ]
-  },
-  {
-    "word": "nội dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-in-line"
-      }
-    ]
-  },
-  {
-    "word": "nội cốt mạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endosteum"
-      }
-    ]
-  },
-  {
-    "word": "nội dung thông tin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-information content\n@Chuyên ngành kỹ thuật\n-information content"
-      }
-    ]
-  },
-  {
-    "word": "nội thẩm thấu kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endosmometer"
-      }
-    ]
-  },
-  {
-    "word": "nội ban",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enanthema"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-local"
       }
     ]
   },
@@ -3001,113 +3014,11 @@
     ]
   },
   {
-    "word": "nội ký sinh trùng động vật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-entozoic parasite"
-      }
-    ]
-  },
-  {
-    "word": "nội dung thông tin trung bình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-average information content\n-mean information content"
-      }
-    ]
-  },
-  {
-    "word": "nộp tiền (vào)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-paying in"
-      }
-    ]
-  },
-  {
-    "word": "nội dung thông tin phụ thuộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-conditional information content"
-      }
-    ]
-  },
-  {
-    "word": "nội mô thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endoneurium"
-      }
-    ]
-  },
-  {
-    "word": "nộp (tiền, thuế...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pay"
-      }
-    ]
-  },
-  {
-    "word": "nội dung thiết kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-design content"
-      }
-    ]
-  },
-  {
-    "word": "nội dung và chỉ mục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-contents and index"
-      }
-    ]
-  },
-  {
-    "word": "nội bộ đảng",
+    "word": "nội tịch",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "within the party"
-      }
-    ]
-  },
-  {
-    "word": "nội hiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội hiện\n-(triết học) Interiorize"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội hiện\n- (triết học) Interiorize"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "interiorize"
-      }
-    ]
-  },
-  {
-    "word": "nội tiết học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội tiết học [nội tiết học]\n-endocrinology\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocrinology"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endocrinology"
+        "dict_definition": "registered (in a town)"
       }
     ]
   },
@@ -3121,59 +3032,113 @@
     ]
   },
   {
-    "word": "nội dung thông tin thô",
+    "word": "nội dung thông tin phụ thuộc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-gross information content"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-conditional information content"
       }
     ]
   },
   {
-    "word": "nội trị",
+    "word": "nội tệ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội trị\n- Việc chính trị, trị an trong nội bộ một nước."
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tiền của một nước, trong quan hệ với người nước ấy; phân biệt với ngoại tệ\nVí dụ:\n- đồng nội tệ \n - thanh toán bằng nội tệ"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội trị\n-Home affairs, home administration, home policy, internal affairs,internal policy, internal administration"
-      },
+        "dict_definition": "@Chuyên ngành kinh tế\n-domestic currency\n-domestics currency\n-local currency"
+      }
+    ]
+  },
+  {
+    "word": "nội tạng, bộ lòng, thu hoạch (quả, chè), vặt lông (gia cầm)",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội trị\n- Home affairs, home administration, home policy, internal affairs,internal policy, internal administration"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pluck"
+      }
+    ]
+  },
+  {
+    "word": "nội nhũ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội nhũ [nội nhũ]\n-(thực vật) Endoderm.\n@Chuyên ngành kinh tế\n-endosperm"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "home affairs, home administration, home policy, internal"
+        "dict_definition": "endoderm"
       }
     ]
   },
   {
-    "word": "nội hoàng",
+    "word": "nội quy đường sắt",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-railway schedule"
+      }
+    ]
+  },
+  {
+    "word": "nội dung điện tử hoàn toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-total electron content"
+      }
+    ]
+  },
+  {
+    "word": "nội tâm mạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-endocardium"
+      }
+    ]
+  },
+  {
+    "word": "nội dung analog",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-analog environment"
+      }
+    ]
+  },
+  {
+    "word": "nội dung truyền tin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trans information content"
+      }
+    ]
+  },
+  {
+    "word": "nội suy tiếng nói số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-digital speech interpolation"
+      }
+    ]
+  },
+  {
+    "word": "nội động",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[động từ] không đòi hỏi phải có bổ ngữ đối tượng trực tiếp để cho nghĩa được đầy đủ; phân biệt với ngoại động\nVí dụ:\n- ''ngủ'', ''đi'', ''chạy'' là những động từ nội động"
+      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Nội Hoàng\n- (xã) h. Yên Dũng, t. Bắc Giang"
-      }
-    ]
-  },
-  {
-    "word": "nội ứng học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-residual stress"
-      }
-    ]
-  },
-  {
-    "word": "nộp lại (kinh phí thặng dư)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-surrender"
+        "dict_definition": "@nội động\n- (tính) Tính chất của động từ không chuyển hành động do chủ ngữ thực hiện đến một bổ ngữ nào: Trong câu:\"Cái bánh xe quay\", \"quay\" có tính nội động."
       }
     ]
   },
@@ -3203,88 +3168,101 @@
     ]
   },
   {
-    "word": "nội doanh",
+    "word": "nội giám",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-home trade"
-      }
-    ]
-  },
-  {
-    "word": "nội động vật ký sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-entozoen"
-      }
-    ]
-  },
-  {
-    "word": "nội nhân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội nhân\n- Từ cũ dùng để chỉ vợ mình khi nói với người khác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội nhân\n-(cũ) My wife, my old woman (thông tục)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội nhân\n- (cũ) My wife, my old woman (thông tục)"
+        "dict_definition": "@nội giám [nội giám]\n-cũng như\n-eunuch"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "my wife, my old woman"
+        "dict_definition": "eunuch"
       }
     ]
   },
   {
-    "word": "nội dung trả về",
+    "word": "nộp tên kẻ cắp cho công an",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-content-returned\n-return of content"
-      }
-    ]
-  },
-  {
-    "word": "nội nhập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nội nhập\n-(tâm lý) Introjection"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội nhập\n- (tâm lý) Introjection"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "introjection"
+        "dict_definition": "to give up a thief to the police"
       }
     ]
   },
   {
-    "word": "nội quy",
+    "word": "nộ khí",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "những điều quy định để bảo đảm trật tự và kỉ luật trong một tập thể, một cơ quan [nói tổng quát]\nVí dụ:\n- chấp hành nội quy của nhà trường \n - vi phạm nội quy"
+        "dict_definition": "khí sắc giận dữ\nVí dụ:\n- mặt đầy nộ khí"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nộ khí\n- Cơn tức giận. Nộ khí xung thiên. Cơn tức giận ghê gớm."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội quy\n-Intramural regulations\n@Chuyên ngành kinh tế\n-bylaws\n-interpolation\n-regulations\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-regulations\n-rules"
+        "dict_definition": "@nộ khí\n-Fit of anger\n=Nộ khí xung thiên\n+A towering rage"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội quy\n- Intramural regulations"
+        "dict_definition": "@nộ khí\n- Fit of anger\n=Nộ khí xung thiên+A towering rage"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "regulation, by-law"
+        "dict_definition": "fit of anger"
+      }
+    ]
+  },
+  {
+    "word": "nội khoa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem khoa nội\nVí dụ:\n- bác sĩ nội khoa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội khoa\n- Khoa chữa bệnh không dùng phương pháp mổ xẻ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nội khoa\n-Internal medicine\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-internal medicine"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội khoa\n- Internal medicine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "internal medicine"
+      }
+    ]
+  },
+  {
+    "word": "nộp thuế hải quan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-clear through customs"
+      }
+    ]
+  },
+  {
+    "word": "nội dung dịch vụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-service content"
+      }
+    ]
+  },
+  {
+    "word": "nội xâm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lực lượng phản động, tiêu cực trong nước đang phá hoại, làm suy yếu đất nước, được coi là nguy hiểm như một thứ giặc\nVí dụ:\n- nạn nội xâm \n - ngăn ngừa hoạ nội xâm"
       }
     ]
   },
@@ -3302,75 +3280,97 @@
     ]
   },
   {
-    "word": "nội nhật",
+    "word": "nội tiết tố ruột non",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-enterocrinin"
+      }
+    ]
+  },
+  {
+    "word": "nội năng riêng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-specific internal energy"
+      }
+    ]
+  },
+  {
+    "word": "nộp",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nội trong thời gian một ngày\nVí dụ:\n- nội nhật hôm nay phải xong việc"
+        "dict_definition": "đưa cho người có trách nhiệm thu giữ\nVí dụ:\n- nộp đơn cho toà \n - nộp học phí \n - nộp thuế"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nội nhật\n- Trong vòng một ngày nào dó: Nội nhật hôm nay."
+        "dict_definition": "@nộp\n- đg. Giao, đưa cho chính quyền, cho người trên: Nộp bài; Nộp đơn."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội nhật\n-Within a day\n=Nội nhật ngày hôm nay\n+Within today\n@Chuyên ngành kinh tế\n-intraday"
+        "dict_definition": "@nộp\n-hand in, pay\n=Nộp đơn\n+To hand in a request\n=Nộp thuế\n+To pay one\"s taxes. give up\n=Nộp tên kẻ cắp cho công an\n+To give up a thief to the poli\n@Chuyên ngành kinh tế\n-lodge\n-pay\n-play\n-present"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nội nhật\n- Within a day\n=Nội nhật ngày hôm nay+Within today"
+        "dict_definition": "@nộp\n- hand in, pay\n=Nộp đơn+To hand in a request\n=Nộp thuế+To pay one's taxes. give up\n=Nộp tên kẻ cắp cho công an+To give up a thief to the poli"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "within a day"
+        "dict_definition": "(1) to submit, hand over, turn in, deliver, pay (a fine); (2) see nạp"
       }
     ]
   },
   {
-    "word": "nội dung thi hành được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-executable content"
-      }
-    ]
-  },
-  {
-    "word": "nội dung ảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-image content"
-      }
-    ]
-  },
-  {
-    "word": "nội tộc",
+    "word": "nội chiến",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "họ nội; phân biệt với ngoại tộc\nVí dụ:\n- họ hàng nội tộc \n - bà con nội tộc"
+        "dict_definition": "sự xung đột vũ trang giữa các miền hoặc các lực lượng xã hội bên trong một nước\nVí dụ:\n- cuộc nội chiến"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nội chiến\n- dt. Chiến tranh giữa các giai cấp hoặc lực lượng xã hội đối kháng trong một nước."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@nội tộc [nội tộc]\n-Paternal relations."
+        "dict_definition": "@nội chiến\n*noun\n-civilwar\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil war"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nội chiến\n* noun\n- civilwar"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "paternal relations"
+        "dict_definition": "civil war"
       }
     ]
   },
   {
-    "word": "nộp thuế",
+    "word": "nội quy an toàn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pay tax\n-pay tax (to ...)\n-payment of duty\n-payment of tax\n-rate paying\n-tax payment\n@Chuyên ngành kỹ thuật\n-taxes"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-factory safety regulation\n-safety code\n-safety instruction\n-safety regulation\n-safety regulations\n-safety requirement"
+      }
+    ]
+  },
+  {
+    "word": "nội trocoit",
+    "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pay one’s taxes"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-hypotrochoid"
+      }
+    ]
+  },
+  {
+    "word": "nội trở bình điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-battery resistance"
       }
     ]
   }

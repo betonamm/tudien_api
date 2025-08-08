@@ -1,10 +1,31 @@
 [
   {
-    "word": "vần chải",
+    "word": "vầng ô",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vần Chải\n- (xã) h. Đồng Văn, t. Hà Giang"
+        "dict_definition": "@Vầng ô\n- Mặt trời. Xem Kim ô"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vầng ô - như"
+      }
+    ]
+  },
+  {
+    "word": "vần vũ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[trời mây] chuyển động cuồn cuộn báo hiệu cơn mưa\nVí dụ:\n- mây đen đang vần vũ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vần vũ - (trời vần vũ) conditions threatened rain"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "conditions threatened rain"
       }
     ]
   },
@@ -18,66 +39,142 @@
     ]
   },
   {
-    "word": "vần xuôi",
+    "word": "vần vò",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vần ghép con chữ phụ âm trước các con chữ nguyên âm trong chữ quốc ngữ; phân biệt với vần ngược\nVí dụ:\n- ''ha'', ''he'', ''hê'', ''hi'' là những vần xuôi"
+        "dict_definition": "xoay trở, vò nắn liên tục trong tay\nVí dụ:\n- nó vần vò cái mũ mãi"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vần xuôi - same rhyme (both even tones or both uneven tones)"
+        "dict_definition": "@vần vò - touch, feel, finger, torment, torture"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "same rhyme (both even tones or both uneven tones)"
+        "dict_definition": "touch, feel, finger, torment, torture"
       }
     ]
   },
   {
-    "word": "vầy",
+    "word": "vầng trán",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "forehead"
+      }
+    ]
+  },
+  {
+    "word": "vần chải",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vần Chải\n- (xã) h. Đồng Văn, t. Hà Giang"
+      }
+    ]
+  },
+  {
+    "word": "vầng hồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vầng hồng - disc of sun, the sun (in  poem)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "disc of sun, the sun (in poem)"
+      }
+    ]
+  },
+  {
+    "word": "vầu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng tay, chân quấy hoặc vò, giẫm lung tung, làm cho bị bẩn, bị nhàu nát\nVí dụ:\n- bọn trẻ đang vầy nước \n - \"Còn nhiều ân ái chan chan, Hay gì vầy cánh hoa tàn mà chơi?\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem vậy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vầy\n- 1 đgt Sum họp: Vầy duyên cá nước (tng); Nơi vui bạn ngọc, nơi vầy cuộc tiên (NĐM).\n- 2 đgt 1. Vò, làm mất cái vẻ cũ: Hay gì vầy cánh hoa tàn mà chơi (K). 2. Quấy lên: Thằng bé chỉ vầy nước.\n- 3 trgt Như thế: Quán rằng: Ta cũng bâng khuâng, thấy vầy nên mới tị trần đến đây (LVT).\n\n@vầy\n- sum họp, sum vầy"
+        "dict_definition": "cây cùng họ với tre, thân to, mình mỏng nhưng rắn, thường dùng để làm nhà"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vầy\n*adj, adv so, this way, like this"
+        "dict_definition": "@vầu - species of small and strong reed\n*danh từ\n-(con vầu) pearl-oyster"
+      }
+    ]
+  },
+  {
+    "word": "vần vụ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem vần vũ"
+      }
+    ]
+  },
+  {
+    "word": "vầng cỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-divot\n-sod\n-turf"
+      }
+    ]
+  },
+  {
+    "word": "vầ mặt kinh tế",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "economically"
+      }
+    ]
+  },
+  {
+    "word": "vầng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ dùng để chỉ từng đơn vị một số vật thể hình tròn\nVí dụ:\n- vầng trăng \n - vầng thái dương \n - vầng hào quang"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vầng - disc (of moon, etc.)\n-classifier for sun, moon etc.\n-aureole halo aura"
+      }
+    ]
+  },
+  {
+    "word": "vần hai phách mạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-spondee"
+      }
+    ]
+  },
+  {
+    "word": "vần thơ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vần thơ\n- dt Câu thơ: Xin tặng anh mấy vần thơ chân tình."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vần thơ\n*noun\n-verse"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vầy\n* adj, adv so, this way, like this"
+        "dict_definition": "@vần thơ\n* noun\n- verse"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(1) thus, like that, so; (2) united; (3) to act reluctantly"
+        "dict_definition": "verse"
       }
     ]
   },
   {
-    "word": "vầy vậy",
+    "word": "vầng trăng chưa khuyết",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tạm được, không hoàn toàn như ý nhưng cũng không có gì phải phàn nàn\nVí dụ:\n- công việc vẫn vầy vậy thôi"
-      }
-    ]
-  },
-  {
-    "word": "vầng sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-corona"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vầng trăng chưa khuyết\n- trinh tiết còn nguyên vẹn"
       }
     ]
   },
@@ -140,32 +237,6 @@
     ]
   },
   {
-    "word": "vầng ô",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vầng ô\n- Mặt trời. Xem Kim ô"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vầng ô - như"
-      }
-    ]
-  },
-  {
-    "word": "vầng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ dùng để chỉ từng đơn vị một số vật thể hình tròn\nVí dụ:\n- vầng trăng \n - vầng thái dương \n - vầng hào quang"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vầng - disc (of moon, etc.)\n-classifier for sun, moon etc.\n-aureole halo aura"
-      }
-    ]
-  },
-  {
     "word": "vần vật",
     "definitions": [
       {
@@ -179,54 +250,46 @@
     ]
   },
   {
-    "word": "vầng cỏ",
+    "word": "vần xoay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-divot\n-sod\n-turf"
-      }
-    ]
-  },
-  {
-    "word": "vần hai phách mạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-spondee"
-      }
-    ]
-  },
-  {
-    "word": "vần lưng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vần ở giữa câu\nVí dụ:\n- 'đổ mồ hôi trán, dán mồ hôi lưng' là câu có vần lưng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vần lưng - medial rhyme"
+        "dict_definition": "@vần xoay - (of events) turn"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "medial rhyme"
+        "dict_definition": "(of events) turn"
       }
     ]
   },
   {
-    "word": "vần vò",
+    "word": "vầu tỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-retaining pawl"
+      }
+    ]
+  },
+  {
+    "word": "vần công",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xoay trở, vò nắn liên tục trong tay\nVí dụ:\n- nó vần vò cái mũ mãi"
+        "dict_definition": "đổi công lao động\nVí dụ:\n- làm vần công"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vần vò - touch, feel, finger, torment, torture"
-      },
+        "dict_definition": "@vần công - work in trotation\n-work exchange"
+      }
+    ]
+  },
+  {
+    "word": "vầu (nhiệt kế)",
+    "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "touch, feel, finger, torment, torture"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bulb"
       }
     ]
   },
@@ -248,41 +311,55 @@
     ]
   },
   {
-    "word": "vần vũ",
+    "word": "vầy vậy",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[trời mây] chuyển động cuồn cuộn báo hiệu cơn mưa\nVí dụ:\n- mây đen đang vần vũ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vần vũ - (trời vần vũ) conditions threatened rain"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "conditions threatened rain"
+        "dict_definition": "tạm được, không hoàn toàn như ý nhưng cũng không có gì phải phàn nàn\nVí dụ:\n- công việc vẫn vầy vậy thôi"
       }
     ]
   },
   {
-    "word": "vầng trán",
+    "word": "vầy đoàn",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "forehead"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@vầy đoàn\n- họp lại thành đoàn"
       }
     ]
   },
   {
-    "word": "vần công",
+    "word": "vần lưng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đổi công lao động\nVí dụ:\n- làm vần công"
+        "dict_definition": "vần ở giữa câu\nVí dụ:\n- 'đổ mồ hôi trán, dán mồ hôi lưng' là câu có vần lưng"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vần công - work in trotation\n-work exchange"
+        "dict_definition": "@vần lưng - medial rhyme"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "medial rhyme"
+      }
+    ]
+  },
+  {
+    "word": "vầng dương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mặt trời\nVí dụ:\n- vầng dương chói lọi"
+      }
+    ]
+  },
+  {
+    "word": "vầt liệu khử âm va đập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-impact sound-reducing material"
       }
     ]
   },
@@ -296,54 +373,57 @@
     ]
   },
   {
-    "word": "vầng hồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vầng hồng - disc of sun, the sun (in  poem)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "disc of sun, the sun (in poem)"
-      }
-    ]
-  },
-  {
-    "word": "vần thơ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vần thơ\n- dt Câu thơ: Xin tặng anh mấy vần thơ chân tình."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vần thơ\n*noun\n-verse"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@vần thơ\n* noun\n- verse"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "verse"
-      }
-    ]
-  },
-  {
-    "word": "vầy vò",
+    "word": "vần xuôi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng tay quấy hoặc vò đảo lung tung [nói khái quát]\nVí dụ:\n- \"Lạnh lùng ai đắp áo cho, Nghe lời ai dỗ, vầy vò áo đi.\" (Cdao)"
+        "dict_definition": "vần ghép con chữ phụ âm trước các con chữ nguyên âm trong chữ quốc ngữ; phân biệt với vần ngược\nVí dụ:\n- ''ha'', ''he'', ''hê'', ''hi'' là những vần xuôi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vần xuôi - same rhyme (both even tones or both uneven tones)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "same rhyme (both even tones or both uneven tones)"
       }
     ]
   },
   {
-    "word": "vầng trăng chưa khuyết",
+    "word": "vầng sáng",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-corona"
+      }
+    ]
+  },
+  {
+    "word": "vầy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dùng tay, chân quấy hoặc vò, giẫm lung tung, làm cho bị bẩn, bị nhàu nát\nVí dụ:\n- bọn trẻ đang vầy nước \n - \"Còn nhiều ân ái chan chan, Hay gì vầy cánh hoa tàn mà chơi?\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem vậy"
+      },
+      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vầng trăng chưa khuyết\n- trinh tiết còn nguyên vẹn"
+        "dict_definition": "@vầy\n- 1 đgt Sum họp: Vầy duyên cá nước (tng); Nơi vui bạn ngọc, nơi vầy cuộc tiên (NĐM).\n- 2 đgt 1. Vò, làm mất cái vẻ cũ: Hay gì vầy cánh hoa tàn mà chơi (K). 2. Quấy lên: Thằng bé chỉ vầy nước.\n- 3 trgt Như thế: Quán rằng: Ta cũng bâng khuâng, thấy vầy nên mới tị trần đến đây (LVT).\n\n@vầy\n- sum họp, sum vầy"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vầy\n*adj, adv so, this way, like this"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@vầy\n* adj, adv so, this way, like this"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) thus, like that, so; (2) united; (3) to act reluctantly"
       }
     ]
   },
@@ -353,15 +433,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
         "dict_definition": "@vầy lửa\n- nhóm lửa"
-      }
-    ]
-  },
-  {
-    "word": "vần vụ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem vần vũ"
       }
     ]
   },
@@ -392,42 +463,11 @@
     ]
   },
   {
-    "word": "vầy đoàn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@vầy đoàn\n- họp lại thành đoàn"
-      }
-    ]
-  },
-  {
-    "word": "vầu (nhiệt kế)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bulb"
-      }
-    ]
-  },
-  {
-    "word": "vần xoay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vần xoay - (of events) turn"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(of events) turn"
-      }
-    ]
-  },
-  {
-    "word": "vầng dương",
+    "word": "vầy vò",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mặt trời\nVí dụ:\n- vầng dương chói lọi"
+        "dict_definition": "dùng tay quấy hoặc vò đảo lung tung [nói khái quát]\nVí dụ:\n- \"Lạnh lùng ai đắp áo cho, Nghe lời ai dỗ, vầy vò áo đi.\" (Cdao)"
       }
     ]
   },
@@ -445,46 +485,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "terminal rhyme"
-      }
-    ]
-  },
-  {
-    "word": "vầ mặt kinh tế",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "economically"
-      }
-    ]
-  },
-  {
-    "word": "vầt liệu khử âm va đập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-impact sound-reducing material"
-      }
-    ]
-  },
-  {
-    "word": "vầu tỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-retaining pawl"
-      }
-    ]
-  },
-  {
-    "word": "vầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây cùng họ với tre, thân to, mình mỏng nhưng rắn, thường dùng để làm nhà"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vầu - species of small and strong reed\n*danh từ\n-(con vầu) pearl-oyster"
       }
     ]
   }

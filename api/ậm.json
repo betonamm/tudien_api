@@ -1,31 +1,5 @@
 [
   {
-    "word": "ậm ừ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ầm ừ\nVí dụ:\n- bố nó cũng ậm ừ cho là phải"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ậm ừ [ậm ừ]\n*động từ\n-to hum and haw, to hum and ha, to hem and haw"
-      }
-    ]
-  },
-  {
-    "word": "ậm à ậm ừ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ậm à ậm ừ\n-xem ậm ừ"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ậm à ậm ừ\n- xem ậm ừ"
-      }
-    ]
-  },
-  {
     "word": "ậm ờ",
     "definitions": [
       {
@@ -35,6 +9,15 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@ậm ờ\n- như ầm ừ"
+      }
+    ]
+  },
+  {
+    "word": "ậm ực",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ấm ức lắm\nVí dụ:\n- ậm ực muốn khóc"
       }
     ]
   },
@@ -60,19 +43,6 @@
     ]
   },
   {
-    "word": "ậm à",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ậm à\n-như ầm ừ"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ậm à\n- như ầm ừ"
-      }
-    ]
-  },
-  {
     "word": "ậm oẹ",
     "definitions": [
       {
@@ -82,20 +52,15 @@
     ]
   },
   {
-    "word": "ậm ọe",
+    "word": "ậm à",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "menacing, threatening, menacingly, threateningly"
-      }
-    ]
-  },
-  {
-    "word": "ậm ực",
-    "definitions": [
+        "dict_name": "SPDict",
+        "dict_definition": "@ậm à\n-như ầm ừ"
+      },
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ấm ức lắm\nVí dụ:\n- ậm ực muốn khóc"
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ậm à\n- như ầm ừ"
       }
     ]
   },
@@ -117,6 +82,41 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to plod along"
+      }
+    ]
+  },
+  {
+    "word": "ậm ừ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ầm ừ\nVí dụ:\n- bố nó cũng ậm ừ cho là phải"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ậm ừ [ậm ừ]\n*động từ\n-to hum and haw, to hum and ha, to hem and haw"
+      }
+    ]
+  },
+  {
+    "word": "ậm ọe",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "menacing, threatening, menacingly, threateningly"
+      }
+    ]
+  },
+  {
+    "word": "ậm à ậm ừ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ậm à ậm ừ\n-xem ậm ừ"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ậm à ậm ừ\n- xem ậm ừ"
       }
     ]
   }

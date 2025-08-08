@@ -1,6 +1,35 @@
 [
   {
-    "word": "hét nhặng",
+    "word": "hét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chim giống như chim sáo nhưng lớn hơn, lông màu đen nâu, mỏ vàng, hay ăn giun"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phát ra những tiếng rất to, hết sức mình, từ trong cổ họng\nVí dụ:\n- nó hét lên \n - còi tàu hét vang"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hét\n- 1 dt Loài chim nhỏ, lông đen, trông tựa con sáo, hay ăn giun: Muốn ăn hét, phải đào giun (tng).\n- 2 đgt Kêu to: Nghe bố nó hét, nó run lên."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hét\n*verb\n-to cry; to roar; to scream\n=hét to lên\n+to cry aloud\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shrink"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hét\n* verb\n- to cry; to roar; to scream\n=hét to lên+to cry aloud"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to shriek, scream, yell"
+      }
+    ]
+  },
+  {
+    "word": "hét nhặng xị",
     "definitions": [
       {
         "dict_name": "VNEDICT",
@@ -9,20 +38,38 @@
     ]
   },
   {
-    "word": "hét nhặng cả lên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to scream hysterically"
-      }
-    ]
-  },
-  {
-    "word": "héc-ta",
+    "word": "héc-tô-mét (100 mét)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@héc-ta [héc-ta]\n-xem"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hectometer"
+      }
+    ]
+  },
+  {
+    "word": "hét lên (giá..)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-whoop up (to...)"
+      }
+    ]
+  },
+  {
+    "word": "héc-tô-watt (100 watt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hectowatt"
+      }
+    ]
+  },
+  {
+    "word": "hét lên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to yell loudly"
       }
     ]
   },
@@ -49,6 +96,110 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "shrivel (up)"
+      }
+    ]
+  },
+  {
+    "word": "hét ra lửa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ví thái độ hống hách, cậy quyền thế nạt nộ người khác"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hét ra lửa [hét ra lửa]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "hé môi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hé môi\n*verb\n-to open one\"s lips"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hé môi\n* verb\n-to open one's lips"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to open one’s lips"
+      }
+    ]
+  },
+  {
+    "word": "héc-tô-gam (100 gam)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hectogram"
+      }
+    ]
+  },
+  {
+    "word": "hét nhặng lên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to scream hysterically"
+      }
+    ]
+  },
+  {
+    "word": "héo queo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@héo queo [héo queo]\n-wither, drop; curl up, roll up"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wither, drop, curl up, roll up"
+      }
+    ]
+  },
+  {
+    "word": "hét nhặng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to scream hysterically"
+      }
+    ]
+  },
+  {
+    "word": "hé nắng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hé nắng\n- tt Hơi hửng nắng: Mưa mấy hôm liền, hôm nay mới hé nắng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@hé nắng\n*verb\n-to break"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hé nắng\n* verb\n- to break"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to break"
+      }
+    ]
+  },
+  {
+    "word": "héo ruột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@héo ruột [héo ruột]\n-be painful"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be painful"
       }
     ]
   },
@@ -86,233 +237,6 @@
     ]
   },
   {
-    "word": "hét lên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to yell loudly"
-      }
-    ]
-  },
-  {
-    "word": "héo queo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@héo queo [héo queo]\n-wither, drop; curl up, roll up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wither, drop, curl up, roll up"
-      }
-    ]
-  },
-  {
-    "word": "hé môi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hé môi\n*verb\n-to open one\"s lips"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hé môi\n* verb\n-to open one's lips"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to open one’s lips"
-      }
-    ]
-  },
-  {
-    "word": "hét nhặng xị",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to scream hysterically"
-      }
-    ]
-  },
-  {
-    "word": "héo ruột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@héo ruột [héo ruột]\n-be painful"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be painful"
-      }
-    ]
-  },
-  {
-    "word": "hé",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mở ra một khoảng nhỏ, vừa đủ để làm gì hoặc cho một yêu cầu nào đó\nVí dụ:\n- nó hé cửa nhìn ra sân \n - hé môi cười"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cho thấy, cho biết một phần nhỏ nào đó\nVí dụ:\n- nó đã hé cho mọi người biết \n - trong tôi hé lên một tia hi vọng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hé\n-Open slightly\n=hé cửa\n+To open a door slightly\n=Hé môi\n+To open one\"s lips slightly\n-Break\n=Mây hé ra và mặt trời lộ rõ\n+The clouds broke and the sun came out\n=Trời hé sáng \n+ Dawn (the day) was breaking\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-peep"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hé\n- Open slightly\n=hé cửa+To open a door slightly\n=Hé môi+To open one's lips slightly\n-Break\n=Mây hé ra và mặt trời lộ rõ+The clouds broke and the sun came out\n=Trời hé sáng + Dawn (the day) was breaking"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be ajar, slightly open"
-      }
-    ]
-  },
-  {
-    "word": "héc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem hertz"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@héc [héc]\n-(vật lý) hertz"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hertz"
-      }
-    ]
-  },
-  {
-    "word": "héc-tô-mét (100 mét)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hectometer"
-      }
-    ]
-  },
-  {
-    "word": "hét lên (giá..)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-whoop up (to...)"
-      }
-    ]
-  },
-  {
-    "word": "héc-tô-watt (100 watt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hectowatt"
-      }
-    ]
-  },
-  {
-    "word": "hé mở",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hé mở\n- đgt 1. Mở một ít: Cửa mới hé mở đã có người xông vào 2. Bắt đầu lộ ra: Câu chuyện bí mật đã hé mở."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hé mở\n*verb\n-to half-open"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hé mở\n* verb\n- to half-open"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to open slightly, open halfway"
-      }
-    ]
-  },
-  {
-    "word": "héo hon",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mất dần đến hết vẻ tươi tắn, như bị cạn kiệt sức sống từ bên trong\nVí dụ:\n- \"Ruột tằm, ngày một héo hon, Tuyết sương ngày một hao mòn hình ve.\" (TKiều)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@héo hon\n-waste away. héo hon\n=vì quá lo nghĩ\n+To waste away because of to much worrying"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@héo hon\n- waste away. héo hon\n=vì quá lo nghĩ+To waste away because of to much worrying"
-      }
-    ]
-  },
-  {
-    "word": "héc-tô-gam (100 gam)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hectogram"
-      }
-    ]
-  },
-  {
-    "word": "hé nắng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hé nắng\n- tt Hơi hửng nắng: Mưa mấy hôm liền, hôm nay mới hé nắng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hé nắng\n*verb\n-to break"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hé nắng\n* verb\n- to break"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to break"
-      }
-    ]
-  },
-  {
-    "word": "hét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chim giống như chim sáo nhưng lớn hơn, lông màu đen nâu, mỏ vàng, hay ăn giun"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phát ra những tiếng rất to, hết sức mình, từ trong cổ họng\nVí dụ:\n- nó hét lên \n - còi tàu hét vang"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@hét\n- 1 dt Loài chim nhỏ, lông đen, trông tựa con sáo, hay ăn giun: Muốn ăn hét, phải đào giun (tng).\n- 2 đgt Kêu to: Nghe bố nó hét, nó run lên."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@hét\n*verb\n-to cry; to roar; to scream\n=hét to lên\n+to cry aloud\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shrink"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@hét\n* verb\n- to cry; to roar; to scream\n=hét to lên+to cry aloud"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to shriek, scream, yell"
-      }
-    ]
-  },
-  {
     "word": "hé răng",
     "definitions": [
       {
@@ -338,7 +262,7 @@
     ]
   },
   {
-    "word": "hét nhặng lên",
+    "word": "hét nhặng cả lên",
     "definitions": [
       {
         "dict_name": "VNEDICT",
@@ -372,41 +296,48 @@
     ]
   },
   {
-    "word": "héc ta",
+    "word": "hé mở",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@hé mở\n- đgt 1. Mở một ít: Cửa mới hé mở đã có người xông vào 2. Bắt đầu lộ ra: Câu chuyện bí mật đã hé mở."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@héc ta\n-Hectare"
+        "dict_definition": "@hé mở\n*verb\n-to half-open"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@héc ta\n- Hectare"
+        "dict_definition": "@hé mở\n* verb\n- to half-open"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "hectare"
+        "dict_definition": "to open slightly, open halfway"
       }
     ]
   },
   {
-    "word": "hét ra lửa",
+    "word": "hé",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ví thái độ hống hách, cậy quyền thế nạt nộ người khác"
+        "dict_definition": "mở ra một khoảng nhỏ, vừa đủ để làm gì hoặc cho một yêu cầu nào đó\nVí dụ:\n- nó hé cửa nhìn ra sân \n - hé môi cười"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cho thấy, cho biết một phần nhỏ nào đó\nVí dụ:\n- nó đã hé cho mọi người biết \n - trong tôi hé lên một tia hi vọng"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@hét ra lửa [hét ra lửa]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "hé nở",
-    "definitions": [
+        "dict_definition": "@hé\n-Open slightly\n=hé cửa\n+To open a door slightly\n=Hé môi\n+To open one\"s lips slightly\n-Break\n=Mây hé ra và mặt trời lộ rõ\n+The clouds broke and the sun came out\n=Trời hé sáng \n+ Dawn (the day) was breaking\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-peep"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@hé\n- Open slightly\n=hé cửa+To open a door slightly\n=Hé môi+To open one's lips slightly\n-Break\n=Mây hé ra và mặt trời lộ rõ+The clouds broke and the sun came out\n=Trời hé sáng + Dawn (the day) was breaking"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "(flower) to have just opened, bloomed"
+        "dict_definition": "to be ajar, slightly open"
       }
     ]
   },
@@ -420,11 +351,54 @@
     ]
   },
   {
+    "word": "héc-ta",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@héc-ta [héc-ta]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "héc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem hertz"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@héc [héc]\n-(vật lý) hertz"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hertz"
+      }
+    ]
+  },
+  {
     "word": "hén",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "từ biểu thị ý như muốn hỏi, nhằm tranh thủ sự đồng tình của người nghe\nVí dụ:\n- con nhỏ dạo này coi lớn quá hén? \n - như vầy là xong hén! \n - cô Hai đi hén!"
+      }
+    ]
+  },
+  {
+    "word": "héo hon",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mất dần đến hết vẻ tươi tắn, như bị cạn kiệt sức sống từ bên trong\nVí dụ:\n- \"Ruột tằm, ngày một héo hon, Tuyết sương ngày một hao mòn hình ve.\" (TKiều)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@héo hon\n-waste away. héo hon\n=vì quá lo nghĩ\n+To waste away because of to much worrying"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@héo hon\n- waste away. héo hon\n=vì quá lo nghĩ+To waste away because of to much worrying"
       }
     ]
   },
@@ -442,6 +416,32 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "threaten blusteringly, browbeat"
+      }
+    ]
+  },
+  {
+    "word": "hé nở",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(flower) to have just opened, bloomed"
+      }
+    ]
+  },
+  {
+    "word": "héc ta",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@héc ta\n-Hectare"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@héc ta\n- Hectare"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hectare"
       }
     ]
   }

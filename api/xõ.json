@@ -1,5 +1,22 @@
 [
   {
+    "word": "xõa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xõa\n*verb\n-hang"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xõa\n* verb\n- hang"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hang"
+      }
+    ]
+  },
+  {
     "word": "xõng",
     "definitions": [
       {
@@ -22,23 +39,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "idle, unoccupied"
-      }
-    ]
-  },
-  {
-    "word": "xõa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xõa\n*verb\n-hang"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xõa\n* verb\n- hang"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hang"
       }
     ]
   }

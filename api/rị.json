@@ -1,5 +1,43 @@
 [
   {
+    "word": "rị mọ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rị mọ\n- (đph) Cần cù, chịu khó làm những việc nhỏ: ảnh rị mọ lắp chiếc xe máy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rị mọ [rị mọ]\n-(dialect) particular, menticulous"
+      }
+    ]
+  },
+  {
+    "word": "rịn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thấm ướt ra ngoài từng ít một\nVí dụ:\n- trán rịn mồ hôi \n - vết thương rịn nước vàng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rịn\n- t. Thấm ra ít một : Rịn mồ hôi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rịn\n*verb\n-to ooze; to sweat"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rịn\n* verb\n- to ooze; to sweat"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to ooze, sweat"
+      }
+    ]
+  },
+  {
     "word": "rịt",
     "definitions": [
       {
@@ -21,19 +59,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@rịt\n* verb\n- to tie up; to dress\n=rịt một vết thương+to dress a wound"
-      }
-    ]
-  },
-  {
-    "word": "rị mọ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rị mọ\n- (đph) Cần cù, chịu khó làm những việc nhỏ: ảnh rị mọ lắp chiếc xe máy."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rị mọ [rị mọ]\n-(dialect) particular, menticulous"
       }
     ]
   },
@@ -80,31 +105,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "tug back, pull back"
-      }
-    ]
-  },
-  {
-    "word": "rịn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thấm ướt ra ngoài từng ít một\nVí dụ:\n- trán rịn mồ hôi \n - vết thương rịn nước vàng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rịn\n- t. Thấm ra ít một : Rịn mồ hôi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rịn\n*verb\n-to ooze; to sweat"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rịn\n* verb\n- to ooze; to sweat"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to ooze, sweat"
       }
     ]
   }

@@ -1,5 +1,41 @@
 [
   {
+    "word": "sọt đựng hộp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-can crate"
+      }
+    ]
+  },
+  {
+    "word": "sọ hầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniopharyngeal"
+      }
+    ]
+  },
+  {
+    "word": "sọc hình chữ v",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chevron"
+      }
+    ]
+  },
+  {
+    "word": "sọc nguyên thủy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pramitive streak"
+      }
+    ]
+  },
+  {
     "word": "sọ mặt",
     "definitions": [
       {
@@ -9,38 +45,63 @@
     ]
   },
   {
-    "word": "sọt chứa quả",
+    "word": "sọ học",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plucker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniology"
       }
     ]
   },
   {
-    "word": "sọc chéo",
+    "word": "sọt đựng chai",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diagonal stripe"
+        "dict_definition": "@Chuyên ngành kinh tế\n-bottle crate"
       }
     ]
   },
   {
-    "word": "sọc tiếng ồn",
+    "word": "sọt đựng đất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hum bars"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gabion"
       }
     ]
   },
   {
-    "word": "sọ dẹt do nhân tạo",
+    "word": "sọt đựng gạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-platycrania"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hod"
+      }
+    ]
+  },
+  {
+    "word": "sọm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầy tóp\nVí dụ:\n- ốm một trận, người gầy sọm đi \n - già sọm \n - sọm người vì lo nghĩ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sọm\n- t. Gầy tóp; hom hem. Già sọm. Lo đến sọm người. Thức đêm nhiều, người sọm đi trông thấy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sọm\n*adj\n-decrepit"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sọm\n* adj\n- decrepit"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "decrepit"
       }
     ]
   },
@@ -62,137 +123,6 @@
     ]
   },
   {
-    "word": "sọt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đồ đựng đan thưa, sâu lòng\nVí dụ:\n- một sọt khoai đầy \n - quẩy đôi sọt ra đồng \n - sọt đựng rác"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sọt\n- dt Đồ đan thưa để đựng: Mụ vẫn ngồi đan sọt bên đường cái quan (NgĐThi); Một sọt cam."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sọt\n*noun\n-basket, cylindrical crate\n@Chuyên ngành kinh tế\n-crate"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sọt\n* noun\n- basket, cylindrical crate"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bamboo basket, trash basket, cylindrical crate"
-      }
-    ]
-  },
-  {
-    "word": "sọc như vằn ngựa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-zebra crossing"
-      }
-    ]
-  },
-  {
-    "word": "sọt rác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sọt rác\n-Dustbin; (Mỹ) garbage can, trash-can"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sọt rác\n- Dustbin; (Mỹ) garbage can, trash-can"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "garbage can, trash can, wastebasket"
-      }
-    ]
-  },
-  {
-    "word": "sọm người",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sọm người\n-Get older than one\"s age\n=Sau một thời gian bị bệnh, anh ta trông sọm người đi\n+After a period of illness, he lookedolder than his age"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sọm người\n- Get older than one's age\n=Sau một thời gian bị bệnh, anh ta trông sọm người đi+After a period of illness, he lookedolder than his age"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "get older than one’s age"
-      }
-    ]
-  },
-  {
-    "word": "sọ kế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniometer"
-      }
-    ]
-  },
-  {
-    "word": "sọt giấy vụn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-waste- paper basket"
-      }
-    ]
-  },
-  {
-    "word": "sọc chỉ tốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-speed bar"
-      }
-    ]
-  },
-  {
-    "word": "sọc thiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tin streak"
-      }
-    ]
-  },
-  {
-    "word": "sọ ký",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniograph"
-      }
-    ]
-  },
-  {
-    "word": "sọt đựng hộp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-can crate"
-      }
-    ]
-  },
-  {
-    "word": "sọt đựng đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gabion"
-      }
-    ]
-  },
-  {
     "word": "sọc sợi",
     "definitions": [
       {
@@ -202,85 +132,38 @@
     ]
   },
   {
-    "word": "sọc từ",
+    "word": "sọ phôi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-magnetic stripe"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chondrocranium"
       }
     ]
   },
   {
-    "word": "sọt đựng chai",
+    "word": "sọc tiếng ồn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bottle crate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hum bars"
       }
     ]
   },
   {
-    "word": "sọc hình chữ v",
+    "word": "sọt chứa chè",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chevron"
+        "dict_definition": "@Chuyên ngành kinh tế\n-plucker"
       }
     ]
   },
   {
-    "word": "sọ học",
+    "word": "sọt chứa quả",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniology"
-      }
-    ]
-  },
-  {
-    "word": "sọp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to loose weight, slim down"
-      }
-    ]
-  },
-  {
-    "word": "sọc nguyên thủy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pramitive streak"
-      }
-    ]
-  },
-  {
-    "word": "sọ dừa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vỏ cứng bên trong quả dừa đựng cùi và nước dừa\nVí dụ:\n- gáo làm bằng sọ dừa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đầu người [hàm ý coi khinh]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sọ dừa\n- dt 1. Vỏ cứng của quả dừa: Dùng sọ dừa làm gáo. 2. Từ dùng để chê một kẻ ngu đần: Giảng thế mà không hiểu, đầu mày là cái sọ dừa ư?."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sọ dừa\n*noun\n-coconut shell"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sọ dừa\n* noun\n- coconut shell"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "coconut shell"
+        "dict_definition": "@Chuyên ngành kinh tế\n-plucker"
       }
     ]
   },
@@ -310,47 +193,72 @@
     ]
   },
   {
-    "word": "sọ phôi",
+    "word": "sọt chai",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-chondrocranium"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-crate"
       }
     ]
   },
   {
-    "word": "sọc ngang",
+    "word": "sọm người",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crosswise ribs\n-horizontal bar"
+        "dict_definition": "@sọm người\n-Get older than one\"s age\n=Sau một thời gian bị bệnh, anh ta trông sọm người đi\n+After a period of illness, he lookedolder than his age"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sọm người\n- Get older than one's age\n=Sau một thời gian bị bệnh, anh ta trông sọm người đi+After a period of illness, he lookedolder than his age"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "get older than one’s age"
       }
     ]
   },
   {
-    "word": "sọc màu",
+    "word": "sọc chỉ tốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-color bars\n-color streaks\n-colour bars\n-colour streaks"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-speed bar"
       }
     ]
   },
   {
-    "word": "sọt đựng gạch",
+    "word": "sọ ký",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hod"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniograph"
       }
     ]
   },
   {
-    "word": "sọc lề",
+    "word": "sọc từ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-side bar"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-magnetic stripe"
+      }
+    ]
+  },
+  {
+    "word": "sọt giấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sọt giấy\n-Waste-paper basket"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sọt giấy\n- Waste-paper basket"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wastepaper basket"
       }
     ]
   },
@@ -384,64 +292,38 @@
     ]
   },
   {
-    "word": "sọ hầu",
+    "word": "sọp",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniopharyngeal"
-      }
-    ]
-  },
-  {
-    "word": "sọt đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gabion"
-      }
-    ]
-  },
-  {
-    "word": "sọ thần kinh (phần sọ bao bọc não)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurocrainium"
-      }
-    ]
-  },
-  {
-    "word": "sọt chứa chè",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-plucker"
-      }
-    ]
-  },
-  {
-    "word": "sọt chai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-crate"
-      }
-    ]
-  },
-  {
-    "word": "sọt giấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sọt giấy\n-Waste-paper basket"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sọt giấy\n- Waste-paper basket"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "wastepaper basket"
+        "dict_definition": "to loose weight, slim down"
+      }
+    ]
+  },
+  {
+    "word": "sọ kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-craniometer"
+      }
+    ]
+  },
+  {
+    "word": "sọc tạp nhiễu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hum bars"
+      }
+    ]
+  },
+  {
+    "word": "sọc ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crosswise ribs\n-horizontal bar"
       }
     ]
   },
@@ -455,27 +337,145 @@
     ]
   },
   {
-    "word": "sọm",
+    "word": "sọc chéo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-diagonal stripe"
+      }
+    ]
+  },
+  {
+    "word": "sọc màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-color bars\n-color streaks\n-colour bars\n-colour streaks"
+      }
+    ]
+  },
+  {
+    "word": "sọ dừa",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầy tóp\nVí dụ:\n- ốm một trận, người gầy sọm đi \n - già sọm \n - sọm người vì lo nghĩ"
+        "dict_definition": "vỏ cứng bên trong quả dừa đựng cùi và nước dừa\nVí dụ:\n- gáo làm bằng sọ dừa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đầu người [hàm ý coi khinh]"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sọm\n- t. Gầy tóp; hom hem. Già sọm. Lo đến sọm người. Thức đêm nhiều, người sọm đi trông thấy."
+        "dict_definition": "@sọ dừa\n- dt 1. Vỏ cứng của quả dừa: Dùng sọ dừa làm gáo. 2. Từ dùng để chê một kẻ ngu đần: Giảng thế mà không hiểu, đầu mày là cái sọ dừa ư?."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sọm\n*adj\n-decrepit"
+        "dict_definition": "@sọ dừa\n*noun\n-coconut shell"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sọm\n* adj\n- decrepit"
+        "dict_definition": "@sọ dừa\n* noun\n- coconut shell"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "decrepit"
+        "dict_definition": "coconut shell"
+      }
+    ]
+  },
+  {
+    "word": "sọt rác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sọt rác\n-Dustbin; (Mỹ) garbage can, trash-can"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sọt rác\n- Dustbin; (Mỹ) garbage can, trash-can"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "garbage can, trash can, wastebasket"
+      }
+    ]
+  },
+  {
+    "word": "sọc lề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-side bar"
+      }
+    ]
+  },
+  {
+    "word": "sọc thiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tin streak"
+      }
+    ]
+  },
+  {
+    "word": "sọt đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gabion"
+      }
+    ]
+  },
+  {
+    "word": "sọc như vằn ngựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-zebra crossing"
+      }
+    ]
+  },
+  {
+    "word": "sọt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đồ đựng đan thưa, sâu lòng\nVí dụ:\n- một sọt khoai đầy \n - quẩy đôi sọt ra đồng \n - sọt đựng rác"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sọt\n- dt Đồ đan thưa để đựng: Mụ vẫn ngồi đan sọt bên đường cái quan (NgĐThi); Một sọt cam."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sọt\n*noun\n-basket, cylindrical crate\n@Chuyên ngành kinh tế\n-crate"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sọt\n* noun\n- basket, cylindrical crate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bamboo basket, trash basket, cylindrical crate"
+      }
+    ]
+  },
+  {
+    "word": "sọt giấy vụn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-waste- paper basket"
+      }
+    ]
+  },
+  {
+    "word": "sọ thần kinh (phần sọ bao bọc não)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurocrainium"
       }
     ]
   },
@@ -489,11 +489,11 @@
     ]
   },
   {
-    "word": "sọc tạp nhiễu",
+    "word": "sọ dẹt do nhân tạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hum bars"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-platycrania"
       }
     ]
   }

@@ -1,28 +1,46 @@
 [
   {
-    "word": "chắn bằng lưới",
+    "word": "chắc chặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-screen-protected\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-screen-protected"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tough\n@Chuyên ngành kỹ thuật\n-tough"
       }
     ]
   },
   {
-    "word": "chắn được tia phun",
+    "word": "chắn mỡ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-splash-proof\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-splash-proof"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grease trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grease trap"
       }
     ]
   },
   {
-    "word": "chắn ánh sáng",
+    "word": "chắn bằng nitơ lỏng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-opaque\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-opaque"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắc chẳng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "certainly, surely"
+      }
+    ]
+  },
+  {
+    "word": "chắn bụi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-dust shield\n@Lĩnh vực: xây dựng\n-dustproof\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-dust shield\n@Lĩnh vực: xây dựng\n-dustproof"
       }
     ]
   },
@@ -36,40 +54,142 @@
     ]
   },
   {
-    "word": "chắc nịch",
+    "word": "chắc chắn là không",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rắn chắc đến mức như được dồn nén chặt\nVí dụ:\n- cánh tay chắc nịch"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rắn rỏi và dứt khoát, thể hiện sự vững vàng, mạnh mẽ\nVí dụ:\n- câu trả lời chắc nịch \n - giọng văn chắc nịch"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chắc nịch\n- tt. 1. Rắn và cứng cáp: Bà có vóc người nhỏ nhắn, chắc nịch (Sơn-tùng) 2. Chặt chẽ, vững vàng: Lời văn chắc nịch."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc nịch\n-Firm\n=Bắp thịt chắc nịch\n+Firm muscles\n=Lý lẽ chắc nịch\n+Firm ground\n@Chuyên ngành kỹ thuật\n-dense\n@Chuyên ngành kỹ thuật\n-dense"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắc nịch\n- Firm\n=Bắp thịt chắc nịch+Firm muscles\n=Lý lẽ chắc nịch+Firm ground"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "sure, certain"
+        "dict_definition": "certainly not"
       }
     ]
   },
   {
-    "word": "chắn từ tính",
+    "word": "chắc như đinh đóng cột",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding"
+        "dict_definition": "@chắc như đinh đóng cột [chắc như đinh đóng cột]\n*thành ngữ\n-as sure as eggs is eggs/as I\"m standing here"
+      }
+    ]
+  },
+  {
+    "word": "chắn từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding\n-magnetostatic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding\n-magnetostatic shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắn cữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bracing\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bracing"
+      }
+    ]
+  },
+  {
+    "word": "chắn điện từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electromagnetic screening\n-electromagnetic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electromagnetic screening\n-electromagnetic shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắt chiu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dành dụm cẩn thận từng ít một vì coi là quý\nVí dụ:\n- chắt chiu từng hạt gạo \n - chắt chiu dành dụm từng đồng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chăm chút, nâng niu từng li từng tí vì coi là quý\nVí dụ:\n- chắt chiu từng cành hoa, chiếc lá"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắt chiu\n*verb\n-To nurse\n=chắt chiu từng gốc hoa\n+to nurse every flower plant\n-To save every amount of\n=chắt chiu từng hạt gạo\n+to save every grain of rice\n=ít chắt chiu hơn nhiều vung phí\n+one will be better off with little and thrift than with much and extravagance; thrift is a great revenue"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắt chiu\n* verb\n- To nurse\n=chắt chiu từng gốc hoa+to nurse every flower plant\n-To save every amount of\n=chắt chiu từng hạt gạo+to save every grain of rice\n=ít chắt chiu hơn nhiều vung phí+one will be better off with little and thrift than with much and extravagance; thrift is a great revenue"
+      }
+    ]
+  },
+  {
+    "word": "chắp vá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ghép nhiều thứ không cùng một bộ với nhau để làm thành cái gì đó\nVí dụ:\n- mẹ chắp vá các mảnh vải vụn thành tấm chăn \n - mẹ chắp vá thành tấm chăn từ các mảnh vải vụn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[các phần] không khớp với nhau, không làm thành hệ thống do không được đồng bộ\nVí dụ:\n- một mớ kiến thức chắp vá \n - lối làm ăn chắp vá"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắp vá\n-To patch up\n=góp nhặt phụ tùng cũ để chắp vá thành một chiếc máy\n+to patch up gathered old parts into a machine\n=kế hoạch chắp vá\n+a patchedup plan\n=lối làm ăn chắp vá\n+a style of work consisting in patching up things, an unsystematic style of work"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắp vá\n- To patch up\n=góp nhặt phụ tùng cũ để chắp vá thành một chiếc máy+to patch up gathered old parts into a machine\n=kế hoạch chắp vá+a patchedup plan\n=lối làm ăn chắp vá+a style of work consisting in patching up things, an unsystematic style of work"
+      }
+    ]
+  },
+  {
+    "word": "chắc ăn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rất chắc chắn, hoàn toàn đảm bảo được kết quả\nVí dụ:\n- bắn phát nào chắc ăn phát đó \n - có chắc ăn mới làm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc ăn [chắc ăn]\n-to be sure of success;  to feel secure of victory"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be sure of success, feel secure of victory"
+      }
+    ]
+  },
+  {
+    "word": "chắn phóng xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-radiopaque\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-radiopaque"
+      }
+    ]
+  },
+  {
+    "word": "chắn nửa đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-half-barrier\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-half-barrier"
+      }
+    ]
+  },
+  {
+    "word": "chắn từ tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetostatic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetostatic shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắp nối ăng ten",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to connect an antenna"
       }
     ]
   },
@@ -119,84 +239,51 @@
     ]
   },
   {
-    "word": "chắc dạ",
+    "word": "chắn từ tính",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "no bụng, no được lâu\nVí dụ:\n- ăn cơm cho chắc dạ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vững tâm, không còn phải lo lắng\nVí dụ:\n- đã chuẩn bị kĩ càng trước khi thi nên cũng thấy chắc dạ"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắn rf",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chắc dạ\n-To have a feeling of fullness (in one\"s stomach)\n=ngô là thức ăn chắc dạ\n+maize gives one a feeling of fullness, maize is a stodge (a stodgy food, a filling food)"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-RF shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-RF shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắn tĩnh điện",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắc dạ\n- To have a feeling of fullness (in one's stomach)\n=ngô là thức ăn chắc dạ+maize gives one a feeling of fullness, maize is a stodge (a stodgy food, a filling food)"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electrostatic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electrostatic shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắn ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắn ngang [chắn ngang]\n-barricade; partition off"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to have a feeling of fullness (in one’s stomach)"
+        "dict_definition": "barricade, partition off; to block, barricade, obstruct"
       }
     ]
   },
   {
-    "word": "chắt lọc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chọn lấy cái tinh tuý nhất, có giá trị và cần thiết nhất\nVí dụ:\n- chắt lọc lấy những tinh hoa văn hoá của dân tộc \n - kinh nghiệm được chắt lọc từ cuộc sống"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắt lọc [chắt lọc]\n-filter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "filter"
-      }
-    ]
-  },
-  {
-    "word": "chắn ngoài",
+    "word": "chắn kerr",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-external blocking\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-external blocking"
-      }
-    ]
-  },
-  {
-    "word": "chắp tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắp tay [chắp tay]\n-to clasp one\"s hands;  to put one\"s hands together"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to clasp one’s hands, put one’s hands together"
-      }
-    ]
-  },
-  {
-    "word": "chắn điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric shielding"
-      }
-    ]
-  },
-  {
-    "word": "chắn sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-light protective\n-lighttight\n-opaque\n-stop down\n@Chuyên ngành kỹ thuật\n-light protective\n-lighttight\n-opaque\n-stop down"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Kerr shutter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Kerr shutter"
       }
     ]
   },
@@ -226,54 +313,357 @@
     ]
   },
   {
-    "word": "chắn từ thông",
+    "word": "chắn song (cửa sổ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flux guide\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flux guide"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-impost\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-impost"
       }
     ]
   },
   {
-    "word": "chắt chiu",
+    "word": "chắp nhặt",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dành dụm cẩn thận từng ít một vì coi là quý\nVí dụ:\n- chắt chiu từng hạt gạo \n - chắt chiu dành dụm từng đồng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chăm chút, nâng niu từng li từng tí vì coi là quý\nVí dụ:\n- chắt chiu từng cành hoa, chiếc lá"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chắp nhặt\n- đgt. Lấy mỗi thứ một nơi rồi nối lại: Câu thơ chắp nhặt lọc lừa nôm na (Hoàng Trừu), lời quê chắp nhặt dông dài (K)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chắt chiu\n*verb\n-To nurse\n=chắt chiu từng gốc hoa\n+to nurse every flower plant\n-To save every amount of\n=chắt chiu từng hạt gạo\n+to save every grain of rice\n=ít chắt chiu hơn nhiều vung phí\n+one will be better off with little and thrift than with much and extravagance; thrift is a great revenue"
+        "dict_definition": "@chắp nhặt\n*verb\n-To glean, to scrape together"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắt chiu\n* verb\n- To nurse\n=chắt chiu từng gốc hoa+to nurse every flower plant\n-To save every amount of\n=chắt chiu từng hạt gạo+to save every grain of rice\n=ít chắt chiu hơn nhiều vung phí+one will be better off with little and thrift than with much and extravagance; thrift is a great revenue"
-      }
-    ]
-  },
-  {
-    "word": "chắt mót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắt mót [chắt mót]\n-pick up; glean"
+        "dict_definition": "@chắp nhặt\n* verb\n- To glean, to scrape together"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "pick up, glean"
+        "dict_definition": "to gather, glean, scrape together"
       }
     ]
   },
   {
-    "word": "chắn đường ngang",
+    "word": "chắp cánh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tạo điều kiện tốt nhất để đạt tới đỉnh cao [ví như chắp dài thêm cánh để bay cao hơn, xa hơn]\nVí dụ:\n- chắp cánh cho những ước mơ \n - \"Gió chắp cánh cho hương càng toả rộng.\" (Xuân Diệu; 8)"
+      }
+    ]
+  },
+  {
+    "word": "chắn đường ngang đã đóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier\n-crossing gate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier\n-crossing gate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-closed barrier\n-closed gate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-closed barrier\n-closed gate"
+      }
+    ]
+  },
+  {
+    "word": "chắc nịch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rắn chắc đến mức như được dồn nén chặt\nVí dụ:\n- cánh tay chắc nịch"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rắn rỏi và dứt khoát, thể hiện sự vững vàng, mạnh mẽ\nVí dụ:\n- câu trả lời chắc nịch \n - giọng văn chắc nịch"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chắc nịch\n- tt. 1. Rắn và cứng cáp: Bà có vóc người nhỏ nhắn, chắc nịch (Sơn-tùng) 2. Chặt chẽ, vững vàng: Lời văn chắc nịch."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc nịch\n-Firm\n=Bắp thịt chắc nịch\n+Firm muscles\n=Lý lẽ chắc nịch\n+Firm ground\n@Chuyên ngành kỹ thuật\n-dense\n@Chuyên ngành kỹ thuật\n-dense"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắc nịch\n- Firm\n=Bắp thịt chắc nịch+Firm muscles\n=Lý lẽ chắc nịch+Firm ground"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sure, certain"
+      }
+    ]
+  },
+  {
+    "word": "chắn điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắt bóp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[chi tiêu] hạn chế, tằn tiện hết mức để dành dụm từng ít một\nVí dụ:\n- cô ấy chắt bóp từng đồng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chắt bóp\n- đgt. Dành dụm, tằn tiện từng ít một: Thêm vào món tiền chắt bóp được (Ng-hồng)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắt bóp\n-To stint oneself in\n=phải chắt bóp trong bao nhiêu năm mới có được món tiền ấy\n+that sum of money was the result of many years stinting himself in everything\n=chắt bóp từng đồng\n+to stint oneself in money and save every penny"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắt bóp\n- To stint oneself in\n=phải chắt bóp trong bao nhiêu năm mới có được món tiền ấy+that sum of money was the result of many years stinting himself in everything\n\n=chắt bóp từng đồng+to stint oneself in money and save every penny"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to stint oneself in"
+      }
+    ]
+  },
+  {
+    "word": "chắc tay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vững vàng về tay nghề, về công việc\nVí dụ:\n- lái xe chưa thật chắc tay \n - cày đã chắc tay"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc tay [chắc tay]\n-(nghĩa bóng) having a steady hand;  experienced"
+      }
+    ]
+  },
+  {
+    "word": "chắn (ẩm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stop\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stop"
+      }
+    ]
+  },
+  {
+    "word": "chắn song",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem chấn song\nVí dụ:\n- chắn song cửa sổ"
+      }
+    ]
+  },
+  {
+    "word": "chắt lót",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như chắt bóp\nVí dụ:\n- cô ấy chắt lót, tằn tiện từng khoản chi tiêu"
+      }
+    ]
+  },
+  {
+    "word": "chắn bùn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tấm mỏng che trên bánh xe để bùn khỏi bắn lên"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chắn bùn\n- d. Tấm mỏng che trên bánh xe để bùn khỏi bắn lên. Chắn bùn xe đạp."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắn bùn\n*noun\n-Mudguard"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắn bùn\n* noun\n- Mudguard"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mudguard"
+      }
+    ]
+  },
+  {
+    "word": "chắc có lẽ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "probably"
+      }
+    ]
+  },
+  {
+    "word": "chắn điện môi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dielectric shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dielectric shielding"
+      }
+    ]
+  },
+  {
+    "word": "chắc anh ấy sắp đến",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "He’ll probably be here soon"
+      }
+    ]
+  },
+  {
+    "word": "chắn cạ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem chắn\nVí dụ:\n- đánh chắn cạ"
+      }
+    ]
+  },
+  {
+    "word": "chắp nối",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gắn kết nhiều phần, nhiều bộ phận lại với nhau cho thành một thể thống nhất\nVí dụ:\n- các chiến sĩ công an chắp nối những tình tiết của vụ án \n - chắp nối hệ thống thương mại đầu tư"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nối lại quan hệ hoặc làm cho có quan hệ với nhau\nVí dụ:\n- chúng tôi chắp nối liên lạc với đồng chí bí thư"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắp nối [chắp nối]\n-join, unite; connect; stick together; paste together\n@Chuyên ngành kỹ thuật\n-append\n@Chuyên ngành kỹ thuật\n-append"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to join, unite, connect, stick together, paste together, gather, collect, assemble"
+      }
+    ]
+  },
+  {
+    "word": "chắn sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-light protective\n-lighttight\n-opaque\n-stop down\n@Chuyên ngành kỹ thuật\n-light protective\n-lighttight\n-opaque\n-stop down"
+      }
+    ]
+  },
+  {
+    "word": "chắc xanh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[hạt lúa] ở trạng thái nhân đã đặc và cứng, nhưng vỏ còn xanh\nVí dụ:\n- những bông lúa chắc xanh"
+      }
+    ]
+  },
+  {
+    "word": "chắc dạ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "no bụng, no được lâu\nVí dụ:\n- ăn cơm cho chắc dạ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vững tâm, không còn phải lo lắng\nVí dụ:\n- đã chuẩn bị kĩ càng trước khi thi nên cũng thấy chắc dạ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc dạ\n-To have a feeling of fullness (in one\"s stomach)\n=ngô là thức ăn chắc dạ\n+maize gives one a feeling of fullness, maize is a stodge (a stodgy food, a filling food)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắc dạ\n- To have a feeling of fullness (in one's stomach)\n=ngô là thức ăn chắc dạ+maize gives one a feeling of fullness, maize is a stodge (a stodgy food, a filling food)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have a feeling of fullness (in one’s stomach)"
+      }
+    ]
+  },
+  {
+    "word": "chắc khó mà chết được",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "probably won’t die"
+      }
+    ]
+  },
+  {
+    "word": "chắc mẩm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tin chắc và yên trí là sẽ đúng như vậy\nVí dụ:\n- tôi chắc mẩm điều đó là đúng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chắc mẩm\n- đgt. Tin chắc và yên chí đúng như dự kiến: chắc mẩm thắng, ai ngờ lại thua."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc mẩm\n-xem mẩm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắc mẩm\n- xem mẩm"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sure, certain"
+      }
+    ]
+  },
+  {
+    "word": "chắn ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-external blocking\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-external blocking"
+      }
+    ]
+  },
+  {
+    "word": "chắn bóng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dùng tay ngăn bóng đập của đối phương ở trên lưới, trong bóng chuyền\nVí dụ:\n- cầu thủ chắn bóng thành công"
+      }
+    ]
+  },
+  {
+    "word": "chắc, đặc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-compact\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-compact"
+      }
+    ]
+  },
+  {
+    "word": "chắn được tia phun",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-splash-proof\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-splash-proof"
+      }
+    ]
+  },
+  {
+    "word": "chắn bức xạ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiation shielding\n-radiopaque\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiation shielding\n-radiopaque"
       }
     ]
   },
@@ -307,234 +697,20 @@
     ]
   },
   {
-    "word": "chắn nửa đường",
+    "word": "chắn che",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-half-barrier\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-half-barrier"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-shelter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-shelter"
       }
     ]
   },
   {
-    "word": "chắn đường ngang đã đóng",
+    "word": "chắn lửa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-closed barrier\n-closed gate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-closed barrier\n-closed gate"
-      }
-    ]
-  },
-  {
-    "word": "chắc có lẽ là không",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "probably not"
-      }
-    ]
-  },
-  {
-    "word": "chắp dính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắp dính [chắp dính]\n-stick together"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stick together"
-      }
-    ]
-  },
-  {
-    "word": "chắc xanh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[hạt lúa] ở trạng thái nhân đã đặc và cứng, nhưng vỏ còn xanh\nVí dụ:\n- những bông lúa chắc xanh"
-      }
-    ]
-  },
-  {
-    "word": "chắc tay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vững vàng về tay nghề, về công việc\nVí dụ:\n- lái xe chưa thật chắc tay \n - cày đã chắc tay"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc tay [chắc tay]\n-(nghĩa bóng) having a steady hand;  experienced"
-      }
-    ]
-  },
-  {
-    "word": "chắc chân",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có được sự đảm bảo chắc chắn về địa vị hoặc hoàn cảnh sinh sống\nVí dụ:\n- tìm được một chỗ làm chắc chân"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc chân\n-Be in a stable position, have a stable job"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắc chân\n- Be in a stable position, have a stable job"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be in a stable position, have a stable job"
-      }
-    ]
-  },
-  {
-    "word": "chắc chắn là không",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "certainly not"
-      }
-    ]
-  },
-  {
-    "word": "chắn cữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bracing\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bracing"
-      }
-    ]
-  },
-  {
-    "word": "chắc, đặc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-compact\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-compact"
-      }
-    ]
-  },
-  {
-    "word": "chắn bằng nitơ lỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid nitrogen shielding"
-      }
-    ]
-  },
-  {
-    "word": "chắp cánh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tạo điều kiện tốt nhất để đạt tới đỉnh cao [ví như chắp dài thêm cánh để bay cao hơn, xa hơn]\nVí dụ:\n- chắp cánh cho những ước mơ \n - \"Gió chắp cánh cho hương càng toả rộng.\" (Xuân Diệu; 8)"
-      }
-    ]
-  },
-  {
-    "word": "chắt bóp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[chi tiêu] hạn chế, tằn tiện hết mức để dành dụm từng ít một\nVí dụ:\n- cô ấy chắt bóp từng đồng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chắt bóp\n- đgt. Dành dụm, tằn tiện từng ít một: Thêm vào món tiền chắt bóp được (Ng-hồng)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắt bóp\n-To stint oneself in\n=phải chắt bóp trong bao nhiêu năm mới có được món tiền ấy\n+that sum of money was the result of many years stinting himself in everything\n=chắt bóp từng đồng\n+to stint oneself in money and save every penny"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắt bóp\n- To stint oneself in\n=phải chắt bóp trong bao nhiêu năm mới có được món tiền ấy+that sum of money was the result of many years stinting himself in everything\n\n=chắt bóp từng đồng+to stint oneself in money and save every penny"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to stint oneself in"
-      }
-    ]
-  },
-  {
-    "word": "chắn đường ngang thường mở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier normally open\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier normally open"
-      }
-    ]
-  },
-  {
-    "word": "chắn phóng xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-radiopaque\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-radiopaque"
-      }
-    ]
-  },
-  {
-    "word": "chắc chẳng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "certainly, surely"
-      }
-    ]
-  },
-  {
-    "word": "chắc hẳn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị ý tin chắc là như thế\nVí dụ:\n- chuyện ấy, chắc hẳn anh đã biết? \n - chắc hẳn mọi người đang chờ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc hẳn\n-Surely, certainly\n@Chuyên ngành kỹ thuật\n-certainly\n-probable\n@Chuyên ngành kỹ thuật\n-certainly\n-probable"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắc hẳn\n- Surely, certainly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "it is certain"
-      }
-    ]
-  },
-  {
-    "word": "chắc như đinh đóng cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc như đinh đóng cột [chắc như đinh đóng cột]\n*thành ngữ\n-as sure as eggs is eggs/as I\"m standing here"
-      }
-    ]
-  },
-  {
-    "word": "chắt lót",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như chắt bóp\nVí dụ:\n- cô ấy chắt lót, tằn tiện từng khoản chi tiêu"
-      }
-    ]
-  },
-  {
-    "word": "chắp cánh liền cành",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Chắp cánh liền cành\n- Tức Tỷ dực liên chi, Nói việc vợ chồng gắn bó thương yêu lâu dài, mãi mãi có nhau\n- Bạch Cư dị: Tại thiên nguyện tác ly dực điểu, Tại địa nguyện vi liễm ký chí. (Trên trời nguyện làm chim liền cách, dưới đất nguyện làm cây liền cành)\n- Sưu thần ký: Hàn Bằng làm quan đại phu nước Tống, vợ là Hà Thị sắc đẹp hơn người bị tên hôn quân Tống Khang Vương cướp đi mất. Hà thị bí mật để lại cho Hàn Bằng bức thư tỏ ý liều chết. Khang Vương cầm tù Hàn Bằng, Hàn Bằng tự sát. Hà thị biết chuyện bèn ngầm bận áo đẹp cùng Khang Vương lên đài cao chơi rồi bất thình lình lao mình xuống tự tử. Hà thị có để lại thư xin cùng được chôn chung với Hàn Bằng. Tên hôn quân căm giận sai chôn Hà thị ở chỗ khác đối diện mộ Hàn Bằng. Qua một đêm bổng mộ nào cũng có cây Tử mọc lên, rễ liền nhau ở dưới, ngọn cành liền nhau ở trên, thường có đôi chim uyên ương đến đậu, tiếng hót rất thảm thiết\n- Truyện khác: Trương Liêm Xuân ở Dương Châu lấy Tào Bích là người cùng làng. Giặc đến, hai vợ chồng chạy trốn bị rơi xuống hồ chết. Năm sau, ở hồ ấy mọc lên 2 hoa sen cùng chung một đài\n- Sách Kinh Nhã nói ở phương Nam có giống chim chỉ có một mắt, một cánh nên 2 con phải chắp cánh lại để bay\n- Cung oán ngâm khúc\n- Tranh tỷ dực nhìn ra chim nọ\n- Đồ liên chi lần trỏ hoa kia"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắp cánh liền cành [chắp cánh liền cành]\n-love between boys and girls"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire isolated\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire isolated"
       }
     ]
   },
@@ -548,96 +724,59 @@
     ]
   },
   {
-    "word": "chắc anh ấy sắp đến",
+    "word": "chắn lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-retain\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-retain"
+      }
+    ]
+  },
+  {
+    "word": "chắc có lẽ là không",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "He’ll probably be here soon"
+        "dict_definition": "probably not"
       }
     ]
   },
   {
-    "word": "chắc giá",
+    "word": "chắt mót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-firm price"
+        "dict_definition": "@chắt mót [chắt mót]\n-pick up; glean"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pick up, glean"
       }
     ]
   },
   {
-    "word": "chắn rf",
+    "word": "chắc khó",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-RF shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-RF shielding"
+        "dict_name": "VNEDICT",
+        "dict_definition": "unlikely (to happen)"
       }
     ]
   },
   {
-    "word": "chắn mỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grease trap\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grease trap"
-      }
-    ]
-  },
-  {
-    "word": "chắn",
+    "word": "chắc lép",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vật để ngăn lại, không cho qua\nVí dụ:\n- nhấc chắn cho xe xuống phà \n - cấm vượt qua chắn đường tàu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngăn giữ lại, không cho vượt qua hay tiếp tục di chuyển tới nữa\nVí dụ:\n- đoàn người đang chắn dòng nước lũ \n - cảnh sát đang chắn xe cộ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lối chơi bài, cứ hai quân cùng loại hợp lại thành một đôi, gọi là chắn, khác loại hợp lại thành một cạ\nVí dụ:\n- đánh chắn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chắn\n- 1 dt. Lối chơi bài dùng cỗ tổ tôm, cứ hai hoặc ba con cùng loại thì gọi là một chắn, nếu bài đủ chắn cả thì ù: Mê đánh chắn, bỏ cả công việc.\n- 2 đgt. 1. Ngăn lại: Chắn lối đi 2. Chia cách ra: Chắn cái phòng làm hai; Lau già chắn vách, trúc thưa ru rèm (BCKN). // dt. Cái dùng để ngăn lại: Nhấc cái chắn lên cho xe qua."
+        "dict_definition": "có tính so đo, tính toán để cầm chắc phần hơn, không bị thiệt trong quan hệ với người khác\nVí dụ:\n- tính hay chắc lép"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chắn\n*noun\n-chắn cạ Game of cards with each hand consisting of pairs\n-Barrier\n=nhấc chắn cho xe xuống phà\n+to lift the barrier for a car to board a ferry-boat*verb\n-To block, to bar, to obstruct, to stop, to hold back\n=chắn dòng nước\n+to hold back a stream\n=trồng cây chắn gió\n+to grow trees to stop winds\n=núi chắn ngang tầm mắt\n+the mountain blocked our view\n=chắn bóng\n+to stop a ball\n-To partition\n=\n+hắn buồng làm hai phòng nhỏ\n@Chuyên ngành kỹ thuật\n-bar\n-barrier\n-enclose\n-even\n-guard\n-intercept\n-mask\n-obstruct\n-shielding\n-stop\n@Chuyên ngành kỹ thuật\n-bar\n-barrier\n-enclose\n-even\n-guard\n-intercept\n-mask\n-obstruct\n-shielding\n-stop"
+        "dict_definition": "@chắc lép\n-To be half trustful half suspicious (of someone\"s solvency)\n=chắc lép nên không cho mượn tiền\n+being half trustful half suspicious, he did not lend money to him"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắn\n* noun\n- chắn cạ Game of cards with each hand consisting of pairs\n-Barrier\n=nhấc chắn cho xe xuống phà+to lift the barrier for a car to board a ferry-boat\n* verb\n- To block, to bar, to obstruct, to stop, to hold back\n=chắn dòng nước+to hold back a stream\n=trồng cây chắn gió+to grow trees to stop winds\n=núi chắn ngang tầm mắt+the mountain blocked our view\n=chắn bóng+to stop a ball\n-To partition\n=chắn buồng làm hai phòng nhỏ"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to halt, stop"
-      }
-    ]
-  },
-  {
-    "word": "chắn bùn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tấm mỏng che trên bánh xe để bùn khỏi bắn lên"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chắn bùn\n- d. Tấm mỏng che trên bánh xe để bùn khỏi bắn lên. Chắn bùn xe đạp."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắn bùn\n*noun\n-Mudguard"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắn bùn\n* noun\n- Mudguard"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mudguard"
+        "dict_definition": "@chắc lép\n- To be half trustful half suspicious (of someone's solvency)\n=chắc lép nên không cho mượn tiền+being half trustful half suspicious, he did not lend money to him"
       }
     ]
   },
@@ -675,6 +814,158 @@
     ]
   },
   {
+    "word": "chắc chắn đúng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-irrefutable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-irrefutable"
+      }
+    ]
+  },
+  {
+    "word": "chắc sít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-compact\n-dense\n@Chuyên ngành kỹ thuật\n-compact\n-dense"
+      }
+    ]
+  },
+  {
+    "word": "chắn bằng lưới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-screen-protected\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-screen-protected"
+      }
+    ]
+  },
+  {
+    "word": "chắp dính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắp dính [chắp dính]\n-stick together"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "stick together"
+      }
+    ]
+  },
+  {
+    "word": "chắt lọc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chọn lấy cái tinh tuý nhất, có giá trị và cần thiết nhất\nVí dụ:\n- chắt lọc lấy những tinh hoa văn hoá của dân tộc \n - kinh nghiệm được chắt lọc từ cuộc sống"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắt lọc [chắt lọc]\n-filter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "filter"
+      }
+    ]
+  },
+  {
+    "word": "chắn gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leeward\n-windproof\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leeward\n-windproof"
+      }
+    ]
+  },
+  {
+    "word": "chắp cánh liền cành",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Chắp cánh liền cành\n- Tức Tỷ dực liên chi, Nói việc vợ chồng gắn bó thương yêu lâu dài, mãi mãi có nhau\n- Bạch Cư dị: Tại thiên nguyện tác ly dực điểu, Tại địa nguyện vi liễm ký chí. (Trên trời nguyện làm chim liền cách, dưới đất nguyện làm cây liền cành)\n- Sưu thần ký: Hàn Bằng làm quan đại phu nước Tống, vợ là Hà Thị sắc đẹp hơn người bị tên hôn quân Tống Khang Vương cướp đi mất. Hà thị bí mật để lại cho Hàn Bằng bức thư tỏ ý liều chết. Khang Vương cầm tù Hàn Bằng, Hàn Bằng tự sát. Hà thị biết chuyện bèn ngầm bận áo đẹp cùng Khang Vương lên đài cao chơi rồi bất thình lình lao mình xuống tự tử. Hà thị có để lại thư xin cùng được chôn chung với Hàn Bằng. Tên hôn quân căm giận sai chôn Hà thị ở chỗ khác đối diện mộ Hàn Bằng. Qua một đêm bổng mộ nào cũng có cây Tử mọc lên, rễ liền nhau ở dưới, ngọn cành liền nhau ở trên, thường có đôi chim uyên ương đến đậu, tiếng hót rất thảm thiết\n- Truyện khác: Trương Liêm Xuân ở Dương Châu lấy Tào Bích là người cùng làng. Giặc đến, hai vợ chồng chạy trốn bị rơi xuống hồ chết. Năm sau, ở hồ ấy mọc lên 2 hoa sen cùng chung một đài\n- Sách Kinh Nhã nói ở phương Nam có giống chim chỉ có một mắt, một cánh nên 2 con phải chắp cánh lại để bay\n- Cung oán ngâm khúc\n- Tranh tỷ dực nhìn ra chim nọ\n- Đồ liên chi lần trỏ hoa kia"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắp cánh liền cành [chắp cánh liền cành]\n-love between boys and girls"
+      }
+    ]
+  },
+  {
+    "word": "chắc chân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có được sự đảm bảo chắc chắn về địa vị hoặc hoàn cảnh sinh sống\nVí dụ:\n- tìm được một chỗ làm chắc chân"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc chân\n-Be in a stable position, have a stable job"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắc chân\n- Be in a stable position, have a stable job"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be in a stable position, have a stable job"
+      }
+    ]
+  },
+  {
+    "word": "chắc bụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc bụng [chắc bụng]\n-to feel sure/secure\n-to have a feeling of fullness"
+      }
+    ]
+  },
+  {
+    "word": "chắc hẳn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị ý tin chắc là như thế\nVí dụ:\n- chuyện ấy, chắc hẳn anh đã biết? \n - chắc hẳn mọi người đang chờ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắc hẳn\n-Surely, certainly\n@Chuyên ngành kỹ thuật\n-certainly\n-probable\n@Chuyên ngành kỹ thuật\n-certainly\n-probable"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắc hẳn\n- Surely, certainly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "it is certain"
+      }
+    ]
+  },
+  {
+    "word": "chắn ánh sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-opaque\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-opaque"
+      }
+    ]
+  },
+  {
+    "word": "chắp tay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắp tay [chắp tay]\n-to clasp one\"s hands;  to put one\"s hands together"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to clasp one’s hands, put one’s hands together"
+      }
+    ]
+  },
+  {
     "word": "chắc mỏm",
     "definitions": [
       {
@@ -684,56 +975,66 @@
     ]
   },
   {
-    "word": "chắn cạ",
+    "word": "chắn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem chắn\nVí dụ:\n- đánh chắn cạ"
+        "dict_definition": "vật để ngăn lại, không cho qua\nVí dụ:\n- nhấc chắn cho xe xuống phà \n - cấm vượt qua chắn đường tàu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ngăn giữ lại, không cho vượt qua hay tiếp tục di chuyển tới nữa\nVí dụ:\n- đoàn người đang chắn dòng nước lũ \n - cảnh sát đang chắn xe cộ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lối chơi bài, cứ hai quân cùng loại hợp lại thành một đôi, gọi là chắn, khác loại hợp lại thành một cạ\nVí dụ:\n- đánh chắn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@chắn\n- 1 dt. Lối chơi bài dùng cỗ tổ tôm, cứ hai hoặc ba con cùng loại thì gọi là một chắn, nếu bài đủ chắn cả thì ù: Mê đánh chắn, bỏ cả công việc.\n- 2 đgt. 1. Ngăn lại: Chắn lối đi 2. Chia cách ra: Chắn cái phòng làm hai; Lau già chắn vách, trúc thưa ru rèm (BCKN). // dt. Cái dùng để ngăn lại: Nhấc cái chắn lên cho xe qua."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@chắn\n*noun\n-chắn cạ Game of cards with each hand consisting of pairs\n-Barrier\n=nhấc chắn cho xe xuống phà\n+to lift the barrier for a car to board a ferry-boat*verb\n-To block, to bar, to obstruct, to stop, to hold back\n=chắn dòng nước\n+to hold back a stream\n=trồng cây chắn gió\n+to grow trees to stop winds\n=núi chắn ngang tầm mắt\n+the mountain blocked our view\n=chắn bóng\n+to stop a ball\n-To partition\n=\n+hắn buồng làm hai phòng nhỏ\n@Chuyên ngành kỹ thuật\n-bar\n-barrier\n-enclose\n-even\n-guard\n-intercept\n-mask\n-obstruct\n-shielding\n-stop\n@Chuyên ngành kỹ thuật\n-bar\n-barrier\n-enclose\n-even\n-guard\n-intercept\n-mask\n-obstruct\n-shielding\n-stop"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@chắn\n* noun\n- chắn cạ Game of cards with each hand consisting of pairs\n-Barrier\n=nhấc chắn cho xe xuống phà+to lift the barrier for a car to board a ferry-boat\n* verb\n- To block, to bar, to obstruct, to stop, to hold back\n=chắn dòng nước+to hold back a stream\n=trồng cây chắn gió+to grow trees to stop winds\n=núi chắn ngang tầm mắt+the mountain blocked our view\n=chắn bóng+to stop a ball\n-To partition\n=chắn buồng làm hai phòng nhỏ"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to halt, stop"
       }
     ]
   },
   {
-    "word": "chắn điện từ",
+    "word": "chắn đường ngang thường mở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electromagnetic screening\n-electromagnetic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electromagnetic screening\n-electromagnetic shielding"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier normally open\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier normally open"
       }
     ]
   },
   {
-    "word": "chắn từ",
+    "word": "chắm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding\n-magnetostatic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetic shielding\n-magnetostatic shielding"
+        "dict_definition": "@chắm [chắm]\n-dip (in, into)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dip (in, into)"
       }
     ]
   },
   {
-    "word": "chắn che",
+    "word": "chắn từ thông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-shelter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-shelter"
-      }
-    ]
-  },
-  {
-    "word": "chắc chặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tough\n@Chuyên ngành kỹ thuật\n-tough"
-      }
-    ]
-  },
-  {
-    "word": "chắn (ẩm)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stop\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stop"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flux guide\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-flux guide"
       }
     ]
   },
@@ -771,166 +1072,11 @@
     ]
   },
   {
-    "word": "chắn ngang",
+    "word": "chắc giá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@chắn ngang [chắn ngang]\n-barricade; partition off"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "barricade, partition off; to block, barricade, obstruct"
-      }
-    ]
-  },
-  {
-    "word": "chắc sít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-compact\n-dense\n@Chuyên ngành kỹ thuật\n-compact\n-dense"
-      }
-    ]
-  },
-  {
-    "word": "chắn tĩnh điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electrostatic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electrostatic shielding"
-      }
-    ]
-  },
-  {
-    "word": "chắn lửa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire isolated\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fire isolated"
-      }
-    ]
-  },
-  {
-    "word": "chắp nối",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gắn kết nhiều phần, nhiều bộ phận lại với nhau cho thành một thể thống nhất\nVí dụ:\n- các chiến sĩ công an chắp nối những tình tiết của vụ án \n - chắp nối hệ thống thương mại đầu tư"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nối lại quan hệ hoặc làm cho có quan hệ với nhau\nVí dụ:\n- chúng tôi chắp nối liên lạc với đồng chí bí thư"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắp nối [chắp nối]\n-join, unite; connect; stick together; paste together\n@Chuyên ngành kỹ thuật\n-append\n@Chuyên ngành kỹ thuật\n-append"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to join, unite, connect, stick together, paste together, gather, collect, assemble"
-      }
-    ]
-  },
-  {
-    "word": "chắn kerr",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Kerr shutter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Kerr shutter"
-      }
-    ]
-  },
-  {
-    "word": "chắp vá",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ghép nhiều thứ không cùng một bộ với nhau để làm thành cái gì đó\nVí dụ:\n- mẹ chắp vá các mảnh vải vụn thành tấm chăn \n - mẹ chắp vá thành tấm chăn từ các mảnh vải vụn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[các phần] không khớp với nhau, không làm thành hệ thống do không được đồng bộ\nVí dụ:\n- một mớ kiến thức chắp vá \n - lối làm ăn chắp vá"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắp vá\n-To patch up\n=góp nhặt phụ tùng cũ để chắp vá thành một chiếc máy\n+to patch up gathered old parts into a machine\n=kế hoạch chắp vá\n+a patchedup plan\n=lối làm ăn chắp vá\n+a style of work consisting in patching up things, an unsystematic style of work"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắp vá\n- To patch up\n=góp nhặt phụ tùng cũ để chắp vá thành một chiếc máy+to patch up gathered old parts into a machine\n=kế hoạch chắp vá+a patchedup plan\n=lối làm ăn chắp vá+a style of work consisting in patching up things, an unsystematic style of work"
-      }
-    ]
-  },
-  {
-    "word": "chắc lép",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có tính so đo, tính toán để cầm chắc phần hơn, không bị thiệt trong quan hệ với người khác\nVí dụ:\n- tính hay chắc lép"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc lép\n-To be half trustful half suspicious (of someone\"s solvency)\n=chắc lép nên không cho mượn tiền\n+being half trustful half suspicious, he did not lend money to him"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắc lép\n- To be half trustful half suspicious (of someone's solvency)\n=chắc lép nên không cho mượn tiền+being half trustful half suspicious, he did not lend money to him"
-      }
-    ]
-  },
-  {
-    "word": "chắc chắn đúng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-irrefutable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-irrefutable"
-      }
-    ]
-  },
-  {
-    "word": "chắc ăn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất chắc chắn, hoàn toàn đảm bảo được kết quả\nVí dụ:\n- bắn phát nào chắc ăn phát đó \n - có chắc ăn mới làm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc ăn [chắc ăn]\n-to be sure of success;  to feel secure of victory"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be sure of success, feel secure of victory"
-      }
-    ]
-  },
-  {
-    "word": "chắn bức xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiation shielding\n-radiopaque\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-radiation shielding\n-radiopaque"
-      }
-    ]
-  },
-  {
-    "word": "chắp nhặt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chắp nhặt\n- đgt. Lấy mỗi thứ một nơi rồi nối lại: Câu thơ chắp nhặt lọc lừa nôm na (Hoàng Trừu), lời quê chắp nhặt dông dài (K)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắp nhặt\n*verb\n-To glean, to scrape together"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắp nhặt\n* verb\n- To glean, to scrape together"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to gather, glean, scrape together"
+        "dict_definition": "@Chuyên ngành kinh tế\n-firm price"
       }
     ]
   },
@@ -944,157 +1090,11 @@
     ]
   },
   {
-    "word": "chắn bóng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng tay ngăn bóng đập của đối phương ở trên lưới, trong bóng chuyền\nVí dụ:\n- cầu thủ chắn bóng thành công"
-      }
-    ]
-  },
-  {
-    "word": "chắc có lẽ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "probably"
-      }
-    ]
-  },
-  {
-    "word": "chắn từ tĩnh",
+    "word": "chắn đường ngang",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetostatic shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-magnetostatic shielding"
-      }
-    ]
-  },
-  {
-    "word": "chắc bụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc bụng [chắc bụng]\n-to feel sure/secure\n-to have a feeling of fullness"
-      }
-    ]
-  },
-  {
-    "word": "chắc khó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "unlikely (to happen)"
-      }
-    ]
-  },
-  {
-    "word": "chắn song (cửa sổ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-impost\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-impost"
-      }
-    ]
-  },
-  {
-    "word": "chắc mẩm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tin chắc và yên trí là sẽ đúng như vậy\nVí dụ:\n- tôi chắc mẩm điều đó là đúng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@chắc mẩm\n- đgt. Tin chắc và yên chí đúng như dự kiến: chắc mẩm thắng, ai ngờ lại thua."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắc mẩm\n-xem mẩm"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@chắc mẩm\n- xem mẩm"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sure, certain"
-      }
-    ]
-  },
-  {
-    "word": "chắp nối ăng ten",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to connect an antenna"
-      }
-    ]
-  },
-  {
-    "word": "chắn điện môi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dielectric shielding\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dielectric shielding"
-      }
-    ]
-  },
-  {
-    "word": "chắn lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-retain\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-retain"
-      }
-    ]
-  },
-  {
-    "word": "chắn bụi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-dust shield\n@Lĩnh vực: xây dựng\n-dustproof\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-dust shield\n@Lĩnh vực: xây dựng\n-dustproof"
-      }
-    ]
-  },
-  {
-    "word": "chắc khó mà chết được",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "probably won’t die"
-      }
-    ]
-  },
-  {
-    "word": "chắn gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leeward\n-windproof\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leeward\n-windproof"
-      }
-    ]
-  },
-  {
-    "word": "chắn song",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem chấn song\nVí dụ:\n- chắn song cửa sổ"
-      }
-    ]
-  },
-  {
-    "word": "chắm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@chắm [chắm]\n-dip (in, into)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dip (in, into)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier\n-crossing gate\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-barrier\n-crossing gate"
       }
     ]
   }

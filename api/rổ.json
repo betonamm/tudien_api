@@ -1,5 +1,50 @@
 [
   {
+    "word": "rổ (bày hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dump bin"
+      }
+    ]
+  },
+  {
+    "word": "rổ khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-air pocket"
+      }
+    ]
+  },
+  {
+    "word": "rổ kết đông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freezer basket"
+      }
+    ]
+  },
+  {
+    "word": "rổ đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice basket"
+      }
+    ]
+  },
+  {
+    "word": "rổ để khoanh khoai tây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ice basket"
+      }
+    ]
+  },
+  {
     "word": "rổi",
     "definitions": [
       {
@@ -17,11 +62,20 @@
     ]
   },
   {
-    "word": "rổ đá",
+    "word": "rổ thực phẩm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice basket"
+        "dict_definition": "@Chuyên ngành kinh tế\n-shopping basket"
+      }
+    ]
+  },
+  {
+    "word": "rổ đi chợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shopping basket"
       }
     ]
   },
@@ -35,60 +89,11 @@
     ]
   },
   {
-    "word": "rổ để khoanh khoai tây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ice basket"
-      }
-    ]
-  },
-  {
     "word": "rổ than",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-coal basket"
-      }
-    ]
-  },
-  {
-    "word": "rổ thị trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-market basket"
-      }
-    ]
-  },
-  {
-    "word": "rổ rá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rổ rá [rổ rá]\n-Baskets (nói khái quát)."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "baskets"
-      }
-    ]
-  },
-  {
-    "word": "rổ băng đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice basket"
-      }
-    ]
-  },
-  {
-    "word": "rổ tiền tệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-basket of currencies\n-currency basket"
       }
     ]
   },
@@ -122,47 +127,42 @@
     ]
   },
   {
-    "word": "rổ kết đông",
+    "word": "rổ băng đá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-freezer basket"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice basket"
       }
     ]
   },
   {
-    "word": "rổ đi chợ",
+    "word": "rổ thị trường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shopping basket"
+        "dict_definition": "@Chuyên ngành kinh tế\n-market basket"
       }
     ]
   },
   {
-    "word": "rổ (bày hàng)",
+    "word": "rổ rá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dump bin"
+        "dict_definition": "@rổ rá [rổ rá]\n-Baskets (nói khái quát)."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "baskets"
       }
     ]
   },
   {
-    "word": "rổ khí",
+    "word": "rổ tiền tệ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-air pocket"
-      }
-    ]
-  },
-  {
-    "word": "rổ thực phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shopping basket"
+        "dict_definition": "@Chuyên ngành kinh tế\n-basket of currencies\n-currency basket"
       }
     ]
   }

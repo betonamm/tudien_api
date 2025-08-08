@@ -1,19 +1,37 @@
 [
   {
-    "word": "úng tắc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "clogged, stopped up"
-      }
-    ]
-  },
-  {
     "word": "úng thuỷ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "[hiện tượng] ứ đọng nhiều nước ở nơi đất trũng\nVí dụ:\n- cánh đồng bị úng thuỷ \n - cây cối chết vì úng thuỷ"
+      }
+    ]
+  },
+  {
+    "word": "úng nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water-logging, waterlogged"
+      }
+    ]
+  },
+  {
+    "word": "úng thủy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "spoiled, rotten (due to water)"
+      }
+    ]
+  },
+  {
+    "word": "úng tắc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "clogged, stopped up"
       }
     ]
   },
@@ -43,33 +61,6 @@
     ]
   },
   {
-    "word": "úng nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-water-logging, waterlogged"
-      }
-    ]
-  },
-  {
-    "word": "úng ngập",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "úng thuỷ cả một khu vực, không tiêu thoát được\nVí dụ:\n- ruộng trũng nên thường xuyên úng ngập"
-      }
-    ]
-  },
-  {
-    "word": "úng thủy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "spoiled, rotten (due to water)"
-      }
-    ]
-  },
-  {
     "word": "úng lụt",
     "definitions": [
       {
@@ -79,6 +70,15 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "flood, inundation"
+      }
+    ]
+  },
+  {
+    "word": "úng ngập",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "úng thuỷ cả một khu vực, không tiêu thoát được\nVí dụ:\n- ruộng trũng nên thường xuyên úng ngập"
       }
     ]
   }

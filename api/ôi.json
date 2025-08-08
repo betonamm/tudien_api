@@ -1,22 +1,18 @@
 [
   {
-    "word": "ôi thôi",
+    "word": "ôi khét",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiếng thốt ra biểu lộ sự than tiếc, thất vọng trước điều không hay vừa xảy ra\nVí dụ:\n- \"Ôi thôi con vượn lìa cây, Đoái xem phong cảnh, hội này đã xa.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ôi thôi\n- Từ tỏ ý buồn bã và thất vọng: Ôi thôi! Bao nhiêu công của thế là mất đứt!"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@ôi thôi\n-Alas\n=Ôi thôi! Bao nhiêu công của thế là mất đứt!\n+Alas! That was a clean loss of so much property and labour!"
+        "dict_definition": "@ôi khét\n-Rancid"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôi thôi\n- Alas\n=Ôi thôi! Bao nhiêu công của thế là mất đứt!+Alas! That was a clean loss of so much property and labour!"
+        "dict_definition": "@ôi khét\n- Rancid"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "rancid"
       }
     ]
   },
@@ -88,19 +84,23 @@
     ]
   },
   {
-    "word": "ôi khét",
+    "word": "ôi thôi",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tiếng thốt ra biểu lộ sự than tiếc, thất vọng trước điều không hay vừa xảy ra\nVí dụ:\n- \"Ôi thôi con vượn lìa cây, Đoái xem phong cảnh, hội này đã xa.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ôi thôi\n- Từ tỏ ý buồn bã và thất vọng: Ôi thôi! Bao nhiêu công của thế là mất đứt!"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@ôi khét\n-Rancid"
+        "dict_definition": "@ôi thôi\n-Alas\n=Ôi thôi! Bao nhiêu công của thế là mất đứt!\n+Alas! That was a clean loss of so much property and labour!"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ôi khét\n- Rancid"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "rancid"
+        "dict_definition": "@ôi thôi\n- Alas\n=Ôi thôi! Bao nhiêu công của thế là mất đứt!+Alas! That was a clean loss of so much property and labour!"
       }
     ]
   }

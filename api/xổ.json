@@ -1,5 +1,71 @@
 [
   {
+    "word": "xổ số hiện vật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-raffle"
+      }
+    ]
+  },
+  {
+    "word": "xổ tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-static dump"
+      }
+    ]
+  },
+  {
+    "word": "xổ và khởi lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dump and restart"
+      }
+    ]
+  },
+  {
+    "word": "xổi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chỉ tạm trong thời gian ngắn\nVí dụ:\n- vay xổi ít tiền \n - cà muối xổi \n - ăn xổi ở thì (tng)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xổi\n*trạng từ\n-early, prematerely\n-hastily, short term, short-dated"
+      }
+    ]
+  },
+  {
+    "word": "xổng xểnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xổng xểnh\n*tính từ\n-negligent, careless"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "negligent, careless"
+      }
+    ]
+  },
+  {
+    "word": "xổm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xổm\n*động từ\n-squat down upon the hams or heels, squat, crouch"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "squat down upon the hams or heels, squat, crouch"
+      }
+    ]
+  },
+  {
     "word": "xổ số",
     "definitions": [
       {
@@ -25,20 +91,20 @@
     ]
   },
   {
-    "word": "xổ số hiện vật",
+    "word": "xổ ra",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-raffle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-despool"
       }
     ]
   },
   {
-    "word": "xổ và khởi lại",
+    "word": "xổ, tẩy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dump and restart"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-catharsis"
       }
     ]
   },
@@ -80,77 +146,11 @@
     ]
   },
   {
-    "word": "xổng xểnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xổng xểnh\n*tính từ\n-negligent, careless"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "negligent, careless"
-      }
-    ]
-  },
-  {
-    "word": "xổ ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-despool"
-      }
-    ]
-  },
-  {
-    "word": "xổi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chỉ tạm trong thời gian ngắn\nVí dụ:\n- vay xổi ít tiền \n - cà muối xổi \n - ăn xổi ở thì (tng)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xổi\n*trạng từ\n-early, prematerely\n-hastily, short term, short-dated"
-      }
-    ]
-  },
-  {
-    "word": "xổ, tẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-catharsis"
-      }
-    ]
-  },
-  {
     "word": "xổ lưu nhanh",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-snapshot dump"
-      }
-    ]
-  },
-  {
-    "word": "xổm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xổm\n*động từ\n-squat down upon the hams or heels, squat, crouch"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "squat down upon the hams or heels, squat, crouch"
-      }
-    ]
-  },
-  {
-    "word": "xổ tĩnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-static dump"
       }
     ]
   }

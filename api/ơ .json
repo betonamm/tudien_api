@@ -1,10 +1,22 @@
 [
   {
-    "word": "ơ rô",
+    "word": "ơ kìa",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "euro"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như ô kìa\nVí dụ:\n- ơ kìa, đi đâu đấy!"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ơ kìa\n- Nh. Ô kìa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ơ kìa\n-như ô kìa"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ơ kìa\n- như ô kìa"
       }
     ]
   },
@@ -30,6 +42,15 @@
     ]
   },
   {
+    "word": "ơ rô",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "euro"
+      }
+    ]
+  },
+  {
     "word": "ơ hờ",
     "definitions": [
       {
@@ -47,27 +68,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to be indifferent"
-      }
-    ]
-  },
-  {
-    "word": "ơ kìa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như ô kìa\nVí dụ:\n- ơ kìa, đi đâu đấy!"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ơ kìa\n- Nh. Ô kìa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ơ kìa\n-như ô kìa"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ơ kìa\n- như ô kìa"
       }
     ]
   }

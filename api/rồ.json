@@ -1,23 +1,69 @@
 [
   {
-    "word": "rồng đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồng đất [rồng đất]\n-physignathus\n@Chuyên ngành kỹ thuật\n-fascine"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "physignathus"
-      }
-    ]
-  },
-  {
     "word": "rồng nặng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-heavy fascine"
+      }
+    ]
+  },
+  {
+    "word": "rồi ra",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rồi sau này [thường dùng trong lời dự đoán]\nVí dụ:\n- \"Làm trai có chí lập thân, Rồi ra gặp hội phong vân có ngày.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rồi ra\n- Sau này, trong tương lai: Rồi ra ai ai cũng sung sướng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồi ra\n-In the future"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rồi ra\n- In the future"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in the future"
+      }
+    ]
+  },
+  {
+    "word": "rồng cây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bavin\n-fascine"
+      }
+    ]
+  },
+  {
+    "word": "rồi đây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trong thời gian sắp tới đây\nVí dụ:\n- \"Rồi đây bèo hợp mây tan, Biết đâu hạc nội, mây ngàn là đâu?\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rồi đây\n- Sau này."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồi đây\n-Later, in the future, eventually"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rồi đây\n- Later, in the future, eventually"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "later, in the future, eventually"
       }
     ]
   },
@@ -71,11 +117,28 @@
     ]
   },
   {
-    "word": "rồng (con)",
+    "word": "rồng mây",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dragon"
+        "dict_definition": "@rồng mây [rồng mây]\n-dragon in the clouds, happy, blissful, blessed, lucky, fortunate"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dragon in the clouds, happy, blissful, blessed, lucky"
+      }
+    ]
+  },
+  {
+    "word": "rồi nữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồi nữa [rồi nữa]\n-and then; later"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "and then, later"
       }
     ]
   },
@@ -122,24 +185,58 @@
     ]
   },
   {
-    "word": "rồng mây",
+    "word": "rồng phụng kinh châu",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồng mây [rồng mây]\n-dragon in the clouds, happy, blissful, blessed, lucky, fortunate"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dragon in the clouds, happy, blissful, blessed, lucky"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Rồng Phụng Kinh Châu\n- Chỉ hạng người giỏi trong thiên hạ\n- Chỉ Khổng Minh Gia Cát Lượng, hiệu Ngọa Long và Bàng Thống tự Sỹ Nguyên hiệu Phụng Sổ giúp Lưu Bị ở đất Kinh Châu, chỉ hạng người giỏi trong thiên hạ"
       }
     ]
   },
   {
-    "word": "rồng đá",
+    "word": "rồng rắn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp gợi tả cảnh đám đông nối đuôi nhau thành hàng dài, uốn khúc\nVí dụ:\n- xếp hàng rồng rắn \n - trẻ con rồng rắn kéo nhau đi chơi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rồng rắn\n- Trò chơi của trẻ em, em nọ bíu vai em kia thành một chuỗi dài đi rong."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồng rắn\n-Fellow-my-leader"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rồng rắn\n- Fellow-my-leader"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fellow-my-leader"
+      }
+    ]
+  },
+  {
+    "word": "rồng đất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fascine"
+        "dict_definition": "@rồng đất [rồng đất]\n-physignathus\n@Chuyên ngành kỹ thuật\n-fascine"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "physignathus"
+      }
+    ]
+  },
+  {
+    "word": "rồng (con)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dragon"
       }
     ]
   },
@@ -153,20 +250,105 @@
     ]
   },
   {
-    "word": "rồng phụng kinh châu",
+    "word": "rồng đá",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Rồng Phụng Kinh Châu\n- Chỉ hạng người giỏi trong thiên hạ\n- Chỉ Khổng Minh Gia Cát Lượng, hiệu Ngọa Long và Bàng Thống tự Sỹ Nguyên hiệu Phụng Sổ giúp Lưu Bị ở đất Kinh Châu, chỉ hạng người giỏi trong thiên hạ"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fascine"
       }
     ]
   },
   {
-    "word": "rồi sao nữa",
+    "word": "rồ dại",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tỏ ra mất trí khôn\nVí dụ:\n- làm những việc rồ dại"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rồ dại\n- Nh. Rồ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồ dại\n-Foolish, silly"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rồ dại\n- Foolish, silly"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "and then what?"
+        "dict_definition": "foolish, silly"
+      }
+    ]
+  },
+  {
+    "word": "rồi sao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồi sao\n-Well, what then?"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rồi sao\n- Well, what then?"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "well, what then?"
+      }
+    ]
+  },
+  {
+    "word": "rồng tre",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brushwood"
+      }
+    ]
+  },
+  {
+    "word": "rồi tay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rồi tay\n- Nghỉ làm trong chốc lát: Dọn dẹp suốt buổi sáng chưa rồi tay lúc nào."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồi tay\n-Knock off, have a break\n=Dọn dẹp suốt buổi sáng, chưa rồi tay lúc nào\n+To be tidying up the house the whole morning without a break"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rồi tay\n- Knock off, have a break\n=Dọn dẹp suốt buổi sáng, chưa rồi tay lúc nào+To be tidying up the house the whole morning without a break"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "knock off, have a break"
+      }
+    ]
+  },
+  {
+    "word": "rồi thì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rồi thì [rồi thì]\n-afterwards, and then"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "afterwards, and then"
+      }
+    ]
+  },
+  {
+    "word": "rồng nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fascine wood"
       }
     ]
   },
@@ -192,44 +374,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "snake-head mullet fry"
-      }
-    ]
-  },
-  {
-    "word": "rồi thì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồi thì [rồi thì]\n-afterwards, and then"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "afterwards, and then"
-      }
-    ]
-  },
-  {
-    "word": "rồi ra",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rồi sau này [thường dùng trong lời dự đoán]\nVí dụ:\n- \"Làm trai có chí lập thân, Rồi ra gặp hội phong vân có ngày.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rồi ra\n- Sau này, trong tương lai: Rồi ra ai ai cũng sung sướng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồi ra\n-In the future"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rồi ra\n- In the future"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in the future"
       }
     ]
   },
@@ -263,155 +407,11 @@
     ]
   },
   {
-    "word": "rồi tay",
+    "word": "rồi sao nữa",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rồi tay\n- Nghỉ làm trong chốc lát: Dọn dẹp suốt buổi sáng chưa rồi tay lúc nào."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồi tay\n-Knock off, have a break\n=Dọn dẹp suốt buổi sáng, chưa rồi tay lúc nào\n+To be tidying up the house the whole morning without a break"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rồi tay\n- Knock off, have a break\n=Dọn dẹp suốt buổi sáng, chưa rồi tay lúc nào+To be tidying up the house the whole morning without a break"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "knock off, have a break"
-      }
-    ]
-  },
-  {
-    "word": "rồng tre",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brushwood"
-      }
-    ]
-  },
-  {
-    "word": "rồng nhỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fascine wood"
-      }
-    ]
-  },
-  {
-    "word": "rồi nữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồi nữa [rồi nữa]\n-and then; later"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "and then, later"
-      }
-    ]
-  },
-  {
-    "word": "rồ dại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tỏ ra mất trí khôn\nVí dụ:\n- làm những việc rồ dại"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rồ dại\n- Nh. Rồ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồ dại\n-Foolish, silly"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rồ dại\n- Foolish, silly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "foolish, silly"
-      }
-    ]
-  },
-  {
-    "word": "rồi đây",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trong thời gian sắp tới đây\nVí dụ:\n- \"Rồi đây bèo hợp mây tan, Biết đâu hạc nội, mây ngàn là đâu?\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rồi đây\n- Sau này."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồi đây\n-Later, in the future, eventually"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rồi đây\n- Later, in the future, eventually"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "later, in the future, eventually"
-      }
-    ]
-  },
-  {
-    "word": "rồng rắn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp gợi tả cảnh đám đông nối đuôi nhau thành hàng dài, uốn khúc\nVí dụ:\n- xếp hàng rồng rắn \n - trẻ con rồng rắn kéo nhau đi chơi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rồng rắn\n- Trò chơi của trẻ em, em nọ bíu vai em kia thành một chuỗi dài đi rong."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồng rắn\n-Fellow-my-leader"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rồng rắn\n- Fellow-my-leader"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fellow-my-leader"
-      }
-    ]
-  },
-  {
-    "word": "rồi sao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rồi sao\n-Well, what then?"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rồi sao\n- Well, what then?"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "well, what then?"
-      }
-    ]
-  },
-  {
-    "word": "rồng cây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bavin\n-fascine"
+        "dict_definition": "and then what?"
       }
     ]
   }

@@ -1,5 +1,72 @@
 [
   {
+    "word": "xả đá cưỡng bức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-forced defrosting"
+      }
+    ]
+  },
+  {
+    "word": "xả khí thải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-discharge of airborne waste"
+      }
+    ]
+  },
+  {
+    "word": "xả hơi ruột xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bleeding tires"
+      }
+    ]
+  },
+  {
+    "word": "xả băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-defrost\n-defrostation\n-defrosting\n-de-ice\n-frost removal\n-snow removal"
+      }
+    ]
+  },
+  {
+    "word": "xả gió cho hệ thống thắng dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bleeding the hydraulic braking system"
+      }
+    ]
+  },
+  {
+    "word": "xảm (thuyền)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-caulk"
+      }
+    ]
+  },
+  {
+    "word": "xảo thủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xảo thủ\n*danh từ\n-skilled worker, skillful craftsman"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "skilled worker, skillful craftsman"
+      }
+    ]
+  },
+  {
     "word": "xả thân",
     "definitions": [
       {
@@ -25,47 +92,47 @@
     ]
   },
   {
-    "word": "xả hàng bằng trọng lực",
+    "word": "xả đường non từ nồi nấu đường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-gravity discharging\n-gravity unloading"
+        "dict_definition": "@Chuyên ngành kinh tế\n-strickle"
       }
     ]
   },
   {
-    "word": "xả băng bằng đường tắt ga nóng",
+    "word": "xả đá bằng tay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas bypass defrosting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-manual defrosting"
       }
     ]
   },
   {
-    "word": "xả đông",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho thực phẩm không còn ở trạng thái bị đông cứng [do được bảo quản ở nhiệt độ thấp]\nVí dụ:\n- họ đã xả đông thực phẩm trước khi chế biến"
-      }
-    ]
-  },
-  {
-    "word": "xảo diệu",
+    "word": "xả phần ngưng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xảo diệu\n*trạng từ\n-having genius, inspired, wonderful, marvellous\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-artful"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate drain\n-condensate removal"
       }
     ]
   },
   {
-    "word": "xảy ra rất thường",
+    "word": "xảy ra sau khi chết",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to happen a lot, take place often"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-posthumious"
+      }
+    ]
+  },
+  {
+    "word": "xả khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-aeration\n-air exhaust\n-breathing\n-exhaustion\n-pump out\n-purge\n-ventilate"
       }
     ]
   },
@@ -83,6 +150,170 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "repair, caulk a boat"
+      }
+    ]
+  },
+  {
+    "word": "xả lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cool down"
+      }
+    ]
+  },
+  {
+    "word": "xả thịt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-to strip the flesh"
+      }
+    ]
+  },
+  {
+    "word": "xả đá bằng nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-water defrosting"
+      }
+    ]
+  },
+  {
+    "word": "xả nước thải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-discharge of wastewater"
+      }
+    ]
+  },
+  {
+    "word": "xảo quyệt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dối trá, lừa lọc một cách quỷ quyệt, khó lường\nVí dụ:\n- mưu mô xảo quyệt \n - thủ đoạn xảo quyệt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xảo quyệt\n- tt (H. quyệt: dối trá) Khéo léo để lừa đảo: Âm mưu xảo quyệt của bọn đế quốc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xảo quyệt\n*adj\n-cunning, artful"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xảo quyệt\n* adj\n- cunning, artful"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "craft, cunning; cunning, artful"
+      }
+    ]
+  },
+  {
+    "word": "xả khí tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-automatic purge\n-automatic purging"
+      }
+    ]
+  },
+  {
+    "word": "xả tự do",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-free discharge"
+      }
+    ]
+  },
+  {
+    "word": "xả băng bằng đường tắt ga nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas bypass defrosting"
+      }
+    ]
+  },
+  {
+    "word": "xảy ra đồng thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-concurrent"
+      }
+    ]
+  },
+  {
+    "word": "xả gió",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-bleed\n-vent"
+      }
+    ]
+  },
+  {
+    "word": "xảm (trong đóng tàu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-caulk"
+      }
+    ]
+  },
+  {
+    "word": "xả đá bằng điện trở nung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric heat defrosting"
+      }
+    ]
+  },
+  {
+    "word": "xả ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-bleed\n@Chuyên ngành kỹ thuật\n-blow off\n-bypass"
+      }
+    ]
+  },
+  {
+    "word": "xả láng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tự buông thả trong sinh hoạt không chút tự kiềm chế, để cho được hoàn toàn tự do, thoải mái\nVí dụ:\n- vui chơi xả láng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xả láng\n*động từ\n-to one\"s fill\n-to one\"s heart\"s content\n-let one\"s hair down*danh từ\n-a period of indulgence, jag"
+      }
+    ]
+  },
+  {
+    "word": "xả hết điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-over-discharge"
+      }
+    ]
+  },
+  {
+    "word": "xả khói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-smoky exhaust"
       }
     ]
   },
@@ -112,114 +343,20 @@
     ]
   },
   {
-    "word": "xả môi chất lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerant discharge"
-      }
-    ]
-  },
-  {
-    "word": "xả (nước) đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice removal"
-      }
-    ]
-  },
-  {
-    "word": "xảo trá",
+    "word": "xảo thuật",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dối trá, lừa lọc một cách khôn khéo, tinh vi\nVí dụ:\n- thủ đoạn xảo trá \n - tâm địa xảo trá"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xảo trá - như"
+        "dict_definition": "cách thức khéo léo, tinh xảo\nVí dụ:\n- bộ phim sử dụng nhiều xảo thuật"
       }
     ]
   },
   {
-    "word": "xả đá",
+    "word": "xảy ra trễ, muộn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defrost\n-snow gun"
-      }
-    ]
-  },
-  {
-    "word": "xả (nước) đá nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rapid defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xả nước ngưng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-heat abstraction"
-      }
-    ]
-  },
-  {
-    "word": "xả ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bleed\n@Chuyên ngành kỹ thuật\n-blow off\n-bypass"
-      }
-    ]
-  },
-  {
-    "word": "xả đá bằng tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-manual defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xả hơi ruột xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bleeding tires"
-      }
-    ]
-  },
-  {
-    "word": "xả (động cơ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-exhaust"
-      }
-    ]
-  },
-  {
-    "word": "xảm (thuyền)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-caulk"
-      }
-    ]
-  },
-  {
-    "word": "xả khí (không ngưng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scavenge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-retarded"
       }
     ]
   },
@@ -233,83 +370,11 @@
     ]
   },
   {
-    "word": "xả tuyết không triệt để",
+    "word": "xả dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-incomplete defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xả lỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid bleed"
-      }
-    ]
-  },
-  {
-    "word": "xả khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-aeration\n-air exhaust\n-breathing\n-exhaustion\n-pump out\n-purge\n-ventilate"
-      }
-    ]
-  },
-  {
-    "word": "xả khí (động cơ nổ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scavenge"
-      }
-    ]
-  },
-  {
-    "word": "xả khí trong thùng chứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-breathing of tank"
-      }
-    ]
-  },
-  {
-    "word": "xả đá (bằng) điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electronic defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xả băng khuôn (nước) đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice can defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xảy ra bất ngờ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to appear unexpectedly"
-      }
-    ]
-  },
-  {
-    "word": "xả gió",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-bleed\n-vent"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil draining\n-oil purging"
       }
     ]
   },
@@ -323,43 +388,16 @@
     ]
   },
   {
-    "word": "xả đá bằng điện trở",
+    "word": "xả môi chất lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electronic defrosting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigerant discharge"
       }
     ]
   },
   {
-    "word": "xả khói",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-smoky exhaust"
-      }
-    ]
-  },
-  {
-    "word": "xả lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cool down"
-      }
-    ]
-  },
-  {
-    "word": "xải",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem sải [sải dầu]"
-      }
-    ]
-  },
-  {
-    "word": "xả nhiệt",
+    "word": "xả nước ngưng",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -368,29 +406,38 @@
     ]
   },
   {
-    "word": "xả khí tự động",
+    "word": "xả đá (bằng) điện tử",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-automatic purge\n-automatic purging"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electronic defrosting"
       }
     ]
   },
   {
-    "word": "xả (ra từ thùng)",
+    "word": "xả tuyết không triệt để",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-tang"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-incomplete defrosting"
       }
     ]
   },
   {
-    "word": "xả đá bằng nước",
+    "word": "xả đông",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho thực phẩm không còn ở trạng thái bị đông cứng [do được bảo quản ở nhiệt độ thấp]\nVí dụ:\n- họ đã xả đông thực phẩm trước khi chế biến"
+      }
+    ]
+  },
+  {
+    "word": "xả đá bằng điện trở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-water defrosting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electronic defrosting"
       }
     ]
   },
@@ -408,29 +455,11 @@
     ]
   },
   {
-    "word": "xả đá cưỡng bức",
+    "word": "xả băng bằng bypas gas nóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-forced defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xả đá khi dừng máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pressure defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xảm (trong đóng tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-caulk"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas bypass defrosting"
       }
     ]
   },
@@ -444,6 +473,86 @@
     ]
   },
   {
+    "word": "xả khí (không ngưng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scavenge"
+      }
+    ]
+  },
+  {
+    "word": "xả tuyết bằng đường tắt hơi nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas bypass defrosting"
+      }
+    ]
+  },
+  {
+    "word": "xảo điệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-artful"
+      }
+    ]
+  },
+  {
+    "word": "xả hơi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nghỉ không làm việc để đỡ căng thẳng và lấy lại sức\nVí dụ:\n- nghỉ xả hơi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xả hơi\n*danh từ\n-relax, relaxation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bleed\n@Lĩnh vực: ô tô\n-blow-off"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "relax, relaxation"
+      }
+    ]
+  },
+  {
+    "word": "xảo diệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xảo diệu\n*trạng từ\n-having genius, inspired, wonderful, marvellous\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-artful"
+      }
+    ]
+  },
+  {
+    "word": "xả (ra từ thùng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-tang"
+      }
+    ]
+  },
+  {
+    "word": "xải",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem sải [sải dầu]"
+      }
+    ]
+  },
+  {
+    "word": "xả súng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "shooting"
+      }
+    ]
+  },
+  {
     "word": "xảy ra tại vùng nhiệt đới",
     "definitions": [
       {
@@ -453,29 +562,172 @@
     ]
   },
   {
-    "word": "xảy ra đồng thời",
+    "word": "xả điện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-concurrent"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-discharge"
       }
     ]
   },
   {
-    "word": "xả tự do",
+    "word": "xả đá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-free discharge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-defrost\n-snow gun"
       }
     ]
   },
   {
-    "word": "xả nước thải",
+    "word": "xảy ra trước khi bắt đầu đẻ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-discharge of wastewater"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-retarded"
+      }
+    ]
+  },
+  {
+    "word": "xả khí (động cơ nổ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scavenge"
+      }
+    ]
+  },
+  {
+    "word": "xảy ra bất ngờ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to appear unexpectedly"
+      }
+    ]
+  },
+  {
+    "word": "xả tuyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frost removal\n-snow removal"
+      }
+    ]
+  },
+  {
+    "word": "xả hàng bằng trọng lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-gravity discharging\n-gravity unloading"
+      }
+    ]
+  },
+  {
+    "word": "xả bể chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-de-tank"
+      }
+    ]
+  },
+  {
+    "word": "xả (nước) đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice removal"
+      }
+    ]
+  },
+  {
+    "word": "xả (động cơ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-exhaust"
+      }
+    ]
+  },
+  {
+    "word": "xả đá nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-quick defrosting"
+      }
+    ]
+  },
+  {
+    "word": "xảo trá",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dối trá, lừa lọc một cách khôn khéo, tinh vi\nVí dụ:\n- thủ đoạn xảo trá \n - tâm địa xảo trá"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xảo trá - như"
+      }
+    ]
+  },
+  {
+    "word": "xảy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[sự việc thường là không hay] phát sinh ra một cách tự nhiên\nVí dụ:\n- xảy ra hoả hoạn \n - xảy ra án mạng \n - sự việc xảy đến bất ngờ"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to happen"
+      }
+    ]
+  },
+  {
+    "word": "xả nước muối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-heat abstraction"
+      }
+    ]
+  },
+  {
+    "word": "xảy ra rất thường",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to happen a lot, take place often"
+      }
+    ]
+  },
+  {
+    "word": "xả đá khi dừng máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-pressure defrosting"
+      }
+    ]
+  },
+  {
+    "word": "xả khí trong thùng chứa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-breathing of tank"
+      }
+    ]
+  },
+  {
+    "word": "xảm (thuyền tàu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-calk"
       }
     ]
   },
@@ -489,42 +741,42 @@
     ]
   },
   {
-    "word": "xảy ra trễ, muộn",
+    "word": "xả (dầu, xăng, nước)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-retarded"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drain off"
       }
     ]
   },
   {
-    "word": "xả đường non từ nồi nấu đường",
+    "word": "xảo hoạt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-strickle"
-      }
-    ]
-  },
-  {
-    "word": "xả láng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tự buông thả trong sinh hoạt không chút tự kiềm chế, để cho được hoàn toàn tự do, thoải mái\nVí dụ:\n- vui chơi xả láng"
+        "dict_definition": "@xảo hoạt\n*tính từ\n-false, untrue, cheating, deceitful, two-faced, misleading"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@xả láng\n*động từ\n-to one\"s fill\n-to one\"s heart\"s content\n-let one\"s hair down*danh từ\n-a period of indulgence, jag"
+        "dict_name": "VNEDICT",
+        "dict_definition": "false, untrue, cheating, deceitful, two-faced, misleading"
       }
     ]
   },
   {
-    "word": "xả hết",
+    "word": "xả lỏng ngưng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-empty"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate drain\n-condensate removal"
+      }
+    ]
+  },
+  {
+    "word": "xả (nước) đá nhanh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-rapid defrosting"
       }
     ]
   },
@@ -542,132 +794,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to happen, occur"
-      }
-    ]
-  },
-  {
-    "word": "xảm (thuyền tàu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-calk"
-      }
-    ]
-  },
-  {
-    "word": "xả băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-defrost\n-defrostation\n-defrosting\n-de-ice\n-frost removal\n-snow removal"
-      }
-    ]
-  },
-  {
-    "word": "xả đá nhanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-quick defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xảo thuật",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cách thức khéo léo, tinh xảo\nVí dụ:\n- bộ phim sử dụng nhiều xảo thuật"
-      }
-    ]
-  },
-  {
-    "word": "xả tuyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-frost removal\n-snow removal"
-      }
-    ]
-  },
-  {
-    "word": "xả gió cho hệ thống thắng dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bleeding the hydraulic braking system"
-      }
-    ]
-  },
-  {
-    "word": "xả thịt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-to strip the flesh"
-      }
-    ]
-  },
-  {
-    "word": "xả lỏng ngưng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate drain\n-condensate removal"
-      }
-    ]
-  },
-  {
-    "word": "xả (dầu, xăng, nước)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drain off"
-      }
-    ]
-  },
-  {
-    "word": "xả nước muối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-heat abstraction"
-      }
-    ]
-  },
-  {
-    "word": "xả súng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shooting"
-      }
-    ]
-  },
-  {
-    "word": "xả hết điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-over-discharge"
-      }
-    ]
-  },
-  {
-    "word": "xả bể chứa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-de-tank"
-      }
-    ]
-  },
-  {
-    "word": "xả khí thải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-discharge of airborne waste"
       }
     ]
   },
@@ -709,38 +835,20 @@
     ]
   },
   {
-    "word": "xả điện",
+    "word": "xả hết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-discharge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-empty"
       }
     ]
   },
   {
-    "word": "xả tuyết bằng đường tắt hơi nóng",
+    "word": "xả nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas bypass defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xảo điệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-artful"
-      }
-    ]
-  },
-  {
-    "word": "xảy ra trước khi bắt đầu đẻ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-retarded"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-heat abstraction"
       }
     ]
   },
@@ -754,28 +862,20 @@
     ]
   },
   {
-    "word": "xả hơi",
+    "word": "xả nhiệt",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nghỉ không làm việc để đỡ căng thẳng và lấy lại sức\nVí dụ:\n- nghỉ xả hơi"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@xả hơi\n*danh từ\n-relax, relaxation\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bleed\n@Lĩnh vực: ô tô\n-blow-off"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "relax, relaxation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-heat abstraction"
       }
     ]
   },
   {
-    "word": "xả dầu",
+    "word": "xả lỏng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-oil draining\n-oil purging"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-liquid bleed"
       }
     ]
   },
@@ -793,111 +893,11 @@
     ]
   },
   {
-    "word": "xả phần ngưng",
+    "word": "xả băng khuôn (nước) đá",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-condensate drain\n-condensate removal"
-      }
-    ]
-  },
-  {
-    "word": "xả nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-heat abstraction"
-      }
-    ]
-  },
-  {
-    "word": "xảo thủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xảo thủ\n*danh từ\n-skilled worker, skillful craftsman"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "skilled worker, skillful craftsman"
-      }
-    ]
-  },
-  {
-    "word": "xả băng bằng bypas gas nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-hot gas bypass defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xả đá bằng điện trở nung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric heat defrosting"
-      }
-    ]
-  },
-  {
-    "word": "xảy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[sự việc thường là không hay] phát sinh ra một cách tự nhiên\nVí dụ:\n- xảy ra hoả hoạn \n - xảy ra án mạng \n - sự việc xảy đến bất ngờ"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to happen"
-      }
-    ]
-  },
-  {
-    "word": "xảo quyệt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dối trá, lừa lọc một cách quỷ quyệt, khó lường\nVí dụ:\n- mưu mô xảo quyệt \n - thủ đoạn xảo quyệt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xảo quyệt\n- tt (H. quyệt: dối trá) Khéo léo để lừa đảo: Âm mưu xảo quyệt của bọn đế quốc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xảo quyệt\n*adj\n-cunning, artful"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xảo quyệt\n* adj\n- cunning, artful"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "craft, cunning; cunning, artful"
-      }
-    ]
-  },
-  {
-    "word": "xảy ra sau khi chết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-posthumious"
-      }
-    ]
-  },
-  {
-    "word": "xảo hoạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xảo hoạt\n*tính từ\n-false, untrue, cheating, deceitful, two-faced, misleading"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "false, untrue, cheating, deceitful, two-faced, misleading"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-ice can defrosting"
       }
     ]
   }

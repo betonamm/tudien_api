@@ -17,32 +17,53 @@
     ]
   },
   {
-    "word": "ỉa bậy",
+    "word": "ỉa trong quần",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@ỉa bậy [ỉa bậy]\n-to make a mess"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to defecate in an inappropriate place"
+        "dict_definition": "to shit in one’s pants, crap in one’s pants"
       }
     ]
   },
   {
-    "word": "ỉa đái",
+    "word": "ỉa són",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@ỉa đái\n-Make a mess"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ỉa són\n- ỉa một ít."
       },
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ỉa đái\n- Make a mess"
+        "dict_name": "SPDict",
+        "dict_definition": "@ỉa són [ỉa són]\n-to be incontinent"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to urinate and defecate"
+        "dict_definition": "to be incontinent, wet or mess one’s pants (small amount)"
+      }
+    ]
+  },
+  {
+    "word": "ỉa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thải phân ra ngoài cơ thể qua hậu môn\nVí dụ:\n- ông ấy đang ỉa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ỉa\n- đgt Bài tiết phân qua hậu môn (tục): Phạt những kẻ ỉa bậy."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ỉa\n*verb\n-to go stool; to defecate\n=ỉa chảy\n+have diarrorhea"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ỉa\n* verb\n- to go stool; to defecate\n=ỉa chảy+have diarrorhea"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to shit"
       }
     ]
   },
@@ -89,62 +110,15 @@
     ]
   },
   {
-    "word": "ỉa són",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ỉa són\n- ỉa một ít."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ỉa són [ỉa són]\n-to be incontinent"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be incontinent, wet or mess one’s pants (small amount)"
-      }
-    ]
-  },
-  {
-    "word": "ỉa trong quần",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to shit in one’s pants, crap in one’s pants"
-      }
-    ]
-  },
-  {
-    "word": "ỉa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thải phân ra ngoài cơ thể qua hậu môn\nVí dụ:\n- ông ấy đang ỉa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ỉa\n- đgt Bài tiết phân qua hậu môn (tục): Phạt những kẻ ỉa bậy."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ỉa\n*verb\n-to go stool; to defecate\n=ỉa chảy\n+have diarrorhea"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ỉa\n* verb\n- to go stool; to defecate\n=ỉa chảy+have diarrorhea"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to shit"
-      }
-    ]
-  },
-  {
-    "word": "ỉa tháo",
+    "word": "ỉa bậy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ỉa tháo [ỉa tháo]\n-xem"
+        "dict_definition": "@ỉa bậy [ỉa bậy]\n-to make a mess"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to defecate in an inappropriate place"
       }
     ]
   },
@@ -162,6 +136,32 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "not care a damn about"
+      }
+    ]
+  },
+  {
+    "word": "ỉa đái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ỉa đái\n-Make a mess"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ỉa đái\n- Make a mess"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to urinate and defecate"
+      }
+    ]
+  },
+  {
+    "word": "ỉa tháo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ỉa tháo [ỉa tháo]\n-xem"
       }
     ]
   }

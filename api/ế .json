@@ -1,5 +1,32 @@
 [
   {
+    "word": "ế thiu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have difficulty finding or have no customers"
+      }
+    ]
+  },
+  {
+    "word": "ế chảy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have few customers"
+      }
+    ]
+  },
+  {
+    "word": "ế chòng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have difficulty finding a husband"
+      }
+    ]
+  },
+  {
     "word": "ế hàng",
     "definitions": [
       {
@@ -13,11 +40,37 @@
     ]
   },
   {
-    "word": "ế chảy",
+    "word": "ế vợ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to have few customers"
+        "dict_definition": "to have difficulty finding a wife"
+      }
+    ]
+  },
+  {
+    "word": "ế mình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ế mình\n- (đph) 1. ốm, se mình."
+      }
+    ]
+  },
+  {
+    "word": "ế chồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ế chồng\n-(dành cho đàn bà) to be on the shelf"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ế chồng\n-(dành cho đàn bà) to be on the shelf"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be on the shelf"
       }
     ]
   },
@@ -43,59 +96,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "unable to find customers, unmarketable"
-      }
-    ]
-  },
-  {
-    "word": "ế mình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ế mình\n- (đph) 1. ốm, se mình."
-      }
-    ]
-  },
-  {
-    "word": "ế thiu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have difficulty finding or have no customers"
-      }
-    ]
-  },
-  {
-    "word": "ế chòng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have difficulty finding a husband"
-      }
-    ]
-  },
-  {
-    "word": "ế vợ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have difficulty finding a wife"
-      }
-    ]
-  },
-  {
-    "word": "ế chồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ế chồng\n-(dành cho đàn bà) to be on the shelf"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ế chồng\n-(dành cho đàn bà) to be on the shelf"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be on the shelf"
       }
     ]
   }

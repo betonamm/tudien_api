@@ -1,35 +1,83 @@
 [
   {
-    "word": "lỡ dở",
+    "word": "lỡ miệng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dở dang, chưa trọn vẹn\nVí dụ:\n- học hành lỡ dở \n - tình duyên lỡ dở"
-      },
-      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ dở\n- Nh. Lỡ làng."
+        "dict_definition": "@lỡ miệng\n- Nh. Lỡ lời: Lỡ miệng nói một câu làm anh ta mếch lòng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lỡ dở [lỡ dở]\n-xem"
+        "dict_definition": "@lỡ miệng [lỡ miệng]\n-to make a slip of the tongue"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to let words slip out, make a slip of the tongue"
       }
     ]
   },
   {
-    "word": "lỡ cỡ",
+    "word": "lỡ lầm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không đúng cỡ nào cả, dùng vào việc gì cũng không thích hợp\nVí dụ:\n- đôi giày lỡ cỡ \n - mảnh vải lỡ cỡ, may một áo thì thừa mà hai áo thì thiếu"
+        "dict_definition": "như lầm lỡ\nVí dụ:\n- tôi đã lỡ lầm một lần rồi"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lỡ cỡ [lỡ cỡ]\n-unequal"
+        "dict_definition": "@lỡ lầm [lỡ lầm]\n-makea mistake, make a false step\n@Chuyên ngành kinh tế\n-slip up"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "unequal"
+        "dict_definition": "make a mistake, make a false step"
+      }
+    ]
+  },
+  {
+    "word": "lỡ ra",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nhỡ ra"
+      }
+    ]
+  },
+  {
+    "word": "lỡ bút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lapus calami"
+      }
+    ]
+  },
+  {
+    "word": "lỡ mồm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡ mồm\n- Nh. Lỡ lời."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ mồm [lỡ mồm]\n-to make a slip of the tongue"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to make a slip of the tongue"
+      }
+    ]
+  },
+  {
+    "word": "lỡ dịp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ dịp [lỡ dịp]\n-miss the opportunity"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "miss the opportunity"
       }
     ]
   },
@@ -71,6 +119,23 @@
     ]
   },
   {
+    "word": "lỡ vận",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡ vận\n- Không gặp thời cơ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ vận [lỡ vận]\n-miss a chance"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "miss a chance"
+      }
+    ]
+  },
+  {
     "word": "lỡ duyên",
     "definitions": [
       {
@@ -92,238 +157,19 @@
     ]
   },
   {
-    "word": "lỡ mồm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ mồm\n- Nh. Lỡ lời."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ mồm [lỡ mồm]\n-to make a slip of the tongue"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to make a slip of the tongue"
-      }
-    ]
-  },
-  {
-    "word": "lỡ dịp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ dịp [lỡ dịp]\n-miss the opportunity"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miss the opportunity"
-      }
-    ]
-  },
-  {
-    "word": "lỡ đường",
+    "word": "lỡ dở",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phải dừng lại trên đường đi xa do gặp trắc trở\nVí dụ:\n- khách lỡ đường \n - bị lỡ đường nên phải tìm chỗ trọ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ đường [lỡ đường]\n-lose way, take wrong route"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lose way, take wrong route"
-      }
-    ]
-  },
-  {
-    "word": "lỡ cơ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ cơ\n- Bỏ mất dịp tốt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ cơ [lỡ cơ]\n-miss the opportunity, lose the chance"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miss the opportunity, lose the chance"
-      }
-    ]
-  },
-  {
-    "word": "lỡ thời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ thời\n- t. 1. Mất cơ hội thuận lợi vì đến chậm hoặc hành động chậm. 2. Quá tuổi lấy chồng: Con gái quá lứa lỡ thời."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ thời [lỡ thời]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "lỡ bước",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ bước\n- Trót đi lầm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ bước [lỡ bước]\n-như\n-make a slip, take a wrong step"
-      }
-    ]
-  },
-  {
-    "word": "lỡ hẹn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ hẹn [lỡ hẹn]\n-to fail to keep an appointment;  to miss a date/an appointment"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to fail to keep an appointment, miss a date or an appointment"
-      }
-    ]
-  },
-  {
-    "word": "lỡ lầm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như lầm lỡ\nVí dụ:\n- tôi đã lỡ lầm một lần rồi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ lầm [lỡ lầm]\n-makea mistake, make a false step\n@Chuyên ngành kinh tế\n-slip up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "make a mistake, make a false step"
-      }
-    ]
-  },
-  {
-    "word": "lỡ bút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lapus calami"
-      }
-    ]
-  },
-  {
-    "word": "lỡm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xỏ ngầm, làm cho người ta mắc lừa để đùa cợt hoặc chế giễu\nVí dụ:\n- bị mắc lỡm \n - làm gì mà lỡm nhau thế?"
+        "dict_definition": "dở dang, chưa trọn vẹn\nVí dụ:\n- học hành lỡ dở \n - tình duyên lỡ dở"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡm\n- 1. d. Mẹo để đùa nghịch xỏ xiên: Mắc lỡm. 2. ph. Với ác ý muốn chế giễu hay gây hiểu lầm: Nói lỡm."
+        "dict_definition": "@lỡ dở\n- Nh. Lỡ làng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@lỡm [lỡm]\n-deceive, cheat, trick\n-joke, make fun of somebody"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to dupe, take in"
-      }
-    ]
-  },
-  {
-    "word": "lỡ làng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dở dang không thành, không đạt do bị trắc trở [thường về chuyện tình duyên]\nVí dụ:\n- duyên phận lỡ làng \n - \"Phận sao phận bạc như vôi!, Đã đành nước chảy hoa trôi lỡ làng.\" (TKiều)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ làng\n- t. Bỏ qua mất thời kỳ phù hợp, cơ hội thuận lợi: Duyên phận lỡ làng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ làng [lỡ làng]\n-be interrupted of fail half-way"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be interrupted of fail half-way"
-      }
-    ]
-  },
-  {
-    "word": "lỡi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡi\n- đg. Nh. Lễ: Lỡi ông vải."
-      }
-    ]
-  },
-  {
-    "word": "lỡ ra",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhỡ ra"
-      }
-    ]
-  },
-  {
-    "word": "lỡ tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ tàu [lỡ tàu]\n-to miss the boat;  to miss the train\n@Chuyên ngành kinh tế\n-turn-down"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to miss the boat, miss the train"
-      }
-    ]
-  },
-  {
-    "word": "lỡ vận",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ vận\n- Không gặp thời cơ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ vận [lỡ vận]\n-miss a chance"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miss a chance"
-      }
-    ]
-  },
-  {
-    "word": "lỡ miệng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@lỡ miệng\n- Nh. Lỡ lời: Lỡ miệng nói một câu làm anh ta mếch lòng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@lỡ miệng [lỡ miệng]\n-to make a slip of the tongue"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to let words slip out, make a slip of the tongue"
+        "dict_definition": "@lỡ dở [lỡ dở]\n-xem"
       }
     ]
   },
@@ -349,15 +195,100 @@
     ]
   },
   {
-    "word": "lỡ độ đường",
+    "word": "lỡ đường",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phải dừng lại trên đường đi xa do gặp trắc trở\nVí dụ:\n- khách lỡ đường \n - bị lỡ đường nên phải tìm chỗ trọ"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@lỡ độ đường [lỡ độ đường]\n-run out of funds while travelling, be in want of money in course of journey, overtaken by darkness"
+        "dict_definition": "@lỡ đường [lỡ đường]\n-lose way, take wrong route"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "run out of funds while travelling, be in want of"
+        "dict_definition": "lose way, take wrong route"
+      }
+    ]
+  },
+  {
+    "word": "lỡ thời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡ thời\n- t. 1. Mất cơ hội thuận lợi vì đến chậm hoặc hành động chậm. 2. Quá tuổi lấy chồng: Con gái quá lứa lỡ thời."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ thời [lỡ thời]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "lỡ làng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dở dang không thành, không đạt do bị trắc trở [thường về chuyện tình duyên]\nVí dụ:\n- duyên phận lỡ làng \n - \"Phận sao phận bạc như vôi!, Đã đành nước chảy hoa trôi lỡ làng.\" (TKiều)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡ làng\n- t. Bỏ qua mất thời kỳ phù hợp, cơ hội thuận lợi: Duyên phận lỡ làng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ làng [lỡ làng]\n-be interrupted of fail half-way"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be interrupted of fail half-way"
+      }
+    ]
+  },
+  {
+    "word": "lỡ bước",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡ bước\n- Trót đi lầm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ bước [lỡ bước]\n-như\n-make a slip, take a wrong step"
+      }
+    ]
+  },
+  {
+    "word": "lỡm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xỏ ngầm, làm cho người ta mắc lừa để đùa cợt hoặc chế giễu\nVí dụ:\n- bị mắc lỡm \n - làm gì mà lỡm nhau thế?"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡm\n- 1. d. Mẹo để đùa nghịch xỏ xiên: Mắc lỡm. 2. ph. Với ác ý muốn chế giễu hay gây hiểu lầm: Nói lỡm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡm [lỡm]\n-deceive, cheat, trick\n-joke, make fun of somebody"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to dupe, take in"
+      }
+    ]
+  },
+  {
+    "word": "lỡ tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ tàu [lỡ tàu]\n-to miss the boat;  to miss the train\n@Chuyên ngành kinh tế\n-turn-down"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to miss the boat, miss the train"
       }
     ]
   },
@@ -375,6 +306,75 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "unintentionally, inadvertently, accidentally, by mistake"
+      }
+    ]
+  },
+  {
+    "word": "lỡ cơ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡ cơ\n- Bỏ mất dịp tốt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ cơ [lỡ cơ]\n-miss the opportunity, lose the chance"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "miss the opportunity, lose the chance"
+      }
+    ]
+  },
+  {
+    "word": "lỡi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@lỡi\n- đg. Nh. Lễ: Lỡi ông vải."
+      }
+    ]
+  },
+  {
+    "word": "lỡ hẹn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ hẹn [lỡ hẹn]\n-to fail to keep an appointment;  to miss a date/an appointment"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to fail to keep an appointment, miss a date or an appointment"
+      }
+    ]
+  },
+  {
+    "word": "lỡ cỡ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không đúng cỡ nào cả, dùng vào việc gì cũng không thích hợp\nVí dụ:\n- đôi giày lỡ cỡ \n - mảnh vải lỡ cỡ, may một áo thì thừa mà hai áo thì thiếu"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ cỡ [lỡ cỡ]\n-unequal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "unequal"
+      }
+    ]
+  },
+  {
+    "word": "lỡ độ đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@lỡ độ đường [lỡ độ đường]\n-run out of funds while travelling, be in want of money in course of journey, overtaken by darkness"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "run out of funds while travelling, be in want of"
       }
     ]
   },

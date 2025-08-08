@@ -1,19 +1,10 @@
 [
   {
-    "word": "úy vật giáo",
+    "word": "úy chứng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "tabooism"
-      }
-    ]
-  },
-  {
-    "word": "úy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) to fear; (2) (military) officer"
+        "dict_definition": "fear, phobia"
       }
     ]
   },
@@ -36,20 +27,20 @@
     ]
   },
   {
-    "word": "úy cụ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to fear"
-      }
-    ]
-  },
-  {
     "word": "úy vật",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "taboo"
+      }
+    ]
+  },
+  {
+    "word": "úy vật giáo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tabooism"
       }
     ]
   },
@@ -75,11 +66,20 @@
     ]
   },
   {
-    "word": "úy chứng",
+    "word": "úy cụ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "fear, phobia"
+        "dict_definition": "to fear"
+      }
+    ]
+  },
+  {
+    "word": "úy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) to fear; (2) (military) officer"
       }
     ]
   }

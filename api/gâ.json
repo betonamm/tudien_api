@@ -1,32 +1,431 @@
 [
   {
-    "word": "gây tê",
+    "word": "gâu gâu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho một phần cơ thể mất cảm giác, thường để tiến hành thủ thuật, phẫu thuật nhỏ\nVí dụ:\n- bác sĩ gây tê cho bệnh nhân"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gâu gâu\n- Tiếng chó sủa."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gây tê [gây tê]\n-to give an anaesthetic;  to anesthetize\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-desensitize"
+        "dict_definition": "@gâu gâu\n-Bow-wow\n=Chó sủa gâu gâu\n+Bow-wow, barked the dog"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gâu gâu\n- Bow-wow\n=Chó sủa gâu gâu+Bow-wow, barked the dog"
+      }
+    ]
+  },
+  {
+    "word": "gây dựng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tạo ra cái cơ sở để từ đó phát triển lên\nVí dụ:\n- gây dựng cơ đồ \n - gây dựng phong trào"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây dựng\n- Vun đắp cho nên cơ sở."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây dựng\n*verb\n-to found, to establish"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây dựng\n* verb\n- to found, to establish"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to give an anesthetic, anesthetize"
+        "dict_definition": "to found, establish, set up"
       }
     ]
   },
   {
-    "word": "gây phương hại",
+    "word": "gân ngang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crosswise ribs"
+      }
+    ]
+  },
+  {
+    "word": "gân giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-midrib"
+      }
+    ]
+  },
+  {
+    "word": "gây áp lực (nhất là trên những người bán khống)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-squeeze the market\n-squeeze the market (to...)"
+      }
+    ]
+  },
+  {
+    "word": "gây nguy hiểm cho an toàn cá nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-endanger the safety of the person"
+      }
+    ]
+  },
+  {
+    "word": "gây xáo trộn",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to (cause) damage, harm"
+        "dict_definition": "to create confusion"
       }
     ]
   },
   {
-    "word": "gây liệt",
+    "word": "gâu ó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to argue, dispute"
+      }
+    ]
+  },
+  {
+    "word": "gân hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-root face"
+      }
+    ]
+  },
+  {
+    "word": "gây tê cục bộ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-toponarcosis"
+      }
+    ]
+  },
+  {
+    "word": "gây xẹp phổì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumolysis"
+      }
+    ]
+  },
+  {
+    "word": "gây tổn hại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-prejudice\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-damage"
+      }
+    ]
+  },
+  {
+    "word": "gây phiền hà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-troublesome"
+      }
+    ]
+  },
+  {
+    "word": "gây ra nhức nhối",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be painful"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do chất độc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-toxicogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây sự",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gây chuyện cãi nhau hoặc đánh nhau\nVí dụ:\n- nó gây sự với tôi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây sự\n- đg. Gây chuyện cãi nhau hoặc đánh nhau. Chuyện nhỏ làm ra to để gây sự."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây sự\n*verb\n-to pick a guarrel"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây sự\n* verb\n- to pick a guarrel"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pick a quarrel"
+      }
+    ]
+  },
+  {
+    "word": "gân, đồng nghĩa với tendon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sinew"
+      }
+    ]
+  },
+  {
+    "word": "gâu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng chó sủa"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gâu [gâu]\n-bark"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bark"
+      }
+    ]
+  },
+  {
+    "word": "gân giữa lá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-midrib"
+      }
+    ]
+  },
+  {
+    "word": "gây bệnh dại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rabific"
+      }
+    ]
+  },
+  {
+    "word": "gây viêm thận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nephritogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây hấp thu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-absorbefacient"
+      }
+    ]
+  },
+  {
+    "word": "gây tê bằng lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-crymoanesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây ra (lực)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-exert"
+      }
+    ]
+  },
+  {
+    "word": "gây hấn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gây xung đột đổ máu nhằm làm nổ ra chiến tranh\nVí dụ:\n- hành động gây hấn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây hấn\n- Khiêu khích để chiến tranh bùng nổ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây hấn\n-provoke war, provoke hostilities"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây hấn\n- provoke war, provoke hostilities"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to provoke hostility, start trouble"
+      }
+    ]
+  },
+  {
+    "word": "gây co giãn ván",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tetanigenous"
+      }
+    ]
+  },
+  {
+    "word": "gân khoeo (gân nhượng chân)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hamstring"
+      }
+    ]
+  },
+  {
+    "word": "gây men",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây men [gây men]\n-to ferment"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to ferment"
+      }
+    ]
+  },
+  {
+    "word": "gây bệnh (có khả năng gây bệnh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pathogenic"
+      }
+    ]
+  },
+  {
+    "word": "gân cốt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gân và xương; dùng để chỉ thể lực con người\nVí dụ:\n- gân cốt dẻo dai \n - duỗi thẳng ra cho giãn gân cốt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gân cốt\n- d. Thể chất nói chung. Nh. Sức lực: Gân cốt mạnh mẽ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gân cốt\n*noun\n-tendons and bones"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gân cốt\n* noun\n- tendons and bones"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tendons and bones"
+      }
+    ]
+  },
+  {
+    "word": "gây mê vòng nửa hỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây nhiễu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây nhiễu\n-(radiô) Jam (a transmission)\n@Chuyên ngành kỹ thuật\n-disturb\n-interfere\n-jam\n-jamming"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây nhiễu\n- (radiô) Jam (a transmission)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to jam (a radio transmission)"
+      }
+    ]
+  },
+  {
+    "word": "gây mê cơ sở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-basal narcosis\n-narcoanesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây ảnh hưởng cá nhân",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to build one’s personal influence"
+      }
+    ]
+  },
+  {
+    "word": "gây ngủ thiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-soporiferous\n-soporific"
+      }
+    ]
+  },
+  {
+    "word": "gây nhiều tranh chấp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create a lot of controversy"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do trực khuẩn, tạo trực khuẩn, sinh trực khuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bacillogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây hư thối",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -35,63 +434,368 @@
     ]
   },
   {
-    "word": "gây mê bằng thôi miên",
+    "word": "gây lỗi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypnosisanesthesia"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
       }
     ]
   },
   {
-    "word": "gây tổn thất",
+    "word": "gây thối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-damage"
+        "dict_definition": "@Chuyên ngành kinh tế\n-saprogenic\n-saprogenous"
       }
     ]
   },
   {
-    "word": "gây lộn",
+    "word": "gây lên men",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gây chuyện cãi nhau\nVí dụ:\n- bọn chúng gây lộn với lũ trẻ làng bên"
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
+      }
+    ]
+  },
+  {
+    "word": "gân gót achilles (gân của cơ bắp chân phía sau mắt cá chân)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Achillestendon"
+      }
+    ]
+  },
+  {
+    "word": "gây tình trạng ngủ nhẹ, sự thôi miên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-putrefy"
+      }
+    ]
+  },
+  {
+    "word": "gân tay",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây lộn\n- Sinh chuyện cãi nhau."
-      },
+        "dict_definition": "@gân tay\n- d. Khả năng viết hay nét vẽ rắn rỏi."
+      }
+    ]
+  },
+  {
+    "word": "gây bệnh thần kinh",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gây lộn\n-Pick up a quarrel, start an argument"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurotigenic"
+      }
+    ]
+  },
+  {
+    "word": "gây ảnh hưởng",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây lộn\n- Pick up a quarrel, start an argument"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-infect"
+      }
+    ]
+  },
+  {
+    "word": "gây nguy hiểm cho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-be a danger to"
+      }
+    ]
+  },
+  {
+    "word": "gây ngộ nhận",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cause a mistake"
+      }
+    ]
+  },
+  {
+    "word": "gây ra mồ hôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sudorific"
+      }
+    ]
+  },
+  {
+    "word": "gây ứng suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hold\n-stress\n-tauten"
+      }
+    ]
+  },
+  {
+    "word": "gây triệu chứng ngộ độc đậu lathyris",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lathyrogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây tê phần dưới cơ thể",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-para-anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây ẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-humidify"
+      }
+    ]
+  },
+  {
+    "word": "gân mép vỏ xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tyre bead"
+      }
+    ]
+  },
+  {
+    "word": "gây chết người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lethal"
+      }
+    ]
+  },
+  {
+    "word": "gân lá nhíp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-rib of spring leaf\n-spring leaf rib"
+      }
+    ]
+  },
+  {
+    "word": "gây xương hở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-open fracture"
+      }
+    ]
+  },
+  {
+    "word": "gân vòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-arch rib"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do đái tháo đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diabetogenous"
+      }
+    ]
+  },
+  {
+    "word": "gây giống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây giống [gây giống]\n-breed (plants or animals); produce seeds, breeds; raise breeds\n@Chuyên ngành kinh tế\n-breed"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "pick up a quarrel, start an argument"
+        "dict_definition": "to breed (plants or animals)"
       }
     ]
   },
   {
-    "word": "gân sức",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sức mạnh trong người dồn vào để làm việc gì nặng nhọc\nVí dụ:\n- lấy hết gân sức để nâng quả tạ"
-      }
-    ]
-  },
-  {
-    "word": "gây giãn nhạy cảm",
+    "word": "gây nên do song trực khuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hyposensitization"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diplobacillary"
+      }
+    ]
+  },
+  {
+    "word": "gân tăng cứng (thiết bị gia công chất dẻo)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-reinforcing rib"
+      }
+    ]
+  },
+  {
+    "word": "gân guốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có nhiều đường gân thớ thịt nổi lên, trông thô, nhưng khoẻ mạnh, rắn chắc\nVí dụ:\n- cánh tay gân guốc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[tinh thần] rắn rỏi, cứng cỏi\nVí dụ:\n- tính tình gân guốc \n - thằng cha bướng bỉnh, gân guốc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gân guốc\n- t. Nói nét mặt cứng cỏi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gân guốc\n-Rugged\n=Mặt gân guốc\n+A rugged face\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sinewy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gân guốc\n- Rugged\n=Mặt gân guốc+A rugged face"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sinewy"
+      }
+    ]
+  },
+  {
+    "word": "gây giãn mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vasodilative"
+      }
+    ]
+  },
+  {
+    "word": "gây tổ mới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-swarm"
+      }
+    ]
+  },
+  {
+    "word": "gây thương tích",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wound"
+      }
+    ]
+  },
+  {
+    "word": "gây nhiều tranh cãi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to generate much discussion, debate"
+      }
+    ]
+  },
+  {
+    "word": "gây xơ cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sclerogenous"
+      }
+    ]
+  },
+  {
+    "word": "gây nôn và tẩy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-emetocathartic"
+      }
+    ]
+  },
+  {
+    "word": "gây biến dạng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-load\n-strain"
+      }
+    ]
+  },
+  {
+    "word": "gây hận thù",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create hostility"
+      }
+    ]
+  },
+  {
+    "word": "gây ngứa, làm đau nhói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-urticant"
+      }
+    ]
+  },
+  {
+    "word": "gây tê trong mũi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intranasal anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây ngủ điện bằng cách cho một dòng điện yếu chạy qua não",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-electronarcosis"
+      }
+    ]
+  },
+  {
+    "word": "gây trở ngại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create an obstacle"
+      }
+    ]
+  },
+  {
+    "word": "gây mê kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-closed anesthesia"
       }
     ]
   },
@@ -105,11 +809,861 @@
     ]
   },
   {
-    "word": "gây tê quanh đốt sống",
+    "word": "gây tắc, vật gây tắc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-paravertebral anethesia"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-obstruent"
+      }
+    ]
+  },
+  {
+    "word": "gây một cảm tưởng xấu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create a bad impression"
+      }
+    ]
+  },
+  {
+    "word": "gây hốt hoảng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cause (or create) panic"
+      }
+    ]
+  },
+  {
+    "word": "gân xanh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nervure"
+      }
+    ]
+  },
+  {
+    "word": "gây loạn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to incite a rebellion"
+      }
+    ]
+  },
+  {
+    "word": "gây sốt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pyyrogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây co thắt, gây co giật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spasmogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây phản vệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anaphylactogen"
+      }
+    ]
+  },
+  {
+    "word": "gây lạm phát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inflationary"
+      }
+    ]
+  },
+  {
+    "word": "gây e ngại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bring about, create, cause fear"
+      }
+    ]
+  },
+  {
+    "word": "gây bệnh da",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dermatogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây kinh hoàng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create, cause fear"
+      }
+    ]
+  },
+  {
+    "word": "gây trở ngại cho thành sẹo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-antiplastic"
+      }
+    ]
+  },
+  {
+    "word": "gân sụn nhẫn - thực quản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-crico-esophageal tendon"
+      }
+    ]
+  },
+  {
+    "word": "gây tê trực tràng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sactal anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây mê tiêm tĩnh mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intravenous anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây rắc rối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-troublesome"
+      }
+    ]
+  },
+  {
+    "word": "gân má đỡ đấm sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-impact stop rib\n-rear draft lug rib"
+      }
+    ]
+  },
+  {
+    "word": "gây tê trong miệng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intra-oral anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do tụ cầu khuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-staphylococcal"
+      }
+    ]
+  },
+  {
+    "word": "gây khiêu khích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do sỏi mật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cholethic"
+      }
+    ]
+  },
+  {
+    "word": "gân cổ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "vươn cổ ra phía trước làm cho các đường gân ở cổ căng lên và nổi rõ, thường dùng để tả thái độ hết sức bướng bỉnh\nVí dụ:\n- anh gân cổ lên"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gân cổ\n- đg. Tỏ thái độ bướng bỉnh, không chịu phục thiện: Không chịu nhận lỗi, gân cổ ra mà cãi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gân cổ\n-Stiff-necledly without admitting one\"s mistake"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gân cổ\n- Stiff-necledly without admitting one's mistake"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to harden one’s neck"
+      }
+    ]
+  },
+  {
+    "word": "gân tăng cứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bead\n-brace\n-brace strut\n-bracing\n-bracing strut\n-rib\n-stiffener\n-stiffening rib"
+      }
+    ]
+  },
+  {
+    "word": "gây giãn nhạy cảm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hyposensitization"
+      }
+    ]
+  },
+  {
+    "word": "gây mầm (kết tinh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-inoculate"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do thiếu tuyến ức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thymoprivous"
+      }
+    ]
+  },
+  {
+    "word": "gây mê điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-electro-anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây gỗ với ai",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pick a fight with someone"
+      }
+    ]
+  },
+  {
+    "word": "gây mê tĩnh mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intravenous narcosis"
+      }
+    ]
+  },
+  {
+    "word": "gây nợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây nợ\n*verb\n-to run into debt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây nợ\n* verb\n-to run into debt"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to run into debt"
+      }
+    ]
+  },
+  {
+    "word": "gây rung tim",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-profibrillatory"
+      }
+    ]
+  },
+  {
+    "word": "gây độc gan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hepatotoxic"
+      }
+    ]
+  },
+  {
+    "word": "gây quỹ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to raise funds"
+      }
+    ]
+  },
+  {
+    "word": "gây choáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-shock"
+      }
+    ]
+  },
+  {
+    "word": "gân, gờ vỏ xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-rib"
+      }
+    ]
+  },
+  {
+    "word": "gây rối",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gây mất trật tự nơi công cộng\nVí dụ:\n- mấy người này vừa gây rối trong công viên"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây rối\n-Pertuebative\n=Phần tử gây rối\n+A perturbative element"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây rối\n- Pertuebative\n=Phần tử gây rối+A perturbative element"
+      }
+    ]
+  },
+  {
+    "word": "gây mề đay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây thêm căng thẳng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to increase tension(s)"
+      }
+    ]
+  },
+  {
+    "word": "gây nổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-detonate\n-explosive\n-initiating"
+      }
+    ]
+  },
+  {
+    "word": "gây tê quanh thần kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-paraneural anesthesia\n-perineural anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây mê phối hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-balanced-anesthesia\n-mixed anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây cơn động kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epileptogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây axit hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-acidify"
+      }
+    ]
+  },
+  {
+    "word": "gây phương hại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to (cause) damage, harm"
+      }
+    ]
+  },
+  {
+    "word": "gây thương tích cho",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to injure, cause injury (to someone)"
+      }
+    ]
+  },
+  {
+    "word": "gây tê nóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-surface analgesia"
+      }
+    ]
+  },
+  {
+    "word": "gây cấn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây cấn\n- đg. Tạo ra những khó khăn trở ngại: Bệnh hoạn gây cấn cho việc học tập."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây cấn [gây cấn]\n-(pha...) cliff-hanger (trong phim...)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "exciting"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do độc tố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-toxinic"
+      }
+    ]
+  },
+  {
+    "word": "gây ra phản ứng (hóa học)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-promote a reaction"
+      }
+    ]
+  },
+  {
+    "word": "gây tê tiêm ngấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lnfiltration anesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do vi rút",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-virogenetic"
+      }
+    ]
+  },
+  {
+    "word": "gây viêm phế mạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pleurodesis"
+      }
+    ]
+  },
+  {
+    "word": "gây hứng khởi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create, generate enthusiasm"
+      }
+    ]
+  },
+  {
+    "word": "gây sự cảm thông",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create understanding"
+      }
+    ]
+  },
+  {
+    "word": "gây thù",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây thù\n*verb\n-to create enemies"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây thù\n* verb\n-to create enemies"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create enemies"
+      }
+    ]
+  },
+  {
+    "word": "gây bệnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây bệnh [gây bệnh]\n-pathogenic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pathogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây nhiều tàn phá",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cause a lot of destruction"
+      }
+    ]
+  },
+  {
+    "word": "gây mê",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho cơ thể hoàn toàn mất cảm giác, thường để tiến hành phẫu thuật\nVí dụ:\n- bác sĩ đang gây mê cho bệnh nhân"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây mê\n-Anaesthetize\n@Chuyên ngành kỹ thuật\n-anesthetic\n-general anesthesia\n-narcosis"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây mê\n- Anaesthetize"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "anaesthetize"
+      }
+    ]
+  },
+  {
+    "word": "gây sưng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tumefacient"
+      }
+    ]
+  },
+  {
+    "word": "gân đường xoi trở lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-return bead"
+      }
+    ]
+  },
+  {
+    "word": "gây buồn nôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nauseous"
+      }
+    ]
+  },
+  {
+    "word": "gây gấy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cảm giác hơi ớn, hơi khó chịu trong người [giống như muốn sốt]\nVí dụ:\n- gây gấy sốt \n - người gây gấy váng vất"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây gấy\n- Nh. Ngây ngấy: Gây gấy sốt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây gấy\n-(thường gây gấy sốt) Feel feverish"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây gấy\n- (thường gây gấy sốt) Feel feverish"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to feel feverish"
+      }
+    ]
+  },
+  {
+    "word": "gây xôn xao dư luận",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cause a public uproar"
+      }
+    ]
+  },
+  {
+    "word": "gây nhiễm trùng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cause an infection"
+      }
+    ]
+  },
+  {
+    "word": "gây ngủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypnagogue"
+      }
+    ]
+  },
+  {
+    "word": "gây vận nhãn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oculogyric"
+      }
+    ]
+  },
+  {
+    "word": "gây hiện tượng ruồi bay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-muscegenetic"
+      }
+    ]
+  },
+  {
+    "word": "gây chuyện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cố ý làm cho sinh ra chuyện để gây lôi thôi, rắc rối cho người khác\nVí dụ:\n- bọn chúng gây chuyện với chú \n - gây chuyện đánh nhau"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây chuyện\n- Nh. Gây sự."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây chuyện\n-(cũng nói gây sự) Be quarrelsome, pick a quarrel (with somebody)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây chuyện\n- (cũng nói gây sự) Be quarrelsome, pick a quarrel (with somebody)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be quarrelsome, pick a quarrel (with somebody)"
+      }
+    ]
+  },
+  {
+    "word": "gây liệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây loét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diabrotic\n-ulcerogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây đau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-algesiogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây tổn thất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-damage"
+      }
+    ]
+  },
+  {
+    "word": "gân thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-steel tendon"
+      }
+    ]
+  },
+  {
+    "word": "gây nôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-emetic"
+      }
+    ]
+  },
+  {
+    "word": "gây co cứng cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tetanize"
+      }
+    ]
+  },
+  {
+    "word": "gây tạo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gây nên, tạo nên [nói khái quát]\nVí dụ:\n- kĩ thuật trang trí trên sân khấu gây tạo ấn tượng hiện đại"
+      }
+    ]
+  },
+  {
+    "word": "gây oán",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create enemies"
+      }
+    ]
+  },
+  {
+    "word": "gây hoại tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-necrogenic"
+      }
+    ]
+  },
+  {
+    "word": "gân mài rà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lapping ribs"
+      }
+    ]
+  },
+  {
+    "word": "gây gổ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gây chuyện cãi cọ, xô xát với thái độ hung hăng\nVí dụ:\n- gây gổ với người khác"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây gổ\n- đg. Sinh sự, kiếm chuyện một cách hung hăng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây gổ\n-Be quarrelsome, be fond of picking a quarrel\n=Tính hay gây gổ\n+To be fond of picking a quarrel by nature"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây gổ\n- Be quarrelsome, be fond of picking a quarrel\n=Tính hay gây gổ+To be fond of picking a quarrel by nature"
+      }
+    ]
+  },
+  {
+    "word": "gây căng thẳng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cause, create tension"
+      }
+    ]
+  },
+  {
+    "word": "gây án",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gây án [gây án]\n-to commit a crime"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to commit a crime"
       }
     ]
   },
@@ -147,90 +1701,20 @@
     ]
   },
   {
-    "word": "gây co túi mật",
+    "word": "gây kinh giật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cholecystokinetic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
       }
     ]
   },
   {
-    "word": "gây tê bằng lạnh",
+    "word": "gây lẫn lộn",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-crymoanesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây mê vòng nữa kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây bệnh dại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rabific"
-      }
-    ]
-  },
-  {
-    "word": "gân tay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gân tay\n- d. Khả năng viết hay nét vẽ rắn rỏi."
-      }
-    ]
-  },
-  {
-    "word": "gây độc gan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hepatotoxic"
-      }
-    ]
-  },
-  {
-    "word": "gây gấy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác hơi ớn, hơi khó chịu trong người [giống như muốn sốt]\nVí dụ:\n- gây gấy sốt \n - người gây gấy váng vất"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây gấy\n- Nh. Ngây ngấy: Gây gấy sốt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây gấy\n-(thường gây gấy sốt) Feel feverish"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây gấy\n- (thường gây gấy sốt) Feel feverish"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to feel feverish"
-      }
-    ]
-  },
-  {
-    "word": "gân vòm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-arch rib"
+        "dict_definition": "to create confusion"
       }
     ]
   },
@@ -244,332 +1728,11 @@
     ]
   },
   {
-    "word": "gân, gờ vỏ xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-rib"
-      }
-    ]
-  },
-  {
-    "word": "gân tăng cứng (thiết bị gia công chất dẻo)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-reinforcing rib"
-      }
-    ]
-  },
-  {
-    "word": "gây phản vệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anaphylactogen"
-      }
-    ]
-  },
-  {
-    "word": "gây mê cơ sở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-basal narcosis\n-narcoanesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây bệnh (có khả năng gây bệnh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pathogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây loạn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to incite a rebellion"
-      }
-    ]
-  },
-  {
-    "word": "gây chết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lethal\n-mortal"
-      }
-    ]
-  },
-  {
-    "word": "gân giữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-midrib"
-      }
-    ]
-  },
-  {
-    "word": "gân đường xoi trở lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-return bead"
-      }
-    ]
-  },
-  {
-    "word": "gây tê tiêm ngấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lnfiltration anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do sỏi mật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cholethic"
-      }
-    ]
-  },
-  {
-    "word": "gây tiếng vang",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create an echo, echo"
-      }
-    ]
-  },
-  {
-    "word": "gây tình trạng ngủ nhẹ, sự thôi miên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-putrefy"
-      }
-    ]
-  },
-  {
-    "word": "gây nhiễu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây nhiễu\n-(radiô) Jam (a transmission)\n@Chuyên ngành kỹ thuật\n-disturb\n-interfere\n-jam\n-jamming"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây nhiễu\n- (radiô) Jam (a transmission)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to jam (a radio transmission)"
-      }
-    ]
-  },
-  {
-    "word": "gây rung tim",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-profibrillatory"
-      }
-    ]
-  },
-  {
-    "word": "gây biến dạng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-load\n-strain"
-      }
-    ]
-  },
-  {
-    "word": "gây tê trong mũi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intranasal anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây nhiều tranh cãi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to generate much discussion, debate"
-      }
-    ]
-  },
-  {
-    "word": "gây tạo hồng cầu lưới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-reticulocytogenic"
-      }
-    ]
-  },
-  {
-    "word": "gân thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-steel tendon"
-      }
-    ]
-  },
-  {
-    "word": "gây cản trở",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create an obstacle"
-      }
-    ]
-  },
-  {
-    "word": "gây căng thẳng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause, create tension"
-      }
-    ]
-  },
-  {
-    "word": "gây kiềm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây choáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-shock"
-      }
-    ]
-  },
-  {
-    "word": "gây hận thù",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create hostility"
-      }
-    ]
-  },
-  {
-    "word": "gây mê tủy sống, gây mê cột sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây dựng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tạo ra cái cơ sở để từ đó phát triển lên\nVí dụ:\n- gây dựng cơ đồ \n - gây dựng phong trào"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây dựng\n- Vun đắp cho nên cơ sở."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây dựng\n*verb\n-to found, to establish"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây dựng\n* verb\n- to found, to establish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to found, establish, set up"
-      }
-    ]
-  },
-  {
-    "word": "gây kết hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây bệnh thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurotigenic"
-      }
-    ]
-  },
-  {
-    "word": "gây nhiều tàn phá",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause a lot of destruction"
-      }
-    ]
-  },
-  {
-    "word": "gân, đồng nghĩa với tendon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sinew"
-      }
-    ]
-  },
-  {
     "word": "gây còi xương",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-rachitogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây tổ mới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-swarm"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do thiếu tuyến ức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thymoprivous"
       }
     ]
   },
@@ -583,142 +1746,38 @@
     ]
   },
   {
-    "word": "gây tê tiếp xúc",
+    "word": "gây tê quanh đốt sống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-topical anesthsia"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-paravertebral anethesia"
       }
     ]
   },
   {
-    "word": "gây hư thối",
+    "word": "gây nên, do động vật nguyên sinh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protozoal"
       }
     ]
   },
   {
-    "word": "gân gót achilles (gân của cơ bắp chân phía sau mắt cá chân)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-Achillestendon"
-      }
-    ]
-  },
-  {
-    "word": "gây khó khăn cho",
+    "word": "gây đau đớn",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to create problems for"
+        "dict_definition": "to cause pain"
       }
     ]
   },
   {
-    "word": "gây khiêu khích",
+    "word": "gây đến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
-      }
-    ]
-  },
-  {
-    "word": "gân cổ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "vươn cổ ra phía trước làm cho các đường gân ở cổ căng lên và nổi rõ, thường dùng để tả thái độ hết sức bướng bỉnh\nVí dụ:\n- anh gân cổ lên"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gân cổ\n- đg. Tỏ thái độ bướng bỉnh, không chịu phục thiện: Không chịu nhận lỗi, gân cổ ra mà cãi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gân cổ\n-Stiff-necledly without admitting one\"s mistake"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gân cổ\n- Stiff-necledly without admitting one's mistake"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to harden one’s neck"
-      }
-    ]
-  },
-  {
-    "word": "gây rắc rối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-troublesome"
-      }
-    ]
-  },
-  {
-    "word": "gây sự",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gây chuyện cãi nhau hoặc đánh nhau\nVí dụ:\n- nó gây sự với tôi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây sự\n- đg. Gây chuyện cãi nhau hoặc đánh nhau. Chuyện nhỏ làm ra to để gây sự."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây sự\n*verb\n-to pick a guarrel"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây sự\n* verb\n- to pick a guarrel"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pick a quarrel"
-      }
-    ]
-  },
-  {
-    "word": "gây xôn xao dư luận",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause a public uproar"
-      }
-    ]
-  },
-  {
-    "word": "gâu ó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to argue, dispute"
-      }
-    ]
-  },
-  {
-    "word": "gây ra nhức nhối",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be painful"
-      }
-    ]
-  },
-  {
-    "word": "gây ra mồ hôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sudorific"
+        "dict_definition": "@Chuyên ngành kinh tế\n-induced"
       }
     ]
   },
@@ -732,117 +1791,83 @@
     ]
   },
   {
-    "word": "gây thối",
+    "word": "gây tổn thương cho mắt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-saprogenic\n-saprogenous"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-injurious to the eyes"
       }
     ]
   },
   {
-    "word": "gây lỗi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây xơ cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sclerogenous"
-      }
-    ]
-  },
-  {
-    "word": "gây ra (lực)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-exert"
-      }
-    ]
-  },
-  {
-    "word": "gây ngộ nhận",
+    "word": "gây chia rẽ",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to cause a mistake"
+        "dict_definition": "to cause disunity, discord, division, separation"
       }
     ]
   },
   {
-    "word": "gâu",
+    "word": "gân bánh chè",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-inferior tendon"
+      }
+    ]
+  },
+  {
+    "word": "gân hỏng (lá thuốc lá)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-loose rib"
+      }
+    ]
+  },
+  {
+    "word": "gây nhạy cảm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sensitization"
+      }
+    ]
+  },
+  {
+    "word": "gây thêm tức giận",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create more anger"
+      }
+    ]
+  },
+  {
+    "word": "gây tăng natri huyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypernatremic"
+      }
+    ]
+  },
+  {
+    "word": "gây nguy hại",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create a danger, endanger"
+      }
+    ]
+  },
+  {
+    "word": "gân sức",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng chó sủa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gâu [gâu]\n-bark"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bark"
-      }
-    ]
-  },
-  {
-    "word": "gân khoeo (gân nhượng chân)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hamstring"
-      }
-    ]
-  },
-  {
-    "word": "gây thù",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây thù\n*verb\n-to create enemies"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây thù\n* verb\n-to create enemies"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create enemies"
-      }
-    ]
-  },
-  {
-    "word": "gây hấp thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-absorbefacient"
-      }
-    ]
-  },
-  {
-    "word": "gây xáo trộn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create confusion"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do chất độc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-toxicogenic"
+        "dict_definition": "sức mạnh trong người dồn vào để làm việc gì nặng nhọc\nVí dụ:\n- lấy hết gân sức để nâng quả tạ"
       }
     ]
   },
@@ -856,83 +1881,107 @@
     ]
   },
   {
-    "word": "gân sụn nhẫn - thực quản",
+    "word": "gây nguy hiểm",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-crico-esophageal tendon"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to endanger"
       }
     ]
   },
   {
-    "word": "gây tê trực tràng",
+    "word": "gây lộn",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gây chuyện cãi nhau\nVí dụ:\n- bọn chúng gây lộn với lũ trẻ làng bên"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gây lộn\n- Sinh chuyện cãi nhau."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sactal anesthesia"
+        "dict_definition": "@gây lộn\n-Pick up a quarrel, start an argument"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gây lộn\n- Pick up a quarrel, start an argument"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pick up a quarrel, start an argument"
       }
     ]
   },
   {
-    "word": "gây ngứa, làm đau nhói",
+    "word": "gân tăng cường (của các xà cánh máy bay)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-urticant"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-web"
       }
     ]
   },
   {
-    "word": "gây nên do độc tố",
+    "word": "gây nên do, thuộc lên men",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-toxinic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-zymotic"
       }
     ]
   },
   {
-    "word": "gây nên do đái tháo đường",
+    "word": "gây mê hít",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diabetogenous"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-inhalation narcosis"
       }
     ]
   },
   {
-    "word": "gây triệu chứng ngộ độc đậu lathyris",
+    "word": "gây mê nhỏ giọt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lathyrogenic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-drop narcosi"
       }
     ]
   },
   {
-    "word": "gân giữa lá",
+    "word": "gây tê",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho một phần cơ thể mất cảm giác, thường để tiến hành thủ thuật, phẫu thuật nhỏ\nVí dụ:\n- bác sĩ gây tê cho bệnh nhân"
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-midrib"
+        "dict_definition": "@gây tê [gây tê]\n-to give an anaesthetic;  to anesthetize\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-desensitize"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to give an anesthetic, anesthetize"
       }
     ]
   },
   {
-    "word": "gây khát",
+    "word": "gây mê hạ nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypothermic anesthesia"
       }
     ]
   },
   {
-    "word": "gây dựng tiếng tăm",
+    "word": "gây cản trở",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-build up a reputation (to ...)"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create an obstacle"
       }
     ]
   },
@@ -970,128 +2019,11 @@
     ]
   },
   {
-    "word": "gây ảnh hưởng cá nhân",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to build one’s personal influence"
-      }
-    ]
-  },
-  {
-    "word": "gây co mạch",
+    "word": "gây kiềm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vasopress"
-      }
-    ]
-  },
-  {
-    "word": "gây co thắt, gây co giật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spasmogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây một cảm tưởng xấu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create a bad impression"
-      }
-    ]
-  },
-  {
-    "word": "gân mài rà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lapping ribs"
-      }
-    ]
-  },
-  {
-    "word": "gây nợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây nợ\n*verb\n-to run into debt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây nợ\n* verb\n-to run into debt"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to run into debt"
-      }
-    ]
-  },
-  {
-    "word": "gây hấn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gây xung đột đổ máu nhằm làm nổ ra chiến tranh\nVí dụ:\n- hành động gây hấn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây hấn\n- Khiêu khích để chiến tranh bùng nổ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây hấn\n-provoke war, provoke hostilities"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây hấn\n- provoke war, provoke hostilities"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to provoke hostility, start trouble"
-      }
-    ]
-  },
-  {
-    "word": "gây gổ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gây chuyện cãi cọ, xô xát với thái độ hung hăng\nVí dụ:\n- gây gổ với người khác"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây gổ\n- đg. Sinh sự, kiếm chuyện một cách hung hăng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây gổ\n-Be quarrelsome, be fond of picking a quarrel\n=Tính hay gây gổ\n+To be fond of picking a quarrel by nature"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây gổ\n- Be quarrelsome, be fond of picking a quarrel\n=Tính hay gây gổ+To be fond of picking a quarrel by nature"
-      }
-    ]
-  },
-  {
-    "word": "gây áp lực (nhất là trên những người bán khống)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-squeeze the market\n-squeeze the market (to...)"
-      }
-    ]
-  },
-  {
-    "word": "gây thêm tức giận",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create more anger"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
       }
     ]
   },
@@ -1105,101 +2037,11 @@
     ]
   },
   {
-    "word": "gây nguy hiểm cho an toàn cá nhân",
+    "word": "gây co mạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-endanger the safety of the person"
-      }
-    ]
-  },
-  {
-    "word": "gây mề đay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây hiện tượng ruồi bay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-muscegenetic"
-      }
-    ]
-  },
-  {
-    "word": "gân tăng cường (của các xà cánh máy bay)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-web"
-      }
-    ]
-  },
-  {
-    "word": "gân ngang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: dệt may\n-crosswise ribs"
-      }
-    ]
-  },
-  {
-    "word": "gây vận nhãn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oculogyric"
-      }
-    ]
-  },
-  {
-    "word": "gây tắc, vật gây tắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-obstruent"
-      }
-    ]
-  },
-  {
-    "word": "gây ứng suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hold\n-stress\n-tauten"
-      }
-    ]
-  },
-  {
-    "word": "gây gỗ với ai",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pick a fight with someone"
-      }
-    ]
-  },
-  {
-    "word": "gây lạm phát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inflationary"
-      }
-    ]
-  },
-  {
-    "word": "gây nguy hiểm cho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-be a danger to"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vasopress"
       }
     ]
   },
@@ -1213,777 +2055,11 @@
     ]
   },
   {
-    "word": "gây chuyện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cố ý làm cho sinh ra chuyện để gây lôi thôi, rắc rối cho người khác\nVí dụ:\n- bọn chúng gây chuyện với chú \n - gây chuyện đánh nhau"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây chuyện\n- Nh. Gây sự."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây chuyện\n-(cũng nói gây sự) Be quarrelsome, pick a quarrel (with somebody)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây chuyện\n- (cũng nói gây sự) Be quarrelsome, pick a quarrel (with somebody)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be quarrelsome, pick a quarrel (with somebody)"
-      }
-    ]
-  },
-  {
-    "word": "gân mép vỏ xe",
+    "word": "gây dựng tiếng tăm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-tyre bead"
-      }
-    ]
-  },
-  {
-    "word": "gây đau đớn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause pain"
-      }
-    ]
-  },
-  {
-    "word": "gây ngủ điện bằng cách cho một dòng điện yếu chạy qua não",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-electronarcosis"
-      }
-    ]
-  },
-  {
-    "word": "gân tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bead"
-      }
-    ]
-  },
-  {
-    "word": "gây rối",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gây mất trật tự nơi công cộng\nVí dụ:\n- mấy người này vừa gây rối trong công viên"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây rối\n-Pertuebative\n=Phần tử gây rối\n+A perturbative element"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây rối\n- Pertuebative\n=Phần tử gây rối+A perturbative element"
-      }
-    ]
-  },
-  {
-    "word": "gây mê phối hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-balanced-anesthesia\n-mixed anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây mê kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-closed anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây tê nóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-surface analgesia"
-      }
-    ]
-  },
-  {
-    "word": "gây tê trong miệng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intra-oral anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây e ngại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bring about, create, cause fear"
-      }
-    ]
-  },
-  {
-    "word": "gây mê tĩnh mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intravenous narcosis"
-      }
-    ]
-  },
-  {
-    "word": "gây sốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pyyrogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây tê quanh thần kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-paraneural anesthesia\n-perineural anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây ảnh hưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-infect"
-      }
-    ]
-  },
-  {
-    "word": "gây tổn hại đến",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to damage, cause damage to"
-      }
-    ]
-  },
-  {
-    "word": "gâu gâu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gâu gâu\n- Tiếng chó sủa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gâu gâu\n-Bow-wow\n=Chó sủa gâu gâu\n+Bow-wow, barked the dog"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gâu gâu\n- Bow-wow\n=Chó sủa gâu gâu+Bow-wow, barked the dog"
-      }
-    ]
-  },
-  {
-    "word": "gây độc mô, nhiễm độc các mô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-histotoxic"
-      }
-    ]
-  },
-  {
-    "word": "gây nhiều tranh chấp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create a lot of controversy"
-      }
-    ]
-  },
-  {
-    "word": "gây lên men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây tăng natri huyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypernatremic"
-      }
-    ]
-  },
-  {
-    "word": "gây nguy hiểm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to endanger"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do cầu khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-create"
-      }
-    ]
-  },
-  {
-    "word": "gây thương tích cho",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to injure, cause injury (to someone)"
-      }
-    ]
-  },
-  {
-    "word": "gây phiền hà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-troublesome"
-      }
-    ]
-  },
-  {
-    "word": "gây nên, do động vật nguyên sinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-protozoal"
-      }
-    ]
-  },
-  {
-    "word": "gây tạo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gây nên, tạo nên [nói khái quát]\nVí dụ:\n- kĩ thuật trang trí trên sân khấu gây tạo ấn tượng hiện đại"
-      }
-    ]
-  },
-  {
-    "word": "gây kinh giật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây loét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diabrotic\n-ulcerogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây đến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-induced"
-      }
-    ]
-  },
-  {
-    "word": "gây men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây men [gây men]\n-to ferment"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to ferment"
-      }
-    ]
-  },
-  {
-    "word": "gây bệnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây bệnh [gây bệnh]\n-pathogenic"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pathogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do, thuộc lên men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-zymotic"
-      }
-    ]
-  },
-  {
-    "word": "gây tê cục bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-toponarcosis"
-      }
-    ]
-  },
-  {
-    "word": "gân gia cường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-reinforcing rib"
-      }
-    ]
-  },
-  {
-    "word": "gây co cứng cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tetanize"
-      }
-    ]
-  },
-  {
-    "word": "gân đường xoi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bead and quirk\n-quirk bead"
-      }
-    ]
-  },
-  {
-    "word": "gân xanh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nervure"
-      }
-    ]
-  },
-  {
-    "word": "gây gỗ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pick a fight, start a quarrel"
-      }
-    ]
-  },
-  {
-    "word": "gây bệnh da",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-dermatogenic"
-      }
-    ]
-  },
-  {
-    "word": "gân cốt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gân và xương; dùng để chỉ thể lực con người\nVí dụ:\n- gân cốt dẻo dai \n - duỗi thẳng ra cho giãn gân cốt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gân cốt\n- d. Thể chất nói chung. Nh. Sức lực: Gân cốt mạnh mẽ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gân cốt\n*noun\n-tendons and bones"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gân cốt\n* noun\n- tendons and bones"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tendons and bones"
-      }
-    ]
-  },
-  {
-    "word": "gây chuyển dạ bằng thuốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-medical induction"
-      }
-    ]
-  },
-  {
-    "word": "gây mê vòng nửa hỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây ác nghiệp",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause a sin"
-      }
-    ]
-  },
-  {
-    "word": "gân tăng cứng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bead\n-brace\n-brace strut\n-bracing\n-bracing strut\n-rib\n-stiffener\n-stiffening rib"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do tụ cầu khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-staphylococcal"
-      }
-    ]
-  },
-  {
-    "word": "gân guốc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có nhiều đường gân thớ thịt nổi lên, trông thô, nhưng khoẻ mạnh, rắn chắc\nVí dụ:\n- cánh tay gân guốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[tinh thần] rắn rỏi, cứng cỏi\nVí dụ:\n- tính tình gân guốc \n - thằng cha bướng bỉnh, gân guốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gân guốc\n- t. Nói nét mặt cứng cỏi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gân guốc\n-Rugged\n=Mặt gân guốc\n+A rugged face\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sinewy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gân guốc\n- Rugged\n=Mặt gân guốc+A rugged face"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sinewy"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do trực khuẩn, tạo trực khuẩn, sinh trực khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bacillogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây ẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-humidify"
-      }
-    ]
-  },
-  {
-    "word": "gây tê phần dưới cơ thể",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-para-anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây ngủ thiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-soporiferous\n-soporific"
-      }
-    ]
-  },
-  {
-    "word": "gây mê nhỏ giọt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-drop narcosi"
-      }
-    ]
-  },
-  {
-    "word": "gây mầm (kết tinh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-inoculate"
-      }
-    ]
-  },
-  {
-    "word": "gây cấn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gây cấn\n- đg. Tạo ra những khó khăn trở ngại: Bệnh hoạn gây cấn cho việc học tập."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây cấn [gây cấn]\n-(pha...) cliff-hanger (trong phim...)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "exciting"
-      }
-    ]
-  },
-  {
-    "word": "gây tổn hại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-prejudice\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-damage"
-      }
-    ]
-  },
-  {
-    "word": "gây axit hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-acidify"
-      }
-    ]
-  },
-  {
-    "word": "gây ra phản ứng (hóa học)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-promote a reaction"
-      }
-    ]
-  },
-  {
-    "word": "gây mê",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho cơ thể hoàn toàn mất cảm giác, thường để tiến hành phẫu thuật\nVí dụ:\n- bác sĩ đang gây mê cho bệnh nhân"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây mê\n-Anaesthetize\n@Chuyên ngành kỹ thuật\n-anesthetic\n-general anesthesia\n-narcosis"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gây mê\n- Anaesthetize"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "anaesthetize"
-      }
-    ]
-  },
-  {
-    "word": "gây cơn động kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-epileptogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây chia rẽ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause disunity, discord, division, separation"
-      }
-    ]
-  },
-  {
-    "word": "gây thối rữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-putrefactive\n-putrefy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-putrefy"
-      }
-    ]
-  },
-  {
-    "word": "gây quỹ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to raise funds"
-      }
-    ]
-  },
-  {
-    "word": "gây oán",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create enemies"
-      }
-    ]
-  },
-  {
-    "word": "gây hốt hoảng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause (or create) panic"
-      }
-    ]
-  },
-  {
-    "word": "gân lá nhíp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-rib of spring leaf\n-spring leaf rib"
-      }
-    ]
-  },
-  {
-    "word": "gây mộng mị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oneirogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây buồn nôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nauseous"
-      }
-    ]
-  },
-  {
-    "word": "gây vô cảm, làm mất cảm giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anesthetiazation"
-      }
-    ]
-  },
-  {
-    "word": "gây mê tủy sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây trở ngại cho thành sẹo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-antiplastic"
-      }
-    ]
-  },
-  {
-    "word": "gây viêm phế mạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pleurodesis"
-      }
-    ]
-  },
-  {
-    "word": "gây giống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gây giống [gây giống]\n-breed (plants or animals); produce seeds, breeds; raise breeds\n@Chuyên ngành kinh tế\n-breed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to breed (plants or animals)"
-      }
-    ]
-  },
-  {
-    "word": "gây kinh hoàng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create, cause fear"
-      }
-    ]
-  },
-  {
-    "word": "gây ngủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypnagogue"
-      }
-    ]
-  },
-  {
-    "word": "gân hỏng (lá thuốc lá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-loose rib"
+        "dict_definition": "@Chuyên ngành kinh tế\n-build up a reputation (to ...)"
       }
     ]
   },
@@ -1997,191 +2073,29 @@
     ]
   },
   {
-    "word": "gây sưng",
+    "word": "gây chuyển dạ bằng thuốc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tumefacient"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-medical induction"
       }
     ]
   },
   {
-    "word": "gân hàn",
+    "word": "gây nên do cầu khuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-root face"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-create"
       }
     ]
   },
   {
-    "word": "gây mê hạ nhiệt",
+    "word": "gây mê bằng thôi miên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypothermic anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây nhiễm xạ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-contaminated"
-      }
-    ]
-  },
-  {
-    "word": "gây nhiễm trùng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cause an infection"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do phế cầu khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumococcic"
-      }
-    ]
-  },
-  {
-    "word": "gây nhạy cảm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sensitization"
-      }
-    ]
-  },
-  {
-    "word": "gây mê hít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-inhalation narcosis"
-      }
-    ]
-  },
-  {
-    "word": "gây nổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-detonate\n-explosive\n-initiating"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do song trực khuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-diplobacillary"
-      }
-    ]
-  },
-  {
-    "word": "gây nôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-emetic"
-      }
-    ]
-  },
-  {
-    "word": "gân bánh chè",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-inferior tendon"
-      }
-    ]
-  },
-  {
-    "word": "gây nguy hại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create a danger, endanger"
-      }
-    ]
-  },
-  {
-    "word": "gây mê điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-electro-anesthesia"
-      }
-    ]
-  },
-  {
-    "word": "gây nên do vi rút",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-virogenetic"
-      }
-    ]
-  },
-  {
-    "word": "gây tổn thương cho mắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-injurious to the eyes"
-      }
-    ]
-  },
-  {
-    "word": "gây đau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-algesiogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây viêm thận",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-nephritogenic"
-      }
-    ]
-  },
-  {
-    "word": "gây xương hở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-open fracture"
-      }
-    ]
-  },
-  {
-    "word": "gân má đỡ đấm sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-impact stop rib\n-rear draft lug rib"
-      }
-    ]
-  },
-  {
-    "word": "gây trở ngại",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create an obstacle"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hypnosisanesthesia"
       }
     ]
   },
@@ -2199,105 +2113,92 @@
     ]
   },
   {
-    "word": "gây hoại tử",
+    "word": "gây chết",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-necrogenic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-lethal\n-mortal"
       }
     ]
   },
   {
-    "word": "gây thương tích",
+    "word": "gây khó khăn cho",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to wound"
+        "dict_definition": "to create problems for"
       }
     ]
   },
   {
-    "word": "gây xẹp phổì",
+    "word": "gân tròn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumolysis"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bead"
       }
     ]
   },
   {
-    "word": "gây chết người",
+    "word": "gân đường xoi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lethal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bead and quirk\n-quirk bead"
       }
     ]
   },
   {
-    "word": "gây hứng khởi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create, generate enthusiasm"
-      }
-    ]
-  },
-  {
-    "word": "gây lẫn lộn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create confusion"
-      }
-    ]
-  },
-  {
-    "word": "gây co giãn ván",
+    "word": "gây độc mô, nhiễm độc các mô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tetanigenous"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-histotoxic"
       }
     ]
   },
   {
-    "word": "gây sự cảm thông",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to create understanding"
-      }
-    ]
-  },
-  {
-    "word": "gây thêm căng thẳng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to increase tension(s)"
-      }
-    ]
-  },
-  {
-    "word": "gây mê tiêm tĩnh mạch",
+    "word": "gây nhiễm xạ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-intravenous anesthesia"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-contaminated"
       }
     ]
   },
   {
-    "word": "gây án",
+    "word": "gây tê tiếp xúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gây án [gây án]\n-to commit a crime"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-topical anesthsia"
+      }
+    ]
+  },
+  {
+    "word": "gây kết hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây vô cảm, làm mất cảm giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-anesthetiazation"
+      }
+    ]
+  },
+  {
+    "word": "gây gỗ",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to commit a crime"
+        "dict_definition": "to pick a fight, start a quarrel"
       }
     ]
   },
@@ -2307,6 +2208,24 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-neurotoxic"
+      }
+    ]
+  },
+  {
+    "word": "gây mộng mị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-oneirogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây tiếng vang",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to create an echo, echo"
       }
     ]
   },
@@ -2336,20 +2255,29 @@
     ]
   },
   {
-    "word": "gây nôn và tẩy",
+    "word": "gây tạo hồng cầu lưới",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-emetocathartic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-reticulocytogenic"
       }
     ]
   },
   {
-    "word": "gây giãn mạch",
+    "word": "gây khát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-vasodilative"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-saprogenic"
+      }
+    ]
+  },
+  {
+    "word": "gây mê vòng nữa kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
       }
     ]
   },
@@ -2359,6 +2287,78 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to cause a stir, commotion"
+      }
+    ]
+  },
+  {
+    "word": "gây ác nghiệp",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cause a sin"
+      }
+    ]
+  },
+  {
+    "word": "gân gia cường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-reinforcing rib"
+      }
+    ]
+  },
+  {
+    "word": "gây co túi mật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cholecystokinetic"
+      }
+    ]
+  },
+  {
+    "word": "gây tổn hại đến",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to damage, cause damage to"
+      }
+    ]
+  },
+  {
+    "word": "gây mê tủy sống, gây mê cột sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây nên do phế cầu khuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pneumococcic"
+      }
+    ]
+  },
+  {
+    "word": "gây mê tủy sống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spinai anaesthesia"
+      }
+    ]
+  },
+  {
+    "word": "gây thối rữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-putrefactive\n-putrefy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: thực phẩm\n-putrefy"
       }
     ]
   }

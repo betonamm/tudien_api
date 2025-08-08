@@ -1,44 +1,26 @@
 [
   {
-    "word": "ốm nghén thay vợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-couvade"
-      }
-    ]
-  },
-  {
-    "word": "ốm yếu tàn tật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-disability"
-      }
-    ]
-  },
-  {
-    "word": "ốm nhom",
+    "word": "ốm yếu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầy nhom"
+        "dict_definition": "có thể lực kém, sức khoẻ kém\nVí dụ:\n- người ốm yếu, xanh xao"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ốm nhom\n- Cg. ốm nhom ốm nhách. Gầy gò quá."
+        "dict_definition": "@ốm yếu\n- t. 1 Có thể lực kém, sức khoẻ kém. Ốm yếu thế thì làm được gì. 2 (id.). Như đau ốm. Tuổi già, ốm yếu luôn."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@ốm nhom\n-Thin as a lath\n=\n+��m nhom ốm nhách như ốm nhom (ý mạnh hơn)"
+        "dict_definition": "@ốm yếu\n-feeble; thin and weak"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ốm nhom\n- Thin as a lath\n=ốm nhom ốm nhách như ốm nhom (ý mạnh hơn)"
+        "dict_definition": "@ốm yếu\n- feeble; thin and weak"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "very skinny, very thin"
+        "dict_definition": "sick, weak, feeble"
       }
     ]
   },
@@ -68,29 +50,101 @@
     ]
   },
   {
-    "word": "ốm liệt giường",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sick in bed, bedridden"
-      }
-    ]
-  },
-  {
-    "word": "ốm xác",
+    "word": "ốm đau",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cực nhọc, làm khổ cái thân mà không được lợi ích gì\nVí dụ:\n- chả được cái gì, chỉ ốm xác! \n - đi làm gì cho ốm xác!"
+        "dict_definition": "như đau ốm\nVí dụ:\n- bà ấy ốm đau luôn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ốm đau\n-như đau ốm"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ốm đau\n- như đau ốm"
       }
     ]
   },
   {
-    "word": "ốm nặng",
+    "word": "ốm yếu tàn tật",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-disability"
+      }
+    ]
+  },
+  {
+    "word": "ốm nghén thay vợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-couvade"
+      }
+    ]
+  },
+  {
+    "word": "ốm nhom",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầy nhom"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@ốm nhom\n- Cg. ốm nhom ốm nhách. Gầy gò quá."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ốm nhom\n-Thin as a lath\n=\n+��m nhom ốm nhách như ốm nhom (ý mạnh hơn)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ốm nhom\n- Thin as a lath\n=ốm nhom ốm nhách như ốm nhom (ý mạnh hơn)"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to be seriously ill"
+        "dict_definition": "very skinny, very thin"
+      }
+    ]
+  },
+  {
+    "word": "ốm nhách",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầy đét\nVí dụ:\n- người ốm nhách"
+      }
+    ]
+  },
+  {
+    "word": "ốm yếu, tàn tật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-invalid"
+      }
+    ]
+  },
+  {
+    "word": "ốm nghén",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái cơ thể mệt nhọc, khó chịu, trong thời kì có nghén"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@ốm nghén\n-Have morning sickness"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@ốm nghén\n- Have morning sickness"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have morning sickness"
       }
     ]
   },
@@ -133,57 +187,11 @@
     ]
   },
   {
-    "word": "ốm yếu",
+    "word": "ốm xác",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có thể lực kém, sức khoẻ kém\nVí dụ:\n- người ốm yếu, xanh xao"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@ốm yếu\n- t. 1 Có thể lực kém, sức khoẻ kém. Ốm yếu thế thì làm được gì. 2 (id.). Như đau ốm. Tuổi già, ốm yếu luôn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ốm yếu\n-feeble; thin and weak"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ốm yếu\n- feeble; thin and weak"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sick, weak, feeble"
-      }
-    ]
-  },
-  {
-    "word": "ốm yếu, tàn tật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-invalid"
-      }
-    ]
-  },
-  {
-    "word": "ốm nghén",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái cơ thể mệt nhọc, khó chịu, trong thời kì có nghén"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ốm nghén\n-Have morning sickness"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ốm nghén\n- Have morning sickness"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have morning sickness"
+        "dict_definition": "cực nhọc, làm khổ cái thân mà không được lợi ích gì\nVí dụ:\n- chả được cái gì, chỉ ốm xác! \n - đi làm gì cho ốm xác!"
       }
     ]
   },
@@ -213,28 +221,20 @@
     ]
   },
   {
-    "word": "ốm nhách",
+    "word": "ốm nặng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầy đét\nVí dụ:\n- người ốm nhách"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be seriously ill"
       }
     ]
   },
   {
-    "word": "ốm đau",
+    "word": "ốm liệt giường",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như đau ốm\nVí dụ:\n- bà ấy ốm đau luôn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@ốm đau\n-như đau ốm"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@ốm đau\n- như đau ốm"
+        "dict_name": "VNEDICT",
+        "dict_definition": "sick in bed, bedridden"
       }
     ]
   }

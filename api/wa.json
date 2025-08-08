@@ -1,14 +1,5 @@
 [
   {
-    "word": "watt nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thermal Watt"
-      }
-    ]
-  },
-  {
     "word": "watt điện",
     "definitions": [
       {
@@ -18,38 +9,20 @@
     ]
   },
   {
-    "word": "wais",
+    "word": "watt-giờ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-WAIS (Wide Area Information Server)\n-Wide-Area Information Server"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-watt-hour"
       }
     ]
   },
   {
-    "word": "watt-giờ kế",
+    "word": "watt nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-watt-hour meter"
-      }
-    ]
-  },
-  {
-    "word": "watch file",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-watch file"
-      }
-    ]
-  },
-  {
-    "word": "watt (đơn vị công suất điện)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-w (watt)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thermal Watt"
       }
     ]
   },
@@ -63,6 +36,24 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-watt meter"
+      }
+    ]
+  },
+  {
+    "word": "watt-giây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-watt-second"
+      }
+    ]
+  },
+  {
+    "word": "wais",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-WAIS (Wide Area Information Server)\n-Wide-Area Information Server"
       }
     ]
   },
@@ -85,20 +76,29 @@
     ]
   },
   {
-    "word": "watt-giờ",
+    "word": "watch file",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-watt-hour"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-watch file"
       }
     ]
   },
   {
-    "word": "watt-giây",
+    "word": "watt (đơn vị công suất điện)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-watt-second"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-w (watt)"
+      }
+    ]
+  },
+  {
+    "word": "watt-giờ kế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-watt-hour meter"
       }
     ]
   }

@@ -1,14 +1,5 @@
 [
   {
-    "word": "rẽ nhánh vào chương trình con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-jump into a subroutine"
-      }
-    ]
-  },
-  {
     "word": "rẽ ràng",
     "definitions": [
       {
@@ -30,11 +21,50 @@
     ]
   },
   {
-    "word": "rẽ tắt dòng máu, sun máu",
+    "word": "rẽ rọt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood shunt"
+        "dict_definition": "@rẽ rọt\n-Soft and distinct"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rẽ rọt\n- Soft and distinct"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "soft and distinct"
+      }
+    ]
+  },
+  {
+    "word": "rẽ nhanh đều nếu cao hơn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Branch if Higher (BHI)"
+      }
+    ]
+  },
+  {
+    "word": "rẽ cưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-set\n@Lĩnh vực: cơ khí & công trình\n-set-up"
+      }
+    ]
+  },
+  {
+    "word": "rẽ đường ngôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rẽ đường ngôi [rẽ đường ngôi]\n-to part one\"s hair"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to part one’s hair"
       }
     ]
   },
@@ -48,11 +78,19 @@
     ]
   },
   {
-    "word": "rẽ tay phải",
+    "word": "rẽ duyên",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@rẽ duyên\n-Separate married people"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rẽ duyên\n- Separate married people"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to turn to the right"
+        "dict_definition": "separate married people"
       }
     ]
   },
@@ -75,6 +113,60 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-derive\n-divergent"
+      }
+    ]
+  },
+  {
+    "word": "rẽ nhánh chương trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-program branch"
+      }
+    ]
+  },
+  {
+    "word": "rẽ tay trái",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to turn to the left"
+      }
+    ]
+  },
+  {
+    "word": "rẽ tắt dòng máu, sun máu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood shunt"
+      }
+    ]
+  },
+  {
+    "word": "rẽ ca",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-set"
+      }
+    ]
+  },
+  {
+    "word": "rẽ nhánh vào chương trình con",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-jump into a subroutine"
+      }
+    ]
+  },
+  {
+    "word": "rẽ nhánh và liên kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BAL (branch and link)\n-branch and link"
       }
     ]
   },
@@ -125,20 +217,38 @@
     ]
   },
   {
-    "word": "rẽ cưa",
+    "word": "rẽ bên trái",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-set\n@Lĩnh vực: cơ khí & công trình\n-set-up"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-left-hand throat"
       }
     ]
   },
   {
-    "word": "rẽ hướng",
+    "word": "rẽ nhánh có điều kiện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-turning"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-condition branch"
+      }
+    ]
+  },
+  {
+    "word": "rẽ (chòng khoan)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diverter"
+      }
+    ]
+  },
+  {
+    "word": "rẽ hai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bifurcation"
       }
     ]
   },
@@ -164,32 +274,6 @@
     ]
   },
   {
-    "word": "rẽ duyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rẽ duyên\n-Separate married people"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rẽ duyên\n- Separate married people"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "separate married people"
-      }
-    ]
-  },
-  {
-    "word": "rẽ nhánh đều nếu cao hơn hoặc bằng nhau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Branch if Higher or Same (BHIS)"
-      }
-    ]
-  },
-  {
     "word": "rẽ ngang",
     "definitions": [
       {
@@ -207,11 +291,20 @@
     ]
   },
   {
-    "word": "rẽ ca",
+    "word": "rẽ nhánh phía trên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-set"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-jump backward"
+      }
+    ]
+  },
+  {
+    "word": "rẽ dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-diversion cut"
       }
     ]
   },
@@ -221,55 +314,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-electric shunt"
-      }
-    ]
-  },
-  {
-    "word": "rẽ đường ngôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rẽ đường ngôi [rẽ đường ngôi]\n-to part one\"s hair"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to part one’s hair"
-      }
-    ]
-  },
-  {
-    "word": "rẽ bên trái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-left-hand throat"
-      }
-    ]
-  },
-  {
-    "word": "rẽ nhánh nếu nhỏ hơn hoặc bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Branch if Less or Equal (BLE)"
-      }
-    ]
-  },
-  {
-    "word": "rẽ nhánh có điều kiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-condition branch"
-      }
-    ]
-  },
-  {
-    "word": "rẽ tay trái",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to turn to the left"
       }
     ]
   },
@@ -287,82 +331,38 @@
     ]
   },
   {
-    "word": "rẽ nhánh chương trình",
+    "word": "rẽ nhánh nếu nhỏ hơn hoặc bằng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-program branch"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Branch if Less or Equal (BLE)"
       }
     ]
   },
   {
-    "word": "rẽ (chòng khoan)",
+    "word": "rẽ nhánh đều nếu cao hơn hoặc bằng nhau",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-diverter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Branch if Higher or Same (BHIS)"
       }
     ]
   },
   {
-    "word": "rẽ hai",
+    "word": "rẽ tay phải",
     "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-bifurcation"
-      }
-    ]
-  },
-  {
-    "word": "rẽ rọt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rẽ rọt\n-Soft and distinct"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rẽ rọt\n- Soft and distinct"
-      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "soft and distinct"
+        "dict_definition": "to turn to the right"
       }
     ]
   },
   {
-    "word": "rẽ nhánh phía trên",
+    "word": "rẽ hướng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-jump backward"
-      }
-    ]
-  },
-  {
-    "word": "rẽ nhanh đều nếu cao hơn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Branch if Higher (BHI)"
-      }
-    ]
-  },
-  {
-    "word": "rẽ nhánh và liên kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-BAL (branch and link)\n-branch and link"
-      }
-    ]
-  },
-  {
-    "word": "rẽ dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-diversion cut"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-turning"
       }
     ]
   }

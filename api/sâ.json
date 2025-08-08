@@ -1,15 +1,84 @@
 [
   {
-    "word": "sân hiên",
+    "word": "sân trong chung",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terrace"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
       }
     ]
   },
   {
-    "word": "sân dự trữ",
+    "word": "sâu sát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có tác phong làm việc đi vào chiều sâu, gần gũi và sát với thực tế để nắm rõ tình hình\nVí dụ:\n- sâu sát phong trào"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu sát\n-Having a deep understanding of, in very close touch with"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu sát\n- Having a deep understanding of, in very close touch with"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "having a deep understanding of, in very close touch with"
+      }
+    ]
+  },
+  {
+    "word": "sâm si",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâm si\n- Chênh lệch chút ít: Giá gạo các nơi sâm si nhau."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâm si\n-Be slightly different, differ slightly\n=Giá gạo các nơi sâm si nhau\n+The prices of rice in various places differ slightly"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâm si\n- Be slightly different, differ slightly\n=Giá gạo các nơi sâm si nhau+The prices of rice in various places differ slightly"
+      }
+    ]
+  },
+  {
+    "word": "sân sau bằng đá xây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-masonry downstream apron"
+      }
+    ]
+  },
+  {
+    "word": "sân hoè",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sân Hoè\n- Sân có trồng cây Hoè, chỉ nhà có con cái hiển đạt\n- Tống sử: Vương Hộ đời Tống, văn chương nổi tiếng một thời, ông tự tay trồng 3 cây Hoè ở s6n nhà và nói: \"Con cháu ta tất có người làm đến tam công, 3 cây hoè này nêu chí của ta.\" Vềứ sau, người con thứ của ông là Vương Đáo làm quan đến chức Tể tướng. Thiên hạ gọi là \"Tam hoè vương thị\" (3 cây hoè nhà họ Vương)\n- Nhân đó, người ta cũng dùng chữ này để chỉ nhà có con cái hiển đạt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân hoè\n- Từ dùng trong văn học cũ để chỉ anh em trong nhà: Sân hòe đôi chút thơ ngây (K)."
+      }
+    ]
+  },
+  {
+    "word": "sân bay quốc tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-international airport"
+      }
+    ]
+  },
+  {
+    "word": "sân đỗ xe",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -18,63 +87,409 @@
     ]
   },
   {
-    "word": "sân bay thường trực",
+    "word": "sân tập",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-permanent airport"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ribbed floor"
       }
     ]
   },
   {
-    "word": "sâm banh ngọt",
+    "word": "sân bay vũ trụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sweet champagne"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cosmodrome\n-spaceport"
       }
     ]
   },
   {
-    "word": "sân bay",
+    "word": "sân khách",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bãi rộng có thiết bị chuyên dùng để máy bay đỗ và lên xuống"
-      },
+        "dict_definition": "sân bóng của đội đối phương, khi đội mình đến đó để thi đấu; phân biệt với sân nhà\nVí dụ:\n- đá trên sân khách"
+      }
+    ]
+  },
+  {
+    "word": "sân thi đấu điền kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic arena"
+      }
+    ]
+  },
+  {
+    "word": "sân sướng",
+    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân bay\n- Khoảng đất phẳng có đường băng và các thiết bị cần cho máy bay cất cánh và hạ cánh."
+        "dict_definition": "@sân sướng\n- Sân nhà nói chung: Sân sướng nhiều rác rưởi quá."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sân bay\n*noun\n-airport\n@Chuyên ngành kinh tế\n-airport\n@Chuyên ngành kỹ thuật\n-aerodrome\n-aeroport\n-airdrome\n-airfield\n-airport\n-drome\n-field\n-flying field\n-landing field\n-landing place"
+        "dict_definition": "@sân sướng\n-Yard (nói chung)\n=Sân sướng nhiều rác rưởi quá\n+There is too much rubish in the yard"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân bay\n* noun\n- airport"
+        "dict_definition": "@sân sướng\n- Yard (nói chung)\n=Sân sướng nhiều rác rưởi quá+There is too much rubish in the yard"
+      }
+    ]
+  },
+  {
+    "word": "sân sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân sau\n-Backyard\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back yard\n-rear yard"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân sau\n- Backyard"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "airport, airfield, airstrip"
+        "dict_definition": "backyard"
       }
     ]
   },
   {
-    "word": "sâng",
+    "word": "sân đào",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâng\n- d. Loài cây cùng họ với bồ hòn, cho gỗ loại vừa."
+        "dict_definition": "@sân đào\n- sân họ Đào tức là Đào Tiềm, đời nhà Tấn, một nhà thơ làm tri huyện treo ấn từ quan về nơi vườn ruộng, có làm bài thơ \"Qui khứ lai từ\" (Đi về) nổi tiếng"
       }
     ]
   },
   {
-    "word": "sân máy bay",
+    "word": "sân phơi cà phê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-coffee drying patio\n-terrace coffee drying terrace"
+      }
+    ]
+  },
+  {
+    "word": "sân trong (nhà ở tây ban nha)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-patio"
+      }
+    ]
+  },
+  {
+    "word": "sân trình",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sân Trình\n- Sân nhà họ Trình, chỉ trường học nhà Nho\n- Họ Trình tức anh em Trình Hạo và Trình Di là những danh nho và là học trò Chu Đôn Di , nhà Triết học dựng nền Lý học đời Tống. Trình Hạo tự Bá Thuần và em là Trình Di tự Chính Thúc, hiệu Y Xuyên, người Lạc Dương. Trình Hạo chủ về đường cùng Lý, tìm hiểu thấu đáo mọi lẽ, chú các sách Nho Gia và Lục Kinh. Còn Trình Di suốt đời lấy chữ \"Thành\" làm gốc, chủ lấy việc hiểu các lẽ đến cùng, lo trước tác và chú thích kinh truyện, mở trường dạy học trò rất đông. (Tục Thông Chí, quyển 542)\n- Lục Vân Tiên: Tháng ngày bao quản sân Trình lao đao"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân Trình\n- Chỉ Trình Hạo và Trình Di, hai nhà Tống nho nổi tiếng"
+      }
+    ]
+  },
+  {
+    "word": "sân ngoài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-exterior yard\n-outer court"
+      }
+    ]
+  },
+  {
+    "word": "sân bay địa phương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-local airport"
+      }
+    ]
+  },
+  {
+    "word": "sân nhà",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sân bóng của đội mình, khi thi đấu; phân biệt với sân khách\nVí dụ:\n- lợi thế sân nhà \n - để thua ngay trên sân nhà"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "yard (of a house)"
+      }
+    ]
+  },
+  {
+    "word": "sâu nặng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[tình cảm] sâu sắc, không thể quên\nVí dụ:\n- gắn bó sâu nặng \n - tình cảm sâu nặng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu nặng\n-Deep, deep-rooted\n=Tình cảm sâu nặng\n+Deep-rooted feelings, deep-rooted sentiments"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu nặng\n- Deep, deep-rooted\n=Tình cảm sâu nặng+Deep-rooted feelings, deep-rooted sentiments"
+      }
+    ]
+  },
+  {
+    "word": "sân trước nhà máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
+      }
+    ]
+  },
+  {
+    "word": "sân quần",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân quần\n- Nơi chơi quần vợt."
+      }
+    ]
+  },
+  {
+    "word": "sân hạ lưu đập tràn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spillway downstream apron"
+      }
+    ]
+  },
+  {
+    "word": "sân bóng đá",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "airport"
+        "dict_definition": "football field"
+      }
+    ]
+  },
+  {
+    "word": "sâu rượu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu rượu\n- Người nghiện rượu (thtục)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu rượu\n-(thông tục) Winebibber"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu rượu\n- (thông tục) Winebibber"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "winebibber"
+      }
+    ]
+  },
+  {
+    "word": "sân đập lúa cơ khí hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mechanized barn yard"
+      }
+    ]
+  },
+  {
+    "word": "sân phân phối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-switchgear"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "switchgear"
+      }
+    ]
+  },
+  {
+    "word": "sân (trượt) băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-skating-rink"
+      }
+    ]
+  },
+  {
+    "word": "sân bay ứng cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-emergency airport"
+      }
+    ]
+  },
+  {
+    "word": "sân bay trung chuyển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-intermediate airdrome"
+      }
+    ]
+  },
+  {
+    "word": "sân đánh gôn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "golf course"
+      }
+    ]
+  },
+  {
+    "word": "sâm banh sữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-milk champagne"
+      }
+    ]
+  },
+  {
+    "word": "sây sát",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bị sầy, xước nhiều chỗ\nVí dụ:\n- mình mẩy sây sát \n - mặt bàn có nhiều vết sây sát"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sây sát\n- tt 1. Xước ngoài da: Tôi chỉ đau mà không sây sát tí gì (Tô-hoài). 2. Lở ra ít nhiều: Tường bị sây sát."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sây sát\n*adj\n-abraded, scraped, scratched"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sây sát\n* adj\n- abraded, scraped, scratched"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "abraded, scraped, scratched"
+      }
+    ]
+  },
+  {
+    "word": "sâm banh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rượu vang trắng, có nhiều bọt, thường dùng để chúc tụng trong các dịp vui mừng\nVí dụ:\n- uống sâm banh \n - khai vị bằng sâm banh"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâm banh\n- x. sâmbanh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâm banh\n*noun\n-champagne"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâm banh\n* noun\n-champagne"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "champagne"
+      }
+    ]
+  },
+  {
+    "word": "sân trượt băng di chuyển được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-transportable skating rink"
+      }
+    ]
+  },
+  {
+    "word": "sân sửa chữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bear apron"
+      }
+    ]
+  },
+  {
+    "word": "sân si",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân si\n- đg. (cũ). Nổi giận."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân si\n*verb\n-to rush in; to fly into a temper"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân si\n* verb\n- to rush in; to fly into a temper"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to rush in, fly into a temper"
+      }
+    ]
+  },
+  {
+    "word": "sâu vừa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hypabyssal"
+      }
+    ]
+  },
+  {
+    "word": "sân đậu xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-parking lot"
+      }
+    ]
+  },
+  {
+    "word": "sân tiếp nhận",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-landing stage"
+      }
+    ]
+  },
+  {
+    "word": "sân bốc dỡ hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-unloading yield"
       }
     ]
   },
@@ -104,76 +519,304 @@
     ]
   },
   {
-    "word": "sâu xám",
+    "word": "sâu róm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu có màu sẫm, ban ngày ở dưới đất, ban đêm lên cắn ngọn và lá cây, chuyên phá hoại hoa màu và cây công nghiệp"
-      }
-    ]
-  },
-  {
-    "word": "sân trượt băng di chuyển được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-transportable skating rink"
-      }
-    ]
-  },
-  {
-    "word": "sân con (trước nhà)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-curtilage"
-      }
-    ]
-  },
-  {
-    "word": "sân chơi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hoạt động hoặc nơi diễn ra các hoạt động được coi như một trò chơi, có tác dụng giải trí\nVí dụ:\n- sân chơi âm nhạc \n - các sân chơi trên truyền hình"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "môi trường diễn ra một hoạt động kinh tế, xã hội nào đó thường có tính cạnh tranh\nVí dụ:\n- tạo sân chơi bình đẳng giữa các thành phần kinh tế"
+        "dict_definition": "sâu có lông rậm, tiết chất gây ngứa"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân chơi\n- Sân của nhà trường để học sinh chơi trong giờ nghỉ."
+        "dict_definition": "@sâu róm\n- d. Sâu có lông rậm, tiết chất làm ngứa."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sân chơi\n-Playground\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plavground\n-playground"
+        "dict_definition": "@sâu róm\n*noun\n-caterpillar"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân chơi\n- Playground"
+        "dict_definition": "@sâu róm\n* noun\n- caterpillar"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "playground"
+        "dict_definition": "caterpillar"
       }
     ]
   },
   {
-    "word": "sân quần",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân quần\n- Nơi chơi quần vợt."
-      }
-    ]
-  },
-  {
-    "word": "sâu phẩm, sâu yên chi",
+    "word": "sân phơi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cochineal"
+        "dict_definition": "@sân phơi\n-Drying ground"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân phơi\n- Drying ground"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "drying ground"
+      }
+    ]
+  },
+  {
+    "word": "sân hiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terrace"
+      }
+    ]
+  },
+  {
+    "word": "sân nhà máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-factory yard"
+      }
+    ]
+  },
+  {
+    "word": "sân bay tạm thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-temporary airfield"
+      }
+    ]
+  },
+  {
+    "word": "sân ga xếp dỡ hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-loading and unloading ramp"
+      }
+    ]
+  },
+  {
+    "word": "sân thượng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng rộng trên mái bằng của nhà\nVí dụ:\n- lên sân thượng ngắm trăng \n - phơi quần áo trên sân thượng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân thượng\n-Terrace\n@Chuyên ngành kỹ thuật\n-flat roof\n-terrace\n-terrace roof"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân thượng\n- Terrace"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "terrace"
+      }
+    ]
+  },
+  {
+    "word": "sân nuôi gà vịt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-hennery"
+      }
+    ]
+  },
+  {
+    "word": "sân ga lát gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-boarding platform"
+      }
+    ]
+  },
+  {
+    "word": "sân chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-main court"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu có khung kéo phông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-upper gridiron stage"
+      }
+    ]
+  },
+  {
+    "word": "sân sườn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ribbed floor"
+      }
+    ]
+  },
+  {
+    "word": "sân quần ngựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-riding-hall\n-riding-house"
+      }
+    ]
+  },
+  {
+    "word": "sân máy bay",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "airport"
+      }
+    ]
+  },
+  {
+    "word": "sân vận động trượt băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ice stadium"
+      }
+    ]
+  },
+  {
+    "word": "sân sau (của đập tràn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-spillway apron"
+      }
+    ]
+  },
+  {
+    "word": "sân đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
+      }
+    ]
+  },
+  {
+    "word": "sân xếp đống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bulk load platform"
+      }
+    ]
+  },
+  {
+    "word": "sâu hỗn hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mixed string"
+      }
+    ]
+  },
+  {
+    "word": "sân golf",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "golf course"
+      }
+    ]
+  },
+  {
+    "word": "sân bay chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-base airdrome\n-base airport"
+      }
+    ]
+  },
+  {
+    "word": "sân truyền liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-charge material yard\n-charge preparing shop"
+      }
+    ]
+  },
+  {
+    "word": "sân trượt băng nhân tạo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-artificial ice\n-artificial ice rink\n-artificial ice-ring\n-artificial skating rink\n-manufactured ice"
+      }
+    ]
+  },
+  {
+    "word": "sân vận động",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sân rộng xây dựng theo quy cách nhất định để tập luyện và thi đấu thể dục, thể thao"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân vận động\n- dt. Sân rộng để làm nơi tập luyện và thi đấu thể dục, thể thao: sân vận động Hà Nội."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân vận động\n*noun\n-stadium\n@Chuyên ngành kỹ thuật\n-athletic field\n-bowl\n-sports stadium\n-stadium"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân vận động\n* noun\n- stadium"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "stadium"
+      }
+    ]
+  },
+  {
+    "word": "sâu hoắm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu hõm vào, tựa như không thấy đáy, trông có cảm giác sợ\nVí dụ:\n- vết thương sâu hoắm \n - hố bom sâu hoắm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu hoắm\n- Hẹp và có đáy rất xa miệng: Vực sâu hoắm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu hoắm\n-Very deep\n=Vực sâu hoắm\n+A very deep gulf"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu hoắm\n- Very deep\n=Vực sâu hoắm+A very deep gulf"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "very deep"
+      }
+    ]
+  },
+  {
+    "word": "sân bay của nhà máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-factory airfield"
       }
     ]
   },
@@ -207,218 +850,24 @@
     ]
   },
   {
-    "word": "sân sau hố giảm sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bear apron"
-      }
-    ]
-  },
-  {
-    "word": "sân bóng đá",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "football field"
-      }
-    ]
-  },
-  {
-    "word": "sân bay kiểm dịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quarantine airport"
-      }
-    ]
-  },
-  {
-    "word": "sân thượng",
+    "word": "sâu cuốn lá",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng rộng trên mái bằng của nhà\nVí dụ:\n- lên sân thượng ngắm trăng \n - phơi quần áo trên sân thượng"
+        "dict_definition": "sâu chuyên hại lá cây, thường nhả tơ cuốn lá lại để làm tổ"
       },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân thượng\n-Terrace\n@Chuyên ngành kỹ thuật\n-flat roof\n-terrace\n-terrace roof"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân thượng\n- Terrace"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "terrace"
-      }
-    ]
-  },
-  {
-    "word": "sân sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân sau\n-Backyard\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back yard\n-rear yard"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân sau\n- Backyard"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "backyard"
-      }
-    ]
-  },
-  {
-    "word": "sân trình cửa khổng",
-    "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân trình cửa khổng\n- X. Cửa khổng."
+        "dict_definition": "@sâu cuốn lá\n- Loài sâu bọ ăn hại, nhả tơ cuộn lá lại thành tổ."
       }
     ]
   },
   {
-    "word": "sân si",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân si\n- đg. (cũ). Nổi giận."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân si\n*verb\n-to rush in; to fly into a temper"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân si\n* verb\n- to rush in; to fly into a temper"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to rush in, fly into a temper"
-      }
-    ]
-  },
-  {
-    "word": "sân quần ngựa",
+    "word": "sân hố giảm sức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-riding-hall\n-riding-house"
-      }
-    ]
-  },
-  {
-    "word": "sân bay thủy phi cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-permanent airport"
-      }
-    ]
-  },
-  {
-    "word": "sân trước nhà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
-      }
-    ]
-  },
-  {
-    "word": "sâu dâu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu dâu\n- Loài sâu đục thân cây dâu, có thể dùng làm thuốc."
-      }
-    ]
-  },
-  {
-    "word": "sân sau bằng đá xây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-masonry downstream apron"
-      }
-    ]
-  },
-  {
-    "word": "sâm khoé",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sâm Khoé\n- (xã) h. mai Châu, t. Hoà Bình"
-      }
-    ]
-  },
-  {
-    "word": "sân bay ứng cấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-emergency airport"
-      }
-    ]
-  },
-  {
-    "word": "sâu hỗn hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-mixed string"
-      }
-    ]
-  },
-  {
-    "word": "sân vui chơi (trường học)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-play ground"
-      }
-    ]
-  },
-  {
-    "word": "sân lai sáu kỷ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân lai sáu kỷ\n- ý nói làm vui lòng cha mẹ theo chuyện ông lão Lai tuổi già 72 còn cha mẹ, ông thường mặc áo ngũ sắc như áo trẻ con rồi gánh nước đùa chơi té ngã làm cho cha mẹ vui quên tuổi già. Song huỳnh mười thu: ý nói công phu mười năm rèn luyện học tập"
-      }
-    ]
-  },
-  {
-    "word": "sân phân phối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-switchgear"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "switchgear"
-      }
-    ]
-  },
-  {
-    "word": "sân bay trung chuyển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-intermediate airdrome"
-      }
-    ]
-  },
-  {
-    "word": "sân trong chung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-apron\n-stilling basin apron"
       }
     ]
   },
@@ -432,92 +881,6 @@
     ]
   },
   {
-    "word": "sâu mọt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu và mọt [nói khái quát]; dùng để chỉ những kẻ chuyên đục khoét của dân\nVí dụ:\n- quan lại sâu mọt \n - bọn sâu mọt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu mọt\n- Kẻ ăn hại xã hội : Bọn cường hào sâu mọt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu mọt\n*noun\n-parasite"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu mọt\n* noun\n- parasite"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "parasite"
-      }
-    ]
-  },
-  {
-    "word": "sân buồng âu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-floor\n@Lĩnh vực: cơ khí & công trình\n-lock floor"
-      }
-    ]
-  },
-  {
-    "word": "sân bay cấp vùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-regional airport"
-      }
-    ]
-  },
-  {
-    "word": "sân lai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sân Lai\n- Sân nhà lão Lai Tử, chỉ nhà cha mẹ\n- Hiếu tử truyện: Lão Lai Tử thờ cha mẹ rất có hiếu. Năm 70 tuổi ông vẫn còn bày trò chơi trẻ con: Bận áo 5 sắc màu sặc sỡ nhảy múa trước sân rồi vờ ngã, khóc như trẻ con để mua vui cho cha mẹ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân lai\n- Từ dùng trong văn học cũ để chỉ cha mẹ: Sân lai cách mấy nắng mưa (K)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân lai\n-(từ cũ; văn chương) Parents"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân lai\n- (từ cũ; văn chương) Parents"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "parents"
-      }
-    ]
-  },
-  {
-    "word": "sân bãi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-place"
-      }
-    ]
-  },
-  {
-    "word": "sân bay tạm thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-temporary airfield"
-      }
-    ]
-  },
-  {
     "word": "sân khấu ba khung",
     "definitions": [
       {
@@ -527,125 +890,273 @@
     ]
   },
   {
-    "word": "sân golf",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "golf course"
-      }
-    ]
-  },
-  {
-    "word": "sân thả gia súc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-feed lot"
-      }
-    ]
-  },
-  {
-    "word": "sân thi đấu thể thao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic field"
-      }
-    ]
-  },
-  {
-    "word": "sân bóng",
+    "word": "sân ngô",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân bóng\n- dt. Sân để chơi bóng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân bóng\n*noun\n-football ground, pitch"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân bóng\n* noun\n-football ground, pitch"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "football ground, pitch"
+        "dict_definition": "@sân ngô\n- sân giồng cây ngô đồng"
       }
     ]
   },
   {
-    "word": "sân sau (của đập tràn)",
+    "word": "sân đón nắng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-spillway apron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
       }
     ]
   },
   {
-    "word": "sân bay lớn",
+    "word": "sâu dưới nước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-airport"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bathypelagic"
       }
     ]
   },
   {
-    "word": "sân siu",
+    "word": "sân nuôi gia súc non",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cubs playground\n-playground for baby animals"
+      }
+    ]
+  },
+  {
+    "word": "sâu đục thân",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tính toán, thêm bớt một cách không chi li để cho đủ, cho cân đối\nVí dụ:\n- sân siu mỗi người một ít \n - tính sân siu"
+        "dict_definition": "sâu chuyên đục phía trong thân cây"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-anobium borer"
       }
     ]
   },
   {
-    "word": "sân bốc dỡ hàng",
+    "word": "sân thải liệu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-unloading yield"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-discharging site\n-unloading area\n-unloading platform"
       }
     ]
   },
   {
-    "word": "sân sườn",
+    "word": "sân khấu không khung",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ribbed floor"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-deep stage with out portal"
       }
     ]
   },
   {
-    "word": "sâu sát",
+    "word": "sâu độc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có tác phong làm việc đi vào chiều sâu, gần gũi và sát với thực tế để nắm rõ tình hình\nVí dụ:\n- sâu sát phong trào"
+        "dict_definition": "nham hiểm và độc ác\nVí dụ:\n- mưu mô sâu độc \n - những lời mỉa mai sâu độc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu độc\n- tt. 1. Nham hiểm và độc ác: mưu mô sâu độc. 2. Đau đớn và độc địa: lời châm biếm sâu độc."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sâu sát\n-Having a deep understanding of, in very close touch with"
+        "dict_definition": "@sâu độc\n*adj\n-fiendish, wicked"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu sát\n- Having a deep understanding of, in very close touch with"
+        "dict_definition": "@sâu độc\n* adj\n- fiendish, wicked"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "having a deep understanding of, in very close touch with"
+        "dict_definition": "fiendish, wicked"
       }
     ]
   },
   {
-    "word": "sân trong (nhà kiểu tây ban nha)",
+    "word": "sân khấu hở",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-patio"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open stage (surrounded by audience on three sides)"
+      }
+    ]
+  },
+  {
+    "word": "sân gỗ giảm sức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-timber apron"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu vòng tròn (xoay quanh phòng khán giả)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ring stage (running around the hall)"
+      }
+    ]
+  },
+  {
+    "word": "sân kho",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-household yard\n-reserve area\n-reserve yard\n-reserved area\n-storage wield"
+      }
+    ]
+  },
+  {
+    "word": "sâm nhung",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâm và nhung, những vị thuốc bổ rất quý trong đông y [nói khái quát]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâm nhung\n- Sâm và nhung, hai thứ thuốc bổ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâm nhung\n-Ginseng and buidding antler; strong tonics"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâm nhung\n- Ginseng and buidding antler; strong tonics"
+      }
+    ]
+  },
+  {
+    "word": "sâu bọ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem côn trùng\nVí dụ:\n- diệt trừ sâu bọ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu bọ\n- Cg. Côn trùng. Tên gọi một lớp tiết túc thở bằng khí quản, cơ thể chia làm ba phần là đầu, ngực và bụng, có ba đôi chân và thường có hai đôi cánh. Giết sâu bọ. Tục ăn hoa quả điểm tâm vào sáng hôm tết Đoan ngọ, ngày mồng năm tháng nNăm âm lịch, nói là để giết sâu bọ trong cơ thể."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu bọ\n-Insect*Syn\n-cũng như côn trùng"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu bọ\n- Insect\n#Syn\n- cũng như côn trùng"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "insect"
+      }
+    ]
+  },
+  {
+    "word": "sâu quảng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bệnh loét sâu ở chân do vi khuẩn ăn vào phần mềm, khó lành"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu quảng\n- Bệnh lở loét ở chân, ăn sâu vào thịt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu quảng\n-Phagedaena\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phagedena"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu quảng\n- Phagedaena"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "phagedaena"
+      }
+    ]
+  },
+  {
+    "word": "sân bay kiểm dịch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quarantine airport"
+      }
+    ]
+  },
+  {
+    "word": "sân bay trực thăng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-permanent airport"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu hộp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-box-type stage\n-deep stage"
+      }
+    ]
+  },
+  {
+    "word": "sân đánh quần vợt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tennis court"
+      }
+    ]
+  },
+  {
+    "word": "sâu vòi voi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bọ cánh cứng, đầu nhô dài ra trước như cái vòi voi, thường cắn phá cây cối"
+      }
+    ]
+  },
+  {
+    "word": "sâm-banh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâm-banh [sâm banh]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "sân bay chuyển tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-intermediate airdrome"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu bục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-platform stage"
       }
     ]
   },
@@ -699,71 +1210,70 @@
     ]
   },
   {
-    "word": "sâu độc",
+    "word": "sân ga hành khách (nhà ga)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-passenger platform"
+      }
+    ]
+  },
+  {
+    "word": "sân ga hành lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-luggage platform"
+      }
+    ]
+  },
+  {
+    "word": "sân chơi khu vực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-district playground\n-local playground"
+      }
+    ]
+  },
+  {
+    "word": "sân dữ trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-reserve yard"
+      }
+    ]
+  },
+  {
+    "word": "sân nhượng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terrace"
+      }
+    ]
+  },
+  {
+    "word": "sân sau đập tràn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spillway apron"
+      }
+    ]
+  },
+  {
+    "word": "sân siu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nham hiểm và độc ác\nVí dụ:\n- mưu mô sâu độc \n - những lời mỉa mai sâu độc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu độc\n- tt. 1. Nham hiểm và độc ác: mưu mô sâu độc. 2. Đau đớn và độc địa: lời châm biếm sâu độc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu độc\n*adj\n-fiendish, wicked"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu độc\n* adj\n- fiendish, wicked"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fiendish, wicked"
+        "dict_definition": "tính toán, thêm bớt một cách không chi li để cho đủ, cho cân đối\nVí dụ:\n- sân siu mỗi người một ít \n - tính sân siu"
       }
     ]
   },
   {
-    "word": "sâu lắng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu sắc và lắng đọng trong lòng\nVí dụ:\n- giọng thơ sâu lắng, thiết tha \n - nơi sâu lắng trong tâm hồn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu lắng\n-Profound, deep-lying"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu lắng\n- Profound, deep-lying"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "profound, deep-lying"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu nổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-estrade"
-      }
-    ]
-  },
-  {
-    "word": "sân sửa chữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bear apron"
-      }
-    ]
-  },
-  {
-    "word": "sân truyền liệu",
+    "word": "sân phối liệu",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -772,155 +1282,56 @@
     ]
   },
   {
-    "word": "sâu cuốn lá",
+    "word": "sân cho súc vật ăn",
     "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu chuyên hại lá cây, thường nhả tơ cuốn lá lại để làm tổ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu cuốn lá\n- Loài sâu bọ ăn hại, nhả tơ cuộn lá lại thành tổ."
-      }
-    ]
-  },
-  {
-    "word": "sâu cay",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đau đớn hoặc làm cho đau đớn thấm thía\nVí dụ:\n- lời châm biếm sâu cay"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu cay\n- t. Đau đớn hoặc làm cho đau đớn thấm thía. Thất bại sâu cay. Lời châm biếm sâu cay."
-      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sâu cay\n*adj\n-bitter"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu cay\n* adj\n- bitter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bitter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-feed lot"
       }
     ]
   },
   {
-    "word": "sân trước nhà thờ",
+    "word": "sân kiểm tra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-observation ground"
+      }
+    ]
+  },
+  {
+    "word": "sân bay thủy phi cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-permanent airport"
+      }
+    ]
+  },
+  {
+    "word": "sân dự trữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
+      }
+    ]
+  },
+  {
+    "word": "sân bay lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-airport"
+      }
+    ]
+  },
+  {
+    "word": "sân trước",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu vòng tròn (xoay quanh phòng khán giả)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ring stage (running around the hall)"
-      }
-    ]
-  },
-  {
-    "word": "sâu rượu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu rượu\n- Người nghiện rượu (thtục)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu rượu\n-(thông tục) Winebibber"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu rượu\n- (thông tục) Winebibber"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "winebibber"
-      }
-    ]
-  },
-  {
-    "word": "sân hòe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân hòe\n-(từ cũ; văn chương) Brothers of the same family"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân hòe\n- (từ cũ; văn chương) Brothers of the same family"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "brothers of the same family"
-      }
-    ]
-  },
-  {
-    "word": "sân vận động",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sân rộng xây dựng theo quy cách nhất định để tập luyện và thi đấu thể dục, thể thao"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân vận động\n- dt. Sân rộng để làm nơi tập luyện và thi đấu thể dục, thể thao: sân vận động Hà Nội."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân vận động\n*noun\n-stadium\n@Chuyên ngành kỹ thuật\n-athletic field\n-bowl\n-sports stadium\n-stadium"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân vận động\n* noun\n- stadium"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "stadium"
-      }
-    ]
-  },
-  {
-    "word": "sân tàu trên phòng thuyền trưởng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-poop"
-      }
-    ]
-  },
-  {
-    "word": "sâu hoắm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu hõm vào, tựa như không thấy đáy, trông có cảm giác sợ\nVí dụ:\n- vết thương sâu hoắm \n - hố bom sâu hoắm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu hoắm\n- Hẹp và có đáy rất xa miệng: Vực sâu hoắm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu hoắm\n-Very deep\n=Vực sâu hoắm\n+A very deep gulf"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu hoắm\n- Very deep\n=Vực sâu hoắm+A very deep gulf"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "very deep"
       }
     ]
   },
@@ -934,11 +1345,99 @@
     ]
   },
   {
-    "word": "sân chơi trung tâm",
+    "word": "sân trời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân trời\n- Nh. Sân gác."
+      }
+    ]
+  },
+  {
+    "word": "sân cưa gỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-central playground"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-saw wield\n@Lĩnh vực: toán & tin\n-saw yield"
+      }
+    ]
+  },
+  {
+    "word": "sân thả gia súc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-feed lot"
+      }
+    ]
+  },
+  {
+    "word": "sân kho củ cải đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-beet storage platform"
+      }
+    ]
+  },
+  {
+    "word": "sân hàng hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-freight shed\n-goods shed"
+      }
+    ]
+  },
+  {
+    "word": "sâu mọt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu và mọt [nói khái quát]; dùng để chỉ những kẻ chuyên đục khoét của dân\nVí dụ:\n- quan lại sâu mọt \n - bọn sâu mọt"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu mọt\n- Kẻ ăn hại xã hội : Bọn cường hào sâu mọt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu mọt\n*noun\n-parasite"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu mọt\n* noun\n- parasite"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "parasite"
+      }
+    ]
+  },
+  {
+    "word": "sân ga",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bay\n-platform\n-station platform"
+      }
+    ]
+  },
+  {
+    "word": "sân trước, hội trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu xiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-circus ring"
       }
     ]
   },
@@ -968,247 +1467,85 @@
     ]
   },
   {
-    "word": "sân hàng hóa",
+    "word": "sân giải trí",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-freight shed\n-goods shed"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-recreation ground"
       }
     ]
   },
   {
-    "word": "sâm thương",
+    "word": "sân bay thường trực",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sâm Thương\n- Theo nhận thức của người xưa, thì sao Sâm ở phương tây sao Thương ở phương đông, sao này lặn sao kia mới mọc. Hai sao này không bao giờ gặp nhau, nên người ta dùng để chỉ cảnh xa cách mỗi người một nơi. Đối chiếu thiên văn học hiện nay đó là hai sao Orion và Scorpion"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâm thương\n- Sao Sâm và sao Thương, hai ngôi sao ở hai chòm khác nhau không bao giờ hiện ra một lúc trên vòm trời. Ngb. Tình trạng hai người ở xa cách nhau và không bao giờ gặp nhau: Sâm thương chẳng hẹn chữ lòng (K)."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-permanent airport"
+      }
+    ]
+  },
+  {
+    "word": "sân quần vợt",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sâm thương\n-Sâm thương đôi ngả\n-Their paths never cross"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tennis-court"
+      }
+    ]
+  },
+  {
+    "word": "sân hòe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân hòe\n-(từ cũ; văn chương) Brothers of the same family"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâm thương\n- Sâm thương đôi ngả\n-Their paths never cross"
-      }
-    ]
-  },
-  {
-    "word": "sân chơi địa phương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-local playground"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu xiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-circus ring"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu có khung kéo phông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-upper gridiron stage"
-      }
-    ]
-  },
-  {
-    "word": "sâm-banh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâm-banh [sâm banh]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "sân trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-campus\n-schoolyard"
+        "dict_definition": "@sân hòe\n- (từ cũ; văn chương) Brothers of the same family"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "schoolyard, playground"
+        "dict_definition": "brothers of the same family"
       }
     ]
   },
   {
-    "word": "sân đốt củi (sưởi)",
+    "word": "sâu bệnh",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
-      }
-    ]
-  },
-  {
-    "word": "sân trình",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sân Trình\n- Sân nhà họ Trình, chỉ trường học nhà Nho\n- Họ Trình tức anh em Trình Hạo và Trình Di là những danh nho và là học trò Chu Đôn Di , nhà Triết học dựng nền Lý học đời Tống. Trình Hạo tự Bá Thuần và em là Trình Di tự Chính Thúc, hiệu Y Xuyên, người Lạc Dương. Trình Hạo chủ về đường cùng Lý, tìm hiểu thấu đáo mọi lẽ, chú các sách Nho Gia và Lục Kinh. Còn Trình Di suốt đời lấy chữ \"Thành\" làm gốc, chủ lấy việc hiểu các lẽ đến cùng, lo trước tác và chú thích kinh truyện, mở trường dạy học trò rất đông. (Tục Thông Chí, quyển 542)\n- Lục Vân Tiên: Tháng ngày bao quản sân Trình lao đao"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu gây bệnh làm hại cây trồng [nói khái quát]\nVí dụ:\n- phun thuốc phòng trừ sâu bệnh"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân Trình\n- Chỉ Trình Hạo và Trình Di, hai nhà Tống nho nổi tiếng"
+        "dict_definition": "@sâu bệnh\n- Sâu sinh ra bệnh của cây cối."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu bệnh\n-Pest, insect\n=Thuốc trừ sâu bệnh\n+Insecticides, perticides\n@Chuyên ngành kinh tế\n-pest"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu bệnh\n- Pest, insect\n=Thuốc trừ sâu bệnh+Insecticides, perticides"
       }
     ]
   },
   {
-    "word": "sân ga lát gỗ",
+    "word": "sân trượt băng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-boarding platform"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ice ring\n-skating rink"
       }
     ]
   },
   {
-    "word": "sân hạ lưu đập tràn",
+    "word": "sâu xám",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spillway downstream apron"
-      }
-    ]
-  },
-  {
-    "word": "sân bay thành phố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-city air terminal"
-      }
-    ]
-  },
-  {
-    "word": "sân thi đấu điền kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic arena"
-      }
-    ]
-  },
-  {
-    "word": "sân trượt băng nghệ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ice rink\n-ice skating rink\n-skating rink"
-      }
-    ]
-  },
-  {
-    "word": "sân ga chọn tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-classification yard\n-marshalling yard\n-shunting yard\n-switching station\n-switchyard"
-      }
-    ]
-  },
-  {
-    "word": "sân chơi cho trẻ em",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-adventure playground"
-      }
-    ]
-  },
-  {
-    "word": "sân vận động trượt băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ice stadium"
-      }
-    ]
-  },
-  {
-    "word": "sân bay địa phương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-local airport"
-      }
-    ]
-  },
-  {
-    "word": "sân thi công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-building yard"
-      }
-    ]
-  },
-  {
-    "word": "sân hố giảm sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-apron\n-stilling basin apron"
-      }
-    ]
-  },
-  {
-    "word": "sân vận động có mái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofed stadium"
-      }
-    ]
-  },
-  {
-    "word": "sân chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-main court"
-      }
-    ]
-  },
-  {
-    "word": "sân bêtông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tarmac"
-      }
-    ]
-  },
-  {
-    "word": "sân lắp ráp (cấu kiện)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-erecting yield"
-      }
-    ]
-  },
-  {
-    "word": "sân băng ngoài trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-open-air ice rink\n-open-air skating rink\n-outdoor ice rink"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu có màu sẫm, ban ngày ở dưới đất, ban đêm lên cắn ngọn và lá cây, chuyên phá hoại hoa màu và cây công nghiệp"
       }
     ]
   },
@@ -1238,156 +1575,38 @@
     ]
   },
   {
-    "word": "sân bay quốc tế",
+    "word": "sân bãi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-international airport"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-place"
       }
     ]
   },
   {
-    "word": "sân đua xe đạp",
+    "word": "sân kho lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cold-storage yard"
       }
     ]
   },
   {
-    "word": "sân phối liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-charge material yard\n-charge preparing shop"
-      }
-    ]
-  },
-  {
-    "word": "sân hạ cánh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-landing area"
-      }
-    ]
-  },
-  {
-    "word": "sân ga hành lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-luggage platform"
-      }
-    ]
-  },
-  {
-    "word": "sân (hố) giảm sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stilling apron"
-      }
-    ]
-  },
-  {
-    "word": "sân nhà",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sân bóng của đội mình, khi thi đấu; phân biệt với sân khách\nVí dụ:\n- lợi thế sân nhà \n - để thua ngay trên sân nhà"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "yard (of a house)"
-      }
-    ]
-  },
-  {
-    "word": "sâm banh hoa hồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pink champagne"
-      }
-    ]
-  },
-  {
-    "word": "sâu gai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu mình có gai, chuyên cắn phá lá lúa"
-      }
-    ]
-  },
-  {
-    "word": "sân bay chuyển tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-intermediate airdrome"
-      }
-    ]
-  },
-  {
-    "word": "sân bay trực thăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-permanent airport"
-      }
-    ]
-  },
-  {
-    "word": "sân trong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-inside court\n@Chuyên ngành kỹ thuật\n-area\n-cortile\n-interior yard\n@Lĩnh vực: xây dựng\n-patio"
-      }
-    ]
-  },
-  {
-    "word": "sân hoè",
+    "word": "sân lai sáu kỷ",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sân Hoè\n- Sân có trồng cây Hoè, chỉ nhà có con cái hiển đạt\n- Tống sử: Vương Hộ đời Tống, văn chương nổi tiếng một thời, ông tự tay trồng 3 cây Hoè ở s6n nhà và nói: \"Con cháu ta tất có người làm đến tam công, 3 cây hoè này nêu chí của ta.\" Vềứ sau, người con thứ của ông là Vương Đáo làm quan đến chức Tể tướng. Thiên hạ gọi là \"Tam hoè vương thị\" (3 cây hoè nhà họ Vương)\n- Nhân đó, người ta cũng dùng chữ này để chỉ nhà có con cái hiển đạt"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân hoè\n- Từ dùng trong văn học cũ để chỉ anh em trong nhà: Sân hòe đôi chút thơ ngây (K)."
+        "dict_definition": "@sân lai sáu kỷ\n- ý nói làm vui lòng cha mẹ theo chuyện ông lão Lai tuổi già 72 còn cha mẹ, ông thường mặc áo ngũ sắc như áo trẻ con rồi gánh nước đùa chơi té ngã làm cho cha mẹ vui quên tuổi già. Song huỳnh mười thu: ý nói công phu mười năm rèn luyện học tập"
       }
     ]
   },
   {
-    "word": "sân",
+    "word": "sâu dâu",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng đất trống, bằng phẳng thường ở ngay trước cửa nhà\nVí dụ:\n- bọn trẻ chơi ngoài sân \n - sân đình \n - phơi thóc ở sân kho"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng đất phẳng có kích thước và những thiết bị nhất định, dùng để chơi một số môn thể thao\nVí dụ:\n- sân bóng \n - sân tennis \n - cầu thủ phạm lỗi bị đuổi ra khỏi sân"
-      },
-      {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân\n- dt 1. Khoảng đất trống ở trước hay sau nhà để phơi phóng hoặc để trẻ con chơi: Bà cụ già lại bế cháu ra sân (Ng-hồng). 2. Khoảng đất rộng để chơi thể thao: Sân vận động."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân\n*noun\n-yard, courtyard, court\n-ground, course\n@Chuyên ngành kinh tế\n-field\n-patio\n@Chuyên ngành kỹ thuật\n-court (-yard)\n-curtilage\n-landing\n-platform\n-stage\n-ward\n-yark\n@Lĩnh vực: xây dựng\n-yard"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân\n* noun\n- yard, courtyard, court\n- ground, course"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "yard, courtyard, lot"
+        "dict_definition": "@sâu dâu\n- Loài sâu đục thân cây dâu, có thể dùng làm thuốc."
       }
     ]
   },
@@ -1413,131 +1632,191 @@
     ]
   },
   {
-    "word": "sân phơi cà phê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-coffee drying patio\n-terrace coffee drying terrace"
-      }
-    ]
-  },
-  {
-    "word": "sân đánh quần vợt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tennis court"
-      }
-    ]
-  },
-  {
-    "word": "sân đào",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân đào\n- sân họ Đào tức là Đào Tiềm, đời nhà Tấn, một nhà thơ làm tri huyện treo ấn từ quan về nơi vườn ruộng, có làm bài thơ \"Qui khứ lai từ\" (Đi về) nổi tiếng"
-      }
-    ]
-  },
-  {
-    "word": "sân phơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân phơi\n-Drying ground"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân phơi\n- Drying ground"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "drying ground"
-      }
-    ]
-  },
-  {
-    "word": "sân ga xếp dỡ hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-loading and unloading ramp"
-      }
-    ]
-  },
-  {
-    "word": "sân ga hành khách (nhà ga)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-passenger platform"
-      }
-    ]
-  },
-  {
-    "word": "sân điền kinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic field"
-      }
-    ]
-  },
-  {
-    "word": "sân đập lúa cơ khí hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mechanized barn yard"
-      }
-    ]
-  },
-  {
-    "word": "sâu đục thân",
+    "word": "sâu đậm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu chuyên đục phía trong thân cây"
+        "dict_definition": "sâu sắc và đậm đà\nVí dụ:\n- ân tình sâu đậm \n - để lại dấu ấn sâu đậm"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-anobium borer"
+        "dict_definition": "@sâu đậm\n-Deepfelt, profound\n=Tình cảm sâu đậm\n+Deepfelt sentiments, deepfelt feelings"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu đậm\n- Deepfelt, profound\n=Tình cảm sâu đậm+Deepfelt sentiments, deepfelt feelings"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "strong; bold (type)"
       }
     ]
   },
   {
-    "word": "sân bay lên thẳng",
+    "word": "sân trượt patanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-helicopter ground\n-helicopter platform\n@Lĩnh vực: xây dựng\n-heliport"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roller skating-rink\n-roller-skating hall"
       }
     ]
   },
   {
-    "word": "sân ngô",
+    "word": "sân bay nhiều đường băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multirunway airfield"
+      }
+    ]
+  },
+  {
+    "word": "sâu cắn gié",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu màu nâu, cánh có hai vệt tròn, chuyên cắn đứt gốc bông lúa và lá lúa"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu bệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-platform stage"
+      }
+    ]
+  },
+  {
+    "word": "sân vật tư xây dựng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-contractor\"s yard"
+      }
+    ]
+  },
+  {
+    "word": "sân bay cấp vùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-regional airport"
+      }
+    ]
+  },
+  {
+    "word": "sân bay một đường băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-one-strip airfield"
+      }
+    ]
+  },
+  {
+    "word": "sân phơi nắng (điều trị)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-switchgear"
+      }
+    ]
+  },
+  {
+    "word": "sân trong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-inside court\n@Chuyên ngành kỹ thuật\n-area\n-cortile\n-interior yard\n@Lĩnh vực: xây dựng\n-patio"
+      }
+    ]
+  },
+  {
+    "word": "sâu cay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đau đớn hoặc làm cho đau đớn thấm thía\nVí dụ:\n- lời châm biếm sâu cay"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu cay\n- t. Đau đớn hoặc làm cho đau đớn thấm thía. Thất bại sâu cay. Lời châm biếm sâu cay."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu cay\n*adj\n-bitter"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu cay\n* adj\n- bitter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bitter"
+      }
+    ]
+  },
+  {
+    "word": "sâu hiểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu hiểm\n-Devilish"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu hiểm\n- Devilish"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "devilish"
+      }
+    ]
+  },
+  {
+    "word": "sân bay nội thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-metroport"
+      }
+    ]
+  },
+  {
+    "word": "sân buồng âu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-floor\n@Lĩnh vực: cơ khí & công trình\n-lock floor"
+      }
+    ]
+  },
+  {
+    "word": "sân bên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-side yard"
+      }
+    ]
+  },
+  {
+    "word": "sân đốt củi (sưởi)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
+      }
+    ]
+  },
+  {
+    "word": "sâng",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân ngô\n- sân giồng cây ngô đồng"
-      }
-    ]
-  },
-  {
-    "word": "sân ga nâng cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-elevated platform"
-      }
-    ]
-  },
-  {
-    "word": "sân giảm sức dốc lên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-upturned apron"
+        "dict_definition": "@sâng\n- d. Loài cây cùng họ với bồ hòn, cho gỗ loại vừa."
       }
     ]
   },
@@ -1567,6 +1846,72 @@
     ]
   },
   {
+    "word": "sâm thương",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sâm Thương\n- Theo nhận thức của người xưa, thì sao Sâm ở phương tây sao Thương ở phương đông, sao này lặn sao kia mới mọc. Hai sao này không bao giờ gặp nhau, nên người ta dùng để chỉ cảnh xa cách mỗi người một nơi. Đối chiếu thiên văn học hiện nay đó là hai sao Orion và Scorpion"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâm thương\n- Sao Sâm và sao Thương, hai ngôi sao ở hai chòm khác nhau không bao giờ hiện ra một lúc trên vòm trời. Ngb. Tình trạng hai người ở xa cách nhau và không bao giờ gặp nhau: Sâm thương chẳng hẹn chữ lòng (K)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâm thương\n-Sâm thương đôi ngả\n-Their paths never cross"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâm thương\n- Sâm thương đôi ngả\n-Their paths never cross"
+      }
+    ]
+  },
+  {
+    "word": "sân trượt giày bánh (xe)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roller skating-rink\n-roller-skating hall"
+      }
+    ]
+  },
+  {
+    "word": "sân chơi địa phương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-local playground"
+      }
+    ]
+  },
+  {
+    "word": "sân chơi (của trẻ em)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-playing field"
+      }
+    ]
+  },
+  {
+    "word": "sân (hố) giảm sức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-stilling apron"
+      }
+    ]
+  },
+  {
+    "word": "sân chơi trung tâm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-central playground"
+      }
+    ]
+  },
+  {
     "word": "sân rồng",
     "definitions": [
       {
@@ -1588,169 +1933,11 @@
     ]
   },
   {
-    "word": "sân trẻ con chơi",
+    "word": "sân điều trị bằng khí hậu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-children playground"
-      }
-    ]
-  },
-  {
-    "word": "sân nuôi gà vịt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-hennery"
-      }
-    ]
-  },
-  {
-    "word": "sân trong (nhà ở tây ban nha)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-patio"
-      }
-    ]
-  },
-  {
-    "word": "sâu keo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu ban ngày ẩn ở dưới đất, đêm lên mặt đất phá hoại lúa và một số hoa màu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu keo\n- Sâu của một loài bướm, màu xanh lục, có một sọc xanh chạy dọc giữa lưng, ăn hại lúa."
-      }
-    ]
-  },
-  {
-    "word": "sân quần vợt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tennis-court"
-      }
-    ]
-  },
-  {
-    "word": "sâm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tên gọi chung một số cây có củ và rễ dùng làm thuốc bổ, như nhân sâm, đảng sâm, v.v."
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâm\n- d. Từ chung chỉ một số rễ và củ dùng làm thuốc bổ : Sâm Triều Tiên ; Sâm nhị hồng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâm\n*noun\n-ginseng"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâm\n* noun\n- ginseng"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ginseng"
-      }
-    ]
-  },
-  {
-    "word": "sân thể thao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-arena\n-athletic field\n-playground\n-sports ground\n-sports stadium"
-      }
-    ]
-  },
-  {
-    "word": "sân trượt băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ice ring\n-skating rink"
-      }
-    ]
-  },
-  {
-    "word": "sân đá bóng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "football, soccer field"
-      }
-    ]
-  },
-  {
-    "word": "sân bốc hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-loading dock"
-      }
-    ]
-  },
-  {
-    "word": "sân cưa gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-saw wield\n@Lĩnh vực: toán & tin\n-saw yield"
-      }
-    ]
-  },
-  {
-    "word": "sân banh",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "soccer, football field"
-      }
-    ]
-  },
-  {
-    "word": "sân kiểm tra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-observation ground"
-      }
-    ]
-  },
-  {
-    "word": "sâm sẩm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[trời] vừa mới bắt đầu tối\nVí dụ:\n- trời vừa sâm sẩm \n - sâm sẩm tối"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâm sẩm\n- Vừa mới tối: Trời mới sâm sẩm gà đã lên chuồng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâm sẩm\n-xem sẩm (láy)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâm sẩm\n- xem sẩm (láy)"
-      }
-    ]
-  },
-  {
-    "word": "sân ở phía trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-front yard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
       }
     ]
   },
@@ -1780,11 +1967,309 @@
     ]
   },
   {
-    "word": "sân khấu hở",
+    "word": "sân bay (của) nhà máy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open stage (surrounded by audience on three sides)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plant airfield"
+      }
+    ]
+  },
+  {
+    "word": "sân vui chơi (trường học)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-play ground"
+      }
+    ]
+  },
+  {
+    "word": "sân ghép nối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-jointing yard"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu quay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rotary stage"
+      }
+    ]
+  },
+  {
+    "word": "sân trước nhà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
+      }
+    ]
+  },
+  {
+    "word": "sâu keo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu ban ngày ẩn ở dưới đất, đêm lên mặt đất phá hoại lúa và một số hoa màu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu keo\n- Sâu của một loài bướm, màu xanh lục, có một sọc xanh chạy dọc giữa lưng, ăn hại lúa."
+      }
+    ]
+  },
+  {
+    "word": "sâu đo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu di chuyển bằng cách gập cong mình lại rồi duỗi dài ra liên tiếp [giống như người ta đo gang tay]"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâu đo\n- Loài sâu màu xanh lục, khi đi thì co mình lại và duỗi ra mà vươn lên như bàn tay cử động khi đo một chiều dài."
+      }
+    ]
+  },
+  {
+    "word": "sâm khoé",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sâm Khoé\n- (xã) h. mai Châu, t. Hoà Bình"
+      }
+    ]
+  },
+  {
+    "word": "sân trọng lực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravity yard"
+      }
+    ]
+  },
+  {
+    "word": "sân thi công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-building yard"
+      }
+    ]
+  },
+  {
+    "word": "sân đá bóng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "football, soccer field"
+      }
+    ]
+  },
+  {
+    "word": "sâm nghiêm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâm nghiêm\n- Im lặng và nghiêm trang (cũ): Nhà cửa sâm nghiêm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâm nghiêm\n-(từ cũ) Decorous and quiet\n=Nhà cửa sâm nghiêm\n+Decorous and quiet house"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâm nghiêm\n- (từ cũ) Decorous and quiet\n=Nhà cửa sâm nghiêm+Decorous and quiet house"
+      }
+    ]
+  },
+  {
+    "word": "sâu gai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu mình có gai, chuyên cắn phá lá lúa"
+      }
+    ]
+  },
+  {
+    "word": "sân điền kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic field"
+      }
+    ]
+  },
+  {
+    "word": "sân làm việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-working site"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu ngoài trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open-air stage"
+      }
+    ]
+  },
+  {
+    "word": "sân thi đấu thể thao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-athletic field"
+      }
+    ]
+  },
+  {
+    "word": "sân banh",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "soccer, football field"
+      }
+    ]
+  },
+  {
+    "word": "sân bốc hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-loading dock"
+      }
+    ]
+  },
+  {
+    "word": "sân trượt băng nghệ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ice rink\n-ice skating rink\n-skating rink"
+      }
+    ]
+  },
+  {
+    "word": "sân băng ngoài trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-open-air ice rink\n-open-air skating rink\n-outdoor ice rink"
+      }
+    ]
+  },
+  {
+    "word": "sâu hại gỗ (mối, mọt...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood vermin"
+      }
+    ]
+  },
+  {
+    "word": "sân đổ khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
+      }
+    ]
+  },
+  {
+    "word": "sân phơi gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-switchgear"
+      }
+    ]
+  },
+  {
+    "word": "sân ga hành khách",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-passenger platform"
+      }
+    ]
+  },
+  {
+    "word": "sân bảo vệ bằng gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-wooden protection apron"
+      }
+    ]
+  },
+  {
+    "word": "sân trẻ con chơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-children playground"
+      }
+    ]
+  },
+  {
+    "word": "sân bóng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân bóng\n- dt. Sân để chơi bóng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân bóng\n*noun\n-football ground, pitch"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân bóng\n* noun\n-football ground, pitch"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "football ground, pitch"
+      }
+    ]
+  },
+  {
+    "word": "sân hàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-freight yard"
+      }
+    ]
+  },
+  {
+    "word": "sân xếp tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cargo loading yard"
+      }
+    ]
+  },
+  {
+    "word": "sân khấu nổi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-estrade"
       }
     ]
   },
@@ -1822,265 +2307,16 @@
     ]
   },
   {
-    "word": "sân giải trí",
+    "word": "sân tàu trên phòng thuyền trưởng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-recreation ground"
+        "dict_definition": "@Chuyên ngành kinh tế\n-poop"
       }
     ]
   },
   {
-    "word": "sân bay của nhà máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-factory airfield"
-      }
-    ]
-  },
-  {
-    "word": "sân làm việc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-working site"
-      }
-    ]
-  },
-  {
-    "word": "sân ngoài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-exterior yard\n-outer court"
-      }
-    ]
-  },
-  {
-    "word": "sân đậu xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-parking lot"
-      }
-    ]
-  },
-  {
-    "word": "sân cho súc vật ăn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-feed lot"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu ngoài trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-open-air stage"
-      }
-    ]
-  },
-  {
-    "word": "sân bay vũ trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cosmodrome\n-spaceport"
-      }
-    ]
-  },
-  {
-    "word": "sân gỗ giảm sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-timber apron"
-      }
-    ]
-  },
-  {
-    "word": "sâm banh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rượu vang trắng, có nhiều bọt, thường dùng để chúc tụng trong các dịp vui mừng\nVí dụ:\n- uống sâm banh \n - khai vị bằng sâm banh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâm banh\n- x. sâmbanh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâm banh\n*noun\n-champagne"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâm banh\n* noun\n-champagne"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "champagne"
-      }
-    ]
-  },
-  {
-    "word": "sâm nhung",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâm và nhung, những vị thuốc bổ rất quý trong đông y [nói khái quát]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâm nhung\n- Sâm và nhung, hai thứ thuốc bổ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâm nhung\n-Ginseng and buidding antler; strong tonics"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâm nhung\n- Ginseng and buidding antler; strong tonics"
-      }
-    ]
-  },
-  {
-    "word": "sân (trượt) băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-skating-rink"
-      }
-    ]
-  },
-  {
-    "word": "sâu bọ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem côn trùng\nVí dụ:\n- diệt trừ sâu bọ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu bọ\n- Cg. Côn trùng. Tên gọi một lớp tiết túc thở bằng khí quản, cơ thể chia làm ba phần là đầu, ngực và bụng, có ba đôi chân và thường có hai đôi cánh. Giết sâu bọ. Tục ăn hoa quả điểm tâm vào sáng hôm tết Đoan ngọ, ngày mồng năm tháng nNăm âm lịch, nói là để giết sâu bọ trong cơ thể."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu bọ\n-Insect*Syn\n-cũng như côn trùng"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu bọ\n- Insect\n#Syn\n- cũng như côn trùng"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "insect"
-      }
-    ]
-  },
-  {
-    "word": "sâm si",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâm si\n- Chênh lệch chút ít: Giá gạo các nơi sâm si nhau."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâm si\n-Be slightly different, differ slightly\n=Giá gạo các nơi sâm si nhau\n+The prices of rice in various places differ slightly"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâm si\n- Be slightly different, differ slightly\n=Giá gạo các nơi sâm si nhau+The prices of rice in various places differ slightly"
-      }
-    ]
-  },
-  {
-    "word": "sân bay một đường băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-one-strip airfield"
-      }
-    ]
-  },
-  {
-    "word": "sân đón nắng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
-      }
-    ]
-  },
-  {
-    "word": "sâu nặng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[tình cảm] sâu sắc, không thể quên\nVí dụ:\n- gắn bó sâu nặng \n - tình cảm sâu nặng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu nặng\n-Deep, deep-rooted\n=Tình cảm sâu nặng\n+Deep-rooted feelings, deep-rooted sentiments"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu nặng\n- Deep, deep-rooted\n=Tình cảm sâu nặng+Deep-rooted feelings, deep-rooted sentiments"
-      }
-    ]
-  },
-  {
-    "word": "sân đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
-      }
-    ]
-  },
-  {
-    "word": "sân nhượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-terrace"
-      }
-    ]
-  },
-  {
-    "word": "sân đập búa cơ khí hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mechanized thrashing floor"
-      }
-    ]
-  },
-  {
-    "word": "sân đường kinh nhẹ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
-      }
-    ]
-  },
-  {
-    "word": "sân đổ khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
-      }
-    ]
-  },
-  {
-    "word": "sân trước, hội trường",
+    "word": "sân trước nhà thờ",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -2089,38 +2325,129 @@
     ]
   },
   {
-    "word": "sân sau đập tràn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-spillway apron"
-      }
-    ]
-  },
-  {
-    "word": "sâu cắn gié",
+    "word": "sân bay",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu màu nâu, cánh có hai vệt tròn, chuyên cắn đứt gốc bông lúa và lá lúa"
+        "dict_definition": "bãi rộng có thiết bị chuyên dùng để máy bay đỗ và lên xuống"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân bay\n- Khoảng đất phẳng có đường băng và các thiết bị cần cho máy bay cất cánh và hạ cánh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân bay\n*noun\n-airport\n@Chuyên ngành kinh tế\n-airport\n@Chuyên ngành kỹ thuật\n-aerodrome\n-aeroport\n-airdrome\n-airfield\n-airport\n-drome\n-field\n-flying field\n-landing field\n-landing place"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân bay\n* noun\n- airport"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "airport, airfield, airstrip"
       }
     ]
   },
   {
-    "word": "sân khấu bệ",
+    "word": "sâm banh hoa hồng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-platform stage"
+        "dict_definition": "@Chuyên ngành kinh tế\n-pink champagne"
       }
     ]
   },
   {
-    "word": "sâu vòi voi",
+    "word": "sân trong (nhà kiểu tây ban nha)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-patio"
+      }
+    ]
+  },
+  {
+    "word": "sân",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bọ cánh cứng, đầu nhô dài ra trước như cái vòi voi, thường cắn phá cây cối"
+        "dict_definition": "khoảng đất trống, bằng phẳng thường ở ngay trước cửa nhà\nVí dụ:\n- bọn trẻ chơi ngoài sân \n - sân đình \n - phơi thóc ở sân kho"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng đất phẳng có kích thước và những thiết bị nhất định, dùng để chơi một số môn thể thao\nVí dụ:\n- sân bóng \n - sân tennis \n - cầu thủ phạm lỗi bị đuổi ra khỏi sân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân\n- dt 1. Khoảng đất trống ở trước hay sau nhà để phơi phóng hoặc để trẻ con chơi: Bà cụ già lại bế cháu ra sân (Ng-hồng). 2. Khoảng đất rộng để chơi thể thao: Sân vận động."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân\n*noun\n-yard, courtyard, court\n-ground, course\n@Chuyên ngành kinh tế\n-field\n-patio\n@Chuyên ngành kỹ thuật\n-court (-yard)\n-curtilage\n-landing\n-platform\n-stage\n-ward\n-yark\n@Lĩnh vực: xây dựng\n-yard"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân\n* noun\n- yard, courtyard, court\n- ground, course"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "yard, courtyard, lot"
+      }
+    ]
+  },
+  {
+    "word": "sâu lắng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sâu sắc và lắng đọng trong lòng\nVí dụ:\n- giọng thơ sâu lắng, thiết tha \n - nơi sâu lắng trong tâm hồn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâu lắng\n-Profound, deep-lying"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâu lắng\n- Profound, deep-lying"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "profound, deep-lying"
+      }
+    ]
+  },
+  {
+    "word": "sân vận động có mái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofed stadium"
+      }
+    ]
+  },
+  {
+    "word": "sân lai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sân Lai\n- Sân nhà lão Lai Tử, chỉ nhà cha mẹ\n- Hiếu tử truyện: Lão Lai Tử thờ cha mẹ rất có hiếu. Năm 70 tuổi ông vẫn còn bày trò chơi trẻ con: Bận áo 5 sắc màu sặc sỡ nhảy múa trước sân rồi vờ ngã, khóc như trẻ con để mua vui cho cha mẹ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân lai\n- Từ dùng trong văn học cũ để chỉ cha mẹ: Sân lai cách mấy nắng mưa (K)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sân lai\n-(từ cũ; văn chương) Parents"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân lai\n- (từ cũ; văn chương) Parents"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "parents"
       }
     ]
   },
@@ -2134,202 +2461,123 @@
     ]
   },
   {
-    "word": "sân chơi (của trẻ em)",
+    "word": "sân có hố giảm sức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-playing field"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-baffled apron"
       }
     ]
   },
   {
-    "word": "sân trượt giày bánh (xe)",
+    "word": "sân trình cửa khổng",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roller skating-rink\n-roller-skating hall"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân trình cửa khổng\n- X. Cửa khổng."
       }
     ]
   },
   {
-    "word": "sân nuôi gia súc non",
+    "word": "sân đua xe đạp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cubs playground\n-playground for baby animals"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
       }
     ]
   },
   {
-    "word": "sây",
+    "word": "sâm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cây] sai [hoa, quả]\nVí dụ:\n- cây sây trái"
+        "dict_definition": "tên gọi chung một số cây có củ và rễ dùng làm thuốc bổ, như nhân sâm, đảng sâm, v.v."
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sây\n- t. Cg. Sây sát. Hơi sầy da."
-      }
-    ]
-  },
-  {
-    "word": "sân bay (thuộc) câu lạc bộ thể thao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sports club airfield"
-      }
-    ]
-  },
-  {
-    "word": "sân phơi nắng (điều trị)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-switchgear"
-      }
-    ]
-  },
-  {
-    "word": "sân xếp tải",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cargo loading yard"
-      }
-    ]
-  },
-  {
-    "word": "sân kho củ cải đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-beet storage platform"
-      }
-    ]
-  },
-  {
-    "word": "sân hàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-freight yard"
-      }
-    ]
-  },
-  {
-    "word": "sân ga hành khách",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-passenger platform"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu bục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-platform stage"
-      }
-    ]
-  },
-  {
-    "word": "sân bay vận tải hàng hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cargo airport"
-      }
-    ]
-  },
-  {
-    "word": "sân thượng lưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-upstream apron\n-upstream floor"
-      }
-    ]
-  },
-  {
-    "word": "sây sát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bị sầy, xước nhiều chỗ\nVí dụ:\n- mình mẩy sây sát \n - mặt bàn có nhiều vết sây sát"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sây sát\n- tt 1. Xước ngoài da: Tôi chỉ đau mà không sây sát tí gì (Tô-hoài). 2. Lở ra ít nhiều: Tường bị sây sát."
+        "dict_definition": "@sâm\n- d. Từ chung chỉ một số rễ và củ dùng làm thuốc bổ : Sâm Triều Tiên ; Sâm nhị hồng."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sây sát\n*adj\n-abraded, scraped, scratched"
+        "dict_definition": "@sâm\n*noun\n-ginseng"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sây sát\n* adj\n- abraded, scraped, scratched"
+        "dict_definition": "@sâm\n* noun\n- ginseng"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "abraded, scraped, scratched"
+        "dict_definition": "ginseng"
       }
     ]
   },
   {
-    "word": "sâu vừa",
+    "word": "sân bay lên thẳng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hypabyssal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-helicopter ground\n-helicopter platform\n@Lĩnh vực: xây dựng\n-heliport"
       }
     ]
   },
   {
-    "word": "sân dữ trữ",
+    "word": "sân phong",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sân Phong\n- Xem Phong thu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân phong\n- chỉ sân chầu vua nơi ấy có giồng cây phong, tựa cây bàng. Ngày xưa cung điện nhà Hán hay trồng cây phong, nên người ta thường gọi sân cung điện là sân phong"
+      }
+    ]
+  },
+  {
+    "word": "sân bêtông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-reserve yard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tarmac"
       }
     ]
   },
   {
-    "word": "sân tiếp nhận",
+    "word": "sâu phẩm, sâu yên chi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-landing stage"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cochineal"
       }
     ]
   },
   {
-    "word": "sân tập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ribbed floor"
-      }
-    ]
-  },
-  {
-    "word": "sân khách",
+    "word": "sân chơi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sân bóng của đội đối phương, khi đội mình đến đó để thi đấu; phân biệt với sân nhà\nVí dụ:\n- đá trên sân khách"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu quay",
-    "definitions": [
+        "dict_definition": "hoạt động hoặc nơi diễn ra các hoạt động được coi như một trò chơi, có tác dụng giải trí\nVí dụ:\n- sân chơi âm nhạc \n - các sân chơi trên truyền hình"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "môi trường diễn ra một hoạt động kinh tế, xã hội nào đó thường có tính cạnh tranh\nVí dụ:\n- tạo sân chơi bình đẳng giữa các thành phần kinh tế"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sân chơi\n- Sân của nhà trường để học sinh chơi trong giờ nghỉ."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rotary stage"
+        "dict_definition": "@sân chơi\n-Playground\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plavground\n-playground"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sân chơi\n- Playground"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "playground"
       }
     ]
   },
@@ -2343,149 +2591,15 @@
     ]
   },
   {
-    "word": "sân ghép nối",
+    "word": "sân trường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-jointing yard"
-      }
-    ]
-  },
-  {
-    "word": "sân ga",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bay\n-platform\n-station platform"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu không khung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-deep stage with out portal"
-      }
-    ]
-  },
-  {
-    "word": "sân trọng lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravity yard"
-      }
-    ]
-  },
-  {
-    "word": "sâu dưới nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bathypelagic"
-      }
-    ]
-  },
-  {
-    "word": "sâm banh sữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-milk champagne"
-      }
-    ]
-  },
-  {
-    "word": "sân sướng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân sướng\n- Sân nhà nói chung: Sân sướng nhiều rác rưởi quá."
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-campus\n-schoolyard"
       },
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@sân sướng\n-Yard (nói chung)\n=Sân sướng nhiều rác rưởi quá\n+There is too much rubish in the yard"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sân sướng\n- Yard (nói chung)\n=Sân sướng nhiều rác rưởi quá+There is too much rubish in the yard"
-      }
-    ]
-  },
-  {
-    "word": "sâu đo",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu di chuyển bằng cách gập cong mình lại rồi duỗi dài ra liên tiếp [giống như người ta đo gang tay]"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu đo\n- Loài sâu màu xanh lục, khi đi thì co mình lại và duỗi ra mà vươn lên như bàn tay cử động khi đo một chiều dài."
-      }
-    ]
-  },
-  {
-    "word": "sân xếp đống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bulk load platform"
-      }
-    ]
-  },
-  {
-    "word": "sân bay nội thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-metroport"
-      }
-    ]
-  },
-  {
-    "word": "sân kho lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cold-storage yard"
-      }
-    ]
-  },
-  {
-    "word": "sân trời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân trời\n- Nh. Sân gác."
-      }
-    ]
-  },
-  {
-    "word": "sân bay nhiều đường băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multirunway airfield"
-      }
-    ]
-  },
-  {
-    "word": "sân trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
-      }
-    ]
-  },
-  {
-    "word": "sân điều trị bằng khí hậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
+        "dict_name": "VNEDICT",
+        "dict_definition": "schoolyard, playground"
       }
     ]
   },
@@ -2499,130 +2613,20 @@
     ]
   },
   {
-    "word": "sân thải liệu",
+    "word": "sân thượng lưu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-discharging site\n-unloading area\n-unloading platform"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-upstream apron\n-upstream floor"
       }
     ]
   },
   {
-    "word": "sân trượt patanh",
+    "word": "sân khấu toàn cảnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roller skating-rink\n-roller-skating hall"
-      }
-    ]
-  },
-  {
-    "word": "sân chơi khu vực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-district playground\n-local playground"
-      }
-    ]
-  },
-  {
-    "word": "sân bay chính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-base airdrome\n-base airport"
-      }
-    ]
-  },
-  {
-    "word": "sâu bệnh",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu gây bệnh làm hại cây trồng [nói khái quát]\nVí dụ:\n- phun thuốc phòng trừ sâu bệnh"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu bệnh\n- Sâu sinh ra bệnh của cây cối."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu bệnh\n-Pest, insect\n=Thuốc trừ sâu bệnh\n+Insecticides, perticides\n@Chuyên ngành kinh tế\n-pest"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu bệnh\n- Pest, insect\n=Thuốc trừ sâu bệnh+Insecticides, perticides"
-      }
-    ]
-  },
-  {
-    "word": "sâu quảng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bệnh loét sâu ở chân do vi khuẩn ăn vào phần mềm, khó lành"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu quảng\n- Bệnh lở loét ở chân, ăn sâu vào thịt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu quảng\n-Phagedaena\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-phagedena"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu quảng\n- Phagedaena"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "phagedaena"
-      }
-    ]
-  },
-  {
-    "word": "sâu đậm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu sắc và đậm đà\nVí dụ:\n- ân tình sâu đậm \n - để lại dấu ấn sâu đậm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu đậm\n-Deepfelt, profound\n=Tình cảm sâu đậm\n+Deepfelt sentiments, deepfelt feelings"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu đậm\n- Deepfelt, profound\n=Tình cảm sâu đậm+Deepfelt sentiments, deepfelt feelings"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "strong; bold (type)"
-      }
-    ]
-  },
-  {
-    "word": "sâu róm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sâu có lông rậm, tiết chất gây ngứa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâu róm\n- d. Sâu có lông rậm, tiết chất làm ngứa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu róm\n*noun\n-caterpillar"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu róm\n* noun\n- caterpillar"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "caterpillar"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-panorama stage"
       }
     ]
   },
@@ -2652,20 +2656,180 @@
     ]
   },
   {
-    "word": "sân phơi gạch",
+    "word": "sân giảm sức dốc lên",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-switchgear"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-upturned apron"
       }
     ]
   },
   {
-    "word": "sân bên",
+    "word": "sân chơi cho trẻ em",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-side yard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-adventure playground"
+      }
+    ]
+  },
+  {
+    "word": "sâm sẩm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[trời] vừa mới bắt đầu tối\nVí dụ:\n- trời vừa sâm sẩm \n - sâm sẩm tối"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sâm sẩm\n- Vừa mới tối: Trời mới sâm sẩm gà đã lên chuồng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sâm sẩm\n-xem sẩm (láy)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sâm sẩm\n- xem sẩm (láy)"
+      }
+    ]
+  },
+  {
+    "word": "sâm banh ngọt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sweet champagne"
+      }
+    ]
+  },
+  {
+    "word": "sân lắp ráp (cấu kiện)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-erecting yield"
+      }
+    ]
+  },
+  {
+    "word": "sân ga chọn tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-classification yard\n-marshalling yard\n-shunting yard\n-switching station\n-switchyard"
+      }
+    ]
+  },
+  {
+    "word": "sân bay thương mại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-commercial airport"
+      }
+    ]
+  },
+  {
+    "word": "sân hạ cánh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-landing area"
+      }
+    ]
+  },
+  {
+    "word": "sân bay vận tải hàng hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cargo airport"
+      }
+    ]
+  },
+  {
+    "word": "sân đường kinh nhẹ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
+      }
+    ]
+  },
+  {
+    "word": "sân sau hố giảm sức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bear apron"
+      }
+    ]
+  },
+  {
+    "word": "sân bay thành phố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-city air terminal"
+      }
+    ]
+  },
+  {
+    "word": "sân ga nâng cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-elevated platform"
+      }
+    ]
+  },
+  {
+    "word": "sân thể thao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-arena\n-athletic field\n-playground\n-sports ground\n-sports stadium"
+      }
+    ]
+  },
+  {
+    "word": "sân bay (thuộc) câu lạc bộ thể thao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sports club airfield"
+      }
+    ]
+  },
+  {
+    "word": "sân ở phía trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-front yard"
+      }
+    ]
+  },
+  {
+    "word": "sây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cây] sai [hoa, quả]\nVí dụ:\n- cây sây trái"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sây\n- t. Cg. Sây sát. Hơi sầy da."
+      }
+    ]
+  },
+  {
+    "word": "sân giảm sức dốc xuống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inclined apron"
       }
     ]
   },
@@ -2691,157 +2855,20 @@
     ]
   },
   {
-    "word": "sâu hại gỗ (mối, mọt...)",
+    "word": "sân con (trước nhà)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood vermin"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-curtilage"
       }
     ]
   },
   {
-    "word": "sân bay (của) nhà máy",
+    "word": "sân đập búa cơ khí hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plant airfield"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu hộp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-box-type stage\n-deep stage"
-      }
-    ]
-  },
-  {
-    "word": "sân khấu toàn cảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-panorama stage"
-      }
-    ]
-  },
-  {
-    "word": "sân giảm sức dốc xuống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inclined apron"
-      }
-    ]
-  },
-  {
-    "word": "sân đỗ xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-climate curative veranda"
-      }
-    ]
-  },
-  {
-    "word": "sân vật tư xây dựng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-contractor\"s yard"
-      }
-    ]
-  },
-  {
-    "word": "sâu hiểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâu hiểm\n-Devilish"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâu hiểm\n- Devilish"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "devilish"
-      }
-    ]
-  },
-  {
-    "word": "sâm nghiêm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sâm nghiêm\n- Im lặng và nghiêm trang (cũ): Nhà cửa sâm nghiêm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sâm nghiêm\n-(từ cũ) Decorous and quiet\n=Nhà cửa sâm nghiêm\n+Decorous and quiet house"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sâm nghiêm\n- (từ cũ) Decorous and quiet\n=Nhà cửa sâm nghiêm+Decorous and quiet house"
-      }
-    ]
-  },
-  {
-    "word": "sân kho",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-household yard\n-reserve area\n-reserve yard\n-reserved area\n-storage wield"
-      }
-    ]
-  },
-  {
-    "word": "sân trượt băng nhân tạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-artificial ice\n-artificial ice rink\n-artificial ice-ring\n-artificial skating rink\n-manufactured ice"
-      }
-    ]
-  },
-  {
-    "word": "sân phong",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sân Phong\n- Xem Phong thu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sân phong\n- chỉ sân chầu vua nơi ấy có giồng cây phong, tựa cây bàng. Ngày xưa cung điện nhà Hán hay trồng cây phong, nên người ta thường gọi sân cung điện là sân phong"
-      }
-    ]
-  },
-  {
-    "word": "sân trước nhà máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-courtyard"
-      }
-    ]
-  },
-  {
-    "word": "sân có hố giảm sức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-baffled apron"
-      }
-    ]
-  },
-  {
-    "word": "sân bảo vệ bằng gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-wooden protection apron"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mechanized thrashing floor"
       }
     ]
   },
@@ -2851,33 +2878,6 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quadrangle"
-      }
-    ]
-  },
-  {
-    "word": "sân bay thương mại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-commercial airport"
-      }
-    ]
-  },
-  {
-    "word": "sân nhà máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-factory yard"
-      }
-    ]
-  },
-  {
-    "word": "sân đánh gôn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "golf course"
       }
     ]
   }

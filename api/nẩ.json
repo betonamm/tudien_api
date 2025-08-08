@@ -1,5 +1,18 @@
 [
   {
+    "word": "nẩy nở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nẩy nở [nẩy nở]\n-grow, develop, put forth"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to grow, develop, put forth"
+      }
+    ]
+  },
+  {
     "word": "nẩy mực",
     "definitions": [
       {
@@ -42,24 +55,11 @@
     ]
   },
   {
-    "word": "nẩy lộc",
+    "word": "nẩy mực tấm ván",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to bud, blossom, sprout"
-      }
-    ]
-  },
-  {
-    "word": "nẩy nở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nẩy nở [nẩy nở]\n-grow, develop, put forth"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to grow, develop, put forth"
+        "dict_definition": "to line out a piece of wood"
       }
     ]
   },
@@ -73,20 +73,20 @@
     ]
   },
   {
+    "word": "nẩy lộc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bud, blossom, sprout"
+      }
+    ]
+  },
+  {
     "word": "nẩy ra một ý tưởng",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to give birth to a thought"
-      }
-    ]
-  },
-  {
-    "word": "nẩy mực tấm ván",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to line out a piece of wood"
       }
     ]
   }

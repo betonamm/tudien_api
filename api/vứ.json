@@ -1,32 +1,5 @@
 [
   {
-    "word": "vứt tiền qua cửa sổ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to throw money out of the window"
-      }
-    ]
-  },
-  {
-    "word": "vứt bỏ hàng hóa trên boong tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-jettison of deck cargo"
-      }
-    ]
-  },
-  {
-    "word": "vứt bỏ ách độc tài",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to throw off the yoke of dictatorship"
-      }
-    ]
-  },
-  {
     "word": "vứt",
     "definitions": [
       {
@@ -56,11 +29,11 @@
     ]
   },
   {
-    "word": "vứt khỏ tàu",
+    "word": "vứt bỏ ách độc tài",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-jettison"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to throw off the yoke of dictatorship"
       }
     ]
   },
@@ -83,6 +56,28 @@
     ]
   },
   {
+    "word": "vứt tiền qua cửa sổ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to throw money out of the window"
+      }
+    ]
+  },
+  {
+    "word": "vứt bỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vứt bỏ [vứt bỏ]\n-to throw away;  to discard;  to jettison\n@Chuyên ngành kinh tế\n-reject\n@Chuyên ngành kỹ thuật\n-abandon\n-dispose\n-jettison"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to get rid of, throw off, discard, jettison, delete"
+      }
+    ]
+  },
+  {
     "word": "vứt khỏi tàu",
     "definitions": [
       {
@@ -101,6 +96,15 @@
     ]
   },
   {
+    "word": "vứt khỏ tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-jettison"
+      }
+    ]
+  },
+  {
     "word": "vứt lại vào phế thải",
     "definitions": [
       {
@@ -110,15 +114,11 @@
     ]
   },
   {
-    "word": "vứt bỏ",
+    "word": "vứt bỏ hàng hóa trên boong tàu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@vứt bỏ [vứt bỏ]\n-to throw away;  to discard;  to jettison\n@Chuyên ngành kinh tế\n-reject\n@Chuyên ngành kỹ thuật\n-abandon\n-dispose\n-jettison"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to get rid of, throw off, discard, jettison, delete"
+        "dict_definition": "@Chuyên ngành kinh tế\n-jettison of deck cargo"
       }
     ]
   }

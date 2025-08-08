@@ -1,74 +1,19 @@
 [
   {
-    "word": "sập sùi",
+    "word": "sập xuống",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ gợi tả cảnh trời lúc mưa nhỏ lúc tạnh, kéo dài không ngớt\nVí dụ:\n- mưa gió sập sùi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sập sùi\n- Nói trời lúc mưa, lúc ngớt, không tạnh hẳn."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@sập sùi\n-Intermittent\n=Mưa sập sùi\n+It rains intermittently"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sập sùi\n- Intermittent\n=Mưa sập sùi+It rains intermittently"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shutdown"
       }
     ]
   },
   {
-    "word": "sập khung",
+    "word": "sập mái",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to collapse, cave in (building)"
-      }
-    ]
-  },
-  {
-    "word": "sậm sựt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sậm sựt\n- tt. Có âm thanh như tiếng phát ra khi nhai vật giòn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sậm sựt\n*adv\n-crunchingly"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sậm sựt\n* adv\n- crunchingly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "crunching"
-      }
-    ]
-  },
-  {
-    "word": "sật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sật\n-Crunch\n=Cậu ta cắn quả táo nghe sật một tiếng\n+There was a crunch as he bit an apple"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sật\n- Crunch\n=Cậu ta cắn quả táo nghe sật một tiếng+There was a crunch as he bit an apple"
-      }
-    ]
-  },
-  {
-    "word": "sập sa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sập Sa\n- (xã) h. Phù Yên, t. Sơn La"
+        "dict_definition": "to have the roof collapse"
       }
     ]
   },
@@ -86,11 +31,41 @@
     ]
   },
   {
-    "word": "sập vạt",
+    "word": "sật",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Sập Vạt\n- (xã) h. Yên Châu, t. Sơn La"
+        "dict_name": "SPDict",
+        "dict_definition": "@sật\n-Crunch\n=Cậu ta cắn quả táo nghe sật một tiếng\n+There was a crunch as he bit an apple"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sật\n- Crunch\n=Cậu ta cắn quả táo nghe sật một tiếng+There was a crunch as he bit an apple"
+      }
+    ]
+  },
+  {
+    "word": "sậm màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sậm màu\n-Of dark colour"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sậm màu\n- Of dark colour"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "of dark color"
+      }
+    ]
+  },
+  {
+    "word": "sập bẫy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be caught in a trap"
       }
     ]
   },
@@ -100,6 +75,50 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-crush\n-fail\n-fall in"
+      }
+    ]
+  },
+  {
+    "word": "sậm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như sẫm [nhưng nghĩa mạnh hơn]\nVí dụ:\n- sậm màu \n - tím sậm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sậm\n-Dark\n=Đỏ sậm\n+Dark red"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sậm\n- Dark\n=Đỏ sậm+Dark red"
+      }
+    ]
+  },
+  {
+    "word": "sập sìu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "endless (of rain)"
+      }
+    ]
+  },
+  {
+    "word": "sập khung",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to collapse, cave in (building)"
+      }
+    ]
+  },
+  {
+    "word": "sập vạt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sập Vạt\n- (xã) h. Yên Châu, t. Sơn La"
       }
     ]
   },
@@ -137,19 +156,32 @@
     ]
   },
   {
-    "word": "sậm",
+    "word": "sập sùi",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như sẫm [nhưng nghĩa mạnh hơn]\nVí dụ:\n- sậm màu \n - tím sậm"
+        "dict_definition": "từ gợi tả cảnh trời lúc mưa nhỏ lúc tạnh, kéo dài không ngớt\nVí dụ:\n- mưa gió sập sùi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sập sùi\n- Nói trời lúc mưa, lúc ngớt, không tạnh hẳn."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sậm\n-Dark\n=Đỏ sậm\n+Dark red"
+        "dict_definition": "@sập sùi\n-Intermittent\n=Mưa sập sùi\n+It rains intermittently"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sậm\n- Dark\n=Đỏ sậm+Dark red"
+        "dict_definition": "@sập sùi\n- Intermittent\n=Mưa sập sùi+It rains intermittently"
+      }
+    ]
+  },
+  {
+    "word": "sập sa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Sập Sa\n- (xã) h. Phù Yên, t. Sơn La"
       }
     ]
   },
@@ -179,29 +211,23 @@
     ]
   },
   {
-    "word": "sập bẫy",
+    "word": "sậm sựt",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be caught in a trap"
-      }
-    ]
-  },
-  {
-    "word": "sập xuống",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sậm sựt\n- tt. Có âm thanh như tiếng phát ra khi nhai vật giòn."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shutdown"
-      }
-    ]
-  },
-  {
-    "word": "sập mái",
-    "definitions": [
+        "dict_definition": "@sậm sựt\n*adv\n-crunchingly"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sậm sựt\n* adv\n- crunchingly"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to have the roof collapse"
+        "dict_definition": "crunching"
       }
     ]
   },
@@ -211,32 +237,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to slam the door"
-      }
-    ]
-  },
-  {
-    "word": "sậm màu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sậm màu\n-Of dark colour"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sậm màu\n- Of dark colour"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "of dark color"
-      }
-    ]
-  },
-  {
-    "word": "sập sìu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "endless (of rain)"
       }
     ]
   }

@@ -1,362 +1,86 @@
 [
   {
-    "word": "đếm theo cột",
+    "word": "đế mía",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-column count"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-footplate\n@Lĩnh vực: toán & tin\n-rod foot"
       }
     ]
   },
   {
-    "word": "đế phụ",
+    "word": "đế neo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-accessory shoe"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stay-block"
       }
     ]
   },
   {
-    "word": "đế dẫn trượt",
+    "word": "đến thì",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slide block slipper"
-      }
-    ]
-  },
-  {
-    "word": "đế xoáy (cho đèn điện)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-screw base"
-      }
-    ]
-  },
-  {
-    "word": "đế cột (có) khớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hinged column base"
-      }
-    ]
-  },
-  {
-    "word": "đế mở rộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-enlarged base"
-      }
-    ]
-  },
-  {
-    "word": "đến vô cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ad-infinite\n-adinfinitum"
-      }
-    ]
-  },
-  {
-    "word": "đế mạch tích hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-integrated-circuit substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế giá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mount\n-setting"
-      }
-    ]
-  },
-  {
-    "word": "đến lúc này",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until this moment"
-      }
-    ]
-  },
-  {
-    "word": "đế đỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mounting pad\n-stirrup"
-      }
-    ]
-  },
-  {
-    "word": "đến hết trang 10",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-up to and including page 10"
-      }
-    ]
-  },
-  {
-    "word": "đế trượt phanh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brake slipper"
-      }
-    ]
-  },
-  {
-    "word": "đế đèn tám cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-octal base"
-      }
-    ]
-  },
-  {
-    "word": "đế cột không khớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fixed column base\n-hingeless column base"
-      }
-    ]
-  },
-  {
-    "word": "đế ngạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bayonet base\n-bayonet holder\n-bayonet socket"
-      }
-    ]
-  },
-  {
-    "word": "đếm kim cương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-diamond count"
-      }
-    ]
-  },
-  {
-    "word": "đế tám chân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-octal base"
-      }
-    ]
-  },
-  {
-    "word": "đế vỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tire tread"
-      }
-    ]
-  },
-  {
-    "word": "đế mia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rod foot\n-shoe"
-      }
-    ]
-  },
-  {
-    "word": "đến thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến thế\n-So\n=Sao anh đến chậm thế?\n+Why are you so late?"
+        "dict_definition": "@đến thì\n-Nubile\n=Nhà có hai cô con gái đến thì\n+They have got two nubile girls in that family"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến thế\n- So\n=Sao anh đến chậm thế?+Why are you so late?"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to that extent"
+        "dict_definition": "@đến thì\n- Nubile\n=Nhà có hai cô con gái đến thì+They have got two nubile girls in that family"
       }
     ]
   },
   {
-    "word": "đế mạch lai màng dày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thick film hybrid circuit substrate"
-      }
-    ]
-  },
-  {
-    "word": "đếm bạch cầu phân biệt (đếm máu phân biệt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-differential leucocyte count"
-      }
-    ]
-  },
-  {
-    "word": "đế nửa cách điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semi-insulating substrata"
-      }
-    ]
-  },
-  {
-    "word": "đếm từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-word count"
-      }
-    ]
-  },
-  {
-    "word": "đế lưỡi (ở xe san đất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-heel of blade"
-      }
-    ]
-  },
-  {
-    "word": "đến tuổi thành niên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-coming of age"
-      }
-    ]
-  },
-  {
-    "word": "đếm xỉa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cần phải tính đến vì được coi là quan trọng\nVí dụ:\n- không ai thèm đếm xỉa đến"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đếm xỉa\n-Take notice of, take into account, take account of\n=Không ai đếm xỉa đến dư luận\n+No one can take no account (notice) of public opinion, no one can ignore public opinion"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đếm xỉa\n- Take notice of, take into account, take account of\n=Không ai đếm xỉa đến dư luận+No one can take no account (notice) of public opinion, no one can ignore public opinion"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to take notice of, take into account, take account of"
-      }
-    ]
-  },
-  {
-    "word": "đế bệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-root"
-      }
-    ]
-  },
-  {
-    "word": "đếm riêng từng cái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-itemize"
-      }
-    ]
-  },
-  {
-    "word": "đế móng tổ hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-combine footing"
-      }
-    ]
-  },
-  {
-    "word": "đến lượt mình",
+    "word": "đến như thế này",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "when your time, turn comes"
+        "dict_definition": "to this extent"
       }
     ]
   },
   {
-    "word": "đế vách ngăn bằng gỗ",
+    "word": "đế đèn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foot plate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-base\n-bayonet base\n-socket\n-value panel\n-valve panel"
       }
     ]
   },
   {
-    "word": "đế máy",
+    "word": "đến gần tiếp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-axle base\n-bed (base plate)\n-chassis\n-stand"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-stay near"
       }
     ]
   },
   {
-    "word": "đến tết",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý cho rằng phải lâu lắm, chẳng biết đến bao giờ mới đạt được kết quả của hành động, của sự việc vừa nói đến [ngụ ý phàn nàn về một sự quá chậm chạp, chậm trễ]\nVí dụ:\n- làm chậm thế thì có mà đến Tết! \n - đến tết cũng không xong"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tổ hợp biểu thị ý cho rằng phải lâu lắm, chẳng biết đến bao giờ mới đạt được kết quả của hành động, của sự việc vừa nói đến [ngụ ý phàn nàn về một sự quá chậm chạp, chậm trễ]\nVí dụ:\n- làm chậm thế thì có mà đến Tết! \n - đến tết cũng không xong"
-      }
-    ]
-  },
-  {
-    "word": "đến hay",
+    "word": "đế xích",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đến hay\n-Quite interesting\n=Câu chuyện đến hay\n+A quite intersting story\n-Funny, old\n=Ăn nói ngớ ngẩn đến hay\n+To talk in such a funnily foolish way\n=đến mùa quýt (thân)\n+When the moon is made of green cheese; never"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến hay\n- Quite interesting\n=Câu chuyện đến hay+A quite intersting story\n-Funny, old\n=Ăn nói ngớ ngẩn đến hay+To talk in such a funnily foolish way\n=đến mùa quýt (thân)+When the moon is made of green cheese; never"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-track shoe"
       }
     ]
   },
   {
-    "word": "đế xích, mắt xích",
+    "word": "đến tiếp sau",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-track shoe"
+        "dict_definition": "@Chuyên ngành kinh tế\n-to arrive"
+      }
+    ]
+  },
+  {
+    "word": "đế hộp lái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-steering support (structure)"
       }
     ]
   },
@@ -370,67 +94,73 @@
     ]
   },
   {
-    "word": "đế lắp ráp",
+    "word": "đến hết ngày...",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-mounting foot"
+        "dict_definition": "@Chuyên ngành kinh tế\n-as at (date)"
       }
     ]
   },
   {
-    "word": "đế van",
+    "word": "đế nhà",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-valve seat"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-homebase"
       }
     ]
   },
   {
-    "word": "đế mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-chad"
-      }
-    ]
-  },
-  {
-    "word": "đế quốc",
+    "word": "đếm chác",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "nước thực dân đi xâm lược các nước khác, biến các nước này thành thuộc địa hay phụ thuộc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đế quốc chủ nghĩa [nói tắt]\nVí dụ:\n- các nước đế quốc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đế quốc\n- I. dt. 1. Nước quân chủ do hoàng đế đứng đầụ 2. Nước đi xâm lược nước khác, biến nước này thành thuộc địa hay phụ thuộc: bọn đế quốc  chủ nghĩa đế quốc. 3. Nước theo chủ nghĩa đế quốc. II. tt. Đế quốc chủ nghĩa, nói tắt: nước đế quốc."
+        "dict_definition": "đếm để biết là bao nhiêu [nói khái quát]\nVí dụ:\n- chắc là đủ, không phải đếm chác gì cả"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đế quốc\n*noun\n-empire"
+        "dict_definition": "@đếm chác\n-(mỉa) Count and recount\n=Có mấy đồng bạc mà đếm chác mãi\n+To count and recount a few dong in one\"s possession"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đế quốc\n* noun\n- empire"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "empire; imperialist"
+        "dict_definition": "@đếm chác\n- (mỉa) Count and recount\n=Có mấy đồng bạc mà đếm chác mãi+To count and recount a few dong in one's possession"
       }
     ]
   },
   {
-    "word": "đế guốc hãm",
+    "word": "đế mở rộng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-brake head"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-enlarged base"
+      }
+    ]
+  },
+  {
+    "word": "đế ray vỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-broken base"
+      }
+    ]
+  },
+  {
+    "word": "đến đồng thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-itayose"
+      }
+    ]
+  },
+  {
+    "word": "đế áp điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-piezoelectric substrate"
       }
     ]
   },
@@ -444,11 +174,83 @@
     ]
   },
   {
-    "word": "đến sự",
+    "word": "đến vô cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ad-infinite\n-adinfinitum"
+      }
+    ]
+  },
+  {
+    "word": "đế dẫn hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-guiding shoe"
+      }
+    ]
+  },
+  {
+    "word": "đến đỗi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đến đỗi [đến đỗi]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "đến này",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to know about"
+        "dict_definition": "until now"
+      }
+    ]
+  },
+  {
+    "word": "đế xúp-páp côn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-inclined valve seat"
+      }
+    ]
+  },
+  {
+    "word": "đế càng trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-nose gear saddle"
+      }
+    ]
+  },
+  {
+    "word": "đế giầy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sole of a shoe"
+      }
+    ]
+  },
+  {
+    "word": "đế tay cầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-boom seat"
+      }
+    ]
+  },
+  {
+    "word": "đế móng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-foot block\n-footing\n-foundation base\n-foundation bed\n-foundation mat\n-foundation pad\n-thrust pad"
       }
     ]
   },
@@ -462,29 +264,92 @@
     ]
   },
   {
-    "word": "đế chuẩn",
+    "word": "đế mang vi sóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-datum block"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave substrate"
       }
     ]
   },
   {
-    "word": "đế cao",
+    "word": "đế chống cột",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dais"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stanchion base"
       }
     ]
   },
   {
-    "word": "đế tháp",
+    "word": "đế ngưỡng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tower base"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pattern"
+      }
+    ]
+  },
+  {
+    "word": "đế chằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stay-block"
+      }
+    ]
+  },
+  {
+    "word": "đế quốc nga",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Russian empire"
+      }
+    ]
+  },
+  {
+    "word": "đếm địa chỉ đệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Buffer Address Counting (BAC)"
+      }
+    ]
+  },
+  {
+    "word": "đến giới hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-utmost"
+      }
+    ]
+  },
+  {
+    "word": "đến đâu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to a certain extent"
+      }
+    ]
+  },
+  {
+    "word": "đế chổi than",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-brush holder"
+      }
+    ]
+  },
+  {
+    "word": "đế khuôn đập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-die bed\n-die shoe"
       }
     ]
   },
@@ -494,6 +359,585 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-blood count"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa cột buồm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mast foot"
+      }
+    ]
+  },
+  {
+    "word": "đế bắt ghế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-seat rail console"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa quay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foot bearing"
+      }
+    ]
+  },
+  {
+    "word": "đếm dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-line count"
+      }
+    ]
+  },
+  {
+    "word": "đế giữ lò xo xú páp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-valve spring seat"
+      }
+    ]
+  },
+  {
+    "word": "đế quốc la mã",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Roman empire"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Roman empire"
+      }
+    ]
+  },
+  {
+    "word": "đếm nhầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-miscalculation"
+      }
+    ]
+  },
+  {
+    "word": "đến với",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to reach"
+      }
+    ]
+  },
+  {
+    "word": "đếm tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-self-reading"
+      }
+    ]
+  },
+  {
+    "word": "đế móng tổ hợp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-combine footing"
+      }
+    ]
+  },
+  {
+    "word": "đế (ăng ten)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-base"
+      }
+    ]
+  },
+  {
+    "word": "đế hiệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đế hiệu\n-Name of a king\"s (emperor\"s) reign"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đế hiệu\n- Name of a king's (emperor's) reign"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "name of a king’s (emperor’s) reign"
+      }
+    ]
+  },
+  {
+    "word": "đế ụ sau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tailstock base"
+      }
+    ]
+  },
+  {
+    "word": "đế vách ngăn bằng gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foot plate"
+      }
+    ]
+  },
+  {
+    "word": "đến kỳ trả",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-due"
+      }
+    ]
+  },
+  {
+    "word": "đến lúc đó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "up to that point, until then"
+      }
+    ]
+  },
+  {
+    "word": "đế dẫn trượt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slide block slipper"
+      }
+    ]
+  },
+  {
+    "word": "đến nay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đến nay [đến nay]\n-up to this time;  to this day;  till/until now;  up to now; so far;  as yet;  hitherto"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "up to now; up to the present, up to this time, this day, until now"
+      }
+    ]
+  },
+  {
+    "word": "đến sớm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "arrive early"
+      }
+    ]
+  },
+  {
+    "word": "đến lượt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "when one’s time, turn arrives"
+      }
+    ]
+  },
+  {
+    "word": "đến đây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to come here"
+      }
+    ]
+  },
+  {
+    "word": "đến tuần sau",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "until next week"
+      }
+    ]
+  },
+  {
+    "word": "đếm tinh trùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spermcount"
+      }
+    ]
+  },
+  {
+    "word": "đế máy kinh vĩ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tribrach"
+      }
+    ]
+  },
+  {
+    "word": "đế loại n",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-n-type substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế treo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-suspension shoe"
+      }
+    ]
+  },
+  {
+    "word": "đế motơ trên dàn tháp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pony sill"
+      }
+    ]
+  },
+  {
+    "word": "đế cột (có) khớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hinged column base"
+      }
+    ]
+  },
+  {
+    "word": "đế kinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đế kinh\n-như đế đô"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đế kinh\n- như đế đô"
+      }
+    ]
+  },
+  {
+    "word": "đế trượt ôm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grip slipper"
+      }
+    ]
+  },
+  {
+    "word": "đế xích, mắt xích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-track shoe"
+      }
+    ]
+  },
+  {
+    "word": "đế cọc dạng củ hành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile pedestal"
+      }
+    ]
+  },
+  {
+    "word": "đế rơ le",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-relay base"
+      }
+    ]
+  },
+  {
+    "word": "đế bằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-flat shoes"
+      }
+    ]
+  },
+  {
+    "word": "đế, nền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-root\n@Lĩnh vực: toán & tin\n-substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế (đèn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-panel"
+      }
+    ]
+  },
+  {
+    "word": "đến một lúc nào đó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "at one point, at a certain time"
+      }
+    ]
+  },
+  {
+    "word": "đế mạch lai màng mỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thin film hybrid circuit substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế (cột)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-impost"
+      }
+    ]
+  },
+  {
+    "word": "đế máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-axle base\n-bed (base plate)\n-chassis\n-stand"
+      }
+    ]
+  },
+  {
+    "word": "đế con trượt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cross-head shoe\n-sliding block"
+      }
+    ]
+  },
+  {
+    "word": "đế đèn kiểu lưỡi lê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bayonet base"
+      }
+    ]
+  },
+  {
+    "word": "đến cùng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đến tận cùng, cho đến khi đạt được kết quả\nVí dụ:\n- quyết tâm đến cùng \n - giữ bí mật đến cùng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đến cùng\n-To a finish, to the bitter end\n=Đấu tranh đến cùng\n+To fight (struggle) to the bitter end\n@Chuyên ngành kỹ thuật\n-to the last"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đến cùng\n- To a finish, to the bitter end\n=Đấu tranh đến cùng+To fight (struggle) to the bitter end"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "until the end, last"
+      }
+    ]
+  },
+  {
+    "word": "đến hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-at term\n-mature"
+      }
+    ]
+  },
+  {
+    "word": "đế cột thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stanchion base"
+      }
+    ]
+  },
+  {
+    "word": "đế mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-chad"
+      }
+    ]
+  },
+  {
+    "word": "đến đích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-destine"
+      }
+    ]
+  },
+  {
+    "word": "đếm được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-countable\n-denumerable\n-enumerable\n-enumerate\n-numerable"
+      }
+    ]
+  },
+  {
+    "word": "đếm lại phiếu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to recount votes"
+      }
+    ]
+  },
+  {
+    "word": "đế cột chống xiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-strutted column base"
+      }
+    ]
+  },
+  {
+    "word": "đế búa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-hammer standard"
+      }
+    ]
+  },
+  {
+    "word": "đế cách điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-insulating holder\n-insulating retainer\n-insulating substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa dạng khớp cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ball pivot"
+      }
+    ]
+  },
+  {
+    "word": "đến già",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-old age"
+      }
+    ]
+  },
+  {
+    "word": "đế thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-glass substrate\n-glazed substrate"
+      }
+    ]
+  },
+  {
+    "word": "đến gần sáng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "until almost dawn"
+      }
+    ]
+  },
+  {
+    "word": "đế đèn điện tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-electron tube base"
+      }
+    ]
+  },
+  {
+    "word": "đế quay (máy làm khuôn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-turnover table"
+      }
+    ]
+  },
+  {
+    "word": "đếch",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị ý phủ định dứt khoát một cách thiếu nhã nhặn\nVí dụ:\n- đếch biết \n - trong nhà đếch còn cái gì"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị ý nhấn mạnh về sắc thái phủ định dứt khoát một cách nặng lời\nVí dụ:\n- đi làm đếch gì"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đếch\n-(tục) như đách"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đếch\n- (tục) như đách"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "[= không] no, not"
       }
     ]
   },
@@ -547,352 +991,51 @@
     ]
   },
   {
-    "word": "đế (cột)",
+    "word": "đế cột áp tường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-impost"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pilaster base"
       }
     ]
   },
   {
-    "word": "đế gỗ đỡ (chai, lọ)",
+    "word": "đến tết",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-receptacle wood base"
-      }
-    ]
-  },
-  {
-    "word": "đế móng miệng loe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bell footing"
-      }
-    ]
-  },
-  {
-    "word": "đếm nhầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-miscalculation"
-      }
-    ]
-  },
-  {
-    "word": "đế tải thông thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-convergent beam"
-      }
-    ]
-  },
-  {
-    "word": "đến lúc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the moment has arrived; to arrive at a (the) moment"
-      }
-    ]
-  },
-  {
-    "word": "đế, bệ xú páp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-valve seat"
-      }
-    ]
-  },
-  {
-    "word": "đế trượt hãm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brake slipper"
-      }
-    ]
-  },
-  {
-    "word": "đế giầy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sole of a shoe"
-      }
-    ]
-  },
-  {
-    "word": "đến hạn trả nợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-due of obligation"
-      }
-    ]
-  },
-  {
-    "word": "đế cột rời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-four-bar joint"
-      }
-    ]
-  },
-  {
-    "word": "đế mía",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-footplate\n@Lĩnh vực: toán & tin\n-rod foot"
-      }
-    ]
-  },
-  {
-    "word": "đến già",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-old age"
-      }
-    ]
-  },
-  {
-    "word": "đếm được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-countable\n-denumerable\n-enumerable\n-enumerate\n-numerable"
-      }
-    ]
-  },
-  {
-    "word": "đế máy kinh vĩ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tribrach"
-      }
-    ]
-  },
-  {
-    "word": "đế quay (máy làm khuôn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-turnover table"
-      }
-    ]
-  },
-  {
-    "word": "đến lúc đó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "up to that point, until then"
-      }
-    ]
-  },
-  {
-    "word": "đến giờ phút này",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until now, up to now"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa dạng khớp cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ball pivot"
-      }
-    ]
-  },
-  {
-    "word": "đế trượt lò xo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slide shoe"
-      }
-    ]
-  },
-  {
-    "word": "đế trượt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-skid\n@Lĩnh vực: toán & tin\n-skid base"
-      }
-    ]
-  },
-  {
-    "word": "đếm lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-recount (re-count)"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị ý cho rằng phải lâu lắm, chẳng biết đến bao giờ mới đạt được kết quả của hành động, của sự việc vừa nói đến [ngụ ý phàn nàn về một sự quá chậm chạp, chậm trễ]\nVí dụ:\n- làm chậm thế thì có mà đến Tết! \n - đến tết cũng không xong"
       },
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to recount"
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tổ hợp biểu thị ý cho rằng phải lâu lắm, chẳng biết đến bao giờ mới đạt được kết quả của hành động, của sự việc vừa nói đến [ngụ ý phàn nàn về một sự quá chậm chạp, chậm trễ]\nVí dụ:\n- làm chậm thế thì có mà đến Tết! \n - đến tết cũng không xong"
       }
     ]
   },
   {
-    "word": "đếm ngược",
+    "word": "đế mạch tích hợp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-count-down"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-integrated-circuit substrate"
       }
     ]
   },
   {
-    "word": "đến hiện trường",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to arrive on the scene"
-      }
-    ]
-  },
-  {
-    "word": "đến lúc ấy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until that moment, until then"
-      }
-    ]
-  },
-  {
-    "word": "đế chống cột",
+    "word": "đế rung",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stanchion base"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vibrating footing"
       }
     ]
   },
   {
-    "word": "đế kinh",
+    "word": "đến kỳ (thanh toán)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đế kinh\n-như đế đô"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đế kinh\n- như đế đô"
-      }
-    ]
-  },
-  {
-    "word": "đến cửa hiệu mua đồ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shop"
-      }
-    ]
-  },
-  {
-    "word": "đếm thời gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clock\n-clocking"
-      }
-    ]
-  },
-  {
-    "word": "đếm tinh trùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-spermcount"
-      }
-    ]
-  },
-  {
-    "word": "đến chậm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to arrive late"
-      }
-    ]
-  },
-  {
-    "word": "đến cuối cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-to the last"
-      }
-    ]
-  },
-  {
-    "word": "đến kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-become due (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa của vòm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-skewback"
-      }
-    ]
-  },
-  {
-    "word": "đế cột thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stanchion base"
-      }
-    ]
-  },
-  {
-    "word": "đế tượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pedestal or statue"
-      }
-    ]
-  },
-  {
-    "word": "đến tuổi trưởng thành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-major"
-      }
-    ]
-  },
-  {
-    "word": "đế cắm zif",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-zero Insertion Force-ZIF-socket"
+        "dict_definition": "@Chuyên ngành kinh tế\n-mature"
       }
     ]
   },
@@ -906,155 +1049,20 @@
     ]
   },
   {
-    "word": "đến ông nam",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "it’s Mr. Nam’s turn"
-      }
-    ]
-  },
-  {
-    "word": "đế bảo vệ",
+    "word": "đế đỡ toàn bộ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foot guard"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-assembling jack\n-jack, assembling"
       }
     ]
   },
   {
-    "word": "đế nhà",
+    "word": "đến tuổi dậy thì",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-homebase"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa van cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ball seat"
-      }
-    ]
-  },
-  {
-    "word": "đế đèn hình cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-spherical panel"
-      }
-    ]
-  },
-  {
-    "word": "đến tuần sau",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until next week"
-      }
-    ]
-  },
-  {
-    "word": "đế xích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-track shoe"
-      }
-    ]
-  },
-  {
-    "word": "đế gali asenua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-gallium arsenide substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế ray vỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-broken base"
-      }
-    ]
-  },
-  {
-    "word": "đếm dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-line count"
-      }
-    ]
-  },
-  {
-    "word": "đế cột/ bệ/ đôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pedestal"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa ma sát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-friction stay"
-      }
-    ]
-  },
-  {
-    "word": "đế hộp lái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-steering support (structure)"
-      }
-    ]
-  },
-  {
-    "word": "đế chống trượt (giày an toàn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-slip-resistant sole"
-      }
-    ]
-  },
-  {
-    "word": "đến giờ cơm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to become mealtime"
-      }
-    ]
-  },
-  {
-    "word": "đến đồng thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-itayose"
-      }
-    ]
-  },
-  {
-    "word": "đế cọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-boot\n-jaw of pile\n-pile foot"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-puberal\n-pubesent"
       }
     ]
   },
@@ -1068,47 +1076,28 @@
     ]
   },
   {
-    "word": "đến tuổi pháp định",
+    "word": "đến thế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-come of age (to...)"
+        "dict_definition": "@đến thế\n-So\n=Sao anh đến chậm thế?\n+Why are you so late?"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đến thế\n- So\n=Sao anh đến chậm thế?+Why are you so late?"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to that extent"
       }
     ]
   },
   {
-    "word": "đế, giá đỡ",
+    "word": "đế thích",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-stand"
-      }
-    ]
-  },
-  {
-    "word": "đế loại n",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-n-type substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế định vị (khi lắp ráp và hàn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-welding slab"
-      }
-    ]
-  },
-  {
-    "word": "đế treo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-suspension shoe"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Đế Thích\n- Tên là Lý Chế, truyền thuyết nói rằng ông là người rất cao cờ, thường được gọi là Vua Đế Thích"
       }
     ]
   },
@@ -1126,331 +1115,42 @@
     ]
   },
   {
-    "word": "đế đỡ gót ghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-heel chair\n-heel pivot"
-      }
-    ]
-  },
-  {
-    "word": "đến tận",
+    "word": "đến độ lố bịch",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to come to, until"
+        "dict_definition": "to a ridiculous extent"
       }
     ]
   },
   {
-    "word": "đến khi",
+    "word": "đến hay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-until"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "after"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa (của cơ cấu điều khiển xupáp)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roller saddle"
-      }
-    ]
-  },
-  {
-    "word": "đến như vậy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to that extent, so much, to such a degree"
-      }
-    ]
-  },
-  {
-    "word": "đến hạn thanh toán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mature"
-      }
-    ]
-  },
-  {
-    "word": "đến sớm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "arrive early"
-      }
-    ]
-  },
-  {
-    "word": "đế mạch lai màng mỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thin film hybrid circuit substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế mài mờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground base"
-      }
-    ]
-  },
-  {
-    "word": "đến đích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-destine"
-      }
-    ]
-  },
-  {
-    "word": "đến nay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến nay [đến nay]\n-up to this time;  to this day;  till/until now;  up to now; so far;  as yet;  hitherto"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "up to now; up to the present, up to this time, this day, until now"
-      }
-    ]
-  },
-  {
-    "word": "đế cột liền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-solid column base"
-      }
-    ]
-  },
-  {
-    "word": "đến ngày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến ngày\n-Due, mature\n=Nợ đã đến ngày đâu mà đòi\n+The debt is not yet due, so there is no reason for claiming its payment\n=Hóa đơn đã đến ngày phải thanh toán\n+The bill is mature (due)\n-Near her time\n=Khâu xong tã lót thì đến ngày\n+She will be near her time, affter finishing sewing the baby\"s napkins"
+        "dict_definition": "@đến hay\n-Quite interesting\n=Câu chuyện đến hay\n+A quite intersting story\n-Funny, old\n=Ăn nói ngớ ngẩn đến hay\n+To talk in such a funnily foolish way\n=đến mùa quýt (thân)\n+When the moon is made of green cheese; never"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến ngày\n- Due, mature\n=Nợ đã đến ngày đâu mà đòi+The debt is not yet due, so there is no reason for claiming its payment\n=Hóa đơn đã đến ngày phải thanh toán+The bill is mature (due)\n-Near her time\n=Khâu xong tã lót thì đến ngày+She will be near her time, affter finishing sewing the baby's napkins"
+        "dict_definition": "@đến hay\n- Quite interesting\n=Câu chuyện đến hay+A quite intersting story\n-Funny, old\n=Ăn nói ngớ ngẩn đến hay+To talk in such a funnily foolish way\n=đến mùa quýt (thân)+When the moon is made of green cheese; never"
       }
     ]
   },
   {
-    "word": "đế đèn kiểu lưỡi lê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bayonet base"
-      }
-    ]
-  },
-  {
-    "word": "đế chế",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chế độ chính trị của nước có hoàng đế đứng đầu\nVí dụ:\n- đế chế La Mã"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đế chế\n-Monarchy\n@Chuyên ngành kỹ thuật\n-empire"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đế chế\n- Monarchy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "monarchy"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa cột buồm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-mast foot"
-      }
-    ]
-  },
-  {
-    "word": "đế ụ đỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tailstock base"
-      }
-    ]
-  },
-  {
-    "word": "đến thì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến thì\n-Nubile\n=Nhà có hai cô con gái đến thì\n+They have got two nubile girls in that family"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến thì\n- Nubile\n=Nhà có hai cô con gái đến thì+They have got two nubile girls in that family"
-      }
-    ]
-  },
-  {
-    "word": "đến trễ",
+    "word": "đến ông nam",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "arrive late"
+        "dict_definition": "it’s Mr. Nam’s turn"
       }
     ]
   },
   {
-    "word": "đế khuôn đập",
+    "word": "đế cột",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-die bed\n-die shoe"
-      }
-    ]
-  },
-  {
-    "word": "đế quốc la mã",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Roman empire"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Roman empire"
-      }
-    ]
-  },
-  {
-    "word": "đế càng trước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-nose gear saddle"
-      }
-    ]
-  },
-  {
-    "word": "đến kỳ trả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-due"
-      }
-    ]
-  },
-  {
-    "word": "đến như thế này",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to this extent"
-      }
-    ]
-  },
-  {
-    "word": "đế trượt ôm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grip slipper"
-      }
-    ]
-  },
-  {
-    "word": "đế đỡ toàn bộ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-assembling jack\n-jack, assembling"
-      }
-    ]
-  },
-  {
-    "word": "đế cốt thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adaptor plate"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa lồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tangential support"
-      }
-    ]
-  },
-  {
-    "word": "đếm tế bào rm bị mất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Missing RM Cell Count (CRM)"
-      }
-    ]
-  },
-  {
-    "word": "đế chằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stay-block"
-      }
-    ]
-  },
-  {
-    "word": "đến hết ngày...",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-as at (date)"
-      }
-    ]
-  },
-  {
-    "word": "đế cầu chì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fuse base"
-      }
-    ]
-  },
-  {
-    "word": "đến độ hầu như",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost as if, almost to the extent that"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-base (of column)\n-base of column\n-base plate\n-basement\n-column base\n-column footing\n-column socle\n-columnbase\n-pattern\n-shoe\n-spur\n-stanchion base\n-template"
       }
     ]
   },
@@ -1464,411 +1164,69 @@
     ]
   },
   {
-    "word": "đế mang vi sóng",
+    "word": "đến mấy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-microwave substrate"
-      }
-    ]
-  },
-  {
-    "word": "đến chơi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to come for a visit"
-      }
-    ]
-  },
-  {
-    "word": "đến bán tại nhà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-canvass"
-      }
-    ]
-  },
-  {
-    "word": "đế nối sứ xuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bushing adapter"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa quay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foot bearing"
-      }
-    ]
-  },
-  {
-    "word": "đếch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị ý phủ định dứt khoát một cách thiếu nhã nhặn\nVí dụ:\n- đếch biết \n - trong nhà đếch còn cái gì"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị ý nhấn mạnh về sắc thái phủ định dứt khoát một cách nặng lời\nVí dụ:\n- đi làm đếch gì"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đếch\n-(tục) như đách"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đếch\n- (tục) như đách"
+        "dict_definition": "@đến mấy [đến mấy]\n-whatever... ;  however ....;  no matter how ..."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "[= không] no, not"
+        "dict_definition": "whatever, however, no matter how"
       }
     ]
   },
   {
-    "word": "đến giới hạn",
+    "word": "đế mia thủy chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-utmost"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pointed shoe"
       }
     ]
   },
   {
-    "word": "đếm tự động",
+    "word": "đế quốc kinh tế",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-self-reading"
+        "dict_definition": "@Chuyên ngành kinh tế\n-economic imperialism"
       }
     ]
   },
   {
-    "word": "đế tấm mạch in",
+    "word": "đế trượt phanh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-printed circuit substrate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brake slipper"
       }
     ]
   },
   {
-    "word": "đến giờ",
+    "word": "đế càng mũi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đến giờ\n-Up to now, hitherto\n=Từ trước đến giờ\n+From before up to now\n-It\"s time\n=Đã đến giờ lên đường\n+It\"s time to set out\n=Đến giờ nghỉ rồi\n+It\"s time to have a break"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến giờ\n- Up to now, hitherto\n=Từ trước đến giờ+From before up to now\n- It's time\n=Đã đến giờ lên đường+It's time to set out\n=Đến giờ nghỉ rồi+It's time to have a break"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until now, until the present (moment)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-nose gear saddle"
       }
     ]
   },
   {
-    "word": "đế hoa",
+    "word": "đến từng nhà",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đế hoa [đế hoa]\n*danh từ\n-peduncle; (botany) receptable, torus, calyx"
+        "dict_definition": "@Chuyên ngành kinh tế\n-house-to-house"
       }
     ]
   },
   {
-    "word": "đế cách ly",
+    "word": "đế đèn tám cực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-insulating stand"
-      }
-    ]
-  },
-  {
-    "word": "đế (bào)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sole"
-      }
-    ]
-  },
-  {
-    "word": "đến với",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to reach"
-      }
-    ]
-  },
-  {
-    "word": "đế áp điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-piezoelectric substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế cần cẩu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-derrick leg"
-      }
-    ]
-  },
-  {
-    "word": "đế búa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-hammer standard"
-      }
-    ]
-  },
-  {
-    "word": "đếm địa chỉ đệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Buffer Address Counting (BAC)"
-      }
-    ]
-  },
-  {
-    "word": "đến độ lố bịch",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to a ridiculous extent"
-      }
-    ]
-  },
-  {
-    "word": "đế cột ống chống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-casing shoe"
-      }
-    ]
-  },
-  {
-    "word": "đến chỗ vô lý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ad absurd\n-adabsurdum"
-      }
-    ]
-  },
-  {
-    "word": "đế ngưỡng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pattern"
-      }
-    ]
-  },
-  {
-    "word": "đế cột chống xiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-strutted column base"
-      }
-    ]
-  },
-  {
-    "word": "đế chận then đòn dẫn hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pitman arm stop"
-      }
-    ]
-  },
-  {
-    "word": "đến đỗi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến đỗi [đến đỗi]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "đế nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đế nghiệp [đế nghiệp]\n-Reign , emperorship , kingship"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "reign, emperorship, kingship"
-      }
-    ]
-  },
-  {
-    "word": "đến đâu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to a certain extent"
-      }
-    ]
-  },
-  {
-    "word": "đến nơi rồi à",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Are we there already?"
-      }
-    ]
-  },
-  {
-    "word": "đế motơ trên dàn tháp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pony sill"
-      }
-    ]
-  },
-  {
-    "word": "đế con trượt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cross-head shoe\n-sliding block"
-      }
-    ]
-  },
-  {
-    "word": "đế cọc dạng củ hành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile pedestal"
-      }
-    ]
-  },
-  {
-    "word": "đến tuổi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đến tuổi\n- tt. Đủ tuổi để làm một việc gì: Đến tuổi làm nghĩa vụ quân sự; Đến tuổi lấy chồng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến tuổi\n*verb\n-to come of age"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến tuổi\n* verb\n- to come of age"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to come of age"
-      }
-    ]
-  },
-  {
-    "word": "đế bán dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-die\n@Lĩnh vực: điện tử & viễn thông\n-semiconductor substrate"
-      }
-    ]
-  },
-  {
-    "word": "đến tuổi dậy thì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-puberal\n-pubesent"
-      }
-    ]
-  },
-  {
-    "word": "đến lượt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "when one’s time, turn arrives"
-      }
-    ]
-  },
-  {
-    "word": "đế xu páp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-valve seat"
-      }
-    ]
-  },
-  {
-    "word": "đế bắt ghế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-seat rail console"
-      }
-    ]
-  },
-  {
-    "word": "đếm lại phiếu",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to recount votes"
-      }
-    ]
-  },
-  {
-    "word": "đế (đèn điện tử)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-base"
-      }
-    ]
-  },
-  {
-    "word": "đế cam",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-cam heel"
-      }
-    ]
-  },
-  {
-    "word": "đế dẹt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flat shoe"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-octal base"
       }
     ]
   },
@@ -1898,20 +1256,131 @@
     ]
   },
   {
-    "word": "đếm xe",
+    "word": "đế có chốt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic count"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pin base"
       }
     ]
   },
   {
-    "word": "đế cắm đèn",
+    "word": "đến bán tại nhà",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-lamp holder\n-socket"
+        "dict_definition": "@Chuyên ngành kinh tế\n-canvass"
+      }
+    ]
+  },
+  {
+    "word": "đế cốt thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adaptor plate"
+      }
+    ]
+  },
+  {
+    "word": "đế vỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tire tread"
+      }
+    ]
+  },
+  {
+    "word": "đế cầu chì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fuse base"
+      }
+    ]
+  },
+  {
+    "word": "đến lúc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the moment has arrived; to arrive at a (the) moment"
+      }
+    ]
+  },
+  {
+    "word": "đế có gân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-grouser shoes"
+      }
+    ]
+  },
+  {
+    "word": "đế (mắt) xích (cao su)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-track shoe"
+      }
+    ]
+  },
+  {
+    "word": "đếm kiểm tuần hoàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cycle count"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa của vòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-skewback"
+      }
+    ]
+  },
+  {
+    "word": "đến hiện trường",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to arrive on the scene"
+      }
+    ]
+  },
+  {
+    "word": "đến tuổi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đến tuổi\n- tt. Đủ tuổi để làm một việc gì: Đến tuổi làm nghĩa vụ quân sự; Đến tuổi lấy chồng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đến tuổi\n*verb\n-to come of age"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đến tuổi\n* verb\n- to come of age"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to come of age"
+      }
+    ]
+  },
+  {
+    "word": "đế ray",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-base of the rail\n-flange\n-rail base\n-rail flange\n-rail shoe"
       }
     ]
   },
@@ -1945,20 +1414,422 @@
     ]
   },
   {
-    "word": "đến kỳ (thanh toán)",
+    "word": "đến chơi",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mature"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to come for a visit"
       }
     ]
   },
   {
-    "word": "đế đèn",
+    "word": "đế quốc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "nước thực dân đi xâm lược các nước khác, biến các nước này thành thuộc địa hay phụ thuộc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đế quốc chủ nghĩa [nói tắt]\nVí dụ:\n- các nước đế quốc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đế quốc\n- I. dt. 1. Nước quân chủ do hoàng đế đứng đầụ 2. Nước đi xâm lược nước khác, biến nước này thành thuộc địa hay phụ thuộc: bọn đế quốc  chủ nghĩa đế quốc. 3. Nước theo chủ nghĩa đế quốc. II. tt. Đế quốc chủ nghĩa, nói tắt: nước đế quốc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đế quốc\n*noun\n-empire"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đế quốc\n* noun\n- empire"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "empire; imperialist"
+      }
+    ]
+  },
+  {
+    "word": "đếm bằng số",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-base\n-bayonet base\n-socket\n-value panel\n-valve panel"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-digit count"
+      }
+    ]
+  },
+  {
+    "word": "đến trước được gán trước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-First In First Allocated (FIFA)"
+      }
+    ]
+  },
+  {
+    "word": "đế đèn 8 cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-octal base"
+      }
+    ]
+  },
+  {
+    "word": "đế cột không khớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fixed column base\n-hingeless column base"
+      }
+    ]
+  },
+  {
+    "word": "đế tám chân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-octal base"
+      }
+    ]
+  },
+  {
+    "word": "đế giá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mount\n-setting"
+      }
+    ]
+  },
+  {
+    "word": "đế mạ điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electro-plate"
+      }
+    ]
+  },
+  {
+    "word": "đến tuổi trưởng thành",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-major"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa lồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tangential support"
+      }
+    ]
+  },
+  {
+    "word": "đến nơi rồi à",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "Are we there already?"
+      }
+    ]
+  },
+  {
+    "word": "đến chỗ vô lý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ad absurd\n-adabsurdum"
+      }
+    ]
+  },
+  {
+    "word": "đế bảo vệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foot guard"
+      }
+    ]
+  },
+  {
+    "word": "đếm lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-recount (re-count)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to recount"
+      }
+    ]
+  },
+  {
+    "word": "đế (đèn điện tử)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-base"
+      }
+    ]
+  },
+  {
+    "word": "đến giờ cơm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to become mealtime"
+      }
+    ]
+  },
+  {
+    "word": "đế mài mờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-ground base"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa ray ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-switch rail chair"
+      }
+    ]
+  },
+  {
+    "word": "đếm thời gian",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-clock\n-clocking"
+      }
+    ]
+  },
+  {
+    "word": "đến lúc ấy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "until that moment, until then"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa van cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-ball seat"
+      }
+    ]
+  },
+  {
+    "word": "đến với khách hàng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to reach customers"
+      }
+    ]
+  },
+  {
+    "word": "đế (cắt gọt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-shoe"
+      }
+    ]
+  },
+  {
+    "word": "đếm thụt lùi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-countdown"
+      }
+    ]
+  },
+  {
+    "word": "đế (bào)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sole"
+      }
+    ]
+  },
+  {
+    "word": "đến chậm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to arrive late"
+      }
+    ]
+  },
+  {
+    "word": "đế cách ly",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-insulating stand"
+      }
+    ]
+  },
+  {
+    "word": "đế bệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-root"
+      }
+    ]
+  },
+  {
+    "word": "đế móng miệng loe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bell footing"
+      }
+    ]
+  },
+  {
+    "word": "đế công tơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-meter base"
+      }
+    ]
+  },
+  {
+    "word": "đế trượt lò xo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-slide shoe"
+      }
+    ]
+  },
+  {
+    "word": "đế tháp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tower base"
+      }
+    ]
+  },
+  {
+    "word": "đế gali asenua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-gallium arsenide substrate"
+      }
+    ]
+  },
+  {
+    "word": "đến tận",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to come to, until"
+      }
+    ]
+  },
+  {
+    "word": "đến lúc này",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "until this moment"
+      }
+    ]
+  },
+  {
+    "word": "đế lưỡi (ở xe san đất)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-heel of blade"
+      }
+    ]
+  },
+  {
+    "word": "đế cột rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-four-bar joint"
+      }
+    ]
+  },
+  {
+    "word": "đến độ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to the extent (that), the point (that)"
+      }
+    ]
+  },
+  {
+    "word": "đế đỡ gót ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-heel chair\n-heel pivot"
+      }
+    ]
+  },
+  {
+    "word": "đếm tây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hand count; to count by hand"
+      }
+    ]
+  },
+  {
+    "word": "đế cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-dais"
+      }
+    ]
+  },
+  {
+    "word": "đế máy mài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-runner bar"
+      }
+    ]
+  },
+  {
+    "word": "đế trượt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-skid\n@Lĩnh vực: toán & tin\n-skid base"
       }
     ]
   },
@@ -1988,113 +1859,6 @@
     ]
   },
   {
-    "word": "đế cột ngàm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fixed column base\n-hingeless column base"
-      }
-    ]
-  },
-  {
-    "word": "đế (ăng ten)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-base"
-      }
-    ]
-  },
-  {
-    "word": "đế công tơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-meter base"
-      }
-    ]
-  },
-  {
-    "word": "đế thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-glass substrate\n-glazed substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế (mắt) xích (cao su)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-track shoe"
-      }
-    ]
-  },
-  {
-    "word": "đế tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-basement\n-footing\n-wall base"
-      }
-    ]
-  },
-  {
-    "word": "đế đô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đế đô\n-Imperial (royal) capital"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đế đô\n- Imperial (royal) capital"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "imperial (royal) capital"
-      }
-    ]
-  },
-  {
-    "word": "đế mia thủy chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pointed shoe"
-      }
-    ]
-  },
-  {
-    "word": "đế đe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-anvil stock"
-      }
-    ]
-  },
-  {
-    "word": "đế quốc kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economic imperialism"
-      }
-    ]
-  },
-  {
-    "word": "đế ray",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-base of the rail\n-flange\n-rail base\n-rail flange\n-rail shoe"
-      }
-    ]
-  },
-  {
     "word": "đến điều",
     "definitions": [
       {
@@ -2112,37 +1876,127 @@
     ]
   },
   {
-    "word": "đếm chữ số",
+    "word": "đế tượng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-digit count"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pedestal or statue"
       }
     ]
   },
   {
-    "word": "đế vị",
+    "word": "đến ngày",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@đế vị\n-The throne, royalty"
+        "dict_definition": "@đến ngày\n-Due, mature\n=Nợ đã đến ngày đâu mà đòi\n+The debt is not yet due, so there is no reason for claiming its payment\n=Hóa đơn đã đến ngày phải thanh toán\n+The bill is mature (due)\n-Near her time\n=Khâu xong tã lót thì đến ngày\n+She will be near her time, affter finishing sewing the baby\"s napkins"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đế vị\n- The throne, royalty"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the throne, royalty"
+        "dict_definition": "@đến ngày\n- Due, mature\n=Nợ đã đến ngày đâu mà đòi+The debt is not yet due, so there is no reason for claiming its payment\n=Hóa đơn đã đến ngày phải thanh toán+The bill is mature (due)\n-Near her time\n=Khâu xong tã lót thì đến ngày+She will be near her time, affter finishing sewing the baby's napkins"
       }
     ]
   },
   {
-    "word": "đến độ",
+    "word": "đến hạn trả nợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-due of obligation"
+      }
+    ]
+  },
+  {
+    "word": "đến cửa hiệu mua đồ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shop"
+      }
+    ]
+  },
+  {
+    "word": "đế chận then đòn dẫn hướng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pitman arm stop"
+      }
+    ]
+  },
+  {
+    "word": "đến kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-become due (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "đế xích chạy trên băng tuyết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-snow and ice semi skeleton"
+      }
+    ]
+  },
+  {
+    "word": "đến tuổi thành niên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-coming of age"
+      }
+    ]
+  },
+  {
+    "word": "đế mia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rod foot\n-shoe"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa (của cơ cấu điều khiển xupáp)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-roller saddle"
+      }
+    ]
+  },
+  {
+    "word": "đếm theo cột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-column count"
+      }
+    ]
+  },
+  {
+    "word": "đến độ hầu như",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to the extent (that), the point (that)"
+        "dict_definition": "almost as if, almost to the extent that"
+      }
+    ]
+  },
+  {
+    "word": "đến khi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-until"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "after"
       }
     ]
   },
@@ -2156,11 +2010,390 @@
     ]
   },
   {
+    "word": "đế ụ đỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tailstock base"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-abut\n-abutment\n-base plate\n-bearing plate\n-bed plate\n-heel\n-heel post\n-seat\n-shoe\n-springing\n-support base"
+      }
+    ]
+  },
+  {
+    "word": "đế thụ động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-passive substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế trượt hãm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brake slipper"
+      }
+    ]
+  },
+  {
+    "word": "đế đe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-anvil stock"
+      }
+    ]
+  },
+  {
+    "word": "đếm xỉa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cần phải tính đến vì được coi là quan trọng\nVí dụ:\n- không ai thèm đếm xỉa đến"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đếm xỉa\n-Take notice of, take into account, take account of\n=Không ai đếm xỉa đến dư luận\n+No one can take no account (notice) of public opinion, no one can ignore public opinion"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đếm xỉa\n- Take notice of, take into account, take account of\n=Không ai đếm xỉa đến dư luận+No one can take no account (notice) of public opinion, no one can ignore public opinion"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to take notice of, take into account, take account of"
+      }
+    ]
+  },
+  {
+    "word": "đến tuổi pháp định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-come of age (to...)"
+      }
+    ]
+  },
+  {
+    "word": "đế cột cần trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-boom seat"
+      }
+    ]
+  },
+  {
+    "word": "đế lắp ráp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-mounting foot"
+      }
+    ]
+  },
+  {
+    "word": "đếm số từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-word count"
+      }
+    ]
+  },
+  {
+    "word": "đế cần cẩu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-derrick leg"
+      }
+    ]
+  },
+  {
+    "word": "đế đèn hình cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-spherical panel"
+      }
+    ]
+  },
+  {
+    "word": "đế lưỡi ghi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-base of the switch point"
+      }
+    ]
+  },
+  {
+    "word": "đến giờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đến giờ\n-Up to now, hitherto\n=Từ trước đến giờ\n+From before up to now\n-It\"s time\n=Đã đến giờ lên đường\n+It\"s time to set out\n=Đến giờ nghỉ rồi\n+It\"s time to have a break"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đến giờ\n- Up to now, hitherto\n=Từ trước đến giờ+From before up to now\n- It's time\n=Đã đến giờ lên đường+It's time to set out\n=Đến giờ nghỉ rồi+It's time to have a break"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "until now, until the present (moment)"
+      }
+    ]
+  },
+  {
+    "word": "đếm riêng từng cái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-itemize"
+      }
+    ]
+  },
+  {
+    "word": "đế saphia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sapphire substare"
+      }
+    ]
+  },
+  {
+    "word": "đế van",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-valve seat"
+      }
+    ]
+  },
+  {
+    "word": "đế tựa trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-field spider"
+      }
+    ]
+  },
+  {
+    "word": "đến trễ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "arrive late"
+      }
+    ]
+  },
+  {
+    "word": "đến giờ phút này",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "until now, up to now"
+      }
+    ]
+  },
+  {
+    "word": "đế chống trượt (giày an toàn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-slip-resistant sole"
+      }
+    ]
+  },
+  {
+    "word": "đến cảng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-arrival\n-arrive"
+      }
+    ]
+  },
+  {
+    "word": "đến cuối cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-to the last"
+      }
+    ]
+  },
+  {
+    "word": "đế tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-basement\n-footing\n-wall base"
+      }
+    ]
+  },
+  {
+    "word": "đế nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đế nghiệp [đế nghiệp]\n-Reign , emperorship , kingship"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "reign, emperorship, kingship"
+      }
+    ]
+  },
+  {
+    "word": "đế khung gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ground beam\n-ground sill"
+      }
+    ]
+  },
+  {
+    "word": "đế silic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-silicon substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế bán dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-die\n@Lĩnh vực: điện tử & viễn thông\n-semiconductor substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế gỗ đỡ (chai, lọ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-receptacle wood base"
+      }
+    ]
+  },
+  {
+    "word": "đế silic loại p",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-p-type silicon substrate"
+      }
+    ]
+  },
+  {
+    "word": "đến đâu hay đó",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đến đâu hay đó [đến đâu hay đó]\n-to cross one\"s bridges when one comes to them;  what must be must be;  to take life as it comes;  come what may"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cross one’s bridges when one comes to"
+      }
+    ]
+  },
+  {
+    "word": "đế xoáy (cho đèn điện)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-screw base"
+      }
+    ]
+  },
+  {
+    "word": "đế cắm đồng xử lý số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-numeric coprocessor socket"
+      }
+    ]
+  },
+  {
     "word": "đến gần",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-approach"
+      }
+    ]
+  },
+  {
+    "word": "đế quốc chủ nghĩa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thuộc về chủ nghĩa đế quốc, có tính chất của chủ nghĩa đế quốc"
+      }
+    ]
+  },
+  {
+    "word": "đế tường chắn đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-base of retaining wall"
+      }
+    ]
+  },
+  {
+    "word": "đến sự",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to know about"
+      }
+    ]
+  },
+  {
+    "word": "đế cột/ bệ/ đôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-pedestal"
+      }
+    ]
+  },
+  {
+    "word": "đế khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-die bed\n-die shoe"
+      }
+    ]
+  },
+  {
+    "word": "đế cắm đèn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-lamp holder\n-socket"
       }
     ]
   },
@@ -2174,45 +2407,11 @@
     ]
   },
   {
-    "word": "đến nỗi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đến mức dẫn đến một điều nào đó không bình thường [nêu ra để nhấn mạnh mức độ cao]\nVí dụ:\n- sợ đến nỗi chết ngất \n - xấu đến nỗi ma chê quỷ hờn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở vào tình trạng không hay nào đó đến mức đáng lấy làm tiếc, làm buồn\nVí dụ:\n- trông bề ngoài cũng không đến nỗi nào \n - nếu chăm chỉ học hành thì đâu đến nỗi"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến nỗi\n-cũng như đến đỗi\n-To such an axtent that, to such a degree that\n=Bận đến nỗi không còn thì giờ tập thể dục\n+To be busy to such an extent that there is no time left for exercises\n-Too, at all\n=Cô ta không đến nỗi xấu\n+She is not too bad-looking"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến nỗi\n- cũng như đến đỗi\n-To such an axtent that, to such a degree that\n=Bận đến nỗi không còn thì giờ tập thể dục+To be busy to such an extent that there is no time left for exercises\n-Too, at all\n=Cô ta không đến nỗi xấu+She is not too bad-looking"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to such an extent that, such a degree that"
-      }
-    ]
-  },
-  {
-    "word": "đế móng",
+    "word": "đếm ngược",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-foot block\n-footing\n-foundation base\n-foundation bed\n-foundation mat\n-foundation pad\n-thrust pad"
-      }
-    ]
-  },
-  {
-    "word": "đế xích chạy trên băng tuyết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-snow and ice semi skeleton"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-count-down"
       }
     ]
   },
@@ -2246,212 +2445,200 @@
     ]
   },
   {
-    "word": "đế cực",
+    "word": "đế định vị (khi lắp ráp và hàn)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole piece"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-welding slab"
       }
     ]
   },
   {
-    "word": "đến trước được gán trước",
+    "word": "đế chuẩn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-First In First Allocated (FIFA)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-datum block"
       }
     ]
   },
   {
-    "word": "đế silic",
+    "word": "đế vị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-silicon substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế có chốt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-pin base"
-      }
-    ]
-  },
-  {
-    "word": "đế mạ điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electro-plate"
-      }
-    ]
-  },
-  {
-    "word": "đế, nền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-root\n@Lĩnh vực: toán & tin\n-substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế rung",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vibrating footing"
-      }
-    ]
-  },
-  {
-    "word": "đế dẫn hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-guiding shoe"
-      }
-    ]
-  },
-  {
-    "word": "đến cỡ nào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to what extent, to what size"
-      }
-    ]
-  },
-  {
-    "word": "đến hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-at term\n-mature"
-      }
-    ]
-  },
-  {
-    "word": "đến mấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến mấy [đến mấy]\n-whatever... ;  however ....;  no matter how ..."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "whatever, however, no matter how"
-      }
-    ]
-  },
-  {
-    "word": "đế saphia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-sapphire substare"
-      }
-    ]
-  },
-  {
-    "word": "đế tường chắn đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-base of retaining wall"
-      }
-    ]
-  },
-  {
-    "word": "đến từng nhà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-house-to-house"
-      }
-    ]
-  },
-  {
-    "word": "đế cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-base (of column)\n-base of column\n-base plate\n-basement\n-column base\n-column footing\n-column socle\n-columnbase\n-pattern\n-shoe\n-spur\n-stanchion base\n-template"
-      }
-    ]
-  },
-  {
-    "word": "đế quốc chủ nghĩa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thuộc về chủ nghĩa đế quốc, có tính chất của chủ nghĩa đế quốc"
-      }
-    ]
-  },
-  {
-    "word": "đế ụ sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tailstock base"
-      }
-    ]
-  },
-  {
-    "word": "đến gần sáng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until almost dawn"
-      }
-    ]
-  },
-  {
-    "word": "đếm chác",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đếm để biết là bao nhiêu [nói khái quát]\nVí dụ:\n- chắc là đủ, không phải đếm chác gì cả"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đếm chác\n-(mỉa) Count and recount\n=Có mấy đồng bạc mà đếm chác mãi\n+To count and recount a few dong in one\"s possession"
+        "dict_definition": "@đế vị\n-The throne, royalty"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đếm chác\n- (mỉa) Count and recount\n=Có mấy đồng bạc mà đếm chác mãi+To count and recount a few dong in one's possession"
+        "dict_definition": "@đế vị\n- The throne, royalty"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the throne, royalty"
       }
     ]
   },
   {
-    "word": "đế tựa trường",
+    "word": "đế tựa ma sát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-field spider"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-friction stay"
       }
     ]
   },
   {
-    "word": "đế tựa",
+    "word": "đế cam",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-abut\n-abutment\n-base plate\n-bearing plate\n-bed plate\n-heel\n-heel post\n-seat\n-shoe\n-springing\n-support base"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-cam heel"
       }
     ]
   },
   {
-    "word": "đến gần tiếp",
+    "word": "đến hạn thanh toán",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-stay near"
+        "dict_definition": "@Chuyên ngành kinh tế\n-mature"
+      }
+    ]
+  },
+  {
+    "word": "đế cắm zif",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-zero Insertion Force-ZIF-socket"
+      }
+    ]
+  },
+  {
+    "word": "đế tấm mạch in",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-printed circuit substrate"
+      }
+    ]
+  },
+  {
+    "word": "đế, giá đỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-stand"
+      }
+    ]
+  },
+  {
+    "word": "đế chế",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chế độ chính trị của nước có hoàng đế đứng đầu\nVí dụ:\n- đế chế La Mã"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đế chế\n-Monarchy\n@Chuyên ngành kỹ thuật\n-empire"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đế chế\n- Monarchy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "monarchy"
+      }
+    ]
+  },
+  {
+    "word": "đếm xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-traffic count"
+      }
+    ]
+  },
+  {
+    "word": "đếm từ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-word count"
+      }
+    ]
+  },
+  {
+    "word": "đếm bạch cầu phân biệt (đếm máu phân biệt)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-differential leucocyte count"
+      }
+    ]
+  },
+  {
+    "word": "đếm chữ số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-digit count"
+      }
+    ]
+  },
+  {
+    "word": "đến như vậy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to that extent, so much, to such a degree"
+      }
+    ]
+  },
+  {
+    "word": "đế nối sứ xuyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-bushing adapter"
+      }
+    ]
+  },
+  {
+    "word": "đến nỗi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đến mức dẫn đến một điều nào đó không bình thường [nêu ra để nhấn mạnh mức độ cao]\nVí dụ:\n- sợ đến nỗi chết ngất \n - xấu đến nỗi ma chê quỷ hờn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở vào tình trạng không hay nào đó đến mức đáng lấy làm tiếc, làm buồn\nVí dụ:\n- trông bề ngoài cũng không đến nỗi nào \n - nếu chăm chỉ học hành thì đâu đến nỗi"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đến nỗi\n-cũng như đến đỗi\n-To such an axtent that, to such a degree that\n=Bận đến nỗi không còn thì giờ tập thể dục\n+To be busy to such an extent that there is no time left for exercises\n-Too, at all\n=Cô ta không đến nỗi xấu\n+She is not too bad-looking"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đến nỗi\n- cũng như đến đỗi\n-To such an axtent that, to such a degree that\n=Bận đến nỗi không còn thì giờ tập thể dục+To be busy to such an extent that there is no time left for exercises\n-Too, at all\n=Cô ta không đến nỗi xấu+She is not too bad-looking"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to such an extent that, such a degree that"
+      }
+    ]
+  },
+  {
+    "word": "đế cọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-boot\n-jaw of pile\n-pile foot"
       }
     ]
   },
@@ -2465,350 +2652,38 @@
     ]
   },
   {
-    "word": "đế có gân",
+    "word": "đế mạch lai màng dày",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-grouser shoes"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-thick film hybrid circuit substrate"
       }
     ]
   },
   {
-    "word": "đế máy mài",
+    "word": "đế, bệ xú páp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-runner bar"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-valve seat"
       }
     ]
   },
   {
-    "word": "đế cột áp tường",
+    "word": "đế cực",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pilaster base"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-pole piece"
       }
     ]
   },
   {
-    "word": "đế xúp-páp côn",
+    "word": "đế đỡ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-inclined valve seat"
-      }
-    ]
-  },
-  {
-    "word": "đế lưỡi ghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-base of the switch point"
-      }
-    ]
-  },
-  {
-    "word": "đến cùng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đến tận cùng, cho đến khi đạt được kết quả\nVí dụ:\n- quyết tâm đến cùng \n - giữ bí mật đến cùng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến cùng\n-To a finish, to the bitter end\n=Đấu tranh đến cùng\n+To fight (struggle) to the bitter end\n@Chuyên ngành kỹ thuật\n-to the last"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đến cùng\n- To a finish, to the bitter end\n=Đấu tranh đến cùng+To fight (struggle) to the bitter end"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until the end, last"
-      }
-    ]
-  },
-  {
-    "word": "đến cảng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-arrival\n-arrive"
-      }
-    ]
-  },
-  {
-    "word": "đế cách điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-insulating holder\n-insulating retainer\n-insulating substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế thích",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Đế Thích\n- Tên là Lý Chế, truyền thuyết nói rằng ông là người rất cao cờ, thường được gọi là Vua Đế Thích"
-      }
-    ]
-  },
-  {
-    "word": "đế đèn 8 cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-octal base"
-      }
-    ]
-  },
-  {
-    "word": "đế càng mũi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-nose gear saddle"
-      }
-    ]
-  },
-  {
-    "word": "đế rơ le",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện\n-relay base"
-      }
-    ]
-  },
-  {
-    "word": "đế quốc nga",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "Russian empire"
-      }
-    ]
-  },
-  {
-    "word": "đế silic loại p",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-p-type silicon substrate"
-      }
-    ]
-  },
-  {
-    "word": "đế chổi than",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-brush holder"
-      }
-    ]
-  },
-  {
-    "word": "đếm số từ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-word count"
-      }
-    ]
-  },
-  {
-    "word": "đế neo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stay-block"
-      }
-    ]
-  },
-  {
-    "word": "đế cắm đồng xử lý số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-numeric coprocessor socket"
-      }
-    ]
-  },
-  {
-    "word": "đếm thụt lùi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-countdown"
-      }
-    ]
-  },
-  {
-    "word": "đế (cắt gọt)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-shoe"
-      }
-    ]
-  },
-  {
-    "word": "đế khung gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ground beam\n-ground sill"
-      }
-    ]
-  },
-  {
-    "word": "đến mức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến mức [đến mức]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "đến đây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to come here"
-      }
-    ]
-  },
-  {
-    "word": "đế (đèn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-panel"
-      }
-    ]
-  },
-  {
-    "word": "đến này",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "until now"
-      }
-    ]
-  },
-  {
-    "word": "đế hiệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đế hiệu\n-Name of a king\"s (emperor\"s) reign"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đế hiệu\n- Name of a king's (emperor's) reign"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "name of a king’s (emperor’s) reign"
-      }
-    ]
-  },
-  {
-    "word": "đếm tây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hand count; to count by hand"
-      }
-    ]
-  },
-  {
-    "word": "đế đèn điện tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-electron tube base"
-      }
-    ]
-  },
-  {
-    "word": "đế giữ lò xo xú páp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-valve spring seat"
-      }
-    ]
-  },
-  {
-    "word": "đế tựa ray ghi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-switch rail chair"
-      }
-    ]
-  },
-  {
-    "word": "đến một lúc nào đó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "at one point, at a certain time"
-      }
-    ]
-  },
-  {
-    "word": "đến tiếp sau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-to arrive"
-      }
-    ]
-  },
-  {
-    "word": "đến đâu hay đó",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đến đâu hay đó [đến đâu hay đó]\n-to cross one\"s bridges when one comes to them;  what must be must be;  to take life as it comes;  come what may"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cross one’s bridges when one comes to"
-      }
-    ]
-  },
-  {
-    "word": "đếm kiểm tuần hoàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cycle count"
-      }
-    ]
-  },
-  {
-    "word": "đế khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-die bed\n-die shoe"
-      }
-    ]
-  },
-  {
-    "word": "đếm bằng số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-digit count"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mounting pad\n-stirrup"
       }
     ]
   },
@@ -2822,47 +2697,172 @@
     ]
   },
   {
-    "word": "đế bằng",
+    "word": "đế xu páp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-flat shoes"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-valve seat"
       }
     ]
   },
   {
-    "word": "đến với khách hàng",
+    "word": "đế hoa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đế hoa [đế hoa]\n*danh từ\n-peduncle; (botany) receptable, torus, calyx"
+      }
+    ]
+  },
+  {
+    "word": "đế cột ngàm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fixed column base\n-hingeless column base"
+      }
+    ]
+  },
+  {
+    "word": "đến hết trang 10",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-up to and including page 10"
+      }
+    ]
+  },
+  {
+    "word": "đến lượt mình",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to reach customers"
+        "dict_definition": "when your time, turn comes"
       }
     ]
   },
   {
-    "word": "đế thụ động",
+    "word": "đế phụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-passive substrate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-accessory shoe"
       }
     ]
   },
   {
-    "word": "đế cột cần trục",
+    "word": "đế đô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-boom seat"
+        "dict_definition": "@đế đô\n-Imperial (royal) capital"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đế đô\n- Imperial (royal) capital"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "imperial (royal) capital"
       }
     ]
   },
   {
-    "word": "đế tay cầm",
+    "word": "đến mức",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-boom seat"
+        "dict_definition": "@đến mức [đến mức]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "đế tải thông thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-convergent beam"
+      }
+    ]
+  },
+  {
+    "word": "đế dẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-flat shoe"
+      }
+    ]
+  },
+  {
+    "word": "đến cỡ nào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to what extent, to what size"
+      }
+    ]
+  },
+  {
+    "word": "đế nửa cách điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-semi-insulating substrata"
+      }
+    ]
+  },
+  {
+    "word": "đế ngạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bayonet base\n-bayonet holder\n-bayonet socket"
+      }
+    ]
+  },
+  {
+    "word": "đế cột liền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-solid column base"
+      }
+    ]
+  },
+  {
+    "word": "đếm tế bào rm bị mất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Missing RM Cell Count (CRM)"
+      }
+    ]
+  },
+  {
+    "word": "đế cột ống chống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-casing shoe"
+      }
+    ]
+  },
+  {
+    "word": "đế guốc hãm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-brake head"
+      }
+    ]
+  },
+  {
+    "word": "đếm kim cương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-diamond count"
       }
     ]
   }

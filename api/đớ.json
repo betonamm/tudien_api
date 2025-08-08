@@ -1,10 +1,73 @@
 [
   {
-    "word": "đới bão hòa",
+    "word": "đới gió mậu dịch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-zone of saturation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-trade-wind belt"
+      }
+    ]
+  },
+  {
+    "word": "đới ôxi hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of oxidation"
+      }
+    ]
+  },
+  {
+    "word": "đới sét mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gauge zone"
+      }
+    ]
+  },
+  {
+    "word": "đới đất đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-terrene"
+      }
+    ]
+  },
+  {
+    "word": "đới mù",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blind zone"
+      }
+    ]
+  },
+  {
+    "word": "đới nước màng mỏng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pellicular zone"
+      }
+    ]
+  },
+  {
+    "word": "đới gốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-root zone"
+      }
+    ]
+  },
+  {
+    "word": "đới rìa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-marginal zone"
       }
     ]
   },
@@ -18,20 +81,264 @@
     ]
   },
   {
-    "word": "đới biến chất",
+    "word": "đớ họng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-metamorphic zone"
+        "dict_definition": "@đớ họng\n-như đớ"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớ họng\n- như đớ"
       }
     ]
   },
   {
-    "word": "đới ven bờ",
+    "word": "đớn kiếp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-littoral zone"
+        "dict_definition": "@đớn kiếp\n-như đớn đời"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớn kiếp\n- như đớn đời"
+      }
+    ]
+  },
+  {
+    "word": "đới nước ngầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phreatic zone"
+      }
+    ]
+  },
+  {
+    "word": "đới benioff",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-Benioff zone"
+      }
+    ]
+  },
+  {
+    "word": "đới cận bờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sublittoral zone"
+      }
+    ]
+  },
+  {
+    "word": "đới không bị ô nhiễm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unconsolidated zone"
+      }
+    ]
+  },
+  {
+    "word": "đới phá vỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fracture zone"
+      }
+    ]
+  },
+  {
+    "word": "đới fresnel",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Fresnel zones\n-half-period zones"
+      }
+    ]
+  },
+  {
+    "word": "đới nâng kiến trúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-structural high"
+      }
+    ]
+  },
+  {
+    "word": "đới phân mạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stringer zone"
+      }
+    ]
+  },
+  {
+    "word": "đới thoáng khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of aeration"
+      }
+    ]
+  },
+  {
+    "word": "đới địa lí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dải đất và biển chạy vòng quanh Trái Đất theo hướng vĩ tuyến, được quy định chủ yếu bởi lượng nhiệt nhận được của Mặt Trời và độ ẩm, có những đặc điểm địa lí hoặc khí hậu tương đối đồng nhất"
+      }
+    ]
+  },
+  {
+    "word": "đớ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có cảm giác như lưỡi bị cứng lại, không nói được nữa\nVí dụ:\n- đớ lưỡi, không nói được câu nào"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớ\n-Be speechless from shortage of argument\n=Đớ ra vì không trả lời lại được những lý lẽ sắc bén của đối phương\n+To be spechless from the failure to answer one\"s opponent\"s trenchant arguments"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớ\n- Be speechless from shortage of argument\n=Đớ ra vì không trả lời lại được những lý lẽ sắc bén của đối phương+To be spechless from the failure to answer one's opponent's trenchant arguments"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dumbfounded"
+      }
+    ]
+  },
+  {
+    "word": "đớn đời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớn đời\n-cũng nói đớn kiếp Badly-bahaved"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớn đời\n- cũng nói đớn kiếp Badly-bahaved"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "badly-behaved"
+      }
+    ]
+  },
+  {
+    "word": "đới thấm nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vadose zone"
+      }
+    ]
+  },
+  {
+    "word": "đới ngập nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flushed zone"
+      }
+    ]
+  },
+  {
+    "word": "đới nước bề mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phreatic zone"
+      }
+    ]
+  },
+  {
+    "word": "đới xiclon",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-anticyclone"
+      }
+    ]
+  },
+  {
+    "word": "đới khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas zone"
+      }
+    ]
+  },
+  {
+    "word": "đới bị xâm nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-invaded zone"
+      }
+    ]
+  },
+  {
+    "word": "đới đàn hồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-elastic range\n-elastic region"
+      }
+    ]
+  },
+  {
+    "word": "đới dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil zone"
+      }
+    ]
+  },
+  {
+    "word": "đới đứt gãy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-crush zone\n-fault space\n-fault zone\n-riftzone\n-rupture zone"
+      }
+    ]
+  },
+  {
+    "word": "đới nếp uốn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-belt of folded strata"
+      }
+    ]
+  },
+  {
+    "word": "đới á duyên lái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sublittoral zone"
+      }
+    ]
+  },
+  {
+    "word": "đới cắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shear zone"
       }
     ]
   },
@@ -45,20 +352,145 @@
     ]
   },
   {
-    "word": "đới gãy vụn",
+    "word": "đới vỡ vụn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-crushed zone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-shatter belt\n-shattered zone"
       }
     ]
   },
   {
-    "word": "đới hoạt động",
+    "word": "đới khí hậu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-active zone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-climate zone\n-climatic zone"
+      }
+    ]
+  },
+  {
+    "word": "đới có sản phẩm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pay zone"
+      }
+    ]
+  },
+  {
+    "word": "đới sáng rõ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-euphotic zone"
+      }
+    ]
+  },
+  {
+    "word": "đới sunfua",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sulphide zone"
+      }
+    ]
+  },
+  {
+    "word": "đới truyền dẫn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-conductive zone"
+      }
+    ]
+  },
+  {
+    "word": "đới dăm kết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-brecciate zone"
+      }
+    ]
+  },
+  {
+    "word": "đớn đau",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như đau đớn\nVí dụ:\n- những thất bại đớn đau"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớn đau [đớn đau]\n-sorrowful, sad"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sorrowful, sad"
+      }
+    ]
+  },
+  {
+    "word": "đới mưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-area of shower\n-rain zone"
+      }
+    ]
+  },
+  {
+    "word": "đới phay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-crush zone"
+      }
+    ]
+  },
+  {
+    "word": "đới fresnel thứ nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-first Fresnel zone"
+      }
+    ]
+  },
+  {
+    "word": "đới nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-zonules"
+      }
+    ]
+  },
+  {
+    "word": "đới khóang hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mineralizer"
+      }
+    ]
+  },
+  {
+    "word": "đới tĩnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-skip zone"
+      }
+    ]
+  },
+  {
+    "word": "đới hoang mạc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-desert belt\n-desert zone"
       }
     ]
   },
@@ -72,11 +504,109 @@
     ]
   },
   {
+    "word": "đới bị rửa lũa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leached zone"
+      }
+    ]
+  },
+  {
+    "word": "đới chuyển tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-transition belt\n-transition zone"
+      }
+    ]
+  },
+  {
+    "word": "đớn mạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớn mạt\n-Mean, low"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớn mạt\n- Mean, low"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mean, low"
+      }
+    ]
+  },
+  {
+    "word": "đới phong hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-belt of cementation\n-belt of weathering\n-weathered zone\n-weathering velocity\n-zone of alteration\n-zone of weathering"
+      }
+    ]
+  },
+  {
+    "word": "đới chu kỳ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-period strip"
+      }
+    ]
+  },
+  {
     "word": "đới tin cậy",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-confidence belt"
+      }
+    ]
+  },
+  {
+    "word": "đới uốn nếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bow area\n-fold belt\n-zone of folding"
+      }
+    ]
+  },
+  {
+    "word": "đới sóng vỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-surf zone"
+      }
+    ]
+  },
+  {
+    "word": "đới rễ cây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rhizosphere"
+      }
+    ]
+  },
+  {
+    "word": "đới đóng băng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-frozen zone"
+      }
+    ]
+  },
+  {
+    "word": "đới địa lý",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem đới địa lí"
       }
     ]
   },
@@ -90,11 +620,103 @@
     ]
   },
   {
-    "word": "đới địa chất",
+    "word": "đớp ruồi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớp ruồi [đớp ruồi]\n-(bird) flycatcher; muscipapa"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(bird) flycatcher, muscipapa"
+      }
+    ]
+  },
+  {
+    "word": "đới yên tĩnh nhiệt đới",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-horse latitude"
+      }
+    ]
+  },
+  {
+    "word": "đới phân phiến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of jointing"
+      }
+    ]
+  },
+  {
+    "word": "đớn hèn",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đơn vị địa tầng ứng với thời gian sinh tồn của một loài sinh vật nhất định"
+        "dict_definition": "hèn đến mức không còn giữ được tư cách, phẩm giá, rất đáng khinh\nVí dụ:\n- kẻ đớn hèn"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@đớn hèn\n- t. Hèn đến mức tỏ ra không có chút bản lĩnh, rất đáng khinh. Tư cách đớn hèn."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớn hèn\n*adj\n-vile"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớn hèn\n* adj\n- vile"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "vile"
+      }
+    ]
+  },
+  {
+    "word": "đới có than",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coal belt"
+      }
+    ]
+  },
+  {
+    "word": "đới biến chất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-metamorphic zone"
+      }
+    ]
+  },
+  {
+    "word": "đới căng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tensile zone"
+      }
+    ]
+  },
+  {
+    "word": "đới lặng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-skip zone"
+      }
+    ]
+  },
+  {
+    "word": "đới bão hòa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-zone of saturation"
       }
     ]
   },
@@ -120,65 +742,11 @@
     ]
   },
   {
-    "word": "đới địa lí",
+    "word": "đới địa chất",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dải đất và biển chạy vòng quanh Trái Đất theo hướng vĩ tuyến, được quy định chủ yếu bởi lượng nhiệt nhận được của Mặt Trời và độ ẩm, có những đặc điểm địa lí hoặc khí hậu tương đối đồng nhất"
-      }
-    ]
-  },
-  {
-    "word": "đới dăm kết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-brecciate zone"
-      }
-    ]
-  },
-  {
-    "word": "đới phân phiến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of jointing"
-      }
-    ]
-  },
-  {
-    "word": "đới khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-gas zone"
-      }
-    ]
-  },
-  {
-    "word": "đới cấu tạo kết vón",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-concretionary zone"
-      }
-    ]
-  },
-  {
-    "word": "đới dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oil zone"
-      }
-    ]
-  },
-  {
-    "word": "đới thấm nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-vadose zone"
+        "dict_definition": "đơn vị địa tầng ứng với thời gian sinh tồn của một loài sinh vật nhất định"
       }
     ]
   },
@@ -200,6 +768,71 @@
     ]
   },
   {
+    "word": "đới giữ nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-field capacity zone"
+      }
+    ]
+  },
+  {
+    "word": "đới sụt lún",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-structural depression"
+      }
+    ]
+  },
+  {
+    "word": "đớ lưỡi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớ lưỡi\n-Lose the power of speech from serious illness\n=\n+hư đớ"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớ lưỡi\n- Lose the power of speech from serious illness\n=như đớ"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lose the power of speech from serious illness"
+      }
+    ]
+  },
+  {
+    "word": "đớn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[thóc, gạo] bị gãy, vỡ nhiều khi giã hoặc xay\nVí dụ:\n- gạo đớn \n - thóc xay bị đớn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@đớn\n-Broken (nói về gạo)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@đớn\n- Broken (nói về gạo)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "broken"
+      }
+    ]
+  },
+  {
+    "word": "đới hoạt động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-active zone"
+      }
+    ]
+  },
+  {
     "word": "đớt",
     "definitions": [
       {
@@ -213,116 +846,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@đớt\n- xem nói đớt"
-      }
-    ]
-  },
-  {
-    "word": "đới phân mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-stringer zone"
-      }
-    ]
-  },
-  {
-    "word": "đới giữ nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-field capacity zone"
-      }
-    ]
-  },
-  {
-    "word": "đớn đau",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như đau đớn\nVí dụ:\n- những thất bại đớn đau"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớn đau [đớn đau]\n-sorrowful, sad"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sorrowful, sad"
-      }
-    ]
-  },
-  {
-    "word": "đới gió mậu dịch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-trade-wind belt"
-      }
-    ]
-  },
-  {
-    "word": "đới vỡ vụn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-shatter belt\n-shattered zone"
-      }
-    ]
-  },
-  {
-    "word": "đới băng tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-moraine belt"
-      }
-    ]
-  },
-  {
-    "word": "đới có sản phẩm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pay zone"
-      }
-    ]
-  },
-  {
-    "word": "đới phay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-crush zone"
-      }
-    ]
-  },
-  {
-    "word": "đớp ruồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớp ruồi [đớp ruồi]\n-(bird) flycatcher; muscipapa"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(bird) flycatcher, muscipapa"
-      }
-    ]
-  },
-  {
-    "word": "đớn mạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớn mạt\n-Mean, low"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớn mạt\n- Mean, low"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mean, low"
       }
     ]
   },
@@ -356,190 +879,11 @@
     ]
   },
   {
-    "word": "đới nâng kiến trúc",
+    "word": "đới nife",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-structural high"
-      }
-    ]
-  },
-  {
-    "word": "đới biển thẳm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-abyssal zone"
-      }
-    ]
-  },
-  {
-    "word": "đới địa lý",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem đới địa lí"
-      }
-    ]
-  },
-  {
-    "word": "đới ôxi hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of oxidation"
-      }
-    ]
-  },
-  {
-    "word": "đớ lưỡi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớ lưỡi\n-Lose the power of speech from serious illness\n=\n+hư đớ"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớ lưỡi\n- Lose the power of speech from serious illness\n=như đớ"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lose the power of speech from serious illness"
-      }
-    ]
-  },
-  {
-    "word": "đới fresnel",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Fresnel zones\n-half-period zones"
-      }
-    ]
-  },
-  {
-    "word": "đới sét mạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gauge zone"
-      }
-    ]
-  },
-  {
-    "word": "đới nước ngầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phreatic zone"
-      }
-    ]
-  },
-  {
-    "word": "đới sóng vỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-surf zone"
-      }
-    ]
-  },
-  {
-    "word": "đới gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-root zone"
-      }
-    ]
-  },
-  {
-    "word": "đới giữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mesozone"
-      }
-    ]
-  },
-  {
-    "word": "đới cắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shear zone"
-      }
-    ]
-  },
-  {
-    "word": "đới không bị ô nhiễm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unconsolidated zone"
-      }
-    ]
-  },
-  {
-    "word": "đới tĩnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-skip zone"
-      }
-    ]
-  },
-  {
-    "word": "đới đàn hồi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-elastic range\n-elastic region"
-      }
-    ]
-  },
-  {
-    "word": "đới hoang mạc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-desert belt\n-desert zone"
-      }
-    ]
-  },
-  {
-    "word": "đới fresnel thứ nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-first Fresnel zone"
-      }
-    ]
-  },
-  {
-    "word": "đới dịch chuyển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-displacement zone"
-      }
-    ]
-  },
-  {
-    "word": "đới nước màng mỏng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pellicular zone"
-      }
-    ]
-  },
-  {
-    "word": "đới đất đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-terrene"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nife-zone"
       }
     ]
   },
@@ -553,58 +897,6 @@
     ]
   },
   {
-    "word": "đới đứt gãy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-crush zone\n-fault space\n-fault zone\n-riftzone\n-rupture zone"
-      }
-    ]
-  },
-  {
-    "word": "đới khóang hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mineralizer"
-      }
-    ]
-  },
-  {
-    "word": "đớn hèn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hèn đến mức không còn giữ được tư cách, phẩm giá, rất đáng khinh\nVí dụ:\n- kẻ đớn hèn"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@đớn hèn\n- t. Hèn đến mức tỏ ra không có chút bản lĩnh, rất đáng khinh. Tư cách đớn hèn."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớn hèn\n*adj\n-vile"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớn hèn\n* adj\n- vile"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "vile"
-      }
-    ]
-  },
-  {
-    "word": "đới mưa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-area of shower\n-rain zone"
-      }
-    ]
-  },
-  {
     "word": "đới nóng chảy",
     "definitions": [
       {
@@ -614,218 +906,20 @@
     ]
   },
   {
-    "word": "đớ",
+    "word": "đới ven bờ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có cảm giác như lưỡi bị cứng lại, không nói được nữa\nVí dụ:\n- đớ lưỡi, không nói được câu nào"
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@đớ\n-Be speechless from shortage of argument\n=Đớ ra vì không trả lời lại được những lý lẽ sắc bén của đối phương\n+To be spechless from the failure to answer one\"s opponent\"s trenchant arguments"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớ\n- Be speechless from shortage of argument\n=Đớ ra vì không trả lời lại được những lý lẽ sắc bén của đối phương+To be spechless from the failure to answer one's opponent's trenchant arguments"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dumbfounded"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-littoral zone"
       }
     ]
   },
   {
-    "word": "đới thoáng khí",
+    "word": "đới dịch chuyển",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of aeration"
-      }
-    ]
-  },
-  {
-    "word": "đớn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[thóc, gạo] bị gãy, vỡ nhiều khi giã hoặc xay\nVí dụ:\n- gạo đớn \n - thóc xay bị đớn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớn\n-Broken (nói về gạo)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớn\n- Broken (nói về gạo)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "broken"
-      }
-    ]
-  },
-  {
-    "word": "đới uốn nếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bow area\n-fold belt\n-zone of folding"
-      }
-    ]
-  },
-  {
-    "word": "đới xiclon",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-anticyclone"
-      }
-    ]
-  },
-  {
-    "word": "đới khí hậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-climate zone\n-climatic zone"
-      }
-    ]
-  },
-  {
-    "word": "đới mù",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-blind zone"
-      }
-    ]
-  },
-  {
-    "word": "đới truyền dẫn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-conductive zone"
-      }
-    ]
-  },
-  {
-    "word": "đới bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coastal zone"
-      }
-    ]
-  },
-  {
-    "word": "đới bị xâm nhập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-invaded zone"
-      }
-    ]
-  },
-  {
-    "word": "đới rìa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-marginal zone"
-      }
-    ]
-  },
-  {
-    "word": "đới kẽm sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dysphotic zone"
-      }
-    ]
-  },
-  {
-    "word": "đới sụt lún",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-structural depression"
-      }
-    ]
-  },
-  {
-    "word": "đớn kiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớn kiếp\n-như đớn đời"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớn kiếp\n- như đớn đời"
-      }
-    ]
-  },
-  {
-    "word": "đới chu kỳ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-period strip"
-      }
-    ]
-  },
-  {
-    "word": "đới xâm nhập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of invasion"
-      }
-    ]
-  },
-  {
-    "word": "đớn đời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớn đời\n-cũng nói đớn kiếp Badly-bahaved"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớn đời\n- cũng nói đớn kiếp Badly-bahaved"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "badly-behaved"
-      }
-    ]
-  },
-  {
-    "word": "đới sáng rõ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-euphotic zone"
-      }
-    ]
-  },
-  {
-    "word": "đới cận bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sublittoral zone"
-      }
-    ]
-  },
-  {
-    "word": "đới rễ cây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rhizosphere"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-displacement zone"
       }
     ]
   },
@@ -839,150 +933,11 @@
     ]
   },
   {
-    "word": "đới á duyên lái",
+    "word": "đới biển thẳm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sublittoral zone"
-      }
-    ]
-  },
-  {
-    "word": "đới lặng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-skip zone"
-      }
-    ]
-  },
-  {
-    "word": "đới căng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tensile zone"
-      }
-    ]
-  },
-  {
-    "word": "đới đóng băng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-frozen zone"
-      }
-    ]
-  },
-  {
-    "word": "đới tiếp xúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-contact zone"
-      }
-    ]
-  },
-  {
-    "word": "đới sunfua",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sulphide zone"
-      }
-    ]
-  },
-  {
-    "word": "đới phong hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-belt of cementation\n-belt of weathering\n-weathered zone\n-weathering velocity\n-zone of alteration\n-zone of weathering"
-      }
-    ]
-  },
-  {
-    "word": "đới nếp uốn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-belt of folded strata"
-      }
-    ]
-  },
-  {
-    "word": "đới phá vỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fracture zone"
-      }
-    ]
-  },
-  {
-    "word": "đới benioff",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-Benioff zone"
-      }
-    ]
-  },
-  {
-    "word": "đới yên tĩnh nhiệt đới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-horse latitude"
-      }
-    ]
-  },
-  {
-    "word": "đới nước bề mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-phreatic zone"
-      }
-    ]
-  },
-  {
-    "word": "đới có than",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-coal belt"
-      }
-    ]
-  },
-  {
-    "word": "đới ngập nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-flushed zone"
-      }
-    ]
-  },
-  {
-    "word": "đớ họng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@đớ họng\n-như đớ"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@đớ họng\n- như đớ"
-      }
-    ]
-  },
-  {
-    "word": "đới chuyển tiếp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-transition belt\n-transition zone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-abyssal zone"
       }
     ]
   },
@@ -996,29 +951,74 @@
     ]
   },
   {
-    "word": "đới nife",
+    "word": "đới cấu tạo kết vón",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-nife-zone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-concretionary zone"
       }
     ]
   },
   {
-    "word": "đới bị rửa lũa",
+    "word": "đới băng tích",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leached zone"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-moraine belt"
       }
     ]
   },
   {
-    "word": "đới nhỏ",
+    "word": "đới gãy vụn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-zonules"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-crushed zone"
+      }
+    ]
+  },
+  {
+    "word": "đới giữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mesozone"
+      }
+    ]
+  },
+  {
+    "word": "đới tiếp xúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-contact zone"
+      }
+    ]
+  },
+  {
+    "word": "đới bờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-coastal zone"
+      }
+    ]
+  },
+  {
+    "word": "đới kẽm sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dysphotic zone"
+      }
+    ]
+  },
+  {
+    "word": "đới xâm nhập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-zone of invasion"
       }
     ]
   }

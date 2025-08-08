@@ -1,127 +1,73 @@
 [
   {
-    "word": "tọa độ mật tiếp",
+    "word": "tọa độ descarters (đề các)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-osculating coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Cartesian coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ thừa nhận được",
+    "word": "tọa tọa thiên hà",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-allowable coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-galactic coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ làm việc",
+    "word": "tọa độ đẳng hướng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-movable local co-ordinate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-isotropic coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ tiêu",
+    "word": "tọa độ pháp tuyến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-focal coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ rút gọn",
+    "word": "tọa độ elipxoidan",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reduced coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ellipsoidal coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ người dùng",
+    "word": "tọa độ hiện tại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-user coordinate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-current coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ màu",
+    "word": "tọa độ tuyệt đối",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-chromaticity coordinates\n-color coordinate\n-colour coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-absolute coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ trắc địa",
+    "word": "tọa độ vòng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-geodesic coordinates\n-geodetic coordinate\n-geodetic position"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ đồng tiêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-confocal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ elliptic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elliptic coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ thiết bị chuẩn hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-NDC (normalized devicecoordinates)\n-normalized device coordinate (NDC)"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ trụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cylindrical coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ điểm cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-end-point coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ cong tuyến tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-curvilinear coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-circle coordinates"
       }
     ]
   },
@@ -135,132 +81,6 @@
     ]
   },
   {
-    "word": "tọa độ xilic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ignorable coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa vi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-affixe"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ thuần nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-homogeneous coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ ellipsoitda",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ellipsoidal coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ descartes",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Cartesian coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ mắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-eye coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-spherical coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ paraboloiđan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-paraboidal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ eliptic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elliptic coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-point coordinate\n@Lĩnh vực: toán & tin\n-point coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ không thuần nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-homogeneous coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ phẳng gauss",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Gauss plane coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ xiên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-oblique coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ nhật tâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-heliocentric coordinates"
-      }
-    ]
-  },
-  {
     "word": "tọa độ trụ eliptic",
     "definitions": [
       {
@@ -270,80 +90,20 @@
     ]
   },
   {
-    "word": "tọa độ tứ diện",
+    "word": "tọa độ thẳng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tetrahedral coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rectilinear coordinates"
       }
     ]
   },
   {
-    "word": "tọc mạch",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như thóc mách\nVí dụ:\n- nó tọc mạch vào chuyện của người khác"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọc mạch\n- Nh. Thóc mách."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tọc mạch [tọc mạch]\n-prying;    curious;   inquisitive"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "prying, curious, inquisitive"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ gia tốc",
+    "word": "tọa độ ellipsoit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-incremental coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa thiền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọa thiền\n- toạ thiền đg. Ngồi im lặng theo kiểu riêng, giữ cho thân và tâm không động, theo đạo Phật; ngồi thiền. Nơi toạ thiền thật yên tĩnh. Sư ông đang toạ thiền. Luyện tập dưỡng sinh theo kiểu toạ thiền."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tọa thiền\n*verb\n-to sit in meditation"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tọa thiền\n* verb\n-to sit in meditation"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sit in meditation"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ affin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-affine coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ không gian",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-space coordinate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-confocal coordinates"
       }
     ]
   },
@@ -357,25 +117,189 @@
     ]
   },
   {
-    "word": "tọa độ tam (giác) pháp tuyến",
+    "word": "tọa độ descartes",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal trilinear coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-Cartesian coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ sắc độ",
+    "word": "tọa độ tăng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-chromaticity coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-incremental coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ descarters (đề các)",
+    "word": "tọa độ người dùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-user coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ cực trắc địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geodesic polar coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ phỏng xuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-toroidal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa hưởng kỳ thành",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọa hưởng kỳ thành\n- Ngồi không mà hưởng kết quả công lao của người khác."
+      }
+    ]
+  },
+  {
+    "word": "tọa độ cong tuyến tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-curvilinear coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ đồng tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-confocal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ thiết bị chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normalized device coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ trực giao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-orthogonal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ mật tiếp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-osculating coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa thị",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọa thị\n- Ngồi mà nhìn, không hành động (cũ)."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sit idle, remain indiffrent"
+      }
+    ]
+  },
+  {
+    "word": "tọa đăng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọa đăng\n- Đèn để bàn (cũ)."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "desk lamp"
+      }
+    ]
+  },
+  {
+    "word": "tọa đàm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọa đàm\n- toạ đàm đgt. Họp mặt trao đổi, nói chuyện thân mật với nhau về một vấn đề nào đó: toạ đàm về công tác giáo dục thiếu niên nhi đồng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tọa đàm\n*verb\n-to hold informal talk"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tọa đàm\n* verb\n-to hold informal talk"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to hold an informal talk"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ màu sắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-chromaticity coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ quán tính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inertial coordinate\n-inertial coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ phỏng cầu dẹt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-oblate spheroidal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ cửa sổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-window coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ đề các",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -384,97 +308,47 @@
     ]
   },
   {
-    "word": "tọa độ tổng quát hóa",
+    "word": "tọa độ không gian",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-generalized coordinate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-space coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ trục",
+    "word": "tọa độ tiện ích",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial coordinates\n@Lĩnh vực: vật lý\n-cylindrical coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-areal coordinates"
       }
     ]
   },
   {
-    "word": "tọa hưởng",
+    "word": "tọa độ vạn năng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọa hưởng\n- toạ hưởng đg. (cũ). Ngồi không mà hưởng."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@tọa hưởng\n*verb\n-to enjoy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tọa hưởng\n* verb\n-to enjoy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to enjoy"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-world coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ (cực)",
+    "word": "tọa độ z",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spherical polar coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-altitude\n@Lĩnh vực: vật lý\n-Z-coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ màn hình",
+    "word": "tọa độ toàn cầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-screen space"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ quy ước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-false coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọt",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "di chuyển vào nơi kín đáo bằng động tác rất nhanh, gọn\nVí dụ:\n- con chuột tọt vội vào hang \n - anh ta tọt xuống hầm rồi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bằng một động tác nhanh và đột ngột\nVí dụ:\n- sợ quá, chạy tọt vào nhà \n - bỏ tọt miếng bánh vào miệng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọt\n- ph. Nhanh, gọn : Chạy tọt ra cửa ; Bỏ tọt vào miệng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tọt\n*adv\n-swiftly"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tọt\n* adv\n- swiftly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "swiftly"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-world coordinate (WC)"
       }
     ]
   },
@@ -488,20 +362,11 @@
     ]
   },
   {
-    "word": "tọa độ tương đối",
+    "word": "tọa độ không thuần nhất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relative coordinate\n-relative coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ nửa trực giao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-orthogonal coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-non-homogeneous coordinates"
       }
     ]
   },
@@ -527,353 +392,11 @@
     ]
   },
   {
-    "word": "tọa độ (cực) cầu",
+    "word": "tọa độ bản đồ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spherical polar coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tiện ích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-areal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ ellipsoit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-confocal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa lạc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọa lạc\n- toạ lạc đgt., vchg, kcách (Nhà cửa, đất đai) ở tại nơi nào đó: Khu đất toạ lạc ở đầu đình."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tọa lạc\n*verb\n-be located, to be situated"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tọa lạc\n* verb\n-be located, to be situated"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "located, situated"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ trên thực địa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-field position"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tia",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ray coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ đề các",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-Cartesian coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ thông thường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ordinary coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa đăng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọa đăng\n- Đèn để bàn (cũ)."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "desk lamp"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ trụ elíp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elliptic cylindrical coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tam giác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trilinear coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ quán tính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-inertial coordinate\n-inertial coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cho vào một chỗ nào đó và dồn xuống cho thật đầy, thật chặt\nVí dụ:\n- tọng giẻ vào mồm \n - tọng cát vào bao"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ăn một cách thô tục, tham lam, chỉ cốt cho được nhiều\nVí dụ:\n- tọng cho đầy dạ dày vào \n - tọng đi chứ mày"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọng\n- đg. 1 (kng.). Cho vào một nơi nào đó và dồn xuống cho thật đầy, thật chặt. Tọng gạo vào bao. 2 (thgt.). Ăn một cách thô tục, tham lam, chỉ cốt cho được nhiều. Tọng đầy dạ dày."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@tọng\n*verb\n-to cram"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tọng\n* verb\n- to cram"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to cram"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ phỏng xuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-toroidal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ cực trắc địa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geodesic polar coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ vòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-circle coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tiếp tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tangential coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ parabolic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-parabolic coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ khối ô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cell block coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tam giác điểm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trilinear point coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ màu sắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-chromaticity coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ cong",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-arc coordinate\n-curvilinear coordinate\n-curvilinear coordinates\n-curvilinear coordinator"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ pháp tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ song trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biaxial coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ góc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-angular coordinate\n@Lĩnh vực: cơ khí & công trình\n-angular data"
-      }
-    ]
-  },
-  {
-    "word": "tọa hưởng kỳ thành",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọa hưởng kỳ thành\n- Ngồi không mà hưởng kết quả công lao của người khác."
-      }
-    ]
-  },
-  {
-    "word": "tọa độ khối tâm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-center of mass coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa tọa thiên hà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-galactic coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ địa phương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-local coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ ngũ cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pantaspherical coordinates\n-pentaspherical coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ phẳng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-plane coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ chính tắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-canonical coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ cong trực giao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-orthogonal curvilinear coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tăng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-incremental coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ lưỡng cực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bipolar coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-map coordinate"
       }
     ]
   },
@@ -908,162 +431,23 @@
     ]
   },
   {
-    "word": "tọa độ phỏng cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spheroidal coordinates\n-spheroidal polar coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa lọc",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be located"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ đề-các",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Cartesian coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ đẳng hướng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-isotropic coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ diện tích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-areal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ ban đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-origin coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ song song trắc địa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geodesic parallel coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ địa chất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-geologic position"
-      }
-    ]
-  },
-  {
-    "word": "tọa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sit; seat"
-      }
-    ]
-  },
-  {
-    "word": "tọa thị",
+    "word": "tọa lạc",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọa thị\n- Ngồi mà nhìn, không hành động (cũ)."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to sit idle, remain indiffrent"
-      }
-    ]
-  },
-  {
-    "word": "tọa đàm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@tọa đàm\n- toạ đàm đgt. Họp mặt trao đổi, nói chuyện thân mật với nhau về một vấn đề nào đó: toạ đàm về công tác giáo dục thiếu niên nhi đồng."
+        "dict_definition": "@tọa lạc\n- toạ lạc đgt., vchg, kcách (Nhà cửa, đất đai) ở tại nơi nào đó: Khu đất toạ lạc ở đầu đình."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@tọa đàm\n*verb\n-to hold informal talk"
+        "dict_definition": "@tọa lạc\n*verb\n-be located, to be situated"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@tọa đàm\n* verb\n-to hold informal talk"
+        "dict_definition": "@tọa lạc\n* verb\n-be located, to be situated"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to hold an informal talk"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-line coordinates\n-link coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ elipxoidan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ellipsoidal coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ trực giao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-orthogonal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ xiclic",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cyclic coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ cửa sổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-window coordinates"
+        "dict_definition": "located, situated"
       }
     ]
   },
@@ -1077,25 +461,25 @@
     ]
   },
   {
-    "word": "tọa độ paraboiđan",
+    "word": "tọa độ nhật tâm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-parabolical coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-heliocentric coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ logarit",
+    "word": "tọa độ sắc độ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-logarithmic coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-chromaticity coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ tăng thêm",
+    "word": "tọa độ gia tốc",
     "definitions": [
       {
         "dict_name": "SPDict",
@@ -1104,92 +488,50 @@
     ]
   },
   {
-    "word": "tọa độ bản đồ",
+    "word": "tọa độ rút gọn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-map coordinate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-reduced coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ đối ngẫu",
+    "word": "tọc mạch",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như thóc mách\nVí dụ:\n- nó tọc mạch vào chuyện của người khác"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọc mạch\n- Nh. Thóc mách."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dual coordinates"
+        "dict_definition": "@tọc mạch [tọc mạch]\n-prying;    curious;   inquisitive"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "prying, curious, inquisitive"
       }
     ]
   },
   {
-    "word": "tọa độ thẳng",
+    "word": "tọa độ parabolic",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rectilinear coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-parabolic coordinates"
       }
     ]
   },
   {
-    "word": "tọa độ phỏng cầu thuôn",
+    "word": "tọa độ elliptic",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-prolate spheroidal coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ trụ tròn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-circular cylindrical coordinates"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ z",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-altitude\n@Lĩnh vực: vật lý\n-Z-coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ toàn cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-world coordinate (WC)"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ thiết bị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device coordinate\n-device coordinate (DC)"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ tuyệt đối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-absolute coordinate"
-      }
-    ]
-  },
-  {
-    "word": "tọa độ pháp tam tuyến",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal trilinear coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elliptic coordinates"
       }
     ]
   },
@@ -1203,38 +545,155 @@
     ]
   },
   {
-    "word": "tọa độ thiết bị chuẩn",
+    "word": "tọa độ tam (giác) pháp tuyến",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normalized device coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal trilinear coordinates"
       }
     ]
   },
   {
-    "word": "tọa thực sơn băng",
+    "word": "tọa độ quy ước",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "small expenses empty a full purse"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-false coordinate"
       }
     ]
   },
   {
-    "word": "tọa độ xạ ảnh",
+    "word": "tọa độ địa chất",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-projective coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-geologic position"
       }
     ]
   },
   {
-    "word": "tọa độ hiện tại",
+    "word": "tọa độ logarit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-current coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-logarithmic coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ cong",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-arc coordinate\n-curvilinear coordinate\n-curvilinear coordinates\n-curvilinear coordinator"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ phỏng cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spheroidal coordinates\n-spheroidal polar coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-line coordinates\n-link coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ làm việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-movable local co-ordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tam giác điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trilinear point coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ phẳng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-plane coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ nửa trực giao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-semi-orthogonal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ eliptic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elliptic coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ song song trắc địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-geodesic parallel coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ màn hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-screen space"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ góc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-angular coordinate\n@Lĩnh vực: cơ khí & công trình\n-angular data"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ ellipsoitda",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ellipsoidal coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ paraboiđan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-parabolical coordinates"
       }
     ]
   },
@@ -1248,11 +707,92 @@
     ]
   },
   {
-    "word": "tọa độ phỏng cầu dẹt",
+    "word": "tọa độ đối ngẫu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-oblate spheroidal coordinates"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-dual coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ khối ô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cell block coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ mắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-eye coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ thiết bị chuẩn hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-NDC (normalized devicecoordinates)\n-normalized device coordinate (NDC)"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ song trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-biaxial coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ lưỡng cực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bipolar coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa thực sơn băng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "small expenses empty a full purse"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tương đối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-relative coordinate\n-relative coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tia",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ray coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ thừa nhận được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-allowable coordinates"
       }
     ]
   },
@@ -1266,11 +806,343 @@
     ]
   },
   {
-    "word": "tọa độ vạn năng",
+    "word": "tọa độ tổng quát hóa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-world coordinate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-generalized coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ xiên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-oblique coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ trụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cylindrical coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-axial coordinates\n@Lĩnh vực: vật lý\n-cylindrical coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa thiền",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọa thiền\n- toạ thiền đg. Ngồi im lặng theo kiểu riêng, giữ cho thân và tâm không động, theo đạo Phật; ngồi thiền. Nơi toạ thiền thật yên tĩnh. Sư ông đang toạ thiền. Luyện tập dưỡng sinh theo kiểu toạ thiền."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tọa thiền\n*verb\n-to sit in meditation"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tọa thiền\n* verb\n-to sit in meditation"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sit in meditation"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ điểm cuối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-end-point coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọt",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "di chuyển vào nơi kín đáo bằng động tác rất nhanh, gọn\nVí dụ:\n- con chuột tọt vội vào hang \n - anh ta tọt xuống hầm rồi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bằng một động tác nhanh và đột ngột\nVí dụ:\n- sợ quá, chạy tọt vào nhà \n - bỏ tọt miếng bánh vào miệng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọt\n- ph. Nhanh, gọn : Chạy tọt ra cửa ; Bỏ tọt vào miệng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tọt\n*adv\n-swiftly"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tọt\n* adv\n- swiftly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "swiftly"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tiêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-focal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ xạ ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-projective coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ thông thường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ordinary coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to sit; seat"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ diện tích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-areal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ ngũ cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-pantaspherical coordinates\n-pentaspherical coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ phẳng gauss",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Gauss plane coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ affin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-affine coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ phỏng cầu thuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-prolate spheroidal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ điểm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-point coordinate\n@Lĩnh vực: toán & tin\n-point coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tăng thêm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-incremental coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ chính tắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-canonical coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ trụ tròn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-circular cylindrical coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ paraboloiđan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-paraboidal coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ pháp tam tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-normal trilinear coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ trụ elíp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-elliptic cylindrical coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ địa phương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-local coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tiếp tuyến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tangential coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa vi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-affixe"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ (cực)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spherical polar coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ (cực) cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-spherical polar coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ màu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-chromaticity coordinates\n-color coordinate\n-colour coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tứ diện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-tetrahedral coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ khối tâm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-center of mass coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa hưởng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọa hưởng\n- toạ hưởng đg. (cũ). Ngồi không mà hưởng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tọa hưởng\n*verb\n-to enjoy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tọa hưởng\n* verb\n-to enjoy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to enjoy"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ cong trực giao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-orthogonal curvilinear coordinates"
       }
     ]
   },
@@ -1280,6 +1152,134 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-cyclic coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ đề-các",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Cartesian coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ thuần nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-homogeneous coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ ban đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-origin coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ xilic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-ignorable coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-spherical coordinate"
+      }
+    ]
+  },
+  {
+    "word": "tọa lọc",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be located"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ thiết bị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-device coordinate\n-device coordinate (DC)"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ tam giác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-trilinear coordinates"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ trắc địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-geodesic coordinates\n-geodetic coordinate\n-geodetic position"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ trên thực địa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-field position"
+      }
+    ]
+  },
+  {
+    "word": "tọng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cho vào một chỗ nào đó và dồn xuống cho thật đầy, thật chặt\nVí dụ:\n- tọng giẻ vào mồm \n - tọng cát vào bao"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ăn một cách thô tục, tham lam, chỉ cốt cho được nhiều\nVí dụ:\n- tọng cho đầy dạ dày vào \n - tọng đi chứ mày"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@tọng\n- đg. 1 (kng.). Cho vào một nơi nào đó và dồn xuống cho thật đầy, thật chặt. Tọng gạo vào bao. 2 (thgt.). Ăn một cách thô tục, tham lam, chỉ cốt cho được nhiều. Tọng đầy dạ dày."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@tọng\n*verb\n-to cram"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@tọng\n* verb\n- to cram"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to cram"
+      }
+    ]
+  },
+  {
+    "word": "tọa độ xiclic",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-cyclic coordinates"
       }
     ]
   }

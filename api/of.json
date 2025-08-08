@@ -1,14 +1,5 @@
 [
   {
-    "word": "offset đường chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-baseline offset"
-      }
-    ]
-  },
-  {
     "word": "offline",
     "definitions": [
       {
@@ -23,6 +14,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-orthogonal frequency division multiplexing"
+      }
+    ]
+  },
+  {
+    "word": "offset đường chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-baseline offset"
       }
     ]
   }

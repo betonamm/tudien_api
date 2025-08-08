@@ -1,10 +1,10 @@
 [
   {
-    "word": "vẫn thường",
+    "word": "vẫy mặt trời lùi lại",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "usually"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Vẫy mặt trời lùi lại\n- Xưa Lỗ Thương Công đánh nhau với nước Hàn, đang đánh hăng thì trời tối, ông bèn vung kích vẫy lui mặt trời, mặt trời phải quay lui lại 3 xá (xá: đơn vị chiều dài cổ, 1 xá = 30 dặm)\n- Câu trên lấy nghĩa từ chử \"Huy qua.\"\n- Sách Hoài Nam tử nói rằng Lỗ dương Công con Tư Mã Tử Kỳ, cháu Sở Bình Vương thời Chiến quốc\n- Phan Bội Châu: Mưa gió thâu đêm gà gáy, lời can trường gắn bó chuyện đồng cầu. Đòng Lỗ đương toan kéo mặt trời tà, hăng hái nam bôn bắc tẩu. (Văn tế Đặng Nguyên Cẩn và Đặng Thúc Hứa.)"
       }
     ]
   },
@@ -34,20 +34,47 @@
     ]
   },
   {
-    "word": "vẫn còn tồn tại",
+    "word": "vẫn còn hiệu lực",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to still exist"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-remain in force (to...)"
       }
     ]
   },
   {
-    "word": "vẫn chưa, quyết định",
+    "word": "vẫn chưa quyết định",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sub judicial"
+        "dict_definition": "@Chuyên ngành kinh tế\n-subjudice"
+      }
+    ]
+  },
+  {
+    "word": "vẫn còn nguyên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "still the way it was"
+      }
+    ]
+  },
+  {
+    "word": "vẫy chào",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to wave goodbye"
+      }
+    ]
+  },
+  {
+    "word": "vẫn đang còn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "still"
       }
     ]
   },
@@ -85,11 +112,29 @@
     ]
   },
   {
-    "word": "vẫn không thể",
+    "word": "vẫn không",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "still cannot"
+      }
+    ]
+  },
+  {
+    "word": "vẫn ở mức cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rule high"
+      }
+    ]
+  },
+  {
+    "word": "vẫn tồn tại lỗi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "still broken, vulnerable, defective"
       }
     ]
   },
@@ -111,131 +156,11 @@
     ]
   },
   {
-    "word": "vẫy vùng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hoạt động một cách tự do, tuỳ thích, không chịu một sự kiềm chế nào cả\nVí dụ:\n- vẫy vùng trong nước \n - \"Giang hồ quen thú vẫy vùng, Gươm đàn nửa gánh, non sông một chèo.\" (TKiều)"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@vẫy vùng [vẫy vùng]\n-to act freely;  to act on one\"s own initiative"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to act freely, act on one’s own initiative"
-      }
-    ]
-  },
-  {
-    "word": "vẫn chưa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "still (does not)"
-      }
-    ]
-  },
-  {
-    "word": "vẫn ở mức cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rule high"
-      }
-    ]
-  },
-  {
-    "word": "vẫn còn hiệu lực",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-remain in force (to...)"
-      }
-    ]
-  },
-  {
-    "word": "vẫn trong vòng bí ẩn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "still unknown, remain a mystery"
-      }
-    ]
-  },
-  {
-    "word": "vẫn không",
+    "word": "vẫn không thể",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "still cannot"
-      }
-    ]
-  },
-  {
-    "word": "vẫn tồn tại lỗi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "still broken, vulnerable, defective"
-      }
-    ]
-  },
-  {
-    "word": "vẫn chưa thấy gì",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to still not see anything"
-      }
-    ]
-  },
-  {
-    "word": "vẫn còn tồn tại cho tới ngày nay",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to still exist up to the present day"
-      }
-    ]
-  },
-  {
-    "word": "vẫy mặt trời lùi lại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Vẫy mặt trời lùi lại\n- Xưa Lỗ Thương Công đánh nhau với nước Hàn, đang đánh hăng thì trời tối, ông bèn vung kích vẫy lui mặt trời, mặt trời phải quay lui lại 3 xá (xá: đơn vị chiều dài cổ, 1 xá = 30 dặm)\n- Câu trên lấy nghĩa từ chử \"Huy qua.\"\n- Sách Hoài Nam tử nói rằng Lỗ dương Công con Tư Mã Tử Kỳ, cháu Sở Bình Vương thời Chiến quốc\n- Phan Bội Châu: Mưa gió thâu đêm gà gáy, lời can trường gắn bó chuyện đồng cầu. Đòng Lỗ đương toan kéo mặt trời tà, hăng hái nam bôn bắc tẩu. (Văn tế Đặng Nguyên Cẩn và Đặng Thúc Hứa.)"
-      }
-    ]
-  },
-  {
-    "word": "vẫy tay dừng xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-flag down"
-      }
-    ]
-  },
-  {
-    "word": "vẫn đang còn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "still"
-      }
-    ]
-  },
-  {
-    "word": "vẫn còn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-unspent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-still"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "still"
       }
     ]
   },
@@ -253,6 +178,60 @@
     ]
   },
   {
+    "word": "vẫn chưa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "still (does not)"
+      }
+    ]
+  },
+  {
+    "word": "vẫn thường",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "usually"
+      }
+    ]
+  },
+  {
+    "word": "vẫn chưa thấy gì",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to still not see anything"
+      }
+    ]
+  },
+  {
+    "word": "vẫy tay dừng xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-flag down"
+      }
+    ]
+  },
+  {
+    "word": "vẫn chưa hết",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have not yet completely finished"
+      }
+    ]
+  },
+  {
+    "word": "vẫn chưa, quyết định",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sub judicial"
+      }
+    ]
+  },
+  {
     "word": "vẫn thạch",
     "definitions": [
       {
@@ -266,38 +245,59 @@
     ]
   },
   {
-    "word": "vẫy chào",
+    "word": "vẫn còn tồn tại",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to wave goodbye"
+        "dict_definition": "to still exist"
       }
     ]
   },
   {
-    "word": "vẫn chưa quyết định",
+    "word": "vẫn trong vòng bí ẩn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "still unknown, remain a mystery"
+      }
+    ]
+  },
+  {
+    "word": "vẫn còn tồn tại cho tới ngày nay",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to still exist up to the present day"
+      }
+    ]
+  },
+  {
+    "word": "vẫy vùng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hoạt động một cách tự do, tuỳ thích, không chịu một sự kiềm chế nào cả\nVí dụ:\n- vẫy vùng trong nước \n - \"Giang hồ quen thú vẫy vùng, Gươm đàn nửa gánh, non sông một chèo.\" (TKiều)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@vẫy vùng [vẫy vùng]\n-to act freely;  to act on one\"s own initiative"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to act freely, act on one’s own initiative"
+      }
+    ]
+  },
+  {
+    "word": "vẫn còn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-subjudice"
-      }
-    ]
-  },
-  {
-    "word": "vẫn còn nguyên",
-    "definitions": [
+        "dict_definition": "@Chuyên ngành kinh tế\n-unspent\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-still"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "still the way it was"
-      }
-    ]
-  },
-  {
-    "word": "vẫn chưa hết",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to have not yet completely finished"
+        "dict_definition": "still"
       }
     ]
   }

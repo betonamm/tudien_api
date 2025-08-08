@@ -1,5 +1,78 @@
 [
   {
+    "word": "rợp trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rợp trời\n-Overshadow the sky, cloud the skỵ\n=Cờ và khẩu hiệu rợp trời\n+Flags and banners overshadowed the sky (by their multitude)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rợp trời\n- Overshadow the sky, cloud the skỵ\n=Cờ và khẩu hiệu rợp trời+Flags and banners overshadowed the sky (by their multitude)"
+      }
+    ]
+  },
+  {
+    "word": "rợp đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rợp đất\n-Cover a large extent of earth (with flags...)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rợp đất\n- Cover a large extent of earth (with flags...)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "cover a large extent of earth (with flags)"
+      }
+    ]
+  },
+  {
+    "word": "rợn tóc gáy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rợn tóc gáy [rợn tóc gáy]\n-("
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to horripilate, make"
+      }
+    ]
+  },
+  {
+    "word": "rợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rợi\n-(địa phương) như rượi\n=\n+ời rợi (láy, ý tăng)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rợi\n- (địa phương) như rượi \n=Rời rợi (láy, ý tăng)"
+      }
+    ]
+  },
+  {
+    "word": "rợp bóng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rợp bóng\n- Không có ánh nắng: Chơi chỗ rợp bóng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rợp bóng\n-Shady, in the shade\n=Chơi chỗ rợp bóng\n+To play in the shade"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rợp bóng\n- Shady, in the shade\n=Chơi chỗ rợp bóng+To play in the shade"
+      }
+    ]
+  },
+  {
     "word": "rợn",
     "definitions": [
       {
@@ -25,15 +98,11 @@
     ]
   },
   {
-    "word": "rợi",
+    "word": "rợn gió",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@rợi\n-(địa phương) như rượi\n=\n+ời rợi (láy, ý tăng)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rợi\n- (địa phương) như rượi \n=Rời rợi (láy, ý tăng)"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rợn gió\n- Sợ gió"
       }
     ]
   },
@@ -59,123 +128,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@rợp\n- Be shady, be in the shade\n=Ngồi nghỉ ở chỗ rợp+To take a rest in the shade\n-Overshadow\n=Cờ treo rợp phố+The streets were overshadowed by [a sea of] flags"
-      }
-    ]
-  },
-  {
-    "word": "rợn tóc gáy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rợn tóc gáy [rợn tóc gáy]\n-("
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to horripilate, make"
-      }
-    ]
-  },
-  {
-    "word": "rợp trời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rợp trời\n-Overshadow the sky, cloud the skỵ\n=Cờ và khẩu hiệu rợp trời\n+Flags and banners overshadowed the sky (by their multitude)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rợp trời\n- Overshadow the sky, cloud the skỵ\n=Cờ và khẩu hiệu rợp trời+Flags and banners overshadowed the sky (by their multitude)"
-      }
-    ]
-  },
-  {
-    "word": "rợm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rợm\n- t. Khuất ánh nắng: Rau ở chỗ đất rợm không lớn lên được."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rợm\n-Not exposed to the sun, in the shade\n=Rau ở chỗ đất rợm không lớn lên được\n+Vegetables grown in the shade cannot grow well"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rợm\n- Not exposed to the sun, in the shade\n=Rau ở chỗ đất rợm không lớn lên được+Vegetables grown in the shade cannot grow well"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "not exposed to the sun, in the shade"
-      }
-    ]
-  },
-  {
-    "word": "rợn rợn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rợn rợn\n- t. Nh. Rợn."
-      }
-    ]
-  },
-  {
-    "word": "rợp bóng mát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shady"
-      }
-    ]
-  },
-  {
-    "word": "rợp bóng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rợp bóng\n- Không có ánh nắng: Chơi chỗ rợp bóng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rợp bóng\n-Shady, in the shade\n=Chơi chỗ rợp bóng\n+To play in the shade"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rợp bóng\n- Shady, in the shade\n=Chơi chỗ rợp bóng+To play in the shade"
-      }
-    ]
-  },
-  {
-    "word": "rợn người",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rợn người [rợn người]\n-(\n-spine-chilling;  bloodcurdling"
-      }
-    ]
-  },
-  {
-    "word": "rợp đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rợp đất\n-Cover a large extent of earth (with flags...)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rợp đất\n- Cover a large extent of earth (with flags...)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "cover a large extent of earth (with flags)"
-      }
-    ]
-  },
-  {
-    "word": "rợn gió",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rợn gió\n- Sợ gió"
       }
     ]
   },
@@ -214,6 +166,54 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "savage, barbarian"
+      }
+    ]
+  },
+  {
+    "word": "rợn người",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rợn người [rợn người]\n-(\n-spine-chilling;  bloodcurdling"
+      }
+    ]
+  },
+  {
+    "word": "rợm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rợm\n- t. Khuất ánh nắng: Rau ở chỗ đất rợm không lớn lên được."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rợm\n-Not exposed to the sun, in the shade\n=Rau ở chỗ đất rợm không lớn lên được\n+Vegetables grown in the shade cannot grow well"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rợm\n- Not exposed to the sun, in the shade\n=Rau ở chỗ đất rợm không lớn lên được+Vegetables grown in the shade cannot grow well"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "not exposed to the sun, in the shade"
+      }
+    ]
+  },
+  {
+    "word": "rợp bóng mát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shady"
+      }
+    ]
+  },
+  {
+    "word": "rợn rợn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rợn rợn\n- t. Nh. Rợn."
       }
     ]
   }

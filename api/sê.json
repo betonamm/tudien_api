@@ -1,10 +1,49 @@
 [
   {
-    "word": "sênh phách",
+    "word": "sêếu",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sênh phách\n- Nghề làm cô đầu: Cuộc đời sênh phách."
+        "dict_definition": "@sêếu\n- đg. Cg. Sêu tết. Nói nhà trai đeêm đồ lễ, thường là thức ăn, đến biếu nhà gái trong những dịp tết, khi chưa cưới, trong xã hội cũ: Để anh mua cốm, mua hồng sang sêu (cd)."
+      }
+    ]
+  },
+  {
+    "word": "sêu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[nhà trai] đưa lễ vật đến biếu nhà gái trong những dịp tết, khi chưa cưới, theo tục lệ cũ\nVí dụ:\n- đi sêu \n - \"Mình nói dối ta mình chửa có chồng, Để ta mua cốm mua hồng sang sêu.\" (Cdao)"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sêu\n-Present the fiancee\"s family with gifts on festivities"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sêu\n- Present the fiancee's family with gifts on festivities"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "present the fiancée’s family with gifts on festivities"
+      }
+    ]
+  },
+  {
+    "word": "sênô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-eaves"
+      }
+    ]
+  },
+  {
+    "word": "sê ri quyền chọn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-series of option"
       }
     ]
   },
@@ -34,61 +73,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "castanets"
-      }
-    ]
-  },
-  {
-    "word": "sê ri quyền chọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-series of option"
-      }
-    ]
-  },
-  {
-    "word": "sêu tết",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sêu [nói khái quát]\nVí dụ:\n- đã có người sêu tết"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sêu tết\n- Nh. Sêu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sêu tết\n-như sêu"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sêu tết\n- như sêu"
-      }
-    ]
-  },
-  {
-    "word": "sênh tiền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "sênh có đính cọc tiền đồng, dùng để đệm nhịp trong các dàn bát âm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sênh tiền\n- Thứ sênh có mắc tiền trinh vào."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sênh tiền\n-Castanets with coins stringed"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sênh tiền\n- Castanets with coins stringed"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "castanets with coins stringed"
       }
     ]
   },
@@ -126,6 +110,15 @@
     ]
   },
   {
+    "word": "sê-ri",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@sê-ri [sê-ri]\n-(tiếng Pháp gọi là Chéri/Chérie) dear;  honey;  darling"
+      }
+    ]
+  },
+  {
     "word": "sênh ca",
     "definitions": [
       {
@@ -135,32 +128,48 @@
     ]
   },
   {
-    "word": "sêu",
+    "word": "sênh tiền",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[nhà trai] đưa lễ vật đến biếu nhà gái trong những dịp tết, khi chưa cưới, theo tục lệ cũ\nVí dụ:\n- đi sêu \n - \"Mình nói dối ta mình chửa có chồng, Để ta mua cốm mua hồng sang sêu.\" (Cdao)"
+        "dict_definition": "sênh có đính cọc tiền đồng, dùng để đệm nhịp trong các dàn bát âm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sênh tiền\n- Thứ sênh có mắc tiền trinh vào."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@sêu\n-Present the fiancee\"s family with gifts on festivities"
+        "dict_definition": "@sênh tiền\n-Castanets with coins stringed"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@sêu\n- Present the fiancee's family with gifts on festivities"
+        "dict_definition": "@sênh tiền\n- Castanets with coins stringed"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "present the fiancée’s family with gifts on festivities"
+        "dict_definition": "castanets with coins stringed"
       }
     ]
   },
   {
-    "word": "sênô",
+    "word": "sêu tết",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "sêu [nói khái quát]\nVí dụ:\n- đã có người sêu tết"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@sêu tết\n- Nh. Sêu."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-eaves"
+        "dict_definition": "@sêu tết\n-như sêu"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@sêu tết\n- như sêu"
       }
     ]
   },
@@ -174,20 +183,11 @@
     ]
   },
   {
-    "word": "sêếu",
+    "word": "sênh phách",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@sêếu\n- đg. Cg. Sêu tết. Nói nhà trai đeêm đồ lễ, thường là thức ăn, đến biếu nhà gái trong những dịp tết, khi chưa cưới, trong xã hội cũ: Để anh mua cốm, mua hồng sang sêu (cd)."
-      }
-    ]
-  },
-  {
-    "word": "sê-ri",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@sê-ri [sê-ri]\n-(tiếng Pháp gọi là Chéri/Chérie) dear;  honey;  darling"
+        "dict_definition": "@sênh phách\n- Nghề làm cô đầu: Cuộc đời sênh phách."
       }
     ]
   }

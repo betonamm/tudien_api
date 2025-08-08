@@ -1,308 +1,5 @@
 [
   {
-    "word": "thợ vụng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tinker"
-      }
-    ]
-  },
-  {
-    "word": "thợ nối ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-jointer"
-      }
-    ]
-  },
-  {
-    "word": "thợ gương lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hewer\n-miner"
-      }
-    ]
-  },
-  {
-    "word": "thợ cối xay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-millwright"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa chửa tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipwright"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp đai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-belt mounter"
-      }
-    ]
-  },
-  {
-    "word": "thợ đào hầm lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pit man"
-      }
-    ]
-  },
-  {
-    "word": "thợ đục đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-driller\n-quarrel"
-      }
-    ]
-  },
-  {
-    "word": "thợ phay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ phay\n*danh từ\n-miller\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-miller\n-milling worker"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miller"
-      }
-    ]
-  },
-  {
-    "word": "thợ nối dây cáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cable spicer\n@Lĩnh vực: toán & tin\n-cable splicer"
-      }
-    ]
-  },
-  {
-    "word": "thợ chạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ chạm [thợ chạm]\n*danh từ\n-engraver, sculptor, carver;  etcher\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-carver"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "engraver, sculptor, carver, etcher"
-      }
-    ]
-  },
-  {
-    "word": "thợ trát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plasterer"
-      }
-    ]
-  },
-  {
-    "word": "thợ khoan mới (tiếng lóng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-weevil"
-      }
-    ]
-  },
-  {
-    "word": "thợ nề, dây nhợ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rigger"
-      }
-    ]
-  },
-  {
-    "word": "thợ thuyền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ thuyền\n- Công nhân nói chung (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ thuyền [thợ thuyền]\n*danh từ\n-workers;  working class (in general)\n@Chuyên ngành kinh tế\n-blue-collar worker"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "workers, working class (in general)"
-      }
-    ]
-  },
-  {
-    "word": "thợ khóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-locksmith"
-      }
-    ]
-  },
-  {
-    "word": "thợ thủ công",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người sản xuất thủ công nghiệp, sử dụng công cụ của mình để sản xuất ra hàng hoá"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ thủ công [thợ thủ công]\n-artisan;  craftsman;  handicraftsman\n@Chuyên ngành kinh tế\n-craftsman"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "artisan, craftsman, handicraftsman"
-      }
-    ]
-  },
-  {
-    "word": "thợ điện (đường dây)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wireman"
-      }
-    ]
-  },
-  {
-    "word": "thợ khai thác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-getter\n@Lĩnh vực: xây dựng\n-hewer"
-      }
-    ]
-  },
-  {
-    "word": "thợ hiệu chỉnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-setter-up"
-      }
-    ]
-  },
-  {
-    "word": "thợ xếp khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mold placer"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa ống nước",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "plumber"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm đồng xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-body builder"
-      }
-    ]
-  },
-  {
-    "word": "thợ xây lót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lining worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm cốt thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-iron worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ tôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-temperer"
-      }
-    ]
-  },
-  {
-    "word": "thợ bịt lò (mỏ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-protection insulation layer"
-      }
-    ]
-  },
-  {
-    "word": "thợ học nghề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-apprentice"
-      }
-    ]
-  },
-  {
-    "word": "thợ trổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pikeman"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe erector"
-      }
-    ]
-  },
-  {
-    "word": "thợ cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bridge monkey"
-      }
-    ]
-  },
-  {
     "word": "thợ hàn, máy hàn",
     "definitions": [
       {
@@ -312,665 +9,29 @@
     ]
   },
   {
-    "word": "thợ rào",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ rào\n- Cg. Thợ rèn. Người chuyên làm bằng tay nghề rèn sắt nung thành đồ dùng."
-      }
-    ]
-  },
-  {
-    "word": "thợ xây",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ chuyên xây gạch, đá trong các công trình xây dựng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-mason\n-placer\n-stacker"
-      }
-    ]
-  },
-  {
-    "word": "thợ săn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm nghề săn bắn"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ săn [thợ săn]\n-hunter;  huntress"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "hunter"
-      }
-    ]
-  },
-  {
-    "word": "thợ lò",
+    "word": "thợ nén",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-furnaceman\n@Lĩnh vực: xây dựng\n-pitman"
+        "dict_definition": "@Chuyên ngành kinh tế\n-presser"
       }
     ]
   },
   {
-    "word": "thợ may",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người làm nghề may quần áo"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ may\n*noun\n-tailor"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ may\n* noun\n- tailor"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "tailor"
-      }
-    ]
-  },
-  {
-    "word": "thợ (nguội) đường ống",
+    "word": "thợ mài sắc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pipe man"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grinder\n-sharpener"
       }
     ]
   },
   {
-    "word": "thợ rải nhựa đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt laying worker\n-tar spreader"
-      }
-    ]
-  },
-  {
-    "word": "thợ tra dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oiler"
-      }
-    ]
-  },
-  {
-    "word": "thợ cưa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ cưa\n- Nh. Thợ xẻ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ cưa\n*noun\n-sawyer"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ cưa\n* noun\n- sawyer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sawyer"
-      }
-    ]
-  },
-  {
-    "word": "thợ đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-quarry man\n-stone dresser\n-stonemason"
-      }
-    ]
-  },
-  {
-    "word": "thợ lát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stacker"
-      }
-    ]
-  },
-  {
-    "word": "thợ, tớ, phụ thuộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-slave"
-      }
-    ]
-  },
-  {
-    "word": "thợ bọc lót (đệm ghế)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-upholsterer"
-      }
-    ]
-  },
-  {
-    "word": "thợ đóng gói",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-packer"
-      }
-    ]
-  },
-  {
-    "word": "thợ dập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-presser\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-press man"
-      }
-    ]
-  },
-  {
-    "word": "thợ máy ép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-press man"
-      }
-    ]
-  },
-  {
-    "word": "thợ rà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grinder"
-      }
-    ]
-  },
-  {
-    "word": "thợ hàn chì (đường ống)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
-      }
-    ]
-  },
-  {
-    "word": "thợ tráng men",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-glazer"
-      }
-    ]
-  },
-  {
-    "word": "thợ lót lò",
+    "word": "thợ xây lót",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lining worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ đào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sinker"
-      }
-    ]
-  },
-  {
-    "word": "thợ đốt nồi hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pot man"
-      }
-    ]
-  },
-  {
-    "word": "thợ đổ bê tông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-concrete placer\n-concretor\n-placer"
-      }
-    ]
-  },
-  {
-    "word": "thợ mộc kỹ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cabinet maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ cơ khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mechanic\n-metallist"
-      }
-    ]
-  },
-  {
-    "word": "thợ máy công cụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-machine-tool worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ quét vôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-painter\n-whitewasher"
-      }
-    ]
-  },
-  {
-    "word": "thợ lát đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-paver\n-paving worker\n-pavior\n-paviour\n-road paver"
-      }
-    ]
-  },
-  {
-    "word": "thợ bơm (trên một tàu chở dầu)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pump man"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp kính trang trí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-art glazier"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ráp tạm thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-installment floater"
-      }
-    ]
-  },
-  {
-    "word": "thợ đột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pikeman"
-      }
-    ]
-  },
-  {
-    "word": "thợ xoắn dây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-twister"
-      }
-    ]
-  },
-  {
-    "word": "thợ hàn chì",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
-      }
-    ]
-  },
-  {
-    "word": "thợ hầm lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pitman"
-      }
-    ]
-  },
-  {
-    "word": "thợ nấu kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-smelter"
-      }
-    ]
-  },
-  {
-    "word": "thợ thơ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ thơ\n- Người làm thơ cầu kỳ, gò gẫm mà thiếu thi vị."
-      }
-    ]
-  },
-  {
-    "word": "thợ bêtông atfan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ cạo rà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scraper"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road builder"
-      }
-    ]
-  },
-  {
-    "word": "thợ đặt đường ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe-layer\n-plumber"
-      }
-    ]
-  },
-  {
-    "word": "thợ máy là atfan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt finisher"
-      }
-    ]
-  },
-  {
-    "word": "thợ đắp lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stove-setter"
-      }
-    ]
-  },
-  {
-    "word": "thợ mã",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ mã\n- Người chuyên làm đồ mã (cũ)."
-      }
-    ]
-  },
-  {
-    "word": "thợ làm mô hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pattern maker\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-model maker\n@Lĩnh vực: xây dựng\n-pattern maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa lắp dụng cụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-toolmaker"
-      }
-    ]
-  },
-  {
-    "word": "thợ lái cần trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crane-driver"
-      }
-    ]
-  },
-  {
-    "word": "thợ tuyển dụng để thay cho thợ đình công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-scab"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ráp xây dựng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction fitter"
-      }
-    ]
-  },
-  {
-    "word": "thợ giặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ giặt [thợ giặt]\n-launderer;  laundryman;  washerwoman;  laundress"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "laundry-man, clothes washer"
-      }
-    ]
-  },
-  {
-    "word": "thợ đặt ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe layer"
-      }
-    ]
-  },
-  {
-    "word": "thợ điện",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ lắp ráp, sửa chữa các thiết bị và dụng cụ điện"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ điện\n- d. Thợ lắp ráp, sửa chữa các thiết bị và dụng cụ điện."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ điện\n*noun\n-electrician\n@Chuyên ngành kỹ thuật\n-engineer\n-maintenance man\n-mounter"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ điện\n* noun\n- electrician"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "electrician"
-      }
-    ]
-  },
-  {
-    "word": "thợ trang trí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trimmer"
-      }
-    ]
-  },
-  {
-    "word": "thợ cốt thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel fixer"
-      }
-    ]
-  },
-  {
-    "word": "thợ lát gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bricklayer\n-tiller"
-      }
-    ]
-  },
-  {
-    "word": "thợ chống cột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-timberer"
-      }
-    ]
-  },
-  {
-    "word": "thợ toàn năng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-all-rounder"
-      }
-    ]
-  },
-  {
-    "word": "thợ vẽ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ vẽ [thợ vẽ]\n*danh từ\n-drawer;  limner"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "draftsman"
-      }
-    ]
-  },
-  {
-    "word": "thợ khắc đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lapidary"
-      }
-    ]
-  },
-  {
-    "word": "thợ công nhật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-journeyman\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-char\n-shiftman"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm mẫu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-pattern maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ráp-hiệu chỉnh (điện)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electrician adjuster"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ráp tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shipfitter"
-      }
-    ]
-  },
-  {
-    "word": "thợ (đốt) lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fire man"
-      }
-    ]
-  },
-  {
-    "word": "thợ cắt bằng hơi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas cutter"
-      }
-    ]
-  },
-  {
-    "word": "thợ lát sàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parquet layer"
-      }
-    ]
-  },
-  {
-    "word": "thợ không chuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unskilled worker"
       }
     ]
   },
@@ -988,662 +49,6 @@
     ]
   },
   {
-    "word": "thợ rèn phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-striker"
-      }
-    ]
-  },
-  {
-    "word": "thợ thêu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ thêu\n*danh từ\n-embroiderer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "embroiderer"
-      }
-    ]
-  },
-  {
-    "word": "thợ giết mổ gia súc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-slaughterer"
-      }
-    ]
-  },
-  {
-    "word": "thợ lát sân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tile layer"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ráp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-assembler\n-refrigeration fitter\n@Chuyên ngành kỹ thuật\n-assembler\n-erecting machinery\n-joiner\n-millwright"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "assembler"
-      }
-    ]
-  },
-  {
-    "word": "thợ cả mộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman carpenter and joiner"
-      }
-    ]
-  },
-  {
-    "word": "thợ mỏ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ mỏ [thợ mỏ]\n-miner\n@Chuyên ngành kỹ thuật\n-collier\n-getter\n-miner"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "miner"
-      }
-    ]
-  },
-  {
-    "word": "thợ trên sàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-floor man"
-      }
-    ]
-  },
-  {
-    "word": "thợ khoan phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-floorman\n-roustabout"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm lậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-undocumented workers"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-trouble hunter"
-      }
-    ]
-  },
-  {
-    "word": "thợ trên cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-derrick-man"
-      }
-    ]
-  },
-  {
-    "word": "thợ khoan mới vào nghề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-boll weevil"
-      }
-    ]
-  },
-  {
-    "word": "thợ tán đinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clincher\n-riveter"
-      }
-    ]
-  },
-  {
-    "word": "thợ đánh bóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-glazer\n@Chuyên ngành kỹ thuật\n-burnisher\n-polisher\n-polishing unit"
-      }
-    ]
-  },
-  {
-    "word": "thợ nề)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bevel"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm theo ca",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shiftman"
-      }
-    ]
-  },
-  {
-    "word": "thợ điều khiển búa đóng cọc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile driver operator"
-      }
-    ]
-  },
-  {
-    "word": "thợ khung sườn xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-body builder"
-      }
-    ]
-  },
-  {
-    "word": "thợ cả lát gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman bricklayer"
-      }
-    ]
-  },
-  {
-    "word": "thợ nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-heating technician"
-      }
-    ]
-  },
-  {
-    "word": "thợ lặn sâu (kỹ thuật lặn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-saturation diver"
-      }
-    ]
-  },
-  {
-    "word": "thợ nguội sửa chữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-maintenance man"
-      }
-    ]
-  },
-  {
-    "word": "thợ lợp (mái)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofer"
-      }
-    ]
-  },
-  {
-    "word": "thợ máy sàng sỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravel screeing plant operator"
-      }
-    ]
-  },
-  {
-    "word": "thợ mài",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grinder"
-      }
-    ]
-  },
-  {
-    "word": "thợ mỏ đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quarry man"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp kính nghệ thuật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-art glazier"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electric fitter"
-      }
-    ]
-  },
-  {
-    "word": "thợ chủ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ chủ\n- Người thợ làm chủ một xưởng thủ công và bóc lột thợ bạn."
-      }
-    ]
-  },
-  {
-    "word": "thợ đồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brazier\n@Lĩnh vực: ô tô\n-panel beater"
-      }
-    ]
-  },
-  {
-    "word": "thợ dệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ dệt [thợ dệt]\n*danh từ\n-weaver"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "weaver"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa chữa máy móc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-repairer\n-repairman"
-      }
-    ]
-  },
-  {
-    "word": "thợ lao công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-roustabout"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm đồ sừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-horner"
-      }
-    ]
-  },
-  {
-    "word": "thợ máy nghiệm thu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inspecting mechanic"
-      }
-    ]
-  },
-  {
-    "word": "thợ đặt dây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-wire foreman"
-      }
-    ]
-  },
-  {
-    "word": "thợ in",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ in [thợ in]\n*danh từ\n-printer;  typographer;  pressman\n@Chuyên ngành kinh tế\n-printer\n-typographer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-typographer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "printer, typographer, pressman"
-      }
-    ]
-  },
-  {
-    "word": "thợ đường đơn (khóa an toàn đoạn đường)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-single line turnout"
-      }
-    ]
-  },
-  {
-    "word": "thợ lột da",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dehider"
-      }
-    ]
-  },
-  {
-    "word": "thợ tôi vôi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lime slaker"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm mẫu (đúc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-model maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa chữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-repairer\n-troubleshooter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mender\n-repairer"
-      }
-    ]
-  },
-  {
-    "word": "thợ thổi thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glass blower"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm việc trên cao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steeple jack"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-fitter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fitter\n@Lĩnh vực: xây dựng\n-millwright"
-      }
-    ]
-  },
-  {
-    "word": "thợ quang dầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-varnisher"
-      }
-    ]
-  },
-  {
-    "word": "thợ bồi tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-upholsterer"
-      }
-    ]
-  },
-  {
-    "word": "thợ ngôi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ ngôi\n- Nh. Thợ cạo (cũ)."
-      }
-    ]
-  },
-  {
-    "word": "thợ rèn, rèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-smith"
-      }
-    ]
-  },
-  {
-    "word": "thợ lấy dấu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-marker\n-marker-off\n-marker-out"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm khuôn (dập)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-die maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ rèn búa máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hammer man"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gauge maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ đặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stacker"
-      }
-    ]
-  },
-  {
-    "word": "thợ thủy tinh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glazier"
-      }
-    ]
-  },
-  {
-    "word": "thợ sơn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ sơn\n- Thợ làm nghề sơn vẽ."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ sơn\n*noun\n-painter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-japanner\n@Lĩnh vực: xây dựng\n-painter"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ sơn\n* noun\n- painter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "painter"
-      }
-    ]
-  },
-  {
-    "word": "thợ rừng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-woodman"
-      }
-    ]
-  },
-  {
-    "word": "thợ nén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-presser"
-      }
-    ]
-  },
-  {
-    "word": "thợ điện ô tô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-automotive electrician"
-      }
-    ]
-  },
-  {
-    "word": "thợ lát tấm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slab-laying machine\n-tile setter"
-      }
-    ]
-  },
-  {
-    "word": "thợ (nguội) sửa chữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-repair man"
-      }
-    ]
-  },
-  {
-    "word": "thợ (nguội) dụng cụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tool man"
-      }
-    ]
-  },
-  {
-    "word": "thợ chọn mẫu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-picker"
-      }
-    ]
-  },
-  {
-    "word": "thợ đào hầm (bằng cuốc chim)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ripper\n-scarifier"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm dưỡng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gauge maker\n-tool man"
-      }
-    ]
-  },
-  {
-    "word": "thợ nguội",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ chế tạo, sửa chữa, lắp ráp các sản phẩm kim loại theo lối thủ công"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ nguội\n- Người gò giũa kim loại thành đồ vật."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ nguội\n*danh từ\n-fitter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-machine man\n@Lĩnh vực: toán & tin\n-mechanist"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fitter"
-      }
-    ]
-  },
-  {
-    "word": "thợ hoàn thiện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-finisher"
-      }
-    ]
-  },
-  {
     "word": "thợ ép",
     "definitions": [
       {
@@ -1653,270 +58,69 @@
     ]
   },
   {
-    "word": "thợ ôtô",
+    "word": "thợ cối xay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-automotive mechanics"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-millwright"
       }
     ]
   },
   {
-    "word": "thợ chặt cây",
+    "word": "thợ trát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood cutter"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plasterer"
       }
     ]
   },
   {
-    "word": "thợ nguội (đặt) đường ống",
+    "word": "thợ chạm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe fitter"
-      }
-    ]
-  },
-  {
-    "word": "thợ lấy cát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sand-hog"
-      }
-    ]
-  },
-  {
-    "word": "thợ bơm mỡ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-greaser"
-      }
-    ]
-  },
-  {
-    "word": "thợ bảo dưỡng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-maintainer"
-      }
-    ]
-  },
-  {
-    "word": "thợ phụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-auxiliary worker\n-general labourer\n-helper\n-laborer"
+        "dict_definition": "@thợ chạm [thợ chạm]\n*danh từ\n-engraver, sculptor, carver;  etcher\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-carver"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "assistant worker"
+        "dict_definition": "engraver, sculptor, carver, etcher"
       }
     ]
   },
   {
-    "word": "thợ xây đá",
+    "word": "thợ lợp đá bảng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone mason"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slater"
       }
     ]
   },
   {
-    "word": "thợ hàn điện",
+    "word": "thợ tra dầu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electric welder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-oiler"
       }
     ]
   },
   {
-    "word": "thợ gò",
+    "word": "thợ đóng gói",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-farrier"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-packer"
       }
     ]
   },
   {
-    "word": "thợ cơ khí lạnh",
+    "word": "thợ đóng bao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigeration engineer\n-refrigeration mechanic"
-      }
-    ]
-  },
-  {
-    "word": "thợ trên cao (khoan)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-derrick man"
-      }
-    ]
-  },
-  {
-    "word": "thợ ngõa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ ngõa\n- Người chuyên làm nghề lợp ngói."
-      }
-    ]
-  },
-  {
-    "word": "thợ lành nghề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-master"
-      }
-    ]
-  },
-  {
-    "word": "thợ nổ mìn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fireman\n-powderman"
-      }
-    ]
-  },
-  {
-    "word": "thợ, công nhân làm theo mùa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-seasonal worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ bạc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ bạc\n- dt. Thợ làm đồ trang sức, những đồ quý giá bằng vàng bạc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ bạc\n*noun\n-silversmith, goldsmith"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ bạc\n* noun\n- silversmith, goldsmith"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "silversmith, jeweler"
-      }
-    ]
-  },
-  {
-    "word": "thợ láp ráp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-erector"
-      }
-    ]
-  },
-  {
-    "word": "thợ chữa máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mechanic"
-      }
-    ]
-  },
-  {
-    "word": "thợ lái máy ủi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bulldozer operator\n@Lĩnh vực: hóa học & vật liệu\n-cat skinner"
-      }
-    ]
-  },
-  {
-    "word": "thợ xẻ gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-woodman"
-      }
-    ]
-  },
-  {
-    "word": "thợ khắc gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood cutter"
-      }
-    ]
-  },
-  {
-    "word": "thợ lợp ngói",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tile layer\n-tile setter\n-tiller"
-      }
-    ]
-  },
-  {
-    "word": "thợ cả trát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman plasterer"
-      }
-    ]
-  },
-  {
-    "word": "thợ nguội lắp ráp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-assembling fitter\n@Lĩnh vực: cơ khí & công trình\n-maintenance man"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm khuôn dập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-die sinker"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm sạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chipperman\n-cleanser"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa chữa (về bất động sản...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-repairing lease"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bagger"
       }
     ]
   },
@@ -1930,64 +134,6 @@
     ]
   },
   {
-    "word": "thợ bêtông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-concrete worker\n-concretor"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm khoán",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-jobbing workman\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-jobber\n-piece worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ trời",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ trời\n- Từ dùng trong văn học cũ để chỉ tạo hóa."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the Creator"
-      }
-    ]
-  },
-  {
-    "word": "thợ rót kim loại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-steel man"
-      }
-    ]
-  },
-  {
-    "word": "thợ đẽo đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bricklayer\n-mason\"s hammer"
-      }
-    ]
-  },
-  {
-    "word": "thợ trét ma tít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-body filler"
-      }
-    ]
-  },
-  {
     "word": "thợ rót khuôn",
     "definitions": [
       {
@@ -1997,38 +143,20 @@
     ]
   },
   {
-    "word": "thợ sửa khoan",
+    "word": "thợ lát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drillsmith"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stacker"
       }
     ]
   },
   {
-    "word": "thợ cắt tóc",
+    "word": "thợ xẻ gỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "- barber (như thợ cạo)"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm ăn công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-jobbing workman"
-      }
-    ]
-  },
-  {
-    "word": "thợ lợp tôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plater\n-tinman"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-woodman"
       }
     ]
   },
@@ -2046,333 +174,20 @@
     ]
   },
   {
-    "word": "thợ vạch dấu",
+    "word": "thợ (đốt) lò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marker off"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fire man"
       }
     ]
   },
   {
-    "word": "thợ xây lò",
+    "word": "thợ lắp ống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stove-setter"
-      }
-    ]
-  },
-  {
-    "word": "thợ lái máy kéo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cat skinner\n@Lĩnh vực: xây dựng\n-tractor driver"
-      }
-    ]
-  },
-  {
-    "word": "thợ khoan đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rock driller"
-      }
-    ]
-  },
-  {
-    "word": "thợ giày",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ giày [thợ giày]\n-shoemaker"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "shoemaker"
-      }
-    ]
-  },
-  {
-    "word": "thợ đào lò (bằng cuốc chim)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ripper\n-scarifier"
-      }
-    ]
-  },
-  {
-    "word": "thợ xay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-miller"
-      }
-    ]
-  },
-  {
-    "word": "thợ bãi công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-striker"
-      }
-    ]
-  },
-  {
-    "word": "thợ kim hoàn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ gia công, chế tác các đồ trang sức bằng vàng bạc"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ kim hoàn [thợ kim hoàn]\n-goldsmith;  jeweller"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "goldsmith, jeweler"
-      }
-    ]
-  },
-  {
-    "word": "thợ điều chỉnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster"
-      }
-    ]
-  },
-  {
-    "word": "thợ (đặt) đường ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pipe man"
-      }
-    ]
-  },
-  {
-    "word": "thợ xẻ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ xẻ\n- Người làm nghề cưa gỗ thành ván."
-      }
-    ]
-  },
-  {
-    "word": "thợ máy động cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-engine mechanic"
-      }
-    ]
-  },
-  {
-    "word": "thợ đánh vữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-temperer"
-      }
-    ]
-  },
-  {
-    "word": "thợ đóng tàu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-shipbuilder\n@Lĩnh vực: xây dựng\n-shipwright"
-      }
-    ]
-  },
-  {
-    "word": "thợ nguội-lắp ráp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-erecting machinery"
-      }
-    ]
-  },
-  {
-    "word": "thợ hồ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "người chuyên làm công việc trộn và chuyên chở vôi vữa trong xây dựng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ nề"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ hồ\n- Người gánh vôi và vữa ở những nơi xây dựng (cũ)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ hồ [thợ hồ]\n-mason;  bricklayer;  brickie"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "mason, bricklayer"
-      }
-    ]
-  },
-  {
-    "word": "thợ mộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ chuyên đóng đồ gỗ hoặc làm các bộ phận bằng gỗ trong các công trình xây dựng, chế tạo"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ mộc\n- d. Thợ đóng đồ gỗ hoặc làm các bộ phận bằng gỗ trong các công trình xây dựng, chế tạo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ mộc\n*noun\n-carpenter\n@Chuyên ngành kỹ thuật\n-carpenter\n-joiner\n-woodworker"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ mộc\n* noun\n- carpenter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "carpenter"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp máy lạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigeration fitter\n-refrigeration installation engineer"
-      }
-    ]
-  },
-  {
-    "word": "thợ nguội lắp máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster"
-      }
-    ]
-  },
-  {
-    "word": "thợ chế tạo dụng cụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tool maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ nghiền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bucker"
-      }
-    ]
-  },
-  {
-    "word": "thợ lợp đá bảng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slater"
-      }
-    ]
-  },
-  {
-    "word": "thợ gặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ gặt [thợ gặt]\n-reaper;  harvester;  mower"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "reaper, harvester, mower"
-      }
-    ]
-  },
-  {
-    "word": "thợ lợp (tranh, rơ rạ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thatcher"
-      }
-    ]
-  },
-  {
-    "word": "thợ đặt cáp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cable layer"
-      }
-    ]
-  },
-  {
-    "word": "thợ lợp mái",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofer\n-slater"
-      }
-    ]
-  },
-  {
-    "word": "thợ đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ đúc\n*noun\n-moulder\n@Chuyên ngành kỹ thuật\n-founder\n-moulder\n-pourer"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ đúc\n* noun\n- moulder"
-      }
-    ]
-  },
-  {
-    "word": "thợ khoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drill man\n-drill runner\n-drillman"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ráp điện",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electrician fitter"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm cầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-paving worker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe erector"
       }
     ]
   },
@@ -2386,20 +201,209 @@
     ]
   },
   {
-    "word": "thợ trẻ (thiếu kinh nghiệm)",
+    "word": "thợ bồi tường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-green man"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-upholsterer"
       }
     ]
   },
   {
-    "word": "thợ sửa chữa tàu",
+    "word": "thợ máy ô tô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-shipwright"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-automotive mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm dưỡng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gauge maker\n-tool man"
+      }
+    ]
+  },
+  {
+    "word": "thợ kính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glazier"
+      }
+    ]
+  },
+  {
+    "word": "thợ cốt thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel fixer"
+      }
+    ]
+  },
+  {
+    "word": "thợ rà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grinder"
+      }
+    ]
+  },
+  {
+    "word": "thợ lát sàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parquet layer"
+      }
+    ]
+  },
+  {
+    "word": "thợ phá đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fireman"
+      }
+    ]
+  },
+  {
+    "word": "thợ đường ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
+      }
+    ]
+  },
+  {
+    "word": "thợ chủ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ chủ\n- Người thợ làm chủ một xưởng thủ công và bóc lột thợ bạn."
+      }
+    ]
+  },
+  {
+    "word": "thợ làm gạch chịu lửa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-refractory setter"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm mẫu (xe)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pattern maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ rót kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-steel man"
+      }
+    ]
+  },
+  {
+    "word": "thợ vạch dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-marker off"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm khoán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-jobbing workman\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-jobber\n-piece worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ tuyển dụng để thay cho thợ đình công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-scab"
+      }
+    ]
+  },
+  {
+    "word": "thợ tán đinh (rivê)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-riveter"
+      }
+    ]
+  },
+  {
+    "word": "thợ trổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pikeman"
+      }
+    ]
+  },
+  {
+    "word": "thợ cần cẩu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hoister"
+      }
+    ]
+  },
+  {
+    "word": "thợ thổi thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glass blower"
+      }
+    ]
+  },
+  {
+    "word": "thợ đổ bê tông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-concrete placer\n-concretor\n-placer"
+      }
+    ]
+  },
+  {
+    "word": "thợ nghiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bucker"
+      }
+    ]
+  },
+  {
+    "word": "thợ nề, dây nhợ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-rigger"
       }
     ]
   },
@@ -2425,56 +429,11 @@
     ]
   },
   {
-    "word": "thợ làm gạch chịu lửa",
+    "word": "thợ làm cốt thép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-refractory setter"
-      }
-    ]
-  },
-  {
-    "word": "thợ (máy) lắp ráp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-installing mechanic"
-      }
-    ]
-  },
-  {
-    "word": "thợ sắp ảnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-image setter"
-      }
-    ]
-  },
-  {
-    "word": "thợ phá đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fireman"
-      }
-    ]
-  },
-  {
-    "word": "thợ giàn giáo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scaffolder"
-      }
-    ]
-  },
-  {
-    "word": "thợ trát vữa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plasterer\n-trowel man"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-iron worker"
       }
     ]
   },
@@ -2488,6 +447,285 @@
     ]
   },
   {
+    "word": "thợ thơ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ thơ\n- Người làm thơ cầu kỳ, gò gẫm mà thiếu thi vị."
+      }
+    ]
+  },
+  {
+    "word": "thợ giàn giáo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scaffolder"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm lậu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-undocumented workers"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm tính công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-jobbing workman"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy cần trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crane man"
+      }
+    ]
+  },
+  {
+    "word": "thợ lao công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-roustabout"
+      }
+    ]
+  },
+  {
+    "word": "thợ thủy tinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glazier"
+      }
+    ]
+  },
+  {
+    "word": "thợ đẽo đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bricklayer\n-mason\"s hammer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lái cần trục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-crane-driver"
+      }
+    ]
+  },
+  {
+    "word": "thợ cả lắp kính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman glazier"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa lắp dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-toolmaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ rải nhựa đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt laying worker\n-tar spreader"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm việc trên cao",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steeple jack"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electric fitter"
+      }
+    ]
+  },
+  {
+    "word": "thợ vẽ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ vẽ [thợ vẽ]\n*danh từ\n-drawer;  limner"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "draftsman"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp ráp.",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fitter"
+      }
+    ]
+  },
+  {
+    "word": "thợ đào lò (bằng cuốc chim)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ripper\n-scarifier"
+      }
+    ]
+  },
+  {
+    "word": "thợ mài",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-grinder"
+      }
+    ]
+  },
+  {
+    "word": "thợ săn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm nghề săn bắn"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ săn [thợ săn]\n-hunter;  huntress"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "hunter"
+      }
+    ]
+  },
+  {
+    "word": "thợ cưa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ cưa\n- Nh. Thợ xẻ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ cưa\n*noun\n-sawyer"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ cưa\n* noun\n- sawyer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sawyer"
+      }
+    ]
+  },
+  {
+    "word": "thợ điện ô tô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-automotive electrician"
+      }
+    ]
+  },
+  {
+    "word": "thợ thiếc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tin foil man\n-tin smith\n-tinman"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tinsmith"
+      }
+    ]
+  },
+  {
+    "word": "thợ quang dầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-varnisher"
+      }
+    ]
+  },
+  {
+    "word": "thợ rừng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-woodman"
+      }
+    ]
+  },
+  {
+    "word": "thợ nề",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ nề\n- Người làm nghề xây nhà và các công trình khác."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ nề\n*danh từ\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigger"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "bricklayer"
+      }
+    ]
+  },
+  {
+    "word": "thợ đặt cáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cable layer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lấy dấu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-marker\n-marker-off\n-marker-out"
+      }
+    ]
+  },
+  {
     "word": "thợ đánh vecni",
     "definitions": [
       {
@@ -2497,87 +735,69 @@
     ]
   },
   {
-    "word": "thợ máy",
+    "word": "thợ lái máy ủi",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ lắp ráp, bảo dưỡng và sửa chữa máy móc"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ máy\n- dt. Thợ lắp ráp, sửa chữa, bảo dưỡng các máy móc."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bulldozer operator\n@Lĩnh vực: hóa học & vật liệu\n-cat skinner"
+      }
+    ]
+  },
+  {
+    "word": "thợ sắt",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thợ máy\n*noun\n-mechanic\n@Chuyên ngành kinh tế\n-machinist\n@Chuyên ngành kỹ thuật\n-donkey man\n-engineer\n-machinist machinery\n-mechanician\n-motor mechanic\n-operative\n-operatives\n-scriber, machinist\n-tender"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-iron worker\n@Lĩnh vực: cơ khí & công trình\n-tin foil man"
+      }
+    ]
+  },
+  {
+    "word": "thợ nguội lắp máy",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ máy\n* noun\n- mechanic"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster"
+      }
+    ]
+  },
+  {
+    "word": "thợ đốn cây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-feller"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-trouble hunter"
+      }
+    ]
+  },
+  {
+    "word": "thợ mỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ mỏ [thợ mỏ]\n-miner\n@Chuyên ngành kỹ thuật\n-collier\n-getter\n-miner"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "mechanic"
+        "dict_definition": "miner"
       }
     ]
   },
   {
-    "word": "thợ cán",
+    "word": "thợ sửa chữa ô tô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-roller"
-      }
-    ]
-  },
-  {
-    "word": "thợ đấu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ đào đất"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ đấu\n- Thợ đào đất."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ đấu [thợ đấu]\n*danh từ\n-navvy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-digger"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "navy"
-      }
-    ]
-  },
-  {
-    "word": "thợ bạn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "thợ thủ công cùng làm việc với một thợ cả"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ bạn\n- d. 1. Người thợ cùng làm với người thợ khác. 2. Người thợ cùng làm và chia lời với thợ chủ trong một phường hội dưới chế độ phong kiến."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ bạn [thợ bạn]\n*danh từ\n-fellow-worker\n@Chuyên ngành kinh tế\n-journeyman"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fellow-worker"
-      }
-    ]
-  },
-  {
-    "word": "thợ tiện gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-turner"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-automobile mechanic"
       }
     ]
   },
@@ -2607,19 +827,481 @@
     ]
   },
   {
-    "word": "thợ lặn",
+    "word": "thợ tiện gỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thợ lặn\n*noun\n-diver\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plunger"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-turner"
+      }
+    ]
+  },
+  {
+    "word": "thợ đào",
+    "definitions": [
       {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ lặn\n* noun\n- diver"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-sinker"
+      }
+    ]
+  },
+  {
+    "word": "thợ cơ khí lạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigeration engineer\n-refrigeration mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ bãi công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-striker"
+      }
+    ]
+  },
+  {
+    "word": "thợ nổ mìn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fireman\n-powderman"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy ép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-press man"
+      }
+    ]
+  },
+  {
+    "word": "thợ lợp ngói",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-tile layer\n-tile setter\n-tiller"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp ráp điện",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electrician fitter"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-paving worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ đắp lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stove-setter"
+      }
+    ]
+  },
+  {
+    "word": "thợ công nhật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-journeyman\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-char\n-shiftman"
+      }
+    ]
+  },
+  {
+    "word": "thợ dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-toolmaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ giết mổ gia súc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-slaughterer"
+      }
+    ]
+  },
+  {
+    "word": "thợ giày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ giày [thợ giày]\n-shoemaker"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "diver"
+        "dict_definition": "shoemaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm mẫu (đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-model maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brickmaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm kính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glassmaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ khéo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "skilled worker, artisan"
+      }
+    ]
+  },
+  {
+    "word": "thợ khoan đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-rock driller"
+      }
+    ]
+  },
+  {
+    "word": "thợ điều chỉnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-adjuster"
+      }
+    ]
+  },
+  {
+    "word": "thợ tráng men",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-glazer"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa chữa (về bất động sản...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-repairing lease"
+      }
+    ]
+  },
+  {
+    "word": "thợ rèn phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-striker"
+      }
+    ]
+  },
+  {
+    "word": "thợ khắc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ khắc\n*danh từ\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-carver"
+      }
+    ]
+  },
+  {
+    "word": "thợ lát đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-paver\n-paving worker\n-pavior\n-paviour\n-road paver"
+      }
+    ]
+  },
+  {
+    "word": "thợ đột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pikeman"
+      }
+    ]
+  },
+  {
+    "word": "thợ (nguội) dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tool man"
+      }
+    ]
+  },
+  {
+    "word": "thợ cả lát gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman bricklayer"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm khuôn (dập)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-die maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ nguội-lắp ráp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-erecting machinery"
+      }
+    ]
+  },
+  {
+    "word": "thợ sắp ảnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-image setter"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa ống nước",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "plumber"
+      }
+    ]
+  },
+  {
+    "word": "thợ lành nghề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-master"
+      }
+    ]
+  },
+  {
+    "word": "thợ bạn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ thủ công cùng làm việc với một thợ cả"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ bạn\n- d. 1. Người thợ cùng làm với người thợ khác. 2. Người thợ cùng làm và chia lời với thợ chủ trong một phường hội dưới chế độ phong kiến."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ bạn [thợ bạn]\n*danh từ\n-fellow-worker\n@Chuyên ngành kinh tế\n-journeyman"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fellow-worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ đốt lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fireman\n-fire-stone\n-furnace-man\n-stocker\n-stoker"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy là atfan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt finisher"
+      }
+    ]
+  },
+  {
+    "word": "thợ bịt lò (mỏ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-protection insulation layer"
+      }
+    ]
+  },
+  {
+    "word": "thợ cơ khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mechanic\n-metallist"
+      }
+    ]
+  },
+  {
+    "word": "thợ học nghề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-apprentice"
+      }
+    ]
+  },
+  {
+    "word": "thợ đào hầm (bằng cuốc chim)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ripper\n-scarifier"
+      }
+    ]
+  },
+  {
+    "word": "thợ lát tấm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slab-laying machine\n-tile setter"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa khoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-drillsmith"
+      }
+    ]
+  },
+  {
+    "word": "thợ rào",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ rào\n- Cg. Thợ rèn. Người chuyên làm bằng tay nghề rèn sắt nung thành đồ dùng."
+      }
+    ]
+  },
+  {
+    "word": "thợ chống cột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-timberer"
+      }
+    ]
+  },
+  {
+    "word": "thợ giặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ giặt [thợ giặt]\n-launderer;  laundryman;  washerwoman;  laundress"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "laundry-man, clothes washer"
+      }
+    ]
+  },
+  {
+    "word": "thợ đục đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-driller\n-quarrel"
+      }
+    ]
+  },
+  {
+    "word": "thợ hàn chì",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road builder"
+      }
+    ]
+  },
+  {
+    "word": "thợ, kẻ phá đình công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-scab"
+      }
+    ]
+  },
+  {
+    "word": "thợ lưu hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vulcanizer operator"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm sạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chipperman\n-cleanser"
       }
     ]
   },
@@ -2633,11 +1315,403 @@
     ]
   },
   {
-    "word": "thợ máy ô tô",
+    "word": "thợ đấu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ đào đất"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ đấu\n- Thợ đào đất."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ đấu [thợ đấu]\n*danh từ\n-navvy\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-digger"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "navy"
+      }
+    ]
+  },
+  {
+    "word": "thợ tôi vôi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-automotive mechanic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lime slaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ dệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ dệt [thợ dệt]\n*danh từ\n-weaver"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "weaver"
+      }
+    ]
+  },
+  {
+    "word": "thợ dập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-presser\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-press man"
+      }
+    ]
+  },
+  {
+    "word": "thợ sơn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ sơn\n- Thợ làm nghề sơn vẽ."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ sơn\n*noun\n-painter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-japanner\n@Lĩnh vực: xây dựng\n-painter"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ sơn\n* noun\n- painter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "painter"
+      }
+    ]
+  },
+  {
+    "word": "thợ lát sân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-tile layer"
+      }
+    ]
+  },
+  {
+    "word": "thợ khung sườn xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-body builder"
+      }
+    ]
+  },
+  {
+    "word": "thợ mộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ chuyên đóng đồ gỗ hoặc làm các bộ phận bằng gỗ trong các công trình xây dựng, chế tạo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ mộc\n- d. Thợ đóng đồ gỗ hoặc làm các bộ phận bằng gỗ trong các công trình xây dựng, chế tạo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ mộc\n*noun\n-carpenter\n@Chuyên ngành kỹ thuật\n-carpenter\n-joiner\n-woodworker"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ mộc\n* noun\n- carpenter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "carpenter"
+      }
+    ]
+  },
+  {
+    "word": "thợ ngôi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ ngôi\n- Nh. Thợ cạo (cũ)."
+      }
+    ]
+  },
+  {
+    "word": "thợ cả trát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman plasterer"
+      }
+    ]
+  },
+  {
+    "word": "thợ đặt máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mounter"
+      }
+    ]
+  },
+  {
+    "word": "thợ điều khiển búa đóng cọc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pile driver operator"
+      }
+    ]
+  },
+  {
+    "word": "thợ mã",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ mã\n- Người chuyên làm đồ mã (cũ)."
+      }
+    ]
+  },
+  {
+    "word": "thợ làm khuôn dập",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-die sinker"
+      }
+    ]
+  },
+  {
+    "word": "thợ nguội sửa chữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-maintenance man"
+      }
+    ]
+  },
+  {
+    "word": "thợ trên cao (khoan)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-derrick man"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ lắp ráp, bảo dưỡng và sửa chữa máy móc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ máy\n- dt. Thợ lắp ráp, sửa chữa, bảo dưỡng các máy móc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ máy\n*noun\n-mechanic\n@Chuyên ngành kinh tế\n-machinist\n@Chuyên ngành kỹ thuật\n-donkey man\n-engineer\n-machinist machinery\n-mechanician\n-motor mechanic\n-operative\n-operatives\n-scriber, machinist\n-tender"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ máy\n* noun\n- mechanic"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ cắt bằng hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gas cutter"
+      }
+    ]
+  },
+  {
+    "word": "thợ chữa máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ nguội (đặt) đường ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe fitter"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa chửa tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipwright"
+      }
+    ]
+  },
+  {
+    "word": "thợ rèn đồng thau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brass smith"
+      }
+    ]
+  },
+  {
+    "word": "thợ xay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-miller"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp ráp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-assembler\n-refrigeration fitter\n@Chuyên ngành kỹ thuật\n-assembler\n-erecting machinery\n-joiner\n-millwright"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "assembler"
+      }
+    ]
+  },
+  {
+    "word": "thợ mỏ đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-quarry man"
+      }
+    ]
+  },
+  {
+    "word": "thợ lợp (tranh, rơ rạ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-thatcher"
+      }
+    ]
+  },
+  {
+    "word": "thợ lát đá hè",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-paver"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-gauge maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ lái máy kéo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-cat skinner\n@Lĩnh vực: xây dựng\n-tractor driver"
+      }
+    ]
+  },
+  {
+    "word": "thợ cầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-bridge monkey"
+      }
+    ]
+  },
+  {
+    "word": "thợ mài rà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-polishing unit"
+      }
+    ]
+  },
+  {
+    "word": "thợ xoắn dây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-twister"
+      }
+    ]
+  },
+  {
+    "word": "thợ trẻ (thiếu kinh nghiệm)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-green man"
+      }
+    ]
+  },
+  {
+    "word": "thợ (đặt) đường ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pipe man"
+      }
+    ]
+  },
+  {
+    "word": "thợ xây",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ chuyên xây gạch, đá trong các công trình xây dựng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-mason\n-placer\n-stacker"
+      }
+    ]
+  },
+  {
+    "word": "thợ vụng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tinker"
+      }
+    ]
+  },
+  {
+    "word": "thợ cày",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ cày [thợ cày]\n*danh từ\n-như"
       }
     ]
   },
@@ -2663,20 +1737,984 @@
     ]
   },
   {
-    "word": "thợ đào đất",
+    "word": "thợ ôtô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-digger"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-automotive mechanics"
       }
     ]
   },
   {
-    "word": "thợ làm gạch",
+    "word": "thợ đúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brickmaker"
+        "dict_definition": "@thợ đúc\n*noun\n-moulder\n@Chuyên ngành kỹ thuật\n-founder\n-moulder\n-pourer"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ đúc\n* noun\n- moulder"
+      }
+    ]
+  },
+  {
+    "word": "thợ ngõa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ ngõa\n- Người chuyên làm nghề lợp ngói."
+      }
+    ]
+  },
+  {
+    "word": "thợ đốt nồi hơi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pot man"
+      }
+    ]
+  },
+  {
+    "word": "thợ, công nhân làm theo mùa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-seasonal worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm theo ca",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shiftman"
+      }
+    ]
+  },
+  {
+    "word": "thợ chống lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-timberman"
+      }
+    ]
+  },
+  {
+    "word": "thợ bit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bit twiddler"
+      }
+    ]
+  },
+  {
+    "word": "thợ bọc lót (đệm ghế)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-upholsterer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp kính trang trí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-art glazier"
+      }
+    ]
+  },
+  {
+    "word": "thợ nhào bột",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-doughmaker\n-doughman"
+      }
+    ]
+  },
+  {
+    "word": "thợ quét vôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-painter\n-whitewasher"
+      }
+    ]
+  },
+  {
+    "word": "thợ nối ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-jointer"
+      }
+    ]
+  },
+  {
+    "word": "thợ khoan mới vào nghề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-boll weevil"
+      }
+    ]
+  },
+  {
+    "word": "thợ ống nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
+      }
+    ]
+  },
+  {
+    "word": "thợ tán đinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clincher\n-riveter"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy chính",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chief mechanic\n-master mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ sàng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-screen operator"
+      }
+    ]
+  },
+  {
+    "word": "thợ nguội",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ chế tạo, sửa chữa, lắp ráp các sản phẩm kim loại theo lối thủ công"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ nguội\n- Người gò giũa kim loại thành đồ vật."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ nguội\n*danh từ\n-fitter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-machine man\n@Lĩnh vực: toán & tin\n-mechanist"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fitter"
+      }
+    ]
+  },
+  {
+    "word": "thợ trát vữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plasterer\n-trowel man"
+      }
+    ]
+  },
+  {
+    "word": "thợ đóng thùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cooper\n-tubber"
+      }
+    ]
+  },
+  {
+    "word": "thợ hiệu chỉnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-setter-up"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp sửa dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-toolmaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm giấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-paper maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ nhuộm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ nhuộm\n*danh từ\n-dyer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dyer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp ráp xây dựng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction fitter"
+      }
+    ]
+  },
+  {
+    "word": "thợ điện",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ lắp ráp, sửa chữa các thiết bị và dụng cụ điện"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ điện\n- d. Thợ lắp ráp, sửa chữa các thiết bị và dụng cụ điện."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ điện\n*noun\n-electrician\n@Chuyên ngành kỹ thuật\n-engineer\n-maintenance man\n-mounter"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ điện\n* noun\n- electrician"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "electrician"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm ăn công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-jobbing workman"
+      }
+    ]
+  },
+  {
+    "word": "thợ may",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người làm nghề may quần áo"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ may\n*noun\n-tailor"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ may\n* noun\n- tailor"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "tailor"
+      }
+    ]
+  },
+  {
+    "word": "thợ lợp mái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofer\n-slater"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp ráp-hiệu chỉnh (điện)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electrician adjuster"
+      }
+    ]
+  },
+  {
+    "word": "thợ xảm (thuyền)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-caulker"
+      }
+    ]
+  },
+  {
+    "word": "thợ cạo rà",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-scraper"
+      }
+    ]
+  },
+  {
+    "word": "thợ đồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-brazier\n@Lĩnh vực: ô tô\n-panel beater"
+      }
+    ]
+  },
+  {
+    "word": "thợ đào hầm lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pit man"
+      }
+    ]
+  },
+  {
+    "word": "thợ, tớ, phụ thuộc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-slave"
+      }
+    ]
+  },
+  {
+    "word": "thợ lặn biển sâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-deep-sea diver"
+      }
+    ]
+  },
+  {
+    "word": "thợ bêtông atfan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-asphalt worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ nối dây cáp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cable spicer\n@Lĩnh vực: toán & tin\n-cable splicer"
+      }
+    ]
+  },
+  {
+    "word": "thợ khoan mới (tiếng lóng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-weevil"
+      }
+    ]
+  },
+  {
+    "word": "thợ hàn chì (đường ống)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
+      }
+    ]
+  },
+  {
+    "word": "thợ không chuyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unskilled worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ chữa khẩn cấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cooper"
+      }
+    ]
+  },
+  {
+    "word": "thợ phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-auxiliary worker\n-general labourer\n-helper\n-laborer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "assistant worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp đai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-belt mounter"
+      }
+    ]
+  },
+  {
+    "word": "thợ bơm (trên một tàu chở dầu)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pump man"
+      }
+    ]
+  },
+  {
+    "word": "thợ đào lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hewer\n-tunneller"
+      }
+    ]
+  },
+  {
+    "word": "thợ lặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ lặn\n*noun\n-diver\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plunger"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ lặn\n* noun\n- diver"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "diver"
+      }
+    ]
+  },
+  {
+    "word": "thợ đóng tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-shipbuilder\n@Lĩnh vực: xây dựng\n-shipwright"
+      }
+    ]
+  },
+  {
+    "word": "thợ hồ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người chuyên làm công việc trộn và chuyên chở vôi vữa trong xây dựng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ nề"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ hồ\n- Người gánh vôi và vữa ở những nơi xây dựng (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ hồ [thợ hồ]\n-mason;  bricklayer;  brickie"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "mason, bricklayer"
+      }
+    ]
+  },
+  {
+    "word": "thợ xây lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stove-setter"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy công cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-machine-tool worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ đặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stacker"
+      }
+    ]
+  },
+  {
+    "word": "thợ thuyền",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ thuyền\n- Công nhân nói chung (cũ)."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ thuyền [thợ thuyền]\n*danh từ\n-workers;  working class (in general)\n@Chuyên ngành kinh tế\n-blue-collar worker"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "workers, working class (in general)"
+      }
+    ]
+  },
+  {
+    "word": "thợ khắc đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-lapidary"
+      }
+    ]
+  },
+  {
+    "word": "thợ cả mộc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman carpenter and joiner"
+      }
+    ]
+  },
+  {
+    "word": "thợ khóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-locksmith"
+      }
+    ]
+  },
+  {
+    "word": "thợ đặt đường ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe-layer\n-plumber"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy động cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-engine mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ cán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-roller"
+      }
+    ]
+  },
+  {
+    "word": "thợ kim khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-locksmith\n-mechanic\n-metallist"
+      }
+    ]
+  },
+  {
+    "word": "thợ uốn cốt thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel bender"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa chữa (máy...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-troublemaker"
+      }
+    ]
+  },
+  {
+    "word": "thợ xây dựng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction worker\n-fabricant"
+      }
+    ]
+  },
+  {
+    "word": "thợ khắc trên gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-xylographer"
+      }
+    ]
+  },
+  {
+    "word": "thợ nấu kim loại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-smelter"
+      }
+    ]
+  },
+  {
+    "word": "thợ chọn mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-picker"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm mô hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pattern maker\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-model maker\n@Lĩnh vực: xây dựng\n-pattern maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ đặt ống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pipe layer"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa chữa tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-shipwright"
+      }
+    ]
+  },
+  {
+    "word": "thợ chằng buộc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-rigger"
+      }
+    ]
+  },
+  {
+    "word": "thợ trên sàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-floor man"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm mẫu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-pattern maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ chế tạo dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tool maker"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp ráp tạm thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-installment floater"
+      }
+    ]
+  },
+  {
+    "word": "thợ trét ma tít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-body filler"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa chữa máy móc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-repairer\n-repairman"
+      }
+    ]
+  },
+  {
+    "word": "thợ cưa thịt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sawer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp kính nghệ thuật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-art glazier"
+      }
+    ]
+  },
+  {
+    "word": "thợ rèn búa máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hammer man"
+      }
+    ]
+  },
+  {
+    "word": "thợ xẻ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ xẻ\n- Người làm nghề cưa gỗ thành ván."
+      }
+    ]
+  },
+  {
+    "word": "thợ khai thác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-getter\n@Lĩnh vực: xây dựng\n-hewer"
+      }
+    ]
+  },
+  {
+    "word": "thợ khoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drill man\n-drill runner\n-drillman"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa chữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-repairer\n-troubleshooter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mender\n-repairer"
+      }
+    ]
+  },
+  {
+    "word": "thợ sắp chữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ sắp chữ [thợ sắp chữ]\n-typesetter;  compositor\n@Chuyên ngành kinh tế\n-typographer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-type-setter"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "typesetter"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm đồng xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-body builder"
+      }
+    ]
+  },
+  {
+    "word": "thợ gương lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hewer\n-miner"
+      }
+    ]
+  },
+  {
+    "word": "thợ láp ráp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-erector"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy xếp tải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-conveyor operator"
+      }
+    ]
+  },
+  {
+    "word": "thợ thủ công",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "người sản xuất thủ công nghiệp, sử dụng công cụ của mình để sản xuất ra hàng hoá"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ thủ công [thợ thủ công]\n-artisan;  craftsman;  handicraftsman\n@Chuyên ngành kinh tế\n-craftsman"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "artisan, craftsman, handicraftsman"
+      }
+    ]
+  },
+  {
+    "word": "thợ làm đồ sừng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-horner"
+      }
+    ]
+  },
+  {
+    "word": "thợ rèn, rèn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-smith"
+      }
+    ]
+  },
+  {
+    "word": "thợ nề)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bevel"
+      }
+    ]
+  },
+  {
+    "word": "thợ lót lò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lining worker"
+      }
+    ]
+  },
+  {
+    "word": "thợ đặt dây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-wire foreman"
+      }
+    ]
+  },
+  {
+    "word": "thợ rỗi việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-idle man"
+      }
+    ]
+  },
+  {
+    "word": "thợ (máy) lắp ráp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-installing mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ gặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ gặt [thợ gặt]\n-reaper;  harvester;  mower"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "reaper, harvester, mower"
       }
     ]
   },
@@ -2706,123 +2744,73 @@
     ]
   },
   {
-    "word": "thợ lắp sửa dụng cụ",
+    "word": "thợ in",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-toolmaker"
-      }
-    ]
-  },
-  {
-    "word": "thợ chọn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-state picker"
-      }
-    ]
-  },
-  {
-    "word": "thợ kim khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-locksmith\n-mechanic\n-metallist"
-      }
-    ]
-  },
-  {
-    "word": "thợ khắc trên gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-xylographer"
-      }
-    ]
-  },
-  {
-    "word": "thợ cần cẩu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hoister"
-      }
-    ]
-  },
-  {
-    "word": "thợ sàn khoan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toolpusher"
-      }
-    ]
-  },
-  {
-    "word": "thợ tán đinh (rivê)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-riveter"
-      }
-    ]
-  },
-  {
-    "word": "thợ đẽo gọt đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone dresser\n-stonemason"
-      }
-    ]
-  },
-  {
-    "word": "thợ uốn cốt thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-steel bender"
-      }
-    ]
-  },
-  {
-    "word": "thợ thiếc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-tin foil man\n-tin smith\n-tinman"
+        "dict_definition": "@thợ in [thợ in]\n*danh từ\n-printer;  typographer;  pressman\n@Chuyên ngành kinh tế\n-printer\n-typographer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-typographer"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "tinsmith"
+        "dict_definition": "printer, typographer, pressman"
       }
     ]
   },
   {
-    "word": "thợ cưa thịt",
+    "word": "thợ đường đơn (khóa an toàn đoạn đường)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sawer"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-single line turnout"
       }
     ]
   },
   {
-    "word": "thợ làm mẫu (xe)",
+    "word": "thợ đánh vữa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pattern maker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-temperer"
       }
     ]
   },
   {
-    "word": "thợ xây dựng",
+    "word": "thợ (nguội) đường ống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction worker\n-fabricant"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pipe man"
+      }
+    ]
+  },
+  {
+    "word": "thợ phay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ phay\n*danh từ\n-miller\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-miller\n-milling worker"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "miller"
+      }
+    ]
+  },
+  {
+    "word": "thợ khắc gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood cutter"
+      }
+    ]
+  },
+  {
+    "word": "thợ (nguội) sửa chữa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-repair man"
       }
     ]
   },
@@ -2836,395 +2824,101 @@
     ]
   },
   {
-    "word": "thợ buồm",
+    "word": "thợ trên cao",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sail-maker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-derrick-man"
       }
     ]
   },
   {
-    "word": "thợ chữa khẩn cấp",
+    "word": "thợ chọn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cooper"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-state picker"
       }
     ]
   },
   {
-    "word": "thợ rèn đồng thau",
+    "word": "thợ bêtông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-brass smith"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-concrete worker\n-concretor"
       }
     ]
   },
   {
-    "word": "thợ chống lò",
+    "word": "thợ lắp máy lạnh",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-timberman"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-refrigeration fitter\n-refrigeration installation engineer"
       }
     ]
   },
   {
-    "word": "thợ rỗi việc",
+    "word": "thợ mộc kỹ thuật",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-idle man"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-cabinet maker"
       }
     ]
   },
   {
-    "word": "thợ máy xếp tải",
+    "word": "thợ đứng máy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-conveyor operator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-machine operator\n@Lĩnh vực: cơ khí & công trình\n-machine-minder"
       }
     ]
   },
   {
-    "word": "thợ kính",
+    "word": "thợ cắt tóc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glazier"
+        "dict_definition": "- barber (như thợ cạo)"
       }
     ]
   },
   {
-    "word": "thợ lặn biển sâu",
+    "word": "thợ hoàn thiện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-deep-sea diver"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-finisher"
       }
     ]
   },
   {
-    "word": "thợ làm tính công",
+    "word": "thợ cắt ren",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-jobbing workman"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-threader"
       }
     ]
   },
   {
-    "word": "thợ nề",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@thợ nề\n- Người làm nghề xây nhà và các công trình khác."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ nề\n*danh từ\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rigger"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "bricklayer"
-      }
-    ]
-  },
-  {
-    "word": "thợ đào lò",
+    "word": "thợ lò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hewer\n-tunneller"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-furnaceman\n@Lĩnh vực: xây dựng\n-pitman"
       }
     ]
   },
   {
-    "word": "thợ sắt",
+    "word": "thợ hầm lò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-iron worker\n@Lĩnh vực: cơ khí & công trình\n-tin foil man"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm giấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-paper maker"
-      }
-    ]
-  },
-  {
-    "word": "thợ nhào bột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-doughmaker\n-doughman"
-      }
-    ]
-  },
-  {
-    "word": "thợ mài rà",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-polishing unit"
-      }
-    ]
-  },
-  {
-    "word": "thợ ống nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
-      }
-    ]
-  },
-  {
-    "word": "thợ mài sắc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-grinder\n-sharpener"
-      }
-    ]
-  },
-  {
-    "word": "thợ đốn cây",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-feller"
-      }
-    ]
-  },
-  {
-    "word": "thợ đóng thùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cooper\n-tubber"
-      }
-    ]
-  },
-  {
-    "word": "thợ đóng bao",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bagger"
-      }
-    ]
-  },
-  {
-    "word": "thợ đường ống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumber"
-      }
-    ]
-  },
-  {
-    "word": "thợ lắp ráp.",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fitter"
-      }
-    ]
-  },
-  {
-    "word": "thợ dụng cụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-toolmaker"
-      }
-    ]
-  },
-  {
-    "word": "thợ hàn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ hàn\n*noun\n-solderer\n@Chuyên ngành kỹ thuật\n-solderer\n-tin foil man\n-welder"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@thợ hàn\n* noun\n- solderer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "solderer"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa dụng cụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toolie"
-      }
-    ]
-  },
-  {
-    "word": "thợ sắp chữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ sắp chữ [thợ sắp chữ]\n-typesetter;  compositor\n@Chuyên ngành kinh tế\n-typographer\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-type-setter"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "typesetter"
-      }
-    ]
-  },
-  {
-    "word": "thợ đặt máy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-mounter"
-      }
-    ]
-  },
-  {
-    "word": "thợ nhuộm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@thợ nhuộm\n*danh từ\n-dyer"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dyer"
-      }
-    ]
-  },
-  {
-    "word": "thợ làm kính",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-glassmaker"
-      }
-    ]
-  },
-  {
-    "word": "thợ, kẻ phá đình công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-scab"
-      }
-    ]
-  },
-  {
-    "word": "thợ bit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bit twiddler"
-      }
-    ]
-  },
-  {
-    "word": "thợ sàng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-screen operator"
-      }
-    ]
-  },
-  {
-    "word": "thợ nhiều nghề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-all-rounder"
-      }
-    ]
-  },
-  {
-    "word": "thợ xảm (thuyền)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-caulker"
-      }
-    ]
-  },
-  {
-    "word": "thợ khéo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "skilled worker, artisan"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa chữa ô tô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-automobile mechanic"
-      }
-    ]
-  },
-  {
-    "word": "thợ tráng mạ (thiếc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tin foil man"
-      }
-    ]
-  },
-  {
-    "word": "thợ tạo",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "the Creator"
-      }
-    ]
-  },
-  {
-    "word": "thợ sửa chữa (máy...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-troublemaker"
-      }
-    ]
-  },
-  {
-    "word": "thợ máy cần trục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-crane man"
-      }
-    ]
-  },
-  {
-    "word": "thợ lưu hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-vulcanizer operator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pitman"
       }
     ]
   },
@@ -3246,65 +2940,50 @@
     ]
   },
   {
-    "word": "thợ khắc",
+    "word": "thợ hàn điện",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thợ khắc\n*danh từ\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-carver"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-electric welder"
       }
     ]
   },
   {
-    "word": "thợ đứng máy",
+    "word": "thợ lấy cát",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-machine operator\n@Lĩnh vực: cơ khí & công trình\n-machine-minder"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sand-hog"
       }
     ]
   },
   {
-    "word": "thợ cả lắp kính",
+    "word": "thợ bạc",
     "definitions": [
       {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ bạc\n- dt. Thợ làm đồ trang sức, những đồ quý giá bằng vàng bạc."
+      },
+      {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-foreman glazier"
+        "dict_definition": "@thợ bạc\n*noun\n-silversmith, goldsmith"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ bạc\n* noun\n- silversmith, goldsmith"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "silversmith, jeweler"
       }
     ]
   },
   {
-    "word": "thợ lát đá hè",
+    "word": "thợ xếp khuôn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-paver"
-      }
-    ]
-  },
-  {
-    "word": "thợ mỏ lãnh lương công nhật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-on-costman"
-      }
-    ]
-  },
-  {
-    "word": "thợ gia công đá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone mason"
-      }
-    ]
-  },
-  {
-    "word": "thợ cắt ren",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-threader"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-mold placer"
       }
     ]
   },
@@ -3318,29 +2997,20 @@
     ]
   },
   {
-    "word": "thợ đốt lò",
+    "word": "thợ lát gạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fireman\n-fire-stone\n-furnace-man\n-stocker\n-stoker"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bricklayer\n-tiller"
       }
     ]
   },
   {
-    "word": "thợ cày",
+    "word": "thợ buồm",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@thợ cày [thợ cày]\n*danh từ\n-như"
-      }
-    ]
-  },
-  {
-    "word": "thợ chằng buộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-rigger"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: giao thông & vận tải\n-sail-maker"
       }
     ]
   },
@@ -3354,11 +3024,341 @@
     ]
   },
   {
-    "word": "thợ máy chính",
+    "word": "thợ tráng mạ (thiếc)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-chief mechanic\n-master mechanic"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-tin foil man"
+      }
+    ]
+  },
+  {
+    "word": "thợ trời",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@thợ trời\n- Từ dùng trong văn học cũ để chỉ tạo hóa."
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the Creator"
+      }
+    ]
+  },
+  {
+    "word": "thợ sửa dụng cụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toolie"
+      }
+    ]
+  },
+  {
+    "word": "thợ đẽo gọt đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone dresser\n-stonemason"
+      }
+    ]
+  },
+  {
+    "word": "thợ lợp tôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plater\n-tinman"
+      }
+    ]
+  },
+  {
+    "word": "thợ nhiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-heating technician"
+      }
+    ]
+  },
+  {
+    "word": "thợ mỏ lãnh lương công nhật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-on-costman"
+      }
+    ]
+  },
+  {
+    "word": "thợ lột da",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-dehider"
+      }
+    ]
+  },
+  {
+    "word": "thợ khoan phụ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-floorman\n-roustabout"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy nghiệm thu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inspecting mechanic"
+      }
+    ]
+  },
+  {
+    "word": "thợ toàn năng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-all-rounder"
+      }
+    ]
+  },
+  {
+    "word": "thợ đào đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-digger"
+      }
+    ]
+  },
+  {
+    "word": "thợ bảo dưỡng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-maintainer"
+      }
+    ]
+  },
+  {
+    "word": "thợ nguội lắp ráp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-assembling fitter\n@Lĩnh vực: cơ khí & công trình\n-maintenance man"
+      }
+    ]
+  },
+  {
+    "word": "thợ sàn khoan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-toolpusher"
+      }
+    ]
+  },
+  {
+    "word": "thợ máy sàng sỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-gravel screeing plant operator"
+      }
+    ]
+  },
+  {
+    "word": "thợ gò",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-farrier"
+      }
+    ]
+  },
+  {
+    "word": "thợ thêu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ thêu\n*danh từ\n-embroiderer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "embroiderer"
+      }
+    ]
+  },
+  {
+    "word": "thợ đánh bóng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-glazer\n@Chuyên ngành kỹ thuật\n-burnisher\n-polisher\n-polishing unit"
+      }
+    ]
+  },
+  {
+    "word": "thợ gia công đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone mason"
+      }
+    ]
+  },
+  {
+    "word": "thợ kim hoàn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "thợ gia công, chế tác các đồ trang sức bằng vàng bạc"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ kim hoàn [thợ kim hoàn]\n-goldsmith;  jeweller"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "goldsmith, jeweler"
+      }
+    ]
+  },
+  {
+    "word": "thợ điện (đường dây)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wireman"
+      }
+    ]
+  },
+  {
+    "word": "thợ tạo",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the Creator"
+      }
+    ]
+  },
+  {
+    "word": "thợ hàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@thợ hàn\n*noun\n-solderer\n@Chuyên ngành kỹ thuật\n-solderer\n-tin foil man\n-welder"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@thợ hàn\n* noun\n- solderer"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "solderer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp ráp tàu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-shipfitter"
+      }
+    ]
+  },
+  {
+    "word": "thợ trang trí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-trimmer"
+      }
+    ]
+  },
+  {
+    "word": "thợ chặt cây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-wood cutter"
+      }
+    ]
+  },
+  {
+    "word": "thợ tôi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-temperer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lợp (mái)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-roofer"
+      }
+    ]
+  },
+  {
+    "word": "thợ lặn sâu (kỹ thuật lặn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-saturation diver"
+      }
+    ]
+  },
+  {
+    "word": "thợ nhiều nghề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-all-rounder"
+      }
+    ]
+  },
+  {
+    "word": "thợ đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-quarry man\n-stone dresser\n-stonemason"
+      }
+    ]
+  },
+  {
+    "word": "thợ xây đá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stone mason"
+      }
+    ]
+  },
+  {
+    "word": "thợ lắp máy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-fitter\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-fitter\n@Lĩnh vực: xây dựng\n-millwright"
+      }
+    ]
+  },
+  {
+    "word": "thợ bơm mỡ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-greaser"
       }
     ]
   }

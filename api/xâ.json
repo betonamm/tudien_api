@@ -1,48 +1,70 @@
 [
   {
-    "word": "xây tường gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-brick"
-      }
-    ]
-  },
-  {
-    "word": "xây",
+    "word": "xâm chiếm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gắn các loại vật liệu vào nhau bằng chất kết dính [thường là vữa] để làm thành một công trình hay bộ phận công trình\nVí dụ:\n- họ đang xây nhà \n - xây tượng đài"
+        "dict_definition": "chiếm đoạt cái thuộc chủ quyền của người khác bằng vũ lực\nVí dụ:\n- bọn giặc xâm chiếm đất đai nước ta"
       },
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "quay [mặt, lưng] về phía nào đó\nVí dụ:\n- ngồi xây lưng lại \n - xây mặt ngó chỗ khác"
+        "dict_definition": "choán hết, chi phối hết tâm tư, tình cảm\nVí dụ:\n- nỗi buồn xâm chiếm cõi lòng tôi"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xây\n- 1 đg. Gắn các loại vật liệu (thường là gạch, đá) vào nhau bằng vữa, chất kết dính để làm thành một công trình hay bộ phận công trình. Xây nhà. Xây thành, đắp luỹ. Thợ xây. Xây đời hạnh phúc (b.).\n- 2 đg. (ph.). Quay về phía nào đó. Ngồi xây lưng lại. Nhà xây về hướng nam."
+        "dict_definition": "@xâm chiếm\n- đgt (H. chiếm: đoạt lấy) Chiếm dần đất đai bằng sức mạnh: Thực dân Pháp xâm chiếm nước ta (Trg-chinh)."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xây\n*verb\n-to build\n@Chuyên ngành kinh tế\n-grind\n@Chuyên ngành kỹ thuật\n-bond\n-brick up\n-erect\n-lay\n-lay out\n-mason\n-place\n-put"
+        "dict_definition": "@xâm chiếm\n*verb\n-to invade\n@Chuyên ngành kỹ thuật\n-invade"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xây\n* verb\n- to build"
+        "dict_definition": "@xâm chiếm\n* verb\n- to invade"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to build, construct"
+        "dict_definition": "to invade, conquer, occupy, seize"
       }
     ]
   },
   {
-    "word": "xâu byte",
+    "word": "xây dựng nhà máy năng lượng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-byte string"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-power-plant construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng cơ bản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xây dựng cơ bản\n*động từ\n-capital construction\n@Chuyên ngành kinh tế\n-capital construction\n-capital development\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-capital construction\n-fundamental construction"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "capital construction"
+      }
+    ]
+  },
+  {
+    "word": "xâm nhập không khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air infiltration"
+      }
+    ]
+  },
+  {
+    "word": "xâu điều khiển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-control string"
       }
     ]
   },
@@ -56,11 +78,534 @@
     ]
   },
   {
-    "word": "xây dựng khối lớn",
+    "word": "xâu văn bản trao đổi",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-large-block construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-exchange text string"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng phân tán",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-decentralized construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng công cộng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-municipal construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nhà ở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-house building\n-housing construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng bề mặt được ứng suất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stressed skin construction"
+      }
+    ]
+  },
+  {
+    "word": "xây lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rebuild"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to rebuild"
+      }
+    ]
+  },
+  {
+    "word": "xây liền vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build in"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực ngược dòng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-headward erosion"
+      }
+    ]
+  },
+  {
+    "word": "xây thẳng đứng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-plumb"
+      }
+    ]
+  },
+  {
+    "word": "xây thành giếng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-curbing"
+      }
+    ]
+  },
+  {
+    "word": "xâm lấn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chiếm dần đất đai, lãnh thổ của người khác ở cạnh mình\nVí dụ:\n- bọn chúng xâm lấn đất đai của ta"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâm lấn\n*động từ\n-to invade\n-to trespass upon\n-to enroach upon\n@Chuyên ngành kỹ thuật\n-invade"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to invade"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng theo phong cách hình học",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-geometric construction"
+      }
+    ]
+  },
+  {
+    "word": "xây chồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build over"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng đường sắt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-railroad construction"
+      }
+    ]
+  },
+  {
+    "word": "xây gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-brick\n-lay\n-set\n@Lĩnh vực: xây dựng\n-mason"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nhà cửa có tính đầu cơ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-speculative building"
+      }
+    ]
+  },
+  {
+    "word": "xâm phạm quyền sở hữu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trespass"
+      }
+    ]
+  },
+  {
+    "word": "xâu xúc xích",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-link sausage"
+      }
+    ]
+  },
+  {
+    "word": "xây vòm nhỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cove"
+      }
+    ]
+  },
+  {
+    "word": "xây ghép dây dọi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumb bond"
+      }
+    ]
+  },
+  {
+    "word": "xâu dữ liệu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data string"
+      }
+    ]
+  },
+  {
+    "word": "xâm",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) to invade, usurp; (2) dizzy, giddy"
+      }
+    ]
+  },
+  {
+    "word": "xây cất",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xây dựng nên công trình kiến trúc [nói khái quát]\nVí dụ:\n- xây cất nhà cửa"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xây cất [xây cất]\n-to build;  to construct\n@Chuyên ngành kinh tế\n-master builder\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build\n-building trade"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to build, construct"
+      }
+    ]
+  },
+  {
+    "word": "xây móng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lay\n@Lĩnh vực: xây dựng\n-lay a foundation\n-underpin"
+      }
+    ]
+  },
+  {
+    "word": "xây liền với",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build adjacent to"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng tiền chế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-prefabricated construction"
+      }
+    ]
+  },
+  {
+    "word": "xây cửa cống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sluice"
+      }
+    ]
+  },
+  {
+    "word": "xây vòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-brick up\n-cope\n-mason\n-vault"
+      }
+    ]
+  },
+  {
+    "word": "xây chèn kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back up"
+      }
+    ]
+  },
+  {
+    "word": "xây cất nhà cửa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to build a house"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực ngược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-backward erosion\n-retrogressive erosion"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng tập trung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-centralized construction\n-concentrated construction"
+      }
+    ]
+  },
+  {
+    "word": "xâu dựng cầu qua sông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-control string"
+      }
+    ]
+  },
+  {
+    "word": "xâu thay thế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-binary element string"
+      }
+    ]
+  },
+  {
+    "word": "xây kề bên với",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build adjacent to"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-economic construction"
+      }
+    ]
+  },
+  {
+    "word": "xâm chiếm hải phận",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to violate territorial waters"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng theo giai đoạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction by stages"
+      }
+    ]
+  },
+  {
+    "word": "xây đá trẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ashlazing (ashlering)"
+      }
+    ]
+  },
+  {
+    "word": "xây lắp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xây dựng công trình và lắp đặt thiết bị, máy móc bên trong [nói khái quát]\nVí dụ:\n- họ đang xây lắp công trình \n - thợ đang xây lắp điện"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xây lắp\n*động từ\n-to build and put together\n@Chuyên ngành kỹ thuật\n-plumb"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to build and put together"
+      }
+    ]
+  },
+  {
+    "word": "xây bàn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "table tipping (Cao Dai)"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng bộ luật đơn giản cho thị trường nội địa (emc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Simple Legislation for the internal market (EMC) (SLIM)"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng ngôn ngữ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-language construct"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nông nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-agricultural construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng hạ tầng cơ sở",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to build a foundation"
+      }
+    ]
+  },
+  {
+    "word": "xâu (có) một phần tử",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unit string"
+      }
+    ]
+  },
+  {
+    "word": "xây xếp mạch kiểu flemish",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Flemish bond"
+      }
+    ]
+  },
+  {
+    "word": "xây xếp mạch kiểu tường rào vườn flemish",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Flemish garden wall bond"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng băng gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-building in wood"
+      }
+    ]
+  },
+  {
+    "word": "xâu lệnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-command string"
+      }
+    ]
+  },
+  {
+    "word": "xâu xung",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pulse string"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng uy tín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-establish the good reputation"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng công trình ngầm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underground engineering"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực đi lên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lateral erosion"
+      }
+    ]
+  },
+  {
+    "word": "xây trụ gia cố",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-buttress"
+      }
+    ]
+  },
+  {
+    "word": "xâu (ký tự)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-string"
       }
     ]
   },
@@ -78,6 +623,136 @@
     ]
   },
   {
+    "word": "xây xẩm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bị hoa mắt, choáng váng đột ngột, không nhìn thấy gì\nVí dụ:\n- xây xẩm mặt mày \n - trong người xây xẩm khó chịu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xây xẩm\n- đgt Cảm thấy choáng váng: Không quen đi xe ô-tô nên xe vừa mới đi được một quãng bà cụ đã xây xẩm đòi xuống xe."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xây xẩm\n*verb\n-giddy, dizzy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xây xẩm\n* verb\n- giddy, dizzy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "giddy, dizzy"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng theo môđun",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-modular construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nhà dân dụng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil building construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nông thôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rural construction"
+      }
+    ]
+  },
+  {
+    "word": "xây như ý",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-custom-built"
+      }
+    ]
+  },
+  {
+    "word": "xâu xé",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cắn xé nhau để tranh giành\nVí dụ:\n- đàn chó xâu xé miếng mồi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xâu xé\n- đgt 1. Làm tình làm tội: Kẻ cho vay xâu xé con nợ 2. Tranh giành lẫn nhau: Bọn đế quốc xâu xé nhau 3. Chia năm xẻ bảy: Có thời bọn đế quốc xâu xé các thuộc địa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâu xé\n*verb\n-to torment, to tear"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xâu xé\n* verb\n- to torment, to tear"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to torment, tear"
+      }
+    ]
+  },
+  {
+    "word": "xây lót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clad\n-line"
+      }
+    ]
+  },
+  {
+    "word": "xâm lăng quân sự",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "military invasion"
+      }
+    ]
+  },
+  {
+    "word": "xây lâu đài trên cát",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xây lâu đài trên cát [xây lâu đài trên cát]\n-to build castles in the air/in Spain"
+      }
+    ]
+  },
+  {
+    "word": "xâu chuỗi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập hợp, liên kết lại thành một chuỗi, một tuyến\nVí dụ:\n- chúng tôi đã xâu chuỗi các sự kiện lại với nhau"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâu chuỗi\n*động từ\n-to get in touch (with, poor peasants in agarian reform)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-byte string"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to get in touch (with, poor peasants in agrarian reform)"
+      }
+    ]
+  },
+  {
     "word": "xâu chữ số nhị phân",
     "definitions": [
       {
@@ -87,82 +762,72 @@
     ]
   },
   {
-    "word": "xây vòm nhỏ",
+    "word": "xây mặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-cove"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng hạ tầng cơ sở",
-    "definitions": [
+        "dict_definition": "@xây mặt\n*verb\n-to turn away"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xây mặt\n* verb\n-to turn away"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to build a foundation"
+        "dict_definition": "to turn away"
       }
     ]
   },
   {
-    "word": "xây thẳng đứng",
+    "word": "xâu ghép",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-plumb"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-compound string"
       }
     ]
   },
   {
-    "word": "xây nhà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to build houses"
-      }
-    ]
-  },
-  {
-    "word": "xâm mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm mặt\n*đp 65 ng từ\n-to feel a dizziness"
-      }
-    ]
-  },
-  {
-    "word": "xâm nhập không phận iran",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to violate Iranian airspace"
-      }
-    ]
-  },
-  {
-    "word": "xây thoải chân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batter"
-      }
-    ]
-  },
-  {
-    "word": "xâm canh",
+    "word": "xâm hại",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "trồng trọt trên đất không thuộc địa phận của mình\nVí dụ:\n- ruộng xâm canh"
+        "dict_definition": "xâm phạm đến khiến cho bị tổn hại\nVí dụ:\n- hắn xâm hại thân thể nàng \n - bọn chuột xâm hại mùa màng"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xâm canh\n*trạng từ\n-till the land of another Commune"
+        "dict_definition": "@xâm hại\n*động từ\n-to enroach upon, to injure\n@Chuyên ngành kinh tế\n-trespass"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to farm on another person’s land"
+        "dict_definition": "to encroach upon, injure"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng sân bay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-airdrome construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng khối lớn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-large-block construction"
       }
     ]
   },
@@ -176,11 +841,272 @@
     ]
   },
   {
-    "word": "xâu bia",
+    "word": "xây dựng dân dụng",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil building\n-civil construction\n-civilian construction"
+      }
+    ]
+  },
+  {
+    "word": "xâm phạm đặc quyền sáng chế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-patent infringement"
+      }
+    ]
+  },
+  {
+    "word": "xây đắp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xây dựng, bồi đắp cho vững chắc thêm [nói khái quát]\nVí dụ:\n- xây đắp hạnh phúc \n - chúng tôi xây đắp tương lai cho mình \n - xây đắp thành trì"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xây đắp\n*động từ\n-build, build up"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "six pack of beer"
+        "dict_definition": "to build (up)"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng các tiêu chuẩn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-standards creation"
+      }
+    ]
+  },
+  {
+    "word": "xây tường gạch",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-brick"
+      }
+    ]
+  },
+  {
+    "word": "xây cống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sluice"
+      }
+    ]
+  },
+  {
+    "word": "xâm phạm (thì giờ, đời tư của người khác)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trespass"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực hướng lên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-headward erosion"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng công trình thủy lợi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hydraulic engineering construction"
+      }
+    ]
+  },
+  {
+    "word": "xâm nhiễm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâm nhiễm [xâm nhiễm]\n-to contaminate;  to  infest\n@Chuyên ngành kỹ thuật\n-ingrained"
+      }
+    ]
+  },
+  {
+    "word": "xây kè",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sluice"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng kiểu răng lược",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-comb development"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng (ở một chỗ nào)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-site"
+      }
+    ]
+  },
+  {
+    "word": "xâu đơn vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-control string"
+      }
+    ]
+  },
+  {
+    "word": "xâm xẩm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem sâm sẩm"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâm xẩm\n*động từ\n-grow/get/become dark"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "twilight"
+      }
+    ]
+  },
+  {
+    "word": "xây vào",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bed in\n-built-in"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nhà ở nhiều tầng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multistorey housing development"
+      }
+    ]
+  },
+  {
+    "word": "xâm nhập",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đi vào một cách trái phép, thường gây ra tác hại\nVí dụ:\n- bọn chúng đã xâm nhập vào lãnh thổ nước ta \n - ma tuý xâm nhập vào học đường"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[yếu tố bên ngoài] nhập vào và tác động đến, gây tác hại\nVí dụ:\n- virus xâm nhập vào cơ thể"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xâm nhập\n- đgt. 1. (Từ bên ngoài) lọt vào một cách trái phép: xâm nhập biên giới  Biệt kích tìm cách xâm nhập bằng đường biển. 2. Nhập vào gây hại: bị vi trùng xâm nhập vào cơ thể."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâm nhập\n*verb\n-to penetrate, to trespass\n@Chuyên ngành kỹ thuật\n-encroach\n-encroachment\n-intrude\n-intrusive"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xâm nhập\n* verb\n- to penetrate, to trespass"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to infiltrate, penetrate, break into"
+      }
+    ]
+  },
+  {
+    "word": "xâu tìm kiếm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-search string"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng lắp ghép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-precast construction\n-prefabricated construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng tiên đề hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-axiomatic formulation"
+      }
+    ]
+  },
+  {
+    "word": "xây lấp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back up\n-build up"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nhà ở tư nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-private residential construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng phần nền (móng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-substructure construction"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng công trình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil engineering"
+      }
+    ]
+  },
+  {
+    "word": "xâu khuyên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-eyeletting"
       }
     ]
   },
@@ -194,29 +1120,128 @@
     ]
   },
   {
-    "word": "xâu hỗn hợp",
+    "word": "xây dựng mục tiêu truyền thống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mixed string"
+        "dict_definition": "@Chuyên ngành kinh tế\n-traditional objective"
       }
     ]
   },
   {
-    "word": "xây dựng phân tán",
+    "word": "xâm thực phân dị",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-decentralized construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-differential erosion"
       }
     ]
   },
   {
-    "word": "xâm thực oxi hóa",
+    "word": "xâu con",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxidative attack"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chained sequence"
+      }
+    ]
+  },
+  {
+    "word": "xây chật trội",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overcrowding"
+      }
+    ]
+  },
+  {
+    "word": "xây tường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-buttress\n-lay\n-mason\n-wall"
+      }
+    ]
+  },
+  {
+    "word": "xây bít kín",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build up"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng hệ thống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-systems engineering"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng quan hệ mua bán với ...",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-build a trade bridge with ... (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "xâm nhập lẫn nhau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interpenetrate"
+      }
+    ]
+  },
+  {
+    "word": "xâu chuỗi trình tự",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chained sequence"
+      }
+    ]
+  },
+  {
+    "word": "xâm lược kinh tế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-economic aggression"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng đô thị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-city planning"
+      }
+    ]
+  },
+  {
+    "word": "xây nhà thêm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outbuilding"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng theo kiến trúc vòm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-arching"
       }
     ]
   },
@@ -230,61 +1255,47 @@
     ]
   },
   {
-    "word": "xây dựng tiền chế",
+    "word": "xây dựng công trình hệ thống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-prefabricated construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-system building construction"
       }
     ]
   },
   {
-    "word": "xâu",
+    "word": "xây hồ chứa nước",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tiền hồ\nVí dụ:\n- tiền xâu \n - chứa bạc lấy xâu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xuyên qua lỗ hoặc nói chung xuyên qua bằng sợi dây, bằng que để giữ hoặc kết các vật lại với nhau\nVí dụ:\n- bé xâu kim cho bà \n - xâu chuỗi hạt \n - xâu lỗ tai"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp những vật được xâu chung lại với nhau\nVí dụ:\n- xâu chìa khoá \n - xâu tiền xu \n - xâu cá thành từng xâu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ dùng để chỉ từng đơn vị gồm nhiều người không được coi trọng, liên kết với nhau làm thành một đám, một dãy\nVí dụ:\n- kéo theo một xâu trẻ con"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dãy các kí tự đặt kế tiếp nhau\nVí dụ:\n- xử lí xâu kí tự"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xâu\n- 1 dt. Tiền hồ: Nhà chứa bạc để lấy xâu.\n- 2 dt. Sưu: đi xâu  bắt xâu\n- 3 I. đgt. Xuyên qua bằng dây hoặc que để kết nối các vật nhỏ lại với nhau: xâu kim cho bà  xâu cá rô bằng lạt tre  Trẻ xâu hạt bưởi thành vòng rồi đốt. II. dt. Chuỗi vật đã được xâu lại: treo xâu cá vào ghi đông xe."
-      },
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pen"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực trên mặt",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xâu\n*verb\n-to thread, to string\n@Chuyên ngành kinh tế\n-string\n@Chuyên ngành kỹ thuật\n-concatenate\n-string\n@Lĩnh vực: toán & tin\n-thread"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xâu\n* verb\n- to thread, to string"
-      },
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-areal erosion"
+      }
+    ]
+  },
+  {
+    "word": "xâm phạm lãnh thỗ",
+    "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to thread, string"
+        "dict_definition": "to violate (sb’s) territory"
       }
     ]
   },
   {
-    "word": "xâm thực đi lên",
+    "word": "xây chèn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lateral erosion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back up"
       }
     ]
   },
@@ -330,173 +1341,110 @@
     ]
   },
   {
-    "word": "xâu xung",
+    "word": "xây dựng tấm lớn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-pulse string"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-large panel construction"
       }
     ]
   },
   {
-    "word": "xây dựng (ở một chỗ nào)",
+    "word": "xâu hỗn hợp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-site"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-mixed string"
       }
     ]
   },
   {
-    "word": "xâm nhập (đá)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-irruptive"
-      }
-    ]
-  },
-  {
-    "word": "xâu tìm kiếm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-search string"
-      }
-    ]
-  },
-  {
-    "word": "xây cất nhà cửa",
+    "word": "xây nhà",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to build a house"
+        "dict_definition": "to build houses"
       }
     ]
   },
   {
-    "word": "xâm phạm đặc quyền sáng chế",
+    "word": "xây dựng đường ô tô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-patent infringement"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-highway construction"
       }
     ]
   },
   {
-    "word": "xây cống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sluice"
-      }
-    ]
-  },
-  {
-    "word": "xây bàn",
+    "word": "xâu bia",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "table tipping (Cao Dai)"
+        "dict_definition": "six pack of beer"
       }
     ]
   },
   {
-    "word": "xây nhà thêm",
+    "word": "xây đá hộc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-outbuilding"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pack"
       }
     ]
   },
   {
-    "word": "xâm thực trên mặt",
+    "word": "xây bằng ván khuôn trượt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-areal erosion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slip form construction"
       }
     ]
   },
   {
-    "word": "xâu điều khiển",
+    "word": "xây (gạch) lót",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-control string"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-line"
       }
     ]
   },
   {
-    "word": "xây dựng nông thôn",
+    "word": "xây dựng lại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-rural construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-rebuild\n-reclaim\n-reconstruct\n-recuperate\n-regenerate\n-relocate\n-restore"
       }
     ]
   },
   {
-    "word": "xây dựng lắp ghép hoàn toàn",
+    "word": "xâm phạm đất đai",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fully prefabricated construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-encroach upon a piece of ground"
       }
     ]
   },
   {
-    "word": "xây lót",
+    "word": "xây dựng địa bàn tiêu thụ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clad\n-line"
+        "dict_definition": "@Chuyên ngành kinh tế\n-establishing sales territories"
       }
     ]
   },
   {
-    "word": "xâu ngắn",
+    "word": "xâu ký tự",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-short string"
-      }
-    ]
-  },
-  {
-    "word": "xây đập",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dam"
-      }
-    ]
-  },
-  {
-    "word": "xâm phạm tầm nhìn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-visual intrusion"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng uy tín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-establish the good reputation"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng khung cửa sổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-window frame"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-character string\n-string"
       }
     ]
   },
@@ -510,172 +1458,29 @@
     ]
   },
   {
-    "word": "xâu ký hiệu",
+    "word": "xâu ngắn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-symbol string"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-short string"
       }
     ]
   },
   {
-    "word": "xây dựng tập trung",
+    "word": "xâu phần tử nhị phân",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-centralized construction\n-concentrated construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-binary element string"
       }
     ]
   },
   {
-    "word": "xây lắp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xây dựng công trình và lắp đặt thiết bị, máy móc bên trong [nói khái quát]\nVí dụ:\n- họ đang xây lắp công trình \n - thợ đang xây lắp điện"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xây lắp\n*động từ\n-to build and put together\n@Chuyên ngành kỹ thuật\n-plumb"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to build and put together"
-      }
-    ]
-  },
-  {
-    "word": "xâm lược kinh tế",
+    "word": "xâm thực của môi trường",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economic aggression"
-      }
-    ]
-  },
-  {
-    "word": "xây gạch lót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng băng gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-building in wood"
-      }
-    ]
-  },
-  {
-    "word": "xâu con",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chained sequence"
-      }
-    ]
-  },
-  {
-    "word": "xâu xúc xích",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-link sausage"
-      }
-    ]
-  },
-  {
-    "word": "xâm xấp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem xăm xắp"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng nông nghiệp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-agricultural construction"
-      }
-    ]
-  },
-  {
-    "word": "xây chèn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back up"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực theo lớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-sheet erosion"
-      }
-    ]
-  },
-  {
-    "word": "xây móng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lay\n@Lĩnh vực: xây dựng\n-lay a foundation\n-underpin"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng đường sắt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-railroad construction"
-      }
-    ]
-  },
-  {
-    "word": "xây kề bên với",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build adjacent to"
-      }
-    ]
-  },
-  {
-    "word": "xây kè",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sluice"
-      }
-    ]
-  },
-  {
-    "word": "xây bịt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build up"
-      }
-    ]
-  },
-  {
-    "word": "xâm chiếm hải phận",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to violate territorial waters"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lateral erosion"
       }
     ]
   },
@@ -689,11 +1494,225 @@
     ]
   },
   {
-    "word": "xây dựng ngôn ngữ",
+    "word": "xâm nhập (đá)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-language construct"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-irruptive"
+      }
+    ]
+  },
+  {
+    "word": "xây chen (gạch)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fill in"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực theo lớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-sheet erosion"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng nhóm trong công ty",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-team building"
+      }
+    ]
+  },
+  {
+    "word": "xâm canh",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "trồng trọt trên đất không thuộc địa phận của mình\nVí dụ:\n- ruộng xâm canh"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâm canh\n*trạng từ\n-till the land of another Commune"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to farm on another person’s land"
+      }
+    ]
+  },
+  {
+    "word": "xâm xấp",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem xăm xắp"
+      }
+    ]
+  },
+  {
+    "word": "xâm phạm tầm nhìn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-visual intrusion"
+      }
+    ]
+  },
+  {
+    "word": "xây gạch lót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-line"
+      }
+    ]
+  },
+  {
+    "word": "xây thoải chân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-batter"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng lắp ghép hoàn toàn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fully prefabricated construction"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực bên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lateral erosion"
+      }
+    ]
+  },
+  {
+    "word": "xâu bit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bit string"
+      }
+    ]
+  },
+  {
+    "word": "xâm lăng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như xâm lược\nVí dụ:\n- hoạ xâm lăng \n - quân xâm lăng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâm lăng\n*động từ\n-to invade\n-invasion, aggression"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to invade"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng vị thế",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-position building"
+      }
+    ]
+  },
+  {
+    "word": "xâm đoạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâm đoạt\n*động từ\n-to ravish, to rob\n-to carry off, to take away by force"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to seize, usurp"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng (do) tư nhân",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-private construction"
+      }
+    ]
+  },
+  {
+    "word": "xâm nhập không phận iran",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to violate Iranian airspace"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực oxi hóa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxidative attack"
+      }
+    ]
+  },
+  {
+    "word": "xâu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tiền hồ\nVí dụ:\n- tiền xâu \n - chứa bạc lấy xâu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xuyên qua lỗ hoặc nói chung xuyên qua bằng sợi dây, bằng que để giữ hoặc kết các vật lại với nhau\nVí dụ:\n- bé xâu kim cho bà \n - xâu chuỗi hạt \n - xâu lỗ tai"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tập hợp những vật được xâu chung lại với nhau\nVí dụ:\n- xâu chìa khoá \n - xâu tiền xu \n - xâu cá thành từng xâu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ dùng để chỉ từng đơn vị gồm nhiều người không được coi trọng, liên kết với nhau làm thành một đám, một dãy\nVí dụ:\n- kéo theo một xâu trẻ con"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dãy các kí tự đặt kế tiếp nhau\nVí dụ:\n- xử lí xâu kí tự"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xâu\n- 1 dt. Tiền hồ: Nhà chứa bạc để lấy xâu.\n- 2 dt. Sưu: đi xâu  bắt xâu\n- 3 I. đgt. Xuyên qua bằng dây hoặc que để kết nối các vật nhỏ lại với nhau: xâu kim cho bà  xâu cá rô bằng lạt tre  Trẻ xâu hạt bưởi thành vòng rồi đốt. II. dt. Chuỗi vật đã được xâu lại: treo xâu cá vào ghi đông xe."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâu\n*verb\n-to thread, to string\n@Chuyên ngành kinh tế\n-string\n@Chuyên ngành kỹ thuật\n-concatenate\n-string\n@Lĩnh vực: toán & tin\n-thread"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xâu\n* verb\n- to thread, to string"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to thread, string"
       }
     ]
   },
@@ -723,126 +1742,11 @@
     ]
   },
   {
-    "word": "xây dựng lại (một công ty)",
+    "word": "xây thêm vào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reconstruction (of a company)"
-      }
-    ]
-  },
-  {
-    "word": "xây xẩm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bị hoa mắt, choáng váng đột ngột, không nhìn thấy gì\nVí dụ:\n- xây xẩm mặt mày \n - trong người xây xẩm khó chịu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xây xẩm\n- đgt Cảm thấy choáng váng: Không quen đi xe ô-tô nên xe vừa mới đi được một quãng bà cụ đã xây xẩm đòi xuống xe."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xây xẩm\n*verb\n-giddy, dizzy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xây xẩm\n* verb\n- giddy, dizzy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "giddy, dizzy"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng nhóm trong công ty",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-team building"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng theo kiến trúc vòm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-arching"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng nhà máy năng lượng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-power-plant construction"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng địa bàn tiêu thụ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-establishing sales territories"
-      }
-    ]
-  },
-  {
-    "word": "xây chen (gạch)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-fill in"
-      }
-    ]
-  },
-  {
-    "word": "xâm nhiễm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm nhiễm [xâm nhiễm]\n-to contaminate;  to  infest\n@Chuyên ngành kỹ thuật\n-ingrained"
-      }
-    ]
-  },
-  {
-    "word": "xâu đơn vị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-control string"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng đường giao thông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-transport ways construction"
-      }
-    ]
-  },
-  {
-    "word": "xâu thay thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-binary element string"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực ngược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-backward erosion\n-retrogressive erosion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-built-in"
       }
     ]
   },
@@ -856,120 +1760,11 @@
     ]
   },
   {
-    "word": "xâu tai",
+    "word": "xâu giả",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xâu tai\n*động từ\n-pierce the ears (for wearing earings)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "pierce the ears (for wearing earrings)"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng và vận hành",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction and operation"
-      }
-    ]
-  },
-  {
-    "word": "xâm hại",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xâm phạm đến khiến cho bị tổn hại\nVí dụ:\n- hắn xâm hại thân thể nàng \n - bọn chuột xâm hại mùa màng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm hại\n*động từ\n-to enroach upon, to injure\n@Chuyên ngành kinh tế\n-trespass"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to encroach upon, injure"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng công trình hệ thống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-system building construction"
-      }
-    ]
-  },
-  {
-    "word": "xây lấp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back up\n-build up"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng tiên đề hóa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-axiomatic formulation"
-      }
-    ]
-  },
-  {
-    "word": "xâm xẩm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem sâm sẩm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm xẩm\n*động từ\n-grow/get/become dark"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "twilight"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng quan hệ mua bán với ...",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-build a trade bridge with ... (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ăn vào, lấn vào, làm cho bị huỷ hoại\nVí dụ:\n- nước mặn xâm thực sâu vào đất liền"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm thực\n*động từ\n-to erode\n-to eclipse*danh từ\n-erosion\n@Chuyên ngành kỹ thuật\n-aggressitivity, aggressive\n-aggressive\n-erode\n-erosion\n-erosional"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to nibble away at, eat up gradually"
-      }
-    ]
-  },
-  {
-    "word": "xâu khuyên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-eyeletting"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dummy string"
       }
     ]
   },
@@ -999,864 +1794,11 @@
     ]
   },
   {
-    "word": "xâu chuỗi trình tự",
+    "word": "xâu byte",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-chained sequence"
-      }
-    ]
-  },
-  {
-    "word": "xâm phạm quyền sở hữu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trespass"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng theo giai đoạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction by stages"
-      }
-    ]
-  },
-  {
-    "word": "xây thành giếng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-curbing"
-      }
-    ]
-  },
-  {
-    "word": "xây cất",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xây dựng nên công trình kiến trúc [nói khái quát]\nVí dụ:\n- xây cất nhà cửa"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xây cất [xây cất]\n-to build;  to construct\n@Chuyên ngành kinh tế\n-master builder\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build\n-building trade"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to build, construct"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng nhà ở tư nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-private residential construction"
-      }
-    ]
-  },
-  {
-    "word": "xâu dựng cầu qua sông",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-control string"
-      }
-    ]
-  },
-  {
-    "word": "xâm nhập lẫn nhau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-interpenetrate"
-      }
-    ]
-  },
-  {
-    "word": "xâu ghép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-compound string"
-      }
-    ]
-  },
-  {
-    "word": "xây xếp mạch kiểu tường rào vườn flemish",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Flemish garden wall bond"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng công trình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil engineering"
-      }
-    ]
-  },
-  {
-    "word": "xây bằng ván khuôn trượt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-slip form construction"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng (do) tư nhân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-private construction"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng lắp ghép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-precast construction\n-prefabricated construction"
-      }
-    ]
-  },
-  {
-    "word": "xây gạch",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-brick\n-lay\n-set\n@Lĩnh vực: xây dựng\n-mason"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng công trình thủy lợi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-hydraulic engineering construction"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng sân bay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-airdrome construction"
-      }
-    ]
-  },
-  {
-    "word": "xâm nhập thị trường thế giới",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-make inroad into world market (to...)"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng công trình ngầm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-underground engineering"
-      }
-    ]
-  },
-  {
-    "word": "xây hồ chứa nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pen"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng các tiêu chuẩn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-standards creation"
-      }
-    ]
-  },
-  {
-    "word": "xâu ký tự",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-character string\n-string"
-      }
-    ]
-  },
-  {
-    "word": "xây chật trội",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overcrowding"
-      }
-    ]
-  },
-  {
-    "word": "xây chèn kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-back up"
-      }
-    ]
-  },
-  {
-    "word": "xây mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xây mặt\n*verb\n-to turn away"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xây mặt\n* verb\n-to turn away"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to turn away"
-      }
-    ]
-  },
-  {
-    "word": "xâm",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) to invade, usurp; (2) dizzy, giddy"
-      }
-    ]
-  },
-  {
-    "word": "xây lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rebuild"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to rebuild"
-      }
-    ]
-  },
-  {
-    "word": "xâm phạm đất đai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-encroach upon a piece of ground"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng vốn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-capital construction"
-      }
-    ]
-  },
-  {
-    "word": "xâm nhập, xâm chiếm đất đai thuộc sở hữu của người khác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trespass"
-      }
-    ]
-  },
-  {
-    "word": "xâm nhập",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đi vào một cách trái phép, thường gây ra tác hại\nVí dụ:\n- bọn chúng đã xâm nhập vào lãnh thổ nước ta \n - ma tuý xâm nhập vào học đường"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[yếu tố bên ngoài] nhập vào và tác động đến, gây tác hại\nVí dụ:\n- virus xâm nhập vào cơ thể"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xâm nhập\n- đgt. 1. (Từ bên ngoài) lọt vào một cách trái phép: xâm nhập biên giới  Biệt kích tìm cách xâm nhập bằng đường biển. 2. Nhập vào gây hại: bị vi trùng xâm nhập vào cơ thể."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm nhập\n*verb\n-to penetrate, to trespass\n@Chuyên ngành kỹ thuật\n-encroach\n-encroachment\n-intrude\n-intrusive"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xâm nhập\n* verb\n- to penetrate, to trespass"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to infiltrate, penetrate, break into"
-      }
-    ]
-  },
-  {
-    "word": "xâu lệnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-command string"
-      }
-    ]
-  },
-  {
-    "word": "xâm đoạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm đoạt\n*động từ\n-to ravish, to rob\n-to carry off, to take away by force"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to seize, usurp"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng kiểu răng lược",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-comb development"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng nhà ở nhiều tầng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-multistorey housing development"
-      }
-    ]
-  },
-  {
-    "word": "xây đá hộc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pack"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực của môi trường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lateral erosion"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực phân dị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-differential erosion"
-      }
-    ]
-  },
-  {
-    "word": "xây trụ gia cố",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-buttress"
-      }
-    ]
-  },
-  {
-    "word": "xâu phần tử nhị phân",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-binary element string"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực do sóng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-wave erosion"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng công cộng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-municipal construction"
-      }
-    ]
-  },
-  {
-    "word": "xâm lấn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chiếm dần đất đai, lãnh thổ của người khác ở cạnh mình\nVí dụ:\n- bọn chúng xâm lấn đất đai của ta"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm lấn\n*động từ\n-to invade\n-to trespass upon\n-to enroach upon\n@Chuyên ngành kỹ thuật\n-invade"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to invade"
-      }
-    ]
-  },
-  {
-    "word": "xây liền với",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build adjacent to"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng đường ô tô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-highway construction"
-      }
-    ]
-  },
-  {
-    "word": "xây xếp mạch kiểu flemish",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-Flemish bond"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng dân dụng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil building\n-civil construction\n-civilian construction"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng mục tiêu truyền thống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-traditional objective"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng theo phong cách hình học",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-geometric construction"
-      }
-    ]
-  },
-  {
-    "word": "xây bít kín",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build up"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng nhà cửa có tính đầu cơ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-speculative building"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng kinh tế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-economic construction"
-      }
-    ]
-  },
-  {
-    "word": "xâu giả",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-dummy string"
-      }
-    ]
-  },
-  {
-    "word": "xây như ý",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-custom-built"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực ngược dòng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-headward erosion"
-      }
-    ]
-  },
-  {
-    "word": "xâu dữ liệu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-data string"
-      }
-    ]
-  },
-  {
-    "word": "xây ghép dây dọi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-plumb bond"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng hệ thống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-systems engineering"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng bộ luật đơn giản cho thị trường nội địa (emc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Simple Legislation for the internal market (EMC) (SLIM)"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng bề mặt được ứng suất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-stressed skin construction"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng phần nền (móng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-substructure construction"
-      }
-    ]
-  },
-  {
-    "word": "xây đắp",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xây dựng, bồi đắp cho vững chắc thêm [nói khái quát]\nVí dụ:\n- xây đắp hạnh phúc \n - chúng tôi xây đắp tương lai cho mình \n - xây đắp thành trì"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xây đắp\n*động từ\n-build, build up"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to build (up)"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng theo môđun",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-modular construction"
-      }
-    ]
-  },
-  {
-    "word": "xâm lăng quân sự",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "military invasion"
-      }
-    ]
-  },
-  {
-    "word": "xây (gạch) lót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-line"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng vị thế",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-position building"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực hướng lên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-headward erosion"
-      }
-    ]
-  },
-  {
-    "word": "xâm thực do biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-marine erosion"
-      }
-    ]
-  },
-  {
-    "word": "xâu bit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-bit string"
-      }
-    ]
-  },
-  {
-    "word": "xây tường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-buttress\n-lay\n-mason\n-wall"
-      }
-    ]
-  },
-  {
-    "word": "xâm phạm lãnh thỗ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to violate (sb’s) territory"
-      }
-    ]
-  },
-  {
-    "word": "xâu văn bản trao đổi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-exchange text string"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng đặt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to build, construct"
-      }
-    ]
-  },
-  {
-    "word": "xâu chuỗi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tập hợp, liên kết lại thành một chuỗi, một tuyến\nVí dụ:\n- chúng tôi đã xâu chuỗi các sự kiện lại với nhau"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâu chuỗi\n*động từ\n-to get in touch (with, poor peasants in agarian reform)\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-byte string"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to get in touch (with, poor peasants in agrarian reform)"
-      }
-    ]
-  },
-  {
-    "word": "xâm nhập không khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-air infiltration"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng nhà ở",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-house building\n-housing construction"
-      }
-    ]
-  },
-  {
-    "word": "xâm phạm (thì giờ, đời tư của người khác)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-trespass"
-      }
-    ]
-  },
-  {
-    "word": "xâm chiếm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chiếm đoạt cái thuộc chủ quyền của người khác bằng vũ lực\nVí dụ:\n- bọn giặc xâm chiếm đất đai nước ta"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "choán hết, chi phối hết tâm tư, tình cảm\nVí dụ:\n- nỗi buồn xâm chiếm cõi lòng tôi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xâm chiếm\n- đgt (H. chiếm: đoạt lấy) Chiếm dần đất đai bằng sức mạnh: Thực dân Pháp xâm chiếm nước ta (Trg-chinh)."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xâm chiếm\n*verb\n-to invade\n@Chuyên ngành kỹ thuật\n-invade"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xâm chiếm\n* verb\n- to invade"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to invade, conquer, occupy, seize"
-      }
-    ]
-  },
-  {
-    "word": "xây cửa cống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-sluice"
-      }
-    ]
-  },
-  {
-    "word": "xâu (ký tự)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-string"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng tấm lớn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-large panel construction"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-rebuild\n-reclaim\n-reconstruct\n-recuperate\n-regenerate\n-relocate\n-restore"
-      }
-    ]
-  },
-  {
-    "word": "xây lâu đài trên cát",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xây lâu đài trên cát [xây lâu đài trên cát]\n-to build castles in the air/in Spain"
-      }
-    ]
-  },
-  {
-    "word": "xâu (có) một phần tử",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-unit string"
-      }
-    ]
-  },
-  {
-    "word": "xâu chuỗi adelson-velskii-landis (phương pháp lập trình)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Threaded Adelson-Velskii-Landis (programming method) (TAVL)"
-      }
-    ]
-  },
-  {
-    "word": "xây dựng đô thị",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-city planning"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-byte string"
       }
     ]
   },
@@ -1870,54 +1812,67 @@
     ]
   },
   {
-    "word": "xây dựng đường",
+    "word": "xây dựng đường giao thông",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-road construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-transport ways construction"
       }
     ]
   },
   {
-    "word": "xây vòm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-brick up\n-cope\n-mason\n-vault"
-      }
-    ]
-  },
-  {
-    "word": "xâu xé",
+    "word": "xây",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cắn xé nhau để tranh giành\nVí dụ:\n- đàn chó xâu xé miếng mồi"
+        "dict_definition": "gắn các loại vật liệu vào nhau bằng chất kết dính [thường là vữa] để làm thành một công trình hay bộ phận công trình\nVí dụ:\n- họ đang xây nhà \n - xây tượng đài"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "quay [mặt, lưng] về phía nào đó\nVí dụ:\n- ngồi xây lưng lại \n - xây mặt ngó chỗ khác"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xâu xé\n- đgt 1. Làm tình làm tội: Kẻ cho vay xâu xé con nợ 2. Tranh giành lẫn nhau: Bọn đế quốc xâu xé nhau 3. Chia năm xẻ bảy: Có thời bọn đế quốc xâu xé các thuộc địa."
+        "dict_definition": "@xây\n- 1 đg. Gắn các loại vật liệu (thường là gạch, đá) vào nhau bằng vữa, chất kết dính để làm thành một công trình hay bộ phận công trình. Xây nhà. Xây thành, đắp luỹ. Thợ xây. Xây đời hạnh phúc (b.).\n- 2 đg. (ph.). Quay về phía nào đó. Ngồi xây lưng lại. Nhà xây về hướng nam."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xâu xé\n*verb\n-to torment, to tear"
+        "dict_definition": "@xây\n*verb\n-to build\n@Chuyên ngành kinh tế\n-grind\n@Chuyên ngành kỹ thuật\n-bond\n-brick up\n-erect\n-lay\n-lay out\n-mason\n-place\n-put"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xâu xé\n* verb\n- to torment, to tear"
+        "dict_definition": "@xây\n* verb\n- to build"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to torment, tear"
+        "dict_definition": "to build, construct"
       }
     ]
   },
   {
-    "word": "xây chồng",
+    "word": "xâm thực do sóng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build over"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-wave erosion"
+      }
+    ]
+  },
+  {
+    "word": "xây bịt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build up"
+      }
+    ]
+  },
+  {
+    "word": "xâm nhập, xâm chiếm đất đai thuộc sở hữu của người khác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-trespass"
       }
     ]
   },
@@ -1931,11 +1886,42 @@
     ]
   },
   {
-    "word": "xây vào",
+    "word": "xây dựng và vận hành",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bed in\n-built-in"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-construction and operation"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng đặt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to build, construct"
+      }
+    ]
+  },
+  {
+    "word": "xây dựng vốn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-capital construction"
+      }
+    ]
+  },
+  {
+    "word": "xâu tai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xâu tai\n*động từ\n-pierce the ears (for wearing earings)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "pierce the ears (for wearing earrings)"
       }
     ]
   },
@@ -1949,77 +1935,91 @@
     ]
   },
   {
-    "word": "xây liền vào",
+    "word": "xâm mặt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-build in"
+        "dict_definition": "@xâm mặt\n*đp 65 ng từ\n-to feel a dizziness"
       }
     ]
   },
   {
-    "word": "xây dựng nhà dân dụng",
+    "word": "xâu ký hiệu",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-civil building construction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-symbol string"
       }
     ]
   },
   {
-    "word": "xây dựng cơ bản",
+    "word": "xây dựng lại (một công ty)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xây dựng cơ bản\n*động từ\n-capital construction\n@Chuyên ngành kinh tế\n-capital construction\n-capital development\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-capital construction\n-fundamental construction"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "capital construction"
+        "dict_definition": "@Chuyên ngành kinh tế\n-reconstruction (of a company)"
       }
     ]
   },
   {
-    "word": "xâm thực bên",
+    "word": "xây dựng khung cửa sổ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lateral erosion"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-window frame"
       }
     ]
   },
   {
-    "word": "xây thêm vào",
+    "word": "xâm nhập thị trường thế giới",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-built-in"
+        "dict_definition": "@Chuyên ngành kinh tế\n-make inroad into world market (to...)"
       }
     ]
   },
   {
-    "word": "xây đá trẻ",
+    "word": "xây đập",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-ashlazing (ashlering)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dam"
       }
     ]
   },
   {
-    "word": "xâm lăng",
+    "word": "xâm thực do biển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-marine erosion"
+      }
+    ]
+  },
+  {
+    "word": "xâu chuỗi adelson-velskii-landis (phương pháp lập trình)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Threaded Adelson-Velskii-Landis (programming method) (TAVL)"
+      }
+    ]
+  },
+  {
+    "word": "xâm thực",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như xâm lược\nVí dụ:\n- hoạ xâm lăng \n - quân xâm lăng"
+        "dict_definition": "ăn vào, lấn vào, làm cho bị huỷ hoại\nVí dụ:\n- nước mặn xâm thực sâu vào đất liền"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xâm lăng\n*động từ\n-to invade\n-invasion, aggression"
+        "dict_definition": "@xâm thực\n*động từ\n-to erode\n-to eclipse*danh từ\n-erosion\n@Chuyên ngành kỹ thuật\n-aggressitivity, aggressive\n-aggressive\n-erode\n-erosion\n-erosional"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to invade"
+        "dict_definition": "to nibble away at, eat up gradually"
       }
     ]
   }

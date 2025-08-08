@@ -1,27 +1,5 @@
 [
   {
-    "word": "xứng hợp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xứng hợp\n*tính từ\n-approriate, suitable, fitting"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "appropriate, suitable, fitting"
-      }
-    ]
-  },
-  {
-    "word": "xứ kỹ nghệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-industrial country"
-      }
-    ]
-  },
-  {
     "word": "xứng ý",
     "definitions": [
       {
@@ -31,6 +9,44 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "be satisfied, desired, long wished for"
+      }
+    ]
+  },
+  {
+    "word": "xứ đạo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem giáo xứ\nVí dụ:\n- người dân xứ đạo"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xứ đạo [xứ đạo]\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parish"
+      }
+    ]
+  },
+  {
+    "word": "xứng đáng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "đáng với, xứng với một danh hiệu, vinh dự hay quyền lợi, trách nhiệm nào đó\nVí dụ:\n- xứng đáng với lời khen ngợi \n - được hưởng đồng lương xứng đáng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xứng đáng\n- tt (H. xứng: thích đáng; đáng: đúng đắn) Rất đáng được hưởng: Ông cụ xứng đáng với sự quí trọng của khu phố."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xứng đáng\n*adj\n-suitable, worthy\n@Chuyên ngành kỹ thuật\n-appropriate\n-due"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xứng đáng\n* adj\n- suitable, worthy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "suitable, worthy, deserving"
       }
     ]
   },
@@ -60,63 +76,15 @@
     ]
   },
   {
-    "word": "xứng vai",
+    "word": "xứng đôi vừa lứa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xứng vai\n*động từ\n-equal (to)"
+        "dict_definition": "@xứng đôi vừa lứa [xứng đôi vừa lứa]\n-well-matched"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "equal (to)"
-      }
-    ]
-  },
-  {
-    "word": "xức dầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xức dầu\n- đgt. Giải tội cho người theo đạo Thiên chúa lúc sắp chết."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xức dầu\n*verb\n-to oil"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xức dầu\n* verb\n- to oil"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to oil"
-      }
-    ]
-  },
-  {
-    "word": "xứ ủy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "regional party committee"
-      }
-    ]
-  },
-  {
-    "word": "xứng với bõ công",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-unfermented wort"
-      }
-    ]
-  },
-  {
-    "word": "xứ uỷ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@xứ uỷ [xứ uỷ]\n-regional party committee"
+        "dict_definition": "well-matched"
       }
     ]
   },
@@ -138,28 +106,37 @@
     ]
   },
   {
-    "word": "xứng đôi vừa lứa",
+    "word": "xứng vai",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xứng đôi vừa lứa [xứng đôi vừa lứa]\n-well-matched"
+        "dict_definition": "@xứng vai\n*động từ\n-equal (to)"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "well-matched"
+        "dict_definition": "equal (to)"
       }
     ]
   },
   {
-    "word": "xứ đạo",
+    "word": "xứ ủy",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem giáo xứ\nVí dụ:\n- người dân xứ đạo"
-      },
+        "dict_name": "VNEDICT",
+        "dict_definition": "regional party committee"
+      }
+    ]
+  },
+  {
+    "word": "xứng hợp",
+    "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@xứ đạo [xứ đạo]\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-parish"
+        "dict_definition": "@xứng hợp\n*tính từ\n-approriate, suitable, fitting"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "appropriate, suitable, fitting"
       }
     ]
   },
@@ -169,15 +146,6 @@
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
         "dict_definition": "[trai gái lấy nhau] không có sự chênh lệch đáng kể về mọi mặt\nVí dụ:\n- đôi lứa xứng đôi"
-      }
-    ]
-  },
-  {
-    "word": "xứ lạ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "strange place, foreign place"
       }
     ]
   },
@@ -211,27 +179,11 @@
     ]
   },
   {
-    "word": "xứng đáng",
+    "word": "xứ uỷ",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "đáng với, xứng với một danh hiệu, vinh dự hay quyền lợi, trách nhiệm nào đó\nVí dụ:\n- xứng đáng với lời khen ngợi \n - được hưởng đồng lương xứng đáng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@xứng đáng\n- tt (H. xứng: thích đáng; đáng: đúng đắn) Rất đáng được hưởng: Ông cụ xứng đáng với sự quí trọng của khu phố."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@xứng đáng\n*adj\n-suitable, worthy\n@Chuyên ngành kỹ thuật\n-appropriate\n-due"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@xứng đáng\n* adj\n- suitable, worthy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "suitable, worthy, deserving"
+        "dict_definition": "@xứ uỷ [xứ uỷ]\n-regional party committee"
       }
     ]
   },
@@ -249,6 +201,54 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "correspondent, consummate, fitting; to match"
+      }
+    ]
+  },
+  {
+    "word": "xứ lạ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "strange place, foreign place"
+      }
+    ]
+  },
+  {
+    "word": "xức dầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@xức dầu\n- đgt. Giải tội cho người theo đạo Thiên chúa lúc sắp chết."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@xức dầu\n*verb\n-to oil"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@xức dầu\n* verb\n- to oil"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to oil"
+      }
+    ]
+  },
+  {
+    "word": "xứng với bõ công",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-unfermented wort"
+      }
+    ]
+  },
+  {
+    "word": "xứ kỹ nghệ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-industrial country"
       }
     ]
   }

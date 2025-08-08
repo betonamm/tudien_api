@@ -1,14 +1,5 @@
 [
   {
-    "word": "gì gì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gì gì\n- Nh. Gì, ngh. 1: Đã kể hết chưa còn gì gì nữa?"
-      }
-    ]
-  },
-  {
     "word": "gì đó",
     "definitions": [
       {
@@ -68,50 +59,6 @@
     ]
   },
   {
-    "word": "gì hết",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "at all"
-      }
-    ]
-  },
-  {
-    "word": "gì nữa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "anything else, what else"
-      }
-    ]
-  },
-  {
-    "word": "gì thì gì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bất cứ như thế nào\nVí dụ:\n- gì thì gì cũng phải ăn cái đã!"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gì thì gì [gì thì gì]\n-xem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "whatever (the case may be)"
-      }
-    ]
-  },
-  {
-    "word": "gì cả",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "anything at all"
-      }
-    ]
-  },
-  {
     "word": "gìn giữ",
     "definitions": [
       {
@@ -137,6 +84,42 @@
     ]
   },
   {
+    "word": "gì hết",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "at all"
+      }
+    ]
+  },
+  {
+    "word": "gì cả",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "anything at all"
+      }
+    ]
+  },
+  {
+    "word": "gì nữa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "anything else, what else"
+      }
+    ]
+  },
+  {
+    "word": "gì gì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gì gì\n- Nh. Gì, ngh. 1: Đã kể hết chưa còn gì gì nữa?"
+      }
+    ]
+  },
+  {
     "word": "gìn",
     "definitions": [
       {
@@ -154,6 +137,23 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to keep, preserve"
+      }
+    ]
+  },
+  {
+    "word": "gì thì gì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bất cứ như thế nào\nVí dụ:\n- gì thì gì cũng phải ăn cái đã!"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gì thì gì [gì thì gì]\n-xem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "whatever (the case may be)"
       }
     ]
   }

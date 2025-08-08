@@ -1,19 +1,46 @@
 [
   {
-    "word": "gần tức thời",
+    "word": "gần kề miệng lỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-near-prompt"
+        "dict_definition": "@gần kề miệng lỗ [gần kề miệng lỗ]\n-xem"
       }
     ]
   },
   {
-    "word": "gần sáu tháng",
+    "word": "gầu múc",
     "definitions": [
       {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nearly six months"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-bucket\n-scoop"
+      }
+    ]
+  },
+  {
+    "word": "gần như bán lẻ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi retailing"
+      }
+    ]
+  },
+  {
+    "word": "gầu nâng ống chống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bucket elevator"
+      }
+    ]
+  },
+  {
+    "word": "gầu rót",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bin\n-ladle"
       }
     ]
   },
@@ -43,859 +70,11 @@
     ]
   },
   {
-    "word": "gầu múc",
+    "word": "gần đúng đoạn nhiệt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-bucket\n-scoop"
-      }
-    ]
-  },
-  {
-    "word": "gầm ghì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầm ghì\n- Thứ chim bồ câu có lông xanh."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầm ghì\n-Green imperial pigeon"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầm ghì\n- Green imperial pigeon"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "green imperial pigeon"
-      }
-    ]
-  },
-  {
-    "word": "gầu vét",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dredging scoop\n-scoop"
-      }
-    ]
-  },
-  {
-    "word": "gầu máy đào",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scoop bucket"
-      }
-    ]
-  },
-  {
-    "word": "gầu xúc có răng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pronged shovel"
-      }
-    ]
-  },
-  {
-    "word": "gầu ngoạm đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-real grab"
-      }
-    ]
-  },
-  {
-    "word": "gầu lật",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tip-bucket"
-      }
-    ]
-  },
-  {
-    "word": "gần bờ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inshore\n@Lĩnh vực: hóa học & vật liệu\n-neritic"
-      }
-    ]
-  },
-  {
-    "word": "gầu ngoạm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-clamshell bucket\n-gripping device\n-jig\n-orange peel bucket\n-tensioning device"
-      }
-    ]
-  },
-  {
-    "word": "gần chặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-firm"
-      }
-    ]
-  },
-  {
-    "word": "gần tương đương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-almost equivalent"
-      }
-    ]
-  },
-  {
-    "word": "gầu tải hạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cheese scoop\n-grain pulp elevator"
-      }
-    ]
-  },
-  {
-    "word": "gần hơn nữa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "more recently"
-      }
-    ]
-  },
-  {
-    "word": "gần chết",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "about to die, close to death"
-      }
-    ]
-  },
-  {
-    "word": "gần gũi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gần nhau, về quan hệ tinh thần, tình cảm [nói khái quát]\nVí dụ:\n- đi làm xa, ít được gần gũi con cái \n - bạn bè gần gũi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "có quan hệ tốt, thường xuyên tiếp xúc, hiểu và cảm thông sâu sắc với người dưới mình\nVí dụ:\n- người cán bộ ấy rất gần gũi với dân"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gần gũi\n- Nh. Gần gụi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần gũi\n*adj\n-lose by; close to (someone)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần gũi\n* adj\n- lose by; close to (someone)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "near, close (by)"
-      }
-    ]
-  },
-  {
-    "word": "gần như vậy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "this close"
-      }
-    ]
-  },
-  {
-    "word": "gầu múc (xe xúc đất)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shovel"
-      }
-    ]
-  },
-  {
-    "word": "gầy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gây cho thành, cho bắt đầu thật sự tồn tại\nVí dụ:\n- họ gầy vốn làm ăn \n - gầy giống"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "tạo ra cái cơ sở để từ đó làm tiếp cho thành hình\nVí dụ:\n- gầy gấu áo len"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[cơ thể người và động vật] ở trạng thái có ít mỡ và thịt\nVí dụ:\n- người gầy \n - con ngựa gầy \n - gầy như con cá mắm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[đất trồng, nước ao] nghèo chất màu, nghèo chất dinh dưỡng\nVí dụ:\n- đất gầy"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầy\n- 1 tt. 1. (Người và động vật) ít thịt, ít mỡ; trái với béo: béo chê ngấy, gầy chê tanh (tng.)  trâu thịt gầy, trâu cày thì béo (tng.)  người gầy  Chân tay gầy khẳng khiu  gầy như con mắm (tng.). 2. (Thực vật) ở trạng thái kém phát triển, không mập: cỏ gầy. 3. ít chất màu, ít chất dinh dưỡng: đất gầy.\n- 2 đgt., đphg 1. Tạo dựng cho đạt tới mục đích: gầy vốn. 2. Làm cho cháy: gầy bếp. 3. Tạo cơ sở để từ đó tiếp tục hoàn thành: gầy gấu áo len."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầy\n*adj\n-thin; spare; gaunt\n=gầy còm\n+very thin\n@Chuyên ngành kinh tế\n-lean\n@Chuyên ngành kỹ thuật\n-lean\n@Lĩnh vực: xây dựng\n-skinny"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầy\n* adj\n- thin; spare; gaunt\n=gầy còm+very thin"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "thin"
-      }
-    ]
-  },
-  {
-    "word": "gầy do nôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-emtatrophia"
-      }
-    ]
-  },
-  {
-    "word": "gần cuối, gần đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subterminal"
-      }
-    ]
-  },
-  {
-    "word": "gần hai tuần lễ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nearly two weeks"
-      }
-    ]
-  },
-  {
-    "word": "gần từ quyển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-lower magnetosphere"
-      }
-    ]
-  },
-  {
-    "word": "gần như là hợp đồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-contract"
-      }
-    ]
-  },
-  {
-    "word": "gần nhất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-late-breaking\n-latest\n-nearest\n-newest"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nearest, most recent"
-      }
-    ]
-  },
-  {
-    "word": "gần tới đây",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "next, coming, soon"
-      }
-    ]
-  },
-  {
-    "word": "gần điển hình",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subtuberal"
-      }
-    ]
-  },
-  {
-    "word": "gầu nâng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-elevator bucker"
-      }
-    ]
-  },
-  {
-    "word": "gầu xúc đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bucket"
-      }
-    ]
-  },
-  {
-    "word": "gầy gò",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầy [nói khái quát]\nVí dụ:\n- thân hình gầy gò \n - người gầy gò, ốm yếu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầy gò\n- t. Gầy (nói khái quát). Thân hình gầy gò. Khuôn mặt gầy gò."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầy gò\n*adj\n-thin"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầy gò\n* adj\n- thin"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "thin"
-      }
-    ]
-  },
-  {
-    "word": "gần cả mười lăm phút",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost fifteen whole minutes"
-      }
-    ]
-  },
-  {
-    "word": "gầy mòn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái ngày một gầy đi\nVí dụ:\n- \"Chim chuyền nhành ớt líu lo, Sầu ai nên nỗi ốm o gầy mòn.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầy mòn\n- t. Càng ngày càng gầy đi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầy mòn\n-Be wasting, lose fesh by degrees\n=Lo nghỉ nhiều quá càng ngày càng gầy mòn đi\n+To be wasting away because of too many cares\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tabefaction"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầy mòn\n- Be wasting, lose fesh by degrees\n=Lo nghỉ nhiều quá càng ngày càng gầy mòn đi+To be wasting away because of too many cares"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "be wasting, lose flesh by degrees"
-      }
-    ]
-  },
-  {
-    "word": "gầy yếu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầy gò và ốm yếu\nVí dụ:\n- thân hình gầy yếu \n - người ngày một gầy yếu"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầy yếu\n- tt Gầy gò và không còn sức khoẻ: Thấy bà mẹ gầy yếu, người còn lo lắng lắm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầy yếu\n*adj\n-sickly"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầy yếu\n* adj\n- sickly"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "sickly, lean, gaunt, emaciated"
-      }
-    ]
-  },
-  {
-    "word": "gần sáng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost morning"
-      }
-    ]
-  },
-  {
-    "word": "gần bên",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần bên\n-Neighbouring, adjcent"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần bên\n- Neighbouring, adjcent"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "neighboring, adjacent"
-      }
-    ]
-  },
-  {
-    "word": "gầu múc đan dây thép",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-wire scoop"
-      }
-    ]
-  },
-  {
-    "word": "gần như đình trệ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-stationary state"
-      }
-    ]
-  },
-  {
-    "word": "gầu",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầu\n- d. Bụi trắng do chất mỡ ở những hạch mồ hôi da đầu tiết ra và khô lại.\n- d. Thịt lẫn mỡ ở ngực bò: Phở gầu."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầu\n-Dandruff, scurf\n@Chuyên ngành kinh tế\n-bucket\n@Chuyên ngành kỹ thuật\n-bagger\n-bail\n-bailer\n-bin\n-bowl\n-hopper\n-shovel"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầu\n- Dandruff, scurf"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dandruff, scurf"
-      }
-    ]
-  },
-  {
-    "word": "gần rốn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-para-omphalic"
-      }
-    ]
-  },
-  {
-    "word": "gầu bùn có nắp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mud socket"
-      }
-    ]
-  },
-  {
-    "word": "gầm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem gằm\nVí dụ:\n- cúi gầm mặt xuống"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khoảng trống kể từ mặt nền đến đáy của một số vật xây dựng hoặc kê bên trên\nVí dụ:\n- gầm cầu thang \n - trốn dưới gầm bàn \n - chó chui gầm chạn (tng)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[loài thú] phát ra tiếng kêu vang, mạnh, dữ dội\nVí dụ:\n- hổ gầm \n - voi gầm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "phát ra tiếng rất to, vang rền, làm rung chuyển xung quanh\nVí dụ:\n- tiếng đại bác gầm lên"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầm\n- 1 dt. Chỗ trống dưới vật gì kê ở mặt đất: gầm giường  Chó chui gầm chạn (tng.)  gầm tủ  gầm cầu thang  gầm cầu.\n- 2 đgt. 1. Phát ra tiếng kêu dữ dội, ngân vang kéo dài (ở một số loài thú lớn): Cọp gầm  Voi gầm hổ thét. 2. Phát ra tiếng to, vang rền: Đại bác gầm vang cả trận địa  từng đợt sóng gầm.\n- 3 đgt. Gằm: cúi gầm mặt."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầm\n*verb\n-to roar\n=tiếng gầm của sư tử\n+the roar of a lion*noun\n-space under"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầm\n* verb\n- to roar\n=tiếng gầm của sư tử+the roar of a lion\n* noun\n- space under"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) to roar, howl, yell; (2) to bow one’s head in shame or anger; (3) space underneath, underpass"
-      }
-    ]
-  },
-  {
-    "word": "gần xa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gần cũng như xa, khắp mọi nơi, mọi chốn\nVí dụ:\n- bạn bè gần xa \n - tiếng thơm lừng lẫy gần xa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xa xôi cách trở\nVí dụ:\n- \"Yêu nhau chẳng quản gần xa, Một ngày chẳng đến thì ba bốn ngày.\" (Cdao)"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gần và xa, đủ cả\nVí dụ:\n- chuyện gần xa \n - nghĩ hết gần xa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gần xa\n- t. 1 Gần cũng như xa, khắp mọi nơi. Ý kiến của bạn đọc gần xa. 2 (kết hợp hạn chế). Xa xôi cách trở. Thương nhau chẳng quản gần xa... (cd.). 3 (id.). Gần và xa, hết chuyện này đến chuyện nọ, đủ cả mọi chuyện. Chuyện gần xa."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần xa\n-far and near, everywhere"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần xa\n- far and near, everywhere"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "far and near, everywhere"
-      }
-    ]
-  },
-  {
-    "word": "gần đầu xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-juxta-epiphyseal"
-      }
-    ]
-  },
-  {
-    "word": "gần toàn dụng lao động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-full employment"
-      }
-    ]
-  },
-  {
-    "word": "gầu múc hậu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-back hoe\n-drag shovel\n-drag shovel or back hoe"
-      }
-    ]
-  },
-  {
-    "word": "gần như trọn vẹn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost completely"
-      }
-    ]
-  },
-  {
-    "word": "gần khô (hạn)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-subarid"
-      }
-    ]
-  },
-  {
-    "word": "gần gụi",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem gần gũi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gần gụi\n- đg. Đến gần, đi sát: Cán bộ phải gần gụi quần chúng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần gụi\n-keep in close touch with the masses"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần gụi\n- keep in close touch with the masses"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "keep in close touch with the masses"
-      }
-    ]
-  },
-  {
-    "word": "gần điểm tối ưu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-suboptimal"
-      }
-    ]
-  },
-  {
-    "word": "gần đúng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-rough\n@Chuyên ngành kỹ thuật\n-approximate\n-approximative\n-asymptotical\n-ill-defined\n-much"
-      }
-    ]
-  },
-  {
-    "word": "gần gây chết",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sublethal"
-      }
-    ]
-  },
-  {
-    "word": "gầm hét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầm hét\n- đg. La ó om sòm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầm hét [gầm hét]\n-howl, yell, roar (như"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "howl, yell, roar"
-      }
-    ]
-  },
-  {
-    "word": "gầm gào",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầm lên, gào lên, thường gây tác động đáng sợ\nVí dụ:\n- tiếng gió gầm gào \n - sóng biển gầm gào"
-      }
-    ]
-  },
-  {
-    "word": "gầu tải nước đá vụn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-crushed ice elevator"
-      }
-    ]
-  },
-  {
-    "word": "gầm gừ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[thú vật, thường là chó] phát ra những tiếng kêu giận dữ đang nén trong cổ\nVí dụ:\n- con chó đang gầm gừ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như gầm ghè [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- nhìn nhau gầm gừ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầm gừ\n- đg. 1. Nói chó kêu khẽ trong cổ khi sắp cắn nhau. 2. Hục hặc nhau, muốn cãi nhau (thtục): Hai thằng bé gầm gừ nhau suốt ngày."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầm gừ\n-Snort (of dogs about to fight).\n-(thông tục) have one\"s hackles up\n=Hai thằng bé gầm gừ nhau suốt ngày\n+The two little boys faced each other with their hackles up the whole day"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầm gừ\n- Snort (of dogs about to fight).\n-(thông tục) have one's hackles up\n=Hai thằng bé gầm gừ nhau suốt ngày+The two little boys faced each other with their hackles up the whole day"
-      }
-    ]
-  },
-  {
-    "word": "gần cân bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-near equilibrium"
-      }
-    ]
-  },
-  {
-    "word": "gần như độc quyền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-monopoly"
-      }
-    ]
-  },
-  {
-    "word": "gần kề miệng lỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần kề miệng lỗ [gần kề miệng lỗ]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "gần khớp, cạnh khớp, ở vùng khớp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-juxta-articular"
-      }
-    ]
-  },
-  {
-    "word": "gần như khoản vay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi loan"
-      }
-    ]
-  },
-  {
-    "word": "gầu tải hạt bằng gỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-timber grain silo"
-      }
-    ]
-  },
-  {
-    "word": "gầu có nắp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leaf bucket"
-      }
-    ]
-  },
-  {
-    "word": "gần tai",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-parotic"
-      }
-    ]
-  },
-  {
-    "word": "gần như là",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quasi-"
-      }
-    ]
-  },
-  {
-    "word": "gần gặn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gần, không xa [nói khái quát]\nVí dụ:\n- đường lên thành phố cũng chẳng gần gặn gì"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần gặn\n-Near, close by"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần gặn\n- Near, close by"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "near, close by"
-      }
-    ]
-  },
-  {
-    "word": "gần nhà",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nearby, close to one’s home"
-      }
-    ]
-  },
-  {
-    "word": "gầu xúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-dipper\n-excavating bucket\n-scoop"
-      }
-    ]
-  },
-  {
-    "word": "gần gốc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-proximal"
-      }
-    ]
-  },
-  {
-    "word": "gầu nạo vét bùn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clamshell"
-      }
-    ]
-  },
-  {
-    "word": "gần nửa lít",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pint"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-adiabatic approximation"
       }
     ]
   },
@@ -909,191 +88,29 @@
     ]
   },
   {
-    "word": "gần ngót",
+    "word": "gần gũi với",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "almost, close to, nearly"
+        "dict_definition": "to be close to, near to"
       }
     ]
   },
   {
-    "word": "gần đến",
+    "word": "gần như đình trệ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gần đến\n-At the approach of\n=Gần đến Tết\n+At the approach of Tet; as Tet is drawing near"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần đến\n- At the approach of\n=Gần đến Tết+At the approach of Tet; as Tet is drawing near"
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-stationary state"
       }
     ]
   },
   {
-    "word": "gần như bán lẻ",
+    "word": "gầu xúc",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi retailing"
-      }
-    ]
-  },
-  {
-    "word": "gần giống",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to closely resemble"
-      }
-    ]
-  },
-  {
-    "word": "gần đúng born-oppenheimer",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Born-Oppenheimer approximation"
-      }
-    ]
-  },
-  {
-    "word": "gầm rú",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầm và rú liên tiếp, dữ dội, gây cảm giác rùng rợn\nVí dụ:\n- tiếng máy bay gầm rú trên bầu trời"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to roar, yell, howl"
-      }
-    ]
-  },
-  {
-    "word": "gần biển",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-maritime"
-      }
-    ]
-  },
-  {
-    "word": "gần đây nhất",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "most recent(ly)"
-      }
-    ]
-  },
-  {
-    "word": "gần như tiền thuê",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-rent"
-      }
-    ]
-  },
-  {
-    "word": "gầy đét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầy và khô, trông như chỉ có da bọc xương\nVí dụ:\n- người gầy đét như con mắm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầy đét\n- t. Gầy như chỉ có da bọc lấy xương."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầy đét\n*adj\n-scraggy"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầy đét\n* adj\n- scraggy"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "scraggy"
-      }
-    ]
-  },
-  {
-    "word": "gầu rót tay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-handladle"
-      }
-    ]
-  },
-  {
-    "word": "gần đúng đoạn nhiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-adiabatic approximation"
-      }
-    ]
-  },
-  {
-    "word": "gầm thét",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầm thét\n- Nh. Gầm hét."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầm thét\n*verb\n-to bawl"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầm thét\n* verb\n- to bawl"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bawl"
-      }
-    ]
-  },
-  {
-    "word": "gần tới",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to approach, draw near"
-      }
-    ]
-  },
-  {
-    "word": "gần biên giới lào",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "near the border with Laos"
-      }
-    ]
-  },
-  {
-    "word": "gần trưa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "close to noon"
-      }
-    ]
-  },
-  {
-    "word": "gầu guồng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bucket elevator"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-dipper\n-excavating bucket\n-scoop"
       }
     ]
   },
@@ -1107,176 +124,11 @@
     ]
   },
   {
-    "word": "gần như",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần như\n-Nearly, almost\n=Anh ta gần như điên khi nghe tin ấy\n+He was almost out of his mind when heard of the news\n@Chuyên ngành kỹ thuật\n-almost\n-approach\n-nearly"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần như\n- Nearly, almost\n=Anh ta gần như điên khi nghe tin ấy+He was almost out of his mind when heard of the news"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "nearly, almost"
-      }
-    ]
-  },
-  {
-    "word": "gần năm rồi",
+    "word": "gần nhà",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "almost a year alread"
-      }
-    ]
-  },
-  {
-    "word": "gầy còm, hốc hác",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-syntexis"
-      }
-    ]
-  },
-  {
-    "word": "gần cả",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost (an entire)"
-      }
-    ]
-  },
-  {
-    "word": "gầu đúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-foundry ladle\n-shank"
-      }
-    ]
-  },
-  {
-    "word": "gần đúng thời gian hồi phục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-relaxation approximation"
-      }
-    ]
-  },
-  {
-    "word": "gần vô cùng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-infinitely near"
-      }
-    ]
-  },
-  {
-    "word": "gần gũi với",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be close to, near to"
-      }
-    ]
-  },
-  {
-    "word": "gầy như cái que",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầy như cái que [gầy như cái que]\n-as thin as a lath/rake"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "as thin as a lath or rake"
-      }
-    ]
-  },
-  {
-    "word": "gầm rít",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầm và rít lên thành từng hồi, một cách liên tục và dữ dội, gây cảm giác sợ hãi\nVí dụ:\n- máy bay gầm rít trên bầu trời \n - tiếng gió gầm rít lên từng hồi"
-      }
-    ]
-  },
-  {
-    "word": "gầu rót",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bin\n-ladle"
-      }
-    ]
-  },
-  {
-    "word": "gần cột sống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-juxtaspinal"
-      }
-    ]
-  },
-  {
-    "word": "gầu đảo xúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sinking bucket"
-      }
-    ]
-  },
-  {
-    "word": "gầu máy xúc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-elevator scoop"
-      }
-    ]
-  },
-  {
-    "word": "gầu tải đường thô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-raw sugar elevator"
-      }
-    ]
-  },
-  {
-    "word": "gầu múc đất",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bucket"
-      }
-    ]
-  },
-  {
-    "word": "gần, cạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-proximate"
-      }
-    ]
-  },
-  {
-    "word": "gầu tải bột",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-mill elevator"
+        "dict_definition": "nearby, close to one’s home"
       }
     ]
   },
@@ -1290,105 +142,20 @@
     ]
   },
   {
-    "word": "gần với thời gian thực",
+    "word": "gầu rót tay",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Near Real-Time (NR/T)"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-handladle"
       }
     ]
   },
   {
-    "word": "gầy giơ xương",
+    "word": "gần tương đương",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gầy giơ xương [gầy giơ xương]\n-to be a bag/rack of bones;  to be nothing but skin and bone;  to be a walking skeleton"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to be nothing but flesh and bones"
-      }
-    ]
-  },
-  {
-    "word": "gầu nâng ống chống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-bucket elevator"
-      }
-    ]
-  },
-  {
-    "word": "gầy đét, suy kiệt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pedatrophy"
-      }
-    ]
-  },
-  {
-    "word": "gần đúng liên kết mạnh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-adiabatic approximation"
-      }
-    ]
-  },
-  {
-    "word": "gần cuối",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-penultimate"
-      }
-    ]
-  },
-  {
-    "word": "gần như tất cả mọi người",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost everyone"
-      }
-    ]
-  },
-  {
-    "word": "gầu chuyển (him loại hay xỉ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-transfer ladle"
-      }
-    ]
-  },
-  {
-    "word": "gầu rót tay (đúc)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hand ladle"
-      }
-    ]
-  },
-  {
-    "word": "gần chùa gọi bụt bằng anh",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần chùa gọi Bụt bằng anh [gần chùa gọi bụt bằng anh]\n*tục ngữ\n-too much familiarity breeds contempt"
-      }
-    ]
-  },
-  {
-    "word": "gần gận",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gần gận\n- Nh. Gần gụi: Hai nhà gần gận; Họ hàng gần gận."
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-almost equivalent"
       }
     ]
   },
@@ -1418,109 +185,20 @@
     ]
   },
   {
-    "word": "gần gần",
+    "word": "gầu tải bột",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-approximately"
+        "dict_definition": "@Chuyên ngành kinh tế\n-mill elevator"
       }
     ]
   },
   {
-    "word": "gầy (đất sét)",
+    "word": "gần cột sống",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lean"
-      }
-    ]
-  },
-  {
-    "word": "gần kề",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gần kề\n-Close at hand\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-adjacent"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gần kề\n- Close at hand"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "close at hand"
-      }
-    ]
-  },
-  {
-    "word": "gần tới hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-near-critical"
-      }
-    ]
-  },
-  {
-    "word": "gầu tải đường",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-sugar elevator"
-      }
-    ]
-  },
-  {
-    "word": "gầm xe",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-substructure\n-underbody\n-underfloor"
-      }
-    ]
-  },
-  {
-    "word": "gần đồng thời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-paulopost"
-      }
-    ]
-  },
-  {
-    "word": "gần nhau",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-percontiguum"
-      }
-    ]
-  },
-  {
-    "word": "gần đó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "near there"
-      }
-    ]
-  },
-  {
-    "word": "gần bằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-close to, numerically"
-      }
-    ]
-  },
-  {
-    "word": "gầu đẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-push bucket"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-juxtaspinal"
       }
     ]
   },
@@ -1546,27 +224,131 @@
     ]
   },
   {
-    "word": "gầy guộc",
+    "word": "gầy còm",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "gầy gò đến mức như chỉ có da bọc xương\nVí dụ:\n- đôi bàn bay gầy guộc \n - thân hình gầy guộc"
+        "dict_definition": "rất gầy và yếu\nVí dụ:\n- thân hình gầy còm"
       },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầy guộc\n- tt. Gầy đến mức chỉ còn da bọc xương: Chân tay gầy guộc  thân hình gầy guộc  ông gầy guộc và khổ hạnh như hình các vị La Hán chùa Tây Phương."
+        "dict_definition": "@gầy còm\n- tt Gầy và còi cọc: Thấy thằng bé gầy còm mà thương hại."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gầy guộc\n*adj\n-raw-boned, bony"
+        "dict_definition": "@gầy còm\n*adj\n-slim"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầy guộc\n* adj\n- raw-boned, bony"
+        "dict_definition": "@gầy còm\n* adj\n- slim"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "raw-boned, bony"
+        "dict_definition": "slim"
+      }
+    ]
+  },
+  {
+    "word": "gầu múc đan dây thép",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-wire scoop"
+      }
+    ]
+  },
+  {
+    "word": "gầy (đất sét)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-lean"
+      }
+    ]
+  },
+  {
+    "word": "gầy đét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầy và khô, trông như chỉ có da bọc xương\nVí dụ:\n- người gầy đét như con mắm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầy đét\n- t. Gầy như chỉ có da bọc lấy xương."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy đét\n*adj\n-scraggy"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầy đét\n* adj\n- scraggy"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "scraggy"
+      }
+    ]
+  },
+  {
+    "word": "gần như độc quyền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-monopoly"
+      }
+    ]
+  },
+  {
+    "word": "gầu vét",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-dredging scoop\n-scoop"
+      }
+    ]
+  },
+  {
+    "word": "gần như thất nghiệp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi -unemployment"
+      }
+    ]
+  },
+  {
+    "word": "gần gụi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem gần gũi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gần gụi\n- đg. Đến gần, đi sát: Cán bộ phải gần gụi quần chúng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần gụi\n-keep in close touch with the masses"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần gụi\n- keep in close touch with the masses"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "keep in close touch with the masses"
+      }
+    ]
+  },
+  {
+    "word": "gần trưa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "close to noon"
       }
     ]
   },
@@ -1620,11 +402,20 @@
     ]
   },
   {
-    "word": "gần như thất nghiệp",
+    "word": "gần cả tháng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost (an entire) month"
+      }
+    ]
+  },
+  {
+    "word": "gần biển",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-quasi -unemployment"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-maritime"
       }
     ]
   },
@@ -1638,6 +429,795 @@
     ]
   },
   {
+    "word": "gầu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầu\n- d. Bụi trắng do chất mỡ ở những hạch mồ hôi da đầu tiết ra và khô lại.\n- d. Thịt lẫn mỡ ở ngực bò: Phở gầu."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầu\n-Dandruff, scurf\n@Chuyên ngành kinh tế\n-bucket\n@Chuyên ngành kỹ thuật\n-bagger\n-bail\n-bailer\n-bin\n-bowl\n-hopper\n-shovel"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầu\n- Dandruff, scurf"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dandruff, scurf"
+      }
+    ]
+  },
+  {
+    "word": "gần đầu xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-juxta-epiphyseal"
+      }
+    ]
+  },
+  {
+    "word": "gần sáng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost morning"
+      }
+    ]
+  },
+  {
+    "word": "gầu guồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bucket elevator"
+      }
+    ]
+  },
+  {
+    "word": "gầu bùn có nắp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-mud socket"
+      }
+    ]
+  },
+  {
+    "word": "gần bên",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần bên\n-Neighbouring, adjcent"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần bên\n- Neighbouring, adjcent"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "neighboring, adjacent"
+      }
+    ]
+  },
+  {
+    "word": "gần vô cùng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-infinitely near"
+      }
+    ]
+  },
+  {
+    "word": "gầu xúc nâng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-elevator scoop"
+      }
+    ]
+  },
+  {
+    "word": "gần xa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gần cũng như xa, khắp mọi nơi, mọi chốn\nVí dụ:\n- bạn bè gần xa \n - tiếng thơm lừng lẫy gần xa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xa xôi cách trở\nVí dụ:\n- \"Yêu nhau chẳng quản gần xa, Một ngày chẳng đến thì ba bốn ngày.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gần và xa, đủ cả\nVí dụ:\n- chuyện gần xa \n - nghĩ hết gần xa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gần xa\n- t. 1 Gần cũng như xa, khắp mọi nơi. Ý kiến của bạn đọc gần xa. 2 (kết hợp hạn chế). Xa xôi cách trở. Thương nhau chẳng quản gần xa... (cd.). 3 (id.). Gần và xa, hết chuyện này đến chuyện nọ, đủ cả mọi chuyện. Chuyện gần xa."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần xa\n-far and near, everywhere"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần xa\n- far and near, everywhere"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "far and near, everywhere"
+      }
+    ]
+  },
+  {
+    "word": "gầy do nôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-emtatrophia"
+      }
+    ]
+  },
+  {
+    "word": "gầu máy xúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-elevator scoop"
+      }
+    ]
+  },
+  {
+    "word": "gần gấp đôi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost double"
+      }
+    ]
+  },
+  {
+    "word": "gầu chuyển (him loại hay xỉ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-transfer ladle"
+      }
+    ]
+  },
+  {
+    "word": "gần kề",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần kề\n-Close at hand\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-adjacent"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần kề\n- Close at hand"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "close at hand"
+      }
+    ]
+  },
+  {
+    "word": "gầu tải đường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sugar elevator"
+      }
+    ]
+  },
+  {
+    "word": "gần hai tuần lễ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nearly two weeks"
+      }
+    ]
+  },
+  {
+    "word": "gầu nâng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-elevator bucker"
+      }
+    ]
+  },
+  {
+    "word": "gầu đẩy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-push bucket"
+      }
+    ]
+  },
+  {
+    "word": "gầm xe",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-substructure\n-underbody\n-underfloor"
+      }
+    ]
+  },
+  {
+    "word": "gần gũi",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gần nhau, về quan hệ tinh thần, tình cảm [nói khái quát]\nVí dụ:\n- đi làm xa, ít được gần gũi con cái \n - bạn bè gần gũi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "có quan hệ tốt, thường xuyên tiếp xúc, hiểu và cảm thông sâu sắc với người dưới mình\nVí dụ:\n- người cán bộ ấy rất gần gũi với dân"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gần gũi\n- Nh. Gần gụi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần gũi\n*adj\n-lose by; close to (someone)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần gũi\n* adj\n- lose by; close to (someone)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "near, close (by)"
+      }
+    ]
+  },
+  {
+    "word": "gầu xúc đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-bucket"
+      }
+    ]
+  },
+  {
+    "word": "gầm thét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầm thét\n- Nh. Gầm hét."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầm thét\n*verb\n-to bawl"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầm thét\n* verb\n- to bawl"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to bawl"
+      }
+    ]
+  },
+  {
+    "word": "gần đến",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần đến\n-At the approach of\n=Gần đến Tết\n+At the approach of Tet; as Tet is drawing near"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần đến\n- At the approach of\n=Gần đến Tết+At the approach of Tet; as Tet is drawing near"
+      }
+    ]
+  },
+  {
+    "word": "gầu nạo vét bùn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-clamshell"
+      }
+    ]
+  },
+  {
+    "word": "gần nhất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-late-breaking\n-latest\n-nearest\n-newest"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nearest, most recent"
+      }
+    ]
+  },
+  {
+    "word": "gần điểm tối ưu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-suboptimal"
+      }
+    ]
+  },
+  {
+    "word": "gầu tải đường thô",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-raw sugar elevator"
+      }
+    ]
+  },
+  {
+    "word": "gần tới hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-near-critical"
+      }
+    ]
+  },
+  {
+    "word": "gần cuối",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-penultimate"
+      }
+    ]
+  },
+  {
+    "word": "gần gần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-approximately"
+      }
+    ]
+  },
+  {
+    "word": "gầm gừ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[thú vật, thường là chó] phát ra những tiếng kêu giận dữ đang nén trong cổ\nVí dụ:\n- con chó đang gầm gừ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như gầm ghè [nhưng ý nhấn mạnh hơn]\nVí dụ:\n- nhìn nhau gầm gừ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầm gừ\n- đg. 1. Nói chó kêu khẽ trong cổ khi sắp cắn nhau. 2. Hục hặc nhau, muốn cãi nhau (thtục): Hai thằng bé gầm gừ nhau suốt ngày."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầm gừ\n-Snort (of dogs about to fight).\n-(thông tục) have one\"s hackles up\n=Hai thằng bé gầm gừ nhau suốt ngày\n+The two little boys faced each other with their hackles up the whole day"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầm gừ\n- Snort (of dogs about to fight).\n-(thông tục) have one's hackles up\n=Hai thằng bé gầm gừ nhau suốt ngày+The two little boys faced each other with their hackles up the whole day"
+      }
+    ]
+  },
+  {
+    "word": "gần như khoản vay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi loan"
+      }
+    ]
+  },
+  {
+    "word": "gần như tất cả mọi người",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost everyone"
+      }
+    ]
+  },
+  {
+    "word": "gần từ quyển",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-lower magnetosphere"
+      }
+    ]
+  },
+  {
+    "word": "gầy đét, suy kiệt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-pedatrophy"
+      }
+    ]
+  },
+  {
+    "word": "gần cả",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost (an entire)"
+      }
+    ]
+  },
+  {
+    "word": "gầu tải hạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cheese scoop\n-grain pulp elevator"
+      }
+    ]
+  },
+  {
+    "word": "gần gốc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-proximal"
+      }
+    ]
+  },
+  {
+    "word": "gầu lật",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-tip-bucket"
+      }
+    ]
+  },
+  {
+    "word": "gần đó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "near there"
+      }
+    ]
+  },
+  {
+    "word": "gần chùa gọi bụt bằng anh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần chùa gọi Bụt bằng anh [gần chùa gọi bụt bằng anh]\n*tục ngữ\n-too much familiarity breeds contempt"
+      }
+    ]
+  },
+  {
+    "word": "gần cuối, gần đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subterminal"
+      }
+    ]
+  },
+  {
+    "word": "gần tai",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-parotic"
+      }
+    ]
+  },
+  {
+    "word": "gầm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem gằm\nVí dụ:\n- cúi gầm mặt xuống"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khoảng trống kể từ mặt nền đến đáy của một số vật xây dựng hoặc kê bên trên\nVí dụ:\n- gầm cầu thang \n - trốn dưới gầm bàn \n - chó chui gầm chạn (tng)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[loài thú] phát ra tiếng kêu vang, mạnh, dữ dội\nVí dụ:\n- hổ gầm \n - voi gầm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "phát ra tiếng rất to, vang rền, làm rung chuyển xung quanh\nVí dụ:\n- tiếng đại bác gầm lên"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầm\n- 1 dt. Chỗ trống dưới vật gì kê ở mặt đất: gầm giường  Chó chui gầm chạn (tng.)  gầm tủ  gầm cầu thang  gầm cầu.\n- 2 đgt. 1. Phát ra tiếng kêu dữ dội, ngân vang kéo dài (ở một số loài thú lớn): Cọp gầm  Voi gầm hổ thét. 2. Phát ra tiếng to, vang rền: Đại bác gầm vang cả trận địa  từng đợt sóng gầm.\n- 3 đgt. Gằm: cúi gầm mặt."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầm\n*verb\n-to roar\n=tiếng gầm của sư tử\n+the roar of a lion*noun\n-space under"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầm\n* verb\n- to roar\n=tiếng gầm của sư tử+the roar of a lion\n* noun\n- space under"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) to roar, howl, yell; (2) to bow one’s head in shame or anger; (3) space underneath, underpass"
+      }
+    ]
+  },
+  {
+    "word": "gầu tải hạt bằng gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-timber grain silo"
+      }
+    ]
+  },
+  {
+    "word": "gần gây chết",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-sublethal"
+      }
+    ]
+  },
+  {
+    "word": "gần, cạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-proximate"
+      }
+    ]
+  },
+  {
+    "word": "gầy như cái que",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy như cái que [gầy như cái que]\n-as thin as a lath/rake"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "as thin as a lath or rake"
+      }
+    ]
+  },
+  {
+    "word": "gầu ngoạm đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-real grab"
+      }
+    ]
+  },
+  {
+    "word": "gầu múc hậu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-back hoe\n-drag shovel\n-drag shovel or back hoe"
+      }
+    ]
+  },
+  {
+    "word": "gần toàn dụng lao động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-full employment"
+      }
+    ]
+  },
+  {
+    "word": "gầy yếu",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầy gò và ốm yếu\nVí dụ:\n- thân hình gầy yếu \n - người ngày một gầy yếu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầy yếu\n- tt Gầy gò và không còn sức khoẻ: Thấy bà mẹ gầy yếu, người còn lo lắng lắm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy yếu\n*adj\n-sickly"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầy yếu\n* adj\n- sickly"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "sickly, lean, gaunt, emaciated"
+      }
+    ]
+  },
+  {
+    "word": "gầy guộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầy gò đến mức như chỉ có da bọc xương\nVí dụ:\n- đôi bàn bay gầy guộc \n - thân hình gầy guộc"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầy guộc\n- tt. Gầy đến mức chỉ còn da bọc xương: Chân tay gầy guộc  thân hình gầy guộc  ông gầy guộc và khổ hạnh như hình các vị La Hán chùa Tây Phương."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy guộc\n*adj\n-raw-boned, bony"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầy guộc\n* adj\n- raw-boned, bony"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "raw-boned, bony"
+      }
+    ]
+  },
+  {
+    "word": "gần đây nhất",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "most recent(ly)"
+      }
+    ]
+  },
+  {
+    "word": "gần chặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-firm"
+      }
+    ]
+  },
+  {
+    "word": "gầy gò",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầy [nói khái quát]\nVí dụ:\n- thân hình gầy gò \n - người gầy gò, ốm yếu"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầy gò\n- t. Gầy (nói khái quát). Thân hình gầy gò. Khuôn mặt gầy gò."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy gò\n*adj\n-thin"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầy gò\n* adj\n- thin"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "thin"
+      }
+    ]
+  },
+  {
+    "word": "gần đúng thời gian hồi phục",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-relaxation approximation"
+      }
+    ]
+  },
+  {
+    "word": "gầu xúc có răng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pronged shovel"
+      }
+    ]
+  },
+  {
+    "word": "gầy mòn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái ngày một gầy đi\nVí dụ:\n- \"Chim chuyền nhành ớt líu lo, Sầu ai nên nỗi ốm o gầy mòn.\" (Cdao)"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầy mòn\n- t. Càng ngày càng gầy đi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy mòn\n-Be wasting, lose fesh by degrees\n=Lo nghỉ nhiều quá càng ngày càng gầy mòn đi\n+To be wasting away because of too many cares\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tabefaction"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầy mòn\n- Be wasting, lose fesh by degrees\n=Lo nghỉ nhiều quá càng ngày càng gầy mòn đi+To be wasting away because of too many cares"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "be wasting, lose flesh by degrees"
+      }
+    ]
+  },
+  {
+    "word": "gần chết",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "about to die, close to death"
+      }
+    ]
+  },
+  {
+    "word": "gầu múc đất",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-bucket"
+      }
+    ]
+  },
+  {
+    "word": "gần gận",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gần gận\n- Nh. Gần gụi: Hai nhà gần gận; Họ hàng gần gận."
+      }
+    ]
+  },
+  {
+    "word": "gần như trọn vẹn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost completely"
+      }
+    ]
+  },
+  {
+    "word": "gần đúng born-oppenheimer",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: vật lý\n-Born-Oppenheimer approximation"
+      }
+    ]
+  },
+  {
+    "word": "gầu múc (xe xúc đất)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-shovel"
+      }
+    ]
+  },
+  {
     "word": "gần thận, quanh thận",
     "definitions": [
       {
@@ -1647,27 +1227,193 @@
     ]
   },
   {
-    "word": "gầy còm",
+    "word": "gần ngót",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost, close to, nearly"
+      }
+    ]
+  },
+  {
+    "word": "gầm rú",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rất gầy và yếu\nVí dụ:\n- thân hình gầy còm"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@gầy còm\n- tt Gầy và còi cọc: Thấy thằng bé gầy còm mà thương hại."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@gầy còm\n*adj\n-slim"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@gầy còm\n* adj\n- slim"
+        "dict_definition": "gầm và rú liên tiếp, dữ dội, gây cảm giác rùng rợn\nVí dụ:\n- tiếng máy bay gầm rú trên bầu trời"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "slim"
+        "dict_definition": "to roar, yell, howl"
+      }
+    ]
+  },
+  {
+    "word": "gầy giơ xương",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy giơ xương [gầy giơ xương]\n-to be a bag/rack of bones;  to be nothing but skin and bone;  to be a walking skeleton"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to be nothing but flesh and bones"
+      }
+    ]
+  },
+  {
+    "word": "gần điển hình",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-subtuberal"
+      }
+    ]
+  },
+  {
+    "word": "gần hết",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost all, almost completely"
+      }
+    ]
+  },
+  {
+    "word": "gần sáu tháng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nearly six months"
+      }
+    ]
+  },
+  {
+    "word": "gần tới đây",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "next, coming, soon"
+      }
+    ]
+  },
+  {
+    "word": "gần tới",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to approach, draw near"
+      }
+    ]
+  },
+  {
+    "word": "gần đồng thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-paulopost"
+      }
+    ]
+  },
+  {
+    "word": "gầu có nắp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-leaf bucket"
+      }
+    ]
+  },
+  {
+    "word": "gần như tiền thuê",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-rent"
+      }
+    ]
+  },
+  {
+    "word": "gần như là",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-quasi-"
+      }
+    ]
+  },
+  {
+    "word": "gần hơn nữa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "more recently"
+      }
+    ]
+  },
+  {
+    "word": "gầu đảo xúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-sinking bucket"
+      }
+    ]
+  },
+  {
+    "word": "gần với thời gian thực",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Near Real-Time (NR/T)"
+      }
+    ]
+  },
+  {
+    "word": "gần bằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-close to, numerically"
+      }
+    ]
+  },
+  {
+    "word": "gầu rót tay (đúc)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-hand ladle"
+      }
+    ]
+  },
+  {
+    "word": "gần đất xa trời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần đất xa trời [gần đất xa trời]\n-to have one foot in the grave;  somebody\"s days are numbered"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to have one foot in the grave, somebody’s"
+      }
+    ]
+  },
+  {
+    "word": "gần như",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần như\n-Nearly, almost\n=Anh ta gần như điên khi nghe tin ấy\n+He was almost out of his mind when heard of the news\n@Chuyên ngành kỹ thuật\n-almost\n-approach\n-nearly"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần như\n- Nearly, almost\n=Anh ta gần như điên khi nghe tin ấy+He was almost out of his mind when heard of the news"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "nearly, almost"
       }
     ]
   },
@@ -1677,6 +1423,126 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-bucket conveyor\n-elevator\n-noria\n-scooper\n@Chuyên ngành kỹ thuật\n-dump bailer"
+      }
+    ]
+  },
+  {
+    "word": "gần khớp, cạnh khớp, ở vùng khớp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-juxta-articular"
+      }
+    ]
+  },
+  {
+    "word": "gần tức thời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-near-prompt"
+      }
+    ]
+  },
+  {
+    "word": "gần đúng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-rough\n@Chuyên ngành kỹ thuật\n-approximate\n-approximative\n-asymptotical\n-ill-defined\n-much"
+      }
+    ]
+  },
+  {
+    "word": "gần gặn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gần, không xa [nói khái quát]\nVí dụ:\n- đường lên thành phố cũng chẳng gần gặn gì"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gần gặn\n-Near, close by"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gần gặn\n- Near, close by"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "near, close by"
+      }
+    ]
+  },
+  {
+    "word": "gầm gào",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầm lên, gào lên, thường gây tác động đáng sợ\nVí dụ:\n- tiếng gió gầm gào \n - sóng biển gầm gào"
+      }
+    ]
+  },
+  {
+    "word": "gần cả mười lăm phút",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost fifteen whole minutes"
+      }
+    ]
+  },
+  {
+    "word": "gầy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gây cho thành, cho bắt đầu thật sự tồn tại\nVí dụ:\n- họ gầy vốn làm ăn \n - gầy giống"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "tạo ra cái cơ sở để từ đó làm tiếp cho thành hình\nVí dụ:\n- gầy gấu áo len"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[cơ thể người và động vật] ở trạng thái có ít mỡ và thịt\nVí dụ:\n- người gầy \n - con ngựa gầy \n - gầy như con cá mắm"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[đất trồng, nước ao] nghèo chất màu, nghèo chất dinh dưỡng\nVí dụ:\n- đất gầy"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầy\n- 1 tt. 1. (Người và động vật) ít thịt, ít mỡ; trái với béo: béo chê ngấy, gầy chê tanh (tng.)  trâu thịt gầy, trâu cày thì béo (tng.)  người gầy  Chân tay gầy khẳng khiu  gầy như con mắm (tng.). 2. (Thực vật) ở trạng thái kém phát triển, không mập: cỏ gầy. 3. ít chất màu, ít chất dinh dưỡng: đất gầy.\n- 2 đgt., đphg 1. Tạo dựng cho đạt tới mục đích: gầy vốn. 2. Làm cho cháy: gầy bếp. 3. Tạo cơ sở để từ đó tiếp tục hoàn thành: gầy gấu áo len."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầy\n*adj\n-thin; spare; gaunt\n=gầy còm\n+very thin\n@Chuyên ngành kinh tế\n-lean\n@Chuyên ngành kỹ thuật\n-lean\n@Lĩnh vực: xây dựng\n-skinny"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầy\n* adj\n- thin; spare; gaunt\n=gầy còm+very thin"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "thin"
+      }
+    ]
+  },
+  {
+    "word": "gầm hét",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầm hét\n- đg. La ó om sòm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầm hét [gầm hét]\n-howl, yell, roar (như"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "howl, yell, roar"
       }
     ]
   },
@@ -1702,33 +1568,6 @@
     ]
   },
   {
-    "word": "gần cả tháng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost (an entire) month"
-      }
-    ]
-  },
-  {
-    "word": "gầu xúc nâng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-elevator scoop"
-      }
-    ]
-  },
-  {
-    "word": "gần gấp đôi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "almost double"
-      }
-    ]
-  },
-  {
     "word": "gầu đúc kiểu tấm chè",
     "definitions": [
       {
@@ -1738,11 +1577,38 @@
     ]
   },
   {
-    "word": "gần hết",
+    "word": "gần nhau",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-percontiguum"
+      }
+    ]
+  },
+  {
+    "word": "gần rốn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-para-omphalic"
+      }
+    ]
+  },
+  {
+    "word": "gần biên giới lào",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "almost all, almost completely"
+        "dict_definition": "near the border with Laos"
+      }
+    ]
+  },
+  {
+    "word": "gầu đúc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-foundry ladle\n-shank"
       }
     ]
   },
@@ -1756,15 +1622,149 @@
     ]
   },
   {
-    "word": "gần đất xa trời",
+    "word": "gầu máy đào",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@gần đất xa trời [gần đất xa trời]\n-to have one foot in the grave;  somebody\"s days are numbered"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-scoop bucket"
+      }
+    ]
+  },
+  {
+    "word": "gần cân bằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-near equilibrium"
+      }
+    ]
+  },
+  {
+    "word": "gần như là hợp đồng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-quasi-contract"
+      }
+    ]
+  },
+  {
+    "word": "gần năm rồi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "almost a year alread"
+      }
+    ]
+  },
+  {
+    "word": "gầu ngoạm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-clamshell bucket\n-gripping device\n-jig\n-orange peel bucket\n-tensioning device"
+      }
+    ]
+  },
+  {
+    "word": "gần bờ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-inshore\n@Lĩnh vực: hóa học & vật liệu\n-neritic"
+      }
+    ]
+  },
+  {
+    "word": "gần như vậy",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "this close"
+      }
+    ]
+  },
+  {
+    "word": "gầy còm, hốc hác",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-syntexis"
+      }
+    ]
+  },
+  {
+    "word": "gần đúng liên kết mạnh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-adiabatic approximation"
+      }
+    ]
+  },
+  {
+    "word": "gần nửa lít",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-pint"
+      }
+    ]
+  },
+  {
+    "word": "gần giống",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to closely resemble"
+      }
+    ]
+  },
+  {
+    "word": "gầu tải nước đá vụn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-crushed ice elevator"
+      }
+    ]
+  },
+  {
+    "word": "gần khô (hạn)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-subarid"
+      }
+    ]
+  },
+  {
+    "word": "gầm ghì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@gầm ghì\n- Thứ chim bồ câu có lông xanh."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@gầm ghì\n-Green imperial pigeon"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@gầm ghì\n- Green imperial pigeon"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to have one foot in the grave, somebody’s"
+        "dict_definition": "green imperial pigeon"
+      }
+    ]
+  },
+  {
+    "word": "gầm rít",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "gầm và rít lên thành từng hồi, một cách liên tục và dữ dội, gây cảm giác sợ hãi\nVí dụ:\n- máy bay gầm rít trên bầu trời \n - tiếng gió gầm rít lên từng hồi"
       }
     ]
   }

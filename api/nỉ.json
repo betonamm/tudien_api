@@ -1,71 +1,10 @@
 [
   {
-    "word": "nỉ tẩm atphan",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-asphalt saturated felt"
-      }
-    ]
-  },
-  {
-    "word": "nỉ không thấm nước",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-water proof felt"
-      }
-    ]
-  },
-  {
     "word": "nỉ mỏng",
     "definitions": [
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n-flannel"
-      }
-    ]
-  },
-  {
-    "word": "nỉ làm khô",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drying felt"
-      }
-    ]
-  },
-  {
-    "word": "nỉ kim",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-needle felt"
-      }
-    ]
-  },
-  {
-    "word": "nỉ",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hàng dệt bằng sợi len chải xơ lên, che lấp sợi dọc và sợi ngang\nVí dụ:\n- áo nỉ \n - mũ nỉ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nỉ\n- d. Hàng dệt bằng sợi len chải xơ lên, che lấp sợi dọc và sợi ngang."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nỉ\n*noun\n-wool; felt\n@Chuyên ngành kỹ thuật\n-felt"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nỉ\n* noun\n- wool; felt"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "wool, felt"
       }
     ]
   },
@@ -99,11 +38,29 @@
     ]
   },
   {
-    "word": "nỉ cactông",
+    "word": "nỉ làm khô",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-board felt"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drying felt"
+      }
+    ]
+  },
+  {
+    "word": "nỉ không thấm nước",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-water proof felt"
+      }
+    ]
+  },
+  {
+    "word": "nỉ kim",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-needle felt"
       }
     ]
   },
@@ -113,6 +70,49 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-roofing felt"
+      }
+    ]
+  },
+  {
+    "word": "nỉ",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hàng dệt bằng sợi len chải xơ lên, che lấp sợi dọc và sợi ngang\nVí dụ:\n- áo nỉ \n - mũ nỉ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nỉ\n- d. Hàng dệt bằng sợi len chải xơ lên, che lấp sợi dọc và sợi ngang."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nỉ\n*noun\n-wool; felt\n@Chuyên ngành kỹ thuật\n-felt"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nỉ\n* noun\n- wool; felt"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "wool, felt"
+      }
+    ]
+  },
+  {
+    "word": "nỉ cactông",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-board felt"
+      }
+    ]
+  },
+  {
+    "word": "nỉ tẩm atphan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-asphalt saturated felt"
       }
     ]
   }

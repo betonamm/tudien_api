@@ -30,23 +30,28 @@
     ]
   },
   {
-    "word": "nụ cười",
+    "word": "nụ hoa",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nụ cười\n- Cái cười chúm chím, không hé môi."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@nụ cười\n*noun\n-smile\n=nụ cười khinh bỉ\n+scornful smile"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@nụ cười\n* noun\n- smile\n=nụ cười khinh bỉ+scornful smile"
-      },
-      {
         "dict_name": "VNEDICT",
-        "dict_definition": "smile"
+        "dict_definition": "flower-bud"
+      }
+    ]
+  },
+  {
+    "word": "nụ áo",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cúc áo tết bằng vải, hình viên tròn như cái nụ, theo kiểu thời trước"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "cây thảo mọc hoang cùng họ với cà, thân có nhiều lông, lá hình trái xoan nhọn, quả khi chín có hình như cái nụ áo"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nụ áo\n- d. 1. Loài cây có hoa nhỏ hình viên tròn như cái khuy đính áo dài. 2. Thứ cúc áo nhỏ và tròn."
       }
     ]
   },
@@ -80,6 +85,45 @@
     ]
   },
   {
+    "word": "nụ gỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-excrescence"
+      }
+    ]
+  },
+  {
+    "word": "nụ cười",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@nụ cười\n- Cái cười chúm chím, không hé môi."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@nụ cười\n*noun\n-smile\n=nụ cười khinh bỉ\n+scornful smile"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@nụ cười\n* noun\n- smile\n=nụ cười khinh bỉ+scornful smile"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "smile"
+      }
+    ]
+  },
+  {
+    "word": "nụ cười giả",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "fake smile"
+      }
+    ]
+  },
+  {
     "word": "nụ vàng",
     "definitions": [
       {
@@ -89,11 +133,11 @@
     ]
   },
   {
-    "word": "nụ răng, mầm răng",
+    "word": "nụ hôn cứu sống (phương pháp miệng áp miệng) hô hấp nhân tạo cấp cứu thực hiện miệng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tooth bud"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-kiss of life"
       }
     ]
   },
@@ -123,33 +167,6 @@
     ]
   },
   {
-    "word": "nụ đục",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-dull tips"
-      }
-    ]
-  },
-  {
-    "word": "nụ cười giả",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "fake smile"
-      }
-    ]
-  },
-  {
-    "word": "nụ hoa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "flower-bud"
-      }
-    ]
-  },
-  {
     "word": "nụ cười nghìn vàng",
     "definitions": [
       {
@@ -159,20 +176,11 @@
     ]
   },
   {
-    "word": "nụ gỗ",
+    "word": "nụ đục",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-excrescence"
-      }
-    ]
-  },
-  {
-    "word": "nụ hôn cứu sống (phương pháp miệng áp miệng) hô hấp nhân tạo cấp cứu thực hiện miệng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-kiss of life"
+        "dict_definition": "@Chuyên ngành kinh tế\n-dull tips"
       }
     ]
   },
@@ -186,19 +194,11 @@
     ]
   },
   {
-    "word": "nụ áo",
+    "word": "nụ răng, mầm răng",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cúc áo tết bằng vải, hình viên tròn như cái nụ, theo kiểu thời trước"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "cây thảo mọc hoang cùng họ với cà, thân có nhiều lông, lá hình trái xoan nhọn, quả khi chín có hình như cái nụ áo"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@nụ áo\n- d. 1. Loài cây có hoa nhỏ hình viên tròn như cái khuy đính áo dài. 2. Thứ cúc áo nhỏ và tròn."
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tooth bud"
       }
     ]
   }

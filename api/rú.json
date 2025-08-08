@@ -1,19 +1,305 @@
 [
   {
-    "word": "rút không khí",
+    "word": "rút xuống",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-deaerate"
+        "dict_name": "VNEDICT",
+        "dict_definition": "to recede"
       }
     ]
   },
   {
-    "word": "rút lại (phiếu khoán của ngân hàng)",
+    "word": "rút ra thuật ngữ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-drawing in"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-extraction of terms"
+      }
+    ]
+  },
+  {
+    "word": "rút bỏ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-lift out"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền mặt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cash drawing"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền tự động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-automatic withdrawal"
+      }
+    ]
+  },
+  {
+    "word": "rút được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-collapsible"
+      }
+    ]
+  },
+  {
+    "word": "rút dây động rừng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút dây động rừng\n- Tục ngữ, ý nói rút một sợi dây làm rung chuyển đến cả một khu rừng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút dây động rừng [rút dây động rừng]\n-to pull a vine and shake the woods;  to do something that will provoke grave repercussions"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pull a vine and shake the woods"
+      }
+    ]
+  },
+  {
+    "word": "rú rí",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rú rí\n- Nói khe khẽ với nhau về những điều thích thú: Rú rí chuyện lan man suốt đêm."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rú rí\n-(ít dùng) Coo\n=Rú rí chuyện tâm sự suốt đêm\n+To coo confidences to one another all through the night"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rú rí\n- (ít dùng) Coo\n=Rú rí chuyện tâm sự suốt đêm+To coo confidences to one another all through the night"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền bằng chi phiếu khống",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-kiting"
+      }
+    ]
+  },
+  {
+    "word": "rút ngắn lại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-abbreviated"
+      }
+    ]
+  },
+  {
+    "word": "rút chân không",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-evacuation"
+      }
+    ]
+  },
+  {
+    "word": "rút khỏi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-back out\n-contracting out"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to withdraw from, unsubscribe"
+      }
+    ]
+  },
+  {
+    "word": "rút lui",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rời bỏ vị trí, trở về phía sau\nVí dụ:\n- quân địch rút lui khỏi trận địa"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rút về, thôi không đưa ra nữa, không tham gia nữa\nVí dụ:\n- xin rút lui, không tham gia ứng cử nữa \n - tuyên bố rút lui khỏi đội tuyển \n - rút lui ý kiến"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút lui\n- đgt Bỏ một vị trí cũ trở về phía sau: Bị đánh mạnh, quân địch phải rút lui. 2. Không tiếp tục nữa: Trước lí lẽ sắc bén của ông ấy anh ta phải rút lui ý kiến."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút lui\n*verb\n-to stand down; to withdraw\n@Chuyên ngành kinh tế\n-retirement"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút lui\n* verb\n- to stand down; to withdraw"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pull out, step back, withdraw, stand down; withdrawal"
+      }
+    ]
+  },
+  {
+    "word": "rút quá số tiền gửi (ngân hàng)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-over draw\n-overdrawer"
+      }
+    ]
+  },
+  {
+    "word": "rút khỏi thị trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-market exit"
+      }
+    ]
+  },
+  {
+    "word": "rúc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "chui vào chỗ hẹp hoặc kín\nVí dụ:\n- con chó rúc vào bụi cây \n - bé rúc vào lòng mẹ"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "dùng mỏ hoặc mõm để mò, rỉa thức ăn\nVí dụ:\n- vịt rúc xuống bùn \n - lợn rúc vào cái máng"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "kêu to và thành hồi dài\nVí dụ:\n- tiếng còi tàu rúc lên inh ỏi"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rúc\n- đg. 1. Chui vào chỗ hẹp : Rệp rúc khe giường. 2. Cg. Rúc rỉa. Mò bằng mỏ : Vịt rúc ốc.\n- đg. Kêu từng hồi dài : Còi rúc."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rúc\n*verb\n-to peck; to strike with the beak*verb\n-to hoot; to toot\n=rúc còi\n+to toot a horn*verb\n-to put (one\"s head) into something"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rúc\n* verb\n- to peck; to strike with the beak\n* verb\n- to hoot; to toot\n=rúc còi+to toot a horn\n* verb\n- to put (one's head) into something"
+      }
+    ]
+  },
+  {
+    "word": "rú lên một tiếng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to shout, let out a shout"
+      }
+    ]
+  },
+  {
+    "word": "rút lui an toàn",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "covered retreat"
+      }
+    ]
+  },
+  {
+    "word": "rút mủ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút mủ\n-(y học) Drain"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút mủ\n- (y học) Drain"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to drain"
+      }
+    ]
+  },
+  {
+    "word": "rút lõi cây",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pith"
+      }
+    ]
+  },
+  {
+    "word": "rú lên",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to shout, yell, scream, sound (alarm)"
+      }
+    ]
+  },
+  {
+    "word": "rút lại lời kiện",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to drop charges, a lawsuit"
+      }
+    ]
+  },
+  {
+    "word": "rút ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-abstract\n-take out\n@Chuyên ngành kỹ thuật\n-abstract\n-branch off\n-cull\n-derive\n-draw\n-draw out\n-drawing\n-eduction\n-outlet\n-pull\n-roll out\n-stretch\n-to knock out\n-withdraw\n@Lĩnh vực: toán & tin\n-to demount\n-to detach\n-to dismantle\n-to take something away"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pull out, be derived"
+      }
+    ]
+  },
+  {
+    "word": "rút ruột",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "lấy hết phần có giá trị bên trong"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "[người chịu trách nhiệm và trực tiếp thực hiện công việc] rút bớt tiền hoặc tài sản của công để làm của riêng\nVí dụ:\n- rút ruột công trình xây dựng \n - rút ruột công ti"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút ruột\n- Lấy từ giữa, từ trong lõi ra: Rút ruột một cuộn len. Rút ruột tằm. Cố gắng quá mức đưa những gì mình có ở trong lòng ra ngoài."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút ruột\n-Draw from the centre\n=Rút ruột một cuộn len\n+To draw a yarn of wool from the centre of the ball\n-Overexert oneself\n=Rút ruột ra mà làm\n+To overexert oneself in doing something\n-Worm, squeeze money out"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút ruột\n- Draw from the centre\n=Rút ruột một cuộn len+To draw a yarn of wool from the centre of the ball\n-Overexert oneself\n=Rút ruột ra mà làm+To overexert oneself in doing something\n-Worm, squeeze money out"
       }
     ]
   },
@@ -31,266 +317,38 @@
     ]
   },
   {
-    "word": "rút, nạp chậm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-admission lag"
-      }
-    ]
-  },
-  {
-    "word": "rút về",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-retire\n-retirement\n-withdraw\n@Chuyên ngành kỹ thuật\n-reduce\n-reduce to\n-refer to"
-      }
-    ]
-  },
-  {
-    "word": "rút nhỏ khổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-downsizing"
-      }
-    ]
-  },
-  {
-    "word": "rút lại là",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút lại là\n-Boil down tọ\n=Vấn đề thực sự rút lại là một cuộc tranh chấp biên giới\n+The issue really boils down to the border dispute"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút lại là\n- Boil down tọ\n=Vấn đề thực sự rút lại là một cuộc tranh chấp biên giới+The issue really boils down to the border dispute"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "boil down to"
-      }
-    ]
-  },
-  {
-    "word": "rút cục",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút cục\n- Cg. Rốt cuộc. Rút cuộc kết quả cuối cùng là: Thảo luận mãi, rút cục vẫn chưa thông."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút cục\n-In the end, at last\n=Thảo luận mãi, rút cục vẫn không thông.\n+They had a lengthy discussion, but in the end they were not convinced"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút cục\n- In the end, at last\n=Thảo luận mãi, rút cục vẫn không thông.+They had a lengthy discussion, but in the end they were not convinced"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "in the end, at last"
-      }
-    ]
-  },
-  {
-    "word": "rút dần",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-amortization"
-      }
-    ]
-  },
-  {
-    "word": "rút gọn (phân số)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reduce"
-      }
-    ]
-  },
-  {
-    "word": "rút bỏ gỗ chống hầm lò",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-drawing back the pillars"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền quá mức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-overdraw"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền ngay",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-draw at sight (to...)"
-      }
-    ]
-  },
-  {
-    "word": "rút (tiền)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-draw\n-withdraw"
-      }
-    ]
-  },
-  {
-    "word": "rút lui khỏi",
+    "word": "rút lại sự chống đối",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to pull out, withdraw"
+        "dict_definition": "to withdraw one’s opposition"
       }
     ]
   },
   {
-    "word": "rút lệnh chú ý ( lệnh modem )",
+    "word": "rút tiền ra",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Attention Hang-Up (Modem command) (ATH)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-withdrawal"
       }
     ]
   },
   {
-    "word": "rút tiền ma quái",
+    "word": "rút bớt ngân sách",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-phantom withdrawal"
+        "dict_definition": "@Chuyên ngành kinh tế\n-budgetary reduction"
       }
     ]
   },
   {
-    "word": "rút được kinh nghiệm vụ trước",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to draw from previous experience"
-      }
-    ]
-  },
-  {
-    "word": "rút cuộc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút cuộc\n- (đph) Nh. Rút cục."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút cuộc\n-(địa phương) như rút cục"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút cuộc\n- (địa phương) như rút cục"
-      }
-    ]
-  },
-  {
-    "word": "rút ngắn (giờ làm việc...)",
+    "word": "rút lại (phiếu khoán của ngân hàng)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reduction"
-      }
-    ]
-  },
-  {
-    "word": "rút ra được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-extractible"
-      }
-    ]
-  },
-  {
-    "word": "rút bớt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút bớt\n-Diminish, reduce"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút bớt\n- Diminish, reduce"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "diminish, reduce"
-      }
-    ]
-  },
-  {
-    "word": "rút xương",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút xương [rút xương]\n-to bone"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to bone"
-      }
-    ]
-  },
-  {
-    "word": "rút gọn một biểu thức",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reduction of an expression"
-      }
-    ]
-  },
-  {
-    "word": "rút giấy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-paper draw"
-      }
-    ]
-  },
-  {
-    "word": "rúc rỉa",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rúc rỉa\n- Nh. Rúc, ngh. 2: Đàn vịt rúc rỉa ở bờ ruộng."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rúc rỉa\n-như rúc"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rúc rỉa\n- như rúc"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền hàng loạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-run\n-run on the banks"
+        "dict_definition": "@Chuyên ngành kinh tế\n-drawing in"
       }
     ]
   },
@@ -340,64 +398,353 @@
     ]
   },
   {
-    "word": "rút khỏi doanh trường",
+    "word": "rút ngắn (giờ làm việc...)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-go out (of business)"
+        "dict_definition": "@Chuyên ngành kinh tế\n-reduction"
       }
     ]
   },
   {
-    "word": "rút lõi cây",
+    "word": "rút lại (giá chào)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pith"
+        "dict_definition": "@Chuyên ngành kinh tế\n-withdraw"
       }
     ]
   },
   {
-    "word": "rút bỏ",
+    "word": "rúp pê (piston)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-lift out"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-seize"
       }
     ]
   },
   {
-    "word": "rút kiệt máu",
+    "word": "rút (bài)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-exsanguinate"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-draw"
       }
     ]
   },
   {
-    "word": "rút dây động rừng",
+    "word": "rút đi",
     "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pull out, receed"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền gửi trước kỳ hạn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-break a deposit (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền linh hoạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-flexible-drawdown"
+      }
+    ]
+  },
+  {
+    "word": "rút ra khỏi giếng (cả cần và ống khai thác)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-strip out"
+      }
+    ]
+  },
+  {
+    "word": "rút chốt điện ra",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unplug"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền ngay",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-draw at sight (to...)"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền ma quái",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-phantom withdrawal"
+      }
+    ]
+  },
+  {
+    "word": "rúc rích",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ mô phỏng tiếng cùng cười với nhau nhỏ nhưng đầy vẻ thích thú\nVí dụ:\n- cười rúc rích"
+      },
       {
         "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút dây động rừng\n- Tục ngữ, ý nói rút một sợi dây làm rung chuyển đến cả một khu rừng"
+        "dict_definition": "@rúc rích\n- Nói nhiều người cười đùa khe khẽ với nhau: Rúc rích trong chăn."
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rút dây động rừng [rút dây động rừng]\n-to pull a vine and shake the woods;  to do something that will provoke grave repercussions"
+        "dict_definition": "@rúc rích\n-Biggle\n=Trẻ con rúc rích trong giường\n+The children were giggling in their bed\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-giggle"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rúc rích\n- Biggle\n=Trẻ con rúc rích trong giường+The children were giggling in their bed"
+      }
+    ]
+  },
+  {
+    "word": "rút chặn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unstop"
+      }
+    ]
+  },
+  {
+    "word": "rúm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "ở trạng thái bị thu nhỏ và méo mó, biến dạng đi\nVí dụ:\n- chân tay co rúm \n - rúm người lại vì sợ"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rúm\n-Shrivelled"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rúm\n- Shrivelled"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to pull a vine and shake the woods"
+        "dict_definition": "shriveled"
       }
     ]
   },
   {
-    "word": "rút khỏi thị trường",
+    "word": "rút lui khỏi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to pull out, withdraw"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền ồ ạt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-market exit"
+        "dict_definition": "@Chuyên ngành kinh tế\n-bank run"
+      }
+    ]
+  },
+  {
+    "word": "rút nhỏ khổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-downsizing"
+      }
+    ]
+  },
+  {
+    "word": "rúc đầu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rúc đầu\n-(xấu) Slip one\"s head in"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rúc đầu\n- (xấu) Slip one's head in"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "slip one’s head in"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền gửi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-drawing"
+      }
+    ]
+  },
+  {
+    "word": "rút (tiền)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-draw\n-withdraw"
+      }
+    ]
+  },
+  {
+    "word": "rúc rỉa",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rúc rỉa\n- Nh. Rúc, ngh. 2: Đàn vịt rúc rỉa ở bờ ruộng."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rúc rỉa\n-như rúc"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rúc rỉa\n- như rúc"
+      }
+    ]
+  },
+  {
+    "word": "rút cuộc",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút cuộc\n- (đph) Nh. Rút cục."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút cuộc\n-(địa phương) như rút cục"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút cuộc\n- (địa phương) như rút cục"
+      }
+    ]
+  },
+  {
+    "word": "rúng động",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rung chuyển, rung động\nVí dụ:\n- bom nổ làm rúng động cả toà nhà"
+      }
+    ]
+  },
+  {
+    "word": "rút ra từ dạng dao động",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-in term of vibration modes"
+      }
+    ]
+  },
+  {
+    "word": "rút cục",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút cục\n- Cg. Rốt cuộc. Rút cuộc kết quả cuối cùng là: Thảo luận mãi, rút cục vẫn chưa thông."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút cục\n-In the end, at last\n=Thảo luận mãi, rút cục vẫn không thông.\n+They had a lengthy discussion, but in the end they were not convinced"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút cục\n- In the end, at last\n=Thảo luận mãi, rút cục vẫn không thông.+They had a lengthy discussion, but in the end they were not convinced"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "in the end, at last"
+      }
+    ]
+  },
+  {
+    "word": "rút giấy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-paper draw"
+      }
+    ]
+  },
+  {
+    "word": "rút gọn được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-reducible"
+      }
+    ]
+  },
+  {
+    "word": "rút phép thông công",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút phép thông công\n- Khai trừ một giáo dân ra khỏi Thiên chúa giáo."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút phép thông công [rút phép thông công]\n-to anathematize;  to excommunicate"
+      }
+    ]
+  },
+  {
+    "word": "rút ra (đinh)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pull out"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền hàng loạt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-run\n-run on the banks"
+      }
+    ]
+  },
+  {
+    "word": "rút lại là",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút lại là\n-Boil down tọ\n=Vấn đề thực sự rút lại là một cuộc tranh chấp biên giới\n+The issue really boils down to the border dispute"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút lại là\n- Boil down tọ\n=Vấn đề thực sự rút lại là một cuộc tranh chấp biên giới+The issue really boils down to the border dispute"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "boil down to"
       }
     ]
   },
@@ -419,6 +766,54 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "battered, deformed"
+      }
+    ]
+  },
+  {
+    "word": "rút khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-evacuate\n@Chuyên ngành kỹ thuật\n-air exhaust\n-deaerate\n-evacuate\n-evacuation"
+      }
+    ]
+  },
+  {
+    "word": "rút ngắn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút ngắn\n- đgt Bớt đi: Rút ngắn thời gian; Rút ngắn bài phát biểu; Rút ngắn nhiệm kì."
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút ngắn\n*verb\n-to abridge; to curtail\n@Chuyên ngành kỹ thuật\n-abbreviate\n-contract\n-contractive\n-curtail\n-curtate\n-decrease\n-diminish\n-lessen\n-shorten\n-shortening\n-truncate"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút ngắn\n* verb\n- to abridge; to curtail"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to abridge, curtail"
+      }
+    ]
+  },
+  {
+    "word": "rút lệnh chú ý ( lệnh modem )",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện tử & viễn thông\n-Attention Hang-Up (Modem command) (ATH)"
+      }
+    ]
+  },
+  {
+    "word": "rút khuôn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-draw"
       }
     ]
   },
@@ -456,512 +851,33 @@
     ]
   },
   {
-    "word": "rút thăm thiên vị",
+    "word": "rút nhiệt nhân tạo",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-weighted ballot"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-artificial hypothermia"
       }
     ]
   },
   {
-    "word": "rút chặn",
+    "word": "rút xương",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unstop"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền gửi trước kỳ hạn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-break a deposit (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền linh hoạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-flexible-drawdown"
-      }
-    ]
-  },
-  {
-    "word": "rút phích cắm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-unplug"
-      }
-    ]
-  },
-  {
-    "word": "rúm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ở trạng thái bị thu nhỏ và méo mó, biến dạng đi\nVí dụ:\n- chân tay co rúm \n - rúm người lại vì sợ"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rúm\n-Shrivelled"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rúm\n- Shrivelled"
+        "dict_definition": "@rút xương [rút xương]\n-to bone"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "shriveled"
+        "dict_definition": "to bone"
       }
     ]
   },
   {
-    "word": "rút có hoàn lại",
+    "word": "rú ga (động cơ)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-drawing with replacement"
-      }
-    ]
-  },
-  {
-    "word": "rút súng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to draw or pull out a gun"
-      }
-    ]
-  },
-  {
-    "word": "rúng động",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rung chuyển, rung động\nVí dụ:\n- bom nổ làm rúng động cả toà nhà"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền bằng chi phiếu khống",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-kiting"
-      }
-    ]
-  },
-  {
-    "word": "rút tỉa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút tỉa\n-Draw\n=Rút tỉa kinh nghiệm\n+To draw experience"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút tỉa\n- Draw\n=Rút tỉa kinh nghiệm+To draw experience"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to draw a conclusion; to extract the essence of sth"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền lén",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-phantom withdrawal"
-      }
-    ]
-  },
-  {
-    "word": "rút mủ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút mủ\n-(y học) Drain"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút mủ\n- (y học) Drain"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to drain"
-      }
-    ]
-  },
-  {
-    "word": "rú lên một tiếng",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to shout, let out a shout"
-      }
-    ]
-  },
-  {
-    "word": "rút ngắn giờ làm việc",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-reduction of working hours"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền tự động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-automatic withdrawal"
-      }
-    ]
-  },
-  {
-    "word": "rúp",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rúp\n-Rouble"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rúp\n- Rouble"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "ruble (unit of currency)"
-      }
-    ]
-  },
-  {
-    "word": "rút (bài)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-draw"
-      }
-    ]
-  },
-  {
-    "word": "rút lại (giá chào)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-withdraw"
-      }
-    ]
-  },
-  {
-    "word": "rú rí",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rú rí\n- Nói khe khẽ với nhau về những điều thích thú: Rú rí chuyện lan man suốt đêm."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rú rí\n-(ít dùng) Coo\n=Rú rí chuyện tâm sự suốt đêm\n+To coo confidences to one another all through the night"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rú rí\n- (ít dùng) Coo\n=Rú rí chuyện tâm sự suốt đêm+To coo confidences to one another all through the night"
-      }
-    ]
-  },
-  {
-    "word": "rút gọn",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "làm cho có hình thức ngắn gọn, đơn giản hơn\nVí dụ:\n- tôi rút gọn câu chuyện còn một nửa \n - rút gọn bản báo cáo \n - rút gọn phân số"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút gọn\n-(toán) Reduce\n=Rút gọn một phân số\n+To reduce a fraction\n@Chuyên ngành kỹ thuật\n-abbreviate\n-abridge\n-contractor\n-reduce\n-simplify"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút gọn\n- (toán) Reduce\n=Rút gọn một phân số+To reduce a fraction"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền mặt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cash drawing"
-      }
-    ]
-  },
-  {
-    "word": "rút lấy doanh số",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cannibalize"
-      }
-    ]
-  },
-  {
-    "word": "rút lui",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rời bỏ vị trí, trở về phía sau\nVí dụ:\n- quân địch rút lui khỏi trận địa"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rút về, thôi không đưa ra nữa, không tham gia nữa\nVí dụ:\n- xin rút lui, không tham gia ứng cử nữa \n - tuyên bố rút lui khỏi đội tuyển \n - rút lui ý kiến"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút lui\n- đgt Bỏ một vị trí cũ trở về phía sau: Bị đánh mạnh, quân địch phải rút lui. 2. Không tiếp tục nữa: Trước lí lẽ sắc bén của ông ấy anh ta phải rút lui ý kiến."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút lui\n*verb\n-to stand down; to withdraw\n@Chuyên ngành kinh tế\n-retirement"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút lui\n* verb\n- to stand down; to withdraw"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pull out, step back, withdraw, stand down; withdrawal"
-      }
-    ]
-  },
-  {
-    "word": "rút vào thế thủ",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to tighten up, pull back, make more conservative"
-      }
-    ]
-  },
-  {
-    "word": "rút được",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-collapsible"
-      }
-    ]
-  },
-  {
-    "word": "rút chạy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút chạy\n-Withdraw and take [to] flight"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút chạy\n- Withdraw and take [to] flight"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "withdraw and take flight"
-      }
-    ]
-  },
-  {
-    "word": "rút quá số tiền gửi (ngân hàng)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-over draw\n-overdrawer"
-      }
-    ]
-  },
-  {
-    "word": "rút quá nhiều",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overdraw"
-      }
-    ]
-  },
-  {
-    "word": "rút gọn (~phím)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-shortcut"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền ồ ạt",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-bank run"
-      }
-    ]
-  },
-  {
-    "word": "rút ngắn lại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-abbreviated"
-      }
-    ]
-  },
-  {
-    "word": "rút rát",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhút nhát"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút rát\n- Nh. Nhút nhát."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút rát\n-xem nhút nhát"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút rát\n- xem nhút nhát"
-      }
-    ]
-  },
-  {
-    "word": "rút ra (đinh)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-pull out"
-      }
-    ]
-  },
-  {
-    "word": "rút ra từ dạng dao động",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-in term of vibration modes"
-      }
-    ]
-  },
-  {
-    "word": "rút khỏi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-back out\n-contracting out"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to withdraw from, unsubscribe"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-withdrawal"
-      }
-    ]
-  },
-  {
-    "word": "rút khí",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-evacuate\n@Chuyên ngành kỹ thuật\n-air exhaust\n-deaerate\n-evacuate\n-evacuation"
-      }
-    ]
-  },
-  {
-    "word": "rút ruột",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lấy hết phần có giá trị bên trong"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "[người chịu trách nhiệm và trực tiếp thực hiện công việc] rút bớt tiền hoặc tài sản của công để làm của riêng\nVí dụ:\n- rút ruột công trình xây dựng \n - rút ruột công ti"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút ruột\n- Lấy từ giữa, từ trong lõi ra: Rút ruột một cuộn len. Rút ruột tằm. Cố gắng quá mức đưa những gì mình có ở trong lòng ra ngoài."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút ruột\n-Draw from the centre\n=Rút ruột một cuộn len\n+To draw a yarn of wool from the centre of the ball\n-Overexert oneself\n=Rút ruột ra mà làm\n+To overexert oneself in doing something\n-Worm, squeeze money out"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút ruột\n- Draw from the centre\n=Rút ruột một cuộn len+To draw a yarn of wool from the centre of the ball\n-Overexert oneself\n=Rút ruột ra mà làm+To overexert oneself in doing something\n-Worm, squeeze money out"
-      }
-    ]
-  },
-  {
-    "word": "rút lui an toàn",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "covered retreat"
-      }
-    ]
-  },
-  {
-    "word": "rúc",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "chui vào chỗ hẹp hoặc kín\nVí dụ:\n- con chó rúc vào bụi cây \n - bé rúc vào lòng mẹ"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "dùng mỏ hoặc mõm để mò, rỉa thức ăn\nVí dụ:\n- vịt rúc xuống bùn \n - lợn rúc vào cái máng"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "kêu to và thành hồi dài\nVí dụ:\n- tiếng còi tàu rúc lên inh ỏi"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rúc\n- đg. 1. Chui vào chỗ hẹp : Rệp rúc khe giường. 2. Cg. Rúc rỉa. Mò bằng mỏ : Vịt rúc ốc.\n- đg. Kêu từng hồi dài : Còi rúc."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rúc\n*verb\n-to peck; to strike with the beak*verb\n-to hoot; to toot\n=rúc còi\n+to toot a horn*verb\n-to put (one\"s head) into something"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rúc\n* verb\n- to peck; to strike with the beak\n* verb\n- to hoot; to toot\n=rúc còi+to toot a horn\n* verb\n- to put (one's head) into something"
-      }
-    ]
-  },
-  {
-    "word": "rút đơn kiện",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to drop a (criminal) charge"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-rev up"
       }
     ]
   },
@@ -983,127 +899,11 @@
     ]
   },
   {
-    "word": "rún",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem nhún\nVí dụ:\n- rún chân nhảy qua mương"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "see rốn"
-      }
-    ]
-  },
-  {
-    "word": "rú ga (động cơ)",
+    "word": "rút gọn (phân số)",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-rev up"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền gửi",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-drawing"
-      }
-    ]
-  },
-  {
-    "word": "rút tiền",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "lấy ra một phần hay toàn bộ số tiền đã gửi ở một quỹ nào đó\nVí dụ:\n- anh ấy sẽ rút tiền ở ngân hàng \n -  rút tiền tiết kiệm"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-drawing"
-      }
-    ]
-  },
-  {
-    "word": "rút nhiệt nhân tạo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: điện lạnh\n-artificial hypothermia"
-      }
-    ]
-  },
-  {
-    "word": "rút gọn, đơn giản",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simplify"
-      }
-    ]
-  },
-  {
-    "word": "rút gọn một phân số (thức)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simplify a fraction"
-      }
-    ]
-  },
-  {
-    "word": "rút khuôn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-draw"
-      }
-    ]
-  },
-  {
-    "word": "rú lên",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to shout, yell, scream, sound (alarm)"
-      }
-    ]
-  },
-  {
-    "word": "rút xuống",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to recede"
-      }
-    ]
-  },
-  {
-    "word": "rút lui (khỏi một giao dịch có rủi ro...)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-cash in (to ...)"
-      }
-    ]
-  },
-  {
-    "word": "rút ra khỏi giếng (cả cần và ống khai thác)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-strip out"
-      }
-    ]
-  },
-  {
-    "word": "rút ra khỏi",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to remove from, pull out of"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reduce"
       }
     ]
   },
@@ -1117,11 +917,45 @@
     ]
   },
   {
-    "word": "rút lại sự chống đối",
+    "word": "rút, nạp chậm",
     "definitions": [
       {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-admission lag"
+      }
+    ]
+  },
+  {
+    "word": "rút bớt",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút bớt\n-Diminish, reduce"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút bớt\n- Diminish, reduce"
+      },
+      {
         "dict_name": "VNEDICT",
-        "dict_definition": "to withdraw one’s opposition"
+        "dict_definition": "diminish, reduce"
+      }
+    ]
+  },
+  {
+    "word": "rút gọn",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "làm cho có hình thức ngắn gọn, đơn giản hơn\nVí dụ:\n- tôi rút gọn câu chuyện còn một nửa \n - rút gọn bản báo cáo \n - rút gọn phân số"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút gọn\n-(toán) Reduce\n=Rút gọn một phân số\n+To reduce a fraction\n@Chuyên ngành kỹ thuật\n-abbreviate\n-abridge\n-contractor\n-reduce\n-simplify"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút gọn\n- (toán) Reduce\n=Rút gọn một phân số+To reduce a fraction"
       }
     ]
   },
@@ -1151,123 +985,228 @@
     ]
   },
   {
-    "word": "rút ngắn",
+    "word": "rút tiền quá mức",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút ngắn\n- đgt Bớt đi: Rút ngắn thời gian; Rút ngắn bài phát biểu; Rút ngắn nhiệm kì."
-      },
-      {
         "dict_name": "SPDict",
-        "dict_definition": "@rút ngắn\n*verb\n-to abridge; to curtail\n@Chuyên ngành kỹ thuật\n-abbreviate\n-contract\n-contractive\n-curtail\n-curtate\n-decrease\n-diminish\n-lessen\n-shorten\n-shortening\n-truncate"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rút ngắn\n* verb\n- to abridge; to curtail"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to abridge, curtail"
+        "dict_definition": "@Chuyên ngành kinh tế\n-overdraw"
       }
     ]
   },
   {
-    "word": "rút chốt điện ra",
+    "word": "rút tỉa",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-unplug"
-      }
-    ]
-  },
-  {
-    "word": "rút ra",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-abstract\n-take out\n@Chuyên ngành kỹ thuật\n-abstract\n-branch off\n-cull\n-derive\n-draw\n-draw out\n-drawing\n-eduction\n-outlet\n-pull\n-roll out\n-stretch\n-to knock out\n-withdraw\n@Lĩnh vực: toán & tin\n-to demount\n-to detach\n-to dismantle\n-to take something away"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to pull out, be derived"
-      }
-    ]
-  },
-  {
-    "word": "rút phép thông công",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rút phép thông công\n- Khai trừ một giáo dân ra khỏi Thiên chúa giáo."
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rút phép thông công [rút phép thông công]\n-to anathematize;  to excommunicate"
-      }
-    ]
-  },
-  {
-    "word": "rút lại lời kiện",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "to drop charges, a lawsuit"
-      }
-    ]
-  },
-  {
-    "word": "rút ra thuật ngữ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-extraction of terms"
-      }
-    ]
-  },
-  {
-    "word": "rúc đầu",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@rúc đầu\n-(xấu) Slip one\"s head in"
+        "dict_definition": "@rút tỉa\n-Draw\n=Rút tỉa kinh nghiệm\n+To draw experience"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rúc đầu\n- (xấu) Slip one's head in"
+        "dict_definition": "@rút tỉa\n- Draw\n=Rút tỉa kinh nghiệm+To draw experience"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "slip one’s head in"
+        "dict_definition": "to draw a conclusion; to extract the essence of sth"
       }
     ]
   },
   {
-    "word": "rút bớt ngân sách",
+    "word": "rút bỏ gỗ chống hầm lò",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-budgetary reduction"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-drawing back the pillars"
       }
     ]
   },
   {
-    "word": "rúc rích",
+    "word": "rút được kinh nghiệm vụ trước",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to draw from previous experience"
+      }
+    ]
+  },
+  {
+    "word": "rút tiền",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ mô phỏng tiếng cùng cười với nhau nhỏ nhưng đầy vẻ thích thú\nVí dụ:\n- cười rúc rích"
-      },
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@rúc rích\n- Nói nhiều người cười đùa khe khẽ với nhau: Rúc rích trong chăn."
+        "dict_definition": "lấy ra một phần hay toàn bộ số tiền đã gửi ở một quỹ nào đó\nVí dụ:\n- anh ấy sẽ rút tiền ở ngân hàng \n -  rút tiền tiết kiệm"
       },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@rúc rích\n-Biggle\n=Trẻ con rúc rích trong giường\n+The children were giggling in their bed\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-giggle"
+        "dict_definition": "@Chuyên ngành kinh tế\n-drawing"
+      }
+    ]
+  },
+  {
+    "word": "rúp",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rúp\n-Rouble"
       },
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@rúc rích\n- Biggle\n=Trẻ con rúc rích trong giường+The children were giggling in their bed"
+        "dict_definition": "@rúp\n- Rouble"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "ruble (unit of currency)"
+      }
+    ]
+  },
+  {
+    "word": "rút vào thế thủ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to tighten up, pull back, make more conservative"
+      }
+    ]
+  },
+  {
+    "word": "rút quá nhiều",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-overdraw"
+      }
+    ]
+  },
+  {
+    "word": "rút không khí",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-deaerate"
+      }
+    ]
+  },
+  {
+    "word": "rút phích cắm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-unplug"
+      }
+    ]
+  },
+  {
+    "word": "rút ra được",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-extractible"
+      }
+    ]
+  },
+  {
+    "word": "rút lui (khỏi một giao dịch có rủi ro...)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cash in (to ...)"
+      }
+    ]
+  },
+  {
+    "word": "rút về",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-retire\n-retirement\n-withdraw\n@Chuyên ngành kỹ thuật\n-reduce\n-reduce to\n-refer to"
+      }
+    ]
+  },
+  {
+    "word": "rút gọn (~phím)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-shortcut"
+      }
+    ]
+  },
+  {
+    "word": "rút gọn một phân số (thức)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simplify a fraction"
+      }
+    ]
+  },
+  {
+    "word": "rút dần",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-amortization"
+      }
+    ]
+  },
+  {
+    "word": "rút ra khỏi",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to remove from, pull out of"
+      }
+    ]
+  },
+  {
+    "word": "rút chạy",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@rút chạy\n-Withdraw and take [to] flight"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút chạy\n- Withdraw and take [to] flight"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "withdraw and take flight"
+      }
+    ]
+  },
+  {
+    "word": "rút súng",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to draw or pull out a gun"
+      }
+    ]
+  },
+  {
+    "word": "rút đơn kiện",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "to drop a (criminal) charge"
+      }
+    ]
+  },
+  {
+    "word": "rút kiệt máu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-exsanguinate"
+      }
+    ]
+  },
+  {
+    "word": "rút lấy doanh số",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-cannibalize"
       }
     ]
   },
@@ -1285,38 +1224,99 @@
     ]
   },
   {
-    "word": "rút đi",
+    "word": "rút tiền lén",
     "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-phantom withdrawal"
+      }
+    ]
+  },
+  {
+    "word": "rút gọn, đơn giản",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-simplify"
+      }
+    ]
+  },
+  {
+    "word": "rút thăm thiên vị",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-weighted ballot"
+      }
+    ]
+  },
+  {
+    "word": "rút ngắn giờ làm việc",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-reduction of working hours"
+      }
+    ]
+  },
+  {
+    "word": "rút khỏi doanh trường",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-go out (of business)"
+      }
+    ]
+  },
+  {
+    "word": "rút gọn một biểu thức",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-reduction of an expression"
+      }
+    ]
+  },
+  {
+    "word": "rún",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nhún\nVí dụ:\n- rún chân nhảy qua mương"
+      },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "to pull out, receed"
+        "dict_definition": "see rốn"
       }
     ]
   },
   {
-    "word": "rút chân không",
+    "word": "rút có hoàn lại",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-evacuation"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-drawing with replacement"
       }
     ]
   },
   {
-    "word": "rút gọn được",
+    "word": "rút rát",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-reducible"
-      }
-    ]
-  },
-  {
-    "word": "rúp pê (piston)",
-    "definitions": [
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem nhút nhát"
+      },
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@rút rát\n- Nh. Nhút nhát."
+      },
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: ô tô\n-seize"
+        "dict_definition": "@rút rát\n-xem nhút nhát"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@rút rát\n- xem nhút nhát"
       }
     ]
   }

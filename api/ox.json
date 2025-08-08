@@ -1,10 +1,19 @@
 [
   {
-    "word": "oxein",
+    "word": "oxibitum",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ossein"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxy-bitumen"
+      }
+    ]
+  },
+  {
+    "word": "oxilit",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxylith"
       }
     ]
   },
@@ -27,6 +36,69 @@
     ]
   },
   {
+    "word": "oxytetraxilin",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-terranmycin"
+      }
+    ]
+  },
+  {
+    "word": "oxyhro (khí nổ)",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxyhydrogen"
+      }
+    ]
+  },
+  {
+    "word": "oxygen",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "khí không màu, không mùi, chiếm một phần năm thể tích của không khí, hoá hợp được với nhiều chất khác, cần cho sự hô hấp, sự cháy"
+      }
+    ]
+  },
+  {
+    "word": "oxiaxetilen",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxyacetylene"
+      }
+    ]
+  },
+  {
+    "word": "oxoxabinan",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxosabinane"
+      }
+    ]
+  },
+  {
+    "word": "oxi",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxygen"
+      }
+    ]
+  },
+  {
+    "word": "oxide",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hợp chất của một nguyên tố với oxygen"
+      }
+    ]
+  },
+  {
     "word": "oxalate niệu",
     "definitions": [
       {
@@ -45,11 +117,11 @@
     ]
   },
   {
-    "word": "oxi",
+    "word": "oxiaxit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxygen"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxyacid"
       }
     ]
   },
@@ -63,78 +135,6 @@
     ]
   },
   {
-    "word": "oxide",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hợp chất của một nguyên tố với oxygen"
-      }
-    ]
-  },
-  {
-    "word": "oxiaxit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxyacid"
-      }
-    ]
-  },
-  {
-    "word": "oxyhro (khí nổ)",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxyhydrogen"
-      }
-    ]
-  },
-  {
-    "word": "oxiaxetilen",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-oxyacetylene"
-      }
-    ]
-  },
-  {
-    "word": "oxibitum",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxy-bitumen"
-      }
-    ]
-  },
-  {
-    "word": "oxilit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxylith"
-      }
-    ]
-  },
-  {
-    "word": "oxygen",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "khí không màu, không mùi, chiếm một phần năm thể tích của không khí, hoá hợp được với nhiều chất khác, cần cho sự hô hấp, sự cháy"
-      }
-    ]
-  },
-  {
-    "word": "oxytetraxilin",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-terranmycin"
-      }
-    ]
-  },
-  {
     "word": "oxit",
     "definitions": [
       {
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "word": "oxoxabinan",
+    "word": "oxein",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-oxosabinane"
+        "dict_definition": "@Chuyên ngành kinh tế\n-ossein"
       }
     ]
   }

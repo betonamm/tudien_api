@@ -1,37 +1,10 @@
 [
   {
-    "word": "gơtit",
+    "word": "gơnai dạng mắt",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-goethite"
-      }
-    ]
-  },
-  {
-    "word": "gơnai dạng lá",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-leaf gneiss"
-      }
-    ]
-  },
-  {
-    "word": "gơ-lar",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@Gơ-lar\n- Tên gọi một nhóm nhỏ của dân tộc Ba Na"
-      }
-    ]
-  },
-  {
-    "word": "gơnai nền móng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fundamental gneiss"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-eye-gneiss"
       }
     ]
   },
@@ -57,38 +30,38 @@
     ]
   },
   {
-    "word": "gơnai nguyên sinh",
+    "word": "gơnai mạch",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-primary gneiss\n@Lĩnh vực: cơ khí & công trình\n-protogenic gneiss"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vein gneiss"
       }
     ]
   },
   {
-    "word": "gơnai dạng mắt",
+    "word": "gơtit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-eye-gneiss"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: xây dựng\n-goethite"
       }
     ]
   },
   {
-    "word": "gơnai cơ sở",
+    "word": "gơmelinit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n-fundamental gneiss\n@Lĩnh vực: hóa học & vật liệu\n-primary gneiss"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gmelinite"
       }
     ]
   },
   {
-    "word": "gơnai pelit",
+    "word": "gơnai nền móng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pelitic gneiss"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-fundamental gneiss"
       }
     ]
   },
@@ -102,11 +75,11 @@
     ]
   },
   {
-    "word": "gơnai phân dải",
+    "word": "gơ-lar",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-banded gneiss"
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@Gơ-lar\n- Tên gọi một nhóm nhỏ của dân tộc Ba Na"
       }
     ]
   },
@@ -129,11 +102,11 @@
     ]
   },
   {
-    "word": "gơnai mạch",
+    "word": "gơnai phức hợp",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-vein gneiss"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-composite gneiss"
       }
     ]
   },
@@ -147,6 +120,42 @@
     ]
   },
   {
+    "word": "gơnai phân dải",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: cơ khí & công trình\n-banded gneiss"
+      }
+    ]
+  },
+  {
+    "word": "gơnai dạng lá",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-leaf gneiss"
+      }
+    ]
+  },
+  {
+    "word": "gơnai nguyên sinh",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-primary gneiss\n@Lĩnh vực: cơ khí & công trình\n-protogenic gneiss"
+      }
+    ]
+  },
+  {
+    "word": "gơnai cơ sở",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n-fundamental gneiss\n@Lĩnh vực: hóa học & vật liệu\n-primary gneiss"
+      }
+    ]
+  },
+  {
     "word": "gơnai",
     "definitions": [
       {
@@ -156,20 +165,11 @@
     ]
   },
   {
-    "word": "gơnai phức hợp",
+    "word": "gơnai pelit",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-composite gneiss"
-      }
-    ]
-  },
-  {
-    "word": "gơmelinit",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-gmelinite"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-pelitic gneiss"
       }
     ]
   }

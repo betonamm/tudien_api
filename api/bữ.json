@@ -1,23 +1,63 @@
 [
   {
-    "word": "bữa ăn",
+    "word": "bữa giỗ",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bữa ăn [bữa ăn]\n-repast;  dinner;   meal\n@Chuyên ngành kinh tế\n-dinner\n-meal\n-repast\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-meal"
+        "dict_definition": "@bữa giỗ [bữa giỗ]\n*danh từ\n-anniversary of death, memorial day"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "meal"
+        "dict_definition": "anniversary of death, memorial day"
       }
     ]
   },
   {
-    "word": "bữa huân",
+    "word": "bữa tiệc chia tay",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
-        "dict_definition": "@bữa huân\n- bữa cơm sang trọng"
+        "dict_name": "VNEDICT",
+        "dict_definition": "going away party"
+      }
+    ]
+  },
+  {
+    "word": "bữa nọ",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "the other day"
+      }
+    ]
+  },
+  {
+    "word": "bữa ăn thử nghiệm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-test meal"
+      }
+    ]
+  },
+  {
+    "word": "bữa cổ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bữa cổ\n-Feast\n=Bữa cổ cưới\n+A wedding feast"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@bữa cổ\n- Feast\n=Bữa cổ cưới+A wedding feast"
+      }
+    ]
+  },
+  {
+    "word": "bữa ăn trưa bàn việc làm ăn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-business lunch"
       }
     ]
   },
@@ -31,24 +71,11 @@
     ]
   },
   {
-    "word": "bữa nay",
+    "word": "bữa trà mặn",
     "definitions": [
       {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hôm nay\nVí dụ:\n- bữa nay không xong thì để bữa mai"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "today"
-      }
-    ]
-  },
-  {
-    "word": "bữa ăn chiều",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dinner, supper, evening meal"
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-high tea"
       }
     ]
   },
@@ -70,6 +97,152 @@
     ]
   },
   {
+    "word": "bữa ăn lưu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retention meal"
+      }
+    ]
+  },
+  {
+    "word": "bữa ăn nấu sẵn",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-ready-cooked dinner"
+      }
+    ]
+  },
+  {
+    "word": "bữa ăn trưa",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-lunch"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lunch, midday meal"
+      }
+    ]
+  },
+  {
+    "word": "bữa ăn sáng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-breakfast"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "breakfast"
+      }
+    ]
+  },
+  {
+    "word": "bữa chiều",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "afternoon meal"
+      }
+    ]
+  },
+  {
+    "word": "bữa cỗ",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bữa cỗ [bữa cỗ]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "bữa hổm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bữa hổm [bữa hổm]\n-xem"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "that day"
+      }
+    ]
+  },
+  {
+    "word": "bữa mốt",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "day after tomorrow"
+      }
+    ]
+  },
+  {
+    "word": "bữa cơm dưa muối",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "a meal with poor foods, a meager meal"
+      }
+    ]
+  },
+  {
+    "word": "bữa ni",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "bữa nay"
+      }
+    ]
+  },
+  {
+    "word": "bữa ăn không mất tiền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-free lunch"
+      }
+    ]
+  },
+  {
+    "word": "bữa trưa",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "lunch"
+      }
+    ]
+  },
+  {
+    "word": "bữa cơm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bữa cơm [bữa cơm]\n-meal"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "meal"
+      }
+    ]
+  },
+  {
+    "word": "bữa sớm",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bữa sớm [bữa sớm]\n-early in the morning; this morning"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "early in the morning, this morning"
+      }
+    ]
+  },
+  {
     "word": "bữa sáng",
     "definitions": [
       {
@@ -84,6 +257,15 @@
       {
         "dict_name": "SPDict",
         "dict_definition": "@Chuyên ngành kinh tế\n-working lunch"
+      }
+    ]
+  },
+  {
+    "word": "bữa tê",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hôm kia"
       }
     ]
   },
@@ -125,101 +307,12 @@
     ]
   },
   {
-    "word": "bữa ăn trưa bàn việc làm ăn",
+    "word": "bữa trước",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-business lunch"
-      }
-    ]
-  },
-  {
-    "word": "bữa mốt",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "day after tomorrow"
-      }
-    ]
-  },
-  {
-    "word": "bữa chiều",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "afternoon meal"
-      }
-    ]
-  },
-  {
-    "word": "bữa sớm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bữa sớm [bữa sớm]\n-early in the morning; this morning"
+        "dict_definition": "@bữa trước [bữa trước]\n-xem"
       },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "early in the morning, this morning"
-      }
-    ]
-  },
-  {
-    "word": "bữa ăn nấu sẵn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-ready-cooked dinner"
-      }
-    ]
-  },
-  {
-    "word": "bữa ăn trên xe đẩy",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-meals on heels"
-      }
-    ]
-  },
-  {
-    "word": "bữa tê",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hôm kia"
-      }
-    ]
-  },
-  {
-    "word": "bữa giỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bữa giỗ [bữa giỗ]\n*danh từ\n-anniversary of death, memorial day"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "anniversary of death, memorial day"
-      }
-    ]
-  },
-  {
-    "word": "bữa cổ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bữa cổ\n-Feast\n=Bữa cổ cưới\n+A wedding feast"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@bữa cổ\n- Feast\n=Bữa cổ cưới+A wedding feast"
-      }
-    ]
-  },
-  {
-    "word": "bữa nọ",
-    "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "the other day"
@@ -227,15 +320,11 @@
     ]
   },
   {
-    "word": "bữa qua",
+    "word": "bữa mai",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "hôm qua"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "yesterday"
+        "dict_definition": "ngày mai\nVí dụ:\n- việc này bữa mai sẽ xong"
       }
     ]
   },
@@ -257,91 +346,11 @@
     ]
   },
   {
-    "word": "bữa hổm",
+    "word": "bữa ăn",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bữa hổm [bữa hổm]\n-xem"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "that day"
-      }
-    ]
-  },
-  {
-    "word": "bữa trưa",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lunch"
-      }
-    ]
-  },
-  {
-    "word": "bữa tiệc chia tay",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "going away party"
-      }
-    ]
-  },
-  {
-    "word": "bữa ăn thử nghiệm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-test meal"
-      }
-    ]
-  },
-  {
-    "word": "bữa trà mặn",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-high tea"
-      }
-    ]
-  },
-  {
-    "word": "bữa ăn sáng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-breakfast"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "breakfast"
-      }
-    ]
-  },
-  {
-    "word": "bữa mai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "ngày mai\nVí dụ:\n- việc này bữa mai sẽ xong"
-      }
-    ]
-  },
-  {
-    "word": "bữa ăn không mất tiền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-free lunch"
-      }
-    ]
-  },
-  {
-    "word": "bữa cơm",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bữa cơm [bữa cơm]\n-meal"
+        "dict_definition": "@bữa ăn [bữa ăn]\n-repast;  dinner;   meal\n@Chuyên ngành kinh tế\n-dinner\n-meal\n-repast\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-meal"
       },
       {
         "dict_name": "VNEDICT",
@@ -350,33 +359,15 @@
     ]
   },
   {
-    "word": "bữa ăn trưa",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-lunch"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "lunch, midday meal"
-      }
-    ]
-  },
-  {
-    "word": "bữa cỗ",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bữa cỗ [bữa cỗ]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "bữa ni",
+    "word": "bữa qua",
     "definitions": [
       {
         "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "bữa nay"
+        "dict_definition": "hôm qua"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "yesterday"
       }
     ]
   },
@@ -390,33 +381,42 @@
     ]
   },
   {
-    "word": "bữa trước",
+    "word": "bữa ăn chiều",
     "definitions": [
       {
-        "dict_name": "SPDict",
-        "dict_definition": "@bữa trước [bữa trước]\n-xem"
+        "dict_name": "VNEDICT",
+        "dict_definition": "dinner, supper, evening meal"
+      }
+    ]
+  },
+  {
+    "word": "bữa huân",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt - Hồ Ngọc Đức",
+        "dict_definition": "@bữa huân\n- bữa cơm sang trọng"
+      }
+    ]
+  },
+  {
+    "word": "bữa nay",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "hôm nay\nVí dụ:\n- bữa nay không xong thì để bữa mai"
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "the other day"
+        "dict_definition": "today"
       }
     ]
   },
   {
-    "word": "bữa cơm dưa muối",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "a meal with poor foods, a meager meal"
-      }
-    ]
-  },
-  {
-    "word": "bữa ăn lưu",
+    "word": "bữa ăn trên xe đẩy",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-retention meal"
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-meals on heels"
       }
     ]
   }

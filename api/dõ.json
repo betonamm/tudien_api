@@ -1,10 +1,44 @@
 [
   {
+    "word": "dõng",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "xem dũng"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dõng\n-cũng nói lính dõng Regional (thời thuộc Pháp)"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dõng\n- cũng nói lính dõng Regional (thời thuộc Pháp)"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "(1) regional, (2) see dũng"
+      }
+    ]
+  },
+  {
     "word": "dõng dạc nói",
     "definitions": [
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to say calmly"
+      }
+    ]
+  },
+  {
+    "word": "dõi theo",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dõi theo [dõi theo]\n-follow and search for\n@Chuyên ngành kỹ thuật\n-follow"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "follow and search for"
       }
     ]
   },
@@ -34,27 +68,6 @@
     ]
   },
   {
-    "word": "dõng",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "xem dũng"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dõng\n-cũng nói lính dõng Regional (thời thuộc Pháp)"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dõng\n- cũng nói lính dõng Regional (thời thuộc Pháp)"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "(1) regional, (2) see dũng"
-      }
-    ]
-  },
-  {
     "word": "dõi",
     "definitions": [
       {
@@ -80,19 +93,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "to follow, pursue"
-      }
-    ]
-  },
-  {
-    "word": "dõi theo",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dõi theo [dõi theo]\n-follow and search for\n@Chuyên ngành kỹ thuật\n-follow"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "follow and search for"
       }
     ]
   }

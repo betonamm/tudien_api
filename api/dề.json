@@ -1,5 +1,58 @@
 [
   {
+    "word": "dền",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dền\n-xem giền"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dền\n- xem giền"
+      }
+    ]
+  },
+  {
+    "word": "dền gai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rau dền mọc hoang, thân và cành có gai, thường dùng làm thức ăn cho lợn"
+      }
+    ]
+  },
+  {
+    "word": "dềnh dang",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@dềnh dang\n-(ít dùng) như dềnh dàng"
+      },
+      {
+        "dict_name": "Việt Anh - Hồ Ngọc Đức",
+        "dict_definition": "@dềnh dang\n- (ít dùng) như dềnh dàng"
+      }
+    ]
+  },
+  {
+    "word": "dền cơm",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rau dền mềm, thân và lá màu lục nhạt"
+      }
+    ]
+  },
+  {
+    "word": "dền tía",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "rau dền có thân, cành, lá và hoa đều màu đỏ tía"
+      }
+    ]
+  },
+  {
     "word": "dềnh",
     "definitions": [
       {
@@ -17,24 +70,6 @@
       {
         "dict_name": "Việt Anh - Hồ Ngọc Đức",
         "dict_definition": "@dềnh\n- Overflow\n=Mưa lũ, suối dềnh lên+Because of heavy rains, the spring overflowed\n-Bounce up\n=Gỗ dềnh lên trên gợn sóng+The logs of wood bounced up on the crest of the waves"
-      }
-    ]
-  },
-  {
-    "word": "dền tía",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rau dền có thân, cành, lá và hoa đều màu đỏ tía"
-      }
-    ]
-  },
-  {
-    "word": "dền cơm",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rau dền mềm, thân và lá màu lục nhạt"
       }
     ]
   },
@@ -60,41 +95,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "cumbrously big"
-      }
-    ]
-  },
-  {
-    "word": "dền gai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "rau dền mọc hoang, thân và cành có gai, thường dùng làm thức ăn cho lợn"
-      }
-    ]
-  },
-  {
-    "word": "dền",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dền\n-xem giền"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dền\n- xem giền"
-      }
-    ]
-  },
-  {
-    "word": "dềnh dang",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@dềnh dang\n-(ít dùng) như dềnh dàng"
-      },
-      {
-        "dict_name": "Việt Anh - Hồ Ngọc Đức",
-        "dict_definition": "@dềnh dang\n- (ít dùng) như dềnh dàng"
       }
     ]
   }

@@ -1,5 +1,62 @@
 [
   {
+    "word": "bởi vậy",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "như vì vậy\nVí dụ:\n- không đi học, bởi vậy mới không hiểu bài"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bởi vậy [bởi vậy]\n-xem"
+      }
+    ]
+  },
+  {
+    "word": "bởi vì",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "từ biểu thị điều sắp nêu ra là lí do hoặc nguyên nhân giải thích việc được nói đến\nVí dụ:\n- bởi vì trời mưa nên không đi được \n - làm sai bởi vì không biết"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bởi vì [bởi vì]\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-by reason of\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-by reason of"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "because"
+      }
+    ]
+  },
+  {
+    "word": "bởi nhiều lý do",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "for many reasons"
+      }
+    ]
+  },
+  {
+    "word": "bởi lẽ đó",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "therefore, that’s why, for that reason"
+      }
+    ]
+  },
+  {
+    "word": "bởi đàu",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "why"
+      }
+    ]
+  },
+  {
     "word": "bởi thế",
     "definitions": [
       {
@@ -25,80 +82,11 @@
     ]
   },
   {
-    "word": "bởi đàu",
+    "word": "bởi lẽ ấy",
     "definitions": [
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "why"
-      }
-    ]
-  },
-  {
-    "word": "bở vía",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "không còn hồn vía; mất hết tinh thần vì quá sợ hãi\nVí dụ:\n- sợ bở vía \n - bị một phen bở vía"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bở vía [bở vía]\n-(khẩu ngữ) out of one\"s wits; scared out of one\"s wits"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "out of one’s wits, scared out of one’s wits"
-      }
-    ]
-  },
-  {
-    "word": "bở hơi tai",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "mệt đến mức như hơi ra cả ở tai\nVí dụ:\n- mệt bở hơi tai \n - làm bở hơi tai vẫn không xong"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bở hơi tai [bở hơi tai]\n-dog-tired"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "dog-tired"
-      }
-    ]
-  },
-  {
-    "word": "bởi vậy",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "như vì vậy\nVí dụ:\n- không đi học, bởi vậy mới không hiểu bài"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bởi vậy [bởi vậy]\n-xem"
-      }
-    ]
-  },
-  {
-    "word": "bở rời",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-friable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-friable"
-      }
-    ]
-  },
-  {
-    "word": "bởi tại",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bởi tại [bởi tại]\n-because, since"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "because, since"
+        "dict_definition": "therefore, that’s why, for that reason"
       }
     ]
   },
@@ -116,15 +104,15 @@
     ]
   },
   {
-    "word": "bởi đâu",
+    "word": "bởi chưng",
     "definitions": [
       {
         "dict_name": "SPDict",
-        "dict_definition": "@bởi đâu [bởi đâu]\n-For what reason? why?"
+        "dict_definition": "@bởi chưng [bởi chưng]\n-(từ cũ, nghĩa cũ) Because; as."
       },
       {
         "dict_name": "VNEDICT",
-        "dict_definition": "for what reason? why?"
+        "dict_definition": "because, as"
       }
     ]
   },
@@ -154,6 +142,93 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "because of, on account of, by (means of)"
+      }
+    ]
+  },
+  {
+    "word": "bở vía",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "không còn hồn vía; mất hết tinh thần vì quá sợ hãi\nVí dụ:\n- sợ bở vía \n - bị một phen bở vía"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bở vía [bở vía]\n-(khẩu ngữ) out of one\"s wits; scared out of one\"s wits"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "out of one’s wits, scared out of one’s wits"
+      }
+    ]
+  },
+  {
+    "word": "bở rời",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-friable\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-friable"
+      }
+    ]
+  },
+  {
+    "word": "bở hơi tai",
+    "definitions": [
+      {
+        "dict_name": "Từ điển Tiếng Việt thông dụng",
+        "dict_definition": "mệt đến mức như hơi ra cả ở tai\nVí dụ:\n- mệt bở hơi tai \n - làm bở hơi tai vẫn không xong"
+      },
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bở hơi tai [bở hơi tai]\n-dog-tired"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "dog-tired"
+      }
+    ]
+  },
+  {
+    "word": "bởi sao",
+    "definitions": [
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "why"
+      }
+    ]
+  },
+  {
+    "word": "bởi vì, xét rằng",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@Chuyên ngành kinh tế\n-whereas"
+      }
+    ]
+  },
+  {
+    "word": "bởi đâu",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bởi đâu [bởi đâu]\n-For what reason? why?"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "for what reason? why?"
+      }
+    ]
+  },
+  {
+    "word": "bởi tại",
+    "definitions": [
+      {
+        "dict_name": "SPDict",
+        "dict_definition": "@bởi tại [bởi tại]\n-because, since"
+      },
+      {
+        "dict_name": "VNEDICT",
+        "dict_definition": "because, since"
       }
     ]
   },
@@ -191,81 +266,6 @@
       {
         "dict_name": "VNEDICT",
         "dict_definition": "(1) crumbly; (2) gainful, profitable"
-      }
-    ]
-  },
-  {
-    "word": "bởi vì",
-    "definitions": [
-      {
-        "dict_name": "Từ điển Tiếng Việt thông dụng",
-        "dict_definition": "từ biểu thị điều sắp nêu ra là lí do hoặc nguyên nhân giải thích việc được nói đến\nVí dụ:\n- bởi vì trời mưa nên không đi được \n - làm sai bởi vì không biết"
-      },
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bởi vì [bởi vì]\n-xem\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-by reason of\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: toán & tin\n-by reason of"
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "because"
-      }
-    ]
-  },
-  {
-    "word": "bởi chưng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@bởi chưng [bởi chưng]\n-(từ cũ, nghĩa cũ) Because; as."
-      },
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "because, as"
-      }
-    ]
-  },
-  {
-    "word": "bởi lẽ ấy",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "therefore, that’s why, for that reason"
-      }
-    ]
-  },
-  {
-    "word": "bởi vì, xét rằng",
-    "definitions": [
-      {
-        "dict_name": "SPDict",
-        "dict_definition": "@Chuyên ngành kinh tế\n-whereas"
-      }
-    ]
-  },
-  {
-    "word": "bởi lẽ đó",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "therefore, that’s why, for that reason"
-      }
-    ]
-  },
-  {
-    "word": "bởi nhiều lý do",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "for many reasons"
-      }
-    ]
-  },
-  {
-    "word": "bởi sao",
-    "definitions": [
-      {
-        "dict_name": "VNEDICT",
-        "dict_definition": "why"
       }
     ]
   }
